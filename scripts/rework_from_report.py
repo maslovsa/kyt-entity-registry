@@ -136,7 +136,8 @@ def _apply_suggestion(row: Row, png: bytes, dry_run: bool) -> str:
         public.write_bytes(png)
 
     row.set("logo_status", "manual")
-    row.set("logo_updated_at", dt.datetime.now(dt.UTC).date().isoformat())
+    # dt.timezone.utc works on 3.8+; dt.UTC is a 3.11+ alias.
+    row.set("logo_updated_at", dt.datetime.now(dt.timezone.utc).date().isoformat())
     row.set("logo_hash", new_hash)
     row.set("manual_lock", write_bool(True))
     rel = public.relative_to(LOGOS_DIR.parent)

@@ -68,7 +68,8 @@ _DEFILLAMA_CATEGORIES = frozenset({"defi", "dex", "bridge"})
 
 
 def _today() -> str:
-    return dt.datetime.now(dt.UTC).date().isoformat()
+    # dt.timezone.utc works on 3.8+; dt.UTC is a 3.11+ alias.
+    return dt.datetime.now(dt.timezone.utc).date().isoformat()
 
 
 def _is_fresh(row: Row) -> bool:

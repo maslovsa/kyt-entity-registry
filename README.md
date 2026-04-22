@@ -141,16 +141,24 @@ Two actions per card:
 walks the CSV and takes one of four per-row actions.
 
 ```bash
-# Dry-run first — shows the plan, writes nothing.
-python scripts/rework_from_report.py path/to/kyt-registry-rework-YYYY-MM-DD.csv
+# One-time setup (Python 3.8+).
+python3 -m pip install -r requirements.txt
 
-# Then apply. Writes logos, updates entities.csv.
-python scripts/rework_from_report.py path/to/kyt-registry-rework-YYYY-MM-DD.csv --apply
+# Dry-run — shows the plan, writes nothing.
+python3 scripts/rework_from_report.py path/to/kyt-registry-rework-YYYY-MM-DD.csv
+
+# Apply. Writes logos, updates entities.csv.
+python3 scripts/rework_from_report.py path/to/kyt-registry-rework-YYYY-MM-DD.csv --apply
 
 # Commit the result.
 git add entities.csv logos/
 git commit -m "rework: apply N suggestions from <report>"
 ```
+
+Run it from the repo root — the script resolves paths relative to
+`scripts/` automatically, and the CSV path can be absolute or
+relative. Works on CPython 3.8 through 3.13. Pillow 10 is pulled
+automatically on 3.8 since Pillow 11 dropped that line.
 
 Decision table:
 
