@@ -391,14 +391,16 @@ function renderCard(row) {
     uploadBtn.textContent = 'Processing...';
     try {
       const { dataUrl, bytes } = await normaliseToPng(file);
-      // Attaching a suggestion implicitly flags the row with
-      // reason=user_provided unless the reviewer already picked a
-      // more specific problem reason. Reason is set ONLY when the
-      // upload actually produced a data URL.
+      // Attaching a suggestion implicitly flags the row. Default the
+      // problem-reason to `manual_needed` — it semantically matches
+      // "I'm hand-curating this one" and it's a real dropdown option,
+      // so the reviewer sees the select pre-filled instead of blank.
+      // If they already picked a more specific reason (wrong_image,
+      // outdated, …), keep it.
       const existing = state.flags[key] || {};
       state.flags[key] = {
         ...existing,
-        reason: existing.reason || 'user_provided',
+        reason: existing.reason || 'manual_needed',
         note: existing.note || '',
         flagged_at: existing.flagged_at || new Date().toISOString(),
         suggested_data_url: dataUrl,
