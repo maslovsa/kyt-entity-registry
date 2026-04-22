@@ -71,8 +71,14 @@ scripts/
 ### C2. Logo replacement policy
 
 - `manual_lock=true` → enrichment MUST skip. Never automated writes.
-- `logo_status in (arkham, brandfetch, defillama)` →
+- `logo_status in (arkham, brandfetch, defillama, favicon)` →
   auto-refreshable every `REFRESH_DAYS` (default 30).
+- `logo_status=placeholder` → ALWAYS refreshable, ignores
+  REFRESH_DAYS. These rows hold the generic `logos/404.png` bytes;
+  we keep trying real sources every run so a row upgrades to a
+  real logo as soon as one appears.
+- `logo_status=none` → also always refreshable; means the
+  enrichment cron has not touched the row yet.
 - sha256 check is the gate — if new bytes == old bytes, make NO
   commit. Otherwise ≥20 commits/night from jitter.
 
@@ -88,26 +94,43 @@ scripts/
 ### C4. Source priority + quotas
 
 Order (first-found wins):
-1. **Arkham** — `https://static.arkhamintelligence.com/entities/<slug>.png`
+1. **Manual override** — `logos/_manual/<category>/<slug>.png`
+   Highest authority. Enrichment copies this into the main path
+   and sets `manual_lock=true`.
+2. **Arkham** — `https://static.arkhamintelligence.com/entities/<slug>.png`
    Free, static bucket, no rate limit known. Use the `arkham_slug`
    column from entities.csv (lowercase-dash). Covers most crypto
    brands.
-2. **Brandfetch CDN** —
+3. **Brandfetch CDN** —
    `https://cdn.brandfetch.io/<domain>?c=<client_id>`
    Free, no auth burn. Use `canonical_domain` column. Good for
    non-crypto entities (payment processors, exchanges with rare
    Arkham coverage). Returns PNG/webp — feed webp into normalize_png
    (Pillow handles it).
-3. **DefiLlama icons** —
+4. **DefiLlama icons** —
    `https://icons.llamao.fi/icons/protocols/<slug>?w=128&h=128`
-   Primarily DeFi protocols. Free CDN, `defillama-protocols` source
-   in sdn_api already knows the slug format — reuse it.
-4. **Manual override** — `logos/_manual/<category>/<slug>.png`
-   Highest authority. Enrichment copies this into the main path
-   and sets `manual_lock=true`.
+   Scope: `defi` + `dex` + `bridge`. Free CDN, same slug format
+   sdn_api's `defillama-protocols` source already uses.
+5. **Favicon crawl** — `https://<canonical_domain>/` + parse
+   `<link rel="icon|apple-touch-icon">`; fall back to static paths
+   (`/apple-touch-icon.png`, `/favicon-192x192.png`, `/favicon.ico`).
+   Reject decoded ≤ 32×32 (too blurry after upscale). Uses a real-
+   browser UA so Cloudflare-challenged sites still often respond.
+   Catches long-tail exchanges / wallets / PSPs with live websites
+   but no presence in the CDN sources above.
+6. **Placeholder** — `logos/404.png` bytes written to the target
+   path when every source above missed. Sets
+   `logo_status=placeholder`, which bypasses the freshness gate so
+   we retry real sources every run. Consumers get a 200 OK from
+   jsDelivr instead of a 404-flash.
 
 Do NOT add a new source without updating the RFC (sdn_api docs/
 RFC_entity_registry.md).
+
+Rejected sources and why (don't retry without a new signal):
+- **cryptologos.cc** — pure-JS SPA; known URL patterns like
+  `/logos/<slug>-<ticker>-logo.png` return 404 as of 2026-04-22.
+  Would need a headless browser to scrape; cost outweighs yield.
 
 Do NOT commit any source that requires an API key (no Chainalysis,
 Elliptic logos — those brands are paid-only and we have no license

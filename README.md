@@ -12,7 +12,7 @@ KYT/AML project that needs "the Binance logo" or "the OFAC seal".
   importance (0-100). Single source of truth.
 - **logos/** — PNG 160×160 per entity, bucketed by category.
 - **scripts/** — enrichment pipeline (Arkham → Brandfetch → DefiLlama
-  icons → manual override).
+  → favicon → placeholder → manual override).
 - **CDN** — served free via jsDelivr.
 
 ## Quick URL (consumers)
@@ -63,7 +63,7 @@ Each entity row has:
 
 | Field | Purpose |
 |---|---|
-| `logo_status` | `none` / `arkham` / `brandfetch` / `defillama` / `manual` |
+| `logo_status` | `none` / `arkham` / `brandfetch` / `defillama` / `favicon` / `manual` / `placeholder` |
 | `logo_updated_at` | ISO date of last successful fetch |
 | `manual_lock` | `true` → automated enrichment NEVER touches this row |
 | `logo_hash` | sha256 of the current PNG. Skip commit if unchanged. |
@@ -73,12 +73,24 @@ by importance DESC and:
 
 1. **Skips** rows where `manual_lock=true`.
 2. **Skips** rows where `logo_status != 'none'` AND
+   `logo_status != 'placeholder'` AND
    `logo_updated_at > now() - REFRESH_DAYS` (default 30 days).
-3. For the rest, tries sources in order: Arkham → Brandfetch →
-   DefiLlama → fallback.
+   Placeholders intentionally bypass the freshness gate so we keep
+   trying real sources every run.
+3. For the rest, tries sources in order: **Arkham → Brandfetch →
+   DefiLlama → favicon → placeholder**.
+   - `favicon` crawls `https://<canonical_domain>/` for
+     `<link rel="icon|apple-touch-icon">` (192×192 wins); falls back
+     to static paths like `/apple-touch-icon.png`. Rejects ≤ 32×32.
+   - `placeholder` writes `logos/404.png` bytes so consumers always
+     get a 200 OK from jsDelivr — no 404-flash, no onError gymnastics.
 4. If the fetched PNG's sha256 matches `logo_hash`, commits nothing.
 5. Otherwise normalizes to 160×160 transparent PNG, updates
    `entities.csv`, writes logo file.
+
+`logos/_index.json` lists only rows with a **real** source hit
+(excludes `placeholder` + `none`). Use it client-side to tell a
+genuine logo from the generic fallback glyph.
 
 ## Manual overrides
 

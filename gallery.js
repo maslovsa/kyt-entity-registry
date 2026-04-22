@@ -105,14 +105,20 @@ function flagKey(row) {
 }
 
 /* ── derived helpers ────────────────────────────────────────────────── */
+/** True when the row has a real-source logo (arkham/brandfetch/
+ *  defillama/favicon/manual). `placeholder` rows have a file on
+ *  disk but it's the generic fallback glyph — treat as "missing"
+ *  for the review UX. */
 function hasLogo(row) {
   const dir = CATEGORY_TO_DIR[row.category_slug];
   return !!(dir && state.index[`${dir}/${row.arkham_slug}`]);
 }
 
+/** URL of the logo file on disk. Always returns something renderable:
+ *  the generic 404 glyph when the slug is unknown or no PNG exists. */
 function logoUrl(row) {
   const dir = CATEGORY_TO_DIR[row.category_slug];
-  if (!dir || !row.arkham_slug) return 'logos/_fallback/unknown.png';
+  if (!dir || !row.arkham_slug) return 'logos/404.png';
   return `logos/${dir}/${row.arkham_slug}.png`;
 }
 
@@ -159,14 +165,16 @@ function renderStatsBar() {
 
   els.statsBar.innerHTML = `
     <span><strong>${total}</strong> entities</span>
-    <span><strong>${withLogo}</strong> with logo</span>
-    <span><strong>${missing}</strong> missing</span>
+    <span><strong>${withLogo}</strong> with real logo</span>
+    <span><strong>${missing}</strong> placeholder / missing</span>
     <span><strong>${flaggedCount}</strong> flagged locally</span>
     <span>status:
       arkham <strong>${byStatus.arkham || 0}</strong> ·
       brandfetch <strong>${byStatus.brandfetch || 0}</strong> ·
       defillama <strong>${byStatus.defillama || 0}</strong> ·
+      favicon <strong>${byStatus.favicon || 0}</strong> ·
       manual <strong>${byStatus.manual || 0}</strong> ·
+      placeholder <strong>${byStatus.placeholder || 0}</strong> ·
       none <strong>${byStatus.none || 0}</strong>
     </span>
   `;
