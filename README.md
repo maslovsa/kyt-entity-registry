@@ -95,6 +95,18 @@ PRs welcome for:
 Please keep logos ≤ 50 KB (tune compression if needed) and exactly
 160×160 RGBA PNG.
 
+## Related docs
+
+- **[docs/PROVIDERS.md](docs/PROVIDERS.md)** — contract for upstream
+  projects (sdn_api today) shipping fresh CSV exports: column
+  ownership, never-do list, PR review checklist.
+- **[docs/CONSUMERS.md](docs/CONSUMERS.md)** — canonical resolver
+  (TypeScript + Python): category → directory map, name→slug
+  normalization, `onError` fallback, SHA-pinning for PDFs, cache
+  gotchas. Drop the TS helper into any new consumer verbatim.
+- **[CLAUDE.md](CLAUDE.md)** — agent-facing runbook, task queue
+  T1-T8.
+
 ## License
 
 - **Code**: MIT.

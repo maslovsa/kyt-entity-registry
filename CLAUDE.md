@@ -187,8 +187,25 @@ PNGs on run 1.
 ### T8. Update sdn_api + aml_checker consumers
 - `sdn_api/public/logos/` → delete, point readers at jsDelivr
 - `aml_checker/public/logos/exchanges/` → delete, same
-- Add `entityLogoUrl()` helper in both projects (shared shape in
-  README above)
+- Add `entityLogoUrl()` helper in both projects — EXACT TS + Python
+  source lives in [docs/CONSUMERS.md](docs/CONSUMERS.md). Do NOT
+  re-invent the normalization; copy verbatim.
+- Add unit tests from CONSUMERS.md — they catch drift if anyone
+  edits `SUFFIX_STRIP` / `CATEGORY_TO_DIR` in one project but not
+  the other.
+
+### T9. Build + publish `logos/_index.json` as part of enrichment
+- Simple addition to `scripts/enrich.py`: after the run, walk `logos/`
+  and emit `{"exchanges/binance-com": true, ...}`
+- Consumers who want to avoid 404-flash use it via `hasLogo()`
+  helper in CONSUMERS.md
+
+### T10. Implement sdn_api side — `scripts/export_entity_registry.py`
+- See PROVIDERS.md pseudocode. Gens candidate CSV, fetches live
+  registry CSV, merges preserving registry-owned columns, opens PR.
+- CLI: `--output FILE`, `--pr` (opens GitHub PR), `--dry-run`.
+- Workflow: sdn_api `.github/workflows/export-entity-registry.yml`
+  fires Sunday 12:00 UTC.
 
 ## What you SHOULD NOT do without asking
 
@@ -200,8 +217,16 @@ PNGs on run 1.
 - Introduce a backend / API / database — the whole point is static
   files on GitHub CDN. No server.
 
-## Related docs
+## Related docs — MUST read before non-trivial changes
 
+- **[docs/PROVIDERS.md](docs/PROVIDERS.md)** — how upstream projects
+  propose fresh CSVs. Column ownership split (who owns what), PR
+  review checklist, never-do list (no slug renames, no row
+  deletions, no manual touching of logo_* columns).
+- **[docs/CONSUMERS.md](docs/CONSUMERS.md)** — the resolver
+  contract. If you touch `category_slug` semantics or the name→slug
+  normalization, BOTH consumer helpers (TS + Python) must update in
+  lockstep OR logos start 404'ing in production.
 - RFC: [sdn_api/docs/RFC_entity_registry.md](https://github.com/maslovsa/sdn-api/blob/master/docs/RFC_entity_registry.md)
 - Source CSV build: [sdn_api/docs/kyt_entity_registry_v1.csv](https://github.com/maslovsa/sdn-api/blob/master/docs/kyt_entity_registry_v1.csv)
-- Sibling projects: sdn_api (consumer), aml_checker (consumer)
+- Sibling projects: sdn_api (provider), aml_checker (consumer)
