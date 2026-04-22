@@ -34,19 +34,15 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      # scripts/ not yet implemented — this step is the placeholder that
-      # will exist once T1-T5 from CLAUDE.md are done.
       - name: Run enrichment
         id: enrich
         env:
-          BRANDFETCH_CLIENT_ID: 1ax1776856961656bfumLaCV7mtfLC42Xi
+          # Public CDN client ID; safe to inline but secret-wired so it
+          # can rotate without a commit.
+          BRANDFETCH_CLIENT_ID: ${{ secrets.BRANDFETCH_CLIENT_ID }}
         run: |
-          if [ ! -f scripts/enrich.py ]; then
-            echo "::warning::scripts/enrich.py not implemented yet — see CLAUDE.md T1-T5"
-            exit 0
-          fi
-          ARGS=""
-          [ -n "${{ github.event.inputs.max }}" ]       && ARGS="$ARGS --max ${{ github.event.inputs.max }}"
+          MAX="${{ github.event.inputs.max }}"
+          ARGS="--max ${MAX:-500}"
           [ -n "${{ github.event.inputs.category }}" ]  && ARGS="$ARGS --category ${{ github.event.inputs.category }}"
           [ "${{ github.event.inputs.dry-run }}" = "true" ] && ARGS="$ARGS --dry-run"
           python scripts/enrich.py $ARGS
@@ -62,7 +58,7 @@ jobs:
           else
             DATE=$(date -u +%Y-%m-%d)
             STATS=$(git diff --staged --numstat logos/ | wc -l | tr -d ' ')
-            git commit -m "enrich: $STATS logo(s) updated (${DATE})"
+            git commit -m "enrich: ${STATS} logo(s) updated (${DATE})"
             git push
           fi
 
