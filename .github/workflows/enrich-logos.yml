@@ -1,0 +1,80 @@
+name: Nightly logo enrichment
+
+# Daily at 02:00 UTC. Budget 500 refresh attempts per run; spread across
+# tier-1 (importance ≥ 90, refreshed first) and stale tier-2/3.
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+    inputs:
+      max:
+        description: "Max entities to process (default 500)"
+        required: false
+      category:
+        description: "Restrict to one category_slug (e.g. exchanges)"
+        required: false
+      dry-run:
+        description: "Set to 'true' to skip writes + commit"
+        required: false
+
+permissions:
+  contents: write    # enrich.py commits updated entities.csv + logos
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - run: pip install -r requirements.txt
+
+      # scripts/ not yet implemented — this step is the placeholder that
+      # will exist once T1-T5 from CLAUDE.md are done.
+      - name: Run enrichment
+        id: enrich
+        env:
+          BRANDFETCH_CLIENT_ID: 1ax1776856961656bfumLaCV7mtfLC42Xi
+        run: |
+          if [ ! -f scripts/enrich.py ]; then
+            echo "::warning::scripts/enrich.py not implemented yet — see CLAUDE.md T1-T5"
+            exit 0
+          fi
+          ARGS=""
+          [ -n "${{ github.event.inputs.max }}" ]       && ARGS="$ARGS --max ${{ github.event.inputs.max }}"
+          [ -n "${{ github.event.inputs.category }}" ]  && ARGS="$ARGS --category ${{ github.event.inputs.category }}"
+          [ "${{ github.event.inputs.dry-run }}" = "true" ] && ARGS="$ARGS --dry-run"
+          python scripts/enrich.py $ARGS
+
+      - name: Commit updates
+        if: steps.enrich.outcome == 'success' && github.event.inputs.dry-run != 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add entities.csv logos/
+          if git diff --staged --quiet; then
+            echo "No changes."
+          else
+            DATE=$(date -u +%Y-%m-%d)
+            STATS=$(git diff --staged --numstat logos/ | wc -l | tr -d ' ')
+            git commit -m "enrich: $STATS logo(s) updated (${DATE})"
+            git push
+          fi
+
+      - name: Notify on failure
+        if: failure()
+        env:
+          TELEGRAM_BOT_TOKEN:  ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_AUDIT: ${{ secrets.TELEGRAM_CHAT_AUDIT }}
+        run: |
+          if [ -n "$TELEGRAM_BOT_TOKEN" ] && [ -n "$TELEGRAM_CHAT_AUDIT" ]; then
+            curl -s -X POST "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+              -d "chat_id=$TELEGRAM_CHAT_AUDIT" \
+              -d "parse_mode=Markdown" \
+              -d "text=💥 *kyt-entity-registry enrichment failed* — [run →](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})"
+          fi

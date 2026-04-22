@@ -1,0 +1,801 @@
+entity_name,category_slug,importance,claim_count,max_trust,severity,networks,sources,arkham_slug,canonical_domain,logo_status,logo_updated_at,manual_lock
+Uniswap,dex,100,74,85,10,BSC|ETH,scorechain-counterparties,uniswap,,none,,false
+Binance.com,exchange,100,112,85,5,BSC|ETH|TRON,scorechain-counterparties,binance-com,binance.com,none,,false
+Bitget.com,exchange,100,72,85,5,BSC|ETH|TRON,scorechain-counterparties,bitget-com,bitget.com,none,,false
+Bybit.com,exchange,100,86,85,5,BSC|ETH|TRON,scorechain-counterparties,bybit-com,bybit.com,none,,false
+Cryptomus.com,exchange,100,68,85,5,BSC|ETH|TRON,scorechain-counterparties,cryptomus-com,cryptomus.com,none,,false
+Htx.com - Huobi.com,exchange,100,77,85,5,BSC|ETH|TRON,scorechain-counterparties,htx-com-huobi-com,htx.com,none,,false
+Kucoin.com,exchange,100,70,85,5,BSC|ETH|TRON,scorechain-counterparties,kucoin-com,kucoin.com,none,,false
+Aevo,hack,100,176,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,aevo,,none,,false
+AlphaPo - REKT,hack,100,35,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON|TRON,hack-attributions,alphapo-rekt,,none,,false
+Ankr & Helio - REKT,hack,100,40,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,ankr-helio-rekt,,none,,false
+ArcadiaFi,hack,100,40,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,arcadiafi,,none,,false
+BTCTurk,hack,100,48,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,btcturk,,none,,false
+Balancer - REKT,hack,100,32,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,balancer-rekt,,none,,false
+BetterBank,hack,100,32,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,betterbank,,none,,false
+BingX,hack,100,104,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bingx,,none,,false
+BitMart - REKT,hack,100,40,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bitmart-rekt,,none,,false
+Bunni,hack,100,40,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bunni,,none,,false
+CoinEx - REKT,hack,100,73,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON|TRON,hack-attributions,coinex-rekt,,none,,false
+Credix,hack,100,32,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,credix,,none,,false
+DODO - REKT,hack,100,56,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,dodo-rekt,,none,,false
+DeltaPrime,hack,100,64,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,deltaprime,,none,,false
+Drift Protocol,hack,100,40,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,drift-protocol,,none,,false
+ETHTrustFund,hack,100,32,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,ethtrustfund,,none,,false
+Fei Rari - REKT 2,hack,100,32,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,fei-rari-rekt-2,,none,,false
+GANA Payment,hack,100,64,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,gana-payment,,none,,false
+GriffinAI,hack,100,96,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,griffinai,,none,,false
+"HECO Bridge, HTX - REKT",hack,100,64,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,heco-bridge-htx-rekt,,none,,false
+Harmony Bridge - REKT,hack,100,40,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,harmony-bridge-rekt,,none,,false
+Hedgey Finance,hack,100,40,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,hedgey-finance,,none,,false
+Hope Finance - REKT,hack,100,32,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,hope-finance-rekt,,none,,false
+Hyperbridge,hack,100,64,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,hyperbridge,,none,,false
+Indodax,hack,100,42,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON|TRON,hack-attributions,indodax,,none,,false
+Infini,hack,100,32,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,infini,,none,,false
+IoTeX,hack,100,80,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,iotex,,none,,false
+JayPegs Automart - REKT,hack,100,32,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,jaypegs-automart-rekt,,none,,false
+Kokomo Finance - REKT,hack,100,72,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,kokomo-finance-rekt,,none,,false
+Makina,hack,100,48,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,makina,,none,,false
+Meerkat Finance - BSC - REKT,hack,100,32,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,meerkat-finance-bsc-rekt,,none,,false
+MonoX - REKT,hack,100,32,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,monox-rekt,,none,,false
+Munchables - REKT,hack,100,56,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,munchables-rekt,,none,,false
+Nomad Bridge - REKT,hack,100,40,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,nomad-bridge-rekt,,none,,false
+OKX DEX - REKT,hack,100,88,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,okx-dex-rekt,,none,,false
+Orange Finance,hack,100,112,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,orange-finance,,none,,false
+Penpie,hack,100,40,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,penpie,,none,,false
+Phemex,hack,100,163,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON|TRON,hack-attributions,phemex,,none,,false
+Poloniex - REKT,hack,100,121,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON|TRON,hack-attributions,poloniex-rekt,,none,,false
+Poly Network - REKT,hack,100,64,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,poly-network-rekt,,none,,false
+PrismaFi - REKT,hack,100,32,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,prismafi-rekt,,none,,false
+Resolv Labs,hack,100,40,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,resolv-labs,,none,,false
+Safemoon - REKT,hack,100,32,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,safemoon-rekt,,none,,false
+Seneca Protocol - REKT,hack,100,104,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,seneca-protocol-rekt,,none,,false
+Solv,hack,100,48,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,solv,,none,,false
+Sonne Finance,hack,100,40,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,sonne-finance,,none,,false
+StableMagnet - REKT,hack,100,48,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,stablemagnet-rekt,,none,,false
+Stake - REKT,hack,100,48,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,stake-rekt,,none,,false
+Swaprum - REKT,hack,100,32,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,swaprum-rekt,,none,,false
+TMXTribe,hack,100,32,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,tmxtribe,,none,,false
+Tapioca DAO,hack,100,32,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,tapioca-dao,,none,,false
+Tornado Cash Governance - REKT,hack,100,32,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,tornado-cash-governance-rekt,,none,,false
+Truebit,hack,100,48,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,truebit,,none,,false
+UXLink,hack,100,104,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,uxlink,,none,,false
+Unizen,hack,100,72,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,unizen,,none,,false
+Uwulend,hack,100,32,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,uwulend,,none,,false
+Velocore,hack,100,32,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,velocore,,none,,false
+Voltage Finance - REKT,hack,100,32,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,voltage-finance-rekt,,none,,false
+Warp Finance - REKT,hack,100,80,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,warp-finance-rekt,,none,,false
+WazirX,hack,100,48,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,wazirx,,none,,false
+Wintermute - REKT 2,hack,100,56,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,wintermute-rekt-2,,none,,false
+Woo X,hack,100,50,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON|TRON,hack-attributions,woo-x,,none,,false
+Yieldblox,hack,100,48,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,yieldblox,,none,,false
+bZx - REKT,hack,100,32,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bzx-rekt,,none,,false
+zkLend,hack,100,56,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,zklend,,none,,false
+OFAC SDN,sanctioned,100,928,100,100,ARBITRUM|BSC|BTC|ETH|TRON,ofac-sdn,ofac-sdn,,none,,false
+UK OFSI,sanctioned,100,54,100,100,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON|TRON,uk-ofsi-sanctions,uk-ofsi,,none,,false
+Bingx.com,exchange,99.9,66,85,5,BSC|ETH|TRON,scorechain-counterparties,bingx-com,bingx.com,none,,false
+Gate.io,exchange,99.8,65,85,5,BSC|ETH|TRON,scorechain-counterparties,gate-io,gate.io,none,,false
+Mexc.com,exchange,99.7,64,85,5,BSC|ETH|TRON,scorechain-counterparties,mexc-com,mexc.com,none,,false
+Stake.com,gambling,99.4,61,85,50,BSC|ETH|TRON,scorechain-counterparties,stake-com,stake.com,none,,false
+Okx.com,exchange,99.3,60,85,5,BSC|ETH|TRON,scorechain-counterparties,okx-com,okx.com,none,,false
+ScoreChain,gambling,99.3,60,85,50,BSC|ETH|TRON,scorechain-verdicts,scorechain,,none,,false
+Okx Dex,dex,99.1,58,85,10,BSC|ETH|TRON,scorechain-counterparties,okx-dex,,none,,false
+PancakeSwap,dex,99.0,57,85,10,BSC|ETH,scorechain-counterparties,pancakeswap,,none,,false
+Abracadabra - REKT,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,abracadabra-rekt,,none,,false
+AlexLab,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,alexlab,,none,,false
+Arbix Finance - REKT,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,arbix-finance-rekt,,none,,false
+Conic Finance - REKT,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,conic-finance-rekt,,none,,false
+Cover - REKT,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,cover-rekt,,none,,false
+Cream Finance - REKT,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,cream-finance-rekt,,none,,false
+Cream Finance - REKT 2,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,cream-finance-rekt-2,,none,,false
+"Curve, Vyper - REKT",hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,curve-vyper-rekt,,none,,false
+DeFiLabs - REKT,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,defilabs-rekt,,none,,false
+Deus DAO - REKT,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,deus-dao-rekt,,none,,false
+Force Bridge,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,force-bridge,,none,,false
+Furucombo - REKT,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,furucombo-rekt,,none,,false
+Ionic Money,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,ionic-money,,none,,false
+KiloEx,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,kiloex,,none,,false
+KyberSwap - REKT,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,kyberswap-rekt,,none,,false
+Levyathan - REKT,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,levyathan-rekt,,none,,false
+LiFi/Jumper,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,lifi-jumper,,none,,false
+Lodestar Finance - REKT,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,lodestar-finance-rekt,,none,,false
+M2 Exchange,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,m2-exchange,,none,,false
+Mixin Network - REKT,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,mixin-network-rekt,,none,,false
+Pike Finance,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,pike-finance,,none,,false
+Punk Protocol - REKT,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,punk-protocol-rekt,,none,,false
+SBI Crypto,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,sbi-crypto,,none,,false
+Saga,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,saga,,none,,false
+Steadefi - REKT,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,steadefi-rekt,,none,,false
+THORChain - REKT,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,thorchain-rekt,,none,,false
+Transit Swap - REKT,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,transit-swap-rekt,,none,,false
+USPD,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,uspd,,none,,false
+Yearn - REKT 2,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,yearn-rekt-2,,none,,false
+Zoth,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,zoth,,none,,false
+CoinEx.com,exchange,98.2,51,85,5,BSC|ETH|TRON,scorechain-counterparties,coinex-com,coinex.com,none,,false
+Nexo.com,exchange,97.9,48,85,5,BSC|ETH|TRON,scorechain-counterparties,nexo-com,nexo.com,none,,false
+XT.com,exchange,97.9,48,85,5,BSC|ETH|TRON,scorechain-counterparties,xt-com,xt.com,none,,false
+Btse.com,exchange,97.7,47,85,5,BSC|ETH|TRON,scorechain-counterparties,btse-com,btse.com,none,,false
+Indodax.com,exchange,97.7,47,85,5,BSC|ETH|TRON,scorechain-counterparties,indodax-com,indodax.com,none,,false
+Kraken.com,exchange,97.6,46,85,5,BSC|ETH|TRON,scorechain-counterparties,kraken-com,kraken.com,none,,false
+Lbank.com,exchange,97.6,46,85,5,BSC|ETH|TRON,scorechain-counterparties,lbank-com,lbank.com,none,,false
+ChangeNOW,exchange,97.4,45,85,5,BSC|ETH|TRON,scorechain-counterparties,changenow,,none,,false
+Redotpay.com,psp,97.4,45,85,15,BSC|ETH|TRON,scorechain-counterparties,redotpay-com,redotpay.com,none,,false
+Bitkub.com,exchange,97.3,44,85,5,BSC|ETH|TRON,scorechain-counterparties,bitkub-com,bitkub.com,none,,false
+Bc.game,gambling,97.3,44,85,50,BSC|ETH|TRON,scorechain-counterparties,bc-game,bc.game,none,,false
+MaskEX.com,exchange,97.2,43,85,5,BSC|ETH|TRON,scorechain-counterparties,maskex-com,maskex.com,none,,false
+Swapster.fi,exchange,97.0,42,85,5,BSC|ETH|TRON,scorechain-counterparties,swapster-fi,swapster.fi,none,,false
+CoinPayments.net,psp,97.0,42,85,15,BSC|ETH|TRON,scorechain-counterparties,coinpayments-net,coinpayments.net,none,,false
+1inch Network,dex,96.7,40,85,10,BSC|ETH,scorechain-counterparties,1inch-network,,none,,false
+Revolut.com,exchange,96.5,39,85,5,BSC|ETH|TRON,scorechain-counterparties,revolut-com,revolut.com,none,,false
+Rapira.net,exchange,96.4,38,85,5,BSC|ETH|TRON,scorechain-counterparties,rapira-net,rapira.net,none,,false
+Cobo.com,wallet,96.4,38,85,5,BSC|ETH|TRON,scorechain-counterparties,cobo-com,cobo.com,none,,false
+AlphaPo.net,psp,96.2,37,85,15,BSC|ETH|TRON,scorechain-counterparties,alphapo-net,alphapo.net,none,,false
+Bitmart.com,exchange,96.0,36,85,5,BSC|ETH|TRON,scorechain-counterparties,bitmart-com,bitmart.com,none,,false
+Badger - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,badger-rekt,,none,,false
+Beanstalk - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,beanstalk-rekt,,none,,false
+Bondly - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bondly-rekt,,none,,false
+Cetus,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,cetus,,none,,false
+Clober Dex,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,clober-dex,,none,,false
+Curve Finance - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,curve-finance-rekt,,none,,false
+Deribit - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,deribit-rekt,,none,,false
+Deus DAO - REKT 2,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,deus-dao-rekt-2,,none,,false
+Euler Finance - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,euler-finance-rekt,,none,,false
+Exactly Protocol - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,exactly-protocol-rekt,,none,,false
+GMX,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,gmx,,none,,false
+GemPad,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,gempad,,none,,false
+Gym Network - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,gym-network-rekt,,none,,false
+HTX (Huobi) - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,htx-huobi-rekt,,none,,false
+Harvest Finance - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,harvest-finance-rekt,,none,,false
+Jimbo's Protocol - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,jimbo-s-protocol-rekt,,none,,false
+LCX - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,lcx-rekt,,none,,false
+Level Finance - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,level-finance-rekt,,none,,false
+Loopscale,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,loopscale,,none,,false
+MM Finance - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,mm-finance-rekt,,none,,false
+Midas Capital - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,midas-capital-rekt,,none,,false
+Moby Trade,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,moby-trade,,none,,false
+Moola Market - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,moola-market-rekt,,none,,false
+Onyx Protocol - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,onyx-protocol-rekt,,none,,false
+Orion Protocol - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,orion-protocol-rekt,,none,,false
+Platypus Finance - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,platypus-finance-rekt,,none,,false
+ResupplyFi,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,resupplyfi,,none,,false
+Shibarium,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,shibarium,,none,,false
+Shibarium Bridge - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,shibarium-bridge-rekt,,none,,false
+Snowdog - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,snowdog-rekt,,none,,false
+Visor Finance - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,visor-finance-rekt,,none,,false
+Vulcan Forged - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,vulcan-forged-rekt,,none,,false
+Wintermute - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,wintermute-rekt,,none,,false
+Woofi,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,woofi,,none,,false
+Zunami Protocol - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,zunami-protocol-rekt,,none,,false
+Kyrrex.com,exchange,95.8,35,85,5,ETH|TRON,scorechain-counterparties,kyrrex-com,kyrrex.com,none,,false
+Nobitex.ir,exchange,95.8,35,85,5,BSC|ETH|TRON,scorechain-counterparties,nobitex-ir,nobitex.ir,none,,false
+Lemon.me,exchange,95.7,34,85,5,BSC|ETH|TRON,scorechain-counterparties,lemon-me,lemon.me,none,,false
+Pionex.com,exchange,95.7,34,85,5,BSC|ETH|TRON,scorechain-counterparties,pionex-com,pionex.com,none,,false
+CryptoBot,bot,95.5,33,85,20,BSC|ETH|TRON,scorechain-counterparties,cryptobot,,none,,false
+Coinone.co.kr,exchange,95.5,33,85,5,BSC|ETH|TRON,scorechain-counterparties,coinone-co-kr,coinone.co.kr,none,,false
+Bitopro.com,exchange,95.3,32,85,5,BSC|ETH|TRON,scorechain-counterparties,bitopro-com,bitopro.com,none,,false
+Shuffle.com,gambling,95.3,32,85,50,BSC|ETH|TRON,scorechain-counterparties,shuffle-com,shuffle.com,none,,false
+Coins Philippines,exchange,95.1,31,85,5,BSC|ETH|TRON,scorechain-counterparties,coins-philippines,,none,,false
+Noones.com,exchange,95.1,31,85,5,BSC|ETH|TRON,scorechain-counterparties,noones-com,noones.com,none,,false
+Remitano.com,exchange,95.1,31,85,5,BSC|ETH|TRON,scorechain-counterparties,remitano-com,remitano.com,none,,false
+MEV Bot,bot,94.9,30,85,20,BSC|ETH,scorechain-counterparties,mev-bot,,none,,false
+001k.exchange,exchange,94.9,30,85,5,ETH|TRON,scorechain-counterparties,001k-exchange,001k.exchange,none,,false
+Baksmany,exchange,94.9,30,85,5,BSC|ETH,scorechain-counterparties,baksmany,,none,,false
+Poloniex.com,exchange,94.9,30,85,5,BSC|ETH|TRON,scorechain-counterparties,poloniex-com,poloniex.com,none,,false
+Wallex.ir,exchange,94.9,30,85,5,BSC|ETH|TRON,scorechain-counterparties,wallex-ir,wallex.ir,none,,false
+WhiteBIT.com,exchange,94.9,30,85,5,BSC|ETH|TRON,scorechain-counterparties,whitebit-com,whitebit.com,none,,false
+CoinSpot,exchange,94.7,29,85,5,BSC|ETH|TRON,scorechain-counterparties,coinspot,,none,,false
+Wallet.tg,wallet,94.7,29,85,5,TRON,scorechain-counterparties,wallet-tg,wallet.tg,none,,false
+Bithumb.com,exchange,94.4,28,85,5,BSC|ETH|TRON,scorechain-counterparties,bithumb-com,bithumb.com,none,,false
+MaiCoinMAX - MAX Exchange,exchange,94.4,28,85,5,BSC|ETH|TRON,scorechain-counterparties,maicoinmax-max-exchange,,none,,false
+BtcTurk.com,exchange,94.2,27,85,5,ETH|TRON,scorechain-counterparties,btcturk-com,btcturk.com,none,,false
+ScoreChain,exchange,94.2,27,85,5,BSC|ETH|TRON,scorechain-verdicts,scorechain,,none,,false
+Weex.com,exchange,94.2,27,85,5,BSC|ETH|TRON,scorechain-counterparties,weex-com,weex.com,none,,false
+96ach.com,gambling,94.2,27,85,50,TRON,scorechain-counterparties,96ach-com,96ach.com,none,,false
+ScoreChain,bridge,94.0,26,85,15,BSC|TRON,scorechain-verdicts,scorechain,,none,,false
+Paribu.com,exchange,94.0,26,85,5,BSC|ETH|TRON,scorechain-counterparties,paribu-com,paribu.com,none,,false
+kcex.io,exchange,94.0,26,85,5,BSC|ETH|TRON,scorechain-counterparties,kcex-io,kcex.io,none,,false
+matrixport.com,exchange,94.0,26,85,5,BSC|ETH|TRON,scorechain-counterparties,matrixport-com,matrixport.com,none,,false
+Bitso.com,exchange,93.7,25,85,5,ETH|TRON,scorechain-counterparties,bitso-com,bitso.com,none,,false
+Upbit.com,exchange,93.7,25,85,5,ETH|TRON,scorechain-counterparties,upbit-com,upbit.com,none,,false
+Coinspaid.com - Cryptoprocessing.com,psp,93.7,25,85,15,BSC|ETH|TRON,scorechain-counterparties,coinspaid-com-cryptoprocessing-com,coinspaid.com,none,,false
+Bitfinex.com,exchange,93.5,24,85,5,ETH|TRON,scorechain-counterparties,bitfinex-com,bitfinex.com,none,,false
+Blofin.com,exchange,93.5,24,85,5,BSC|ETH|TRON,scorechain-counterparties,blofin-com,blofin.com,none,,false
+Exness.uk,exchange,93.5,24,85,5,ETH|TRON,scorechain-counterparties,exness-uk,exness.uk,none,,false
+Switchain.com,exchange,93.5,24,85,5,BSC|ETH,scorechain-counterparties,switchain-com,switchain.com,none,,false
+1xBet.com,gambling,93.5,24,85,50,BSC|ETH,scorechain-counterparties,1xbet-com,1xbet.com,none,,false
+Heleket.com,psp,93.5,24,85,15,BSC|TRON,scorechain-counterparties,heleket-com,heleket.com,none,,false
+Ourbit.com,exchange,93.2,23,85,5,BSC|ETH|TRON,scorechain-counterparties,ourbit-com,ourbit.com,none,,false
+Changehero.io,exchange,92.9,22,85,5,BSC|ETH|TRON,scorechain-counterparties,changehero-io,changehero.io,none,,false
+Crypto.com,exchange,92.9,22,85,5,BSC|ETH,scorechain-counterparties,crypto-com,crypto.com,none,,false
+Deepcoin.com,exchange,92.9,22,85,5,ETH|TRON,scorechain-counterparties,deepcoin-com,deepcoin.com,none,,false
+Cwallet,wallet,92.9,22,85,5,BSC|TRON,scorechain-counterparties,cwallet,,none,,false
+HitBTC.com,exchange,92.6,21,85,5,BSC|ETH|TRON,scorechain-counterparties,hitbtc-com,hitbtc.com,none,,false
+Wirex,exchange,92.6,21,85,5,BSC|ETH|TRON,scorechain-counterparties,wirex,,none,,false
+Confirmo.net,psp,92.6,21,85,15,BSC|ETH,scorechain-counterparties,confirmo-net,confirmo.net,none,,false
+Payeer.com,psp,92.6,21,85,15,BSC|TRON,scorechain-counterparties,payeer-com,payeer.com,none,,false
+BigONE,hack,92.5,9,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON|TRON,hack-attributions,bigone,,none,,false
+Remitano - REKT,hack,92.5,9,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON|TRON,hack-attributions,remitano-rekt,,none,,false
+Coinw.com,exchange,92.3,20,85,5,BSC|ETH|TRON,scorechain-counterparties,coinw-com,coinw.com,none,,false
+Ramzinex.com,exchange,92.3,20,85,5,BSC|TRON,scorechain-counterparties,ramzinex-com,ramzinex.com,none,,false
+hyperpay.tech,exchange,92.3,20,85,5,BSC|ETH|TRON,scorechain-counterparties,hyperpay-tech,hyperpay.tech,none,,false
+Bitpin.ir,exchange,92.0,19,85,5,BSC|ETH|TRON,scorechain-counterparties,bitpin-ir,bitpin.ir,none,,false
+Bitrue.com,exchange,92.0,19,85,5,BSC|ETH|TRON,scorechain-counterparties,bitrue-com,bitrue.com,none,,false
+Yibifu,exchange,92.0,19,85,5,TRON,scorechain-counterparties,yibifu,,none,,false
+FulgurPay.com,psp,92.0,19,85,15,BSC|ETH|TRON,scorechain-counterparties,fulgurpay-com,fulgurpay.com,none,,false
+Akropolis - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,akropolis-rekt,,none,,false
+Alpha Finance - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,alpha-finance-rekt,,none,,false
+Anyswap - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,anyswap-rekt,,none,,false
+Ascendex - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,ascendex-rekt,,none,,false
+Astroport,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,astroport,,none,,false
+Atlantis Loans - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,atlantis-loans-rekt,,none,,false
+BALD on Base - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bald-on-base-rekt,,none,,false
+BNB Bridge - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bnb-bridge-rekt,,none,,false
+Bedrock,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bedrock,,none,,false
+"Blizz Finance, Venus Protocol - REKT",hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,blizz-finance-venus-protocol-rekt,,none,,false
+ByBit,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bybit,,none,,false
+Cashio - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,cashio-rekt,,none,,false
+CoinDCX,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,coindcx,,none,,false
+Compound - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,compound-rekt,,none,,false
+Cork Protocol,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,cork-protocol,,none,,false
+Crema Finance - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,crema-finance-rekt,,none,,false
+Crypto.com - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,crypto-com-rekt,crypto.com,none,,false
+DAO Maker - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,dao-maker-rekt,,none,,false
+Dego Finance - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,dego-finance-rekt,,none,,false
+Dexible - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,dexible-rekt,,none,,false
+EasyFi - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,easyfi-rekt,,none,,false
+EraLend - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,eralend-rekt,,none,,false
+Gala Games,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,gala-games,,none,,false
+Gamma Strategies - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,gamma-strategies-rekt,,none,,false
+Grim Finance - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,grim-finance-rekt,,none,,false
+Hacken,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,hacken,,none,,false
+Hedera - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,hedera-rekt,,none,,false
+Hypr Network - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,hypr-network-rekt,,none,,false
+Indexed Finance - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,indexed-finance-rekt,,none,,false
+Kannagi Finance - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,kannagi-finance-rekt,,none,,false
+Kronos Research - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,kronos-research-rekt,,none,,false
+Merlin DEX - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,merlin-dex-rekt,,none,,false
+Merlin Labs - R3KT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,merlin-labs-r3kt,,none,,false
+Merlin Labs - REKT 2,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,merlin-labs-rekt-2,,none,,false
+MobiusDAO,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,mobiusdao,,none,,false
+New Gold Protocol,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,new-gold-protocol,,none,,false
+Nirvana Finance - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,nirvana-finance-rekt,,none,,false
+Orbit Bridge - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,orbit-bridge-rekt,,none,,false
+Paid Network - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,paid-network-rekt,,none,,false
+PancakeBunny - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,pancakebunny-rekt,,none,,false
+PancakeBunny - REKT 2,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,pancakebunny-rekt-2,,none,,false
+Raft - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,raft-rekt,,none,,false
+Raydium - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,raydium-rekt,,none,,false
+Revest Finance - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,revest-finance-rekt,,none,,false
+Rhea Finance,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,rhea-finance,,none,,false
+RocketSwap - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,rocketswap-rekt,,none,,false
+Roll - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,roll-rekt,,none,,false
+Ronin Network - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,ronin-network-rekt,,none,,false
+SafeDollar - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,safedollar-rekt,,none,,false
+Sovryn - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,sovryn-rekt,,none,,false
+Superfluid - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,superfluid-rekt,,none,,false
+Team Finance - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,team-finance-rekt,,none,,false
+TempleDAO - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,templedao-rekt,,none,,false
+Vee Finance - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,vee-finance-rekt,,none,,false
+Wormhole - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,wormhole-rekt,,none,,false
+bEarn - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bearn-rekt,,none,,false
+dForce Network - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,dforce-network-rekt,,none,,false
+OkayPayBot,bot,91.7,18,85,20,TRON,scorechain-counterparties,okaypaybot,,none,,false
+Abantether.com,exchange,91.7,18,85,5,BSC|TRON,scorechain-counterparties,abantether-com,abantether.com,none,,false
+Coinbase.com,exchange,91.7,18,85,5,BSC|ETH,scorechain-counterparties,coinbase-com,coinbase.com,none,,false
+Fixedfloat.com - Ff.io,exchange,91.7,18,85,5,BSC|ETH|TRON,scorechain-counterparties,fixedfloat-com-ff-io,fixedfloat.com,none,,false
+Phemex.com,exchange,91.7,18,85,5,BSC|ETH|TRON,scorechain-counterparties,phemex-com,phemex.com,none,,false
+Reku.id,exchange,91.7,18,85,5,BSC|ETH|TRON,scorechain-counterparties,reku-id,reku.id,none,,false
+Sportsbet.io,gambling,91.7,18,85,50,TRON,scorechain-counterparties,sportsbet-io,sportsbet.io,none,,false
+AscendEx.com,exchange,91.3,17,85,5,BSC|ETH|TRON,scorechain-counterparties,ascendex-com,ascendex.com,none,,false
+Pintu.co.id,exchange,91.3,17,85,5,BSC|TRON,scorechain-counterparties,pintu-co-id,pintu.co.id,none,,false
+Cropty,wallet,91.3,17,85,5,TRON,scorechain-counterparties,cropty,,none,,false
+Curve.fi,dex,91.0,16,85,10,BSC|ETH,scorechain-counterparties,curve-fi,curve.fi,none,,false
+Cex.io,exchange,91.0,16,85,5,BSC|ETH|TRON,scorechain-counterparties,cex-io,cex.io,none,,false
+Coinstore.com,exchange,91.0,16,85,5,BSC|ETH|TRON,scorechain-counterparties,coinstore-com,coinstore.com,none,,false
+Binance.us,exchange,90.6,15,85,5,BSC|ETH|TRON,scorechain-counterparties,binance-us,binance.us,none,,false
+BitKan.com,exchange,90.6,15,85,5,ETH|TRON,scorechain-counterparties,bitkan-com,bitkan.com,none,,false
+Nazza,exchange,90.6,15,85,5,TRON,scorechain-counterparties,nazza,,none,,false
+1win.com,gambling,90.6,15,85,50,TRON,scorechain-counterparties,1win-com,1win.com,none,,false
+Bvnk.com - Coindirect.com,psp,90.6,15,85,15,BSC|ETH|TRON,scorechain-counterparties,bvnk-com-coindirect-com,bvnk.com,none,,false
+Sun.io,dex,90.1,14,85,10,TRON,scorechain-counterparties,sun-io,sun.io,none,,false
+Bitstamp.net by Robinhood,exchange,90.1,14,85,5,ETH,scorechain-counterparties,bitstamp-net-by-robinhood,bitstamp.net,none,,false
+CoinTR Pro,exchange,90.1,14,85,5,TRON,scorechain-counterparties,cointr-pro,,none,,false
+Cryptology.com,exchange,90.1,14,85,5,BSC|ETH|TRON,scorechain-counterparties,cryptology-com,cryptology.com,none,,false
+Multichain (AnySwap),bridge,89.7,13,85,15,BSC|ETH,scorechain-counterparties,multichain-anyswap,,none,,false
+Orbiter Finance,bridge,89.7,13,85,15,BSC|ETH,scorechain-counterparties,orbiter-finance,,none,,false
+CityBit,exchange,89.7,13,85,5,BSC|ETH,scorechain-counterparties,citybit,,none,,false
+Hotcoin.com,exchange,89.7,13,85,5,BSC|ETH|TRON,scorechain-counterparties,hotcoin-com,hotcoin.com,none,,false
+Kuna.io,exchange,89.7,13,85,5,ETH|TRON,scorechain-counterparties,kuna-io,kuna.io,none,,false
+Maicoin.com,exchange,89.7,13,85,5,BSC|ETH|TRON,scorechain-counterparties,maicoin-com,maicoin.com,none,,false
+ONUS,exchange,89.7,13,85,5,BSC|ETH|TRON,scorechain-counterparties,onus,,none,,false
+Duelbits.com,gambling,89.7,13,85,50,BSC|ETH|TRON,scorechain-counterparties,duelbits-com,duelbits.com,none,,false
+ZixiPay,wallet,89.7,13,85,5,TRON,scorechain-counterparties,zixipay,,none,,false
+Kyber.network - Kyberswap,dex,89.2,12,85,10,BSC|ETH,scorechain-counterparties,kyber-network-kyberswap,kyber.network,none,,false
+multiple DEXs,dex,89.2,12,85,10,BSC|ETH,scorechain-counterparties,multiple-dexs,,none,,false
+Exmo.me,exchange,89.2,12,85,5,TRON,scorechain-counterparties,exmo-me,exmo.me,none,,false
+Probit.com,exchange,89.2,12,85,5,BSC|ETH|TRON,scorechain-counterparties,probit-com,probit.com,none,,false
+Quidax.com,exchange,89.2,12,85,5,BSC|ETH|TRON,scorechain-counterparties,quidax-com,quidax.com,none,,false
+Betfury.io,gambling,89.2,12,85,50,BSC|ETH|TRON,scorechain-counterparties,betfury-io,betfury.io,none,,false
+Xinbi Guarantee,bot,88.7,11,85,20,TRON,scorechain-counterparties,xinbi-guarantee,,none,,false
+Kiln.fi,defi,88.7,11,85,10,BSC|ETH,scorechain-counterparties,kiln-fi,kiln.fi,none,,false
+ParaSwap.io,dex,88.7,11,85,10,BSC|ETH,scorechain-counterparties,paraswap-io,paraswap.io,none,,false
+Pendle.finance,dex,88.7,11,85,10,BSC|ETH,scorechain-counterparties,pendle-finance,pendle.finance,none,,false
+Bitpanda.com,exchange,88.7,11,85,5,BSC|ETH|TRON,scorechain-counterparties,bitpanda-com,bitpanda.com,none,,false
+Ftx.com,exchange,88.7,11,85,5,BSC|ETH|TRON,scorechain-counterparties,ftx-com,ftx.com,none,,false
+Independentreserve.com,exchange,88.7,11,85,5,ETH|TRON,scorechain-counterparties,independentreserve-com,independentreserve.com,none,,false
+Kwiq.app,exchange,88.7,11,85,5,ETH|TRON,scorechain-counterparties,kwiq-app,kwiq.app,none,,false
+N.exchange,exchange,88.7,11,85,5,BSC|ETH|TRON,scorechain-counterparties,n-exchange,n.exchange,none,,false
+Paxful.com,exchange,88.7,11,85,5,ETH|TRON,scorechain-counterparties,paxful-com,paxful.com,none,,false
+Vexel.com,exchange,88.7,11,85,5,TRON,scorechain-counterparties,vexel-com,vexel.com,none,,false
+Betpanda casino,gambling,88.7,11,85,50,ETH|TRON,scorechain-counterparties,betpanda-casino,,none,,false
+Card.onekey.so,wallet,88.7,11,85,5,BSC|ETH|TRON,scorechain-counterparties,card-onekey-so,card.onekey.so,none,,false
+Metamask.io,wallet,88.7,11,85,5,BSC|ETH,scorechain-counterparties,metamask-io,metamask.io,none,,false
+Synapseprotocol.com,bridge,88.1,10,85,15,BSC|ETH,scorechain-counterparties,synapseprotocol-com,synapseprotocol.com,none,,false
+deBridge,bridge,88.1,10,85,15,BSC|ETH|TRON,scorechain-counterparties,debridge,,none,,false
+BabySwap,dex,88.1,10,85,10,BSC,defillama-protocols|scorechain-counterparties,babyswap,,none,,false
+Dodoex.io,dex,88.1,10,85,10,BSC|ETH,scorechain-counterparties,dodoex-io,dodoex.io,none,,false
+OpenOcean,dex,88.1,10,85,10,BSC|ETH,defillama-protocols|scorechain-counterparties,openocean,,none,,false
+Altcointrader.co.za,exchange,88.1,10,85,5,BSC|ETH|TRON,scorechain-counterparties,altcointrader-co-za,altcointrader.co.za,none,,false
+BTCC,exchange,88.1,10,85,5,ETH|TRON,scorechain-counterparties,btcc,,none,,false
+Coinhako.com,exchange,88.1,10,85,5,ETH,scorechain-counterparties,coinhako-com,coinhako.com,none,,false
+Fastex.com,exchange,88.1,10,85,5,BSC|ETH|TRON,scorechain-counterparties,fastex-com,fastex.com,none,,false
+Letsbit.io,exchange,88.1,10,85,5,BSC|ETH|TRON,scorechain-counterparties,letsbit-io,letsbit.io,none,,false
+Mercadobitcoin.com.br,exchange,88.1,10,85,5,BSC|ETH|TRON,scorechain-counterparties,mercadobitcoin-com-br,mercadobitcoin.com.br,none,,false
+Monica.cash,exchange,88.1,10,85,5,BSC|ETH|TRON,scorechain-counterparties,monica-cash,monica.cash,none,,false
+Yellowcard.io,exchange,88.1,10,85,5,TRON,scorechain-counterparties,yellowcard-io,yellowcard.io,none,,false
+Youhodler.com,exchange,88.1,10,85,5,BSC|ETH|TRON,scorechain-counterparties,youhodler-com,youhodler.com,none,,false
+Bitcasino.io,gambling,88.1,10,85,50,BSC|ETH,scorechain-counterparties,bitcasino-io,bitcasino.io,none,,false
+Rollbit.com,gambling,88.1,10,85,50,BSC|ETH,scorechain-counterparties,rollbit-com,rollbit.com,none,,false
+Roobet.com,gambling,88.1,10,85,50,ETH,scorechain-counterparties,roobet-com,roobet.com,none,,false
+U.town,gambling,88.1,10,85,50,BSC|ETH|TRON,scorechain-counterparties,u-town,u.town,none,,false
+OpenSea.io,nft_marketplace,88.1,10,85,5,BSC|ETH,scorechain-counterparties,opensea-io,opensea.io,none,,false
+Bitget Wallet - BitKeep.com,wallet,88.1,10,85,5,BSC|ETH|TRON,scorechain-counterparties,bitget-wallet-bitkeep-com,,none,,false
+Specie Wallet,wallet,88.1,10,85,5,TRON,scorechain-counterparties,specie-wallet,,none,,false
+Cashinout bot,bot,87.5,9,85,20,TRON,scorechain-counterparties,cashinout-bot,,none,,false
+Bridgers.xyz,bridge,87.5,9,85,15,BSC|ETH|TRON,scorechain-counterparties,bridgers-xyz,bridgers.xyz,none,,false
+Venus,defi,87.5,9,85,10,BSC,scorechain-counterparties,venus,,none,,false
+Biswap.org,dex,87.5,9,85,10,BSC,scorechain-counterparties,biswap-org,biswap.org,none,,false
+Bungee Exchange,dex,87.5,9,85,10,BSC|ETH,scorechain-counterparties,bungee-exchange,,none,,false
+Magpiexyz.io,dex,87.5,9,85,10,BSC|ETH,scorechain-counterparties,magpiexyz-io,magpiexyz.io,none,,false
+B2BinPay.com - B2BX.exchange,exchange,87.5,9,85,5,BSC|ETH|TRON,scorechain-counterparties,b2binpay-com-b2bx-exchange,b2binpay.com,none,,false
+Biconomy.com,exchange,87.5,9,85,5,BSC|TRON,scorechain-counterparties,biconomy-com,biconomy.com,none,,false
+Bitvavo.com,exchange,87.5,9,85,5,BSC|ETH,scorechain-counterparties,bitvavo-com,bitvavo.com,none,,false
+Bydfi.com - Bityard.com,exchange,87.5,9,85,5,BSC|ETH|TRON,scorechain-counterparties,bydfi-com-bityard-com,bydfi.com,none,,false
+Coincola.com,exchange,87.5,9,85,5,ETH|TRON,scorechain-counterparties,coincola-com,coincola.com,none,,false
+Coindcx.com,exchange,87.5,9,85,5,BSC|ETH|TRON,scorechain-counterparties,coindcx-com,coindcx.com,none,,false
+Digifinex.com,exchange,87.5,9,85,5,BSC|ETH|TRON,scorechain-counterparties,digifinex-com,digifinex.com,none,,false
+HashKey,exchange,87.5,9,85,5,ETH|TRON,scorechain-counterparties,hashkey,,none,,false
+Luno.com,exchange,87.5,9,85,5,ETH,scorechain-counterparties,luno-com,luno.com,none,,false
+Moonpay.com,exchange,87.5,9,85,5,BSC|ETH|TRON,scorechain-counterparties,moonpay-com,moonpay.com,none,,false
+Nivex,exchange,87.5,9,85,5,BSC|ETH|TRON,scorechain-counterparties,nivex,,none,,false
+Nonkyc.io,exchange,87.5,9,85,5,BSC|ETH|TRON,scorechain-counterparties,nonkyc-io,nonkyc.io,none,,false
+Paribu exchange,exchange,87.5,9,85,5,ETH|TRON,scorechain-counterparties,paribu-exchange,,none,,false
+Shakepay.com,exchange,87.5,9,85,5,ETH,scorechain-counterparties,shakepay-com,shakepay.com,none,,false
+Uphold.com,exchange,87.5,9,85,5,BSC|ETH|TRON,scorechain-counterparties,uphold-com,uphold.com,none,,false
+hwdb.la - Haowang Guarantee,mixer,87.5,9,85,95,TRON,scorechain-counterparties,hwdb-la-haowang-guarantee,hwdb.la,none,,false
+jaredfromsubway.eth MEV Bot,bot,86.8,8,85,20,BSC|ETH,scorechain-counterparties,jaredfromsubway-eth-mev-bot,jaredfromsubway.eth,none,,false
+LI.FI,bridge,86.8,8,85,15,BSC|ETH,scorechain-counterparties,li-fi,li.fi,none,,false
+Mayan.finance,bridge,86.8,8,85,15,BSC|ETH,scorechain-counterparties,mayan-finance,mayan.finance,none,,false
+Odos.xyz,bridge,86.8,8,85,15,BSC|ETH,scorechain-counterparties,odos-xyz,odos.xyz,none,,false
+Relay.link,bridge,86.8,8,85,15,BSC|ETH|TRON,scorechain-counterparties,relay-link,relay.link,none,,false
+Stargate.finance,bridge,86.8,8,85,15,BSC|ETH,scorechain-counterparties,stargate-finance,stargate.finance,none,,false
+PancakeSwap,defi,86.8,8,85,10,BSC,scorechain-counterparties,pancakeswap,,none,,false
+Aeroswap.io,dex,86.8,8,85,10,BSC|ETH,scorechain-counterparties,aeroswap-io,aeroswap.io,none,,false
+Clipper.exchange,dex,86.8,8,85,10,ETH,scorechain-counterparties,clipper-exchange,clipper.exchange,none,,false
+Golden Whale,dex,86.8,8,85,10,TRON,scorechain-counterparties,golden-whale,,none,,false
+SideShift.ai,dex,86.8,8,85,10,BSC|ETH|TRON,scorechain-counterparties,sideshift-ai,sideshift.ai,none,,false
+SushiSwap,dex,86.8,8,85,10,BSC|ETH,scorechain-counterparties,sushiswap,,none,,false
+Bitcoinvn.io,exchange,86.8,8,85,5,BSC|ETH|TRON,scorechain-counterparties,bitcoinvn-io,bitcoinvn.io,none,,false
+Breetapp.com,exchange,86.8,8,85,5,BSC|ETH|TRON,scorechain-counterparties,breetapp-com,breetapp.com,none,,false
+Changelly.com,exchange,86.8,8,85,5,ETH|TRON,scorechain-counterparties,changelly-com,changelly.com,none,,false
+CoinZoom.com,exchange,86.8,8,85,5,ETH|TRON,scorechain-counterparties,coinzoom-com,coinzoom.com,none,,false
+Cryptal.com,exchange,86.8,8,85,5,BSC|ETH,scorechain-counterparties,cryptal-com,cryptal.com,none,,false
+Dex-trade.com,exchange,86.8,8,85,5,BSC|ETH|TRON,scorechain-counterparties,dex-trade-com,dex-trade.com,none,,false
+Gemini.com,exchange,86.8,8,85,5,ETH,scorechain-counterparties,gemini-com,gemini.com,none,,false
+LATOKEN.com,exchange,86.8,8,85,5,BSC|ETH|TRON,scorechain-counterparties,latoken-com,latoken.com,none,,false
+WOO Network,exchange,86.8,8,85,5,BSC|ETH|TRON,scorechain-counterparties,woo-network,,none,,false
+Woox,exchange,86.8,8,85,5,TRON,scorechain-counterparties,woox,,none,,false
+Zoomex.com,exchange,86.8,8,85,5,BSC|ETH|TRON,scorechain-counterparties,zoomex-com,zoomex.com,none,,false
+Gamdom.com,gambling,86.8,8,85,50,ETH,scorechain-counterparties,gamdom-com,gamdom.com,none,,false
+Across Protocol,bridge,86.0,7,85,15,BSC|ETH,scorechain-counterparties,across-protocol,,none,,false
+Socket.tech,bridge,86.0,7,85,15,BSC|ETH,scorechain-counterparties,socket-tech,socket.tech,none,,false
+Wormhole.com,bridge,86.0,7,85,15,BSC|ETH,scorechain-counterparties,wormhole-com,wormhole.com,none,,false
+chainflip.io,bridge,86.0,7,85,15,ETH,scorechain-counterparties,chainflip-io,chainflip.io,none,,false
+FalconX.io,defi,86.0,7,85,10,ETH,scorechain-counterparties,falconx-io,falconx.io,none,,false
+Butter Network,dex,86.0,7,85,10,BSC|ETH|TRON,scorechain-counterparties,butter-network,,none,,false
+Symbiosis.finance,dex,86.0,7,85,10,BSC|ETH|TRON,scorechain-counterparties,symbiosis-finance,symbiosis.finance,none,,false
+WOOFi,dex,86.0,7,85,10,BSC|ETH,scorechain-counterparties,woofi,,none,,false
+Big.one,exchange,86.0,7,85,5,BSC|ETH|TRON,scorechain-counterparties,big-one,big.one,none,,false
+Bololex.com,exchange,86.0,7,85,5,BSC|ETH|TRON,scorechain-counterparties,bololex-com,bololex.com,none,,false
+Icrypex.com,exchange,86.0,7,85,5,ETH|TRON,scorechain-counterparties,icrypex-com,icrypex.com,none,,false
+Jucoin,exchange,86.0,7,85,5,TRON,scorechain-counterparties,jucoin,,none,,false
+Newton.co,exchange,86.0,7,85,5,ETH,scorechain-counterparties,newton-co,newton.co,none,,false
+OSL.com,exchange,86.0,7,85,5,ETH|TRON,scorechain-counterparties,osl-com,osl.com,none,,false
+SuperEX.com,exchange,86.0,7,85,5,ETH|TRON,scorechain-counterparties,superex-com,superex.com,none,,false
+bittime.com,exchange,86.0,7,85,5,BSC|ETH|TRON,scorechain-counterparties,bittime-com,bittime.com,none,,false
+valr.com,exchange,86.0,7,85,5,ETH|TRON,scorechain-counterparties,valr-com,valr.com,none,,false
+Pokepay,psp,86.0,7,85,15,BSC|ETH|TRON,scorechain-counterparties,pokepay,,none,,false
+Allbridge.io,bridge,85.2,6,85,15,BSC|ETH|TRON,scorechain-counterparties,allbridge-io,allbridge.io,none,,false
+Celer Network,bridge,85.2,6,85,15,BSC|ETH,scorechain-counterparties,celer-network,,none,,false
+Kyber.network - Kyberswap,bridge,85.2,6,85,15,BSC|ETH,scorechain-counterparties,kyber-network-kyberswap,kyber.network,none,,false
+Galaxy Digital,defi,85.2,6,85,10,ETH,scorechain-counterparties,galaxy-digital,,none,,false
+Uniswap,defi,85.2,6,85,10,BSC|ETH,scorechain-counterparties,uniswap,,none,,false
+ApeSwap,dex,85.2,6,85,10,BSC,scorechain-counterparties,apeswap,,none,,false
+Chainlink,dex,85.2,6,85,10,BSC|ETH,scorechain-counterparties,chainlink,,none,,false
+Euler Finance,dex,85.2,6,85,10,BSC|ETH,scorechain-counterparties,euler-finance,,none,,false
+Hyperlane.xy,dex,85.2,6,85,10,BSC|ETH,scorechain-counterparties,hyperlane-xy,hyperlane.xy,none,,false
+KiloEx,dex,85.2,6,85,10,BSC,scorechain-counterparties,kiloex,,none,,false
+Maverick Protocol,dex,85.2,6,85,10,BSC|ETH,scorechain-counterparties,maverick-protocol,,none,,false
+Mdex.com,dex,85.2,6,85,10,BSC,scorechain-counterparties,mdex-com,mdex.com,none,,false
+Squad Swap,dex,85.2,6,85,10,BSC,scorechain-counterparties,squad-swap,,none,,false
+8888.com,exchange,85.2,6,85,5,TRON,scorechain-counterparties,8888-com,8888.com,none,,false
+Ajaib Exchange,exchange,85.2,6,85,5,BSC,scorechain-counterparties,ajaib-exchange,,none,,false
+Bikaglobal.one,exchange,85.2,6,85,5,TRON,scorechain-counterparties,bikaglobal-one,bikaglobal.one,none,,false
+BitMEX.com,exchange,85.2,6,85,5,BSC|ETH|TRON,scorechain-counterparties,bitmex-com,bitmex.com,none,,false
+Bitunix.com,exchange,85.2,6,85,5,BSC|ETH|TRON,scorechain-counterparties,bitunix-com,bitunix.com,none,,false
+Blockchain.com,exchange,85.2,6,85,5,ETH,scorechain-counterparties,blockchain-com,blockchain.com,none,,false
+CoinList.co,exchange,85.2,6,85,5,ETH,scorechain-counterparties,coinlist-co,coinlist.co,none,,false
+Cumberland.io,exchange,85.2,6,85,5,ETH,scorechain-counterparties,cumberland-io,cumberland.io,none,,false
+Deriv.com - Binary.com,exchange,85.2,6,85,5,BSC|ETH,scorechain-counterparties,deriv-com-binary-com,deriv.com,none,,false
+Ndax.io,exchange,85.2,6,85,5,BSC|ETH,scorechain-counterparties,ndax-io,ndax.io,none,,false
+Safe Trade,exchange,85.2,6,85,5,BSC|ETH|TRON,scorechain-counterparties,safe-trade,,none,,false
+SwissBorg.com,exchange,85.2,6,85,5,BSC|ETH,scorechain-counterparties,swissborg-com,swissborg.com,none,,false
+Xrex,exchange,85.2,6,85,5,TRON,scorechain-counterparties,xrex,,none,,false
+bitglobal.com,exchange,85.2,6,85,5,BSC|ETH,scorechain-counterparties,bitglobal-com,bitglobal.com,none,,false
+Bitharvest,mining,85.2,6,85,5,BSC|TRON,scorechain-counterparties,bitharvest,,none,,false
+Commerce Coinbase,psp,85.2,6,85,15,ETH,scorechain-counterparties,commerce-coinbase,,none,,false
+Upay,psp,85.2,6,85,15,TRON,scorechain-counterparties,upay,,none,,false
+biyapay,wallet,85.2,6,85,5,TRON,scorechain-counterparties,biyapay,,none,,false
+Crypto Exchanger Bot,bot,84.2,5,85,20,TRON,scorechain-counterparties,crypto-exchanger-bot,,none,,false
+Connext.network - Everclear.org,bridge,84.2,5,85,15,BSC|ETH,scorechain-counterparties,connext-network-everclear-org,connext.network,none,,false
+Layerzero.network,bridge,84.2,5,85,15,BSC|ETH,scorechain-counterparties,layerzero-network,layerzero.network,none,,false
+Rhino.fi,bridge,84.2,5,85,15,BSC|ETH|TRON,scorechain-counterparties,rhino-fi,rhino.fi,none,,false
+scroll.io,bridge,84.2,5,85,15,ETH,scorechain-counterparties,scroll-io,scroll.io,none,,false
+xy.finance,bridge,84.2,5,85,15,BSC|ETH,scorechain-counterparties,xy-finance,xy.finance,none,,false
+zkSync.io,bridge,84.2,5,85,15,ETH,scorechain-counterparties,zksync-io,zksync.io,none,,false
+Ether.fi,defi,84.2,5,85,10,ETH,scorechain-counterparties,ether-fi,ether.fi,none,,false
+Flow Traders,defi,84.2,5,85,10,ETH,scorechain-counterparties,flow-traders,,none,,false
+Stargate Finance,defi,84.2,5,85,10,BSC|ETH,scorechain-counterparties,stargate-finance,,none,,false
+Beacon Chain Validators Fee Recipient Accounts,dex,84.2,5,85,10,BSC|ETH,scorechain-counterparties,beacon-chain-validators-fee-recipient-accounts,,none,,false
+Feee.io,dex,84.2,5,85,10,TRON,scorechain-counterparties,feee-io,feee.io,none,,false
+Guarantee,dex,84.2,5,85,10,TRON,scorechain-counterparties,guarantee,,none,,false
+Krystal.app,dex,84.2,5,85,10,BSC,scorechain-counterparties,krystal-app,krystal.app,none,,false
+Metamask.io,dex,84.2,5,85,10,BSC|ETH,scorechain-counterparties,metamask-io,metamask.io,none,,false
+Nomiswap.io,dex,84.2,5,85,10,BSC,scorechain-counterparties,nomiswap-io,nomiswap.io,none,,false
+Venus.io,dex,84.2,5,85,10,BSC|ETH,scorechain-counterparties,venus-io,venus.io,none,,false
+Aifory Pro,exchange,84.2,5,85,5,ETH|TRON,scorechain-counterparties,aifory-pro,,none,,false
+Bitbank.cc,exchange,84.2,5,85,5,ETH,scorechain-counterparties,bitbank-cc,bitbank.cc,none,,false
+Bitexen.com,exchange,84.2,5,85,5,BSC|ETH|TRON,scorechain-counterparties,bitexen-com,bitexen.com,none,,false
+Bullish.com,exchange,84.2,5,85,5,ETH,scorechain-counterparties,bullish-com,bullish.com,none,,false
+Coinjar.com,exchange,84.2,5,85,5,ETH,scorechain-counterparties,coinjar-com,coinjar.com,none,,false
+Coinsbit.io,exchange,84.2,5,85,5,BSC|ETH|TRON,scorechain-counterparties,coinsbit-io,coinsbit.io,none,,false
+Deribit.com,exchange,84.2,5,85,5,ETH,scorechain-counterparties,deribit-com,deribit.com,none,,false
+Dtcpay.com,exchange,84.2,5,85,5,BSC|ETH|TRON,scorechain-counterparties,dtcpay-com,dtcpay.com,none,,false
+FameMarkets,exchange,84.2,5,85,5,TRON,scorechain-counterparties,famemarkets,,none,,false
+Obmen One,exchange,84.2,5,85,5,ETH,scorechain-counterparties,obmen-one,,none,,false
+Robinhood.com,exchange,84.2,5,85,5,BSC|ETH,scorechain-counterparties,robinhood-com,robinhood.com,none,,false
+Safe.trade,exchange,84.2,5,85,5,BSC|TRON,scorechain-counterparties,safe-trade,safe.trade,none,,false
+Suncrypto.in,exchange,84.2,5,85,5,BSC|TRON,scorechain-counterparties,suncrypto-in,suncrypto.in,none,,false
+Websea.com,exchange,84.2,5,85,5,BSC|ETH|TRON,scorechain-counterparties,websea-com,websea.com,none,,false
+Elliptic,mixer,84.2,5,85,95,TRON,elliptic-verdicts,elliptic,,none,,false
+DePay.com,psp,84.2,5,85,15,BSC|ETH|TRON,scorechain-counterparties,depay-com,depay.com,none,,false
+Binance Wallet,wallet,84.2,5,85,5,BSC|ETH|TRON,scorechain-counterparties,binance-wallet,,none,,false
+24Crypto Bot,bot,83.0,4,85,20,TRON,scorechain-counterparties,24crypto-bot,,none,,false
+Arbitrum.io,bridge,83.0,4,85,15,ETH,scorechain-counterparties,arbitrum-io,arbitrum.io,none,,false
+CoW Swap - CoW Protocol,bridge,83.0,4,85,15,BSC|ETH,scorechain-counterparties,cow-swap-cow-protocol,,none,,false
+Defiway Bridge,bridge,83.0,4,85,15,BSC|ETH|TRON,scorechain-counterparties,defiway-bridge,,none,,false
+Harmony.one,bridge,83.0,4,85,15,BSC|ETH,scorechain-counterparties,harmony-one,harmony.one,none,,false
+Hop Protocol,bridge,83.0,4,85,15,ETH,scorechain-counterparties,hop-protocol,,none,,false
+O3swap,bridge,83.0,4,85,15,BSC|ETH,scorechain-counterparties,o3swap,,none,,false
+Optimism,bridge,83.0,4,85,15,BSC|ETH,scorechain-counterparties,optimism,,none,,false
+Rubic.exchange,bridge,83.0,4,85,15,BSC|ETH,scorechain-counterparties,rubic-exchange,rubic.exchange,none,,false
+Squidrouter.com,bridge,83.0,4,85,15,BSC|ETH,scorechain-counterparties,squidrouter-com,squidrouter.com,none,,false
+Wombat.exchange,bridge,83.0,4,85,15,BSC,scorechain-counterparties,wombat-exchange,wombat.exchange,none,,false
+1inch Network,defi,83.0,4,85,10,BSC|ETH,scorechain-counterparties,1inch-network,,none,,false
+Clipper.exchange,defi,83.0,4,85,10,ETH,scorechain-counterparties,clipper-exchange,clipper.exchange,none,,false
+Dwf-labs.com,defi,83.0,4,85,10,BSC|ETH,scorechain-counterparties,dwf-labs-com,dwf-labs.com,none,,false
+GSR Markets,defi,83.0,4,85,10,BSC|ETH,scorechain-counterparties,gsr-markets,,none,,false
+Kyber.network - Kyberswap,defi,83.0,4,85,10,BSC|ETH,scorechain-counterparties,kyber-network-kyberswap,kyber.network,none,,false
+Multichain,defi,83.0,4,85,10,BSC|ETH,scorechain-counterparties,multichain,,none,,false
+Apollox.finance,dex,83.0,4,85,10,BSC|ETH,scorechain-counterparties,apollox-finance,apollox.finance,none,,false
+BarnBridge DAO,dex,83.0,4,85,10,BSC|ETH,scorechain-counterparties,barnbridge-dao,,none,,false
+Bebop.xyz,dex,83.0,4,85,10,BSC|ETH,scorechain-counterparties,bebop-xyz,bebop.xyz,none,,false
+Eldorado.io,dex,83.0,4,85,10,TRON,scorechain-counterparties,eldorado-io,eldorado.io,none,,false
+Ellipsis Finance,dex,83.0,4,85,10,BSC,defillama-protocols|scorechain-counterparties,ellipsis-finance,,none,,false
+Galaxy Coin,dex,83.0,4,85,10,TRON,scorechain-counterparties,galaxy-coin,,none,,false
+InstaDApp,dex,83.0,4,85,10,BSC|ETH,scorechain-counterparties,instadapp,,none,,false
+Maker DAO,dex,83.0,4,85,10,ETH,scorechain-counterparties,maker-dao,,none,,false
+Relayer Network,dex,83.0,4,85,10,BSC|ETH,scorechain-counterparties,relayer-network,,none,,false
+USDD,dex,83.0,4,85,10,BSC|ETH|TRON,scorechain-counterparties,usdd,,none,,false
+polyhedra.network,dex,83.0,4,85,10,BSC,scorechain-counterparties,polyhedra-network,polyhedra.network,none,,false
+Azbit.com,exchange,83.0,4,85,5,BSC|TRON,scorechain-counterparties,azbit-com,azbit.com,none,,false
+Backpack.exchange,exchange,83.0,4,85,5,BSC|ETH,scorechain-counterparties,backpack-exchange,backpack.exchange,none,,false
+Bitoasis.net,exchange,83.0,4,85,5,ETH|TRON,scorechain-counterparties,bitoasis-net,bitoasis.net,none,,false
+BrasilBitcoin.com.br,exchange,83.0,4,85,5,ETH|TRON,scorechain-counterparties,brasilbitcoin-com-br,brasilbitcoin.com.br,none,,false
+Btcmarkets.net,exchange,83.0,4,85,5,ETH,scorechain-counterparties,btcmarkets-net,btcmarkets.net,none,,false
+Buenbit.com,exchange,83.0,4,85,5,BSC|ETH,scorechain-counterparties,buenbit-com,buenbit.com,none,,false
+Byex.com,exchange,83.0,4,85,5,BSC|TRON,scorechain-counterparties,byex-com,byex.com,none,,false
+Eterex.com,exchange,83.0,4,85,5,TRON,scorechain-counterparties,eterex-com,eterex.com,none,,false
+Excoino.com,exchange,83.0,4,85,5,BSC|TRON,scorechain-counterparties,excoino-com,excoino.com,none,,false
+Flipster.io - AQX.com,exchange,83.0,4,85,5,BSC|ETH|TRON,scorechain-counterparties,flipster-io-aqx-com,flipster.io,none,,false
+Flowdesk.co,exchange,83.0,4,85,5,BSC|ETH,scorechain-counterparties,flowdesk-co,flowdesk.co,none,,false
+Hotbit.io,exchange,83.0,4,85,5,BSC|ETH|TRON,scorechain-counterparties,hotbit-io,hotbit.io,none,,false
+Hoyabit,exchange,83.0,4,85,5,BSC|TRON,scorechain-counterparties,hoyabit,,none,,false
+Ibit Global,exchange,83.0,4,85,5,BSC|TRON,scorechain-counterparties,ibit-global,,none,,false
+Klickl.com,exchange,83.0,4,85,5,ETH|TRON,scorechain-counterparties,klickl-com,klickl.com,none,,false
+LMAX Digital,exchange,83.0,4,85,5,ETH,scorechain-counterparties,lmax-digital,,none,,false
+Metamask.io,exchange,83.0,4,85,5,BSC|ETH,scorechain-counterparties,metamask-io,metamask.io,none,,false
+PancakeSwap,exchange,83.0,4,85,5,BSC,scorechain-counterparties,pancakeswap,,none,,false
+QMall.io,exchange,83.0,4,85,5,BSC|ETH|TRON,scorechain-counterparties,qmall-io,qmall.io,none,,false
+SunSwap.com,exchange,83.0,4,85,5,TRON,scorechain-counterparties,sunswap-com,sunswap.com,none,,false
+otc-u.com,exchange,83.0,4,85,5,ETH|TRON,scorechain-counterparties,otc-u-com,otc-u.com,none,,false
+500casino,gambling,83.0,4,85,50,BSC|ETH,scorechain-counterparties,500casino,,none,,false
+Spark,mining,83.0,4,85,5,ETH,scorechain-counterparties,spark,,none,,false
+Coinpal.io,psp,83.0,4,85,15,TRON,scorechain-counterparties,coinpal-io,coinpal.io,none,,false
+No.com,psp,83.0,4,85,15,TRON,scorechain-counterparties,no-com,no.com,none,,false
+1inch Network,bridge,81.5,3,85,15,BSC|ETH,scorechain-counterparties,1inch-network,,none,,false
+Avalanche Bridge,bridge,81.5,3,85,15,ETH,scorechain-counterparties,avalanche-bridge,,none,,false
+Interport.fi,bridge,81.5,3,85,15,BSC,scorechain-counterparties,interport-fi,interport.fi,none,,false
+Orbit Bridge,bridge,81.5,3,85,15,BSC|ETH,defillama-protocols|scorechain-counterparties,orbit-bridge,,none,,false
+Owlto Finance,bridge,81.5,3,85,15,BSC|ETH,scorechain-counterparties,owlto-finance,,none,,false
+POA Network,bridge,81.5,3,85,15,BSC|ETH,scorechain-counterparties,poa-network,,none,,false
+PolyNetwork,bridge,81.5,3,85,15,BSC|ETH,scorechain-counterparties,polynetwork,,none,,false
+Rango.exchange,bridge,81.5,3,85,15,BSC|ETH,scorechain-counterparties,rango-exchange,rango.exchange,none,,false
+Aave,defi,81.5,3,85,10,ETH,scorechain-counterparties,aave,,none,,false
+Amber Group,defi,81.5,3,85,10,ETH,scorechain-counterparties,amber-group,,none,,false
+Curve.fi,defi,81.5,3,85,10,ETH,scorechain-counterparties,curve-fi,curve.fi,none,,false
+Jump Trading,defi,81.5,3,85,10,ETH,scorechain-counterparties,jump-trading,,none,,false
+Lido,defi,81.5,3,85,10,ETH,defillama-protocols|scorechain-counterparties,lido,,none,,false
+Lido.fi,defi,81.5,3,85,10,ETH,scorechain-counterparties,lido-fi,lido.fi,none,,false
+Master Ventures,defi,81.5,3,85,10,BSC|ETH,scorechain-counterparties,master-ventures,,none,,false
+Syrup.fi,defi,81.5,3,85,10,ETH,scorechain-counterparties,syrup-fi,syrup.fi,none,,false
+multiple DEXs,defi,81.5,3,85,10,BSC|ETH,scorechain-counterparties,multiple-dexs,,none,,false
+Alpaca Finance,dex,81.5,3,85,10,BSC,scorechain-counterparties,alpaca-finance,,none,,false
+Bakeryswap.org,dex,81.5,3,85,10,BSC,scorechain-counterparties,bakeryswap-org,bakeryswap.org,none,,false
+Blast.io,dex,81.5,3,85,10,ETH,scorechain-counterparties,blast-io,blast.io,none,,false
+Compound.finance,dex,81.5,3,85,10,ETH,scorechain-counterparties,compound-finance,compound.finance,none,,false
+Debank.com,dex,81.5,3,85,10,BSC|ETH,scorechain-counterparties,debank-com,debank.com,none,,false
+Defy Swap,dex,81.5,3,85,10,ETH|TRON,scorechain-counterparties,defy-swap,,none,,false
+Disperse.app,dex,81.5,3,85,10,BSC|ETH,scorechain-counterparties,disperse-app,disperse.app,none,,false
+Fluid.io,dex,81.5,3,85,10,TRON,scorechain-counterparties,fluid-io,fluid.io,none,,false
+Furucombo,dex,81.5,3,85,10,ETH,scorechain-counterparties,furucombo,,none,,false
+Gamma.xyz,dex,81.5,3,85,10,BSC,scorechain-counterparties,gamma-xyz,gamma.xyz,none,,false
+Gitcoin,dex,81.5,3,85,10,ETH,scorechain-counterparties,gitcoin,,none,,false
+Gnosis,dex,81.5,3,85,10,ETH,scorechain-counterparties,gnosis,,none,,false
+Kinza Finance,dex,81.5,3,85,10,BSC,scorechain-counterparties,kinza-finance,,none,,false
+Meson.fi,dex,81.5,3,85,10,BSC|ETH|TRON,scorechain-counterparties,meson-fi,meson.fi,none,,false
+NEAR Intents,dex,81.5,3,85,10,BSC|ETH|TRON,scorechain-counterparties,near-intents,,none,,false
+NFT trade,dex,81.5,3,85,10,ETH,scorechain-counterparties,nft-trade,,none,,false
+PantherSwap,dex,81.5,3,85,10,BSC,defillama-protocols|scorechain-counterparties,pantherswap,,none,,false
+Request Network,dex,81.5,3,85,10,BSC|ETH,scorechain-counterparties,request-network,,none,,false
+Reservoir.tools,dex,81.5,3,85,10,BSC|ETH,scorechain-counterparties,reservoir-tools,reservoir.tools,none,,false
+ScoreChain,dex,81.5,3,85,10,BSC|ETH|TRON,scorechain-verdicts,scorechain,,none,,false
+Shibaswap.com,dex,81.5,3,85,10,ETH,scorechain-counterparties,shibaswap-com,shibaswap.com,none,,false
+Squid,dex,81.5,3,85,10,BSC|ETH,scorechain-counterparties,squid,,none,,false
+Wault Finance,dex,81.5,3,85,10,BSC,scorechain-counterparties,wault-finance,,none,,false
+Zerolend.xyz,dex,81.5,3,85,10,BSC|ETH,scorechain-counterparties,zerolend-xyz,zerolend.xyz,none,,false
+dsgmetaverse,dex,81.5,3,85,10,BSC,scorechain-counterparties,dsgmetaverse,,none,,false
+lista.org,dex,81.5,3,85,10,BSC,scorechain-counterparties,lista-org,lista.org,none,,false
+mimic.fi,dex,81.5,3,85,10,BSC|ETH,scorechain-counterparties,mimic-fi,mimic.fi,none,,false
+4e Exchange - eeee.com,exchange,81.5,3,85,5,TRON,scorechain-counterparties,4e-exchange-eeee-com,,none,,false
+97.com,exchange,81.5,3,85,5,TRON,scorechain-counterparties,97-com,97.com,none,,false
+Any.cash,exchange,81.5,3,85,5,ETH,scorechain-counterparties,any-cash,any.cash,none,,false
+Arkham Exchange,exchange,81.5,3,85,5,ETH,defillama-protocols|scorechain-counterparties,arkham-exchange,,none,,false
+B2Z Exchange,exchange,81.5,3,85,5,BSC,scorechain-counterparties,b2z-exchange,,none,,false
+Bibox.com,exchange,81.5,3,85,5,BSC|ETH|TRON,scorechain-counterparties,bibox-com,bibox.com,none,,false
+Bit24.cash,exchange,81.5,3,85,5,BSC|TRON,scorechain-counterparties,bit24-cash,bit24.cash,none,,false
+BitFlyer.com,exchange,81.5,3,85,5,ETH,scorechain-counterparties,bitflyer-com,bitflyer.com,none,,false
+Bitcash.cz,exchange,81.5,3,85,5,BSC|ETH,scorechain-counterparties,bitcash-cz,bitcash.cz,none,,false
+Bvox.com - Bitvenus.com,exchange,81.5,3,85,5,BSC|ETH,scorechain-counterparties,bvox-com-bitvenus-com,bvox.com,none,,false
+Coinswitch.co,exchange,81.5,3,85,5,BSC|ETH,scorechain-counterparties,coinswitch-co,coinswitch.co,none,,false
+Cointiger.com,exchange,81.5,3,85,5,BSC|TRON,scorechain-counterparties,cointiger-com,cointiger.com,none,,false
+Currency.com,exchange,81.5,3,85,5,BSC|ETH,scorechain-counterparties,currency-com,currency.com,none,,false
+Exmo.com,exchange,81.5,3,85,5,BSC|TRON,scorechain-counterparties,exmo-com,exmo.com,none,,false
+HiBT,exchange,81.5,3,85,5,BSC|TRON,scorechain-counterparties,hibt,,none,,false
+Hoo.com,exchange,81.5,3,85,5,BSC|ETH|TRON,scorechain-counterparties,hoo-com,hoo.com,none,,false
+Hotscoin.com,exchange,81.5,3,85,5,BSC|TRON,scorechain-counterparties,hotscoin-com,hotscoin.com,none,,false
+Korbit.co.kr,exchange,81.5,3,85,5,BSC|ETH|TRON,scorechain-counterparties,korbit-co-kr,korbit.co.kr,none,,false
+MGBX,exchange,81.5,3,85,5,TRON,scorechain-counterparties,mgbx,,none,,false
+Mobee.io,exchange,81.5,3,85,5,BSC|TRON,scorechain-counterparties,mobee-io,mobee.io,none,,false
+NovaDAX.com.br,exchange,81.5,3,85,5,BSC|ETH|TRON,scorechain-counterparties,novadax-com-br,novadax.com.br,none,,false
+OKCoin.jp,exchange,81.5,3,85,5,BSC|ETH|TRON,scorechain-counterparties,okcoin-jp,okcoin.jp,none,,false
+Ompfinex.com,exchange,81.5,3,85,5,BSC|TRON,scorechain-counterparties,ompfinex-com,ompfinex.com,none,,false
+Orangex.com,exchange,81.5,3,85,5,BSC|TRON,scorechain-counterparties,orangex-com,orangex.com,none,,false
+Roqqu.com,exchange,81.5,3,85,5,TRON,scorechain-counterparties,roqqu-com,roqqu.com,none,,false
+Uniswap,exchange,81.5,3,85,5,ETH,scorechain-counterparties,uniswap,,none,,false
+WazirX.com,exchange,81.5,3,85,5,ETH|TRON,scorechain-counterparties,wazirx-com,wazirx.com,none,,false
+Xeggex.com,exchange,81.5,3,85,5,BSC|TRON,scorechain-counterparties,xeggex-com,xeggex.com,none,,false
+Yobit.net,exchange,81.5,3,85,5,ETH|TRON,scorechain-counterparties,yobit-net,yobit.net,none,,false
+Yodaobmen,exchange,81.5,3,85,5,TRON,scorechain-counterparties,yodaobmen,,none,,false
+multiple DEXs,exchange,81.5,3,85,5,BSC|ETH,scorechain-counterparties,multiple-dexs,,none,,false
+safex.hk,exchange,81.5,3,85,5,TRON,scorechain-counterparties,safex-hk,safex.hk,none,,false
+500 Casino,gambling,81.5,3,85,50,BSC|ETH,scorechain-counterparties,500-casino,,none,,false
+Kalitebet,gambling,81.5,3,85,50,BSC|TRON,scorechain-counterparties,kalitebet,,none,,false
+Lucky Block,gambling,81.5,3,85,50,BSC|ETH,scorechain-counterparties,lucky-block,,none,,false
+LuckyBlock,gambling,81.5,3,85,50,BSC,scorechain-counterparties,luckyblock,,none,,false
+fotoncard.com,psp,81.5,3,85,15,TRON,scorechain-counterparties,fotoncard-com,fotoncard.com,none,,false
+Bitpie.com,wallet,81.5,3,85,5,ETH|TRON,scorechain-counterparties,bitpie-com,bitpie.com,none,,false
+Rabby.io,wallet,81.5,3,85,5,BSC|ETH,scorechain-counterparties,rabby-io,rabby.io,none,,false
+Vitalik Buterin,wallet,81.5,3,85,5,ETH,scorechain-counterparties,vitalik-buterin,,none,,false
+@HWZF,bot,79.7,2,85,20,TRON,scorechain-counterparties,hwzf,,none,,false
+MEV Bot #349,bot,79.7,2,85,20,BSC|ETH,scorechain-counterparties,mev-bot-349,,none,,false
+multiple DEXs,bot,79.7,2,85,20,ETH,scorechain-counterparties,multiple-dexs,,none,,false
+Axelar.network,bridge,79.7,2,85,15,ETH,scorechain-counterparties,axelar-network,axelar.network,none,,false
+Biconomy.io,bridge,79.7,2,85,15,BSC|ETH,scorechain-counterparties,biconomy-io,biconomy.io,none,,false
+Boringdao.com,bridge,79.7,2,85,15,ETH,scorechain-counterparties,boringdao-com,boringdao.com,none,,false
+CrossCurve,bridge,79.7,2,85,15,BSC|ETH,scorechain-counterparties,crosscurve,,none,,false
+Evodefi.com,bridge,79.7,2,85,15,BSC|ETH,scorechain-counterparties,evodefi-com,evodefi.com,none,,false
+Hyperunit,bridge,79.7,2,85,15,ETH,scorechain-counterparties,hyperunit,,none,,false
+Metamask.io,bridge,79.7,2,85,15,BSC,scorechain-counterparties,metamask-io,metamask.io,none,,false
+Orion Protocol,bridge,79.7,2,85,15,BSC,scorechain-counterparties,orion-protocol,,none,,false
+PancakeSwap,bridge,79.7,2,85,15,BSC,scorechain-counterparties,pancakeswap,,none,,false
+Portalbridge.com,bridge,79.7,2,85,15,BSC|ETH,scorechain-counterparties,portalbridge-com,portalbridge.com,none,,false
+PulseChain.com,bridge,79.7,2,85,15,ETH,scorechain-counterparties,pulsechain-com,pulsechain.com,none,,false
+Starkgate.starknet.io,bridge,79.7,2,85,15,ETH,scorechain-counterparties,starkgate-starknet-io,starkgate.starknet.io,none,,false
+Starkware.co,bridge,79.7,2,85,15,ETH,scorechain-counterparties,starkware-co,starkware.co,none,,false
+Umbria.network,bridge,79.7,2,85,15,BSC|ETH,scorechain-counterparties,umbria-network,umbria.network,none,,false
+APY Finance,defi,79.7,2,85,10,ETH,defillama-protocols|scorechain-counterparties,apy-finance,,none,,false
+Agglayer,defi,79.7,2,85,10,ETH,scorechain-counterparties,agglayer,,none,,false
+Bella Protocol,defi,79.7,2,85,10,ETH,defillama-protocols|scorechain-counterparties,bella-protocol,,none,,false
+Compound USDC,defi,79.7,2,85,10,ETH,scorechain-counterparties,compound-usdc,,none,,false
+Cream.Finance,defi,79.7,2,85,10,BSC,scorechain-counterparties,cream-finance,cream.finance,none,,false
+Everstake,defi,79.7,2,85,10,ETH,scorechain-counterparties,everstake,,none,,false
+Falcon Finance,defi,79.7,2,85,10,ETH,defillama-protocols|scorechain-counterparties,falcon-finance,,none,,false
+Flux Protocol,defi,79.7,2,85,10,BSC,defillama-protocols|scorechain-counterparties,flux-protocol,,none,,false
+Frankencoin,defi,79.7,2,85,10,ETH,defillama-protocols|scorechain-counterparties,frankencoin,,none,,false
+Maple Finance,defi,79.7,2,85,10,ETH,scorechain-counterparties,maple-finance,,none,,false
+Nonco,defi,79.7,2,85,10,BSC|ETH,scorechain-counterparties,nonco,,none,,false
+P2P.org - P2P Staking,defi,79.7,2,85,10,ETH,scorechain-counterparties,p2p-org-p2p-staking,p2p.org,none,,false
+Pendle,defi,79.7,2,85,10,BSC|ETH,defillama-protocols|scorechain-counterparties,pendle,,none,,false
+Stakestone.io,defi,79.7,2,85,10,BSC|ETH,scorechain-counterparties,stakestone-io,stakestone.io,none,,false
+Symbolic Capital Partners,defi,79.7,2,85,10,ETH,scorechain-counterparties,symbolic-capital-partners,,none,,false
+Syrup,defi,79.7,2,85,10,ETH,scorechain-counterparties,syrup,,none,,false
+UltraYield,defi,79.7,2,85,10,ETH,scorechain-counterparties,ultrayield,,none,,false
+UwU Lend,defi,79.7,2,85,10,ETH,defillama-protocols|scorechain-counterparties,uwu-lend,,none,,false
+WePiggy,defi,79.7,2,85,10,BSC|ETH,defillama-protocols|scorechain-counterparties,wepiggy,,none,,false
+apcapitalinvestment.com,defi,79.7,2,85,10,ETH,scorechain-counterparties,apcapitalinvestment-com,apcapitalinvestment.com,none,,false
+yearn,defi,79.7,2,85,10,ETH,scorechain-counterparties,yearn,,none,,false
+Algebra.finance,dex,79.7,2,85,10,BSC,scorechain-counterparties,algebra-finance,algebra.finance,none,,false
+Alpha Venture DAO,dex,79.7,2,85,10,BSC|ETH,scorechain-counterparties,alpha-venture-dao,,none,,false
+Ambit Finance,dex,79.7,2,85,10,BSC,scorechain-counterparties,ambit-finance,,none,,false
+AmpleSwap,dex,79.7,2,85,10,BSC,defillama-protocols|scorechain-counterparties,ampleswap,,none,,false
+Aster,dex,79.7,2,85,10,BSC|ETH,scorechain-counterparties,aster,,none,,false
+Balancer.fi,dex,79.7,2,85,10,ETH,scorechain-counterparties,balancer-fi,balancer.fi,none,,false
+Banana Gun,dex,79.7,2,85,10,BSC,scorechain-counterparties,banana-gun,,none,,false
+Bogged Finance,dex,79.7,2,85,10,BSC,defillama-protocols|scorechain-counterparties,bogged-finance,,none,,false
+Bullperks.com,dex,79.7,2,85,10,BSC|ETH,scorechain-counterparties,bullperks-com,bullperks.com,none,,false
+Bunicorn,dex,79.7,2,85,10,BSC,defillama-protocols|scorechain-counterparties,bunicorn,,none,,false
+BurgerSwap,dex,79.7,2,85,10,BSC,defillama-protocols|scorechain-counterparties,burgerswap,,none,,false
+CafeSwap,dex,79.7,2,85,10,BSC,defillama-protocols|scorechain-counterparties,cafeswap,,none,,false
+Component,dex,79.7,2,85,10,BSC|ETH,defillama-protocols|scorechain-counterparties,component,,none,,false
+CrowdSwap,dex,79.7,2,85,10,BSC|POLYGON,defillama-protocols|scorechain-counterparties,crowdswap,,none,,false
+Dforce.network,dex,79.7,2,85,10,BSC|ETH,scorechain-counterparties,dforce-network,dforce.network,none,,false
+Dolomite.io,dex,79.7,2,85,10,ETH,scorechain-counterparties,dolomite-io,dolomite.io,none,,false
+ENS,dex,79.7,2,85,10,ETH,scorechain-counterparties,ens,,none,,false
+EnsoBuild,dex,79.7,2,85,10,BSC|ETH,scorechain-counterparties,ensobuild,,none,,false
+Ethena.fi,dex,79.7,2,85,10,ETH,scorechain-counterparties,ethena-fi,ethena.fi,none,,false
+Fjordfoundry,dex,79.7,2,85,10,ETH,scorechain-counterparties,fjordfoundry,,none,,false
+Four.Meme,dex,79.7,2,85,10,BSC,scorechain-counterparties,four-meme,four.meme,none,,false
+Fstswap,dex,79.7,2,85,10,BSC,scorechain-counterparties,fstswap,,none,,false
+Fuel.network,dex,79.7,2,85,10,ETH,scorechain-counterparties,fuel-network,fuel.network,none,,false
+Gearbox Protocol,dex,79.7,2,85,10,ETH,scorechain-counterparties,gearbox-protocol,,none,,false
+Hashflow.com,dex,79.7,2,85,10,BSC|ETH,scorechain-counterparties,hashflow-com,hashflow.com,none,,false
+HyperJump,dex,79.7,2,85,10,BSC,defillama-protocols|scorechain-counterparties,hyperjump,,none,,false
+Julswap,dex,79.7,2,85,10,BSC,scorechain-counterparties,julswap,,none,,false
+Karak.network,dex,79.7,2,85,10,ETH,scorechain-counterparties,karak-network,karak.network,none,,false
+KernelDAO,dex,79.7,2,85,10,BSC,scorechain-counterparties,kerneldao,,none,,false
+LI.FI,dex,79.7,2,85,10,BSC|ETH,scorechain-counterparties,li-fi,li.fi,none,,false
+Layerswap.io,dex,79.7,2,85,10,BSC|ETH,scorechain-counterparties,layerswap-io,layerswap.io,none,,false
+LuaSwap,dex,79.7,2,85,10,ETH,defillama-protocols|scorechain-counterparties,luaswap,,none,,false
+Mantle.xyz,dex,79.7,2,85,10,ETH,scorechain-counterparties,mantle-xyz,mantle.xyz,none,,false
+Maple Finance,dex,79.7,2,85,10,ETH,scorechain-counterparties,maple-finance,,none,,false
+Movement Network,dex,79.7,2,85,10,ETH,scorechain-counterparties,movement-network,,none,,false
+Multisender.app,dex,79.7,2,85,10,BSC|ETH,scorechain-counterparties,multisender-app,multisender.app,none,,false
+Native.org,dex,79.7,2,85,10,BSC|ETH,scorechain-counterparties,native-org,native.org,none,,false
+OpenLeverage,dex,79.7,2,85,10,BSC,defillama-protocols|scorechain-counterparties,openleverage,,none,,false
+Railgun,dex,79.7,2,85,10,ETH,scorechain-counterparties,railgun,,none,,false
+Rainbet.com,dex,79.7,2,85,10,BSC|ETH,scorechain-counterparties,rainbet-com,rainbet.com,none,,false
+Resolve Labs,dex,79.7,2,85,10,ETH,scorechain-counterparties,resolve-labs,,none,,false
+Revert.finance,dex,79.7,2,85,10,BSC|ETH,scorechain-counterparties,revert-finance,revert.finance,none,,false
+Ring.exchange,dex,79.7,2,85,10,ETH,scorechain-counterparties,ring-exchange,ring.exchange,none,,false
+Rings Protocol,dex,79.7,2,85,10,ETH,scorechain-counterparties,rings-protocol,,none,,false
+SidusHeroes,dex,79.7,2,85,10,ETH,scorechain-counterparties,sidusheroes,,none,,false
+Skip,dex,79.7,2,85,10,ETH,scorechain-counterparties,skip,,none,,false
+Sophon,dex,79.7,2,85,10,ETH,scorechain-counterparties,sophon,,none,,false
+Soulbound,dex,79.7,2,85,10,BSC|ETH,scorechain-counterparties,soulbound,,none,,false
+Super form,dex,79.7,2,85,10,BSC|ETH,scorechain-counterparties,super-form,,none,,false
+Sybil Delegates,dex,79.7,2,85,10,ETH,scorechain-counterparties,sybil-delegates,,none,,false
+Value Liquid,dex,79.7,2,85,10,ETH,defillama-protocols|scorechain-counterparties,value-liquid,,none,,false
+W-ETH - Wrapped Ether Old Contract,dex,79.7,2,85,10,ETH,scorechain-counterparties,w-eth-wrapped-ether-old-contract,,none,,false
+Waves.tech,dex,79.7,2,85,10,BSC|ETH,scorechain-counterparties,waves-tech,waves.tech,none,,false
+Whales.market,dex,79.7,2,85,10,BSC|ETH,scorechain-counterparties,whales-market,whales.market,none,,false
+Yearn.Finance,dex,79.7,2,85,10,ETH,scorechain-counterparties,yearn-finance,yearn.finance,none,,false
+aevo.xyz,dex,79.7,2,85,10,ETH,scorechain-counterparties,aevo-xyz,aevo.xyz,none,,false
+bZx,dex,79.7,2,85,10,BSC|ETH,scorechain-counterparties,bzx,,none,,false
+belt.fi,dex,79.7,2,85,10,BSC,scorechain-counterparties,belt-fi,belt.fi,none,,false
+blockdag.network,dex,79.7,2,85,10,BSC|ETH,scorechain-counterparties,blockdag-network,blockdag.network,none,,false
+bnbchain.org,dex,79.7,2,85,10,BSC,scorechain-counterparties,bnbchain-org,bnbchain.org,none,,false
+dYdX.exchange,dex,79.7,2,85,10,ETH,scorechain-counterparties,dydx-exchange,dydx.exchange,none,,false
+edgeX,dex,79.7,2,85,10,ETH,scorechain-counterparties,edgex,,none,,false
+integral.link,dex,79.7,2,85,10,ETH,scorechain-counterparties,integral-link,integral.link,none,,false
+mStable,dex,79.7,2,85,10,ETH,scorechain-counterparties,mstable,,none,,false
+stUSDT.io,dex,79.7,2,85,10,TRON,scorechain-counterparties,stusdt-io,stusdt.io,none,,false
+50cents.pro,exchange,79.7,2,85,5,BSC|TRON,scorechain-counterparties,50cents-pro,50cents.pro,none,,false
+60cek.org - 60cek.net,exchange,79.7,2,85,5,TRON,scorechain-counterparties,60cek-org-60cek-net,60cek.org,none,,false
+Anchorage Digital,exchange,79.7,2,85,5,ETH,scorechain-counterparties,anchorage-digital,,none,,false
+Arvix.pro - abcex.io,exchange,79.7,2,85,5,TRON,scorechain-counterparties,arvix-pro-abcex-io,arvix.pro,none,,false
+ArzPaya.com,exchange,79.7,2,85,5,TRON,scorechain-counterparties,arzpaya-com,arzpaya.com,none,,false
+BiKing,exchange,79.7,2,85,5,BSC|TRON,scorechain-counterparties,biking,,none,,false
+Bilira.co,exchange,79.7,2,85,5,ETH,scorechain-counterparties,bilira-co,bilira.co,none,,false
+Bit Trade - Btrade.io - BTradeAustralia.com,exchange,79.7,2,85,5,BSC|ETH,scorechain-counterparties,bit-trade-btrade-io-btradeaustralia-com,,none,,false
+Bit.com,exchange,79.7,2,85,5,TRON,scorechain-counterparties,bit-com,bit.com,none,,false
+Bit2Me.com,exchange,79.7,2,85,5,BSC|ETH,scorechain-counterparties,bit2me-com,bit2me.com,none,,false
+BitBase.es,exchange,79.7,2,85,5,BSC|ETH,scorechain-counterparties,bitbase-es,bitbase.es,none,,false
+Bitcoinsuisse.com,exchange,79.7,2,85,5,ETH,scorechain-counterparties,bitcoinsuisse-com,bitcoinsuisse.com,none,,false
+Bitforex.com,exchange,79.7,2,85,5,BSC|TRON,scorechain-counterparties,bitforex-com,bitforex.com,none,,false
+Bitlo.com,exchange,79.7,2,85,5,BSC|ETH,scorechain-counterparties,bitlo-com,bitlo.com,none,,false
+Bitnet,exchange,79.7,2,85,5,BSC|ETH,scorechain-counterparties,bitnet,,none,,false
+Bittrex.com,exchange,79.7,2,85,5,ETH,scorechain-counterparties,bittrex-com,bittrex.com,none,,false
+Bitypreco.com,exchange,79.7,2,85,5,BSC|ETH,scorechain-counterparties,bitypreco-com,bitypreco.com,none,,false
+Bkex.com,exchange,79.7,2,85,5,TRON,scorechain-counterparties,bkex-com,bkex.com,none,,false
+Buda.com,exchange,79.7,2,85,5,ETH,scorechain-counterparties,buda-com,buda.com,none,,false
+Bynex.io,exchange,79.7,2,85,5,BSC|TRON,scorechain-counterparties,bynex-io,bynex.io,none,,false
+C-PATEX.com,exchange,79.7,2,85,5,ETH|TRON,scorechain-counterparties,c-patex-com,c-patex.com,none,,false
+CEEX,exchange,79.7,2,85,5,BSC|TRON,scorechain-counterparties,ceex,,none,,false
+Codechange.cc,exchange,79.7,2,85,5,BSC|TRON,scorechain-counterparties,codechange-cc,codechange.cc,none,,false
+Coin.z.com - GMO Coin,exchange,79.7,2,85,5,ETH,scorechain-counterparties,coin-z-com-gmo-coin,,none,,false
+Coincatch.com,exchange,79.7,2,85,5,BSC|TRON,scorechain-counterparties,coincatch-com,coincatch.com,none,,false
+Coincheck.com,exchange,79.7,2,85,5,ETH,scorechain-counterparties,coincheck-com,coincheck.com,none,,false
+Coinext.com.br,exchange,79.7,2,85,5,BSC|ETH,scorechain-counterparties,coinext-com-br,coinext.com.br,none,,false
+Coinsquare.com,exchange,79.7,2,85,5,ETH,scorechain-counterparties,coinsquare-com,coinsquare.com,none,,false
+Cointr.com,exchange,79.7,2,85,5,TRON,scorechain-counterparties,cointr-com,cointr.com,none,,false
+CommEX.com,exchange,79.7,2,85,5,BSC|TRON,scorechain-counterparties,commex-com,commex.com,none,,false
+Crex24.com,exchange,79.7,2,85,5,BSC|ETH,scorechain-counterparties,crex24-com,crex24.com,none,,false
+ECNG Digital,exchange,79.7,2,85,5,ETH|TRON,scorechain-counterparties,ecng-digital,,none,,false
+Exolix.com,exchange,79.7,2,85,5,TRON,scorechain-counterparties,exolix-com,exolix.com,none,,false
+FMCPAY,exchange,79.7,2,85,5,TRON,scorechain-counterparties,fmcpay,,none,,false
+Farhad-exchange.com - Efex.pro,exchange,79.7,2,85,5,BSC|TRON,scorechain-counterparties,farhad-exchange-com-efex-pro,farhad-exchange.com,none,,false
+Free2ex.com,exchange,79.7,2,85,5,ETH|TRON,scorechain-counterparties,free2ex-com,free2ex.com,none,,false
+Freekassa.ru,exchange,79.7,2,85,5,BSC|TRON,scorechain-counterparties,freekassa-ru,freekassa.ru,none,,false
+Ftx.us,exchange,79.7,2,85,5,ETH,scorechain-counterparties,ftx-us,ftx.us,none,,false
+Giottus.com,exchange,79.7,2,85,5,TRON,scorechain-counterparties,giottus-com,giottus.com,none,,false
+Kauri Finance,exchange,79.7,2,85,5,BSC|ETH,scorechain-counterparties,kauri-finance,,none,,false
+Kot4x.com,exchange,79.7,2,85,5,ETH,scorechain-counterparties,kot4x-com,kot4x.com,none,,false
+LI.FI,exchange,79.7,2,85,5,ETH,scorechain-counterparties,li-fi,li.fi,none,,false
+LocalCoinSwap.com,exchange,79.7,2,85,5,ETH|TRON,scorechain-counterparties,localcoinswap-com,localcoinswap.com,none,,false
+Localtrade.cc,exchange,79.7,2,85,5,BSC|TRON,scorechain-counterparties,localtrade-cc,localtrade.cc,none,,false
+Paybis.com,exchange,79.7,2,85,5,ETH|TRON,scorechain-counterparties,paybis-com,paybis.com,none,,false
+Ripio.com,exchange,79.7,2,85,5,BSC|ETH,scorechain-counterparties,ripio-com,ripio.com,none,,false
+Roboforex,exchange,79.7,2,85,5,BSC|ETH,scorechain-counterparties,roboforex,,none,,false
+Sarrafex.com,exchange,79.7,2,85,5,BSC|ETH,scorechain-counterparties,sarrafex-com,sarrafex.com,none,,false
+Satoshi Tango,exchange,79.7,2,85,5,BSC|TRON,scorechain-counterparties,satoshi-tango,,none,,false
+SpectroCoin.com,exchange,79.7,2,85,5,ETH|TRON,scorechain-counterparties,spectrocoin-com,spectrocoin.com,none,,false
+Ulianex.com,exchange,79.7,2,85,5,BSC|TRON,scorechain-counterparties,ulianex-com,ulianex.com,none,,false
+Wealthsimple.com,exchange,79.7,2,85,5,ETH,scorechain-counterparties,wealthsimple-com,wealthsimple.com,none,,false
+Yoex,exchange,79.7,2,85,5,BSC,scorechain-counterparties,yoex,,none,,false
+ZTB,exchange,79.7,2,85,5,TRON,scorechain-counterparties,ztb,,none,,false
+Zb.com,exchange,79.7,2,85,5,ETH|TRON,scorechain-counterparties,zb-com,zb.com,none,,false
+Zondacrypto.com - BitBay.net,exchange,79.7,2,85,5,ETH|TRON,scorechain-counterparties,zondacrypto-com-bitbay-net,zondacrypto.com,none,,false
+onesatoshi.hk,exchange,79.7,2,85,5,TRON,scorechain-counterparties,onesatoshi-hk,onesatoshi.hk,none,,false
+uzx.com,exchange,79.7,2,85,5,BSC|ETH,scorechain-counterparties,uzx-com,uzx.com,none,,false
+Axie Infinity,gambling,79.7,2,85,50,ETH,scorechain-counterparties,axie-infinity,,none,,false
+Betpanda.io (Star Bright Media S.R.L.),gambling,79.7,2,85,50,BSC,scorechain-counterparties,betpanda-io-star-bright-media-s-r-l,betpanda.io,none,,false
+CloudBet.com,gambling,79.7,2,85,50,BSC|ETH,scorechain-counterparties,cloudbet-com,cloudbet.com,none,,false
+Coinpoker.com,gambling,79.7,2,85,50,BSC|ETH,scorechain-counterparties,coinpoker-com,coinpoker.com,none,,false
+Goated.com,gambling,79.7,2,85,50,BSC|ETH,scorechain-counterparties,goated-com,goated.com,none,,false
+Metamask.io,gambling,79.7,2,85,50,ETH,scorechain-counterparties,metamask-io,metamask.io,none,,false
+Owl.games,gambling,79.7,2,85,50,BSC|ETH,scorechain-counterparties,owl-games,owl.games,none,,false
+Packdraw,gambling,79.7,2,85,50,ETH,scorechain-counterparties,packdraw,,none,,false
+Scarlettcasino,gambling,79.7,2,85,50,BSC|ETH,scorechain-counterparties,scarlettcasino,,none,,false
+gofun8.com,gambling,79.7,2,85,50,TRON,scorechain-counterparties,gofun8-com,gofun8.com,none,,false
+1inch Network,nft_marketplace,79.7,2,85,5,ETH,scorechain-counterparties,1inch-network,,none,,false
+Uniswap,nft_marketplace,79.7,2,85,5,ETH,scorechain-counterparties,uniswap,,none,,false
+BitPay.com,psp,79.7,2,85,15,ETH,scorechain-counterparties,bitpay-com,bitpay.com,none,,false
+LetKnow Pay - Letknow.com - Pay.letknow.org,psp,79.7,2,85,15,TRON,scorechain-counterparties,letknow-pay-letknow-com-pay-letknow-org,,none,,false
+StraitsX.com,psp,79.7,2,85,15,BSC|ETH,scorechain-counterparties,straitsx-com,straitsx.com,none,,false
+Swapped.com,psp,79.7,2,85,15,BSC|ETH,scorechain-counterparties,swapped-com,swapped.com,none,,false
+Coinflip.tech,wallet,79.7,2,85,5,ETH,scorechain-counterparties,coinflip-tech,coinflip.tech,none,,false
+Freewallet.org,wallet,79.7,2,85,5,ETH,scorechain-counterparties,freewallet-org,freewallet.org,none,,false
+Onfa,wallet,79.7,2,85,5,BSC,scorechain-counterparties,onfa,,none,,false
+argent.xyz,wallet,79.7,2,85,5,ETH,scorechain-counterparties,argent-xyz,argent.xyz,none,,false
+Crystal,exchange,74.7,2,75,5,TRON,crystal-verdicts,crystal,,none,,false
