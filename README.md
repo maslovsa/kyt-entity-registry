@@ -1,5 +1,7 @@
 # kyt-entity-registry
 
+[Live Demo](https://maslovsa.github.io/kyt-entity-registry/)
+
 Public registry of crypto entity metadata + logos. Shared source of
 truth for [sdn_api](https://github.com/maslovsa/sdn-api),
 [aml_checker](https://github.com/maslovsa/aml_checker), and any future

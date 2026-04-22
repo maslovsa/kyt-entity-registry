@@ -48,6 +48,7 @@ from _base import (  # type: ignore[import-not-found]
 import enrich_from_arkham      # type: ignore[import-not-found]
 import enrich_from_brandfetch  # type: ignore[import-not-found]
 import enrich_from_defillama   # type: ignore[import-not-found]
+import enrich_from_favicon     # type: ignore[import-not-found]
 from normalize_png import NormalizeError, normalize  # type: ignore[import-not-found]
 
 REFRESH_DAYS = 30
@@ -56,7 +57,14 @@ STATUS_NONE = "none"
 STATUS_ARKHAM = "arkham"
 STATUS_BRANDFETCH = "brandfetch"
 STATUS_DEFILLAMA = "defillama"
+STATUS_FAVICON = "favicon"
 STATUS_MANUAL = "manual"
+STATUS_PLACEHOLDER = "placeholder"
+
+# DefiLlama covers tokenised protocols — dex + bridge + defi all
+# usually have a slug there. Exchange / hack / sanctioned categories
+# don't, so skip them to stay polite and avoid false matches.
+_DEFILLAMA_CATEGORIES = frozenset({"defi", "dex", "bridge"})
 
 
 def _today() -> str:
@@ -64,7 +72,9 @@ def _today() -> str:
 
 
 def _is_fresh(row: Row) -> bool:
-    if row.logo_status == STATUS_NONE:
+    # Placeholders bypass the freshness gate — we want to keep trying
+    # real sources every run. Likewise `none` is never fresh.
+    if row.logo_status in (STATUS_NONE, STATUS_PLACEHOLDER):
         return False
     updated = row.get("logo_updated_at")
     if not updated:
@@ -95,12 +105,22 @@ def _try_auto(row: Row, client: httpx.Client) -> tuple[str, bytes] | None:
         if data:
             return STATUS_BRANDFETCH, data
 
-    # DefiLlama: only try for DeFi-category entities to stay polite;
-    # their CDN has no strong rate limit but this is what the RFC asks.
-    if row.category_slug == "defi" and row.arkham_slug:
+    # DefiLlama: defi + dex + bridge. Most DeFi protocols are there
+    # under the same slug. Skip for exchange / hack / etc — wrong
+    # source and would pollute matches.
+    if row.category_slug in _DEFILLAMA_CATEGORIES and row.arkham_slug:
         data = enrich_from_defillama.fetch(row.arkham_slug, client=client)
         if data:
             return STATUS_DEFILLAMA, data
+
+    # Favicon — last resort before placeholder. Useful for exchanges,
+    # PSPs, wallets, small DEXes with a live website but no Arkham or
+    # DefiLlama coverage. Uses a dedicated client (browser UA + own
+    # timeouts); the caller's client is focused on CDNs, not HTML.
+    if row.canonical_domain:
+        data = enrich_from_favicon.fetch(row.canonical_domain)
+        if data:
+            return STATUS_FAVICON, data
 
     return None
 
@@ -115,18 +135,23 @@ def _write_logo(row: Row, png: bytes, dry_run: bool) -> Path | None:
     return path
 
 
-def _emit_index(dry_run: bool) -> int:
-    """Build logos/_index.json from filesystem state. Returns entry count."""
+def _emit_index(rows: list[Row], dry_run: bool) -> int:
+    """Build logos/_index.json from CSV state. Includes only entries
+    whose `logo_status` is a real source hit — placeholders and
+    `none` are excluded so consumer `hasLogo()` checks and the
+    gallery's "Only missing" filter keep behaving sensibly."""
+    real_statuses = {
+        STATUS_ARKHAM, STATUS_BRANDFETCH, STATUS_DEFILLAMA,
+        STATUS_FAVICON, STATUS_MANUAL,
+    }
     index: dict[str, bool] = {}
-    for category_dir in LOGOS_DIR.iterdir():
-        if not category_dir.is_dir():
+    for r in rows:
+        if r.logo_status not in real_statuses:
             continue
-        if category_dir.name.startswith("_"):
+        d = CATEGORY_TO_DIR.get(r.category_slug)
+        if not d or not r.arkham_slug:
             continue
-        if category_dir.name not in CATEGORY_TO_DIR.values():
-            continue
-        for png in sorted(category_dir.glob("*.png")):
-            index[f"{category_dir.name}/{png.stem}"] = True
+        index[f"{d}/{r.arkham_slug}"] = True
 
     out = LOGOS_DIR / "_index.json"
     payload = json.dumps(index, separators=(",", ":"), sort_keys=True) + "\n"
@@ -174,11 +199,13 @@ def run(
     counters = {
         "scanned": 0, "skipped_lock": 0, "skipped_fresh": 0,
         "hit_manual": 0, "hit_arkham": 0, "hit_brandfetch": 0,
-        "hit_defillama": 0, "miss": 0, "unchanged": 0,
+        "hit_defillama": 0, "hit_favicon": 0, "hit_placeholder": 0,
+        "miss": 0, "unchanged": 0,
         "written": 0, "normalize_fail": 0,
     }
 
     _ensure_fallback(dry_run)
+    placeholder_bytes = FALLBACK_PNG.read_bytes() if FALLBACK_PNG.exists() else None
 
     budget = max_rows if max_rows is not None else len(rows)
     processed = 0
@@ -217,17 +244,31 @@ def run(
                     source, raw = result
 
             if raw is None:
-                counters["miss"] += 1
-                if verbose:
-                    log(f"miss    {row.entity_name}")
-                continue
+                # No real source hit. Write the shared placeholder so
+                # consumers always see a 200 from jsDelivr instead of a
+                # 404 flash. Mark status=placeholder so the freshness
+                # gate keeps retrying real sources every run.
+                if placeholder_bytes is not None:
+                    png = placeholder_bytes
+                    source = STATUS_PLACEHOLDER
+                    raw = png  # for the normalize fall-through
+                else:
+                    counters["miss"] += 1
+                    if verbose:
+                        log(f"miss    {row.entity_name}")
+                    continue
 
-            try:
-                png = normalize(raw)
-            except NormalizeError as e:
-                counters["normalize_fail"] += 1
-                log(f"badpng  {row.entity_name}: {e}")
-                continue
+            if source == STATUS_PLACEHOLDER:
+                # Placeholder is already canonical 160×160; skip the
+                # normalizer round-trip. `raw` is `png`.
+                png = raw
+            else:
+                try:
+                    png = normalize(raw)
+                except NormalizeError as e:
+                    counters["normalize_fail"] += 1
+                    log(f"badpng  {row.entity_name}: {e}")
+                    continue
 
             new_hash = sha256_hex(png)
             if new_hash == row.logo_hash and not force:
@@ -256,7 +297,7 @@ def run(
     if not dry_run:
         write_entities(rows)
 
-    idx = _emit_index(dry_run)
+    idx = _emit_index(rows, dry_run)
     log(f"index: {idx} entries  ({'dry-run' if dry_run else 'written'})")
 
     return counters
@@ -291,6 +332,8 @@ def main() -> int:
     print(f"arkham hits:    {c['hit_arkham']}")
     print(f"brandfetch:     {c['hit_brandfetch']}")
     print(f"defillama:      {c['hit_defillama']}")
+    print(f"favicon:        {c['hit_favicon']}")
+    print(f"placeholder:    {c['hit_placeholder']}")
     print(f"unchanged:      {c['unchanged']}")
     print(f"written:        {c['written']}")
     print(f"normalize fail: {c['normalize_fail']}")
