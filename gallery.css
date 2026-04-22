@@ -374,19 +374,23 @@ h1, h2, h3, h4, h5, h6 {
   font-variant-numeric: tabular-nums;
 }
 
-.card-flag-area { margin-top: auto; }
-.flag-btn {
-  width: 100%;
-  padding: 7px 10px;
+.card-flag-area { margin-top: auto; display: flex; flex-direction: column; gap: 6px; }
+.card-actions { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; }
+.flag-btn,
+.upload-btn {
+  padding: 7px 8px;
   border: 1px dashed var(--border);
   border-radius: var(--radius-md);
   background: transparent;
   color: var(--muted-foreground);
   font-family: inherit;
-  font-size: 12px;
+  font-size: 11px;
   font-weight: 500;
   cursor: pointer;
   transition: border-color 120ms, color 120ms, background 120ms;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 .flag-btn:hover {
   border-color: var(--destructive);
@@ -399,6 +403,61 @@ h1, h2, h3, h4, h5, h6 {
   border-style: solid;
   border-color: var(--destructive);
 }
+.upload-btn:hover {
+  border-color: var(--brand);
+  color: var(--brand);
+  border-style: solid;
+}
+.upload-btn[data-state="busy"] {
+  cursor: wait;
+  border-style: solid;
+  color: var(--muted-foreground);
+  opacity: 0.7;
+}
+
+.suggestion-preview {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 8px;
+  border: 1px solid var(--brand);
+  border-radius: var(--radius-md);
+  background: var(--brand-soft);
+}
+.suggestion-img {
+  width: 36px;
+  height: 36px;
+  object-fit: contain;
+  border-radius: var(--radius-sm);
+  background: var(--card);
+  flex-shrink: 0;
+}
+.suggestion-preview::before {
+  content: "your suggestion";
+  font-size: 10px;
+  font-weight: 600;
+  color: var(--brand);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  flex: 1;
+}
+.suggestion-clear {
+  position: absolute;
+  top: 2px;
+  right: 4px;
+  width: 18px;
+  height: 18px;
+  padding: 0;
+  border: none;
+  background: transparent;
+  color: var(--muted-foreground);
+  font-size: 16px;
+  line-height: 1;
+  cursor: pointer;
+  border-radius: 50%;
+}
+.suggestion-clear:hover { color: var(--destructive); background: var(--card); }
 .flag-details { display: flex; flex-direction: column; gap: 6px; margin-top: 6px; }
 .flag-reason,
 .flag-note {

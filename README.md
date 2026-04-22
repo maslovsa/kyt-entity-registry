@@ -108,18 +108,51 @@ Use the category chips, search, and sort to narrow down, then click
 **Mark as problem** on cards whose logo needs rework.
 
 Flags persist in `localStorage`, so you can review across sessions.
+Two actions per card:
+
+- **Mark as problem** — pick a reason (`wrong_image` / `low_quality`
+  / `outdated` / `missing` / `manual_needed` / `other`) and add a
+  free-text note.
+- **Use my image** — pick a replacement PNG/JPG/WebP/GIF from your
+  computer. The browser decodes it, resizes the longest edge to 160
+  on a transparent canvas, and embeds the resulting PNG as a
+  `data:image/png;base64,…` URL right in the flag — no external
+  upload, no expiring link, no rate limit. Preview appears on the
+  card so you can visually confirm before exporting.
+
 **Export flagged CSV** downloads `kyt-registry-rework-YYYY-MM-DD.csv`
-with this schema (consumed by a future `scripts/rework_from_report.py`
-that re-sources flagged entries):
+(consumed by a future `scripts/rework_from_report.py`):
 
 | Column | Source |
 |---|---|
 | `category_slug`, `arkham_slug`, `entity_name` | joined from entities.csv |
-| `reason` | `wrong_image` / `low_quality` / `outdated` / `missing` / `manual_needed` / `other` |
+| `reason` | `wrong_image` / `low_quality` / `outdated` / `missing` / `manual_needed` / `user_provided` / `other` |
 | `note` | free-text reviewer comment |
 | `current_logo_status`, `current_logo_updated_at`, `current_logo_hash` | registry state at flag time |
 | `canonical_domain` | for Brandfetch retry hints |
 | `flagged_at` | ISO timestamp |
+| `suggested_filename` | original filename reviewer picked (provenance only) |
+| `suggested_bytes` | byte length of the normalised PNG |
+| `suggested_logo_data_url` | full `data:image/png;base64,…` — empty if no replacement was attached |
+
+### Downstream: applying a report
+
+`scripts/rework_from_report.py` (TODO) will walk the CSV and:
+
+1. Rows with `suggested_logo_data_url` → decode base64, drop into
+   `logos/_manual/<category_slug>/<arkham_slug>.png`, next enrich
+   run copies it to the public path and sets
+   `manual_lock=true`.
+2. Rows without a suggestion but with `reason=wrong_image` /
+   `outdated` → delete the current logo + set `logo_status=none` so
+   the next run retries every source.
+3. Rows with `reason=manual_needed` → open a GitHub issue
+   summarising what's missing so a human can hand-curate.
+
+The PR flow: reviewer exports the CSV, opens a PR adding it under
+`reports/` OR emails / attaches it, and a maintainer runs the script
+locally. The registry maintainers decide per-row whether to accept
+the suggestion.
 
 ### Enabling GitHub Pages
 

@@ -72,7 +72,15 @@
         </div>
       </div>
       <div class="card-flag-area">
-        <button class="flag-btn" type="button" aria-pressed="false">Mark as problem</button>
+        <div class="card-actions">
+          <button class="flag-btn" type="button" aria-pressed="false">Mark as problem</button>
+          <button class="upload-btn" type="button" title="Pick a replacement PNG/JPG/SVG from your computer">Use my image</button>
+          <input class="upload-input" type="file" accept="image/png,image/jpeg,image/webp,image/gif" hidden />
+        </div>
+        <div class="suggestion-preview" hidden>
+          <img class="suggestion-img" alt="Suggested replacement" />
+          <button class="suggestion-clear" type="button" title="Remove suggestion">×</button>
+        </div>
         <div class="flag-details" hidden>
           <select class="flag-reason" aria-label="Problem reason">
             <option value="">Select reason...</option>
@@ -81,6 +89,7 @@
             <option value="outdated">outdated — old brand, needs refresh</option>
             <option value="missing">missing — no logo should exist here</option>
             <option value="manual_needed">manual_needed — hand-curate via _manual/</option>
+            <option value="user_provided">user_provided — suggested image attached</option>
             <option value="other">other — see note</option>
           </select>
           <textarea class="flag-note" rows="2" placeholder="Optional note (what's wrong, suggested source, etc.)"></textarea>

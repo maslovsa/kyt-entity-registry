@@ -77,11 +77,17 @@ const CATEGORY_LABEL = {
 };
 
 /* ── state ──────────────────────────────────────────────────────────── */
-const FLAGS_KEY = 'kyt-registry-gallery.flags.v1';
+const FLAGS_KEY = 'kyt-registry-gallery.flags.v2';
 const state = {
   rows: [],           // entities.csv rows (plain objects)
   index: {},          // logos/_index.json — { "exchanges/binance-com": true, ... }
-  flags: {},          // { "<category>/<slug>": { reason, note, flagged_at } }
+  // flags: { "<dir>/<slug>": {
+  //   reason, note, flagged_at,
+  //   suggested_data_url?,    // full "data:image/png;base64,…" (canvas-normalised to 160×160)
+  //   suggested_filename?,    // original filename the reviewer picked (for provenance in CSV)
+  //   suggested_bytes?,       // byte length of the normalised PNG (bookkeeping for CSV sizing)
+  // } }
+  flags: {},
   filter: {
     category: 'all',
     search: '',
@@ -90,6 +96,40 @@ const state = {
     sort: 'importance',
   },
 };
+
+const CANVAS_SIZE = 160;
+const MAX_INPUT_BYTES = 5 * 1024 * 1024;  // reject obviously oversized uploads client-side
+
+/* Client-side twin of scripts/normalize_png.py — decode the user's
+ * file, resize longest edge to 160 preserving aspect, centre on a
+ * transparent 160×160 canvas, re-encode as PNG. Keeps the CSV
+ * downstream-friendly: no server-side ImageMagick needed. */
+async function normaliseToPng(file) {
+  if (file.size > MAX_INPUT_BYTES) {
+    throw new Error(`file too large (${(file.size / 1e6).toFixed(1)}MB > 5MB)`);
+  }
+  const bitmap = await createImageBitmap(file).catch(() => null);
+  if (!bitmap) throw new Error('could not decode image');
+  const scale = CANVAS_SIZE / Math.max(bitmap.width, bitmap.height);
+  const w = Math.max(1, Math.round(bitmap.width * scale));
+  const h = Math.max(1, Math.round(bitmap.height * scale));
+  const canvas = document.createElement('canvas');
+  canvas.width = CANVAS_SIZE;
+  canvas.height = CANVAS_SIZE;
+  const ctx = canvas.getContext('2d');
+  ctx.imageSmoothingEnabled = true;
+  ctx.imageSmoothingQuality = 'high';
+  ctx.drawImage(bitmap, (CANVAS_SIZE - w) / 2, (CANVAS_SIZE - h) / 2, w, h);
+  const blob = await new Promise(res => canvas.toBlob(res, 'image/png'));
+  if (!blob) throw new Error('PNG encode failed');
+  const dataUrl = await new Promise((res, rej) => {
+    const fr = new FileReader();
+    fr.onload = () => res(fr.result);
+    fr.onerror = () => rej(fr.error);
+    fr.readAsDataURL(blob);
+  });
+  return { dataUrl, bytes: blob.size };
+}
 
 /* ── flags persistence ──────────────────────────────────────────────── */
 function loadFlags() {
@@ -229,6 +269,11 @@ function renderCard(row) {
 
   // flag UI wiring
   const flagBtn = card.querySelector('.flag-btn');
+  const uploadBtn = card.querySelector('.upload-btn');
+  const uploadInput = card.querySelector('.upload-input');
+  const preview = card.querySelector('.suggestion-preview');
+  const previewImg = card.querySelector('.suggestion-img');
+  const previewClear = card.querySelector('.suggestion-clear');
   const details = card.querySelector('.flag-details');
   const reason = card.querySelector('.flag-reason');
   const note = card.querySelector('.flag-note');
@@ -242,6 +287,16 @@ function renderCard(row) {
     if (f) {
       reason.value = f.reason || '';
       note.value = f.note || '';
+      if (f.suggested_data_url) {
+        preview.hidden = false;
+        previewImg.src = f.suggested_data_url;
+      } else {
+        preview.hidden = true;
+        previewImg.removeAttribute('src');
+      }
+    } else {
+      preview.hidden = true;
+      previewImg.removeAttribute('src');
     }
   }
   paintFlagState();
@@ -256,6 +311,52 @@ function renderCard(row) {
     paintFlagState();
     renderStatsBar();
     if (state.filter.onlyFlagged) renderGrid();
+  });
+
+  uploadBtn.addEventListener('click', () => uploadInput.click());
+
+  uploadInput.addEventListener('change', async () => {
+    const file = uploadInput.files && uploadInput.files[0];
+    if (!file) return;
+    uploadBtn.dataset.state = 'busy';
+    const originalLabel = uploadBtn.textContent;
+    uploadBtn.textContent = 'Processing...';
+    try {
+      const { dataUrl, bytes } = await normaliseToPng(file);
+      // Attaching a suggestion implicitly flags the row; default
+      // reason is user_provided unless the reviewer already picked
+      // something more specific.
+      const existing = state.flags[key] || {};
+      state.flags[key] = {
+        ...existing,
+        reason: existing.reason || 'user_provided',
+        note: existing.note || '',
+        flagged_at: existing.flagged_at || new Date().toISOString(),
+        suggested_data_url: dataUrl,
+        suggested_filename: file.name,
+        suggested_bytes: bytes,
+      };
+      saveFlags();
+      paintFlagState();
+      renderStatsBar();
+    } catch (err) {
+      alert(`Could not attach image: ${err.message || err}`);
+    } finally {
+      uploadBtn.dataset.state = '';
+      uploadBtn.textContent = originalLabel;
+      uploadInput.value = '';   // allow re-selecting the same file
+    }
+  });
+
+  previewClear.addEventListener('click', e => {
+    e.stopPropagation();
+    const f = state.flags[key];
+    if (!f) return;
+    delete f.suggested_data_url;
+    delete f.suggested_filename;
+    delete f.suggested_bytes;
+    saveFlags();
+    paintFlagState();
   });
 
   reason.addEventListener('change', () => {
@@ -292,7 +393,15 @@ function escapeCsv(v) {
 }
 
 /** Report schema — keep in sync with scripts/rework_from_report.py
- *  (to be built) on the enrichment side. */
+ *  (to be built) on the enrichment side.
+ *
+ *  `suggested_logo_data_url` carries the reviewer's replacement image
+ *  inline as a `data:image/png;base64,…` URI. The image is already
+ *  160×160 RGBA PNG (client-normalised via Canvas) so the downstream
+ *  script just base64-decodes, runs normalize_png to double-check,
+ *  writes to `logos/_manual/<category>/<slug>.png`, and sets
+ *  `logo_status=manual` + `manual_lock=true`. No external URLs to
+ *  retry, no expiring links. */
 const REPORT_HEADER = [
   'category_slug',
   'arkham_slug',
@@ -304,6 +413,9 @@ const REPORT_HEADER = [
   'current_logo_hash',
   'canonical_domain',
   'flagged_at',
+  'suggested_filename',
+  'suggested_bytes',
+  'suggested_logo_data_url',
 ];
 
 function buildReportCSV() {
@@ -323,6 +435,9 @@ function buildReportCSV() {
       r.logo_hash || '',
       r.canonical_domain || '',
       flag.flagged_at || '',
+      flag.suggested_filename || '',
+      flag.suggested_bytes || '',
+      flag.suggested_data_url || '',
     ].map(escapeCsv).join(','));
   }
   return lines.join('\n') + '\n';
