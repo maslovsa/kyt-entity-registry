@@ -89,9 +89,13 @@
             <option value="outdated">outdated — old brand, needs refresh</option>
             <option value="missing">missing — no logo should exist here</option>
             <option value="manual_needed">manual_needed — hand-curate via _manual/</option>
-            <option value="user_provided">user_provided — suggested image attached</option>
             <option value="other">other — see note</option>
           </select>
+          <!-- `user_provided` is NOT in the dropdown — it is only set
+               automatically by the "Use my image" handler when a real
+               file attach succeeds. Manually picking it would produce
+               a flag with reason=user_provided but no suggested_data_url,
+               which is useless to the downstream rework script. -->
           <textarea class="flag-note" rows="2" placeholder="Optional note (what's wrong, suggested source, etc.)"></textarea>
         </div>
       </div>

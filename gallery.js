@@ -100,6 +100,42 @@ const state = {
 const CANVAS_SIZE = 160;
 const MAX_INPUT_BYTES = 5 * 1024 * 1024;  // reject obviously oversized uploads client-side
 
+/* Decode a File into something drawable on a canvas. Prefers
+ * createImageBitmap (fast, respects EXIF), falls back to a classic
+ * <img> + object URL dance for older Safari and any browser where
+ * createImageBitmap throws on PNG transparency edge cases. */
+async function decodeImage(file) {
+  try {
+    const bmp = await createImageBitmap(file);
+    return {
+      width: bmp.width,
+      height: bmp.height,
+      drawOn: (ctx, x, y, w, h) => ctx.drawImage(bmp, x, y, w, h),
+      dispose: () => bmp.close && bmp.close(),
+    };
+  } catch {
+    /* fall through to <img> fallback */
+  }
+  const url = URL.createObjectURL(file);
+  try {
+    const img = await new Promise((res, rej) => {
+      const el = new Image();
+      el.onload = () => res(el);
+      el.onerror = () => rej(new Error('image load failed'));
+      el.src = url;
+    });
+    return {
+      width: img.naturalWidth,
+      height: img.naturalHeight,
+      drawOn: (ctx, x, y, w, h) => ctx.drawImage(img, x, y, w, h),
+      dispose: () => URL.revokeObjectURL(url),
+    };
+  } catch (e) {
+    URL.revokeObjectURL(url);
+    throw e;
+  }
+}
+
 /* Client-side twin of scripts/normalize_png.py — decode the user's
  * file, resize longest edge to 160 preserving aspect, centre on a
  * transparent 160×160 canvas, re-encode as PNG. Keeps the CSV
@@ -108,27 +144,37 @@ async function normaliseToPng(file) {
   if (file.size > MAX_INPUT_BYTES) {
     throw new Error(`file too large (${(file.size / 1e6).toFixed(1)}MB > 5MB)`);
   }
-  const bitmap = await createImageBitmap(file).catch(() => null);
-  if (!bitmap) throw new Error('could not decode image');
-  const scale = CANVAS_SIZE / Math.max(bitmap.width, bitmap.height);
-  const w = Math.max(1, Math.round(bitmap.width * scale));
-  const h = Math.max(1, Math.round(bitmap.height * scale));
-  const canvas = document.createElement('canvas');
-  canvas.width = CANVAS_SIZE;
-  canvas.height = CANVAS_SIZE;
-  const ctx = canvas.getContext('2d');
-  ctx.imageSmoothingEnabled = true;
-  ctx.imageSmoothingQuality = 'high';
-  ctx.drawImage(bitmap, (CANVAS_SIZE - w) / 2, (CANVAS_SIZE - h) / 2, w, h);
-  const blob = await new Promise(res => canvas.toBlob(res, 'image/png'));
-  if (!blob) throw new Error('PNG encode failed');
-  const dataUrl = await new Promise((res, rej) => {
-    const fr = new FileReader();
-    fr.onload = () => res(fr.result);
-    fr.onerror = () => rej(fr.error);
-    fr.readAsDataURL(blob);
-  });
-  return { dataUrl, bytes: blob.size };
+  const decoded = await decodeImage(file);
+  if (!decoded.width || !decoded.height) {
+    decoded.dispose?.();
+    throw new Error('could not decode image');
+  }
+  try {
+    const scale = CANVAS_SIZE / Math.max(decoded.width, decoded.height);
+    const w = Math.max(1, Math.round(decoded.width * scale));
+    const h = Math.max(1, Math.round(decoded.height * scale));
+    const canvas = document.createElement('canvas');
+    canvas.width = CANVAS_SIZE;
+    canvas.height = CANVAS_SIZE;
+    const ctx = canvas.getContext('2d');
+    ctx.imageSmoothingEnabled = true;
+    ctx.imageSmoothingQuality = 'high';
+    decoded.drawOn(ctx, (CANVAS_SIZE - w) / 2, (CANVAS_SIZE - h) / 2, w, h);
+    const blob = await new Promise(res => canvas.toBlob(res, 'image/png'));
+    if (!blob) throw new Error('PNG encode failed');
+    const dataUrl = await new Promise((res, rej) => {
+      const fr = new FileReader();
+      fr.onload = () => res(fr.result);
+      fr.onerror = () => rej(fr.error || new Error('FileReader failed'));
+      fr.readAsDataURL(blob);
+    });
+    if (typeof dataUrl !== 'string' || !dataUrl.startsWith('data:image/')) {
+      throw new Error('unexpected data URL shape');
+    }
+    return { dataUrl, bytes: blob.size };
+  } finally {
+    decoded.dispose?.();
+  }
 }
 
 /* ── flags persistence ──────────────────────────────────────────────── */
@@ -136,8 +182,26 @@ function loadFlags() {
   try { return JSON.parse(localStorage.getItem(FLAGS_KEY)) || {}; }
   catch { return {}; }
 }
+
+/** Persist `state.flags` to localStorage. Returns true on success.
+ *  If the write fails (quota exceeded is the common case when data
+ *  URLs push the serialised payload over ~5-10 MB), surface it to
+ *  the reviewer and return false so the caller can decide what to
+ *  do — rather than silently losing the attached image. */
 function saveFlags() {
-  localStorage.setItem(FLAGS_KEY, JSON.stringify(state.flags));
+  try {
+    localStorage.setItem(FLAGS_KEY, JSON.stringify(state.flags));
+    return true;
+  } catch (e) {
+    console.error('saveFlags failed', e);
+    alert(
+      'Could not save flags to browser storage.\n\n' +
+      `Reason: ${e.name || 'error'} — ${e.message || 'unknown'}.\n\n` +
+      'The attached image is still in memory for THIS tab — ' +
+      'export the CSV now before reloading the page.',
+    );
+    return false;
+  }
 }
 
 function flagKey(row) {
@@ -284,19 +348,23 @@ function renderCard(row) {
     flagBtn.textContent = f ? 'Flagged — click to unflag' : 'Mark as problem';
     details.hidden = !f;
     card.dataset.flagged = String(!!f);
-    if (f) {
-      reason.value = f.reason || '';
-      note.value = f.note || '';
-      if (f.suggested_data_url) {
-        preview.hidden = false;
-        previewImg.src = f.suggested_data_url;
-      } else {
-        preview.hidden = true;
-        previewImg.removeAttribute('src');
-      }
+    // Stale-suggestion guard: reason=user_provided without an actual
+    // data URL is legacy state from earlier v2 where the dropdown
+    // exposed user_provided. Normalise to empty so the reviewer
+    // either re-attaches or picks a real reason.
+    if (f && f.reason === 'user_provided' && !f.suggested_data_url) {
+      f.reason = '';
+    }
+    if (f && f.suggested_data_url) {
+      preview.hidden = false;
+      previewImg.src = f.suggested_data_url;
     } else {
       preview.hidden = true;
       previewImg.removeAttribute('src');
+    }
+    if (f) {
+      reason.value = f.reason || '';
+      note.value = f.note || '';
     }
   }
   paintFlagState();
@@ -323,9 +391,10 @@ function renderCard(row) {
     uploadBtn.textContent = 'Processing...';
     try {
       const { dataUrl, bytes } = await normaliseToPng(file);
-      // Attaching a suggestion implicitly flags the row; default
-      // reason is user_provided unless the reviewer already picked
-      // something more specific.
+      // Attaching a suggestion implicitly flags the row with
+      // reason=user_provided unless the reviewer already picked a
+      // more specific problem reason. Reason is set ONLY when the
+      // upload actually produced a data URL.
       const existing = state.flags[key] || {};
       state.flags[key] = {
         ...existing,
@@ -336,11 +405,15 @@ function renderCard(row) {
         suggested_filename: file.name,
         suggested_bytes: bytes,
       };
-      saveFlags();
+      saveFlags();   // warns via alert if quota blows; memory stays ok
       paintFlagState();
       renderStatsBar();
     } catch (err) {
-      alert(`Could not attach image: ${err.message || err}`);
+      console.error('upload failed', err);
+      alert(
+        `Could not attach image: ${err && err.message ? err.message : err}\n\n` +
+        'Check the browser console for details.',
+      );
     } finally {
       uploadBtn.dataset.state = '';
       uploadBtn.textContent = originalLabel;

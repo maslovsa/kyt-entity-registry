@@ -433,6 +433,10 @@ h1, h2, h3, h4, h5, h6 {
   background: var(--card);
   flex-shrink: 0;
 }
+/* Never render a broken <img> box: without a src attribute the
+ * element collapses. paintFlagState() removes the attribute whenever
+ * there is no data URL attached. */
+.suggestion-img:not([src]) { display: none; }
 .suggestion-preview::before {
   content: "your suggestion";
   font-size: 10px;
