@@ -137,22 +137,36 @@ Two actions per card:
 
 ### Downstream: applying a report
 
-`scripts/rework_from_report.py` (TODO) will walk the CSV and:
+[`scripts/rework_from_report.py`](scripts/rework_from_report.py)
+walks the CSV and takes one of four per-row actions.
 
-1. Rows with `suggested_logo_data_url` → decode base64, drop into
-   `logos/_manual/<category_slug>/<arkham_slug>.png`, next enrich
-   run copies it to the public path and sets
-   `manual_lock=true`.
-2. Rows without a suggestion but with `reason=wrong_image` /
-   `outdated` → delete the current logo + set `logo_status=none` so
-   the next run retries every source.
-3. Rows with `reason=manual_needed` → open a GitHub issue
-   summarising what's missing so a human can hand-curate.
+```bash
+# Dry-run first — shows the plan, writes nothing.
+python scripts/rework_from_report.py path/to/kyt-registry-rework-YYYY-MM-DD.csv
+
+# Then apply. Writes logos, updates entities.csv.
+python scripts/rework_from_report.py path/to/kyt-registry-rework-YYYY-MM-DD.csv --apply
+
+# Commit the result.
+git add entities.csv logos/
+git commit -m "rework: apply N suggestions from <report>"
+```
+
+Decision table:
+
+| Inputs | Action | What happens |
+|---|---|---|
+| `suggested_logo_data_url` starts with `data:image/…` | **apply** | base64-decode → `normalize_png.normalize()` → write to `logos/_manual/<cat>/<slug>.png` AND `logos/<cat>/<slug>.png`. CSV row flips to `logo_status=manual`, `manual_lock=true`, fresh `logo_hash`/`logo_updated_at`. Nightly enrich will never overwrite it. |
+| no data URL, reason ∈ `{wrong_image, low_quality, outdated}` | **retry** | Delete `logos/<cat>/<slug>.png`. CSV row resets to `logo_status=none`. Next nightly enrich re-tries every source from scratch. `_manual/` override (if any) is preserved. |
+| no data URL, reason = `missing` | **clear** | Same as retry — delete PNG + reset row. Intent: "this entity should not have a logo". Next enrich will write a placeholder back; a human then either decides that's fine or hand-curates. |
+| no data URL, reason ∈ `{manual_needed, other, (empty)}` | **log** | Print the row and move on — nothing to automate. A maintainer picks it up manually. |
+| `arkham_slug` not in current `entities.csv` | **skip** | The row refers to an entity that no longer exists (dormant / renamed). Logged, no changes. |
+| `manual_lock=true` on the target row and no fresh suggestion | **skip** | Respect the lock; only a new `suggested_logo_data_url` can override a locked row. |
 
 The PR flow: reviewer exports the CSV, opens a PR adding it under
-`reports/` OR emails / attaches it, and a maintainer runs the script
-locally. The registry maintainers decide per-row whether to accept
-the suggestion.
+`reports/` OR emails / attaches the file. A maintainer runs the
+script locally, reviews the dry-run, re-runs with `--apply`, and
+commits.
 
 ### Enabling GitHub Pages
 

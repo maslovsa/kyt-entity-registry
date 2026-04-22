@@ -47,8 +47,13 @@ scripts/
   enrich_from_arkham.py    ← PRIMARY source (static.arkhamintelligence.com)
   enrich_from_brandfetch.py ← fallback (cdn.brandfetch.io + client-ID)
   enrich_from_defillama.py ← DeFi-specific fallback (icons.llamao.fi)
+  enrich_from_favicon.py   ← last-resort: crawl <link rel="icon"> + static paths
   normalize_png.py         ← 160×160 RGBA, optimize, strip EXIF
   enrich.py                ← orchestrator — reads CSV, dispatches sources
+  rework_from_report.py    ← applies a gallery-exported rework CSV
+
+index.html + gallery.js + gallery.css
+                           ← static audit viewer (GitHub Pages)
 
 .github/workflows/
   enrich-logos.yml         ← nightly cron
@@ -165,6 +170,66 @@ corrupted/wrong logo:
 - GitHub Actions secrets used by the workflow:
   `TELEGRAM_BOT_TOKEN` + `TELEGRAM_CHAT_AUDIT` only; no source-API
   keys are needed because all 3 sources are anonymous.
+
+### C8. Audit loop (gallery → report → rework)
+
+Reviewers audit coverage on the GitHub-Pages gallery
+(`index.html` + `gallery.js`) and export a CSV describing every
+flagged row plus, optionally, a reviewer-picked replacement image
+embedded as a `data:image/png;base64,…` URL (already canvas-
+normalised to 160×160 on their machine).
+
+The inbound-side applier is `scripts/rework_from_report.py`:
+
+```bash
+# Dry-run (default). Prints per-row plan, writes nothing.
+python scripts/rework_from_report.py path/to/report.csv
+
+# Apply. Writes logos and updates entities.csv atomically.
+python scripts/rework_from_report.py path/to/report.csv --apply
+```
+
+Per-row decision, first match wins:
+
+1. **`suggested_logo_data_url` present → apply.**
+   base64-decode → `normalize_png.normalize()` →
+   write to `logos/_manual/<cat>/<slug>.png` AND
+   `logos/<cat>/<slug>.png`.
+   Flip the CSV row: `logo_status=manual`, `manual_lock=true`,
+   fresh `logo_hash`/`logo_updated_at`. After apply, nightly
+   enrich leaves it alone forever (until the lock is released).
+
+2. **No data URL, `reason ∈ {wrong_image, low_quality, outdated}`
+   → retry.** Remove `logos/<cat>/<slug>.png`. Reset row to
+   `logo_status=none`. Next nightly enrich re-tries every source.
+   Manual-locked rows are skipped — you cannot "retry" a locked
+   row without attaching a new suggestion.
+
+3. **No data URL, `reason=missing` → clear.** Same as retry.
+   Intent differs (entity probably has no logo) but the mechanics
+   are identical.
+
+4. **No data URL, `reason ∈ {manual_needed, other, (empty)}` → log.**
+   Nothing to automate; printed for a maintainer to hand-curate.
+
+5. **`arkham_slug` not in entities.csv → skip.** Report was
+   generated against an older snapshot; row is stale.
+
+What the script MUST NOT do (and doesn't):
+- accept a row whose `category_slug` is unknown;
+- write outside `logos/_manual/` and `logos/<cat>/`;
+- touch `entities.csv` rows that weren't mentioned in the report;
+- fetch anything over the network — everything is inside the CSV.
+
+After a successful apply, commit the result:
+
+```bash
+git add entities.csv logos/
+git commit -m "rework: apply N suggestions from <report-name>"
+```
+
+Normal PR-review rules apply (no forced pushes, no editing the
+registry-owned columns by hand — the script does it).
 
 ## Tasks ready for you (in order)
 

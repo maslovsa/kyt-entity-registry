@@ -4,7 +4,7 @@ Binance.com,exchange,100,112,85,5,BSC|ETH|TRON,scorechain-counterparties,binance
 Bitget.com,exchange,100,72,85,5,BSC|ETH|TRON,scorechain-counterparties,bitget-com,bitget.com,arkham,2026-04-22,false,267bfa0cb9ba4085803de24a9ec60ee4b3f2f37a7cccb86b72d7348db77f37d0
 Bybit.com,exchange,100,86,85,5,BSC|ETH|TRON,scorechain-counterparties,bybit-com,bybit.com,arkham,2026-04-22,false,e6479c149aa1b80a8cf05072c5f28ec28575d3c9f5ba4527e378d8f2d064835f
 Cryptomus.com,exchange,100,68,85,5,BSC|ETH|TRON,scorechain-counterparties,cryptomus-com,cryptomus.com,arkham,2026-04-22,false,5ffe6322e61ecb53a742f0936dddc30b1846ca2197f269bcb92b0b8fb983676e
-Htx.com - Huobi.com,exchange,100,77,85,5,BSC|ETH|TRON,scorechain-counterparties,htx-com-huobi-com,htx.com,arkham,2026-04-22,false,43c2d389e79fd1c4127e2856a3845a50514cfbe4dc2e1db97ee196fc8b88a52b
+Htx.com - Huobi.com,exchange,100,77,85,5,BSC|ETH|TRON,scorechain-counterparties,htx-com-huobi-com,htx.com,manual,2026-04-22,true,c8e93d07d0bd6f439dbe682000665b10fd70c73628b6b919bf99b34a2f8ffd26
 Kucoin.com,exchange,100,70,85,5,BSC|ETH|TRON,scorechain-counterparties,kucoin-com,kucoin.com,arkham,2026-04-22,false,0e2cfbd4d60bd9bba45c926cc8dd143c4a49a58393e3102aced2c479681ae8b3
 Aevo,hack,100,176,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,aevo,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 AlphaPo - REKT,hack,100,35,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON|TRON,hack-attributions,alphapo-rekt,,arkham,2026-04-22,false,d4ce80f10f8a832684ff81032d95160c10b1aa9e720b871f4c68a6a35a8efbc9
@@ -144,7 +144,7 @@ Exactly Protocol - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTO
 GMX,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,gmx,,arkham,2026-04-22,false,966f44a5542c504095aed5db347e63549fa27f4617541d91654bbcf12201ea6c
 GemPad,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,gempad,,arkham,2026-04-22,false,d6133a2dc7fb2dfd76d3a103ea79ea6387521fbb8ccd51e3474aa7585c305f58
 Gym Network - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,gym-network-rekt,,arkham,2026-04-22,false,3d3818f493e1cec2fff2f1dfb9d79364528a116d683c0c0fd20912b2995c084b
-HTX (Huobi) - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,htx-huobi-rekt,,arkham,2026-04-22,false,43c2d389e79fd1c4127e2856a3845a50514cfbe4dc2e1db97ee196fc8b88a52b
+HTX (Huobi) - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,htx-huobi-rekt,,manual,2026-04-22,true,00197335738e4548ee75f3ebb2739c7e9e80fe3cb926e9f92144c8bc88ebbc8e
 Harvest Finance - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,harvest-finance-rekt,,arkham,2026-04-22,false,eb9b437ba072e5c080b3f79265a19fa411cca6b08fc6587d09c21725ef6aa25d
 Jimbo's Protocol - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,jimbo-s-protocol-rekt,,arkham,2026-04-22,false,112b4e7b32ee0ba56f537e228f534c65d88562586f5ac69c2df4b14554611923
 LCX - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,lcx-rekt,,arkham,2026-04-22,false,60e1cc9c96afaa76a6c6d844209d41df36a1de3343e14b5d42a9e26578484922
