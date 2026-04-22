@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>kyt-entity-registry — logo gallery</title>
+  <meta name="description" content="Browse and audit every logo in kyt-entity-registry. Flag problem logos for rework and export a CSV report for the enrichment pipeline." />
+  <link rel="icon" href="logos/_fallback/unknown.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap" />
+  <link rel="stylesheet" href="gallery.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="site-header-inner">
+      <div class="brand">
+        <h1>kyt-entity-registry</h1>
+        <p class="tagline">Logo gallery &amp; audit tool</p>
+      </div>
+      <div class="header-actions">
+        <a class="gh-link" href="https://github.com/maslovsa/kyt-entity-registry" target="_blank" rel="noopener">View on GitHub</a>
+      </div>
+    </div>
+    <div class="stats-bar" id="stats-bar" aria-live="polite"></div>
+  </header>
+
+  <section class="toolbar" aria-label="Filters and actions">
+    <div class="toolbar-row toolbar-row-top">
+      <input type="search" id="search" placeholder="Search entity name or slug..." autocomplete="off" />
+      <select id="sort" aria-label="Sort order">
+        <option value="importance">Sort: importance (high to low)</option>
+        <option value="name">Sort: name (A-Z)</option>
+        <option value="updated">Sort: logo_updated_at (newest)</option>
+        <option value="category">Sort: category</option>
+      </select>
+      <label class="toggle">
+        <input type="checkbox" id="only-flagged" />
+        <span>Only flagged</span>
+      </label>
+      <label class="toggle">
+        <input type="checkbox" id="only-missing" />
+        <span>Only missing logos</span>
+      </label>
+      <button id="export-csv" class="btn btn-primary" type="button">
+        Export flagged CSV (<span id="flagged-count">0</span>)
+      </button>
+      <button id="clear-flags" class="btn btn-subtle" type="button" title="Clear all local flags (cannot be undone)">Clear flags</button>
+    </div>
+    <div class="toolbar-row toolbar-row-chips" id="category-chips" role="tablist"></div>
+  </section>
+
+  <main id="grid" class="grid" aria-live="polite" aria-busy="true">
+    <div class="loading">Loading entities.csv...</div>
+  </main>
+
+  <template id="card-template">
+    <article class="card" data-slug="" data-category="">
+      <div class="card-logo">
+        <img alt="" loading="lazy" decoding="async" />
+      </div>
+      <div class="card-body">
+        <h3 class="card-name"></h3>
+        <div class="card-meta">
+          <span class="badge badge-category"></span>
+          <span class="badge badge-status"></span>
+          <span class="badge badge-lock" hidden>locked</span>
+        </div>
+        <div class="card-sub">
+          <span class="imp" title="importance"></span>
+          <span class="updated" title="logo_updated_at"></span>
+        </div>
+      </div>
+      <div class="card-flag-area">
+        <button class="flag-btn" type="button" aria-pressed="false">Mark as problem</button>
+        <div class="flag-details" hidden>
+          <select class="flag-reason" aria-label="Problem reason">
+            <option value="">Select reason...</option>
+            <option value="wrong_image">wrong_image — not our brand / wrong entity</option>
+            <option value="low_quality">low_quality — blurry / wrong aspect / letterbox</option>
+            <option value="outdated">outdated — old brand, needs refresh</option>
+            <option value="missing">missing — no logo should exist here</option>
+            <option value="manual_needed">manual_needed — hand-curate via _manual/</option>
+            <option value="other">other — see note</option>
+          </select>
+          <textarea class="flag-note" rows="2" placeholder="Optional note (what's wrong, suggested source, etc.)"></textarea>
+        </div>
+      </div>
+    </article>
+  </template>
+
+  <script src="gallery.js"></script>
+</body>
+</html>

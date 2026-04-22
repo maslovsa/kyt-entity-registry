@@ -85,6 +85,36 @@ Enrichment will see it, copy into the main path, flip the CSV row's
 `manual_lock=true` + `logo_status=manual`. After that, no auto-refresh
 will overwrite it.
 
+## Gallery — browse + audit all logos
+
+Open [index.html](index.html) in a browser (or the GitHub Pages deploy
+at https://maslovsa.github.io/kyt-entity-registry/ once enabled) to see
+every entity as a card with its logo, category, status, and freshness.
+Use the category chips, search, and sort to narrow down, then click
+**Mark as problem** on cards whose logo needs rework.
+
+Flags persist in `localStorage`, so you can review across sessions.
+**Export flagged CSV** downloads `kyt-registry-rework-YYYY-MM-DD.csv`
+with this schema (consumed by a future `scripts/rework_from_report.py`
+that re-sources flagged entries):
+
+| Column | Source |
+|---|---|
+| `category_slug`, `arkham_slug`, `entity_name` | joined from entities.csv |
+| `reason` | `wrong_image` / `low_quality` / `outdated` / `missing` / `manual_needed` / `other` |
+| `note` | free-text reviewer comment |
+| `current_logo_status`, `current_logo_updated_at`, `current_logo_hash` | registry state at flag time |
+| `canonical_domain` | for Brandfetch retry hints |
+| `flagged_at` | ISO timestamp |
+
+### Enabling GitHub Pages
+
+Settings → Pages → Source: **Deploy from a branch**, Branch: `main`,
+Folder: `/ (root)`. Save. First build takes ~1 min; CDN edge cache
+matches jsDelivr (12-24 h), so bust with
+`curl https://purge.jsdelivr.net/gh/maslovsa/kyt-entity-registry@main/index.html`
+after a meaningful UI change.
+
 ## Contributing
 
 PRs welcome for:
