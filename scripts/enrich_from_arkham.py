@@ -2,13 +2,20 @@
 
 URL shape: https://static.arkhamintelligence.com/entities/<slug>.png
 
-Observed quirks (2026-04):
-  - Exchange slugs drop TLD suffixes: binance-com -> binance,
-    bybit-com -> bybit, htx-com-huobi-com -> ... harder, usually misses
-  - Hack entities drop the -rekt suffix: alphapo-rekt -> alphapo
+Observed patterns (2026-04):
+  * Exchange slugs are usually stored both as `<brand>-com` and
+    `<brand>` (binance-com vs binance). We try both.
+  * Hack entities drop the -rekt suffix (alphapo-rekt -> alphapo).
+  * Many DeFi protocols are keyed by their DOMAIN with dots
+    replaced by dashes (betterbank.io -> betterbank-io,
+    deltaprime.io -> deltaprime-io, friend.tech -> friend-tech).
+    sdn_api's CSV often has `arkham_slug=betterbank` (the bare
+    brand) but the real file is `betterbank-io`, so we try both
+    the literal slug AND the slug with common TLD tails appended.
 
-Strategy: try a short ordered list of candidate slugs per row. First
-HTTP 200 wins. Abort after ~3 candidates to stay polite.
+Strategy: build a small ordered candidate list per row, GET each
+until a byte-plausible PNG comes back. First 200 wins. ~10-15
+candidates per row caps the cost.
 """
 
 from __future__ import annotations
@@ -21,10 +28,17 @@ import httpx
 
 _BASE = "https://static.arkhamintelligence.com/entities"
 _TIMEOUT = httpx.Timeout(10.0, connect=5.0)
-_RATE_DELAY = 0.2  # 5 req/sec polite cap on the static bucket
+_RATE_DELAY = 0.12   # ~8 req/sec polite cap on the static bucket
 
-# Suffix families to try stripping, in order. Kept short to stay polite.
-_STRIP_TAILS = ("-com", "-io", "-net", "-org", "-rekt", "-bridge")
+# Suffixes that typically come from "<brand>.tld" becoming
+# "<brand>-tld" upstream — strip to recover the bare brand AND also
+# try appending them when the arkham_slug looks bare.
+_DOMAIN_TAILS = (
+    "-com", "-io", "-xyz", "-finance", "-fi", "-network",
+    "-protocol", "-app", "-org", "-net", "-exchange",
+)
+# Descriptor tails applied at upstream — strip only, we never append.
+_DESCRIPTOR_TAILS = ("-rekt", "-bridge", "-rekt-2", "-labs")
 
 
 def _candidates(arkham_slug: str) -> Iterable[str]:
@@ -38,13 +52,27 @@ def _candidates(arkham_slug: str) -> Iterable[str]:
             candidates.append(s)
 
     add(arkham_slug)
-    for tail in _STRIP_TAILS:
+
+    # 1. If the slug ends with a known tail, strip it. This recovers
+    #    "alphapo" from "alphapo-rekt", "binance" from "binance-com".
+    base = arkham_slug
+    for tail in _DOMAIN_TAILS + _DESCRIPTOR_TAILS:
         if arkham_slug.endswith(tail):
-            add(arkham_slug[: -len(tail)])
-    # Also try the leading segment before the first '-' when the slug
-    # looks like "poly-network" or "htx-com-huobi-com" — one more shot.
+            base = arkham_slug[: -len(tail)]
+            add(base)
+            break
+
+    # 2. Append each common domain-TLD tail to the *bare brand*
+    #    (user's observation: sdn_api ships "betterbank" but Arkham
+    #    stores "betterbank-io"). This is the big coverage win.
+    for tail in _DOMAIN_TAILS:
+        add(base + tail)
+
+    # 3. Last-resort leading segment — covers "poly-network" ->
+    #    "poly", "htx-com-huobi-com" -> "htx".
     head = re.split(r"-", arkham_slug, maxsplit=1)[0]
     add(head)
+
     return candidates
 
 
