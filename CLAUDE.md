@@ -50,10 +50,21 @@ scripts/
   enrich_from_favicon.py   ← last-resort: crawl <link rel="icon"> + static paths
   normalize_png.py         ← 160×160 RGBA, optimize, strip EXIF
   enrich.py                ← orchestrator — reads CSV, dispatches sources
+  build_lookup.py          ← generates logos/_lookup.json for lookup.js/MCP
+  build_og_preview.py      ← regenerates og-preview.png for landing OG meta
   rework_from_report.py    ← applies a gallery-exported rework CSV
 
-index.html + gallery.js + gallery.css
-                           ← static audit viewer (GitHub Pages)
+mcp/
+  python/                  ← Python MCP stdio server (uvx-runnable)
+  ts/                      ← TypeScript MCP stdio server (npx-runnable)
+  README.md                ← which one to use + how they stay in sync
+
+index.html + landing.css + landing.js
+                           ← public landing page (EN + RU, quilt, bulk up)
+audit.html + gallery.css + gallery.js
+                           ← reviewer audit tool (flag, Use-my-image, export)
+sitemap.xml + robots.txt + llms.txt + og-preview.png
+                           ← SEO surface for search engines + LLM crawlers
 
 .github/workflows/
   enrich-logos.yml         ← nightly cron
@@ -160,6 +171,14 @@ corrupted/wrong logo:
 2. Bust the cache:
    `curl https://purge.jsdelivr.net/gh/maslovsa/kyt-entity-registry@main/logos/<cat>/<slug>.png`
 3. Tell the consumer cache will clear within minutes.
+
+### C7a. URL stability
+
+The public landing is at `/` (index.html). The reviewer audit tool
+is at `/audit.html`. Do NOT move either without a migration plan —
+external consumers bookmark the landing, and `robots.txt` +
+`sitemap.xml` + JSON-LD canonicals all encode these two URLs. If
+you rename, update every SEO artefact in lockstep.
 
 ### C7. Never push secrets
 

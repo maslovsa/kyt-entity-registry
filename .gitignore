@@ -7,3 +7,8 @@ venv/
 cache/
 *.DS_Store
 scripts/*.csv
+mcp/ts/node_modules/
+mcp/ts/dist/
+mcp/ts/package-lock.json
+mcp/python/src/*.egg-info/
+mcp/python/.pytest_cache/

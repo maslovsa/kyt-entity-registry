@@ -1,6 +1,7 @@
 # kyt-entity-registry
 
-[Live Demo](https://maslovsa.github.io/kyt-entity-registry/)
+**Landing page** → <https://maslovsa.github.io/kyt-entity-registry/>
+· **Audit tool** → <https://maslovsa.github.io/kyt-entity-registry/audit.html>
 
 Public registry of crypto entity metadata + logos. Shared source of
 truth for [sdn_api](https://github.com/maslovsa/sdn-api),
@@ -12,9 +13,15 @@ KYT/AML project that needs "the Binance logo" or "the OFAC seal".
   importance (0-100). Single source of truth.
 - **logos/** — PNG 160×160 per entity, bucketed by category.
 - **logos/_lookup.json** — fuzzy-match index (800 entries, ~80 KB)
-  with pre-extracted keywords. Powers [lookup.js](lookup.js).
+  with pre-extracted keywords. Powers [lookup.js](lookup.js) + MCP.
 - **scripts/** — enrichment pipeline (Arkham → Brandfetch → DefiLlama
   → favicon → placeholder → manual override).
+- **mcp/** — MCP stdio servers (Python + TypeScript) so Claude
+  agents can `resolve_logo` over freeform labels. See
+  [docs/MCP.md](docs/MCP.md).
+- **index.html + landing.css + landing.js** — public landing page
+  (EN + RU, patchwork quilt, bulk upload).
+- **audit.html + gallery.css + gallery.js** — reviewer audit tool.
 - **CDN** — served free via jsDelivr.
 
 ## Quick URL (consumers)
@@ -44,6 +51,7 @@ rolling the mapping — the list evolves.
 | Canonical `(category_slug, entity_name)` | `entityLogoUrl()` | [docs/CONSUMERS.md](docs/CONSUMERS.md) — copy-paste TS/Python |
 | Freeform label like `"Binance Hot Wallet 10"` | `lookup.resolve({category, label})` | [lookup.js](lookup.js) — fetch once per session |
 | No category, just a freeform string | `lookup.resolve({label})` across all categories | same |
+| A Claude agent (Claude Code / Desktop) | MCP `resolve_logo` tool | [mcp/README.md](mcp/README.md) + [docs/MCP.md](docs/MCP.md) — uvx one-liner |
 
 `lookup.js` matches by keyword-overlap scoring (label tokens ∩ entry
 keywords), breaks ties by importance + real-vs-placeholder. Covers
