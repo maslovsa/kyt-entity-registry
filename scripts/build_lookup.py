@@ -85,6 +85,14 @@ _STOPWORDS = frozenset({
     "labs", "team",
 })
 
+def _camel_expand(text: str) -> str:
+    """Expand CamelCase: 'YearnFinance' → 'Yearn Finance'.
+    Must stay in sync with labelTokens() in lookup.js / lookup.ts."""
+    text = re.sub(r"([a-z\d])([A-Z])", r"\1 \2", text)
+    text = re.sub(r"([A-Z]+)([A-Z][a-z])", r"\1 \2", text)
+    return text
+
+
 def _keywords(row: Row) -> list[str]:
     kws: set[str] = set()
 
@@ -98,8 +106,12 @@ def _keywords(row: Row) -> list[str]:
             return
         kws.add(t)
 
-    # 1. Each word in the entity_name
-    for w in re.split(r"[^a-z0-9]+", (row.entity_name or "").lower()):
+    # 1. Each word in the entity_name, with CamelCase expansion so
+    #    "YearnFinance" → ["yearn", "finance"] and "OnyxProtocol" →
+    #    ["onyx", "protocol"] (protocol is a stopword, so only "onyx"
+    #    survives). Must match labelTokens() in lookup.js / lookup.ts.
+    expanded_name = _camel_expand(row.entity_name or "")
+    for w in re.split(r"[^a-z0-9]+", expanded_name.lower()):
         consider(w)
 
     # 2. Every alphanumeric segment of arkham_slug, treated as a
@@ -108,9 +120,21 @@ def _keywords(row: Row) -> list[str]:
     #    -> ["htx", "huobi"]. We don't keep the compound slug itself
     #    as a kw — no reviewer label ever contains a dashed slug
     #    verbatim, and compound kws only dilute the score.
+    #
+    #    Special case: two-letter entity abbreviations like "XT" produce
+    #    no usable keywords from segment splitting (len < 3 filter). For
+    #    such entries we also emit the domain-concatenated form:
+    #    "xt-com" slug + "xt.com" domain → "xtcom" (4 chars, matches
+    #    label "XT.com" when the caller strips the dot).
     if row.arkham_slug:
-        for seg in row.arkham_slug.split("-"):
+        slug_segments = row.arkham_slug.split("-")
+        for seg in slug_segments:
             consider(seg)
+        # domain-concatenated fallback for short-abbreviation domains
+        if row.canonical_domain:
+            joined = re.sub(r"\.", "", row.canonical_domain.lower())  # "xt.com" → "xtcom"
+            if len(joined) >= 4 and joined not in _STOPWORDS:
+                consider(joined)
 
     # 3. first segment of canonical_domain
     if row.canonical_domain:

@@ -1,6 +1,6 @@
-# Ranged pins so scripts run on Python 3.8+ (Pillow 11 dropped 3.8;
-# Pillow 10 is the last line that keeps 3.8 support). CI + the
-# nightly workflow use 3.12 so they'll resolve the latest anyway.
+# Ranged pins so scripts run on Python 3.8+. On 3.8 pip picks
+# Pillow 10 (last line supporting 3.8); on 3.9+ it picks Pillow 12
+# which closes CVE-2026-25990 and CVE-2026-40192. CI + the nightly
+# workflow use 3.12 so they resolve the latest anyway.
 httpx>=0.27,<1
-Pillow>=10,<12
-python-dotenv>=1,<2
+Pillow>=10,<13

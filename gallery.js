@@ -610,7 +610,12 @@ async function main() {
     state.rows = parseCSV(csv);
     state.index = index;
   } catch (e) {
-    els.grid.innerHTML = `<div class="empty">Failed to load entities.csv or logos/_index.json: ${e.message}</div>`;
+    // Use textContent so a crafted error message (e.g. a server-side
+    // response echoed by fetch) cannot inject markup into the grid.
+    const banner = document.createElement('div');
+    banner.className = 'empty';
+    banner.textContent = `Failed to load entities.csv or logos/_index.json: ${e && e.message ? e.message : String(e)}`;
+    els.grid.replaceChildren(banner);
     return;
   }
 

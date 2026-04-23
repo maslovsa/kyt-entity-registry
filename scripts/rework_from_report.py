@@ -55,6 +55,7 @@ import argparse
 import base64
 import csv
 import datetime as dt
+import re
 import shutil
 import sys
 from dataclasses import dataclass
@@ -97,6 +98,12 @@ except ModuleNotFoundError as e:
 RETRY_REASONS = {"wrong_image", "low_quality", "outdated"}
 CLEAR_REASONS = {"missing"}
 
+# Defensive caps on attacker-controlled CSV inputs. The maintainer
+# reviews the dry-run before --apply, but belt-and-braces.
+MAX_DATA_URL_BYTES = 5 * 1024 * 1024     # 5 MB raw data URL length
+MAX_DECODED_BYTES = 4 * 1024 * 1024      # 4 MB decoded PNG/JPEG bytes
+_SLUG_RE = re.compile(r"^[a-z0-9][a-z0-9-]*$")
+
 
 @dataclass
 class Action:
@@ -109,16 +116,22 @@ class Action:
 
 def _decode_data_url(url: str) -> bytes | None:
     """Extract raw bytes from a `data:image/...;base64,...` URL.
-    Returns None for anything that isn't a base64 image URL."""
+    Returns None for anything that isn't a base64 image URL, or for
+    payloads over MAX_* caps (defensive against DoS via giant CSV)."""
     if not url or not url.startswith("data:image/"):
+        return None
+    if len(url) > MAX_DATA_URL_BYTES:
         return None
     head, _, payload = url.partition(",")
     if not payload or ";base64" not in head:
         return None
     try:
-        return base64.b64decode(payload, validate=True)
+        raw = base64.b64decode(payload, validate=True)
     except (ValueError, base64.binascii.Error):
         return None
+    if len(raw) > MAX_DECODED_BYTES:
+        return None
+    return raw
 
 
 def _read_report(path: Path) -> list[dict[str, str]]:
@@ -135,13 +148,34 @@ def _read_report(path: Path) -> list[dict[str, str]]:
 
 # ── per-action handlers ────────────────────────────────────────────────
 
+def _path_inside(path: Path, parent: Path) -> bool:
+    """True iff `path.resolve()` is contained in `parent.resolve()`.
+    Blocks a crafted slug like "../../etc" from escaping the logos/
+    tree even if the category dict check is somehow bypassed."""
+    try:
+        path.resolve().relative_to(parent.resolve())
+        return True
+    except ValueError:
+        return False
+
+
 def _apply_suggestion(row: Row, png: bytes, dry_run: bool) -> str:
     """Write `png` to logos/_manual/<cat>/<slug>.png AND the public
     path. Flip CSV state to manual + locked. Returns a detail string."""
+    # Slug format — defence in depth. entities.csv is maintainer-
+    # reviewed so this should already be safe, but the CSV on the
+    # reviewer's machine is untrusted by the time it reaches us.
+    if not _SLUG_RE.match(row.slug):
+        return f"rejected: slug {row.slug!r} fails format check"
+
     manual = manual_path_for(row.category_slug, row.slug)
     public = logo_path_for(row.category_slug, row.slug)
     if manual is None or public is None:
         return f"no directory mapping for category {row.category_slug!r}"
+
+    # Path confinement — every write MUST resolve inside logos/.
+    if not _path_inside(manual, LOGOS_DIR) or not _path_inside(public, LOGOS_DIR):
+        return f"rejected: resolved path escapes logos/ (slug={row.slug!r})"
 
     new_hash = sha256_hex(png)
     if not dry_run:
@@ -173,6 +207,8 @@ def _clear_current_logo(row: Row, dry_run: bool, *, reset_reason: str) -> str:
         return "row is manual_lock=true; skipped"
 
     if public and public.exists():
+        if not _path_inside(public, LOGOS_DIR):
+            return f"rejected: resolved path escapes logos/ (slug={row.slug!r})"
         if not dry_run:
             public.unlink()
         parts.append(f"removed {public.relative_to(LOGOS_DIR.parent)}")

@@ -32,12 +32,32 @@ const DEFAULT_INDEX_URL =
 
 let _indexPromise = null;
 
-/** Tokenize a freeform label to the same shape `build_lookup.py` uses. */
+/**
+ * Tokenize a freeform label to the same shape `build_lookup.py` uses.
+ *
+ * Includes CamelCase expansion so compound identifiers like
+ * "YearnFinance" and "OnyxProtocol" produce individual keyword tokens
+ * ("yearn", "onyx") that match entity entries. Must stay in sync with
+ * the TS twin in aml_checker/src/lib/entities/lookup.ts and with the
+ * _keywords() function in scripts/build_lookup.py.
+ */
 export function labelTokens(label) {
   if (!label) return new Set();
   const out = new Set();
-  for (const t of String(label).toLowerCase().split(/[^a-z0-9]+/)) {
+  const s = String(label);
+  // CamelCase expansion: "YearnFinance" → "Yearn Finance"
+  const expanded = s
+    .replace(/([a-z\d])([A-Z])/g, '$1 $2')
+    .replace(/([A-Z]+)([A-Z][a-z])/g, '$1 $2');
+  for (const t of expanded.toLowerCase().split(/[^a-z0-9]+/)) {
     if (t.length >= 3 && !/^\d+$/.test(t)) out.add(t);
+  }
+  // Domain-join: "XT.com" → also emit "xtcom" so short 2-letter
+  // abbreviations can match. Must stay in sync with build_lookup.py
+  // and lookup.ts.
+  if (!s.includes(' ') && s.includes('.')) {
+    const joined = s.toLowerCase().replace(/\./g, '');
+    if (joined.length >= 4 && /^[a-z0-9]+$/.test(joined)) out.add(joined);
   }
   return out;
 }
