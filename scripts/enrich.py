@@ -207,7 +207,21 @@ def run(
     }
 
     _ensure_fallback(dry_run)
-    placeholder_bytes = FALLBACK_PNG.read_bytes() if FALLBACK_PNG.exists() else None
+    # Category-specific placeholder bytes. Cache per-category so we
+    # don't re-read the file for every miss. `hack` currently has its
+    # own "anonymous hacker" glyph at logos/_fallback/hack.png; add a
+    # `<cat>.png` there to get the same treatment for a new category,
+    # no code change needed.
+    placeholder_cache: dict[str, bytes] = {}
+    default_placeholder = FALLBACK_PNG.read_bytes() if FALLBACK_PNG.exists() else None
+
+    def _placeholder_for(category_slug: str) -> bytes | None:
+        if category_slug in placeholder_cache:
+            return placeholder_cache[category_slug]
+        specific = FALLBACK_PNG.parent / f"{category_slug}.png"
+        data = specific.read_bytes() if specific.exists() else default_placeholder
+        placeholder_cache[category_slug] = data
+        return data
 
     budget = max_rows if max_rows is not None else len(rows)
     processed = 0
@@ -246,10 +260,12 @@ def run(
                     source, raw = result
 
             if raw is None:
-                # No real source hit. Write the shared placeholder so
-                # consumers always see a 200 from jsDelivr instead of a
-                # 404 flash. Mark status=placeholder so the freshness
-                # gate keeps retrying real sources every run.
+                # No real source hit. Write a placeholder so consumers
+                # always see a 200 from jsDelivr instead of a 404 flash.
+                # Category-specific when available (hack → hacker glyph)
+                # else the generic 404.png. Mark status=placeholder so
+                # the freshness gate keeps retrying real sources every run.
+                placeholder_bytes = _placeholder_for(row.category_slug)
                 if placeholder_bytes is not None:
                     png = placeholder_bytes
                     source = STATUS_PLACEHOLDER
