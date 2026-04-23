@@ -11,6 +11,8 @@ KYT/AML project that needs "the Binance logo" or "the OFAC seal".
   protocols, mixers, sanctioning bodies, hack incidents. Ranked by
   importance (0-100). Single source of truth.
 - **logos/** — PNG 160×160 per entity, bucketed by category.
+- **logos/_lookup.json** — fuzzy-match index (800 entries, ~80 KB)
+  with pre-extracted keywords. Powers [lookup.js](lookup.js).
 - **scripts/** — enrichment pipeline (Arkham → Brandfetch → DefiLlama
   → favicon → placeholder → manual override).
 - **CDN** — served free via jsDelivr.
@@ -18,7 +20,7 @@ KYT/AML project that needs "the Binance logo" or "the OFAC seal".
 ## Quick URL (consumers)
 
 ```
-https://cdn.jsdelivr.net/gh/maslovsa/kyt-entity-registry@main/logos/<category>/<slug>.png
+https://cdn.jsdelivr.net/gh/maslovsa/kyt-entity-registry@main/logos/<dir>/<slug>.png
 ```
 
 Examples:
@@ -29,20 +31,24 @@ https://cdn.jsdelivr.net/gh/maslovsa/kyt-entity-registry@main/logos/dex/uniswap.
 https://cdn.jsdelivr.net/gh/maslovsa/kyt-entity-registry@main/logos/defi/aave.png
 ```
 
-### Minimal React helper
+`<dir>` ≠ `category_slug` verbatim — one plural rule: `exchange → exchanges`.
+Everything else (dex, defi, bridge, wallet, hack, mixer, psp, bot,
+gambling, nft_marketplace, sanctioned, mining) maps 1:1. Use the TS
+helper from [docs/CONSUMERS.md](docs/CONSUMERS.md) instead of hand-
+rolling the mapping — the list evolves.
 
-```tsx
-const CDN = 'https://cdn.jsdelivr.net/gh/maslovsa/kyt-entity-registry@main'
-export const entityLogoUrl = (category: string, slug: string) =>
-  `${CDN}/logos/${category}/${slug}.png`
+### Consumer helpers (pick one)
 
-// Usage
-<img
-  src={entityLogoUrl('exchanges', 'binance-com')}
-  onError={e => { e.currentTarget.src = `${CDN}/logos/_fallback/unknown.png` }}
-  width={32} height={32}
-/>
-```
+| You have... | Use this | Shipped at |
+|---|---|---|
+| Canonical `(category_slug, entity_name)` | `entityLogoUrl()` | [docs/CONSUMERS.md](docs/CONSUMERS.md) — copy-paste TS/Python |
+| Freeform label like `"Binance Hot Wallet 10"` | `lookup.resolve({category, label})` | [lookup.js](lookup.js) — fetch once per session |
+| No category, just a freeform string | `lookup.resolve({label})` across all categories | same |
+
+`lookup.js` matches by keyword-overlap scoring (label tokens ∩ entry
+keywords), breaks ties by importance + real-vs-placeholder. Covers
+the 500+ entities that `entityLogoUrl()` misses on non-canonical
+input. 80 KB index, 1 fetch/session, sub-ms per call.
 
 ## URL pinning — `@main` vs `@<sha>`
 
@@ -101,11 +107,11 @@ will overwrite it.
 
 ## Gallery — browse + audit all logos
 
-Open [index.html](index.html) in a browser (or the GitHub Pages deploy
-at https://maslovsa.github.io/kyt-entity-registry/ once enabled) to see
-every entity as a card with its logo, category, status, and freshness.
-Use the category chips, search, and sort to narrow down, then click
-**Mark as problem** on cards whose logo needs rework.
+Live at **https://maslovsa.github.io/kyt-entity-registry/** (or open
+[index.html](index.html) directly). Every entity renders as a card
+with its logo, category, status, and freshness. Category chips,
+search, and sort narrow the grid; click **Mark as problem** on cards
+whose logo needs rework.
 
 Flags persist in `localStorage`, so you can review across sessions.
 Two actions per card:
@@ -121,7 +127,7 @@ Two actions per card:
   card so you can visually confirm before exporting.
 
 **Export flagged CSV** downloads `kyt-registry-rework-YYYY-MM-DD.csv`
-(consumed by a future `scripts/rework_from_report.py`):
+(consumed by [`scripts/rework_from_report.py`](scripts/rework_from_report.py)):
 
 | Column | Source |
 |---|---|
