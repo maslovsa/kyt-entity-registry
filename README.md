@@ -141,39 +141,49 @@ Two actions per card:
 | `suggested_bytes` | byte length of the normalised PNG |
 | `suggested_logo_data_url` | full `data:image/png;base64,…` — empty if no replacement was attached |
 
-### Downstream: applying a report
+## Applying a rework report
 
 [`scripts/rework_from_report.py`](scripts/rework_from_report.py)
-walks the CSV and takes one of four per-row actions.
+walks a reviewer-exported CSV and takes one of four per-row
+actions. Runs offline; never touches the network.
+
+### One-time setup
 
 ```bash
-# One-time setup — use a venv. On macOS the system python3
-# (Homebrew / Apple) enforces PEP 668 and refuses global `pip install`.
+# macOS / modern Linux: the system python3 enforces PEP 668 and
+# refuses `pip install` globally. Use a venv.
 python3 -m venv .venv
 .venv/bin/pip install -r requirements.txt
+```
 
-# Dry-run — shows the plan, writes nothing.
+`requirements.txt` is pinned loosely (Pillow >= 10, httpx >= 0.27)
+so CPython 3.8 → 3.13 all resolve. On 3.8 pip picks Pillow 10
+(last release supporting that line); on 3.9+ you get Pillow 11.
+
+### Run
+
+```bash
+# Dry-run — prints the plan, writes nothing.
 .venv/bin/python scripts/rework_from_report.py path/to/kyt-registry-rework-YYYY-MM-DD.csv
 
-# Apply. Writes logos, updates entities.csv.
+# Apply. Writes PNGs to logos/_manual/ + logos/<cat>/, updates entities.csv.
 .venv/bin/python scripts/rework_from_report.py path/to/kyt-registry-rework-YYYY-MM-DD.csv --apply
 
-# Commit the result.
+# Commit.
 git add entities.csv logos/
 git commit -m "rework: apply N suggestions from <report>"
 ```
 
-Run it from the repo root — the script resolves paths relative to
-`scripts/` automatically, and the CSV path can be absolute or
-relative. Works on CPython 3.8 through 3.13. Pillow 10 is pulled
-automatically on 3.8 since Pillow 11 dropped that line.
+Run it from the repo root — the script resolves internal paths
+from its own location, and the CSV path can be absolute or
+relative.
 
-If you hit `ModuleNotFoundError: No module named 'PIL'` you are
-running a Python that doesn't have the registry's deps installed —
-activate a venv (`source .venv/bin/activate`) or prefix with the
-explicit path to the venv's interpreter as shown above.
+If you hit `ModuleNotFoundError: No module named 'PIL'` you're
+running a Python that doesn't have the deps installed. The script
+catches this at import time and prints the fix (use the venv
+interpreter shown above).
 
-Decision table:
+### Decision table
 
 | Inputs | Action | What happens |
 |---|---|---|
@@ -184,18 +194,24 @@ Decision table:
 | `arkham_slug` not in current `entities.csv` | **skip** | The row refers to an entity that no longer exists (dormant / renamed). Logged, no changes. |
 | `manual_lock=true` on the target row and no fresh suggestion | **skip** | Respect the lock; only a new `suggested_logo_data_url` can override a locked row. |
 
-The PR flow: reviewer exports the CSV, opens a PR adding it under
-`reports/` OR emails / attaches the file. A maintainer runs the
+### Handoff flow
+
+Reviewer exports the CSV from the gallery → hands it over (PR under
+`reports/`, email attachment, whatever). A maintainer runs the
 script locally, reviews the dry-run, re-runs with `--apply`, and
-commits.
+commits. All decisions happen locally — no suggested bytes ever
+leave the reviewer's machine until the maintainer pushes.
 
-### Enabling GitHub Pages
+## GitHub Pages
 
-Settings → Pages → Source: **Deploy from a branch**, Branch: `main`,
-Folder: `/ (root)`. Save. First build takes ~1 min; CDN edge cache
-matches jsDelivr (12-24 h), so bust with
-`curl https://purge.jsdelivr.net/gh/maslovsa/kyt-entity-registry@main/index.html`
-after a meaningful UI change.
+Already enabled at https://maslovsa.github.io/kyt-entity-registry/.
+The `main` branch is the deployed ref. Pages build is automatic on
+push (~1 min). CDN cache TTL matches jsDelivr (12-24 h) — for
+urgent UI fixes bust with:
+
+```bash
+curl https://purge.jsdelivr.net/gh/maslovsa/kyt-entity-registry@main/index.html
+```
 
 ## Contributing
 
@@ -209,15 +225,18 @@ Please keep logos ≤ 50 KB (tune compression if needed) and exactly
 
 ## Related docs
 
+- **[docs/CONSUMERS.md](docs/CONSUMERS.md)** — TS + Python helpers
+  for consumers: canonical `entityLogoUrl()`, fuzzy `resolve()`,
+  existence check via `_index.json`, SHA-pinning for PDFs, cache
+  gotchas. Drop the snippets into any new consumer verbatim.
 - **[docs/PROVIDERS.md](docs/PROVIDERS.md)** — contract for upstream
   projects (sdn_api today) shipping fresh CSV exports: column
   ownership, never-do list, PR review checklist.
-- **[docs/CONSUMERS.md](docs/CONSUMERS.md)** — canonical resolver
-  (TypeScript + Python): category → directory map, name→slug
-  normalization, `onError` fallback, SHA-pinning for PDFs, cache
-  gotchas. Drop the TS helper into any new consumer verbatim.
-- **[CLAUDE.md](CLAUDE.md)** — agent-facing runbook, task queue
-  T1-T8.
+- **[lookup.js](lookup.js)** — the fuzzy resolver itself (~50 lines,
+  ES module). Fetch once per session, resolve freeform labels to
+  CDN URLs.
+- **[CLAUDE.md](CLAUDE.md)** — agent-facing runbook: constraints,
+  source-priority chain, audit-loop rules, never-do list.
 
 ## License
 
