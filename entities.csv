@@ -73,7 +73,7 @@ bZx - REKT,hack,100,32,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POL
 zkLend,hack,100,56,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,zklend,,arkham,2026-04-22,false,a8a7465e762cdeb42bd2ea39597e938211914c9b72c51bd327b61bb873c2883c
 OFAC SDN,sanctioned,100,928,100,100,ARBITRUM|BSC|BTC|ETH|TRON,ofac-sdn,ofac-sdn,,manual,2026-04-23,true,5d913ef04edfed35dfc6c0d643b8636827fb35778f35b262faa5c31f578f0a33
 UK OFSI,sanctioned,100,54,100,100,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON|TRON,uk-ofsi-sanctions,uk-ofsi,,arkham,2026-04-22,false,39bb2f363bb897b4c79cd14a3039e468a3a915b1ab3c2b1df9ee9171336401b5
-Garantex,sanctioned,100,89,100,100,BSC|ETH|TRON,hack-attributions,garantex,garantex.org,placeholder,2026-04-23,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Garantex,sanctioned,100,89,100,100,BSC|ETH|TRON,hack-attributions,garantex,garantex.org,manual,2026-04-23,true,5c78e26435214285e9c689bef9e6968102e95d5af360e6d1c48d1f20394b3311
 Grinex,sanctioned,100,52,100,100,BSC|ETH|TRON,hack-attributions,grinex,grinex.io,placeholder,2026-04-23,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Bingx.com,exchange,99.9,66,85,5,BSC|ETH|TRON,scorechain-counterparties,bingx-com,bingx.com,arkham,2026-04-22,false,28be759f2b86bae73350effc77bdd6fbdc98649973b1341fc2692fdbb5de111a
 Gate.io,exchange,99.8,65,85,5,BSC|ETH|TRON,scorechain-counterparties,gate-io,gate.io,arkham,2026-04-22,false,d7e86952c6f88d15bb30b32272f4cd53d01f013652be8c77c98c2cb961ae1201
@@ -447,7 +447,7 @@ Xrex,exchange,85.2,6,85,5,TRON,scorechain-counterparties,xrex,,placeholder,2026-
 bitglobal.com,exchange,85.2,6,85,5,BSC|ETH,scorechain-counterparties,bitglobal-com,bitglobal.com,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Bitharvest,mining,85.2,6,85,5,BSC|TRON,scorechain-counterparties,bitharvest,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Commerce Coinbase,psp,85.2,6,85,15,ETH,scorechain-counterparties,commerce-coinbase,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
-Upay,psp,85.2,6,85,15,TRON,scorechain-counterparties,upay,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Upay,psp,85.2,6,85,15,TRON,scorechain-counterparties,upay,,manual,2026-04-23,true,420b66cd669433808b68d2e8f3e7a7fb4f4f4e096f08a294b24a608f572720c1
 biyapay,wallet,85.2,6,85,5,TRON,scorechain-counterparties,biyapay,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Crypto Exchanger Bot,bot,84.2,5,85,20,TRON,scorechain-counterparties,crypto-exchanger-bot,,arkham,2026-04-22,false,8f95daaa88037905e181fa1834d35b32a12c543ff5980d28bc5a5fa0a8664c6d
 Connext.network - Everclear.org,bridge,84.2,5,85,15,BSC|ETH,scorechain-counterparties,connext-network-everclear-org,connext.network,arkham,2026-04-22,false,054aaa62dfd58a0869cd2548ca288693f8c6266b13783c0aa41c5ca7df2090d8
@@ -466,7 +466,7 @@ Krystal.app,dex,84.2,5,85,10,BSC,scorechain-counterparties,krystal-app,krystal.a
 Metamask.io,dex,84.2,5,85,10,BSC|ETH,scorechain-counterparties,metamask-io,metamask.io,arkham,2026-04-22,false,85dac58b35134e7c4151954c7cffe419271d07d31165e0a24011dadfaa29cdab
 Nomiswap.io,dex,84.2,5,85,10,BSC,scorechain-counterparties,nomiswap-io,nomiswap.io,arkham,2026-04-22,false,33a7ad06af0e0419995d0797e7efc7b610bba18ed7a48fcb48cbed18e2687cab
 Venus.io,dex,84.2,5,85,10,BSC|ETH,scorechain-counterparties,venus-io,venus.io,arkham,2026-04-22,false,47b2a489eb318c85375b3de0cdefbe557b83306fd270332cd1b27532ef96fc97
-Aifory Pro,exchange,84.2,5,85,5,ETH|TRON,scorechain-counterparties,aifory-pro,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Aifory Pro,exchange,84.2,5,85,5,ETH|TRON,scorechain-counterparties,aifory-pro,,manual,2026-04-23,true,e4348bd585065902b3a6fe3a2f874fccf3ecb3e934618b2b9f1e50514f491d38
 Bitbank.cc,exchange,84.2,5,85,5,ETH,scorechain-counterparties,bitbank-cc,bitbank.cc,arkham,2026-04-22,false,27fab3a1b3b9e37d7ebbcd7071ede8c1fc9b7c20c64e11f5faea3634b524ad27
 Bitexen.com,exchange,84.2,5,85,5,BSC|ETH|TRON,scorechain-counterparties,bitexen-com,bitexen.com,favicon,2026-04-22,false,654dc9b557e032a6bf38447cc02371f7e336b1e46b88f757a76a4e688968ab2c
 Bullish.com,exchange,84.2,5,85,5,ETH,scorechain-counterparties,bullish-com,bullish.com,arkham,2026-04-22,false,5b56498f56c30dc0e68402fc22b8b20f610dd08250da3260cb45c4a102c1cc05
