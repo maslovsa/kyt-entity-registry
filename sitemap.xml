@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://maslovsa.github.io/kyt-entity-registry/</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://maslovsa.github.io/kyt-entity-registry/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://maslovsa.github.io/kyt-entity-registry/?lang=ru"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://maslovsa.github.io/kyt-entity-registry/"/>
+  </url>
+  <url>
+    <loc>https://maslovsa.github.io/kyt-entity-registry/docs/CONSUMERS.md</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://maslovsa.github.io/kyt-entity-registry/docs/MCP.md</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://maslovsa.github.io/kyt-entity-registry/docs/PROVIDERS.md</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

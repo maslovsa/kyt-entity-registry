@@ -3,105 +3,410 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>kyt-entity-registry — logo gallery</title>
-  <meta name="description" content="Browse and audit every logo in kyt-entity-registry. Flag problem logos for rework and export a CSV report for the enrichment pipeline." />
+
+  <!-- Primary -->
+  <title>kyt-entity-registry — free crypto entity logo CDN &amp; registry for KYT/AML tools</title>
+  <meta name="description" content="Open-source registry of 800+ crypto entity logos (exchanges, DEX, bridges, DeFi, mixers, hacks, sanctioned) — 160×160 RGBA PNG, served free via jsDelivr, with a fuzzy resolver and an MCP server for Claude agents." />
+  <meta name="author" content="maslovsa" />
+  <meta name="keywords" content="crypto logo, KYT, AML, entity registry, blockchain icons, exchange logos, DEX icons, OFAC, sanctioned, jsDelivr CDN, MCP server, Model Context Protocol, Binance logo, Uniswap logo, Tornado Cash, Ronin Bridge, crypto brand assets" />
+  <meta name="theme-color" content="#d64686" />
+  <meta name="color-scheme" content="light dark" />
+
+  <link rel="canonical" href="https://maslovsa.github.io/kyt-entity-registry/" />
+  <link rel="alternate" hreflang="en" href="https://maslovsa.github.io/kyt-entity-registry/?lang=en" />
+  <link rel="alternate" hreflang="ru" href="https://maslovsa.github.io/kyt-entity-registry/?lang=ru" />
+  <link rel="alternate" hreflang="x-default" href="https://maslovsa.github.io/kyt-entity-registry/" />
+
+  <!-- OpenGraph -->
+  <meta property="og:site_name" content="kyt-entity-registry" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://maslovsa.github.io/kyt-entity-registry/" />
+  <meta property="og:title" content="kyt-entity-registry — 800+ crypto entity logos, free via jsDelivr + MCP" />
+  <meta property="og:description" content="Open-source registry of crypto entity logos — exchanges, DEX, bridges, hacks, mixers. 160×160 RGBA PNG, fuzzy resolver, MCP server for Claude." />
+  <meta property="og:image" content="https://maslovsa.github.io/kyt-entity-registry/og-preview.png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:image:alt" content="Patchwork of 800+ crypto entity logos forming the kyt-entity-registry mosaic." />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:locale:alternate" content="ru_RU" />
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:url" content="https://maslovsa.github.io/kyt-entity-registry/" />
+  <meta name="twitter:title" content="kyt-entity-registry — crypto entity logos, free + MCP" />
+  <meta name="twitter:description" content="800+ crypto logos for KYT/AML tools. Exchanges, DEX, bridges, hacks, mixers. CDN + MCP server." />
+  <meta name="twitter:image" content="https://maslovsa.github.io/kyt-entity-registry/og-preview.png" />
+
   <link rel="icon" href="logos/_fallback/unknown.png" />
+
+  <!-- JSON-LD: Dataset + SoftwareApplication schema for rich results -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Dataset",
+        "@id": "https://maslovsa.github.io/kyt-entity-registry/#dataset",
+        "name": "kyt-entity-registry",
+        "alternateName": ["KYT Entity Registry", "Crypto Entity Logos"],
+        "description": "Public registry of 800+ cryptocurrency entity metadata and logos (exchanges, DEX, bridges, DeFi protocols, mixers, sanctioning bodies, hack incidents) — 160×160 RGBA PNG, served free via jsDelivr CDN, with a fuzzy-match resolver and a Model Context Protocol (MCP) server.",
+        "url": "https://maslovsa.github.io/kyt-entity-registry/",
+        "sameAs": "https://github.com/maslovsa/kyt-entity-registry",
+        "license": "https://opensource.org/licenses/MIT",
+        "creator": {
+          "@type": "Person",
+          "name": "maslovsa",
+          "url": "https://github.com/maslovsa"
+        },
+        "keywords": ["crypto", "KYT", "AML", "entity registry", "blockchain logos", "exchange icons", "DEX", "DeFi", "OFAC", "sanctioned", "jsDelivr", "MCP"],
+        "distribution": [
+          {
+            "@type": "DataDownload",
+            "encodingFormat": "text/csv",
+            "contentUrl": "https://cdn.jsdelivr.net/gh/maslovsa/kyt-entity-registry@main/entities.csv"
+          },
+          {
+            "@type": "DataDownload",
+            "encodingFormat": "application/json",
+            "contentUrl": "https://cdn.jsdelivr.net/gh/maslovsa/kyt-entity-registry@main/logos/_lookup.json"
+          },
+          {
+            "@type": "DataDownload",
+            "encodingFormat": "image/png",
+            "contentUrl": "https://cdn.jsdelivr.net/gh/maslovsa/kyt-entity-registry@main/logos/"
+          }
+        ],
+        "variableMeasured": [
+          {"@type": "PropertyValue", "name": "entity_name"},
+          {"@type": "PropertyValue", "name": "category_slug"},
+          {"@type": "PropertyValue", "name": "importance"},
+          {"@type": "PropertyValue", "name": "canonical_domain"},
+          {"@type": "PropertyValue", "name": "logo_status"},
+          {"@type": "PropertyValue", "name": "logo_hash"}
+        ]
+      },
+      {
+        "@type": "SoftwareSourceCode",
+        "@id": "https://github.com/maslovsa/kyt-entity-registry#software",
+        "name": "kyt-entity-registry",
+        "codeRepository": "https://github.com/maslovsa/kyt-entity-registry",
+        "programmingLanguage": ["Python", "TypeScript", "JavaScript"],
+        "license": "https://opensource.org/licenses/MIT",
+        "author": {"@type": "Person", "name": "maslovsa"}
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://maslovsa.github.io/kyt-entity-registry/#website",
+        "url": "https://maslovsa.github.io/kyt-entity-registry/",
+        "name": "kyt-entity-registry",
+        "inLanguage": ["en", "ru"]
+      }
+    ]
+  }
+  </script>
+
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap" />
-  <link rel="stylesheet" href="gallery.css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" />
+  <link rel="stylesheet" href="landing.css" />
 </head>
 <body>
-  <header class="site-header">
-    <div class="site-header-inner">
-      <div class="brand">
-        <h1>kyt-entity-registry</h1>
-        <p class="tagline">Logo gallery &amp; audit tool</p>
+
+<header class="site-header">
+  <div class="container site-header-inner">
+    <div class="brand-lockup">
+      <span class="logo-mark">kyt<span>·</span>entity<span>·</span>registry</span>
+      <span class="brand-sub" data-lang="en">crypto logos, free</span>
+      <span class="brand-sub" data-lang="ru">крипто-логотипы, бесплатно</span>
+    </div>
+    <nav class="header-nav" aria-label="Site">
+      <a href="#quilt" data-lang="en">Quilt</a>
+      <a href="#quilt" data-lang="ru">Одеяло</a>
+      <a href="#use-it" data-lang="en">Use it</a>
+      <a href="#use-it" data-lang="ru">Использовать</a>
+      <a href="#contribute" data-lang="en">Contribute</a>
+      <a href="#contribute" data-lang="ru">Вклад</a>
+      <div class="lang-toggle" role="group" aria-label="Language">
+        <button type="button" data-lang="en" aria-pressed="true">EN</button>
+        <button type="button" data-lang="ru" aria-pressed="false">RU</button>
       </div>
-      <div class="header-actions">
-        <a class="gh-link" href="https://github.com/maslovsa/kyt-entity-registry" target="_blank" rel="noopener">View on GitHub</a>
+      <a class="gh-button" href="https://github.com/maslovsa/kyt-entity-registry" target="_blank" rel="noopener">
+        <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8Z"/></svg>
+        GitHub
+      </a>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+<!-- ── Hero ────────────────────────────────────────────────────────── -->
+<section class="hero">
+  <div class="container">
+    <h1>
+      <span data-lang="en">The open logo registry for every <span class="accent">crypto&nbsp;entity</span>.</span>
+      <span data-lang="ru">Открытый реестр логотипов <span class="accent">крипто-сущностей</span>.</span>
+    </h1>
+    <p class="hero-sub">
+      <span data-lang="en">
+        800+ exchanges, DEX, bridges, DeFi protocols, mixers and hack incidents —
+        160×160 RGBA PNG, served free via jsDelivr, refreshed nightly.
+        Plus a fuzzy resolver and an MCP server so Claude agents can look up
+        logos by freeform label.
+      </span>
+      <span data-lang="ru">
+        800+ биржи, DEX, мосты, DeFi-протоколы, миксеры, инциденты-взломы —
+        160×160 RGBA PNG, раздача через jsDelivr бесплатно, обновления
+        каждую ночь. Плюс нечёткий резолвер и MCP-сервер, чтобы Claude-агенты
+        могли находить логотипы по свободному лейблу.
+      </span>
+    </p>
+    <div class="hero-ctas">
+      <a class="btn btn-primary" href="#quilt">
+        <span data-lang="en">Explore the quilt ↓</span>
+        <span data-lang="ru">К одеялу ↓</span>
+      </a>
+      <a class="btn btn-ghost" href="#use-it">
+        <span data-lang="en">Use it in my project</span>
+        <span data-lang="ru">Подключить к проекту</span>
+      </a>
+    </div>
+    <div class="hero-stats">
+      <div class="hero-stat">
+        <strong id="stat-total">…</strong>
+        <span data-lang="en">entities</span>
+        <span data-lang="ru">сущностей</span>
+      </div>
+      <div class="hero-stat">
+        <strong id="stat-real">…</strong>
+        <span data-lang="en">real brand logos</span>
+        <span data-lang="ru">реальных логотипов</span>
+      </div>
+      <div class="hero-stat">
+        <strong id="stat-cats">…</strong>
+        <span data-lang="en">categories</span>
+        <span data-lang="ru">категорий</span>
+      </div>
+      <div class="hero-stat">
+        <strong id="stat-updated">…</strong>
+        <span data-lang="en">last refreshed</span>
+        <span data-lang="ru">последнее обновление</span>
       </div>
     </div>
-    <div class="stats-bar" id="stats-bar" aria-live="polite"></div>
-  </header>
+  </div>
+</section>
 
-  <section class="toolbar" aria-label="Filters and actions">
-    <div class="toolbar-row toolbar-row-top">
-      <input type="search" id="search" placeholder="Search entity name or slug..." autocomplete="off" />
-      <select id="sort" aria-label="Sort order">
-        <option value="importance">Sort: importance (high to low)</option>
-        <option value="name">Sort: name (A-Z)</option>
-        <option value="updated">Sort: logo_updated_at (newest)</option>
-        <option value="category">Sort: category</option>
-      </select>
-      <label class="toggle">
-        <input type="checkbox" id="only-flagged" />
-        <span>Only flagged</span>
-      </label>
-      <label class="toggle">
-        <input type="checkbox" id="only-missing" />
-        <span>Only missing logos</span>
-      </label>
-      <button id="export-csv" class="btn btn-primary" type="button">
-        Export flagged CSV (<span id="flagged-count">0</span>)
+<!-- ── Quilt ───────────────────────────────────────────────────────── -->
+<section id="quilt-section" class="band">
+  <div class="container">
+    <div class="section-eyebrow" data-lang="en">The whole catalog</div>
+    <div class="section-eyebrow" data-lang="ru">Весь каталог</div>
+    <h2 class="section-title">
+      <span data-lang="en">Patchwork of every entity we know</span>
+      <span data-lang="ru">Лоскутное одеяло из всех сущностей</span>
+    </h2>
+    <p class="section-lead">
+      <span data-lang="en">
+        One tile per entity. Filter by category — pick one or combine
+        several. Hover a tile to see its source, last-refresh date, and
+        whether it's a real brand logo or our placeholder.
+        Click to open the full-size PNG on the CDN.
+      </span>
+      <span data-lang="ru">
+        Одна плитка — одна сущность. Фильтр по категориям — можно
+        выбрать одну, можно комбинировать. Наведение показывает источник,
+        дату обновления, реальный ли это логотип или наша заглушка.
+        Клик открывает полноразмерный PNG на CDN.
+      </span>
+    </p>
+
+    <div id="tabs" class="tabs" role="tablist" aria-label="Category filter"></div>
+
+    <div id="quilt" class="quilt" aria-label="Logo quilt"></div>
+  </div>
+</section>
+
+<!-- ── Use it ──────────────────────────────────────────────────────── -->
+<section id="use-it">
+  <div class="container">
+    <div class="section-eyebrow" data-lang="en">How to use it</div>
+    <div class="section-eyebrow" data-lang="ru">Как подключить</div>
+    <h2 class="section-title">
+      <span data-lang="en">Three ways to pull a logo</span>
+      <span data-lang="ru">Три способа достать логотип</span>
+    </h2>
+
+    <div class="usage-grid">
+
+      <article class="usage-card">
+        <h3>
+          <span data-lang="en">1 · Direct CDN URL</span>
+          <span data-lang="ru">1 · Прямой URL CDN</span>
+        </h3>
+        <p>
+          <span data-lang="en">The simplest form. Works in <code>&lt;img src&gt;</code>, CSS <code>background-image</code>, email templates, anywhere.</span>
+          <span data-lang="ru">Самое простое. Работает в <code>&lt;img src&gt;</code>, CSS <code>background-image</code>, email-шаблонах, где угодно.</span>
+        </p>
+<pre class="code">https://cdn.jsdelivr.net/gh/
+  maslovsa/kyt-entity-registry@main/
+  logos/<span class="c-key">&lt;dir&gt;</span>/<span class="c-key">&lt;slug&gt;</span>.png</pre>
+      </article>
+
+      <article class="usage-card">
+        <h3>
+          <span data-lang="en">2 · Fuzzy resolver (JS)</span>
+          <span data-lang="ru">2 · Нечёткий резолвер (JS)</span>
+        </h3>
+        <p>
+          <span data-lang="en">For freeform labels like "Binance Hot Wallet 10". One fetch per session, keyword-overlap scoring.</span>
+          <span data-lang="ru">Для свободных лейблов вроде "Binance Hot Wallet 10". Один фетч за сессию, scoring по пересечению ключевых слов.</span>
+        </p>
+<pre class="code"><span class="c-com">// lookup.js from the registry</span>
+<span class="c-key">import</span> { createLookup }
+  <span class="c-key">from</span> <span class="c-str">'<registry>/lookup.js'</span>
+
+<span class="c-key">const</span> l = <span class="c-key">await</span> createLookup()
+l.resolve({
+  category: <span class="c-str">'dex'</span>,
+  label: <span class="c-str">'Uniswap V3 Deposits'</span>,
+})
+<span class="c-com">// → { url, slug, name, … }</span></pre>
+      </article>
+
+      <article class="usage-card">
+        <h3>
+          <span data-lang="en">3 · MCP server (for Claude)</span>
+          <span data-lang="ru">3 · MCP-сервер (для Claude)</span>
+        </h3>
+        <p>
+          <span data-lang="en">Add one block to your <code>~/.claude/settings.json</code>. Claude agents call <code>resolve_logo</code> directly.</span>
+          <span data-lang="ru">Одна запись в <code>~/.claude/settings.json</code> и Claude-агент сам вызывает <code>resolve_logo</code>.</span>
+        </p>
+<pre class="code"><span class="c-str">"kyt-entity-registry"</span>: {
+  <span class="c-str">"command"</span>: <span class="c-str">"uvx"</span>,
+  <span class="c-str">"args"</span>: [
+    <span class="c-str">"--from"</span>,
+    <span class="c-str">"git+https://github.com/maslovsa/
+      kyt-entity-registry.git
+      #subdirectory=mcp/python"</span>,
+    <span class="c-str">"kyt-entity-registry-mcp"</span>
+  ]
+}</pre>
+      </article>
+
+    </div>
+
+    <p style="margin-top:20px;color:var(--muted-foreground);font-size:14px;">
+      <span data-lang="en">Full reference: <a href="docs/CONSUMERS.md">CONSUMERS.md</a> · <a href="docs/MCP.md">MCP.md</a> · <a href="https://github.com/maslovsa/kyt-entity-registry/blob/main/docs/PROVIDERS.md">PROVIDERS.md</a></span>
+      <span data-lang="ru">Подробнее: <a href="docs/CONSUMERS.md">CONSUMERS.md</a> · <a href="docs/MCP.md">MCP.md</a> · <a href="https://github.com/maslovsa/kyt-entity-registry/blob/main/docs/PROVIDERS.md">PROVIDERS.md</a></span>
+    </p>
+  </div>
+</section>
+
+<!-- ── Bulk upload / contribute ────────────────────────────────────── -->
+<section id="contribute" class="band">
+  <div class="container">
+    <div class="section-eyebrow" data-lang="en">Help us improve</div>
+    <div class="section-eyebrow" data-lang="ru">Помочь нам</div>
+    <h2 class="section-title">
+      <span data-lang="en">Have better logos? Drop them here.</span>
+      <span data-lang="ru">Есть логотипы получше? Бросай сюда.</span>
+    </h2>
+    <p class="section-lead">
+      <span data-lang="en">
+        Drop any number of PNG/JPG files onto the zone below. Your browser
+        auto-matches each file to an entity by filename, resizes to 160×160
+        on a transparent canvas, and bundles them into a single rework CSV —
+        ready to hand off to a maintainer via PR or email. Nothing is
+        uploaded anywhere.
+      </span>
+      <span data-lang="ru">
+        Бросай любое число PNG/JPG в зону ниже. Браузер сам матчит каждый
+        файл к сущности по имени, ресайзит в 160×160 на прозрачном canvas'е,
+        собирает всё в один rework-CSV — отдашь мейнтейнеру через PR
+        или письмом. Никуда ничего не загружается.
+      </span>
+    </p>
+
+    <div class="dropzone" tabindex="0" role="button"
+         aria-label="Drop image files here">
+      <div class="dropzone-icon">📦</div>
+      <div class="dropzone-title">
+        <span data-lang="en">Drop PNG / JPG / WebP files here</span>
+        <span data-lang="ru">Перетащи PNG / JPG / WebP сюда</span>
+      </div>
+      <div class="dropzone-sub">
+        <span data-lang="en">or click to pick — files are matched by filename</span>
+        <span data-lang="ru">или кликни для выбора — матчим по имени файла</span>
+      </div>
+      <input id="bulk-input" type="file" multiple accept="image/*" hidden />
+    </div>
+
+    <div id="bulk-results" class="bulk-results">
+      <p id="bulk-summary" style="font-weight:600;margin-bottom:12px"></p>
+      <div id="bulk-matches" class="bulk-matches"></div>
+      <button id="bulk-download" class="btn btn-primary" style="display:none">
+        <span data-lang="en">Download rework CSV</span>
+        <span data-lang="ru">Скачать rework CSV</span>
       </button>
-      <button id="clear-flags" class="btn btn-subtle" type="button" title="Clear all local flags (cannot be undone)">Clear flags</button>
     </div>
-    <div class="toolbar-row toolbar-row-chips" id="category-chips" role="tablist"></div>
-  </section>
 
-  <main id="grid" class="grid" aria-live="polite" aria-busy="true">
-    <div class="loading">Loading entities.csv...</div>
-  </main>
+    <div style="margin-top:40px;padding:24px;border:1px solid var(--border);border-radius:var(--radius);background:var(--card);display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap">
+      <div>
+        <strong style="font-family:var(--font-heading);font-size:16px">
+          <span data-lang="en">Need per-entity review?</span>
+          <span data-lang="ru">Нужен review по каждой?</span>
+        </strong>
+        <p style="margin:4px 0 0;color:var(--muted-foreground);font-size:13px">
+          <span data-lang="en">The audit page lets you flag individual logos with a reason, attach a replacement, and export a detailed CSV.</span>
+          <span data-lang="ru">Аудит-страница даёт флагать каждый логотип с причиной, прикладывать замену и экспортировать детальный CSV.</span>
+        </p>
+      </div>
+      <a class="btn btn-ghost" href="audit.html">
+        <span data-lang="en">Open audit tool →</span>
+        <span data-lang="ru">Открыть аудит →</span>
+      </a>
+    </div>
+  </div>
+</section>
 
-  <template id="card-template">
-    <article class="card" data-slug="" data-category="">
-      <div class="card-logo">
-        <img alt="" loading="lazy" decoding="async" />
-      </div>
-      <div class="card-body">
-        <h3 class="card-name"></h3>
-        <div class="card-meta">
-          <span class="badge badge-category"></span>
-          <span class="badge badge-status"></span>
-          <span class="badge badge-lock" hidden>locked</span>
-        </div>
-        <div class="card-sub">
-          <span class="imp" title="importance"></span>
-          <span class="updated" title="logo_updated_at"></span>
-        </div>
-      </div>
-      <div class="card-flag-area">
-        <div class="card-actions">
-          <button class="flag-btn" type="button" aria-pressed="false">Mark as problem</button>
-          <button class="upload-btn" type="button" title="Pick a replacement PNG/JPG/SVG from your computer">Use my image</button>
-          <input class="upload-input" type="file" accept="image/png,image/jpeg,image/webp,image/gif" hidden />
-        </div>
-        <div class="suggestion-preview" hidden>
-          <img class="suggestion-img" alt="Suggested replacement" />
-          <button class="suggestion-clear" type="button" title="Remove suggestion">×</button>
-        </div>
-        <div class="flag-details" hidden>
-          <select class="flag-reason" aria-label="Problem reason">
-            <option value="">Select reason...</option>
-            <option value="wrong_image">wrong_image — not our brand / wrong entity</option>
-            <option value="low_quality">low_quality — blurry / wrong aspect / letterbox</option>
-            <option value="outdated">outdated — old brand, needs refresh</option>
-            <option value="missing">missing — no logo should exist here</option>
-            <option value="manual_needed">manual_needed — hand-curate via _manual/</option>
-            <option value="other">other — see note</option>
-          </select>
-          <!-- `user_provided` is NOT in the dropdown — it is only set
-               automatically by the "Use my image" handler when a real
-               file attach succeeds. Manually picking it would produce
-               a flag with reason=user_provided but no suggested_data_url,
-               which is useless to the downstream rework script. -->
-          <textarea class="flag-note" rows="2" placeholder="Optional note (what's wrong, suggested source, etc.)"></textarea>
-        </div>
-      </div>
-    </article>
-  </template>
+<!-- ── CTA band ────────────────────────────────────────────────────── -->
+<section style="padding:40px 0">
+  <div class="cta-band">
+    <h2>
+      <span data-lang="en">Built in the open. Licensed MIT.</span>
+      <span data-lang="ru">Сделано публично. Лицензия MIT.</span>
+    </h2>
+    <p>
+      <span data-lang="en">Star the repo, open an issue, or send a pull request. All logos remain the property of their respective brand owners — inclusion is fair-use for identification.</span>
+      <span data-lang="ru">Поставь звезду, открой issue или пришли PR. Все логотипы — собственность их владельцев, включение — fair-use для идентификации.</span>
+    </p>
+    <a class="btn btn-primary" href="https://github.com/maslovsa/kyt-entity-registry" target="_blank" rel="noopener">
+      <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8Z"/></svg>
+      <span data-lang="en">View source on GitHub</span>
+      <span data-lang="ru">Исходники на GitHub</span>
+    </a>
+  </div>
+</section>
 
-  <script src="gallery.js"></script>
+</main>
+
+<footer class="footer">
+  <div class="container footer-inner">
+    <div>
+      <span data-lang="en">© 2026 maslovsa · MIT · a humble collection of brand logos, built for KYT/AML tools.</span>
+      <span data-lang="ru">© 2026 maslovsa · MIT · скромная коллекция логотипов для KYT/AML инструментов.</span>
+    </div>
+    <div class="footer-links">
+      <a href="https://github.com/maslovsa/kyt-entity-registry">GitHub</a>
+      <a href="audit.html" data-lang="en">Audit tool</a>
+      <a href="audit.html" data-lang="ru">Аудит</a>
+      <a href="docs/CONSUMERS.md">Consumers</a>
+      <a href="docs/MCP.md">MCP</a>
+    </div>
+  </div>
+</footer>
+
+<script src="landing.js" defer></script>
 </body>
 </html>

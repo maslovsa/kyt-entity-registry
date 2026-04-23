@@ -1,0 +1,14 @@
+# kyt-entity-registry — crawler policy.
+#
+# Everything public except the audit tool (noindex via meta, also
+# disallowed here so crawl budget stays on the landing + data).
+
+User-agent: *
+Allow: /
+Allow: /logos/
+Allow: /docs/
+Disallow: /audit.html
+Disallow: /.venv/
+Disallow: /.github/
+
+Sitemap: https://maslovsa.github.io/kyt-entity-registry/sitemap.xml
