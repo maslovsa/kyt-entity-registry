@@ -71,7 +71,7 @@ Woo X,hack,100,50,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON|
 Yieldblox,hack,100,48,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,yieldblox,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 bZx - REKT,hack,100,32,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bzx-rekt,,arkham,2026-04-22,false,e635b45c0009fb07d0b9b4c6369274fd4ed6d2fff6e5a66c95686cf6fff82187
 zkLend,hack,100,56,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,zklend,,arkham,2026-04-22,false,a8a7465e762cdeb42bd2ea39597e938211914c9b72c51bd327b61bb873c2883c
-OFAC SDN,sanctioned,100,928,100,100,ARBITRUM|BSC|BTC|ETH|TRON,ofac-sdn,ofac-sdn,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+OFAC SDN,sanctioned,100,928,100,100,ARBITRUM|BSC|BTC|ETH|TRON,ofac-sdn,ofac-sdn,,manual,2026-04-23,true,5d913ef04edfed35dfc6c0d643b8636827fb35778f35b262faa5c31f578f0a33
 UK OFSI,sanctioned,100,54,100,100,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON|TRON,uk-ofsi-sanctions,uk-ofsi,,arkham,2026-04-22,false,39bb2f363bb897b4c79cd14a3039e468a3a915b1ab3c2b1df9ee9171336401b5
 Garantex,sanctioned,100,89,100,100,BSC|ETH|TRON,hack-attributions,garantex,garantex.org,placeholder,2026-04-23,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Grinex,sanctioned,100,52,100,100,BSC|ETH|TRON,hack-attributions,grinex,grinex.io,placeholder,2026-04-23,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
@@ -507,7 +507,7 @@ Eldorado.io,dex,83.0,4,85,10,TRON,scorechain-counterparties,eldorado-io,eldorado
 Ellipsis Finance,dex,83.0,4,85,10,BSC,defillama-protocols|scorechain-counterparties,ellipsis-finance,,arkham,2026-04-22,false,18f5d9e96d0b75bfce32c98fe9b696a27f42ce809c7091ee1e9cd08b049128cc
 Galaxy Coin,dex,83.0,4,85,10,TRON,scorechain-counterparties,galaxy-coin,,manual,2026-04-23,true,6d43af33370a0774b9378107f0b2ac0a0b8b87801baa6109fd36c476cc890472
 InstaDApp,dex,83.0,4,85,10,BSC|ETH,scorechain-counterparties,instadapp,,arkham,2026-04-22,false,26a9e5a69093d30ec2b6d2246d6f60178c23ac31c46df45fff590f64fcd4151a
-Maker DAO,dex,83.0,4,85,10,ETH,scorechain-counterparties,maker-dao,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Maker DAO,dex,83.0,4,85,10,ETH,scorechain-counterparties,maker-dao,,manual,2026-04-23,true,4cc1b9429dea0bb373f883d34b23e22b8ca34f872c03a9b0a02f3e636f4cd34e
 Relayer Network,dex,83.0,4,85,10,BSC|ETH,scorechain-counterparties,relayer-network,,arkham,2026-04-22,false,655a0f4b0e384b3e75833dc020a0326dd3bd1a2c2a06c275df89b94bf9b562a3
 USDD,dex,83.0,4,85,10,BSC|ETH|TRON,scorechain-counterparties,usdd,,defillama,2026-04-22,false,fe705c6058cc6ae3a1ed2ba15d2be58d035d4c55f318a5c2b2a811077036b4ab
 polyhedra.network,dex,83.0,4,85,10,BSC,scorechain-counterparties,polyhedra-network,polyhedra.network,arkham,2026-04-22,false,39809919ac43b565fef27e385714548d5286851ff9f65620e801330b32211f3d
