@@ -244,9 +244,140 @@ export function hasLogo(category: string, entityName: string): boolean {
 }
 ```
 
-`_index.json` is regenerated as part of the nightly enrichment cron
-(task T6 in CLAUDE.md). Until it ships, consumers use
-`<img onError>` — same UX, one wasted 404 per miss, acceptable.
+`_index.json` is regenerated as part of the nightly enrichment cron.
+Until it ships, consumers use `<img onError>` — same UX, one wasted
+404 per miss, acceptable.
+
+## Fuzzy resolver — matching a freeform label to a logo
+
+`entityLogoUrl(category, entityName)` above assumes the caller
+already has a canonical name (`"Binance.com"`, `"Uniswap"`). Real
+consumers usually have a **freeform label** from a verdict or
+address annotation: `"Binance Hot Wallet 10"`, `"Uniswap V3
+Deposits"`, `"Ronin Bridge Hack"`. Those don't hit the canonical
+resolver.
+
+`logos/_lookup.json` + `lookup.js` solve this with keyword-overlap
+matching: each entity carries a small list of pre-extracted
+keywords (lowercase alphanumeric tokens, >= 3 chars, not a
+stopword). A freeform label is tokenized the same way; score =
+size of the intersection. Ties broken by `imp` (importance) then
+by `real` (real logo beats placeholder).
+
+### JS / TS — drop-in
+
+```ts
+import { createLookup } from 'https://cdn.jsdelivr.net/gh/maslovsa/kyt-entity-registry@main/lookup.js'
+
+// One fetch per session — the module caches internally.
+const lookup = await createLookup()
+
+const hit = lookup.resolve({ category: 'dex', label: 'Uniswap V3 Deposits' })
+//  -> { url: 'https://.../logos/dex/uniswap.png',
+//       slug: 'uniswap', name: 'Uniswap',
+//       category: 'dex', real: true, importance: 100 }
+
+const miss = lookup.resolve({ category: 'dex', label: 'nonsense xyz 42' })
+//  -> null
+```
+
+`createLookup({ url })` accepts a pinned CDN URL for compliance
+snapshots: `…/gh/maslovsa/kyt-entity-registry@<sha>/logos/_lookup.json`.
+
+### React usage (aml_checker pattern)
+
+```tsx
+import { useEffect, useState } from 'react'
+import { createLookup } from '…/lookup.js'
+// or the TypeScript port at src/lib/entities/lookup.ts
+
+let _lookupPromise: Promise<Awaited<ReturnType<typeof createLookup>>> | null
+function getLookup() { return _lookupPromise ??= createLookup() }
+
+export function EntityLogo({ category, label, size = 20 }: {
+  category: string; label: string; size?: number
+}) {
+  const [url, setUrl] = useState<string | null>(null)
+  useEffect(() => {
+    let cancelled = false
+    getLookup().then(l => {
+      if (cancelled) return
+      const hit = l.resolve({ category, label })
+      setUrl(hit?.real ? hit.url : null)  // only show REAL hits
+    })
+    return () => { cancelled = true }
+  }, [category, label])
+  if (!url) return null
+  return <img src={url} width={size} height={size} alt={label}
+              className="rounded-full bg-white" />
+}
+```
+
+### Python twin (for server-side rendering / PDF exports)
+
+```python
+# pip install httpx (already in kyt-entity-registry/requirements.txt)
+import functools, re
+import httpx
+
+_CDN = "https://cdn.jsdelivr.net/gh/maslovsa/kyt-entity-registry@main"
+
+@functools.lru_cache(maxsize=1)
+def _lookup():
+    return httpx.get(f"{_CDN}/logos/_lookup.json", timeout=10).json()
+
+_TOKEN_RE = re.compile(r"[^a-z0-9]+")
+
+def _tokens(label: str) -> set[str]:
+    return {t for t in _TOKEN_RE.split((label or "").lower())
+            if len(t) >= 3 and not t.isdigit()}
+
+def resolve_entity_logo(category: str | None, label: str,
+                        prefer_real: bool = True) -> str | None:
+    """Return the CDN URL of the best-matching logo, or None."""
+    tokens = _tokens(label)
+    if not tokens: return None
+    idx = _lookup()
+    dirs = idx["category_to_dir"]
+    best, best_score = None, 0
+    for e in idx["entries"]:
+        if category and e["cat"] != category: continue
+        score = sum(1 for k in e["kw"] if k in tokens)
+        if score == 0: continue
+        effective = score + (0.5 if prefer_real and e["real"] else 0)
+        if effective > best_score:
+            best, best_score = e, effective
+    if not best: return None
+    return f"{idx['cdn']}/logos/{dirs[best['cat']]}/{best['slug']}.png"
+```
+
+### Keyword extraction rules (for reference)
+
+Every entry's `kw` field is built from:
+
+1. Each alphanumeric token of `entity_name`, lowercased, len >= 3,
+   non-numeric, not in the stopword set.
+2. Each alphanumeric segment of `arkham_slug` under the same
+   filters (so `"alphapo-rekt"` contributes `["alphapo"]` — `"rekt"`
+   is a stopword).
+3. The first segment of `canonical_domain` (`"binance.com"` →
+   `"binance"`).
+
+Stopwords (exact-match, lowercased): `network`, `protocol`,
+`finance`, `labs`, `foundation`, `dao`, `pool`, `swap`, `exchange`,
+`bridge`, `defi`, `dex`, `mixer`, `wallet`, `hack`, `sanctioned`,
+`gambling`, `mining`, `bot`, `psp`, `rekt`, `com`, `net`, `org`,
+`xyz`, `app`, `fi`, `the`, `and`, `for`, `inc`, `ltd`, `llc`,
+`fund`, `group`, `team`.
+
+These are excluded because they match nearly every row in a
+category (e.g. `network` appears in most DeFi protocols) and
+would dominate the score with false positives.
+
+If you add a consumer in a new language, copy the same list
+verbatim — keeping the rules in sync is mandatory, otherwise your
+resolver will pick a different "best" entry than the TS / Python
+twin.
 
 ## Compliance / PDF snapshots — pinning to SHA
 

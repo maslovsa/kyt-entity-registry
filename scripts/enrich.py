@@ -49,6 +49,7 @@ import enrich_from_arkham      # type: ignore[import-not-found]
 import enrich_from_brandfetch  # type: ignore[import-not-found]
 import enrich_from_defillama   # type: ignore[import-not-found]
 import enrich_from_favicon     # type: ignore[import-not-found]
+import build_lookup            # type: ignore[import-not-found]
 from normalize_png import NormalizeError, normalize  # type: ignore[import-not-found]
 
 REFRESH_DAYS = 30
@@ -300,6 +301,9 @@ def run(
 
     idx = _emit_index(rows, dry_run)
     log(f"index: {idx} entries  ({'dry-run' if dry_run else 'written'})")
+
+    lkp = build_lookup.emit(rows, dry_run=dry_run)
+    log(f"lookup: {lkp} entries  ({'dry-run' if dry_run else 'written'})")
 
     return counters
 
