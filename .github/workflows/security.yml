@@ -1,0 +1,43 @@
+name: Security audit
+
+# Runs `pip-audit` against requirements.txt:
+#   * on every PR that changes requirements.txt (catches regressions)
+#   * weekly on Monday 03:00 UTC (catches newly-published CVEs against
+#     a pinned dep set that doesn't otherwise change)
+#   * manually via workflow_dispatch for ad-hoc checks
+
+on:
+  pull_request:
+    paths:
+      - requirements.txt
+      - .github/workflows/security.yml
+  schedule:
+    - cron: "0 3 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  pip-audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install pip-audit
+        run: pip install --upgrade pip pip-audit
+
+      - name: Audit requirements.txt
+        # --strict: fail on any vulnerability that has a fix available
+        # in a compatible release (relax this to a plain `pip-audit` if
+        # you want the job to report but not fail). The repo's pins are
+        # loose (Pillow>=10,<13; httpx>=0.27,<1) so pip-audit picks the
+        # latest patched release automatically — a fix is almost always
+        # reachable without a code change.
+        run: pip-audit --strict --requirement requirements.txt

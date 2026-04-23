@@ -17,7 +17,10 @@ The normalizer handles the final resize-to-160 + transparent canvas.
 from __future__ import annotations
 
 import io
+import ipaddress
 import re
+import socket
+from functools import lru_cache
 from typing import Iterable
 from urllib.parse import urljoin, urlparse
 
@@ -35,6 +38,60 @@ _TIMEOUT = httpx.Timeout(10.0, connect=5.0)
 _MIN_SIDE = 32         # reject decoded images with max(w,h) < this
 _PREFERRED_SIDE = 64   # prefer candidates at or above this
 _MAX_CANDIDATES = 6    # stop probing after this many
+
+# SSRF guard — only allow globally-routable public IPs. Blocks
+# loopback (127/8, ::1), RFC1918 (10/8, 172.16/12, 192.168/16),
+# link-local (169.254/16 including AWS/GCP metadata endpoints,
+# fe80::/10), CGNAT (100.64/10), multicast, reserved, etc.
+#
+# Defence in depth: the nightly cron runs in GitHub Actions where
+# internal addresses don't resolve to anything useful, but any
+# consumer running this module locally gets the check for free.
+#
+# NOT protected: DNS rebinding (a hostname that resolves to a
+# public IP at check time and a private one at connect time). For
+# the threat model — attacker influences entities.csv via a
+# reviewed PR — we accept this gap.
+def _is_public_host(host: str) -> bool:
+    """True iff `host` resolves exclusively to globally-routable IPs.
+    Empty host, resolution failure, or any non-global answer → False."""
+    if not host:
+        return False
+    try:
+        # getaddrinfo handles both IPv4 and IPv6 + honours /etc/hosts.
+        infos = socket.getaddrinfo(host, None, type=socket.SOCK_STREAM)
+    except (socket.gaierror, UnicodeError):
+        return False
+    if not infos:
+        return False
+    for fam, _type, _proto, _cn, sockaddr in infos:
+        ip_str = sockaddr[0]
+        try:
+            ip = ipaddress.ip_address(ip_str)
+        except ValueError:
+            return False
+        # is_global is True only for publicly-routable addresses.
+        # Excludes loopback, link-local, private, multicast, reserved.
+        if not ip.is_global:
+            return False
+    return True
+
+
+@lru_cache(maxsize=256)
+def _host_allowed(host: str) -> bool:
+    """Cached wrapper so repeated candidate URLs on the same host
+    only hit DNS once per process. Cleared implicitly when the
+    LRU fills, which is fine for a short-lived cron."""
+    return _is_public_host(host)
+
+
+def _url_host_allowed(url: str) -> bool:
+    try:
+        host = urlparse(url).hostname
+    except ValueError:
+        return False
+    return _host_allowed((host or "").lower())
+
 
 # Static fallbacks tried when HTML doesn't expose any <link rel="icon">.
 # Order matches real-world quality: apple-touch wins, then favicon PNG,
@@ -93,7 +150,13 @@ def _parse_link_icons(html: str, base_url: str) -> list[tuple[int, bool, str]]:
 
 
 def _candidates(domain: str, client: httpx.Client) -> Iterable[str]:
-    """Yield candidate icon URLs for this domain, best-quality first."""
+    """Yield candidate icon URLs for this domain, best-quality first.
+    Every yielded URL has already passed the SSRF guard — its host
+    resolves to a globally-routable IP."""
+    # Primary host must be public; skip the whole row otherwise.
+    if not _host_allowed(domain):
+        return
+
     base = f"https://{domain}/"
     seen: set[str] = set()
 
@@ -108,9 +171,15 @@ def _candidates(domain: str, client: httpx.Client) -> Iterable[str]:
     # Sort: apple-touch wins ties; then larger declared size wins.
     html_icons.sort(key=lambda t: (not t[1], -t[0]))
     for _, _, url in html_icons:
-        if url not in seen:
-            seen.add(url)
-            yield url
+        if url in seen:
+            continue
+        # HTML-declared icons can point anywhere — a malicious site
+        # could <link rel="icon" href="http://169.254.169.254/">.
+        # Check each host before we yield.
+        if not _url_host_allowed(url):
+            continue
+        seen.add(url)
+        yield url
 
     for path in _STATIC_PATHS:
         url = f"https://{domain}{path}"
@@ -165,6 +234,11 @@ def fetch(domain: str, client: httpx.Client | None = None) -> bytes | None:
             except httpx.HTTPError:
                 continue
             if r.status_code != 200:
+                continue
+            # Guard against mid-request redirects to a private host.
+            # `r.url` is the final URL after any 3xx hops; the pre-
+            # fetch check only covered the initial URL.
+            if not _url_host_allowed(str(r.url)):
                 continue
             ct = r.headers.get("content-type", "")
             if "svg" in ct:
