@@ -74,7 +74,7 @@ zkLend,hack,100,56,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON
 OFAC SDN,sanctioned,100,928,100,100,ARBITRUM|BSC|BTC|ETH|TRON,ofac-sdn,ofac-sdn,,manual,2026-04-23,true,5d913ef04edfed35dfc6c0d643b8636827fb35778f35b262faa5c31f578f0a33
 UK OFSI,sanctioned,100,54,100,100,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON|TRON,uk-ofsi-sanctions,uk-ofsi,,arkham,2026-04-22,false,39bb2f363bb897b4c79cd14a3039e468a3a915b1ab3c2b1df9ee9171336401b5
 Garantex,sanctioned,100,89,100,100,BSC|ETH|TRON,hack-attributions,garantex,garantex.org,manual,2026-04-23,true,5c78e26435214285e9c689bef9e6968102e95d5af360e6d1c48d1f20394b3311
-Grinex,sanctioned,100,52,100,100,BSC|ETH|TRON,hack-attributions,grinex,grinex.io,placeholder,2026-04-23,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Grinex,sanctioned,100,52,100,100,BSC|ETH|TRON,hack-attributions,grinex,grinex.io,manual,2026-04-23,true,32883eb3da0bcc0e37ef0974616b09e80f027481f3665c5c0e7938532e95ec15
 Bingx.com,exchange,99.9,66,85,5,BSC|ETH|TRON,scorechain-counterparties,bingx-com,bingx.com,arkham,2026-04-22,false,28be759f2b86bae73350effc77bdd6fbdc98649973b1341fc2692fdbb5de111a
 Gate.io,exchange,99.8,65,85,5,BSC|ETH|TRON,scorechain-counterparties,gate-io,gate.io,arkham,2026-04-22,false,d7e86952c6f88d15bb30b32272f4cd53d01f013652be8c77c98c2cb961ae1201
 Mexc.com,exchange,99.7,64,85,5,BSC|ETH|TRON,scorechain-counterparties,mexc-com,mexc.com,arkham,2026-04-22,false,198dc1013085b53adac3e7c73a8fc11302339c694a5c722e6ccdf2515737f81d
@@ -298,7 +298,7 @@ Coinstore.com,exchange,91.0,16,85,5,BSC|ETH|TRON,scorechain-counterparties,coins
 Binance.us,exchange,90.6,15,85,5,BSC|ETH|TRON,scorechain-counterparties,binance-us,binance.us,arkham,2026-04-22,false,1f9b1255adeaa1831412dbc2ed2e787834a182ec166f1392ccb044a66082c8d4
 BitKan.com,exchange,90.6,15,85,5,ETH|TRON,scorechain-counterparties,bitkan-com,bitkan.com,arkham,2026-04-22,false,769d1b6b51d07a2dc8a2d33213e0021646f63f8d0b5a2ae2791addde6bbfce88
 Nazza,exchange,90.6,15,85,5,TRON,scorechain-counterparties,nazza,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
-1win.com,gambling,90.6,15,85,50,TRON,scorechain-counterparties,1win-com,1win.com,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+1win.com,gambling,90.6,15,85,50,TRON,scorechain-counterparties,1win-com,1win.com,manual,2026-04-23,true,001c3d3f741936dbf843ca204175ee008ff75ed940949a90ace362ebe645b4f0
 Bvnk.com - Coindirect.com,psp,90.6,15,85,15,BSC|ETH|TRON,scorechain-counterparties,bvnk-com-coindirect-com,bvnk.com,brandfetch,2026-04-22,false,a694d2ec21550a176bae90e6dbf2e40d08df75677fc185f6049b3dd64d601a91
 Sun.io,dex,90.1,14,85,10,TRON,scorechain-counterparties,sun-io,sun.io,arkham,2026-04-22,false,f598cd6953e3029d4331a6160fb6c0a4b8e4858f555a4c782e640abc4c774b7d
 Bitstamp.net by Robinhood,exchange,90.1,14,85,5,ETH,scorechain-counterparties,bitstamp-net-by-robinhood,bitstamp.net,arkham,2026-04-22,false,a4511a5861e227fa74e2f8033e08694f58aa002241e7b912c61be7f9d612cf50
