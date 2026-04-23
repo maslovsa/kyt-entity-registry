@@ -77,7 +77,22 @@ from _base import (  # type: ignore[import-not-found]
     write_bool,
     write_entities,
 )
-from normalize_png import NormalizeError, normalize  # type: ignore[import-not-found]
+try:
+    from normalize_png import NormalizeError, normalize  # type: ignore[import-not-found]
+except ModuleNotFoundError as e:
+    # Most common cause on macOS: user ran the script from the system
+    # python3 (Homebrew / Apple) which doesn't have Pillow + httpx
+    # installed because PEP 668 refuses global pip installs. Point
+    # them at the venv setup instead of dumping a raw traceback.
+    sys.stderr.write(
+        f"error: missing dependency ({e.name}).\n\n"
+        "Create a venv and install requirements first:\n\n"
+        "    python3 -m venv .venv\n"
+        "    .venv/bin/pip install -r requirements.txt\n\n"
+        "Then re-run with the venv interpreter:\n\n"
+        f"    .venv/bin/python scripts/{Path(__file__).name} <report.csv>\n"
+    )
+    sys.exit(2)
 
 RETRY_REASONS = {"wrong_image", "low_quality", "outdated"}
 CLEAR_REASONS = {"missing"}

@@ -141,14 +141,16 @@ Two actions per card:
 walks the CSV and takes one of four per-row actions.
 
 ```bash
-# One-time setup (Python 3.8+).
-python3 -m pip install -r requirements.txt
+# One-time setup — use a venv. On macOS the system python3
+# (Homebrew / Apple) enforces PEP 668 and refuses global `pip install`.
+python3 -m venv .venv
+.venv/bin/pip install -r requirements.txt
 
 # Dry-run — shows the plan, writes nothing.
-python3 scripts/rework_from_report.py path/to/kyt-registry-rework-YYYY-MM-DD.csv
+.venv/bin/python scripts/rework_from_report.py path/to/kyt-registry-rework-YYYY-MM-DD.csv
 
 # Apply. Writes logos, updates entities.csv.
-python3 scripts/rework_from_report.py path/to/kyt-registry-rework-YYYY-MM-DD.csv --apply
+.venv/bin/python scripts/rework_from_report.py path/to/kyt-registry-rework-YYYY-MM-DD.csv --apply
 
 # Commit the result.
 git add entities.csv logos/
@@ -159,6 +161,11 @@ Run it from the repo root — the script resolves paths relative to
 `scripts/` automatically, and the CSV path can be absolute or
 relative. Works on CPython 3.8 through 3.13. Pillow 10 is pulled
 automatically on 3.8 since Pillow 11 dropped that line.
+
+If you hit `ModuleNotFoundError: No module named 'PIL'` you are
+running a Python that doesn't have the registry's deps installed —
+activate a venv (`source .venv/bin/activate`) or prefix with the
+explicit path to the venv's interpreter as shown above.
 
 Decision table:
 
