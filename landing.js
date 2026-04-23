@@ -28,6 +28,14 @@ const CATEGORY_LABEL_EN = {
   hack: 'Hacks',
   sanctioned: 'Sanctioned',
 };
+
+// Render order for the quilt — determines which block of the
+// patchwork an entity lands in. "Unknown" categories (shouldn't
+// happen on well-formed data) get sorted last.
+const CATEGORY_ORDER = Object.keys(CATEGORY_LABEL_EN);
+const CATEGORY_RANK = Object.fromEntries(
+  CATEGORY_ORDER.map((c, i) => [c, i]),
+);
 const CATEGORY_LABEL_RU = {
   exchange: 'Биржи',
   dex: 'DEX',
@@ -481,6 +489,18 @@ async function boot() {
     const r = await fetch('logos/_lookup.json', { cache: 'default' });
     if (!r.ok) throw new Error(`lookup ${r.status}`);
     state.index = await r.json();
+    // Re-sort the entries for the quilt: block-by-block per
+    // CATEGORY_ORDER, then importance desc, then name. The index is
+    // delivered in pure importance-desc order which would scatter
+    // categories; regrouping here gives a "all Exchanges then all
+    // DEX then all Bridges…" visual block layout instead.
+    state.index.entries.sort((a, b) => {
+      const ra = CATEGORY_RANK[a.cat] ?? 99;
+      const rb = CATEGORY_RANK[b.cat] ?? 99;
+      if (ra !== rb) return ra - rb;
+      if (a.imp !== b.imp) return b.imp - a.imp;
+      return a.name.localeCompare(b.name);
+    });
   } catch (e) {
     const banner = document.getElementById('quilt');
     const msg = document.createElement('div');

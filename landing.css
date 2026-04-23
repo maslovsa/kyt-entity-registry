@@ -343,18 +343,26 @@ section.band {
 .quilt-scroll { position: relative; }
 .quilt {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(64px, 1fr));
-  gap: 4px;
-  padding: 6px;
+  /* Dense patchwork — 44px tiles / 2px gap reads as a true quilt on
+     desktop while still staying tap-friendly on wider mobile. */
+  grid-template-columns: repeat(auto-fill, minmax(44px, 1fr));
+  gap: 2px;
+  padding: 3px;
   border-radius: var(--radius);
   background: var(--muted);
   border: 1px solid var(--border);
   min-height: 200px;
 }
+@media (min-width: 1024px) {
+  .quilt {
+    /* Tighten further on desktops where the grid has room */
+    grid-template-columns: repeat(auto-fill, minmax(40px, 1fr));
+  }
+}
 .tile {
   aspect-ratio: 1 / 1;
   background: var(--card);
-  border-radius: var(--radius-sm);
+  border-radius: 3px;
   display: block;
   overflow: hidden;
   position: relative;
@@ -365,15 +373,16 @@ section.band {
   width: 100%;
   height: 100%;
   object-fit: contain;
-  padding: 6px;
+  padding: 3px;
   display: block;
 }
 .tile:hover {
-  transform: scale(1.18);
+  transform: scale(1.8);
   z-index: 2;
   box-shadow: var(--shadow-lg);
   outline: 2px solid var(--brand);
   outline-offset: 1px;
+  border-radius: var(--radius-sm);
 }
 /* When the filter is engaged, non-matching tiles fade out. */
 .quilt[data-filter-active="true"] .tile:not(.matches) {
