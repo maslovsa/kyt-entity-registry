@@ -33,6 +33,36 @@ const DEFAULT_INDEX_URL =
 let _indexPromise = null;
 
 /**
+ * Mirrors `_STOPWORDS` in `scripts/build_lookup.py` and the
+ * `LABEL_TOKEN_STOPWORDS` set in
+ * `aml_checker/src/lib/entities/lookup.ts`.
+ *
+ * Python strips these from every entry's `kw` field at index time, so
+ * a query token like "network" or "wallet" can never match (no entry
+ * carries them). Filtering on the query side is a perf-+-clarity win:
+ * smaller token set, fewer Set.has() lookups, and the three
+ * implementations stay byte-for-byte aligned per the cross-repo
+ * "must stay in sync" contract.
+ *
+ * Update protocol: when adding a new stopword, add it here AND in
+ * the Python set AND in the TS set in the same change. Otherwise
+ * one consumer's matching scores drift.
+ */
+const LABEL_TOKEN_STOPWORDS = new Set([
+  // Brand noise that's also in entity_name suffix_strip on the Python side.
+  'network', 'protocol', 'finance', 'labs', 'foundation', 'dao',
+  'pool', 'swap', 'exchange',
+  // Category echoes.
+  'bridge', 'defi', 'dex', 'mixer', 'wallet', 'hack',
+  'sanctioned', 'gambling', 'mining', 'bot', 'psp', 'rekt',
+  // TLDs / URL fragments that sneak into domain parsing.
+  'com', 'net', 'org', 'xyz', 'app', 'fi',
+  // Generic English.
+  'the', 'and', 'for', 'inc', 'ltd', 'llc', 'fund', 'group',
+  'team',
+]);
+
+/**
  * Tokenize a freeform label to the same shape `build_lookup.py` uses.
  *
  * Includes CamelCase expansion so compound identifiers like
@@ -50,14 +80,21 @@ export function labelTokens(label) {
     .replace(/([a-z\d])([A-Z])/g, '$1 $2')
     .replace(/([A-Z]+)([A-Z][a-z])/g, '$1 $2');
   for (const t of expanded.toLowerCase().split(/[^a-z0-9]+/)) {
-    if (t.length >= 3 && !/^\d+$/.test(t)) out.add(t);
+    if (t.length < 3) continue;
+    if (/^\d+$/.test(t)) continue;
+    if (LABEL_TOKEN_STOPWORDS.has(t)) continue;
+    out.add(t);
   }
   // Domain-join: "XT.com" → also emit "xtcom" so short 2-letter
   // abbreviations can match. Must stay in sync with build_lookup.py
   // and lookup.ts.
   if (!s.includes(' ') && s.includes('.')) {
     const joined = s.toLowerCase().replace(/\./g, '');
-    if (joined.length >= 4 && /^[a-z0-9]+$/.test(joined)) out.add(joined);
+    if (joined.length >= 4
+        && /^[a-z0-9]+$/.test(joined)
+        && !LABEL_TOKEN_STOPWORDS.has(joined)) {
+      out.add(joined);
+    }
   }
   return out;
 }
