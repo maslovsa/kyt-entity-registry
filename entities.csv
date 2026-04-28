@@ -802,3 +802,4 @@ Freewallet.org,wallet,79.7,2,85,5,ETH,scorechain-counterparties,freewallet-org,f
 Onfa,wallet,79.7,2,85,5,BSC,scorechain-counterparties,onfa,,arkham,2026-04-22,false,23615f840c47a7cb358631d2b43fd1f788b1f8521561e34e7020fac7c80a25d2
 argent.xyz,wallet,79.7,2,85,5,ETH,scorechain-counterparties,argent-xyz,argent.xyz,arkham,2026-04-22,false,1e85ba4947f2a74dac888636ffcd9c3834578f16675adb0b2256fa47ad063dcb
 Crystal,exchange,74.7,2,75,5,TRON,crystal-verdicts,crystal,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Aegis Test Bot aegis-test-bot-moib1gsy,exchange,75,0,70,5,,aegis-platform,aegis-test-bot-moib1gsy,,manual,2026-04-28,true,1ec8d34b22cf7fa62d3e13588565d930aa9a1c2ce8d04182a6f9d59c5289e1ac
