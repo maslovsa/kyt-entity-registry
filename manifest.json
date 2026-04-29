@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-04-29T12:48:45+00:00",
+  "generated_at": "2026-04-29T13:24:59+00:00",
   "entries": [
     {
       "slug": "binance-com",
@@ -124,18 +124,6 @@
       "sanctioned": false
     },
     {
-      "slug": "okx-com",
-      "category": "exchange",
-      "keywords": [
-        "okx",
-        "okex"
-      ],
-      "product_aliases": [
-        "okx wallet"
-      ],
-      "sanctioned": false
-    },
-    {
       "slug": "coinex-com",
       "category": "exchange",
       "keywords": [
@@ -154,12 +142,32 @@
       "sanctioned": false
     },
     {
+      "slug": "triple-a-io",
+      "category": "psp",
+      "keywords": [
+        "triple-a.io",
+        "triple-a"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "changenow",
       "category": "exchange",
       "keywords": [
         "changenow",
         "changenow.io",
         "changenow.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "chainup-com",
+      "category": "exchange",
+      "keywords": [
+        "chainup.com",
+        "chainup"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -197,6 +205,16 @@
       "category": "exchange",
       "keywords": [
         "pionex"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cryptobot",
+      "category": "bot",
+      "keywords": [
+        "cryptobot",
+        "@cryptobot"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -338,6 +356,18 @@
         "roqqu"
       ],
       "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "okx-com",
+      "category": "exchange",
+      "keywords": [
+        "okx",
+        "okex"
+      ],
+      "product_aliases": [
+        "okx wallet"
+      ],
       "sanctioned": false
     }
   ]
