@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-04-29T13:24:59+00:00",
+  "generated_at": "2026-04-29T13:34:06+00:00",
   "entries": [
     {
       "slug": "binance-com",
@@ -163,6 +163,15 @@
       "sanctioned": false
     },
     {
+      "slug": "huionepay-kh",
+      "category": "exchange",
+      "keywords": [
+        "huionepay"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "chainup-com",
       "category": "exchange",
       "keywords": [
@@ -201,6 +210,36 @@
       "sanctioned": false
     },
     {
+      "slug": "rapira-net",
+      "category": "exchange",
+      "keywords": [
+        "rapira.net",
+        "rapira"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kyrrex-com",
+      "category": "exchange",
+      "keywords": [
+        "kyrrex.com",
+        "kyrrex"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "nobitex-ir",
+      "category": "exchange",
+      "keywords": [
+        "nobitex.ir",
+        "nobitex"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "pionex-com",
       "category": "exchange",
       "keywords": [
@@ -215,6 +254,16 @@
       "keywords": [
         "cryptobot",
         "@cryptobot"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "001k-exchange",
+      "category": "exchange",
+      "keywords": [
+        "001k.exchange",
+        "001k"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -263,6 +312,16 @@
       "category": "exchange",
       "keywords": [
         "weex"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kcex-io",
+      "category": "exchange",
+      "keywords": [
+        "kcex.io",
+        "kcex"
       ],
       "product_aliases": [],
       "sanctioned": false
