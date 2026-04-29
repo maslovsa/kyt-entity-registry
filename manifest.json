@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-04-29T15:09:43+00:00",
+  "generated_at": "2026-04-29T15:52:05+00:00",
   "entries": [
     {
       "slug": "binance-com",
@@ -320,6 +320,15 @@
       "sanctioned": false
     },
     {
+      "slug": "bitstamp-net",
+      "category": "exchange",
+      "keywords": [
+        "bitstamp"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "rapira-net",
       "category": "exchange",
       "keywords": [
@@ -470,6 +479,15 @@
       "sanctioned": false
     },
     {
+      "slug": "coinone-kr",
+      "category": "exchange",
+      "keywords": [
+        "coinone"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "noones-com",
       "category": "exchange",
       "keywords": [
@@ -483,6 +501,15 @@
       "category": "exchange",
       "keywords": [
         "remitano"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "metamask",
+      "category": "wallet",
+      "keywords": [
+        "metamask"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -578,6 +605,15 @@
       "category": "wallet",
       "keywords": [
         "tronlink"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cropty-io",
+      "category": "wallet",
+      "keywords": [
+        "cropty"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -679,6 +715,24 @@
       "category": "wallet",
       "keywords": [
         "tokenpocket"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pintu-id",
+      "category": "exchange",
+      "keywords": [
+        "pintu"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "wirex-com",
+      "category": "exchange",
+      "keywords": [
+        "wirex"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -831,6 +885,60 @@
       "sanctioned": false
     },
     {
+      "slug": "ceffu-com",
+      "category": "wallet",
+      "keywords": [
+        "ceffu"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "copper-co",
+      "category": "wallet",
+      "keywords": [
+        "copper"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mercado-bitcoin",
+      "category": "exchange",
+      "keywords": [
+        "mercadobitcoin"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ourbit-com",
+      "category": "exchange",
+      "keywords": [
+        "ourbit"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "fortunejack-com",
+      "category": "gambling",
+      "keywords": [
+        "fortunejack"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "independent-reserve",
+      "category": "exchange",
+      "keywords": [
+        "independent reserve"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "changehero-io",
       "category": "exchange",
       "keywords": [
@@ -846,6 +954,15 @@
         "crypto.com",
         "cryptocom",
         "crypto com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "deepcoin-com",
+      "category": "exchange",
+      "keywords": [
+        "deepcoin"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -888,6 +1005,87 @@
       "sanctioned": false
     },
     {
+      "slug": "cointree-com",
+      "category": "exchange",
+      "keywords": [
+        "cointree"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "transak-com",
+      "category": "psp",
+      "keywords": [
+        "transak"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "zaif-jp",
+      "category": "exchange",
+      "keywords": [
+        "zaif"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "onus-vn",
+      "category": "exchange",
+      "keywords": [
+        "onus"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coinw-com",
+      "category": "exchange",
+      "keywords": [
+        "coinw"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hyperpay-tech",
+      "category": "exchange",
+      "keywords": [
+        "hyperpay"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitrue-com",
+      "category": "exchange",
+      "keywords": [
+        "bitrue"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitspark-io",
+      "category": "exchange",
+      "keywords": [
+        "bitspark"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "liquid-com",
+      "category": "exchange",
+      "keywords": [
+        "liquid"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "okaypaybot",
       "category": "bot",
       "keywords": [
@@ -914,6 +1112,15 @@
       "category": "exchange",
       "keywords": [
         "phemex"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "reku-id",
+      "category": "exchange",
+      "keywords": [
+        "reku"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -948,10 +1155,73 @@
       "sanctioned": false
     },
     {
+      "slug": "bitkan-com",
+      "category": "exchange",
+      "keywords": [
+        "bitkan"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "1win-com",
       "category": "gambling",
       "keywords": [
         "1win"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cointr-pro",
+      "category": "exchange",
+      "keywords": [
+        "cointr"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hotcoin-com",
+      "category": "exchange",
+      "keywords": [
+        "hotcoin"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kuna-io",
+      "category": "exchange",
+      "keywords": [
+        "kuna"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "duelbits-com",
+      "category": "gambling",
+      "keywords": [
+        "duelbits"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "zixipay",
+      "category": "wallet",
+      "keywords": [
+        "zixipay"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "exmo-me",
+      "category": "exchange",
+      "keywords": [
+        "exmo"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -966,11 +1236,38 @@
       "sanctioned": false
     },
     {
+      "slug": "betfury-io",
+      "category": "gambling",
+      "keywords": [
+        "betfury"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitpanda-com",
+      "category": "exchange",
+      "keywords": [
+        "bitpanda"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "n-exchange",
       "category": "exchange",
       "keywords": [
         "n.exchange",
         "nexchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "paxful-com",
+      "category": "exchange",
+      "keywords": [
+        "paxful"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -994,11 +1291,47 @@
       "sanctioned": false
     },
     {
+      "slug": "specie-wallet",
+      "category": "wallet",
+      "keywords": [
+        "specie wallet"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cashinout-bot",
+      "category": "bot",
+      "keywords": [
+        "cashinout"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "bridgers-xyz",
       "category": "bridge",
       "keywords": [
         "bridgers.xyz",
         "bridgers"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitvavo-com",
+      "category": "exchange",
+      "keywords": [
+        "bitvavo"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coindcx-com",
+      "category": "exchange",
+      "keywords": [
+        "coindcx"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -1013,11 +1346,38 @@
       "sanctioned": false
     },
     {
+      "slug": "moonpay-com",
+      "category": "exchange",
+      "keywords": [
+        "moonpay"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "uphold-com",
+      "category": "exchange",
+      "keywords": [
+        "uphold"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "bitcoinvn-io",
       "category": "exchange",
       "keywords": [
         "bitcoinvn.io",
         "bitcoinvn"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "changelly-com",
+      "category": "exchange",
+      "keywords": [
+        "changelly"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -1041,10 +1401,55 @@
       "sanctioned": false
     },
     {
+      "slug": "gamdom-com",
+      "category": "gambling",
+      "keywords": [
+        "gamdom"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "osl-com",
+      "category": "exchange",
+      "keywords": [
+        "osl"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "valr-com",
       "category": "exchange",
       "keywords": [
         "valr"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitmex-com",
+      "category": "exchange",
+      "keywords": [
+        "bitmex"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "blockchain-com",
+      "category": "exchange",
+      "keywords": [
+        "blockchain.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "swissborg-com",
+      "category": "exchange",
+      "keywords": [
+        "swissborg"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -1059,11 +1464,38 @@
       "sanctioned": false
     },
     {
+      "slug": "deribit-com",
+      "category": "exchange",
+      "keywords": [
+        "deribit"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "24crypto-bot",
+      "category": "bot",
+      "keywords": [
+        "24crypto"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "roqqu-com",
       "category": "exchange",
       "keywords": [
         "roqqu.com",
         "roqqu"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cloudbet-com",
+      "category": "gambling",
+      "keywords": [
+        "cloudbet"
       ],
       "product_aliases": [],
       "sanctioned": false
