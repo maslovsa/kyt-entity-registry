@@ -1,0 +1,344 @@
+{
+  "version": 1,
+  "generated_at": "2026-04-29T12:48:45+00:00",
+  "entries": [
+    {
+      "slug": "binance-com",
+      "category": "exchange",
+      "keywords": [
+        "binance"
+      ],
+      "product_aliases": [
+        "binance smart chain",
+        "binance chain",
+        "bnb chain",
+        "trust wallet"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitget-com",
+      "category": "exchange",
+      "keywords": [
+        "bitget"
+      ],
+      "product_aliases": [
+        "bitget wallet"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "bybit-com",
+      "category": "exchange",
+      "keywords": [
+        "bybit"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cryptomus-com",
+      "category": "exchange",
+      "keywords": [
+        "cryptomus"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "htx-com-huobi-com",
+      "category": "exchange",
+      "keywords": [
+        "htx",
+        "huobi"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kucoin-com",
+      "category": "exchange",
+      "keywords": [
+        "kucoin"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "garantex",
+      "category": "sanctioned",
+      "keywords": [
+        "garantex"
+      ],
+      "product_aliases": [],
+      "sanctioned": true
+    },
+    {
+      "slug": "grinex",
+      "category": "sanctioned",
+      "keywords": [
+        "grinex"
+      ],
+      "product_aliases": [],
+      "sanctioned": true
+    },
+    {
+      "slug": "bingx-com",
+      "category": "exchange",
+      "keywords": [
+        "bingx"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gate-io",
+      "category": "exchange",
+      "keywords": [
+        "gate.io",
+        "gateio",
+        "gate io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mexc-com",
+      "category": "exchange",
+      "keywords": [
+        "mexc"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "okx-com",
+      "category": "exchange",
+      "keywords": [
+        "okx",
+        "okex"
+      ],
+      "product_aliases": [
+        "okx wallet"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "okx-com",
+      "category": "exchange",
+      "keywords": [
+        "okx",
+        "okex"
+      ],
+      "product_aliases": [
+        "okx wallet"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "coinex-com",
+      "category": "exchange",
+      "keywords": [
+        "coinex"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kraken-com",
+      "category": "exchange",
+      "keywords": [
+        "kraken"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "changenow",
+      "category": "exchange",
+      "keywords": [
+        "changenow",
+        "changenow.io",
+        "changenow.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "swapster-fi",
+      "category": "exchange",
+      "keywords": [
+        "swapster.fi",
+        "swapster"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coinpayments-net",
+      "category": "psp",
+      "keywords": [
+        "coinpayments"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "revolut-com",
+      "category": "exchange",
+      "keywords": [
+        "revolut"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pionex-com",
+      "category": "exchange",
+      "keywords": [
+        "pionex"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "whitebit-com",
+      "category": "exchange",
+      "keywords": [
+        "whitebit"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coinspot",
+      "category": "exchange",
+      "keywords": [
+        "coinspot"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "wallet-tg",
+      "category": "wallet",
+      "keywords": [
+        "wallet.tg",
+        "@wallet",
+        "walletbot",
+        "wallet bot"
+      ],
+      "product_aliases": [
+        "trust wallet",
+        "coinbase wallet",
+        "bitget wallet",
+        "okx wallet",
+        "binance wallet",
+        "metamask wallet",
+        "tonkeeper wallet",
+        "safepal wallet"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "weex-com",
+      "category": "exchange",
+      "keywords": [
+        "weex"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitfinex-com",
+      "category": "exchange",
+      "keywords": [
+        "bitfinex"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "blofin-com",
+      "category": "exchange",
+      "keywords": [
+        "blofin"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "crypto-com",
+      "category": "exchange",
+      "keywords": [
+        "crypto.com",
+        "cryptocom",
+        "crypto com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hitbtc-com",
+      "category": "exchange",
+      "keywords": [
+        "hitbtc.com",
+        "hitbtc"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coinbase-com",
+      "category": "exchange",
+      "keywords": [
+        "coinbase"
+      ],
+      "product_aliases": [
+        "coinbase wallet",
+        "coinbase custody"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "n-exchange",
+      "category": "exchange",
+      "keywords": [
+        "n.exchange",
+        "nexchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bridgers-xyz",
+      "category": "bridge",
+      "keywords": [
+        "bridgers.xyz",
+        "bridgers"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitcoinvn-io",
+      "category": "exchange",
+      "keywords": [
+        "bitcoinvn.io",
+        "bitcoinvn"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "roqqu-com",
+      "category": "exchange",
+      "keywords": [
+        "roqqu.com",
+        "roqqu"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    }
+  ]
+}
