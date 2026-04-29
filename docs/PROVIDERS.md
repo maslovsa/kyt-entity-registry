@@ -122,8 +122,17 @@ Full map:
 | other / unknown  | logos/_fallback/unknown.png | consumer fallback |
 
 Enrichment scripts + consumer resolvers must share this map. It lives
-in code as a constant; any change requires updating both sides in
-sync.
+in code as a constant (`scripts/generate_manifest.py` →
+`CATEGORY_DIR_MAP`); any change here MUST update that constant in
+the same PR — and vice versa.
+
+**Manifest v2 (2026-04-30) makes this asymmetry transparent to
+consumers.** Each entry now carries `logo_path` (e.g.
+`"logos/exchanges/binance-com.png"`), so badge resolvers don't have
+to know the map at all — they just concatenate `<CDN>/<logo_path>`.
+The map lives only in the manifest generator.  v1 consumers (no
+`logo_path` field) still need this table to build their URLs; that's
+the deprecation path off the asymmetry.
 
 ## PR review checklist for provider exports
 

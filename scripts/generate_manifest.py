@@ -11,15 +11,16 @@ INPUTS
 
 OUTPUT
   manifest.json — filtered subset: only logo-ready entries that have
-  at least one keyword defined.  Shape:
+  at least one keyword defined.  Shape (version 2):
 
     {
-      "version": 1,
+      "version": 2,
       "generated_at": "<ISO-8601>",
       "entries": [
         {
           "slug": "binance-com",
           "category": "exchange",
+          "logo_path": "logos/exchanges/binance-com.png",
           "keywords": ["binance"],
           "product_aliases": ["binance smart chain", "trust wallet"],
           "sanctioned": false
@@ -27,6 +28,12 @@ OUTPUT
         ...
       ]
     }
+
+  v2 added `logo_path` so consumers don't have to re-implement the
+  `category_slug → directory` asymmetry (only `exchange` is pluralised
+  to `exchanges/` on disk; see docs/PROVIDERS.md).  Old v1 fields
+  (`slug`, `category`, `keywords`, `product_aliases`, `sanctioned`)
+  are unchanged — v1-aware consumers keep working.
 
 TYPICAL USAGE
   # Generate from local CSV (after pulling from CDN or editing locally):
@@ -76,6 +83,39 @@ LOGO_READY = {"manual", "arkham", "brandfetch"}
 
 # Categories treated as sanctioned for the manifest `sanctioned` flag.
 SANCTIONED_CATEGORIES = {"sanctioned"}
+
+# Map category_slug → on-disk directory name under logos/.  Mirrors
+# docs/PROVIDERS.md "Category → directory mapping" table.  Only
+# `exchange` is pluralised (historical reasons); the rest match the
+# slug 1:1.  Any change here MUST update docs/PROVIDERS.md in the
+# same PR — consumers rely on the `logo_path` field below to avoid
+# ever needing this map directly, but enrichment scripts still do.
+CATEGORY_DIR_MAP = {
+    "exchange": "exchanges",
+    "dex": "dex",
+    "defi": "defi",
+    "bridge": "bridge",
+    "wallet": "wallet",
+    "mining": "mining",
+    "psp": "psp",
+    "bot": "bot",
+    "gambling": "gambling",
+    "nft_marketplace": "nft_marketplace",
+    "mixer": "mixer",
+    "hack": "hack",
+    "sanctioned": "sanctioned",
+}
+
+
+def _logo_path(category: str, slug: str) -> str:
+    """Build the on-disk relative path for a logo PNG.
+
+    Falls back to the bare category name if it's not in the map — keeps
+    new categories working before the map is updated (URL will 404 if the
+    dir doesn't exist, which is the correct loud-failure mode).
+    """
+    directory = CATEGORY_DIR_MAP.get(category, category)
+    return f"logos/{directory}/{slug}.png"
 
 
 def _parse_list(raw: str) -> List[str]:
@@ -127,6 +167,7 @@ def build_manifest(rows: List[dict]) -> dict:
         entries.append({
             "slug": slug,
             "category": category,
+            "logo_path": _logo_path(category, slug),
             "keywords": keywords,
             "product_aliases": product_aliases,
             "sanctioned": sanctioned,
@@ -138,7 +179,7 @@ def build_manifest(rows: List[dict]) -> dict:
         file=sys.stderr,
     )
     return {
-        "version": 1,
+        "version": 2,
         "generated_at": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
         "entries": entries,
     }

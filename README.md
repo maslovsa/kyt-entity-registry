@@ -40,9 +40,14 @@ https://cdn.jsdelivr.net/gh/maslovsa/kyt-entity-registry@main/logos/defi/aave.pn
 
 `<dir>` ≠ `category_slug` verbatim — one plural rule: `exchange → exchanges`.
 Everything else (dex, defi, bridge, wallet, hack, mixer, psp, bot,
-gambling, nft_marketplace, sanctioned, mining) maps 1:1. Use the TS
-helper from [docs/CONSUMERS.md](docs/CONSUMERS.md) instead of hand-
-rolling the mapping — the list evolves.
+gambling, nft_marketplace, sanctioned, mining) maps 1:1.
+
+**Easiest for consumers (recommended): read `entry.logo_path` from
+manifest.json (v2, 2026-04-30).** Each manifest entry now ships the
+full relative path (e.g. `"logo_path": "logos/exchanges/binance-com.png"`)
+so you never need to know the asymmetry.  Just concatenate it onto
+the CDN base URL and you're done.  Old v1 fields (`slug`, `category`,
+…) remain — v1-aware consumers keep working unchanged.
 
 ### Consumer helpers (pick one)
 

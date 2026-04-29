@@ -1,10 +1,11 @@
 {
-  "version": 1,
-  "generated_at": "2026-04-29T15:52:05+00:00",
+  "version": 2,
+  "generated_at": "2026-04-29T21:53:58+00:00",
   "entries": [
     {
       "slug": "binance-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/binance-com.png",
       "keywords": [
         "binance"
       ],
@@ -19,6 +20,7 @@
     {
       "slug": "bitget-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/bitget-com.png",
       "keywords": [
         "bitget"
       ],
@@ -30,6 +32,7 @@
     {
       "slug": "bybit-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/bybit-com.png",
       "keywords": [
         "bybit"
       ],
@@ -39,6 +42,7 @@
     {
       "slug": "cryptomus-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/cryptomus-com.png",
       "keywords": [
         "cryptomus"
       ],
@@ -48,6 +52,7 @@
     {
       "slug": "htx-com-huobi-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/htx-com-huobi-com.png",
       "keywords": [
         "htx",
         "huobi"
@@ -58,6 +63,7 @@
     {
       "slug": "kucoin-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/kucoin-com.png",
       "keywords": [
         "kucoin"
       ],
@@ -67,6 +73,7 @@
     {
       "slug": "garantex",
       "category": "sanctioned",
+      "logo_path": "logos/sanctioned/garantex.png",
       "keywords": [
         "garantex"
       ],
@@ -76,6 +83,7 @@
     {
       "slug": "grinex",
       "category": "sanctioned",
+      "logo_path": "logos/sanctioned/grinex.png",
       "keywords": [
         "grinex"
       ],
@@ -85,6 +93,7 @@
     {
       "slug": "bingx-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/bingx-com.png",
       "keywords": [
         "bingx"
       ],
@@ -94,6 +103,7 @@
     {
       "slug": "gate-io",
       "category": "exchange",
+      "logo_path": "logos/exchanges/gate-io.png",
       "keywords": [
         "gate.io",
         "gateio",
@@ -105,6 +115,7 @@
     {
       "slug": "mexc-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/mexc-com.png",
       "keywords": [
         "mexc"
       ],
@@ -114,6 +125,7 @@
     {
       "slug": "stake-com",
       "category": "gambling",
+      "logo_path": "logos/gambling/stake-com.png",
       "keywords": [
         "stake"
       ],
@@ -123,6 +135,7 @@
     {
       "slug": "okx-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/okx-com.png",
       "keywords": [
         "okx",
         "okex"
@@ -135,6 +148,7 @@
     {
       "slug": "coinex-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/coinex-com.png",
       "keywords": [
         "coinex"
       ],
@@ -144,6 +158,7 @@
     {
       "slug": "nexo-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/nexo-com.png",
       "keywords": [
         "nexo"
       ],
@@ -153,6 +168,7 @@
     {
       "slug": "xt-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/xt-com.png",
       "keywords": [
         "xt",
         "xt.com"
@@ -163,6 +179,7 @@
     {
       "slug": "btse-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/btse-com.png",
       "keywords": [
         "btse"
       ],
@@ -172,6 +189,7 @@
     {
       "slug": "indodax-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/indodax-com.png",
       "keywords": [
         "indodax"
       ],
@@ -181,6 +199,7 @@
     {
       "slug": "kraken-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/kraken-com.png",
       "keywords": [
         "kraken"
       ],
@@ -190,6 +209,7 @@
     {
       "slug": "lbank-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/lbank-com.png",
       "keywords": [
         "lbank"
       ],
@@ -199,6 +219,7 @@
     {
       "slug": "triple-a-io",
       "category": "psp",
+      "logo_path": "logos/psp/triple-a-io.png",
       "keywords": [
         "triple-a.io",
         "triple-a"
@@ -209,6 +230,7 @@
     {
       "slug": "changenow",
       "category": "exchange",
+      "logo_path": "logos/exchanges/changenow.png",
       "keywords": [
         "changenow",
         "changenow.io",
@@ -220,6 +242,7 @@
     {
       "slug": "redotpay-com",
       "category": "psp",
+      "logo_path": "logos/psp/redotpay-com.png",
       "keywords": [
         "redotpay"
       ],
@@ -229,6 +252,7 @@
     {
       "slug": "huionepay-kh",
       "category": "exchange",
+      "logo_path": "logos/exchanges/huionepay-kh.png",
       "keywords": [
         "huionepay"
       ],
@@ -238,6 +262,7 @@
     {
       "slug": "bitkub-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/bitkub-com.png",
       "keywords": [
         "bitkub"
       ],
@@ -247,6 +272,7 @@
     {
       "slug": "bc-game",
       "category": "gambling",
+      "logo_path": "logos/gambling/bc-game.png",
       "keywords": [
         "bc.game",
         "bc game"
@@ -257,6 +283,7 @@
     {
       "slug": "maskex-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/maskex-com.png",
       "keywords": [
         "maskex"
       ],
@@ -266,6 +293,7 @@
     {
       "slug": "chainup-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/chainup-com.png",
       "keywords": [
         "chainup.com",
         "chainup"
@@ -276,6 +304,7 @@
     {
       "slug": "swapster-fi",
       "category": "exchange",
+      "logo_path": "logos/exchanges/swapster-fi.png",
       "keywords": [
         "swapster.fi",
         "swapster"
@@ -286,6 +315,7 @@
     {
       "slug": "coinpayments-net",
       "category": "psp",
+      "logo_path": "logos/psp/coinpayments-net.png",
       "keywords": [
         "coinpayments"
       ],
@@ -295,6 +325,7 @@
     {
       "slug": "bitstarz-com",
       "category": "gambling",
+      "logo_path": "logos/gambling/bitstarz-com.png",
       "keywords": [
         "bitstarz"
       ],
@@ -304,6 +335,7 @@
     {
       "slug": "revolut-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/revolut-com.png",
       "keywords": [
         "revolut"
       ],
@@ -313,6 +345,7 @@
     {
       "slug": "trust-wallet",
       "category": "wallet",
+      "logo_path": "logos/wallet/trust-wallet.png",
       "keywords": [
         "trust wallet"
       ],
@@ -322,6 +355,7 @@
     {
       "slug": "bitstamp-net",
       "category": "exchange",
+      "logo_path": "logos/exchanges/bitstamp-net.png",
       "keywords": [
         "bitstamp"
       ],
@@ -331,6 +365,7 @@
     {
       "slug": "rapira-net",
       "category": "exchange",
+      "logo_path": "logos/exchanges/rapira-net.png",
       "keywords": [
         "rapira.net",
         "rapira"
@@ -341,6 +376,7 @@
     {
       "slug": "cobo-com",
       "category": "wallet",
+      "logo_path": "logos/wallet/cobo-com.png",
       "keywords": [
         "cobo"
       ],
@@ -350,6 +386,7 @@
     {
       "slug": "alphapo-net",
       "category": "psp",
+      "logo_path": "logos/psp/alphapo-net.png",
       "keywords": [
         "alphapo"
       ],
@@ -359,6 +396,7 @@
     {
       "slug": "well-wallet",
       "category": "wallet",
+      "logo_path": "logos/wallet/well-wallet.png",
       "keywords": [
         "well wallet"
       ],
@@ -368,6 +406,7 @@
     {
       "slug": "coinspaid-com",
       "category": "psp",
+      "logo_path": "logos/psp/coinspaid-com.png",
       "keywords": [
         "coinspaid",
         "cryptoprocessing"
@@ -378,6 +417,7 @@
     {
       "slug": "bitmart-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/bitmart-com.png",
       "keywords": [
         "bitmart"
       ],
@@ -387,6 +427,7 @@
     {
       "slug": "mixin-one",
       "category": "wallet",
+      "logo_path": "logos/wallet/mixin-one.png",
       "keywords": [
         "mixin"
       ],
@@ -396,6 +437,7 @@
     {
       "slug": "kyrrex-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/kyrrex-com.png",
       "keywords": [
         "kyrrex.com",
         "kyrrex"
@@ -406,6 +448,7 @@
     {
       "slug": "nobitex-ir",
       "category": "exchange",
+      "logo_path": "logos/exchanges/nobitex-ir.png",
       "keywords": [
         "nobitex.ir",
         "nobitex"
@@ -416,6 +459,7 @@
     {
       "slug": "lemon-me",
       "category": "exchange",
+      "logo_path": "logos/exchanges/lemon-me.png",
       "keywords": [
         "lemon.me",
         "lemon"
@@ -426,6 +470,7 @@
     {
       "slug": "pionex-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/pionex-com.png",
       "keywords": [
         "pionex"
       ],
@@ -435,6 +480,7 @@
     {
       "slug": "cryptobot",
       "category": "bot",
+      "logo_path": "logos/bot/cryptobot.png",
       "keywords": [
         "cryptobot",
         "@cryptobot"
@@ -445,6 +491,7 @@
     {
       "slug": "keysecure",
       "category": "wallet",
+      "logo_path": "logos/wallet/keysecure.png",
       "keywords": [
         "keysecure"
       ],
@@ -454,6 +501,7 @@
     {
       "slug": "bitopro-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/bitopro-com.png",
       "keywords": [
         "bitopro"
       ],
@@ -463,6 +511,7 @@
     {
       "slug": "shuffle-com",
       "category": "gambling",
+      "logo_path": "logos/gambling/shuffle-com.png",
       "keywords": [
         "shuffle"
       ],
@@ -472,6 +521,7 @@
     {
       "slug": "changenow-io",
       "category": "exchange",
+      "logo_path": "logos/exchanges/changenow-io.png",
       "keywords": [
         "changenow"
       ],
@@ -481,6 +531,7 @@
     {
       "slug": "coinone-kr",
       "category": "exchange",
+      "logo_path": "logos/exchanges/coinone-kr.png",
       "keywords": [
         "coinone"
       ],
@@ -490,6 +541,7 @@
     {
       "slug": "noones-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/noones-com.png",
       "keywords": [
         "noones"
       ],
@@ -499,6 +551,7 @@
     {
       "slug": "remitano-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/remitano-com.png",
       "keywords": [
         "remitano"
       ],
@@ -508,6 +561,7 @@
     {
       "slug": "metamask",
       "category": "wallet",
+      "logo_path": "logos/wallet/metamask.png",
       "keywords": [
         "metamask"
       ],
@@ -517,6 +571,7 @@
     {
       "slug": "001k-exchange",
       "category": "exchange",
+      "logo_path": "logos/exchanges/001k-exchange.png",
       "keywords": [
         "001k.exchange",
         "001k"
@@ -527,6 +582,7 @@
     {
       "slug": "poloniex-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/poloniex-com.png",
       "keywords": [
         "poloniex"
       ],
@@ -536,6 +592,7 @@
     {
       "slug": "whitebit-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/whitebit-com.png",
       "keywords": [
         "whitebit"
       ],
@@ -545,6 +602,7 @@
     {
       "slug": "coins-ph",
       "category": "exchange",
+      "logo_path": "logos/exchanges/coins-ph.png",
       "keywords": [
         "coins.ph",
         "coins philippines"
@@ -555,6 +613,7 @@
     {
       "slug": "coinspot",
       "category": "exchange",
+      "logo_path": "logos/exchanges/coinspot.png",
       "keywords": [
         "coinspot"
       ],
@@ -564,6 +623,7 @@
     {
       "slug": "wallet-tg",
       "category": "wallet",
+      "logo_path": "logos/wallet/wallet-tg.png",
       "keywords": [
         "wallet.tg",
         "@wallet",
@@ -585,6 +645,7 @@
     {
       "slug": "ccpayment-com",
       "category": "psp",
+      "logo_path": "logos/psp/ccpayment-com.png",
       "keywords": [
         "ccpayment"
       ],
@@ -594,6 +655,7 @@
     {
       "slug": "stealthex-io",
       "category": "exchange",
+      "logo_path": "logos/exchanges/stealthex-io.png",
       "keywords": [
         "stealthex"
       ],
@@ -603,6 +665,7 @@
     {
       "slug": "tronlink",
       "category": "wallet",
+      "logo_path": "logos/wallet/tronlink.png",
       "keywords": [
         "tronlink"
       ],
@@ -612,6 +675,7 @@
     {
       "slug": "cropty-io",
       "category": "wallet",
+      "logo_path": "logos/wallet/cropty-io.png",
       "keywords": [
         "cropty"
       ],
@@ -621,6 +685,7 @@
     {
       "slug": "bithumb-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/bithumb-com.png",
       "keywords": [
         "bithumb"
       ],
@@ -630,6 +695,7 @@
     {
       "slug": "maicoin-max",
       "category": "exchange",
+      "logo_path": "logos/exchanges/maicoin-max.png",
       "keywords": [
         "maicoin",
         "max exchange"
@@ -640,6 +706,7 @@
     {
       "slug": "btcturk-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/btcturk-com.png",
       "keywords": [
         "btcturk"
       ],
@@ -649,6 +716,7 @@
     {
       "slug": "weex-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/weex-com.png",
       "keywords": [
         "weex"
       ],
@@ -658,6 +726,7 @@
     {
       "slug": "96ach-com",
       "category": "gambling",
+      "logo_path": "logos/gambling/96ach-com.png",
       "keywords": [
         "96ach"
       ],
@@ -667,6 +736,7 @@
     {
       "slug": "simpleswap-io",
       "category": "exchange",
+      "logo_path": "logos/exchanges/simpleswap-io.png",
       "keywords": [
         "simpleswap"
       ],
@@ -676,6 +746,7 @@
     {
       "slug": "paribu-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/paribu-com.png",
       "keywords": [
         "paribu"
       ],
@@ -685,6 +756,7 @@
     {
       "slug": "kcex-io",
       "category": "exchange",
+      "logo_path": "logos/exchanges/kcex-io.png",
       "keywords": [
         "kcex.io",
         "kcex"
@@ -695,6 +767,7 @@
     {
       "slug": "matrixport-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/matrixport-com.png",
       "keywords": [
         "matrixport"
       ],
@@ -704,6 +777,7 @@
     {
       "slug": "fixedfloat-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/fixedfloat-com.png",
       "keywords": [
         "fixedfloat"
       ],
@@ -713,6 +787,7 @@
     {
       "slug": "tokenpocket",
       "category": "wallet",
+      "logo_path": "logos/wallet/tokenpocket.png",
       "keywords": [
         "tokenpocket"
       ],
@@ -722,6 +797,7 @@
     {
       "slug": "pintu-id",
       "category": "exchange",
+      "logo_path": "logos/exchanges/pintu-id.png",
       "keywords": [
         "pintu"
       ],
@@ -731,6 +807,7 @@
     {
       "slug": "wirex-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/wirex-com.png",
       "keywords": [
         "wirex"
       ],
@@ -740,6 +817,7 @@
     {
       "slug": "korbit-kr",
       "category": "exchange",
+      "logo_path": "logos/exchanges/korbit-kr.png",
       "keywords": [
         "korbit"
       ],
@@ -749,6 +827,7 @@
     {
       "slug": "nowpayments-io",
       "category": "psp",
+      "logo_path": "logos/psp/nowpayments-io.png",
       "keywords": [
         "nowpayments",
         "now payments"
@@ -759,6 +838,7 @@
     {
       "slug": "swyftx-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/swyftx-com.png",
       "keywords": [
         "swyftx"
       ],
@@ -768,6 +848,7 @@
     {
       "slug": "westwallet-io",
       "category": "psp",
+      "logo_path": "logos/psp/westwallet-io.png",
       "keywords": [
         "westwallet"
       ],
@@ -777,6 +858,7 @@
     {
       "slug": "bitso-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/bitso-com.png",
       "keywords": [
         "bitso"
       ],
@@ -786,6 +868,7 @@
     {
       "slug": "upbit-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/upbit-com.png",
       "keywords": [
         "upbit"
       ],
@@ -795,6 +878,7 @@
     {
       "slug": "bitfinex-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/bitfinex-com.png",
       "keywords": [
         "bitfinex"
       ],
@@ -804,6 +888,7 @@
     {
       "slug": "blofin-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/blofin-com.png",
       "keywords": [
         "blofin"
       ],
@@ -813,6 +898,7 @@
     {
       "slug": "exness-uk",
       "category": "exchange",
+      "logo_path": "logos/exchanges/exness-uk.png",
       "keywords": [
         "exness"
       ],
@@ -822,6 +908,7 @@
     {
       "slug": "switchain-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/switchain-com.png",
       "keywords": [
         "switchain"
       ],
@@ -831,6 +918,7 @@
     {
       "slug": "1xbet-com",
       "category": "gambling",
+      "logo_path": "logos/gambling/1xbet-com.png",
       "keywords": [
         "1xbet",
         "1xbet.com"
@@ -841,6 +929,7 @@
     {
       "slug": "cwallet-com",
       "category": "wallet",
+      "logo_path": "logos/wallet/cwallet-com.png",
       "keywords": [
         "cwallet"
       ],
@@ -850,6 +939,7 @@
     {
       "slug": "math-wallet",
       "category": "wallet",
+      "logo_path": "logos/wallet/math-wallet.png",
       "keywords": [
         "math wallet",
         "mathwallet"
@@ -860,6 +950,7 @@
     {
       "slug": "plisio-net",
       "category": "psp",
+      "logo_path": "logos/psp/plisio-net.png",
       "keywords": [
         "plisio"
       ],
@@ -869,6 +960,7 @@
     {
       "slug": "tokocrypto-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/tokocrypto-com.png",
       "keywords": [
         "tokocrypto"
       ],
@@ -878,6 +970,7 @@
     {
       "slug": "yellow-card",
       "category": "exchange",
+      "logo_path": "logos/exchanges/yellow-card.png",
       "keywords": [
         "yellow card"
       ],
@@ -887,6 +980,7 @@
     {
       "slug": "ceffu-com",
       "category": "wallet",
+      "logo_path": "logos/wallet/ceffu-com.png",
       "keywords": [
         "ceffu"
       ],
@@ -896,6 +990,7 @@
     {
       "slug": "copper-co",
       "category": "wallet",
+      "logo_path": "logos/wallet/copper-co.png",
       "keywords": [
         "copper"
       ],
@@ -905,6 +1000,7 @@
     {
       "slug": "mercado-bitcoin",
       "category": "exchange",
+      "logo_path": "logos/exchanges/mercado-bitcoin.png",
       "keywords": [
         "mercadobitcoin"
       ],
@@ -914,6 +1010,7 @@
     {
       "slug": "ourbit-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/ourbit-com.png",
       "keywords": [
         "ourbit"
       ],
@@ -923,6 +1020,7 @@
     {
       "slug": "fortunejack-com",
       "category": "gambling",
+      "logo_path": "logos/gambling/fortunejack-com.png",
       "keywords": [
         "fortunejack"
       ],
@@ -932,6 +1030,7 @@
     {
       "slug": "independent-reserve",
       "category": "exchange",
+      "logo_path": "logos/exchanges/independent-reserve.png",
       "keywords": [
         "independent reserve"
       ],
@@ -941,6 +1040,7 @@
     {
       "slug": "changehero-io",
       "category": "exchange",
+      "logo_path": "logos/exchanges/changehero-io.png",
       "keywords": [
         "changehero"
       ],
@@ -950,6 +1050,7 @@
     {
       "slug": "crypto-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/crypto-com.png",
       "keywords": [
         "crypto.com",
         "cryptocom",
@@ -961,6 +1062,7 @@
     {
       "slug": "deepcoin-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/deepcoin-com.png",
       "keywords": [
         "deepcoin"
       ],
@@ -970,6 +1072,7 @@
     {
       "slug": "trubit-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/trubit-com.png",
       "keywords": [
         "trubit"
       ],
@@ -979,6 +1082,7 @@
     {
       "slug": "hitbtc-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/hitbtc-com.png",
       "keywords": [
         "hitbtc.com",
         "hitbtc"
@@ -989,6 +1093,7 @@
     {
       "slug": "payeer-com",
       "category": "psp",
+      "logo_path": "logos/psp/payeer-com.png",
       "keywords": [
         "payeer"
       ],
@@ -998,6 +1103,7 @@
     {
       "slug": "tidex-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/tidex-com.png",
       "keywords": [
         "tidex"
       ],
@@ -1007,6 +1113,7 @@
     {
       "slug": "cointree-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/cointree-com.png",
       "keywords": [
         "cointree"
       ],
@@ -1016,6 +1123,7 @@
     {
       "slug": "transak-com",
       "category": "psp",
+      "logo_path": "logos/psp/transak-com.png",
       "keywords": [
         "transak"
       ],
@@ -1025,6 +1133,7 @@
     {
       "slug": "zaif-jp",
       "category": "exchange",
+      "logo_path": "logos/exchanges/zaif-jp.png",
       "keywords": [
         "zaif"
       ],
@@ -1034,6 +1143,7 @@
     {
       "slug": "onus-vn",
       "category": "exchange",
+      "logo_path": "logos/exchanges/onus-vn.png",
       "keywords": [
         "onus"
       ],
@@ -1043,6 +1153,7 @@
     {
       "slug": "coinw-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/coinw-com.png",
       "keywords": [
         "coinw"
       ],
@@ -1052,6 +1163,7 @@
     {
       "slug": "hyperpay-tech",
       "category": "exchange",
+      "logo_path": "logos/exchanges/hyperpay-tech.png",
       "keywords": [
         "hyperpay"
       ],
@@ -1061,6 +1173,7 @@
     {
       "slug": "bitrue-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/bitrue-com.png",
       "keywords": [
         "bitrue"
       ],
@@ -1070,6 +1183,7 @@
     {
       "slug": "bitspark-io",
       "category": "exchange",
+      "logo_path": "logos/exchanges/bitspark-io.png",
       "keywords": [
         "bitspark"
       ],
@@ -1079,6 +1193,7 @@
     {
       "slug": "liquid-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/liquid-com.png",
       "keywords": [
         "liquid"
       ],
@@ -1088,6 +1203,7 @@
     {
       "slug": "okaypaybot",
       "category": "bot",
+      "logo_path": "logos/bot/okaypaybot.png",
       "keywords": [
         "okaypaybot",
         "okay pay bot"
@@ -1098,6 +1214,7 @@
     {
       "slug": "coinbase-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/coinbase-com.png",
       "keywords": [
         "coinbase"
       ],
@@ -1110,6 +1227,7 @@
     {
       "slug": "phemex-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/phemex-com.png",
       "keywords": [
         "phemex"
       ],
@@ -1119,6 +1237,7 @@
     {
       "slug": "reku-id",
       "category": "exchange",
+      "logo_path": "logos/exchanges/reku-id.png",
       "keywords": [
         "reku"
       ],
@@ -1128,6 +1247,7 @@
     {
       "slug": "sportsbet-io",
       "category": "gambling",
+      "logo_path": "logos/gambling/sportsbet-io.png",
       "keywords": [
         "sportsbet.io",
         "sportsbet"
@@ -1138,6 +1258,7 @@
     {
       "slug": "ascendex-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/ascendex-com.png",
       "keywords": [
         "ascendex",
         "bitmax"
@@ -1148,6 +1269,7 @@
     {
       "slug": "cex-io",
       "category": "exchange",
+      "logo_path": "logos/exchanges/cex-io.png",
       "keywords": [
         "cex.io"
       ],
@@ -1157,6 +1279,7 @@
     {
       "slug": "bitkan-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/bitkan-com.png",
       "keywords": [
         "bitkan"
       ],
@@ -1166,6 +1289,7 @@
     {
       "slug": "1win-com",
       "category": "gambling",
+      "logo_path": "logos/gambling/1win-com.png",
       "keywords": [
         "1win"
       ],
@@ -1175,6 +1299,7 @@
     {
       "slug": "cointr-pro",
       "category": "exchange",
+      "logo_path": "logos/exchanges/cointr-pro.png",
       "keywords": [
         "cointr"
       ],
@@ -1184,6 +1309,7 @@
     {
       "slug": "hotcoin-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/hotcoin-com.png",
       "keywords": [
         "hotcoin"
       ],
@@ -1193,6 +1319,7 @@
     {
       "slug": "kuna-io",
       "category": "exchange",
+      "logo_path": "logos/exchanges/kuna-io.png",
       "keywords": [
         "kuna"
       ],
@@ -1202,6 +1329,7 @@
     {
       "slug": "duelbits-com",
       "category": "gambling",
+      "logo_path": "logos/gambling/duelbits-com.png",
       "keywords": [
         "duelbits"
       ],
@@ -1211,6 +1339,7 @@
     {
       "slug": "zixipay",
       "category": "wallet",
+      "logo_path": "logos/wallet/zixipay.png",
       "keywords": [
         "zixipay"
       ],
@@ -1220,6 +1349,7 @@
     {
       "slug": "exmo-me",
       "category": "exchange",
+      "logo_path": "logos/exchanges/exmo-me.png",
       "keywords": [
         "exmo"
       ],
@@ -1229,6 +1359,7 @@
     {
       "slug": "probit-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/probit-com.png",
       "keywords": [
         "probit"
       ],
@@ -1238,6 +1369,7 @@
     {
       "slug": "betfury-io",
       "category": "gambling",
+      "logo_path": "logos/gambling/betfury-io.png",
       "keywords": [
         "betfury"
       ],
@@ -1247,6 +1379,7 @@
     {
       "slug": "bitpanda-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/bitpanda-com.png",
       "keywords": [
         "bitpanda"
       ],
@@ -1256,6 +1389,7 @@
     {
       "slug": "n-exchange",
       "category": "exchange",
+      "logo_path": "logos/exchanges/n-exchange.png",
       "keywords": [
         "n.exchange",
         "nexchange"
@@ -1266,6 +1400,7 @@
     {
       "slug": "paxful-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/paxful-com.png",
       "keywords": [
         "paxful"
       ],
@@ -1275,6 +1410,7 @@
     {
       "slug": "rollbit-com",
       "category": "gambling",
+      "logo_path": "logos/gambling/rollbit-com.png",
       "keywords": [
         "rollbit"
       ],
@@ -1284,6 +1420,7 @@
     {
       "slug": "roobet-com",
       "category": "gambling",
+      "logo_path": "logos/gambling/roobet-com.png",
       "keywords": [
         "roobet"
       ],
@@ -1293,6 +1430,7 @@
     {
       "slug": "specie-wallet",
       "category": "wallet",
+      "logo_path": "logos/wallet/specie-wallet.png",
       "keywords": [
         "specie wallet"
       ],
@@ -1302,6 +1440,7 @@
     {
       "slug": "cashinout-bot",
       "category": "bot",
+      "logo_path": "logos/bot/cashinout-bot.png",
       "keywords": [
         "cashinout"
       ],
@@ -1311,6 +1450,7 @@
     {
       "slug": "bridgers-xyz",
       "category": "bridge",
+      "logo_path": "logos/bridge/bridgers-xyz.png",
       "keywords": [
         "bridgers.xyz",
         "bridgers"
@@ -1321,6 +1461,7 @@
     {
       "slug": "bitvavo-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/bitvavo-com.png",
       "keywords": [
         "bitvavo"
       ],
@@ -1330,6 +1471,7 @@
     {
       "slug": "coindcx-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/coindcx-com.png",
       "keywords": [
         "coindcx"
       ],
@@ -1339,6 +1481,7 @@
     {
       "slug": "luno-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/luno-com.png",
       "keywords": [
         "luno"
       ],
@@ -1348,6 +1491,7 @@
     {
       "slug": "moonpay-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/moonpay-com.png",
       "keywords": [
         "moonpay"
       ],
@@ -1357,6 +1501,7 @@
     {
       "slug": "uphold-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/uphold-com.png",
       "keywords": [
         "uphold"
       ],
@@ -1366,6 +1511,7 @@
     {
       "slug": "bitcoinvn-io",
       "category": "exchange",
+      "logo_path": "logos/exchanges/bitcoinvn-io.png",
       "keywords": [
         "bitcoinvn.io",
         "bitcoinvn"
@@ -1376,6 +1522,7 @@
     {
       "slug": "changelly-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/changelly-com.png",
       "keywords": [
         "changelly"
       ],
@@ -1385,6 +1532,7 @@
     {
       "slug": "gemini-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/gemini-com.png",
       "keywords": [
         "gemini"
       ],
@@ -1394,6 +1542,7 @@
     {
       "slug": "latoken-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/latoken-com.png",
       "keywords": [
         "latoken"
       ],
@@ -1403,6 +1552,7 @@
     {
       "slug": "gamdom-com",
       "category": "gambling",
+      "logo_path": "logos/gambling/gamdom-com.png",
       "keywords": [
         "gamdom"
       ],
@@ -1412,6 +1562,7 @@
     {
       "slug": "osl-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/osl-com.png",
       "keywords": [
         "osl"
       ],
@@ -1421,6 +1572,7 @@
     {
       "slug": "valr-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/valr-com.png",
       "keywords": [
         "valr"
       ],
@@ -1430,6 +1582,7 @@
     {
       "slug": "bitmex-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/bitmex-com.png",
       "keywords": [
         "bitmex"
       ],
@@ -1439,6 +1592,7 @@
     {
       "slug": "blockchain-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/blockchain-com.png",
       "keywords": [
         "blockchain.com"
       ],
@@ -1448,6 +1602,7 @@
     {
       "slug": "swissborg-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/swissborg-com.png",
       "keywords": [
         "swissborg"
       ],
@@ -1457,6 +1612,7 @@
     {
       "slug": "bitbank-cc",
       "category": "exchange",
+      "logo_path": "logos/exchanges/bitbank-cc.png",
       "keywords": [
         "bitbank"
       ],
@@ -1466,6 +1622,7 @@
     {
       "slug": "deribit-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/deribit-com.png",
       "keywords": [
         "deribit"
       ],
@@ -1475,6 +1632,7 @@
     {
       "slug": "24crypto-bot",
       "category": "bot",
+      "logo_path": "logos/bot/24crypto-bot.png",
       "keywords": [
         "24crypto"
       ],
@@ -1484,6 +1642,7 @@
     {
       "slug": "roqqu-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/roqqu-com.png",
       "keywords": [
         "roqqu.com",
         "roqqu"
@@ -1494,6 +1653,7 @@
     {
       "slug": "cloudbet-com",
       "category": "gambling",
+      "logo_path": "logos/gambling/cloudbet-com.png",
       "keywords": [
         "cloudbet"
       ],
@@ -1503,6 +1663,7 @@
     {
       "slug": "okx-com",
       "category": "exchange",
+      "logo_path": "logos/exchanges/okx-com.png",
       "keywords": [
         "okx",
         "okex"
