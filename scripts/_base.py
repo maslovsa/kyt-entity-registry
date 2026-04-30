@@ -26,6 +26,16 @@ FALLBACK_PNG = LOGOS_DIR / "_fallback" / "unknown.png"
 
 # Full column set the registry owns. Older CSVs may lack `logo_hash`
 # or `aliases` — read_entities() fills missing keys with "".
+#
+# 2026-04-30: added `keywords` + `product_aliases` (between
+# canonical_domain and logo_status, matching entities.csv header).
+# Earlier commit `7ee38cb` (vasp-gap-audit v3 Group H + keywords
+# backfill) introduced these columns to the CSV, but `enrich.py`
+# wrote with the old COLUMNS list and `extrasaction="ignore"` —
+# silently stripping them every nightly run.  See commit `b7a906b`
+# for an example of the regression.  Without this fix consumers of
+# the manifest (Aegis UI, lookup.js) lose all keyword-driven badge
+# detection on every cron run.
 COLUMNS = [
     "entity_name",
     "category_slug",
@@ -37,6 +47,8 @@ COLUMNS = [
     "sources",
     "arkham_slug",
     "canonical_domain",
+    "keywords",
+    "product_aliases",
     "logo_status",
     "logo_updated_at",
     "manual_lock",
