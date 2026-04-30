@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-04-29T21:53:58+00:00",
+  "generated_at": "2026-04-30T07:13:40+00:00",
   "entries": [
     {
       "slug": "binance-com",
@@ -590,6 +590,17 @@
       "sanctioned": false
     },
     {
+      "slug": "wallex-ir",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/wallex-ir.png",
+      "keywords": [
+        "wallex",
+        "wallex.ir"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "whitebit-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/whitebit-com.png",
@@ -1161,11 +1172,32 @@
       "sanctioned": false
     },
     {
+      "slug": "ramzinex-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/ramzinex-com.png",
+      "keywords": [
+        "ramzinex"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "hyperpay-tech",
       "category": "exchange",
       "logo_path": "logos/exchanges/hyperpay-tech.png",
       "keywords": [
         "hyperpay"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitpin-ir",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bitpin-ir.png",
+      "keywords": [
+        "bitpin",
+        "bitpin.ir"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -1207,6 +1239,17 @@
       "keywords": [
         "okaypaybot",
         "okay pay bot"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "abantether-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/abantether-com.png",
+      "keywords": [
+        "abantether",
+        "aban tether"
       ],
       "product_aliases": [],
       "sanctioned": false
