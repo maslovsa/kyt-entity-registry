@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-05-01T15:50:03+00:00",
+  "generated_at": "2026-05-02T07:58:40+00:00",
   "entries": [
     {
       "slug": "binance-com",
@@ -1648,6 +1648,16 @@
       "logo_path": "logos/exchanges/swissborg-com.png",
       "keywords": [
         "swissborg"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "upay",
+      "category": "psp",
+      "logo_path": "logos/psp/upay.png",
+      "keywords": [
+        "upay"
       ],
       "product_aliases": [],
       "sanctioned": false

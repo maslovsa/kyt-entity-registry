@@ -492,7 +492,7 @@ Xrex,exchange,85.2,6,85,5,TRON,scorechain-counterparties,xrex,,,,placeholder,202
 bitglobal.com,exchange,85.2,6,85,5,BSC|ETH,scorechain-counterparties,bitglobal-com,bitglobal.com,,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Bitharvest,mining,85.2,6,85,5,BSC|TRON,scorechain-counterparties,bitharvest,,,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Commerce Coinbase,psp,85.2,6,85,15,ETH,scorechain-counterparties,commerce-coinbase,,,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
-Upay,psp,85.2,6,85,15,TRON,scorechain-counterparties,upay,,,,manual,2026-04-23,true,420b66cd669433808b68d2e8f3e7a7fb4f4f4e096f08a294b24a608f572720c1
+Upay,psp,85.2,6,85,15,TRON,scorechain-counterparties,upay,,upay,,manual,2026-04-23,true,420b66cd669433808b68d2e8f3e7a7fb4f4f4e096f08a294b24a608f572720c1
 biyapay,wallet,85.2,6,85,5,TRON,scorechain-counterparties,biyapay,,,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Crypto Exchanger Bot,bot,84.2,5,85,20,TRON,scorechain-counterparties,crypto-exchanger-bot,,,,arkham,2026-04-22,false,8f95daaa88037905e181fa1834d35b32a12c543ff5980d28bc5a5fa0a8664c6d
 Connext.network - Everclear.org,bridge,84.2,5,85,15,BSC|ETH,scorechain-counterparties,connext-network-everclear-org,connext.network,,,arkham,2026-04-22,false,054aaa62dfd58a0869cd2548ca288693f8c6266b13783c0aa41c5ca7df2090d8
