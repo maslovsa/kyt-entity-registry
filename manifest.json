@@ -1,7 +1,17 @@
 {
   "version": 2,
-  "generated_at": "2026-05-02T07:58:40+00:00",
+  "generated_at": "2026-05-02T08:27:33+00:00",
   "entries": [
+    {
+      "slug": "uniswap",
+      "category": "dex",
+      "logo_path": "logos/dex/uniswap.png",
+      "keywords": [
+        "uniswap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
     {
       "slug": "binance-com",
       "category": "exchange",
@@ -143,6 +153,29 @@
       "product_aliases": [
         "okx wallet"
       ],
+      "sanctioned": false
+    },
+    {
+      "slug": "okx-dex",
+      "category": "dex",
+      "logo_path": "logos/dex/okx-dex.png",
+      "keywords": [
+        "okx dex",
+        "okx-dex",
+        "okx",
+        "okb"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pancakeswap",
+      "category": "dex",
+      "logo_path": "logos/dex/pancakeswap.png",
+      "keywords": [
+        "pancakeswap"
+      ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -328,6 +361,16 @@
       "logo_path": "logos/gambling/bitstarz-com.png",
       "keywords": [
         "bitstarz"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "1inch-network",
+      "category": "dex",
+      "logo_path": "logos/dex/1inch-network.png",
+      "keywords": [
+        "1inch"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -1310,6 +1353,17 @@
       "sanctioned": false
     },
     {
+      "slug": "curve-fi",
+      "category": "dex",
+      "logo_path": "logos/dex/curve-fi.png",
+      "keywords": [
+        "curve.fi",
+        "curve"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "cex-io",
       "category": "exchange",
       "logo_path": "logos/exchanges/cex-io.png",
@@ -1340,11 +1394,45 @@
       "sanctioned": false
     },
     {
+      "slug": "sun-io",
+      "category": "dex",
+      "logo_path": "logos/dex/sun-io.png",
+      "keywords": [
+        "sun.io",
+        "sun",
+        "sun io",
+        "sun-token"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "cointr-pro",
       "category": "exchange",
       "logo_path": "logos/exchanges/cointr-pro.png",
       "keywords": [
         "cointr"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "multichain-anyswap",
+      "category": "bridge",
+      "logo_path": "logos/bridge/multichain-anyswap.png",
+      "keywords": [
+        "multichain",
+        "multichain-anyswap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "orbiter-finance",
+      "category": "bridge",
+      "logo_path": "logos/bridge/orbiter-finance.png",
+      "keywords": [
+        "orbiter"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -1390,6 +1478,17 @@
       "sanctioned": false
     },
     {
+      "slug": "kyber-network-kyberswap",
+      "category": "dex",
+      "logo_path": "logos/dex/kyber-network-kyberswap.png",
+      "keywords": [
+        "kyberswap",
+        "kyber-network-kyberswap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "exmo-me",
       "category": "exchange",
       "logo_path": "logos/exchanges/exmo-me.png",
@@ -1415,6 +1514,39 @@
       "logo_path": "logos/gambling/betfury-io.png",
       "keywords": [
         "betfury"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kiln-fi",
+      "category": "defi",
+      "logo_path": "logos/defi/kiln-fi.png",
+      "keywords": [
+        "kiln.fi",
+        "kiln"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "paraswap-io",
+      "category": "dex",
+      "logo_path": "logos/dex/paraswap-io.png",
+      "keywords": [
+        "paraswap.io",
+        "paraswap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pendle-finance",
+      "category": "dex",
+      "logo_path": "logos/dex/pendle-finance.png",
+      "keywords": [
+        "pendle.finance",
+        "pendle"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -1446,6 +1578,27 @@
       "logo_path": "logos/exchanges/paxful-com.png",
       "keywords": [
         "paxful"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dodoex-io",
+      "category": "dex",
+      "logo_path": "logos/dex/dodoex-io.png",
+      "keywords": [
+        "dodoex.io",
+        "dodoex"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "openocean",
+      "category": "dex",
+      "logo_path": "logos/dex/openocean.png",
+      "keywords": [
+        "openocean"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -1502,6 +1655,38 @@
       "sanctioned": false
     },
     {
+      "slug": "venus",
+      "category": "defi",
+      "logo_path": "logos/defi/venus.png",
+      "keywords": [
+        "venus"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "biswap-org",
+      "category": "dex",
+      "logo_path": "logos/dex/biswap-org.png",
+      "keywords": [
+        "biswap.org",
+        "biswap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "magpiexyz-io",
+      "category": "dex",
+      "logo_path": "logos/dex/magpiexyz-io.png",
+      "keywords": [
+        "magpiexyz.io",
+        "magpiexyz"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "bitvavo-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/bitvavo-com.png",
@@ -1547,6 +1732,102 @@
       "logo_path": "logos/exchanges/uphold-com.png",
       "keywords": [
         "uphold"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "li-fi",
+      "category": "bridge",
+      "logo_path": "logos/bridge/li-fi.png",
+      "keywords": [
+        "li.fi"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mayan-finance",
+      "category": "bridge",
+      "logo_path": "logos/bridge/mayan-finance.png",
+      "keywords": [
+        "mayan.finance",
+        "mayan"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "odos-xyz",
+      "category": "bridge",
+      "logo_path": "logos/bridge/odos-xyz.png",
+      "keywords": [
+        "odos.xyz",
+        "odos"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "relay-link",
+      "category": "bridge",
+      "logo_path": "logos/bridge/relay-link.png",
+      "keywords": [
+        "relay.link",
+        "relay-link"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "stargate-finance",
+      "category": "bridge",
+      "logo_path": "logos/bridge/stargate-finance.png",
+      "keywords": [
+        "stargate.finance",
+        "stargate"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pancakeswap",
+      "category": "defi",
+      "logo_path": "logos/defi/pancakeswap.png",
+      "keywords": [
+        "pancakeswap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "aeroswap-io",
+      "category": "dex",
+      "logo_path": "logos/dex/aeroswap-io.png",
+      "keywords": [
+        "aeroswap.io",
+        "aeroswap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "sideshift-ai",
+      "category": "dex",
+      "logo_path": "logos/dex/sideshift-ai.png",
+      "keywords": [
+        "sideshift.ai",
+        "sideshift-ai"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "sushiswap",
+      "category": "dex",
+      "logo_path": "logos/dex/sushiswap.png",
+      "keywords": [
+        "sushiswap"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -1603,6 +1884,93 @@
       "sanctioned": false
     },
     {
+      "slug": "across-protocol",
+      "category": "bridge",
+      "logo_path": "logos/bridge/across-protocol.png",
+      "keywords": [
+        "across",
+        "across-protocol"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "socket-tech",
+      "category": "bridge",
+      "logo_path": "logos/bridge/socket-tech.png",
+      "keywords": [
+        "socket.tech",
+        "socket-tech"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "wormhole-com",
+      "category": "bridge",
+      "logo_path": "logos/bridge/wormhole-com.png",
+      "keywords": [
+        "wormhole.com",
+        "wormhole"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "chainflip-io",
+      "category": "bridge",
+      "logo_path": "logos/bridge/chainflip-io.png",
+      "keywords": [
+        "chainflip.io",
+        "chainflip"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "falconx-io",
+      "category": "defi",
+      "logo_path": "logos/defi/falconx-io.png",
+      "keywords": [
+        "falconx.io",
+        "falconx"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "butter-network",
+      "category": "dex",
+      "logo_path": "logos/dex/butter-network.png",
+      "keywords": [
+        "butter"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "symbiosis-finance",
+      "category": "dex",
+      "logo_path": "logos/dex/symbiosis-finance.png",
+      "keywords": [
+        "symbiosis.finance",
+        "symbiosis",
+        "symbiosis-finance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "woofi",
+      "category": "dex",
+      "logo_path": "logos/dex/woofi.png",
+      "keywords": [
+        "woofi"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "osl-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/osl-com.png",
@@ -1618,6 +1986,131 @@
       "logo_path": "logos/exchanges/valr-com.png",
       "keywords": [
         "valr"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "allbridge-io",
+      "category": "bridge",
+      "logo_path": "logos/bridge/allbridge-io.png",
+      "keywords": [
+        "allbridge.io",
+        "allbridge"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "celer-network",
+      "category": "bridge",
+      "logo_path": "logos/bridge/celer-network.png",
+      "keywords": [
+        "celer"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kyber-network-kyberswap",
+      "category": "bridge",
+      "logo_path": "logos/bridge/kyber-network-kyberswap.png",
+      "keywords": [
+        "kyberswap",
+        "kyber-network-kyberswap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "galaxy-digital",
+      "category": "defi",
+      "logo_path": "logos/defi/galaxy-digital.png",
+      "keywords": [
+        "galaxy digital",
+        "galaxy-digital"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "uniswap",
+      "category": "defi",
+      "logo_path": "logos/defi/uniswap.png",
+      "keywords": [
+        "uniswap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "apeswap",
+      "category": "dex",
+      "logo_path": "logos/dex/apeswap.png",
+      "keywords": [
+        "apeswap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "chainlink",
+      "category": "dex",
+      "logo_path": "logos/dex/chainlink.png",
+      "keywords": [
+        "chainlink"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "euler-finance",
+      "category": "dex",
+      "logo_path": "logos/dex/euler-finance.png",
+      "keywords": [
+        "euler"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hyperlane-xy",
+      "category": "dex",
+      "logo_path": "logos/dex/hyperlane-xy.png",
+      "keywords": [
+        "hyperlane.xy",
+        "hyperlane-xy"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kiloex",
+      "category": "dex",
+      "logo_path": "logos/dex/kiloex.png",
+      "keywords": [
+        "kiloex"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "maverick-protocol",
+      "category": "dex",
+      "logo_path": "logos/dex/maverick-protocol.png",
+      "keywords": [
+        "maverick"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mdex-com",
+      "category": "dex",
+      "logo_path": "logos/dex/mdex-com.png",
+      "keywords": [
+        "mdex.com",
+        "mdex"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -1663,6 +2156,138 @@
       "sanctioned": false
     },
     {
+      "slug": "connext-network-everclear-org",
+      "category": "bridge",
+      "logo_path": "logos/bridge/connext-network-everclear-org.png",
+      "keywords": [
+        "everclear.org",
+        "connext-network-everclear"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "layerzero-network",
+      "category": "bridge",
+      "logo_path": "logos/bridge/layerzero-network.png",
+      "keywords": [
+        "layerzero.network",
+        "layerzero"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "scroll-io",
+      "category": "bridge",
+      "logo_path": "logos/bridge/scroll-io.png",
+      "keywords": [
+        "scroll.io",
+        "scroll"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "xy-finance",
+      "category": "bridge",
+      "logo_path": "logos/bridge/xy-finance.png",
+      "keywords": [
+        "xy.finance",
+        "xy",
+        "xy-finance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "zksync-io",
+      "category": "bridge",
+      "logo_path": "logos/bridge/zksync-io.png",
+      "keywords": [
+        "zksync.io",
+        "zksync"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ether-fi",
+      "category": "defi",
+      "logo_path": "logos/defi/ether-fi.png",
+      "keywords": [
+        "ether.fi",
+        "ether"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "flow-traders",
+      "category": "defi",
+      "logo_path": "logos/defi/flow-traders.png",
+      "keywords": [
+        "flow traders",
+        "flow-traders"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "stargate-finance",
+      "category": "defi",
+      "logo_path": "logos/defi/stargate-finance.png",
+      "keywords": [
+        "stargate"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "krystal-app",
+      "category": "dex",
+      "logo_path": "logos/dex/krystal-app.png",
+      "keywords": [
+        "krystal.app",
+        "krystal"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "metamask-io",
+      "category": "dex",
+      "logo_path": "logos/dex/metamask-io.png",
+      "keywords": [
+        "metamask.io",
+        "metamask"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "nomiswap-io",
+      "category": "dex",
+      "logo_path": "logos/dex/nomiswap-io.png",
+      "keywords": [
+        "nomiswap.io",
+        "nomiswap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "venus-io",
+      "category": "dex",
+      "logo_path": "logos/dex/venus-io.png",
+      "keywords": [
+        "venus.io",
+        "venus"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "bitbank-cc",
       "category": "exchange",
       "logo_path": "logos/exchanges/bitbank-cc.png",
@@ -1693,12 +2318,1496 @@
       "sanctioned": false
     },
     {
+      "slug": "arbitrum-io",
+      "category": "bridge",
+      "logo_path": "logos/bridge/arbitrum-io.png",
+      "keywords": [
+        "arbitrum.io",
+        "arbitrum"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "defiway-bridge",
+      "category": "bridge",
+      "logo_path": "logos/bridge/defiway-bridge.png",
+      "keywords": [
+        "defiway bridge",
+        "defiway-bridge"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "harmony-one",
+      "category": "bridge",
+      "logo_path": "logos/bridge/harmony-one.png",
+      "keywords": [
+        "harmony.one",
+        "harmony-one"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hop-protocol",
+      "category": "bridge",
+      "logo_path": "logos/bridge/hop-protocol.png",
+      "keywords": [
+        "hop",
+        "hop-protocol"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "o3swap",
+      "category": "bridge",
+      "logo_path": "logos/bridge/o3swap.png",
+      "keywords": [
+        "o3swap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "optimism",
+      "category": "bridge",
+      "logo_path": "logos/bridge/optimism.png",
+      "keywords": [
+        "optimism"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "squidrouter-com",
+      "category": "bridge",
+      "logo_path": "logos/bridge/squidrouter-com.png",
+      "keywords": [
+        "squidrouter.com",
+        "squidrouter"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "wombat-exchange",
+      "category": "bridge",
+      "logo_path": "logos/bridge/wombat-exchange.png",
+      "keywords": [
+        "wombat.exchange",
+        "wombat-exchange",
+        "wombat"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "1inch-network",
+      "category": "defi",
+      "logo_path": "logos/defi/1inch-network.png",
+      "keywords": [
+        "1inch"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dwf-labs-com",
+      "category": "defi",
+      "logo_path": "logos/defi/dwf-labs-com.png",
+      "keywords": [
+        "dwf-labs.com",
+        "dwf"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gsr-markets",
+      "category": "defi",
+      "logo_path": "logos/defi/gsr-markets.png",
+      "keywords": [
+        "gsr markets",
+        "gsr-markets"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kyber-network-kyberswap",
+      "category": "defi",
+      "logo_path": "logos/defi/kyber-network-kyberswap.png",
+      "keywords": [
+        "kyberswap",
+        "kyber-network-kyberswap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "multichain",
+      "category": "defi",
+      "logo_path": "logos/defi/multichain.png",
+      "keywords": [
+        "multichain"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "apollox-finance",
+      "category": "dex",
+      "logo_path": "logos/dex/apollox-finance.png",
+      "keywords": [
+        "apollox.finance",
+        "apollox"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "barnbridge-dao",
+      "category": "dex",
+      "logo_path": "logos/dex/barnbridge-dao.png",
+      "keywords": [
+        "barnbridge"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ellipsis-finance",
+      "category": "dex",
+      "logo_path": "logos/dex/ellipsis-finance.png",
+      "keywords": [
+        "ellipsis"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "galaxy-coin",
+      "category": "dex",
+      "logo_path": "logos/dex/galaxy-coin.png",
+      "keywords": [
+        "galaxy coin",
+        "galaxy-coin"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "instadapp",
+      "category": "dex",
+      "logo_path": "logos/dex/instadapp.png",
+      "keywords": [
+        "instadapp"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "maker-dao",
+      "category": "dex",
+      "logo_path": "logos/dex/maker-dao.png",
+      "keywords": [
+        "maker"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "relayer-network",
+      "category": "dex",
+      "logo_path": "logos/dex/relayer-network.png",
+      "keywords": [
+        "relayer"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "polyhedra-network",
+      "category": "dex",
+      "logo_path": "logos/dex/polyhedra-network.png",
+      "keywords": [
+        "polyhedra.network",
+        "polyhedra",
+        "polyhedra-network"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "spark",
+      "category": "mining",
+      "logo_path": "logos/mining/spark.png",
+      "keywords": [
+        "spark"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "1inch-network",
+      "category": "bridge",
+      "logo_path": "logos/bridge/1inch-network.png",
+      "keywords": [
+        "1inch"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "avalanche-bridge",
+      "category": "bridge",
+      "logo_path": "logos/bridge/avalanche-bridge.png",
+      "keywords": [
+        "avalanche bridge",
+        "avalanche-bridge"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "interport-fi",
+      "category": "bridge",
+      "logo_path": "logos/bridge/interport-fi.png",
+      "keywords": [
+        "interport.fi",
+        "interport"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "orbit-bridge",
+      "category": "bridge",
+      "logo_path": "logos/bridge/orbit-bridge.png",
+      "keywords": [
+        "orbit bridge",
+        "orbit-bridge",
+        "orbit-chain"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "owlto-finance",
+      "category": "bridge",
+      "logo_path": "logos/bridge/owlto-finance.png",
+      "keywords": [
+        "owlto"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "poa-network",
+      "category": "bridge",
+      "logo_path": "logos/bridge/poa-network.png",
+      "keywords": [
+        "poa"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "polynetwork",
+      "category": "bridge",
+      "logo_path": "logos/bridge/polynetwork.png",
+      "keywords": [
+        "polynetwork"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "rango-exchange",
+      "category": "bridge",
+      "logo_path": "logos/bridge/rango-exchange.png",
+      "keywords": [
+        "rango.exchange",
+        "rango-exchange",
+        "rango"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "aave",
+      "category": "defi",
+      "logo_path": "logos/defi/aave.png",
+      "keywords": [
+        "aave"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "amber-group",
+      "category": "defi",
+      "logo_path": "logos/defi/amber-group.png",
+      "keywords": [
+        "amber group",
+        "amber-group"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "curve-fi",
+      "category": "defi",
+      "logo_path": "logos/defi/curve-fi.png",
+      "keywords": [
+        "curve.fi",
+        "curve"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "jump-trading",
+      "category": "defi",
+      "logo_path": "logos/defi/jump-trading.png",
+      "keywords": [
+        "jump trading",
+        "jump-trading"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "lido",
+      "category": "defi",
+      "logo_path": "logos/defi/lido.png",
+      "keywords": [
+        "lido",
+        "lido-dao"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "lido-fi",
+      "category": "defi",
+      "logo_path": "logos/defi/lido-fi.png",
+      "keywords": [
+        "lido.fi",
+        "lido"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "master-ventures",
+      "category": "defi",
+      "logo_path": "logos/defi/master-ventures.png",
+      "keywords": [
+        "master ventures",
+        "master-ventures"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "syrup-fi",
+      "category": "defi",
+      "logo_path": "logos/defi/syrup-fi.png",
+      "keywords": [
+        "syrup.fi",
+        "syrup"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "alpaca-finance",
+      "category": "dex",
+      "logo_path": "logos/dex/alpaca-finance.png",
+      "keywords": [
+        "alpaca"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bakeryswap-org",
+      "category": "dex",
+      "logo_path": "logos/dex/bakeryswap-org.png",
+      "keywords": [
+        "bakeryswap.org",
+        "bakeryswap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "blast-io",
+      "category": "dex",
+      "logo_path": "logos/dex/blast-io.png",
+      "keywords": [
+        "blast.io",
+        "blast"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "compound-finance",
+      "category": "dex",
+      "logo_path": "logos/dex/compound-finance.png",
+      "keywords": [
+        "compound.finance",
+        "compound"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "debank-com",
+      "category": "dex",
+      "logo_path": "logos/dex/debank-com.png",
+      "keywords": [
+        "debank.com",
+        "debank"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "defy-swap",
+      "category": "dex",
+      "logo_path": "logos/dex/defy-swap.png",
+      "keywords": [
+        "defy swap",
+        "defy-swap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "disperse-app",
+      "category": "dex",
+      "logo_path": "logos/dex/disperse-app.png",
+      "keywords": [
+        "disperse.app",
+        "disperse"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "furucombo",
+      "category": "dex",
+      "logo_path": "logos/dex/furucombo.png",
+      "keywords": [
+        "furucombo"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gamma-xyz",
+      "category": "dex",
+      "logo_path": "logos/dex/gamma-xyz.png",
+      "keywords": [
+        "gamma.xyz",
+        "gamma"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gitcoin",
+      "category": "dex",
+      "logo_path": "logos/dex/gitcoin.png",
+      "keywords": [
+        "gitcoin"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gnosis",
+      "category": "dex",
+      "logo_path": "logos/dex/gnosis.png",
+      "keywords": [
+        "gnosis"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kinza-finance",
+      "category": "dex",
+      "logo_path": "logos/dex/kinza-finance.png",
+      "keywords": [
+        "kinza"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "meson-fi",
+      "category": "dex",
+      "logo_path": "logos/dex/meson-fi.png",
+      "keywords": [
+        "meson.fi",
+        "meson"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "near-intents",
+      "category": "dex",
+      "logo_path": "logos/dex/near-intents.png",
+      "keywords": [
+        "near intents",
+        "near-intents"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pantherswap",
+      "category": "dex",
+      "logo_path": "logos/dex/pantherswap.png",
+      "keywords": [
+        "pantherswap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "request-network",
+      "category": "dex",
+      "logo_path": "logos/dex/request-network.png",
+      "keywords": [
+        "request",
+        "request-network"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "reservoir-tools",
+      "category": "dex",
+      "logo_path": "logos/dex/reservoir-tools.png",
+      "keywords": [
+        "reservoir.tools",
+        "reservoir-tools"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "shibaswap-com",
+      "category": "dex",
+      "logo_path": "logos/dex/shibaswap-com.png",
+      "keywords": [
+        "shibaswap.com",
+        "shibaswap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "wault-finance",
+      "category": "dex",
+      "logo_path": "logos/dex/wault-finance.png",
+      "keywords": [
+        "wault"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "zerolend-xyz",
+      "category": "dex",
+      "logo_path": "logos/dex/zerolend-xyz.png",
+      "keywords": [
+        "zerolend.xyz",
+        "zerolend"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mimic-fi",
+      "category": "dex",
+      "logo_path": "logos/dex/mimic-fi.png",
+      "keywords": [
+        "mimic.fi",
+        "mimic"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "roqqu-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/roqqu-com.png",
       "keywords": [
         "roqqu.com",
         "roqqu"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "axelar-network",
+      "category": "bridge",
+      "logo_path": "logos/bridge/axelar-network.png",
+      "keywords": [
+        "axelar.network",
+        "axelar"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "biconomy-io",
+      "category": "bridge",
+      "logo_path": "logos/bridge/biconomy-io.png",
+      "keywords": [
+        "biconomy.io",
+        "biconomy"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "evodefi-com",
+      "category": "bridge",
+      "logo_path": "logos/bridge/evodefi-com.png",
+      "keywords": [
+        "evodefi.com",
+        "evodefi"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hyperunit",
+      "category": "bridge",
+      "logo_path": "logos/bridge/hyperunit.png",
+      "keywords": [
+        "hyperunit"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "metamask-io",
+      "category": "bridge",
+      "logo_path": "logos/bridge/metamask-io.png",
+      "keywords": [
+        "metamask.io",
+        "metamask"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "orion-protocol",
+      "category": "bridge",
+      "logo_path": "logos/bridge/orion-protocol.png",
+      "keywords": [
+        "orion"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pancakeswap",
+      "category": "bridge",
+      "logo_path": "logos/bridge/pancakeswap.png",
+      "keywords": [
+        "pancakeswap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pulsechain-com",
+      "category": "bridge",
+      "logo_path": "logos/bridge/pulsechain-com.png",
+      "keywords": [
+        "pulsechain.com",
+        "pulsechain"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "starkware-co",
+      "category": "bridge",
+      "logo_path": "logos/bridge/starkware-co.png",
+      "keywords": [
+        "starkware.co",
+        "starkware-co"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "umbria-network",
+      "category": "bridge",
+      "logo_path": "logos/bridge/umbria-network.png",
+      "keywords": [
+        "umbria.network",
+        "umbria",
+        "umbra-network"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "apy-finance",
+      "category": "defi",
+      "logo_path": "logos/defi/apy-finance.png",
+      "keywords": [
+        "apy",
+        "apy-finance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "agglayer",
+      "category": "defi",
+      "logo_path": "logos/defi/agglayer.png",
+      "keywords": [
+        "agglayer"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bella-protocol",
+      "category": "defi",
+      "logo_path": "logos/defi/bella-protocol.png",
+      "keywords": [
+        "bella",
+        "bella-protocol"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "compound-usdc",
+      "category": "defi",
+      "logo_path": "logos/defi/compound-usdc.png",
+      "keywords": [
+        "compound usdc",
+        "compound-usdc"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cream-finance",
+      "category": "defi",
+      "logo_path": "logos/defi/cream-finance.png",
+      "keywords": [
+        "cream.finance",
+        "cream"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "everstake",
+      "category": "defi",
+      "logo_path": "logos/defi/everstake.png",
+      "keywords": [
+        "everstake"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "falcon-finance",
+      "category": "defi",
+      "logo_path": "logos/defi/falcon-finance.png",
+      "keywords": [
+        "falcon",
+        "falcon-finance-ff"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "flux-protocol",
+      "category": "defi",
+      "logo_path": "logos/defi/flux-protocol.png",
+      "keywords": [
+        "flux"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "frankencoin",
+      "category": "defi",
+      "logo_path": "logos/defi/frankencoin.png",
+      "keywords": [
+        "frankencoin"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "maple-finance",
+      "category": "defi",
+      "logo_path": "logos/defi/maple-finance.png",
+      "keywords": [
+        "maple"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "nonco",
+      "category": "defi",
+      "logo_path": "logos/defi/nonco.png",
+      "keywords": [
+        "nonco"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "stakestone-io",
+      "category": "defi",
+      "logo_path": "logos/defi/stakestone-io.png",
+      "keywords": [
+        "stakestone.io",
+        "stakestone"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "syrup",
+      "category": "defi",
+      "logo_path": "logos/defi/syrup.png",
+      "keywords": [
+        "syrup",
+        "syrup-finance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "uwu-lend",
+      "category": "defi",
+      "logo_path": "logos/defi/uwu-lend.png",
+      "keywords": [
+        "uwu lend",
+        "uwu-lend"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "wepiggy",
+      "category": "defi",
+      "logo_path": "logos/defi/wepiggy.png",
+      "keywords": [
+        "wepiggy",
+        "wepiggy-coin"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "algebra-finance",
+      "category": "dex",
+      "logo_path": "logos/dex/algebra-finance.png",
+      "keywords": [
+        "algebra.finance",
+        "algebra"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "alpha-venture-dao",
+      "category": "dex",
+      "logo_path": "logos/dex/alpha-venture-dao.png",
+      "keywords": [
+        "alpha venture",
+        "alpha-venture"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ambit-finance",
+      "category": "dex",
+      "logo_path": "logos/dex/ambit-finance.png",
+      "keywords": [
+        "ambit",
+        "ambit-finance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ampleswap",
+      "category": "dex",
+      "logo_path": "logos/dex/ampleswap.png",
+      "keywords": [
+        "ampleswap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "aster",
+      "category": "dex",
+      "logo_path": "logos/dex/aster.png",
+      "keywords": [
+        "aster"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "balancer-fi",
+      "category": "dex",
+      "logo_path": "logos/dex/balancer-fi.png",
+      "keywords": [
+        "balancer.fi",
+        "balancer"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "banana-gun",
+      "category": "dex",
+      "logo_path": "logos/dex/banana-gun.png",
+      "keywords": [
+        "banana gun",
+        "banana-gun"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bogged-finance",
+      "category": "dex",
+      "logo_path": "logos/dex/bogged-finance.png",
+      "keywords": [
+        "bogged",
+        "bogged-finance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bullperks-com",
+      "category": "dex",
+      "logo_path": "logos/dex/bullperks-com.png",
+      "keywords": [
+        "bullperks.com",
+        "bullperks"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bunicorn",
+      "category": "dex",
+      "logo_path": "logos/dex/bunicorn.png",
+      "keywords": [
+        "bunicorn"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "burgerswap",
+      "category": "dex",
+      "logo_path": "logos/dex/burgerswap.png",
+      "keywords": [
+        "burgerswap",
+        "burger-swap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cafeswap",
+      "category": "dex",
+      "logo_path": "logos/dex/cafeswap.png",
+      "keywords": [
+        "cafeswap",
+        "cafeswap-token"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "crowdswap",
+      "category": "dex",
+      "logo_path": "logos/dex/crowdswap.png",
+      "keywords": [
+        "crowdswap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dforce-network",
+      "category": "dex",
+      "logo_path": "logos/dex/dforce-network.png",
+      "keywords": [
+        "dforce.network",
+        "dforce"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dolomite-io",
+      "category": "dex",
+      "logo_path": "logos/dex/dolomite-io.png",
+      "keywords": [
+        "dolomite.io",
+        "dolomite"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ens",
+      "category": "dex",
+      "logo_path": "logos/dex/ens.png",
+      "keywords": [
+        "ens",
+        "ethereum-name-service"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ensobuild",
+      "category": "dex",
+      "logo_path": "logos/dex/ensobuild.png",
+      "keywords": [
+        "ensobuild"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ethena-fi",
+      "category": "dex",
+      "logo_path": "logos/dex/ethena-fi.png",
+      "keywords": [
+        "ethena.fi",
+        "ethena"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "four-meme",
+      "category": "dex",
+      "logo_path": "logos/dex/four-meme.png",
+      "keywords": [
+        "four.meme",
+        "four-meme",
+        "four meme"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "fstswap",
+      "category": "dex",
+      "logo_path": "logos/dex/fstswap.png",
+      "keywords": [
+        "fstswap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "fuel-network",
+      "category": "dex",
+      "logo_path": "logos/dex/fuel-network.png",
+      "keywords": [
+        "fuel.network",
+        "fuel"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gearbox-protocol",
+      "category": "dex",
+      "logo_path": "logos/dex/gearbox-protocol.png",
+      "keywords": [
+        "gearbox"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hashflow-com",
+      "category": "dex",
+      "logo_path": "logos/dex/hashflow-com.png",
+      "keywords": [
+        "hashflow.com",
+        "hashflow"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hyperjump",
+      "category": "dex",
+      "logo_path": "logos/dex/hyperjump.png",
+      "keywords": [
+        "hyperjump"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "julswap",
+      "category": "dex",
+      "logo_path": "logos/dex/julswap.png",
+      "keywords": [
+        "julswap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "karak-network",
+      "category": "dex",
+      "logo_path": "logos/dex/karak-network.png",
+      "keywords": [
+        "karak.network",
+        "karak"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kerneldao",
+      "category": "dex",
+      "logo_path": "logos/dex/kerneldao.png",
+      "keywords": [
+        "kerneldao"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "li-fi",
+      "category": "dex",
+      "logo_path": "logos/dex/li-fi.png",
+      "keywords": [
+        "li.fi"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "layerswap-io",
+      "category": "dex",
+      "logo_path": "logos/dex/layerswap-io.png",
+      "keywords": [
+        "layerswap.io",
+        "layerswap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "luaswap",
+      "category": "dex",
+      "logo_path": "logos/dex/luaswap.png",
+      "keywords": [
+        "luaswap",
+        "lua-token"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mantle-xyz",
+      "category": "dex",
+      "logo_path": "logos/dex/mantle-xyz.png",
+      "keywords": [
+        "mantle.xyz",
+        "mantle"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "maple-finance",
+      "category": "dex",
+      "logo_path": "logos/dex/maple-finance.png",
+      "keywords": [
+        "maple"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "movement-network",
+      "category": "dex",
+      "logo_path": "logos/dex/movement-network.png",
+      "keywords": [
+        "movement"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "multisender-app",
+      "category": "dex",
+      "logo_path": "logos/dex/multisender-app.png",
+      "keywords": [
+        "multisender.app",
+        "multisender"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "native-org",
+      "category": "dex",
+      "logo_path": "logos/dex/native-org.png",
+      "keywords": [
+        "native.org",
+        "native"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "openleverage",
+      "category": "dex",
+      "logo_path": "logos/dex/openleverage.png",
+      "keywords": [
+        "openleverage"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "railgun",
+      "category": "dex",
+      "logo_path": "logos/dex/railgun.png",
+      "keywords": [
+        "railgun"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "rainbet-com",
+      "category": "dex",
+      "logo_path": "logos/dex/rainbet-com.png",
+      "keywords": [
+        "rainbet.com",
+        "rainbet"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "revert-finance",
+      "category": "dex",
+      "logo_path": "logos/dex/revert-finance.png",
+      "keywords": [
+        "revert.finance",
+        "revert"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ring-exchange",
+      "category": "dex",
+      "logo_path": "logos/dex/ring-exchange.png",
+      "keywords": [
+        "ring.exchange",
+        "ring-exchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "rings-protocol",
+      "category": "dex",
+      "logo_path": "logos/dex/rings-protocol.png",
+      "keywords": [
+        "rings"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "sidusheroes",
+      "category": "dex",
+      "logo_path": "logos/dex/sidusheroes.png",
+      "keywords": [
+        "sidusheroes"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "skip",
+      "category": "dex",
+      "logo_path": "logos/dex/skip.png",
+      "keywords": [
+        "skip"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "sophon",
+      "category": "dex",
+      "logo_path": "logos/dex/sophon.png",
+      "keywords": [
+        "sophon"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "waves-tech",
+      "category": "dex",
+      "logo_path": "logos/dex/waves-tech.png",
+      "keywords": [
+        "waves.tech",
+        "waves-tech"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "whales-market",
+      "category": "dex",
+      "logo_path": "logos/dex/whales-market.png",
+      "keywords": [
+        "whales.market",
+        "whales-market",
+        "whales market"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "yearn-finance",
+      "category": "dex",
+      "logo_path": "logos/dex/yearn-finance.png",
+      "keywords": [
+        "yearn.finance",
+        "yearn"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "aevo-xyz",
+      "category": "dex",
+      "logo_path": "logos/dex/aevo-xyz.png",
+      "keywords": [
+        "aevo.xyz",
+        "aevo"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bzx",
+      "category": "dex",
+      "logo_path": "logos/dex/bzx.png",
+      "keywords": [
+        "bzx"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "belt-fi",
+      "category": "dex",
+      "logo_path": "logos/dex/belt-fi.png",
+      "keywords": [
+        "belt.fi",
+        "belt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dydx-exchange",
+      "category": "dex",
+      "logo_path": "logos/dex/dydx-exchange.png",
+      "keywords": [
+        "dydx.exchange",
+        "dydx-exchange",
+        "dydx"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "edgex",
+      "category": "dex",
+      "logo_path": "logos/dex/edgex.png",
+      "keywords": [
+        "edgex"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "integral-link",
+      "category": "dex",
+      "logo_path": "logos/dex/integral-link.png",
+      "keywords": [
+        "integral.link",
+        "integral-link"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mstable",
+      "category": "dex",
+      "logo_path": "logos/dex/mstable.png",
+      "keywords": [
+        "mstable"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "stusdt-io",
+      "category": "dex",
+      "logo_path": "logos/dex/stusdt-io.png",
+      "keywords": [
+        "stusdt.io",
+        "stusdt"
       ],
       "product_aliases": [],
       "sanctioned": false
