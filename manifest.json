@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-05-03T12:10:54+00:00",
+  "generated_at": "2026-05-03T12:44:18+00:00",
   "entries": [
     {
       "slug": "uniswap",
@@ -653,6 +653,16 @@
       "sanctioned": false
     },
     {
+      "slug": "free",
+      "category": "bridge",
+      "logo_path": "logos/bridge/free.png",
+      "keywords": [
+        "free"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "kraken-bitcoin",
       "category": "bridge",
       "logo_path": "logos/bridge/kraken-bitcoin.png",
@@ -704,6 +714,17 @@
         "mantle bridge",
         "mantle-bridge",
         "mantle"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "marinade-native",
+      "category": "mining",
+      "logo_path": "logos/mining/marinade-native.png",
+      "keywords": [
+        "marinade native",
+        "marinade-native"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -1169,6 +1190,17 @@
       "sanctioned": false
     },
     {
+      "slug": "marinade-select",
+      "category": "mining",
+      "logo_path": "logos/mining/marinade-select.png",
+      "keywords": [
+        "marinade select",
+        "marinade-select"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "swell-l2-farm",
       "category": "defi",
       "logo_path": "logos/defi/swell-l2-farm.png",
@@ -1561,6 +1593,16 @@
       "keywords": [
         "kinetiq earn",
         "kinetiq-earn"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "poly",
+      "category": "bridge",
+      "logo_path": "logos/bridge/poly.png",
+      "keywords": [
+        "poly"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -2251,6 +2293,16 @@
       "sanctioned": false
     },
     {
+      "slug": "joe",
+      "category": "dex",
+      "logo_path": "logos/dex/joe.png",
+      "keywords": [
+        "joe"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "arbitrum-nova-bridge",
       "category": "bridge",
       "logo_path": "logos/bridge/arbitrum-nova-bridge.png",
@@ -2314,6 +2366,16 @@
       "sanctioned": false
     },
     {
+      "slug": "qearn",
+      "category": "mining",
+      "logo_path": "logos/mining/qearn.png",
+      "keywords": [
+        "qearn"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "camelot",
       "category": "dex",
       "logo_path": "logos/dex/camelot.png",
@@ -2341,6 +2403,16 @@
       "keywords": [
         "hylo lsts",
         "hylo-lsts"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dano",
+      "category": "dex",
+      "logo_path": "logos/dex/dano.png",
+      "keywords": [
+        "dano"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -4265,6 +4337,18 @@
       "sanctioned": false
     },
     {
+      "slug": "bungee-exchange",
+      "category": "dex",
+      "logo_path": "logos/dex/bungee-exchange.png",
+      "keywords": [
+        "bungee exchange",
+        "bungee-exchange",
+        "bungee"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "magpiexyz-io",
       "category": "dex",
       "logo_path": "logos/dex/magpiexyz-io.png",
@@ -4913,6 +4997,17 @@
       "keywords": [
         "arbitrum.io",
         "arbitrum"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cow-swap-cow-protocol",
+      "category": "bridge",
+      "logo_path": "logos/bridge/cow-swap-cow-protocol.png",
+      "keywords": [
+        "cow",
+        "cow-swap-cow"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -5571,6 +5666,17 @@
       "sanctioned": false
     },
     {
+      "slug": "boringdao-com",
+      "category": "bridge",
+      "logo_path": "logos/bridge/boringdao-com.png",
+      "keywords": [
+        "boringdao.com",
+        "boringdao"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "evodefi-com",
       "category": "bridge",
       "logo_path": "logos/bridge/evodefi-com.png",
@@ -6009,6 +6115,16 @@
       "sanctioned": false
     },
     {
+      "slug": "fjordfoundry",
+      "category": "dex",
+      "logo_path": "logos/dex/fjordfoundry.png",
+      "keywords": [
+        "fjordfoundry"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "four-meme",
       "category": "dex",
       "logo_path": "logos/dex/four-meme.png",
@@ -6277,6 +6393,17 @@
       "logo_path": "logos/dex/sophon.png",
       "keywords": [
         "sophon"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "super-form",
+      "category": "dex",
+      "logo_path": "logos/dex/super-form.png",
+      "keywords": [
+        "super form",
+        "super-form"
       ],
       "product_aliases": [],
       "sanctioned": false
