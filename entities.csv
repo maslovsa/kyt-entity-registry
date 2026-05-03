@@ -28,15 +28,15 @@ GriffinAI,hack,100,96,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLY
 "HECO Bridge, HTX - REKT",hack,100,64,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,heco-bridge-htx-rekt,,,,manual,2026-05-03,true,5cb02fc452d7b89df07c0e4ccb20aee93d76c8faa127064a537eadf1849eac35
 Harmony Bridge - REKT,hack,100,40,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,harmony-bridge-rekt,,,,arkham,2026-04-22,false,b6d7154324ffaaef8aa9a87a340ee15e7aca2c56c2c3f94998016fae8b4c0525
 Hedgey Finance,hack,100,40,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,hedgey-finance,,,,arkham,2026-04-22,false,4af7a3c311020b515caec9391281dccdbde29199d77e01ce55e8d73d4f1abd11
-Hope Finance - REKT,hack,100,32,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,hope-finance-rekt,,,,placeholder,2026-04-23,false,cba2e3427362ca4b324798beb07feb71087ad13f8b2194d1fc4e110f23d84bb8
+Hope Finance - REKT,hack,100,32,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,hope-finance-rekt,,,,manual,2026-05-03,true,d99c1b20c67702f1ba33eabaab7d61214211ccdbc4c0f17f4813f92e691f433f
 Hyperbridge,hack,100,64,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,hyperbridge,,,,manual,2026-05-03,true,ab5fc89a213d80f8b2ef92b34227615031b824edf20f9176bbb3d4ade46befda
 Indodax,hack,100,42,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON|TRON,hack-attributions,indodax,,,,arkham,2026-04-22,false,8205deca0ebae5151aba059c5718f96bfa19db4b118b252fda6864c8f28e21fb
 Infini,hack,100,32,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,infini,,,,arkham,2026-04-22,false,220ea5f8f8b6d68b5289e93582d6b4722ce5f5dd36c0ae660554f8553bc5f9cd
 IoTeX,hack,100,80,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,iotex,,,,arkham,2026-04-22,false,95e7a6b29f62326a58f0f4a4a85ddf304452688868f45a1111e4f4de1172ce99
-JayPegs Automart - REKT,hack,100,32,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,jaypegs-automart-rekt,,,,placeholder,2026-04-23,false,cba2e3427362ca4b324798beb07feb71087ad13f8b2194d1fc4e110f23d84bb8
+JayPegs Automart - REKT,hack,100,32,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,jaypegs-automart-rekt,,,,manual,2026-05-03,true,b3c116ba259d2010d9170b38c801ea5cde90c60bfd4b8ca248c658dc8bb570be
 Kokomo Finance - REKT,hack,100,72,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,kokomo-finance-rekt,,,,manual,2026-05-03,true,b0e28e86b6c06124028e84232146374df0ff952eceb63ca0748bc35ad8b56650
 Makina,hack,100,48,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,makina,,,,manual,2026-05-03,true,0226e4f52742125fab016edd28ea4f4c6730d1f34e94ca494f6d3445b8068a83
-Meerkat Finance - BSC - REKT,hack,100,32,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,meerkat-finance-bsc-rekt,,,,placeholder,2026-04-23,false,cba2e3427362ca4b324798beb07feb71087ad13f8b2194d1fc4e110f23d84bb8
+Meerkat Finance - BSC - REKT,hack,100,32,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,meerkat-finance-bsc-rekt,,,,manual,2026-05-03,true,9ff71a62bbc491bc432a6fc6b0c3060ffda84d299ece89da149c9cd83bc71383
 MonoX - REKT,hack,100,32,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,monox-rekt,,,,manual,2026-05-03,true,26acbfc6bc2ee1cfacff9a49a28a5fee3b89a66462457f6d98b378876d40c73c
 Munchables - REKT,hack,100,56,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,munchables-rekt,,,,arkham,2026-04-22,false,8dfd75690950c26a6bb8f630899a06fdee6f157158a4f5a8dff04aba9e7a7c39
 Nomad Bridge - REKT,hack,100,40,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,nomad-bridge-rekt,,,,arkham,2026-04-22,false,8cad4bc90d8099bc06b18cf3e9fe9f87bcc6ebce2256ffd7c6b05f615d947b58
@@ -52,10 +52,10 @@ Safemoon - REKT,hack,100,32,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMIS
 Seneca Protocol - REKT,hack,100,104,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,seneca-protocol-rekt,,,,arkham,2026-04-22,false,f902e32532b839e0aae451462a380e2f87c92c00ad5fdc6d1ef399414d4cac45
 Solv,hack,100,48,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,solv,,,,arkham,2026-04-22,false,2ff001c9c30bcbffa0e85f3bc779d533698efbdd500de4a5d23a00013ce9ec12
 Sonne Finance,hack,100,40,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,sonne-finance,,,,arkham,2026-04-22,false,e26441b234c554575d42ca75275f9a0994ca0b6b6dd517055ec8b3e577359619
-StableMagnet - REKT,hack,100,48,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,stablemagnet-rekt,,,,placeholder,2026-04-23,false,cba2e3427362ca4b324798beb07feb71087ad13f8b2194d1fc4e110f23d84bb8
+StableMagnet - REKT,hack,100,48,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,stablemagnet-rekt,,,,manual,2026-05-03,true,3bdb02d44881f5f2e4cef34a28e83ee8696941f4e966bcaa9f3d05e8a15cee43
 Stake - REKT,hack,100,48,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,stake-rekt,,,,arkham,2026-04-22,false,5ce577995354d24974b2cb4d6ec119f13ce93cfec189c5eb23f317344d821777
 Swaprum - REKT,hack,100,32,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,swaprum-rekt,,,,manual,2026-05-03,true,81837fdc95c7c79a1f48605825a3828b0357770568dae2f66a61d511b893a462
-TMXTribe,hack,100,32,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,tmxtribe,,,,placeholder,2026-04-23,false,cba2e3427362ca4b324798beb07feb71087ad13f8b2194d1fc4e110f23d84bb8
+TMXTribe,hack,100,32,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,tmxtribe,,,,manual,2026-05-03,true,da3d6d76c6235be63c230006b7976d3e66561efc56e8f7b594eb1e25fb9106a1
 Tapioca DAO,hack,100,32,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,tapioca-dao,,,,placeholder,2026-04-23,false,cba2e3427362ca4b324798beb07feb71087ad13f8b2194d1fc4e110f23d84bb8
 Tornado Cash Governance - REKT,hack,100,32,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,tornado-cash-governance-rekt,,,,arkham,2026-04-22,false,76cacc7efbe2c9fbb172aaf6a606e15564df0545a15532a34d4db85e74e78e25
 Truebit,hack,100,48,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,truebit,,,,arkham,2026-04-22,false,805bf83075476c7c95a8cdaee3a22075e07e8436357271dbca4865b7987f590f
@@ -68,7 +68,7 @@ Warp Finance - REKT,hack,100,80,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPT
 WazirX,hack,100,48,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,wazirx,,,,arkham,2026-04-22,false,7f36a2aa7aedeaea1d3d165f686645595c103ace8358a192b768a4f29d2abf87
 Wintermute - REKT 2,hack,100,56,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,wintermute-rekt-2,,,,arkham,2026-04-22,false,4284306f8b1ade87929d6648e936bf71d8447136fac6751cb1c5f1faaee5c65b
 Woo X,hack,100,50,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON|TRON,hack-attributions,woo-x,,,,manual,2026-05-03,true,9a0a1a2cb44663a13974d0e7a816d77c0808f47a1bebbb5005de08d4fed298f0
-Yieldblox,hack,100,48,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,yieldblox,,,,placeholder,2026-04-23,false,cba2e3427362ca4b324798beb07feb71087ad13f8b2194d1fc4e110f23d84bb8
+Yieldblox,hack,100,48,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,yieldblox,,,,manual,2026-05-03,true,5f43bd9f294427c503ee83361fce74f88fb471550cd92fec72beea57bb137945
 bZx - REKT,hack,100,32,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bzx-rekt,,,,arkham,2026-04-22,false,e635b45c0009fb07d0b9b4c6369274fd4ed6d2fff6e5a66c95686cf6fff82187
 zkLend,hack,100,56,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,zklend,,,,arkham,2026-04-22,false,a8a7465e762cdeb42bd2ea39597e938211914c9b72c51bd327b61bb873c2883c
 OFAC SDN,sanctioned,100,928,100,100,ARBITRUM|BSC|BTC|ETH|TRON,ofac-sdn,ofac-sdn,,,,manual,2026-04-23,true,5d913ef04edfed35dfc6c0d643b8636827fb35778f35b262faa5c31f578f0a33
@@ -538,27 +538,27 @@ ScoreChain,gambling,99.3,60,85,50,BSC|ETH|TRON,scorechain-verdicts,scorechain,,,
 Okx Dex,dex,99.1,58,85,10,BSC|ETH|TRON,scorechain-counterparties,okx-dex,okx.com,"okx dex,okx-dex,okx,okb",,arkham,2026-04-22,false,cde8c785797bd89e5afa1ade97c68980a0fdced1c554ad9f7ab02e8e1bdd2bcf
 PancakeSwap,dex,99.0,57,85,10,BSC|ETH,scorechain-counterparties,pancakeswap,,pancakeswap,,arkham,2026-04-22,false,e2750fa034f9417920fe9cfca0fcc002215069368ba1bbc2771761a934b2c74e
 Abracadabra - REKT,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,abracadabra-rekt,,,,manual,2026-05-03,true,61d6b847c1b69d4bde7f140c5318d04375512053cb966cfab7e1343e618924ad
-AlexLab,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,alexlab,,,,placeholder,2026-04-23,false,cba2e3427362ca4b324798beb07feb71087ad13f8b2194d1fc4e110f23d84bb8
-Arbix Finance - REKT,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,arbix-finance-rekt,,,,placeholder,2026-04-23,false,cba2e3427362ca4b324798beb07feb71087ad13f8b2194d1fc4e110f23d84bb8
+AlexLab,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,alexlab,,,,manual,2026-05-03,true,f4604eb3e3eb3d12a2d7b014c1f42b701fe12343149abcbc41ed270c00273650
+Arbix Finance - REKT,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,arbix-finance-rekt,,,,manual,2026-05-03,true,54a92447bd238b5367644604b3f38132a5f7fafab394273724e513ad6f3387a9
 Conic Finance - REKT,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,conic-finance-rekt,,,,arkham,2026-04-22,false,7bbe9971a445f34d2c613f7f4faab6a6d53c10f9bcc594a7d0d019bdf5335105
 Cover - REKT,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,cover-rekt,,,,arkham,2026-04-22,false,e368774a6f110cfc36da31853c1f15c5601b2b10fe188aa8eea792588fd648f1
 Cream Finance - REKT,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,cream-finance-rekt,,,,arkham,2026-04-22,false,c1084ddcd4209a4bdd7a98ab44c5d81f574de7229f38cf0f4e53ec409ae7ede9
 Cream Finance - REKT 2,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,cream-finance-rekt-2,,,,arkham,2026-04-22,false,c1084ddcd4209a4bdd7a98ab44c5d81f574de7229f38cf0f4e53ec409ae7ede9
 "Curve, Vyper - REKT",hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,curve-vyper-rekt,,,,manual,2026-05-03,true,fd4089b7bf6e4b39b97e1cb646e197dd7a02dd41874854f98268e2ae85d8d2a6
-DeFiLabs - REKT,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,defilabs-rekt,,,,placeholder,2026-04-23,false,cba2e3427362ca4b324798beb07feb71087ad13f8b2194d1fc4e110f23d84bb8
+DeFiLabs - REKT,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,defilabs-rekt,,,,manual,2026-05-03,true,fd10e155eb1cdf360ced9484da45fed542dfda4b0b1373d7a572dc4cb8569948
 Deus DAO - REKT,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,deus-dao-rekt,,,,manual,2026-05-03,true,1b2977e0c3d065221e2497457d7562cda7f5027eb4009522c913f9d94f88edfd
 Force Bridge,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,force-bridge,,,,placeholder,2026-04-23,false,cba2e3427362ca4b324798beb07feb71087ad13f8b2194d1fc4e110f23d84bb8
 Furucombo - REKT,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,furucombo-rekt,,,,arkham,2026-04-22,false,95cd88efb563bfa8a495a0586615eb1969943e95f07b6052b49e2c9cd706b35f
 Ionic Money,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,ionic-money,,,,arkham,2026-04-22,false,cfbbb6ae5261c45877379d76227e16dc831150e9d922d418397ed7892dc6c8a4
 KiloEx,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,kiloex,,,,arkham,2026-04-22,false,f2e24cd39ce848b87f1812dab2613003cef32c5c4153259408f55b49f908e835
 KyberSwap - REKT,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,kyberswap-rekt,,,,manual,2026-05-03,true,b84beb942790a3c3d061d1b55ad0595e11123a1f97a2a393e00001f27bff3253
-Levyathan - REKT,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,levyathan-rekt,,,,placeholder,2026-04-23,false,cba2e3427362ca4b324798beb07feb71087ad13f8b2194d1fc4e110f23d84bb8
+Levyathan - REKT,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,levyathan-rekt,,,,manual,2026-05-03,true,82b1b24adf5219d4c0f2e82c650289e145072eca32a91ec7c1bcc9bf65552d6f
 LiFi/Jumper,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,lifi-jumper,,,,manual,2026-05-03,true,b70154c51505ed9002d43a421d54c9d21f1b1590477ac45ffae3ffa512b87ee3
 Lodestar Finance - REKT,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,lodestar-finance-rekt,,,,arkham,2026-04-22,false,a3d41935b6852229b30c811ad6457f2b872c95d7a369784c2dd56a82a76d3bb4
 M2 Exchange,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,m2-exchange,,,,arkham,2026-04-22,false,3544f5c02d7cca4b21a867e7a7ae0199002c46090b543d07bc5bccb904e7ac2c
 Mixin Network - REKT,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,mixin-network-rekt,,,,arkham,2026-04-22,false,a80ad6b690afc5c7121ce11c4810c93110c5bdda8632d2a2688c431999c9ebe5
 Pike Finance,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,pike-finance,,,,arkham,2026-04-22,false,e498d15f415bab61defaaaf1ac6ec90d864dab07436d0ed6e0181ce4cfb213f5
-Punk Protocol - REKT,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,punk-protocol-rekt,,,,placeholder,2026-04-23,false,cba2e3427362ca4b324798beb07feb71087ad13f8b2194d1fc4e110f23d84bb8
+Punk Protocol - REKT,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,punk-protocol-rekt,,,,manual,2026-05-03,true,1d9905c3e6fe11a56c8529ce14617be63958995bd07fda5fed85cb439cc3cb24
 SBI Crypto,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,sbi-crypto,,,,placeholder,2026-04-23,false,cba2e3427362ca4b324798beb07feb71087ad13f8b2194d1fc4e110f23d84bb8
 Saga,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,saga,,,,manual,2026-05-03,true,bf38363bd41bfb530ff60241f00924f7ac503d6f241c3424ea3d2a4e54f5d8c7
 Steadefi - REKT,hack,98.5,24,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,steadefi-rekt,,,,manual,2026-05-03,true,9cb0cef999feae43cbb9c01c4a522c2761a6469eff37505e97692305a7319174
@@ -623,7 +623,7 @@ Orion Protocol - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|
 Platypus Finance - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,platypus-finance-rekt,,,,arkham,2026-04-22,false,ef03cf4785401a9efcb024297656d2c5437009674e1b8dbcad9b931640d4712e
 ResupplyFi,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,resupplyfi,,,,manual,2026-05-03,true,aa8b75f303e14d96d98dcc52979aecfa7a8c70470caf461dfa8284f8609e848e
 Shibarium,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,shibarium,,,,placeholder,2026-04-23,false,cba2e3427362ca4b324798beb07feb71087ad13f8b2194d1fc4e110f23d84bb8
-Shibarium Bridge - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,shibarium-bridge-rekt,,,,placeholder,2026-04-23,false,cba2e3427362ca4b324798beb07feb71087ad13f8b2194d1fc4e110f23d84bb8
+Shibarium Bridge - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,shibarium-bridge-rekt,,,,manual,2026-05-03,true,5d8f2fa450ff3e1c4f79b2c1ae8f1ac492f2ade071e15e914290dbccaab3cc4c
 Snowdog - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,snowdog-rekt,,,,arkham,2026-04-22,false,9937b5ecde937298ea81a5fe3320c623673c25d6f6f60e12cae67e1f0693518e
 Visor Finance - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,visor-finance-rekt,,,,arkham,2026-04-22,false,6599a9356e1556b3797ba6960e90dd4f9f768e5925b1d8a483a3e972e59d2b97
 Vulcan Forged - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,vulcan-forged-rekt,,,,arkham,2026-04-22,false,4ca5ec875279196b68264a5ffee279e8d2c6d6b375d76ec19c2f8a90056b9988
@@ -642,7 +642,7 @@ Bitopro.com,exchange,95.3,32,85,5,BSC|ETH|TRON,scorechain-counterparties,bitopro
 Shuffle.com,gambling,95.3,32,85,50,BSC|ETH|TRON,scorechain-counterparties,shuffle-com,shuffle.com,shuffle,,arkham,2026-04-22,false,f18b7e8e5948b3c2747846b302aa2772a205e97d4c281836082b138925e2695b
 ChangeNOW.io,exchange,95.2,,85,5,BSC|ETH|TRON,scorechain-counterparties,changenow-io,changenow.io,changenow,,manual,2026-04-29,true,638e237186d742b4d69a0503e18c0c4c8d0c1079e7cd418242ee5116bd992a77
 Coinone,exchange,95.2,,85,5,BSC|ETH|TRON,scorechain-counterparties,coinone-kr,coinone.co.kr,coinone,,manual,2026-04-29,true,40126a53adb90588585c9067da6c165f4b84f6db910dfe274eccf7603a35d613
-Coins Philippines,exchange,95.1,31,85,5,BSC|ETH|TRON,scorechain-counterparties,coins-philippines,,,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Coins Philippines,exchange,95.1,31,85,5,BSC|ETH|TRON,scorechain-counterparties,coins-philippines,,,,manual,2026-05-03,true,20ea5514358a71513a685f71860ccece32c967d7dc2128ad45443c2d8cf4a08a
 Noones.com,exchange,95.1,31,85,5,BSC|ETH|TRON,scorechain-counterparties,noones-com,noones.com,noones,,arkham,2026-04-22,false,69c2d7673dd00426cf8f629740d26c1d8cb324914c86f0cd5f6180f508985f93
 Remitano.com,exchange,95.1,31,85,5,BSC|ETH|TRON,scorechain-counterparties,remitano-com,remitano.com,remitano,,arkham,2026-04-22,false,0aa4d19c8e638461cf9de037b8d3414a1c75d7644fe43180c057969f7eb469c2
 MetaMask,wallet,95.0,,85,15,BSC|ETH|TRON,scorechain-counterparties,metamask,metamask.io,metamask,,manual,2026-04-29,true,d1b2e37db4e8302bfbb04e2d0bbefa941fbd176a56272eb0fdc91255b01cd52d
@@ -660,7 +660,7 @@ StealthEX.io,exchange,94.5,,85,5,BSC|ETH|TRON,scorechain-counterparties,stealthe
 TronLink,wallet,94.5,,85,15,BSC|ETH|TRON,scorechain-counterparties,tronlink,tronlink.org,tronlink,,manual,2026-04-29,true,f122305fcf920a8470d7530ffbb818ec0af9ad04e728cf75eada5dd9e3fa0357
 Cropty,wallet,94.5,,85,15,BSC|ETH|TRON,scorechain-counterparties,cropty-io,cropty.io,cropty,,manual,2026-04-29,true,10e658fea89b4c95c770085eb5fc30b0dc81437de60d7214d5d12019ada0cb4f
 Bithumb.com,exchange,94.4,28,85,5,BSC|ETH|TRON,scorechain-counterparties,bithumb-com,bithumb.com,bithumb,,arkham,2026-04-22,false,28178fddb4b0e05fcd34a867f8d7740806224e7fa8a642e69416a836619c8934
-MaiCoinMAX - MAX Exchange,exchange,94.4,28,85,5,BSC|ETH|TRON,scorechain-counterparties,maicoinmax-max-exchange,,,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+MaiCoinMAX - MAX Exchange,exchange,94.4,28,85,5,BSC|ETH|TRON,scorechain-counterparties,maicoinmax-max-exchange,,,,manual,2026-05-03,true,2c8fdcf08876c7fcb72805973c013872a9445e4c08347d2dcb8904fbda171121
 MaiCoin MAX,exchange,94.3,,85,5,BSC|ETH|TRON,scorechain-counterparties,maicoin-max,max.maicoin.com,"maicoin,max exchange",,manual,2026-04-29,true,b4dd9f454729b5d8e9b2769aa1fddd2dfe4b1db7c584514be5b52d05c1696c5c
 BtcTurk.com,exchange,94.2,27,85,5,ETH|TRON,scorechain-counterparties,btcturk-com,btcturk.com,btcturk,,arkham,2026-04-22,false,a776abe586b491a4c4de662f0a7ffcd9ad471a65d0dc64d21c11126ec43b4582
 ScoreChain,exchange,94.2,27,85,5,BSC|ETH|TRON,scorechain-verdicts,scorechain,,,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
@@ -721,7 +721,7 @@ hyperpay.tech,exchange,92.3,20,85,5,BSC|ETH|TRON,scorechain-counterparties,hyper
 Bitpin.ir,exchange,92.0,19,85,5,BSC|ETH|TRON,scorechain-counterparties,bitpin-ir,bitpin.ir,"bitpin,bitpin.ir",,manual,2026-04-30,true,37fc27ceebda46fcdde9bdf0d4c9a7d6034db1c190c36a3a717149a6ac4b087b
 Bitrue.com,exchange,92.0,19,85,5,BSC|ETH|TRON,scorechain-counterparties,bitrue-com,bitrue.com,bitrue,,arkham,2026-04-22,false,9521c1f7865b792e8d19d21136be538dbd2fdd14dead6a9b1142d048193e021b
 Yibifu,exchange,92.0,19,85,5,TRON,scorechain-counterparties,yibifu,,,,arkham,2026-04-22,false,2d60e00847025a26a6e1aa71685e05e49693fb9c69b61bfdea36e82b72c274ad
-FulgurPay.com,psp,92.0,19,85,15,BSC|ETH|TRON,scorechain-counterparties,fulgurpay-com,fulgurpay.com,,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+FulgurPay.com,psp,92.0,19,85,15,BSC|ETH|TRON,scorechain-counterparties,fulgurpay-com,fulgurpay.com,,,manual,2026-05-03,true,11d85f81f90068f122079d979fc9b9490e5cf4e524a68412db5dcf71dc3852b8
 Bitspark.io,exchange,92.0,,85,5,BSC|ETH|TRON,scorechain-counterparties,bitspark-io,bitspark.io,bitspark,,manual,2026-04-29,true,805d038ce6fb9476376042647b2436baaf56cc4d629703f63b1e8998a4e91341
 Liquid.com,exchange,92.0,,85,5,BSC|ETH|TRON,scorechain-counterparties,liquid-com,liquid.com,liquid,,manual,2026-04-29,true,b8e1fe839e1310317234afd9c12a75a64a8627a886af4862db715676d58e69df
 Akropolis - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,akropolis-rekt,,,,arkham,2026-04-22,false,132d00b8f8cb3887eb1acf9245811f4752d5bc474f04a089d0cf9352be8fa702
@@ -730,8 +730,8 @@ Anyswap - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM
 Ascendex - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,ascendex-rekt,,,,arkham,2026-04-22,false,abcc7254d78f3305c20bdba03298fb1fb4e8db9ad7c00ec0d229fe9e79c5cc75
 Astroport,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,astroport,,,,arkham,2026-04-22,false,598c8ef1a4806cecd8e204466d836fc4df803749f988a5c318dfd46eb9105731
 Atlantis Loans - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,atlantis-loans-rekt,,,,arkham,2026-04-22,false,018320a55ebb946c1f483f8877e945d6a562007c069292a04f4e3043bae39405
-BALD on Base - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bald-on-base-rekt,,,,placeholder,2026-04-23,false,cba2e3427362ca4b324798beb07feb71087ad13f8b2194d1fc4e110f23d84bb8
-BNB Bridge - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bnb-bridge-rekt,,,,placeholder,2026-04-23,false,cba2e3427362ca4b324798beb07feb71087ad13f8b2194d1fc4e110f23d84bb8
+BALD on Base - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bald-on-base-rekt,,,,manual,2026-05-03,true,763cec0b4235a1d267f7c2f11258d025dffe82c1b3f21f208b7824c6cf7f2692
+BNB Bridge - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bnb-bridge-rekt,,,,manual,2026-05-03,true,1fde53c836e892e96fe0170cec750ab1d1d133b24a99ad00d80677c4432383ae
 Bedrock,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bedrock,,,,arkham,2026-04-22,false,732c4280f31046805c5a46858521ba545b4614dd530d64efe8e7aa8813ec120d
 "Blizz Finance, Venus Protocol - REKT",hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,blizz-finance-venus-protocol-rekt,,,,arkham,2026-04-22,false,c7935427697df0ff4e04c59d1aba384a783e19dd8f54f096213916c3e73cf6be
 ByBit,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bybit,,,,arkham,2026-04-22,false,e6479c149aa1b80a8cf05072c5f28ec28575d3c9f5ba4527e378d8f2d064835f
@@ -749,7 +749,7 @@ EraLend - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM
 Gala Games,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,gala-games,,,,arkham,2026-04-22,false,a9c8827f218d0a0ec034bf4bced83e1637788698c27f11d7f653e25e203cceea
 Gamma Strategies - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,gamma-strategies-rekt,,,,arkham,2026-04-22,false,46db5fc31e752d2b1e2136b351a944d2ea1a85aa59e4c181d93c0e1fa5227a00
 Grim Finance - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,grim-finance-rekt,,,,arkham,2026-04-22,false,296efc6fb112e93fbe7722dcb59382f2301f96f34853afa64dcbe1f1210aabd8
-Hacken,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,hacken,,,,placeholder,2026-04-23,false,cba2e3427362ca4b324798beb07feb71087ad13f8b2194d1fc4e110f23d84bb8
+Hacken,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,hacken,,,,manual,2026-05-03,true,2ec1dbd9932f7e34ec41eecd1c8ed8a47e4f754a68bb44863db00ceddcdf9d39
 Hedera - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,hedera-rekt,,,,manual,2026-05-03,true,ae623362a2b9f09ac45960f68d8f3194916515ae9c9ddc95a724c295e7576006
 Hypr Network - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,hypr-network-rekt,,,,arkham,2026-04-22,false,3889dfa915f4ffde0df78a0cf35ecde4814c753259e5f281c3f36dc6c75eb6a6
 Indexed Finance - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,indexed-finance-rekt,,,,arkham,2026-04-22,false,e75640a0284fa961599b76dcc48409a9aff05b9943f48b3c7c23d3b61297227c
@@ -759,18 +759,18 @@ Merlin DEX - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIM
 Merlin Labs - R3KT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,merlin-labs-r3kt,,,,manual,2026-05-03,true,e25a55c0e122e78a8f3bfb9db72e24e03bf859c6ea097ceff033437383676964
 Merlin Labs - REKT 2,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,merlin-labs-rekt-2,,,,manual,2026-05-03,true,e25a55c0e122e78a8f3bfb9db72e24e03bf859c6ea097ceff033437383676964
 MobiusDAO,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,mobiusdao,,,,manual,2026-05-03,true,ce8eb136cb1ea7221eddd04673fd84b980bac8640da3bad4c8027ae44753382e
-New Gold Protocol,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,new-gold-protocol,,,,placeholder,2026-04-23,false,cba2e3427362ca4b324798beb07feb71087ad13f8b2194d1fc4e110f23d84bb8
+New Gold Protocol,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,new-gold-protocol,,,,manual,2026-05-03,true,21775cfd93f56946e0388a7570b2423130cbc698f80f4df01895f0554c1af065
 Nirvana Finance - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,nirvana-finance-rekt,,,,arkham,2026-04-22,false,b7ad57353998ff6ad66e16d458da5d6bc8666186a59505060595011710a5bf8e
 Orbit Bridge - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,orbit-bridge-rekt,,,,arkham,2026-04-22,false,f18acc393d58a0e25b8767efcd58e51f27201039360c857fea95c56f14c4a25f
 Paid Network - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,paid-network-rekt,,,,arkham,2026-04-22,false,3b82f9c36143f2c6e96213edf7ea7269ed4a91782df407102bf6710233dd59cf
-PancakeBunny - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,pancakebunny-rekt,,,,placeholder,2026-04-23,false,cba2e3427362ca4b324798beb07feb71087ad13f8b2194d1fc4e110f23d84bb8
-PancakeBunny - REKT 2,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,pancakebunny-rekt-2,,,,placeholder,2026-04-23,false,cba2e3427362ca4b324798beb07feb71087ad13f8b2194d1fc4e110f23d84bb8
+PancakeBunny - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,pancakebunny-rekt,,,,manual,2026-05-03,true,f22f66afe94e1f89522b5e341059ef38d54f0eb00389f6dce488751d6d762072
+PancakeBunny - REKT 2,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,pancakebunny-rekt-2,,,,manual,2026-05-03,true,f22f66afe94e1f89522b5e341059ef38d54f0eb00389f6dce488751d6d762072
 Raft - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,raft-rekt,,,,manual,2026-05-03,true,da672c5b0e3c48ff340d7bf003052bc55a0ade1d6149ba113a31b119c5a7bc53
 Raydium - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,raydium-rekt,,,,arkham,2026-04-22,false,74777880d114e4cad08f1a81e6e8be42adda4303167f489feea342e20a906ece
 Revest Finance - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,revest-finance-rekt,,,,arkham,2026-04-22,false,1d7924dd3f8f51eae2679623de0242d16fb6dece33eddfd0a82c436ca9e76299
 Rhea Finance,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,rhea-finance,,,,manual,2026-05-03,true,b9344d68fcb51b5eef3ba3b517a8062712378dacd5b56068521bd349de0ee7fb
 RocketSwap - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,rocketswap-rekt,,,,arkham,2026-04-22,false,b7eab73b82e0231a45c869a5753a69f3925e4223cac7084344185a74fa353ecf
-Roll - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,roll-rekt,,,,placeholder,2026-04-23,false,cba2e3427362ca4b324798beb07feb71087ad13f8b2194d1fc4e110f23d84bb8
+Roll - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,roll-rekt,,,,manual,2026-05-03,true,ec2aeafb2d8fa71e0b17e8608731d3dbcb6cdaca55eb5dc8f2fdb913eff5bd33
 Ronin Network - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,ronin-network-rekt,,,,arkham,2026-04-22,false,5e6ec54af1ed4ea0e95bb5b6fcd2ebf4020dd5c2a8738bb0abab443e4e167d89
 SafeDollar - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,safedollar-rekt,,,,arkham,2026-04-22,false,bd030ebb472eb132c6df204673329bcbaa7ba13c8d76ab092e31449b79dd8d63
 Sovryn - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,sovryn-rekt,,,,arkham,2026-04-22,false,c2cc0d0c4e4e9bab0abbf8a2a8138c7e9621132f48c880f7aebb69e454f8dfa0
@@ -910,7 +910,7 @@ WOOFi,dex,86.0,7,85,10,BSC|ETH,scorechain-counterparties,woofi,,woofi,,arkham,20
 Big.one,exchange,86.0,7,85,5,BSC|ETH|TRON,scorechain-counterparties,big-one,big.one,,,arkham,2026-04-22,false,c80def130d955087e26c7ce7c9970aa09971773d4bab313c11d8d8fd4b29da8f
 Bololex.com,exchange,86.0,7,85,5,BSC|ETH|TRON,scorechain-counterparties,bololex-com,bololex.com,,,arkham,2026-04-22,false,fb913cc5a27aa6e10015337dfd4334dd7ec0e58442005850f58849e216352649
 Icrypex.com,exchange,86.0,7,85,5,ETH|TRON,scorechain-counterparties,icrypex-com,icrypex.com,,,favicon,2026-04-22,false,5039009020205b5a2c957bc90749e63a22dab6af03ec1fb2a36b1928718da2b2
-Jucoin,exchange,86.0,7,85,5,TRON,scorechain-counterparties,jucoin,,,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Jucoin,exchange,86.0,7,85,5,TRON,scorechain-counterparties,jucoin,,,,manual,2026-05-03,true,4457dcd4115051b1be2b7f72ac4a067d1ca056835aaf730b69a0409b180f64e0
 Newton.co,exchange,86.0,7,85,5,ETH,scorechain-counterparties,newton-co,newton.co,,,arkham,2026-04-22,false,23ecd41070bde57f8e2ef9285d2884e25f403d71a93cbba03d39eb6791c08642
 OSL.com,exchange,86.0,7,85,5,ETH|TRON,scorechain-counterparties,osl-com,osl.com,osl,,arkham,2026-04-22,false,cd7c00a5fa003f9f6f19eb9daec38ccfe5deeeeaa85c399c45058dd59be0a5dd
 SuperEX.com,exchange,86.0,7,85,5,ETH|TRON,scorechain-counterparties,superex-com,superex.com,,,arkham,2026-04-22,false,7f001829e94665754f3fbe790b44737b6d0cce0100cba8c3880f181c7265eb6d
@@ -945,7 +945,7 @@ SwissBorg.com,exchange,85.2,6,85,5,BSC|ETH,scorechain-counterparties,swissborg-c
 Xrex,exchange,85.2,6,85,5,TRON,scorechain-counterparties,xrex,,,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 bitglobal.com,exchange,85.2,6,85,5,BSC|ETH,scorechain-counterparties,bitglobal-com,bitglobal.com,,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Bitharvest,mining,85.2,6,85,5,BSC|TRON,scorechain-counterparties,bitharvest,,bitharvest,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
-Commerce Coinbase,psp,85.2,6,85,15,ETH,scorechain-counterparties,commerce-coinbase,,,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Commerce Coinbase,psp,85.2,6,85,15,ETH,scorechain-counterparties,commerce-coinbase,,,,manual,2026-05-03,true,6bf43000595b21d6afcebe9c16a8b0046abac252afeaa92e619d15a6d8a693e9
 Upay,psp,85.2,6,85,15,TRON,scorechain-counterparties,upay,,upay,,manual,2026-04-23,true,420b66cd669433808b68d2e8f3e7a7fb4f4f4e096f08a294b24a608f572720c1
 biyapay,wallet,85.2,6,85,5,TRON,scorechain-counterparties,biyapay,,,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Crypto Exchanger Bot,bot,84.2,5,85,20,TRON,scorechain-counterparties,crypto-exchanger-bot,,,,arkham,2026-04-22,false,8f95daaa88037905e181fa1834d35b32a12c543ff5980d28bc5a5fa0a8664c6d
@@ -974,12 +974,12 @@ Coinsbit.io,exchange,84.2,5,85,5,BSC|ETH|TRON,scorechain-counterparties,coinsbit
 Deribit.com,exchange,84.2,5,85,5,ETH,scorechain-counterparties,deribit-com,deribit.com,deribit,,arkham,2026-04-22,false,d67dfa83fa1248539ce17aea075cd8cfa274db986d9b74a88dae0e3cd9108ee8
 Dtcpay.com,exchange,84.2,5,85,5,BSC|ETH|TRON,scorechain-counterparties,dtcpay-com,dtcpay.com,,,favicon,2026-04-26,false,0a89614a5f913a18aaf530f0dd76ffbc01604ff09648d7cfaa7f3a0e80179486
 FameMarkets,exchange,84.2,5,85,5,TRON,scorechain-counterparties,famemarkets,,,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
-Obmen One,exchange,84.2,5,85,5,ETH,scorechain-counterparties,obmen-one,,,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Obmen One,exchange,84.2,5,85,5,ETH,scorechain-counterparties,obmen-one,,,,manual,2026-05-03,true,eaea6f5031f4cbd41b8d7705efc7eb63ea0b6263f44c54cb51114efbf8796c1d
 Robinhood.com,exchange,84.2,5,85,5,BSC|ETH,scorechain-counterparties,robinhood-com,robinhood.com,,,arkham,2026-04-22,false,35c13d64c410db7d0e46c8ab547f686f8f908b802ec10a26e764b1dc20acec7b
 Safe.trade,exchange,84.2,5,85,5,BSC|TRON,scorechain-counterparties,safe-trade,safe.trade,,,arkham,2026-04-22,false,461ceddfbcf46c6222123fdb9c4f57cdce48d4565a4aaf82be89859aae022f5a
 Suncrypto.in,exchange,84.2,5,85,5,BSC|TRON,scorechain-counterparties,suncrypto-in,suncrypto.in,,,arkham,2026-04-22,false,e58d606c3f5c722fc1ff07352316b0cad2649fa2e0ffe3a7177fd02efa1dc685
 Websea.com,exchange,84.2,5,85,5,BSC|ETH|TRON,scorechain-counterparties,websea-com,websea.com,,,arkham,2026-04-22,false,63133e72c0259c4e1675e825ac285dd250f699aba13b03185d4f19e6934db95f
-Elliptic,mixer,84.2,5,85,95,TRON,elliptic-verdicts,elliptic,,,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Elliptic,mixer,84.2,5,85,95,TRON,elliptic-verdicts,elliptic,,,,manual,2026-05-03,true,7f5d2532b869e5e8e7faf541162a4bde5cd47c62dedce1f49fe7ea8b59ced8ee
 DePay.com,psp,84.2,5,85,15,BSC|ETH|TRON,scorechain-counterparties,depay-com,depay.com,,,arkham,2026-04-22,false,50cad9729d2a73bdebfe4e4c6f662cde53cb3b30ad6f209c220dc09b605459be
 Binance Wallet,wallet,84.2,5,85,5,BSC|ETH|TRON,scorechain-counterparties,binance-wallet,,,,arkham,2026-04-22,false,43bf61a3e1a19d566104cd58b7bd1e66c63bbdf2811d219f7c04077c959e98e4
 24Crypto Bot,bot,83.0,4,85,20,TRON,scorechain-counterparties,24crypto-bot,,24crypto,,manual,2026-04-29,true,0c7653b43bfedaf1eae74dde490e7454ac7627e5a5c4f8b8421798535d3dbce5
@@ -1022,8 +1022,8 @@ Excoino.com,exchange,83.0,4,85,5,BSC|TRON,scorechain-counterparties,excoino-com,
 Flipster.io - AQX.com,exchange,83.0,4,85,5,BSC|ETH|TRON,scorechain-counterparties,flipster-io-aqx-com,flipster.io,,,arkham,2026-04-22,false,d1b8478cbb1369de994985eb88c0a70a95196d54ed6251b9021bed09d67a26ce
 Flowdesk.co,exchange,83.0,4,85,5,BSC|ETH,scorechain-counterparties,flowdesk-co,flowdesk.co,,,arkham,2026-04-22,false,93325325575d5d4d3d3f4cde38bd34fe84b1cd089f5335c02dae0056d52915ba
 Hotbit.io,exchange,83.0,4,85,5,BSC|ETH|TRON,scorechain-counterparties,hotbit-io,hotbit.io,,,arkham,2026-04-22,false,9450d4793c136176ba275ea1ad9c91efcdedcc8a9c46598db5d35678d3462caa
-Hoyabit,exchange,83.0,4,85,5,BSC|TRON,scorechain-counterparties,hoyabit,,,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
-Ibit Global,exchange,83.0,4,85,5,BSC|TRON,scorechain-counterparties,ibit-global,,,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Hoyabit,exchange,83.0,4,85,5,BSC|TRON,scorechain-counterparties,hoyabit,,,,manual,2026-05-03,true,d238220193f9ff1d895247c43aa7abdb6166fcd42b9eb2ba689580e65d718754
+Ibit Global,exchange,83.0,4,85,5,BSC|TRON,scorechain-counterparties,ibit-global,,,,manual,2026-05-03,true,25e2a24b16ca8902065f06faf9b1750c6f30c29198f124be3694c5fb88fd36c5
 Klickl.com,exchange,83.0,4,85,5,ETH|TRON,scorechain-counterparties,klickl-com,klickl.com,,,arkham,2026-04-22,false,b4cb37895813e96af68a28899ecb65f5bc71857e7a8342a42a78104afce2cc2c
 LMAX Digital,exchange,83.0,4,85,5,ETH,scorechain-counterparties,lmax-digital,,,,arkham,2026-04-22,false,f3dbecb3ab964b2632a6dc8ffb4cb717d36dd9f5a7155108b98e20fbff439ca9
 Metamask.io,exchange,83.0,4,85,5,BSC|ETH,scorechain-counterparties,metamask-io,metamask.io,,,arkham,2026-04-22,false,85dac58b35134e7c4151954c7cffe419271d07d31165e0a24011dadfaa29cdab
@@ -1113,7 +1113,7 @@ multiple DEXs,exchange,81.5,3,85,5,BSC|ETH,scorechain-counterparties,multiple-de
 safex.hk,exchange,81.5,3,85,5,TRON,scorechain-counterparties,safex-hk,safex.hk,,,arkham,2026-04-22,false,c9eeedee069fccffbd91a170123b1fca5f4e69e939614d2485f7945b38489b11
 500 Casino,gambling,81.5,3,85,50,BSC|ETH,scorechain-counterparties,500-casino,,,,arkham,2026-04-22,false,8886169050efd6bd422989dedec57c9115c90ecea597aff23f24b83d5d59f26d
 Kalitebet,gambling,81.5,3,85,50,BSC|TRON,scorechain-counterparties,kalitebet,,,,manual,2026-05-03,true,db6cb275524361aa114c603cc0de77a2cf1d761f489c6957a2fd337f5e8e066d
-Lucky Block,gambling,81.5,3,85,50,BSC|ETH,scorechain-counterparties,lucky-block,,,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Lucky Block,gambling,81.5,3,85,50,BSC|ETH,scorechain-counterparties,lucky-block,,,,manual,2026-05-03,true,10707f1fe6f7e5af8f3d6c1fe6837cc3bdaa635a1ed334a5e451497fd31f0c46
 LuckyBlock,gambling,81.5,3,85,50,BSC,scorechain-counterparties,luckyblock,,,,arkham,2026-04-22,false,fbce571e8e5c1414bce0e97604c293ce0c045d6c57aa608a414992a50ab3f1a8
 fotoncard.com,psp,81.5,3,85,15,TRON,scorechain-counterparties,fotoncard-com,fotoncard.com,,,favicon,2026-04-22,false,2ff289e89f0ec1aea771176b85848338861e4b38af1e444b46358ea3d86d2eb9
 Bitpie.com,wallet,81.5,3,85,5,ETH|TRON,scorechain-counterparties,bitpie-com,bitpie.com,,,arkham,2026-04-22,false,3d0e1df493d8a7fecdf510ae04763c47d29b373d339e240cc22a75c798ea7de6
@@ -1147,7 +1147,7 @@ Flux Protocol,defi,79.7,2,85,10,BSC,defillama-protocols|scorechain-counterpartie
 Frankencoin,defi,79.7,2,85,10,ETH,defillama-protocols|scorechain-counterparties,frankencoin,frankencoin.com,frankencoin,,arkham,2026-04-22,false,53e19eb9b38e9a3bba177f4bc7d5ebfc7bad53ac2939df10e86beb9dcf348432
 Maple Finance,defi,79.7,2,85,10,ETH,scorechain-counterparties,maple-finance,maple.finance,maple,,arkham,2026-04-22,false,c0ddf7fa2a3a905373e503dfe4f960daebe00d42e3bc61b58c24e16a15b63c8d
 Nonco,defi,79.7,2,85,10,BSC|ETH,scorechain-counterparties,nonco,,nonco,,arkham,2026-04-22,false,66f4098bed8d167422e08b78c12c1db0b5883f5d3334b9f203fc6f02b8795403
-P2P.org - P2P Staking,defi,79.7,2,85,10,ETH,scorechain-counterparties,p2p-org-p2p-staking,p2p.org,"p2p staking,p2p-org-p2p-staking",,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+P2P.org - P2P Staking,defi,79.7,2,85,10,ETH,scorechain-counterparties,p2p-org-p2p-staking,p2p.org,"p2p staking,p2p-org-p2p-staking",,manual,2026-05-03,true,8a56fa2c66951b691828a1e238ba9bfda651d5a76709fc4ae1b6256d54b05bcf
 Pendle,defi,79.7,2,85,10,BSC|ETH,defillama-protocols|scorechain-counterparties,pendle,pendle.finance,pendle,,defillama,2026-04-22,false,1a399a876d965057c8c35c5ae3f0ff3b66a25450ec63438a264fa7ce35aa053a
 Stakestone.io,defi,79.7,2,85,10,BSC|ETH,scorechain-counterparties,stakestone-io,stakestone.io,"stakestone.io,stakestone",,arkham,2026-04-22,false,3a8dbed0946d9ef8d9740687f60402796c4a7b243ba0f06fb0f33e5ecedb261b
 Symbolic Capital Partners,defi,79.7,2,85,10,ETH,scorechain-counterparties,symbolic-capital-partners,,"symbolic capital partners,symbolic-capital-partners",,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
@@ -1245,7 +1245,7 @@ Bynex.io,exchange,79.7,2,85,5,BSC|TRON,scorechain-counterparties,bynex-io,bynex.
 C-PATEX.com,exchange,79.7,2,85,5,ETH|TRON,scorechain-counterparties,c-patex-com,c-patex.com,,,arkham,2026-04-22,false,e19f9475d2a7e1b2d460131e381322512549c2f8152efb8bc19cdc64ec4a2f5b
 CEEX,exchange,79.7,2,85,5,BSC|TRON,scorechain-counterparties,ceex,,,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Codechange.cc,exchange,79.7,2,85,5,BSC|TRON,scorechain-counterparties,codechange-cc,codechange.cc,,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
-Coin.z.com - GMO Coin,exchange,79.7,2,85,5,ETH,scorechain-counterparties,coin-z-com-gmo-coin,,,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Coin.z.com - GMO Coin,exchange,79.7,2,85,5,ETH,scorechain-counterparties,coin-z-com-gmo-coin,,,,manual,2026-05-03,true,a23877b0e0d335d6ff19c8b78cbc965c6a711aaad1b6a03fc1b983de2cf31d15
 Coincatch.com,exchange,79.7,2,85,5,BSC|TRON,scorechain-counterparties,coincatch-com,coincatch.com,,,favicon,2026-04-22,false,0f858a2e5af31787ea84f0f6a762437e836ef36f5e715624abc711d923c15818
 Coincheck.com,exchange,79.7,2,85,5,ETH,scorechain-counterparties,coincheck-com,coincheck.com,,,arkham,2026-04-22,false,cd1a85272c296c2609e8d1cba84ca2224147cce1c886991b9ce276b1a4eff42c
 Coinext.com.br,exchange,79.7,2,85,5,BSC|ETH,scorechain-counterparties,coinext-com-br,coinext.com.br,,,favicon,2026-04-22,false,1cdf311557b26685249bdaed99e4540854d848d8cff2401788a6429df3f58d6f
@@ -1261,7 +1261,7 @@ Free2ex.com,exchange,79.7,2,85,5,ETH|TRON,scorechain-counterparties,free2ex-com,
 Freekassa.ru,exchange,79.7,2,85,5,BSC|TRON,scorechain-counterparties,freekassa-ru,freekassa.ru,,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Ftx.us,exchange,79.7,2,85,5,ETH,scorechain-counterparties,ftx-us,ftx.us,,,arkham,2026-04-22,false,3c7ad63cd91aff42d18aa33e50e7d48548edca2373d49533b7c8952df58c789f
 Giottus.com,exchange,79.7,2,85,5,TRON,scorechain-counterparties,giottus-com,giottus.com,,,arkham,2026-04-22,false,93fc23cfd9310c286bad2c875abbf1331ddae2d7516884df1eda66c2700670d9
-Kauri Finance,exchange,79.7,2,85,5,BSC|ETH,scorechain-counterparties,kauri-finance,,,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Kauri Finance,exchange,79.7,2,85,5,BSC|ETH,scorechain-counterparties,kauri-finance,,,,manual,2026-05-03,true,ce48962f608847323e3fdc42b9785eab120b17334c319a83053bd5556aa175d1
 Kot4x.com,exchange,79.7,2,85,5,ETH,scorechain-counterparties,kot4x-com,kot4x.com,,,arkham,2026-04-22,false,e6c8aa9cc4a149c51fe8ede3f9fcf2de26bc5142bb7e347f621608321f909c18
 LI.FI,exchange,79.7,2,85,5,ETH,scorechain-counterparties,li-fi,li.fi,,,arkham,2026-04-22,false,27f154b88917e5dc4289f2cc7903278d79b9f2df00c77916a9233879cc1dbbd1
 LocalCoinSwap.com,exchange,79.7,2,85,5,ETH|TRON,scorechain-counterparties,localcoinswap-com,localcoinswap.com,,,arkham,2026-04-22,false,d522e47f26acdda98480556b20592469e82a74e53b86baffbc79ea87396702e7

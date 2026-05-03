@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-05-03T12:44:18+00:00",
+  "generated_at": "2026-05-03T18:38:37+00:00",
   "entries": [
     {
       "slug": "uniswap",
@@ -5873,6 +5873,17 @@
       "logo_path": "logos/defi/nonco.png",
       "keywords": [
         "nonco"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "p2p-org-p2p-staking",
+      "category": "defi",
+      "logo_path": "logos/defi/p2p-org-p2p-staking.png",
+      "keywords": [
+        "p2p staking",
+        "p2p-org-p2p-staking"
       ],
       "product_aliases": [],
       "sanctioned": false
