@@ -577,7 +577,7 @@ Lbank.com,exchange,97.6,46,85,5,BSC|ETH|TRON,scorechain-counterparties,lbank-com
 Triple-A.io,psp,97.5,140,85,15,BSC|ETH|TRON,scorechain-counterparties,triple-a-io,triple-a.io,"triple-a.io,triple-a",,manual,2026-04-29,true,8e77ce93f8d9ba97658e0d0ffaca138efbb48bbb524874c7591bc08d828a96a5
 ChangeNOW,exchange,97.4,45,85,5,BSC|ETH|TRON,scorechain-counterparties,changenow,,"changenow,changenow.io,changenow.com",,arkham,2026-04-22,false,ce939e252118523e994de733d73cfbf2495fe7b87752d88c788c83c7e10627a3
 Redotpay.com,psp,97.4,45,85,15,BSC|ETH|TRON,scorechain-counterparties,redotpay-com,redotpay.com,redotpay,,brandfetch,2026-04-22,false,a286239128ae01055efadfa2cd5a71f69791724102c9b244e4bd4e06bd2d8d88
-Huionepay,exchange,97.4,113,85,5,BSC|ETH|TRON,scorechain-counterparties,huionepay-kh,huionepay.com.kh,huionepay,,manual,2026-04-29,true,256317dc70d5f8362b1a01288c980f47a840f290d54443027cb8768029574066
+Huionepay,sanctioned,97.4,113,85,100,BSC|ETH|TRON,scorechain-counterparties,huionepay-kh,huionepay.com.kh,huionepay,,manual,2026-04-29,true,256317dc70d5f8362b1a01288c980f47a840f290d54443027cb8768029574066
 Bitkub.com,exchange,97.3,44,85,5,BSC|ETH|TRON,scorechain-counterparties,bitkub-com,bitkub.com,bitkub,,arkham,2026-04-22,false,5ef25e6b581cabccc7eed0a512e1593011ef825ca9dcaef8b04617b2fd8bc1fb
 Bc.game,gambling,97.3,44,85,50,BSC|ETH|TRON,scorechain-counterparties,bc-game,bc.game,"bc.game,bc game",,arkham,2026-04-22,false,c6d47e254b627318b8b88ff7f9de16f7da95c1cf35dac422e68387e4d1497434
 MaskEX.com,exchange,97.2,43,85,5,BSC|ETH|TRON,scorechain-counterparties,maskex-com,maskex.com,maskex,,arkham,2026-04-22,false,347e0030ae9da58aee0bd7fb1275d31816d70ab188dde0b5af07c53431101833
@@ -632,7 +632,7 @@ Woofi,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON
 Zunami Protocol - REKT,hack,96.0,16,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,zunami-protocol-rekt,,,,manual,2026-05-03,true,f589dcd605ee9fb781996963a637a348d3b2d24e14df810b92f4500c6b3f9515
 Mixin.one,wallet,96.0,,85,15,BSC|ETH|TRON,scorechain-counterparties,mixin-one,mixin.one,mixin,,manual,2026-04-29,true,46d252dbd7340b4f6b11e03aafa301d290b29359b809967df3639456ad0abccf
 Kyrrex.com,exchange,95.8,35,85,5,ETH|TRON,scorechain-counterparties,kyrrex-com,kyrrex.com,"kyrrex.com,kyrrex",,manual,2026-04-29,true,eb3ddd628b6fa9987f87ca6be6ecb3cd205304fe57201dafeb8124318740a8dd
-Nobitex.ir,exchange,95.8,35,85,5,BSC|ETH|TRON,scorechain-counterparties,nobitex-ir,nobitex.ir,"nobitex.ir,nobitex",,manual,2026-04-29,true,91da12ce01357b271f883dac0c543570cae80a72aff359b89ea115a6f2b1e80b
+Nobitex.ir,sanctioned,95.8,35,85,100,BSC|ETH|TRON,scorechain-counterparties,nobitex-ir,nobitex.ir,"nobitex.ir,nobitex",,manual,2026-04-29,true,91da12ce01357b271f883dac0c543570cae80a72aff359b89ea115a6f2b1e80b
 Lemon.me,exchange,95.7,34,85,5,BSC|ETH|TRON,scorechain-counterparties,lemon-me,lemon.me,"lemon.me,lemon",,brandfetch,2026-04-22,false,21895d154f9327e87bbbe482920f4adbd1a15ed3633299fe23fca61ee0a87950
 Pionex.com,exchange,95.7,34,85,5,BSC|ETH|TRON,scorechain-counterparties,pionex-com,pionex.com,pionex,,arkham,2026-04-22,false,108f529529f3ba8687efcc9b80dbc8c98d5527b396efd852a85348f850d56b51
 CryptoBot,bot,95.5,33,85,20,BSC|ETH|TRON,scorechain-counterparties,cryptobot,,"cryptobot,@cryptobot",,manual,2026-04-29,true,bcfa90025da570a643396687dde7ab493bcd0d08096c12ab6e9eabb07b6889e9
@@ -650,7 +650,7 @@ MEV Bot,bot,94.9,30,85,20,BSC|ETH,scorechain-counterparties,mev-bot,,,,placehold
 001k.exchange,exchange,94.9,30,85,5,ETH|TRON,scorechain-counterparties,001k-exchange,001k.exchange,"001k.exchange,001k",,manual,2026-04-29,true,21efd0703154398e00a167d5e81c4dc9098eaefda2fed644b74a7a8388a90616
 Baksmany,exchange,94.9,30,85,5,BSC|ETH,scorechain-counterparties,baksmany,,,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Poloniex.com,exchange,94.9,30,85,5,BSC|ETH|TRON,scorechain-counterparties,poloniex-com,poloniex.com,poloniex,,arkham,2026-04-22,false,e43c7cfeb8c459d7be5b39a4f95c04bc41cbd070aa70ddf87ab7009cf56fad30
-Wallex.ir,exchange,94.9,30,85,5,BSC|ETH|TRON,scorechain-counterparties,wallex-ir,wallex.ir,"wallex,wallex.ir",,manual,2026-04-30,true,37fc27ceebda46fcdde9bdf0d4c9a7d6034db1c190c36a3a717149a6ac4b087b
+Wallex.ir,sanctioned,94.9,30,85,100,BSC|ETH|TRON,scorechain-counterparties,wallex-ir,wallex.ir,"wallex,wallex.ir",,manual,2026-04-30,true,37fc27ceebda46fcdde9bdf0d4c9a7d6034db1c190c36a3a717149a6ac4b087b
 WhiteBIT.com,exchange,94.9,30,85,5,BSC|ETH|TRON,scorechain-counterparties,whitebit-com,whitebit.com,whitebit,,arkham,2026-04-22,false,22a22aa907474ddd1f30462bcdcf9a0622f27e8ad33865dc73a95070129a6535
 Coins.ph,exchange,94.8,,85,5,BSC|ETH|TRON,scorechain-counterparties,coins-ph,coins.ph,"coins.ph,coins philippines",,manual,2026-04-29,true,9e58bd3c9c81d7e5c3032a899f72ee27b54511ce0e4ff2f68bd258ca98d5b75e
 CoinSpot,exchange,94.7,29,85,5,BSC|ETH|TRON,scorechain-counterparties,coinspot,,coinspot,,arkham,2026-04-22,false,ed7cb82bbfbf15ffabb7c53da57907af1a0c85c0e6cd50771bf493524cdd1fe2
@@ -716,9 +716,9 @@ Transak.com,psp,92.5,,85,15,BSC|ETH|TRON,scorechain-counterparties,transak-com,t
 Zaif.jp,exchange,92.5,,85,5,BSC|ETH|TRON,scorechain-counterparties,zaif-jp,zaif.jp,zaif,,manual,2026-04-29,true,d2103a6e4b0129cbeb848a8b46c38064d47b6e4b6348e8409bd093ac416e76b3
 ONUS,exchange,92.5,,85,5,BSC|ETH|TRON,scorechain-counterparties,onus-vn,goonus.io,onus,,manual,2026-04-29,true,0da3da15e3a7b5801f00761e6d5d27ae845e237f2c90d0f7f474f4e2398bcffd
 Coinw.com,exchange,92.3,20,85,5,BSC|ETH|TRON,scorechain-counterparties,coinw-com,coinw.com,coinw,,arkham,2026-04-22,false,320f3b8cb20e214029ef71cdf17ac5e8564b5e1b8ce7bfd88f42fbde96384de1
-Ramzinex.com,exchange,92.3,20,85,5,BSC|TRON,scorechain-counterparties,ramzinex-com,ramzinex.com,ramzinex,,manual,2026-04-30,true,37fc27ceebda46fcdde9bdf0d4c9a7d6034db1c190c36a3a717149a6ac4b087b
+Ramzinex.com,sanctioned,92.3,20,85,100,BSC|TRON,scorechain-counterparties,ramzinex-com,ramzinex.com,ramzinex,,manual,2026-04-30,true,37fc27ceebda46fcdde9bdf0d4c9a7d6034db1c190c36a3a717149a6ac4b087b
 hyperpay.tech,exchange,92.3,20,85,5,BSC|ETH|TRON,scorechain-counterparties,hyperpay-tech,hyperpay.tech,hyperpay,,arkham,2026-04-22,false,bb8995f08a83164c6433ee1acc4eb8287cbf583bf8cffe0fce7c0734089ba269
-Bitpin.ir,exchange,92.0,19,85,5,BSC|ETH|TRON,scorechain-counterparties,bitpin-ir,bitpin.ir,"bitpin,bitpin.ir",,manual,2026-04-30,true,37fc27ceebda46fcdde9bdf0d4c9a7d6034db1c190c36a3a717149a6ac4b087b
+Bitpin.ir,sanctioned,92.0,19,85,100,BSC|ETH|TRON,scorechain-counterparties,bitpin-ir,bitpin.ir,"bitpin,bitpin.ir",,manual,2026-04-30,true,37fc27ceebda46fcdde9bdf0d4c9a7d6034db1c190c36a3a717149a6ac4b087b
 Bitrue.com,exchange,92.0,19,85,5,BSC|ETH|TRON,scorechain-counterparties,bitrue-com,bitrue.com,bitrue,,arkham,2026-04-22,false,9521c1f7865b792e8d19d21136be538dbd2fdd14dead6a9b1142d048193e021b
 Yibifu,exchange,92.0,19,85,5,TRON,scorechain-counterparties,yibifu,,,,arkham,2026-04-22,false,2d60e00847025a26a6e1aa71685e05e49693fb9c69b61bfdea36e82b72c274ad
 FulgurPay.com,psp,92.0,19,85,15,BSC|ETH|TRON,scorechain-counterparties,fulgurpay-com,fulgurpay.com,,,manual,2026-05-03,true,11d85f81f90068f122079d979fc9b9490e5cf4e524a68412db5dcf71dc3852b8
@@ -782,7 +782,7 @@ Wormhole - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMIS
 bEarn - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bearn-rekt,,,,arkham,2026-04-22,false,023cc0797455068b041619e921e0231faacf35c29fc5ed5f1f2490a995987ff7
 dForce Network - REKT,hack,91.8,8,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,dforce-network-rekt,,,,arkham,2026-04-22,false,b27b4f02b604af02a264e032e08557c73af4fd0ce12c7e52b552c6d43383da4a
 OkayPayBot,bot,91.7,18,85,20,TRON,scorechain-counterparties,okaypaybot,,"okaypaybot,okay pay bot",,manual,2026-04-29,true,f16d6be930b9ae6825a0bdbd44c5b86052b2106c32453e3736a69ff249d8b4e1
-Abantether.com,exchange,91.7,18,85,5,BSC|TRON,scorechain-counterparties,abantether-com,abantether.com,"abantether,aban tether",,manual,2026-04-30,true,37fc27ceebda46fcdde9bdf0d4c9a7d6034db1c190c36a3a717149a6ac4b087b
+Abantether.com,sanctioned,91.7,18,85,100,BSC|TRON,scorechain-counterparties,abantether-com,abantether.com,"abantether,aban tether",,manual,2026-04-30,true,37fc27ceebda46fcdde9bdf0d4c9a7d6034db1c190c36a3a717149a6ac4b087b
 Coinbase.com,exchange,91.7,18,85,5,BSC|ETH,scorechain-counterparties,coinbase-com,coinbase.com,coinbase,"coinbase wallet,coinbase custody",arkham,2026-04-22,false,af095181a003871ccca7ae4fb1922020c6530b1cc81d28773023523a1b93e701
 Fixedfloat.com - Ff.io,exchange,91.7,18,85,5,BSC|ETH|TRON,scorechain-counterparties,fixedfloat-com-ff-io,fixedfloat.com,,,arkham,2026-04-22,false,176809bc46c3e0d5141bd52c656b9ecff7763af0807729700e53a0620023d152
 Phemex.com,exchange,91.7,18,85,5,BSC|ETH|TRON,scorechain-counterparties,phemex-com,phemex.com,phemex,,arkham,2026-04-22,false,b791af3fa5f2af25d8e85fe8b665a0fb9f2890e1d276a5941b3ca0abe5acf4dc
@@ -818,7 +818,7 @@ Exmo.me,exchange,89.2,12,85,5,TRON,scorechain-counterparties,exmo-me,exmo.me,exm
 Probit.com,exchange,89.2,12,85,5,BSC|ETH|TRON,scorechain-counterparties,probit-com,probit.com,probit,,arkham,2026-04-22,false,f90e377dd6ada49540351a14027bfe83fcfd6428bcecfc2e699485a35a38afa9
 Quidax.com,exchange,89.2,12,85,5,BSC|ETH|TRON,scorechain-counterparties,quidax-com,quidax.com,,,arkham,2026-04-22,false,45db20fbb20b88ec2b09e7b6d041630fc48ae11e3807ba394b0e9074d939a895
 Betfury.io,gambling,89.2,12,85,50,BSC|ETH|TRON,scorechain-counterparties,betfury-io,betfury.io,betfury,,arkham,2026-04-22,false,d38013352dcc424c09c6b723c90f1db15b203d119794297507b98054a562a60f
-Xinbi Guarantee,bot,88.7,11,85,20,TRON,scorechain-counterparties,xinbi-guarantee,,,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Xinbi Guarantee,sanctioned,88.7,11,85,100,TRON,scorechain-counterparties,xinbi-guarantee,,,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Kiln.fi,defi,88.7,11,85,10,BSC|ETH,scorechain-counterparties,kiln-fi,kiln.fi,"kiln.fi,kiln",,arkham,2026-04-22,false,b0b0d4c54709d0ca555c50f2f6c9aaddeb4d802893155b86b31e27cb5ab1e700
 ParaSwap.io,dex,88.7,11,85,10,BSC|ETH,scorechain-counterparties,paraswap-io,paraswap.io,"paraswap.io,paraswap",,arkham,2026-04-22,false,98d94d8fad4176a25f4a8a8d7104831c3dd6b4f8b66ea61fdd939ef063f27d0a
 Pendle.finance,dex,88.7,11,85,10,BSC|ETH,scorechain-counterparties,pendle-finance,pendle.finance,"pendle.finance,pendle",,arkham,2026-04-22,false,fbb099d65df93397a06ec51fd64084d22622128a07efd0b3c8a7e93d14dc84be
@@ -1302,3 +1302,9 @@ Onfa,wallet,79.7,2,85,5,BSC,scorechain-counterparties,onfa,,,,arkham,2026-04-22,
 argent.xyz,wallet,79.7,2,85,5,ETH,scorechain-counterparties,argent-xyz,argent.xyz,,,arkham,2026-04-22,false,1e85ba4947f2a74dac888636ffcd9c3834578f16675adb0b2256fa47ad063dcb
 Crystal,exchange,74.7,2,75,5,TRON,crystal-verdicts,crystal,,,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 OKEx,exchange,0,0,85,5,BSC|ETH|TRON,scorechain-counterparties,okx-com,okex.com,"okx,okex",okx wallet,arkham,2026-04-22,false,1f39c96951722ea8ddf01bd2006db6be1058f6f8cf97c8746790af1d4536c5c2
+Tochka24.org,exchange,85.0,49,85,50,BSC|ETH|TRON,scorechain-counterparties|manual-admin,tochka24-org,tochka24.org,"""tochka24,tochka 24""",,placeholder,2026-05-09,true,
+UnitrustGlobal.com,exchange,85.0,52,85,50,BSC|ETH|TRON,scorechain-counterparties|manual-admin,unitrustglobal-com,unitrustglobal.com,unitrustglobal,,placeholder,2026-05-09,true,
+Alameda Research,hack,90.0,36,85,95,ETH,manual-admin|hack-attributions,alameda-research,,"""alameda,alameda research""",,placeholder,2026-05-09,true,
+Bitrefill.com,psp,85.0,16,85,15,ETH,scorechain-counterparties|etherscan-html,bitrefill-com,bitrefill.com,bitrefill,,placeholder,2026-05-09,true,
+Zerohash.com,psp,85.0,6,85,15,ETH,scorechain-counterparties|etherscan-html,zerohash-com,zerohash.com,"""zerohash,zero hash""",,placeholder,2026-05-09,true,
+B2C2,exchange,85.0,6,85,25,ETH,scorechain-counterparties|etherscan-html,b2c2-com,b2c2.com,b2c2,,placeholder,2026-05-09,true,
