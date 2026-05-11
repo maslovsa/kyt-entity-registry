@@ -1276,7 +1276,7 @@ onesatoshi.hk,exchange,79.7,2,85,5,TRON,scorechain-counterparties,onesatoshi-hk,
 Onfa,wallet,79.7,2,85,5,BSC,scorechain-counterparties,onfa,,,,arkham,2026-04-22,false,23615f840c47a7cb358631d2b43fd1f788b1f8521561e34e7020fac7c80a25d2
 OpenLeverage,dex,79.7,2,85,10,BSC,defillama-protocols|scorechain-counterparties,openleverage,openleverage.finance,openleverage,,arkham,2026-04-22,false,2d45642478f236cb42b000500ff79e8a74cfa21c91f58b27c5cddd1a6e6507c8
 Orion Protocol,bridge,79.7,2,85,15,BSC,scorechain-counterparties,orion-protocol,orion.xyz,orion,,arkham,2026-04-22,false,d7455ed566755bf6d250e2cf257c1937563134eb127da6400f4473b6b0cd1cd5
-Owl.games,gambling,79.7,2,85,50,BSC|ETH,scorechain-counterparties,owl-games,owl.games,,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Owl.games,gambling,79.7,2,85,50,BSC|ETH,scorechain-counterparties,owl-games,owl.games,,,favicon,2026-05-11,false,9d6f95c4cabdf3915931decc3929001be9355a03c9e39700773658faec7d19a7
 P2P.org - P2P Staking,defi,79.7,2,85,10,ETH,scorechain-counterparties,p2p-org-p2p-staking,p2p.org,"p2p staking,p2p-org-p2p-staking",,manual,2026-05-03,true,8a56fa2c66951b691828a1e238ba9bfda651d5a76709fc4ae1b6256d54b05bcf
 Packdraw,gambling,79.7,2,85,50,ETH,scorechain-counterparties,packdraw,,,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 PancakeSwap,bridge,79.7,2,85,15,BSC,scorechain-counterparties,pancakeswap,,pancakeswap,,arkham,2026-04-22,false,e2750fa034f9417920fe9cfca0fcc002215069368ba1bbc2771761a934b2c74e
