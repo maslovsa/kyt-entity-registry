@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-05-11T14:43:20+00:00",
+  "generated_at": "2026-05-11T15:02:25+00:00",
   "entries": [
     {
       "slug": "001k-exchange",
@@ -6772,19 +6772,6 @@
         "sportsbet"
       ],
       "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "okx-com",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/okx-com.png",
-      "keywords": [
-        "okx",
-        "okex"
-      ],
-      "product_aliases": [
-        "okx wallet"
-      ],
       "sanctioned": false
     }
   ]
