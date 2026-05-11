@@ -5,7 +5,7 @@ lived in aegis-platform/apps/ui/src/lib/graph/exchange-logos.ts and writes it
 into the registry CSV so the manifest-driven architecture works.
 
 After this seed, `keywords` and `product_aliases` are REGISTRY_OWNED — the
-weekly export from sdn_api/Supabase never overwrites them (see
+weekly export from aegis-platform/Supabase never overwrites them (see
 export_entity_registry.py REGISTRY_OWNED set).
 
 USAGE

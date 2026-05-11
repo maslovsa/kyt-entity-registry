@@ -12,8 +12,8 @@
  *
  * Keep the three in sync: stopwords list + labelTokens() + resolve
  * scoring MUST produce identical answers for identical inputs. Tests
- * live in aml_checker/tests/unit/entity-lookup.test.ts (which already
- * exercises the resolver rules against the registry format).
+ * live in aegis-platform (which already exercises the resolver rules
+ * against the registry format).
  */
 
 import { Server } from '@modelcontextprotocol/sdk/server/index.js'

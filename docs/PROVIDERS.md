@@ -2,8 +2,8 @@
 
 Audience: maintainers of projects that aggregate address labels and
 want to propose updates to the canonical entity list. Today that's
-**sdn_api**; tomorrow it may be any KYT-class tool with its own
-ingest pipeline.
+**aegis-platform**; tomorrow it may be any KYT-class tool with its
+own ingest pipeline.
 
 ## Contract
 
@@ -19,12 +19,12 @@ Providers are authoritative for:
 - **importance ranking** (claim_count × trust)
 - **networks / sources / severity** columns — purely derivable data
 
-## How sdn_api ships fresh data
+## How aegis-platform ships fresh data
 
 ### One-shot (manual)
 
 ```bash
-# In sdn_api repo
+# In aegis-platform repo
 set -a && source .env && set +a
 python scripts/export_entity_registry.py --output /tmp/entities.new.csv
 
@@ -38,11 +38,11 @@ diff <(curl -sL https://cdn.jsdelivr.net/gh/maslovsa/kyt-entity-registry@main/en
 
 ### Weekly automation
 
-sdn_api has `.github/workflows/export-entity-registry.yml` (target for
-build-out; see sdn_api RUNBOOK_entity_registry_export.md). Flow:
+aegis-platform has `.github/workflows/export-entity-registry.yml`
+(target for build-out). Flow:
 
 1. Sunday 12:00 UTC — workflow_dispatch OR cron fires
-2. Script queries sdn_api's `label_claims` → generates a candidate
+2. Script queries aegis-platform's `label_claims` → generates a candidate
    CSV (same columns as `entities.csv`)
 3. Pulls the LIVE `entities.csv` from
    `cdn.jsdelivr.net/gh/maslovsa/kyt-entity-registry@main/entities.csv`
@@ -55,7 +55,7 @@ build-out; see sdn_api RUNBOOK_entity_registry_export.md). Flow:
      stable, add `_dormant=true` marker column (migration note
      below).
 5. Opens a PR against `maslovsa/kyt-entity-registry` titled
-   `data: re-export from sdn_api @ <sha>` with a summary
+   `data: re-export from aegis-platform @ <sha>` with a summary
 6. Human (you) reviews: diff should be bounded, no slug renames,
    importance shifts make sense
 7. Merge → cron picks up new rows + refreshes stale logos
@@ -81,7 +81,7 @@ removals require coordinated migration):
 | `entity_name`      | provider | human-readable name, e.g. "Binance.com" |
 | `category_slug`    | provider | one of the 13 canonical slugs |
 | `importance`       | provider | 0-100, re-scored each export |
-| `claim_count`      | provider | raw count from sdn_api label_claims |
+| `claim_count`      | provider | raw count from aegis-platform label_claims |
 | `max_trust`        | provider | max trust_weight across contributing sources |
 | `severity`         | provider | from risk_categories table |
 | `networks`         | provider | `|`-joined network slugs |
@@ -152,7 +152,7 @@ Before merging `data: re-export from ...`:
 
 ## What the provider script looks like (stub)
 
-A working implementation lives in sdn_api at
+A working implementation lives in aegis-platform at
 `scripts/export_entity_registry.py` once built; shape is:
 
 ```python

@@ -14,7 +14,7 @@ of the URLs below without browsing the full site.
 - **Repo**: https://github.com/maslovsa/kyt-entity-registry (MIT licensed)
 - **Live site**: https://maslovsa.github.io/kyt-entity-registry/
 - **CDN root**: `https://cdn.jsdelivr.net/gh/maslovsa/kyt-entity-registry@main`
-- **Entity count**: ~800 (updated nightly from sdn_api label claims)
+- **Entity count**: ~800 (updated nightly from aegis-platform label claims)
 - **Logo shape**: 160×160 RGBA PNG, optimised, ≤ 50 KB each
 - **Logo URL pattern**: `<CDN>/logos/<dir>/<slug>.png`
   where `<dir>` is the category (plural for `exchange → exchanges`,
@@ -111,7 +111,7 @@ Each entry's `logo_status` column records which source won.
 - `docs/CONSUMERS.md` — TS + Python helpers, fuzzy resolver recipe,
   SHA-pinning for compliance PDFs, cache TTL notes.
 - `docs/PROVIDERS.md` — contract for projects that ship fresh CSV
-  exports (today: sdn_api); column ownership + never-do list.
+  exports (today: aegis-platform); column ownership + never-do list.
 - `docs/MCP.md` — MCP server tool reference, config snippets for
   popular clients, examples.
 - `CLAUDE.md` — agent-facing runbook with hard constraints.

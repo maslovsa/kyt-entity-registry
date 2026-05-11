@@ -1,8 +1,9 @@
 # CONSUMERS — how downstream projects resolve logos
 
-Audience: UIs and reports that render per-entity logos. Today: aml_checker
-(Next.js + React) and sdn_api's monitoring/report surfaces; tomorrow: any
-project that needs "the Binance logo" or "the Tornado Cash seal".
+Audience: UIs and reports that render per-entity logos. Today:
+aegis-platform (Next.js + React UI and backend report surfaces);
+tomorrow: any project that needs "the Binance logo" or "the Tornado
+Cash seal".
 
 ## The one thing consumers do
 
@@ -168,7 +169,7 @@ describe('entityLogoUrl', () => {
 ## Python helper (backend renders, PDF exports)
 
 ```python
-# sdn_api/api/lib/entity_logo.py
+# aegis-platform: api/lib/entity_logo.py
 
 ENTITY_REGISTRY_CDN = (
     "https://cdn.jsdelivr.net/gh/maslovsa/kyt-entity-registry@main"
@@ -284,7 +285,7 @@ const miss = lookup.resolve({ category: 'dex', label: 'nonsense xyz 42' })
 `createLookup({ url })` accepts a pinned CDN URL for compliance
 snapshots: `…/gh/maslovsa/kyt-entity-registry@<sha>/logos/_lookup.json`.
 
-### React usage (aml_checker pattern)
+### React usage (aegis-platform pattern)
 
 ```tsx
 import { useEffect, useState } from 'react'

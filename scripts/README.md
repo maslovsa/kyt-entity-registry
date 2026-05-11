@@ -35,4 +35,4 @@ RGBA PNG.
 
 Read `../CLAUDE.md` top-to-bottom. Do not add a 5th source without
 updating the RFC. Do not change `entities.csv` schema without
-coordinating with the sdn_api export job.
+coordinating with the aegis-platform export job.

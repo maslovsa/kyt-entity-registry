@@ -7,9 +7,9 @@ touch and what you MUST leave alone.
 ## What this repo is
 
 A public, jsDelivr-fronted GitHub repo of crypto entity metadata +
-logos. Consumed by sdn_api + aml_checker for UI rendering. It is
+logos. Consumed by aegis-platform for UI rendering. It is
 **not** a source of truth for risk verdicts — those live in
-sdn_api's `label_claims` / Aegis consensus.
+aegis-platform's `label_claims` / Aegis consensus.
 
 Everything in this repo MUST be safe to make public on GitHub: no
 API keys, no private network addresses, no PII.
@@ -81,8 +81,8 @@ sitemap.xml + robots.txt + llms.txt + og-preview.png
 - Never rename an entity's `slug` — that breaks every pinned URL
   in consumer code. If a brand rebrands, add a NEW row with
   `aliases` pointing at the old slug.
-- `importance` may be re-scored when the source sdn_api CSV is
-  re-exported. That's fine. The row set stays stable.
+- `importance` may be re-scored when the source aegis-platform CSV
+  is re-exported. That's fine. The row set stays stable.
 
 ### C2. Logo replacement policy
 
@@ -126,7 +126,7 @@ Order (first-found wins):
 4. **DefiLlama icons** —
    `https://icons.llamao.fi/icons/protocols/<slug>?w=128&h=128`
    Scope: `defi` + `dex` + `bridge`. Free CDN, same slug format
-   sdn_api's `defillama-protocols` source already uses.
+   aegis-platform's `defillama-protocols` source already uses.
 5. **Favicon crawl** — `https://<canonical_domain>/` + parse
    `<link rel="icon|apple-touch-icon">`; fall back to static paths
    (`/apple-touch-icon.png`, `/favicon-192x192.png`, `/favicon.ico`).
@@ -140,8 +140,8 @@ Order (first-found wins):
    we retry real sources every run. Consumers get a 200 OK from
    jsDelivr instead of a 404-flash.
 
-Do NOT add a new source without updating the RFC (sdn_api docs/
-RFC_entity_registry.md).
+Do NOT add a new source without updating the RFC (aegis-platform
+docs/RFC_entity_registry.md).
 
 Rejected sources and why (don't retry without a new signal):
 - **cryptologos.cc** — pure-JS SPA; known URL patterns like
@@ -159,9 +159,10 @@ brand assets.
   `enrich: +N new, +M updated, K missed (YYYY-MM-DD)`.
 - Manual PRs use clear prefixes: `add: <entity>`, `fix: <entity>
   logo corruption`, `override: <entity>` (+ add to `_manual/`).
-- CSV changes that touch many rows at once (re-export from sdn_api)
-  should land in their own PR titled `data: re-export N entities
-  from sdn_api @ <sdn-api-sha>`. Reviewable diff.
+- CSV changes that touch many rows at once (re-export from
+  aegis-platform) should land in their own PR titled
+  `data: re-export N entities from aegis-platform @ <sha>`.
+  Reviewable diff.
 
 ### C6. CDN cache invalidation
 
@@ -267,7 +268,7 @@ Rate: 5 req/sec polite, no backoff needed (static bucket).
 
 ### T3. Implement `enrich_from_brandfetch.py`
 For entities that Arkham 404'd. Use the existing
-`BRANDFETCH_CLIENT_ID` from sdn_api/.env. Reject any response with
+`BRANDFETCH_CLIENT_ID` (public CDN ID). Reject any response with
 Content-Type `image/webp` UNLESS it's clearly a brand logo (size
 ≥ 3 KB and aspect 1:1 after decode — webp lettermark fallbacks are
 usually 1-2 KB). When in doubt, reject and move to DefiLlama.
@@ -291,15 +292,14 @@ failure. Cache `pip` install.
 `gh workflow run enrich-logos.yml --ref main`. Expect ~300 tier-1
 PNGs on run 1.
 
-### T8. Update sdn_api + aml_checker consumers
-- `sdn_api/public/logos/` → delete, point readers at jsDelivr
-- `aml_checker/public/logos/exchanges/` → delete, same
-- Add `entityLogoUrl()` helper in both projects — EXACT TS + Python
-  source lives in [docs/CONSUMERS.md](docs/CONSUMERS.md). Do NOT
-  re-invent the normalization; copy verbatim.
+### T8. Update aegis-platform consumers
+- Delete any local logo copies still in aegis-platform, point
+  readers at jsDelivr.
+- Add `entityLogoUrl()` helper — EXACT TS + Python source lives in
+  [docs/CONSUMERS.md](docs/CONSUMERS.md). Do NOT re-invent the
+  normalization; copy verbatim.
 - Add unit tests from CONSUMERS.md — they catch drift if anyone
-  edits `SUFFIX_STRIP` / `CATEGORY_TO_DIR` in one project but not
-  the other.
+  edits `SUFFIX_STRIP` / `CATEGORY_TO_DIR`.
 
 ### T9. Build + publish `logos/_index.json` as part of enrichment
 - Simple addition to `scripts/enrich.py`: after the run, walk `logos/`
@@ -307,12 +307,13 @@ PNGs on run 1.
 - Consumers who want to avoid 404-flash use it via `hasLogo()`
   helper in CONSUMERS.md
 
-### T10. Implement sdn_api side — `scripts/export_entity_registry.py`
+### T10. Implement aegis-platform side — `scripts/export_entity_registry.py`
 - See PROVIDERS.md pseudocode. Gens candidate CSV, fetches live
   registry CSV, merges preserving registry-owned columns, opens PR.
 - CLI: `--output FILE`, `--pr` (opens GitHub PR), `--dry-run`.
-- Workflow: sdn_api `.github/workflows/export-entity-registry.yml`
-  fires Sunday 12:00 UTC.
+- Workflow: aegis-platform
+  `.github/workflows/export-entity-registry.yml` fires Sunday
+  12:00 UTC.
 
 ## What you SHOULD NOT do without asking
 
@@ -334,6 +335,6 @@ PNGs on run 1.
   contract. If you touch `category_slug` semantics or the name→slug
   normalization, BOTH consumer helpers (TS + Python) must update in
   lockstep OR logos start 404'ing in production.
-- RFC: [sdn_api/docs/RFC_entity_registry.md](https://github.com/maslovsa/sdn-api/blob/master/docs/RFC_entity_registry.md)
-- Source CSV build: [sdn_api/docs/kyt_entity_registry_v1.csv](https://github.com/maslovsa/sdn-api/blob/master/docs/kyt_entity_registry_v1.csv)
-- Sibling projects: sdn_api (provider), aml_checker (consumer)
+- RFC: [aegis-platform/docs/RFC_entity_registry.md](https://github.com/maslovsa/aegis-platform/blob/main/docs/RFC_entity_registry.md)
+- Source CSV build: [aegis-platform/docs/kyt_entity_registry_v1.csv](https://github.com/maslovsa/aegis-platform/blob/main/docs/kyt_entity_registry_v1.csv)
+- Sibling project: aegis-platform (provider + consumer monorepo)

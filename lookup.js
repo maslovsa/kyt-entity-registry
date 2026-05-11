@@ -35,7 +35,7 @@ let _indexPromise = null;
 /**
  * Mirrors `_STOPWORDS` in `scripts/build_lookup.py` and the
  * `LABEL_TOKEN_STOPWORDS` set in
- * `aml_checker/src/lib/entities/lookup.ts`.
+ * `aegis-platform` lookup.ts twin.
  *
  * Python strips these from every entry's `kw` field at index time, so
  * a query token like "network" or "wallet" can never match (no entry
@@ -68,7 +68,7 @@ const LABEL_TOKEN_STOPWORDS = new Set([
  * Includes CamelCase expansion so compound identifiers like
  * "YearnFinance" and "OnyxProtocol" produce individual keyword tokens
  * ("yearn", "onyx") that match entity entries. Must stay in sync with
- * the TS twin in aml_checker/src/lib/entities/lookup.ts and with the
+ * the TS twin in aegis-platform and with the
  * _keywords() function in scripts/build_lookup.py.
  */
 export function labelTokens(label) {

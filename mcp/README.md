@@ -59,9 +59,8 @@ If you edit matching rules on one side, you must edit all three:
 
 Drift will cause the same label to resolve differently depending on
 which consumer asked — unit tests in
-[aml_checker/tests/unit/entity-lookup.test.ts](https://github.com/maslovsa/aml_checker/blob/main/tests/unit/entity-lookup.test.ts)
-lock the TypeScript twin to a fixture that mirrors the registry
-output format.
+aegis-platform's entity-lookup tests lock the TypeScript twin to a
+fixture that mirrors the registry output format.
 
 ## See also
 

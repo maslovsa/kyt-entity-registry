@@ -4,9 +4,9 @@
 · **Audit tool** → <https://maslovsa.github.io/kyt-entity-registry/audit.html>
 
 Public registry of crypto entity metadata + logos. Shared source of
-truth for [sdn_api](https://github.com/maslovsa/sdn-api),
-[aml_checker](https://github.com/maslovsa/aml_checker), and any future
-KYT/AML project that needs "the Binance logo" or "the OFAC seal".
+truth for [aegis-platform](https://github.com/maslovsa/aegis-platform)
+and any future KYT/AML project that needs "the Binance logo" or "the
+OFAC seal".
 
 - **entities.csv** — 800+ rows today. Exchanges, DEXes, bridges, DeFi
   protocols, mixers, sanctioning bodies, hack incidents. Ranked by
@@ -243,8 +243,8 @@ Please keep logos ≤ 50 KB (tune compression if needed) and exactly
   existence check via `_index.json`, SHA-pinning for PDFs, cache
   gotchas. Drop the snippets into any new consumer verbatim.
 - **[docs/PROVIDERS.md](docs/PROVIDERS.md)** — contract for upstream
-  projects (sdn_api today) shipping fresh CSV exports: column
-  ownership, never-do list, PR review checklist.
+  projects (aegis-platform today) shipping fresh CSV exports:
+  column ownership, never-do list, PR review checklist.
 - **[lookup.js](lookup.js)** — the fuzzy resolver itself (~50 lines,
   ES module). Fetch once per session, resolve freeform labels to
   CDN URLs.

@@ -1,6 +1,6 @@
 """Build logos/_lookup.json — a fuzzy-match index for consumers.
 
-Consumers (aml_checker, sdn_api report surfaces, future projects)
+Consumers (aegis-platform report surfaces, future projects)
 often have a freeform label from a verdict or label claim
 ("Binance Hot Wallet 10", "Uniswap V3 Deposits", "Ronin Bridge Hack")
 plus a category slug. They need a URL to the matching logo.

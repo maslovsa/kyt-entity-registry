@@ -9,7 +9,7 @@ Observed patterns (2026-04):
   * Many DeFi protocols are keyed by their DOMAIN with dots
     replaced by dashes (betterbank.io -> betterbank-io,
     deltaprime.io -> deltaprime-io, friend.tech -> friend-tech).
-    sdn_api's CSV often has `arkham_slug=betterbank` (the bare
+    The upstream CSV often has `arkham_slug=betterbank` (the bare
     brand) but the real file is `betterbank-io`, so we try both
     the literal slug AND the slug with common TLD tails appended.
 
@@ -63,7 +63,7 @@ def _candidates(arkham_slug: str) -> Iterable[str]:
             break
 
     # 2. Append each common domain-TLD tail to the *bare brand*
-    #    (user's observation: sdn_api ships "betterbank" but Arkham
+    #    (user's observation: upstream ships "betterbank" but Arkham
     #    stores "betterbank-io"). This is the big coverage win.
     for tail in _DOMAIN_TAILS:
         add(base + tail)
