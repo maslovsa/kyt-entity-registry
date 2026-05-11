@@ -3,8 +3,8 @@ name: Nightly logo enrichment
 # Daily at 02:00 UTC. Budget 500 refresh attempts per run; spread across
 # tier-1 (importance ≥ 90, refreshed first) and stale tier-2/3.
 on:
-  schedule:
-    - cron: "0 2 * * *"
+  # schedule:
+  #   - cron: "0 2 * * *"
   workflow_dispatch:
     inputs:
       max:

@@ -318,14 +318,14 @@ h1, h2, h3, h4, h5, h6 {
   object-fit: contain;
 }
 .card[data-has-logo="false"] .card-logo {
-  color: var(--muted-foreground);
-  font-size: 11px;
-  font-weight: 600;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
+  color: var(--destructive);
+  font-size: 48px;
+  font-weight: 700;
+  letter-spacing: 0;
+  text-transform: none;
 }
 .card[data-has-logo="false"] .card-logo img { display: none; }
-.card[data-has-logo="false"] .card-logo::after { content: "no logo"; }
+.card[data-has-logo="false"] .card-logo::after { content: "?"; }
 
 .card-body { display: flex; flex-direction: column; gap: 5px; }
 .card-name {

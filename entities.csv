@@ -499,36 +499,36 @@ Paimon,defi,75,0,0,10,BSC,,paimon,paimon.finance,paimon,,defillama,2026-05-03,fa
 World Markets Spot,dex,75,0,0,10,,,world-markets-spot,orld.inc,"world markets spot,world-markets-spot",,defillama,2026-05-03,false,35856bd3d3b4f5de73020281e8ef94e17ccb93a37c6f867cf4fb604621d652e9
 DODO AMM,dex,75,0,0,10,BSC|ETH|AVALANCHE|ARBITRUM|POLYGON|BASE|OPTIMISM,,dodo-amm,dodoex.io,"dodo amm,dodo-amm",,arkham,2026-05-03,false,bbf0c5ad1909c23709e626e2b6880cf9be854351b570516f086b13a25ab1419f
 Harvest Finance,defi,75,0,0,10,BASE|ETH|ARBITRUM|POLYGON,,harvest,harvest.finance,"harvest,harvest-finance",,arkham,2026-05-03,false,eb9b437ba072e5c080b3f79265a19fa411cca6b08fc6587d09c21725ef6aa25d
-Belt Finance,defi,75,0,0,10,BSC,,belt,belt.fi,belt,,,,false,
-Fuel Bridge,bridge,75,0,0,10,ETH,,fuel-bridge,app.fuel.network,"fuel bridge,fuel-bridge,fuel-network",,,,false,
-Gravity Bridge,bridge,75,0,0,10,ETH,,gravity-bridge,gravitybridge.net,"gravity bridge,gravity-bridge,graviton",,,,false,
-BTCFi CDP,defi,75,0,0,10,BTC|BASE,,btcfi-cdp,btcfi.one,"btcfi cdp,btcfi-cdp",,,,false,
-Revert Lend,defi,75,0,0,10,BASE|ARBITRUM|ETH,,revert-lend,revert.finance,"revert lend,revert-lend",,,,false,
-Beets DEX V3,dex,75,0,0,10,,,beets,beets.fi,"beets dex,beets",,,,false,
-Tropykus RSK,defi,75,0,0,10,,,tropykus-rsk,app.tropykus.com,"tropykus rsk,tropykus-rsk",,,,false,
-Odyssey Finance,defi,75,0,0,10,ETH|BASE|OPTIMISM,,odyssey,app.odyssey.finance,odyssey,,,,false,
-ApeSwap AMM,dex,75,0,0,10,BSC|POLYGON|ARBITRUM|ETH,,apeswap-amm,ape.bond,"apeswap amm,apeswap-amm",,,,false,
-EVAA Protocol,defi,75,0,0,10,,,evaa,evaa.finance,evaa,,,,false,
-Current,defi,75,0,0,10,,,current,current.finance,current,,,,false,
-Chainflip AMM,dex,75,0,0,10,ETH,,chainflip-amm,chainflip.io,"chainflip amm,chainflip-amm",,,,false,
-Loopring,dex,75,0,0,10,ETH|BASE,,loopring,loopring.org,loopring,,,,false,
-Meld Gold,defi,75,0,0,10,,,meld-gold,meld.gold,"meld gold,meld-gold",,,,false,
-SuperEarn,defi,75,0,0,10,,,superearn,superearn.io,superearn,,,,false,
-Boros,defi,75,0,0,10,ARBITRUM,,boros,boros.pendle.finance,boros,,,,false,
-BEND,defi,75,0,0,10,,,bend,bend.berachain.com,bend,,,,false,
-Maya Protocol,bridge,75,0,0,10,BTC|ETH|ARBITRUM,,maya,mayaprotocol.com,"maya,cacao",,,,false,
-Kava Lend,defi,75,0,0,10,,,kava-lend,app.kava.io,"kava lend,kava-lend",,,,false,
-Dinari,defi,75,0,0,10,ETH|ARBITRUM|BASE,,dinari,dinari.com,dinari,,,,false,
-Katana DEX,dex,75,0,0,10,,,katana,app.roninchain.com,"katana dex,katana",,,,false,
-Overnight Finance,defi,75,0,0,10,BASE|ARBITRUM|OPTIMISM|BSC|POLYGON,,overnight,overnight.fi,"overnight,overnight-finance",,,,false,
-Angstrom,dex,75,0,0,10,ETH,,angstrom,angstrom.xyz,angstrom,,,,false,
-Sovryn Dex,dex,75,0,0,10,,,sovryn,sovryn.app,"sovryn dex,sovryn",,,,false,
-Aries Markets,defi,75,0,0,10,,,aries-markets,ariesmarkets.xyz,"aries markets,aries-markets",,,,false,
-FlashTrade,defi,75,0,0,10,SOL,,flashtrade,flash.trade,"flashtrade,flash-trade",,,,false,
-AlphaFi Agg,defi,75,0,0,10,,,alphafi-agg,alphafi.xyz,"alphafi agg,alphafi-agg",,,,false,
-Endur,defi,75,0,0,10,,,endur,app.endur.fi,endur,,,,false,
-Hegic,defi,75,0,0,10,ARBITRUM|ETH,,hegic,hegic.co,hegic,,,,false,
-Antarctic,defi,75,0,0,10,ARBITRUM,,antarctic,antarctic.exchange,antarctic,,,,false,
+Belt Finance,defi,75,0,0,10,BSC,,belt,belt.fi,belt,,arkham,2026-05-11,false,5ab6850db35d64df27dae1b3a56dc5f1438551403f2c441e8af7298424123b97
+Fuel Bridge,bridge,75,0,0,10,ETH,,fuel-bridge,app.fuel.network,"fuel bridge,fuel-bridge,fuel-network",,arkham,2026-05-11,false,f41b2e526a184da6711b7751da3329f7a53db74274b31b4064c9d62bd300a56d
+Gravity Bridge,bridge,75,0,0,10,ETH,,gravity-bridge,gravitybridge.net,"gravity bridge,gravity-bridge,graviton",,arkham,2026-05-11,false,7cb868647ae13fdd19f672691037596c003f84c6f2f48041bcc3f5afba017d0b
+BTCFi CDP,defi,75,0,0,10,BTC|BASE,,btcfi-cdp,btcfi.one,"btcfi cdp,btcfi-cdp",,defillama,2026-05-11,false,9defb9a9ace4c8a7f5fe28ed2f53ed91c979fbd818b2aa73c9c3a1835cda5826
+Revert Lend,defi,75,0,0,10,BASE|ARBITRUM|ETH,,revert-lend,revert.finance,"revert lend,revert-lend",,defillama,2026-05-11,false,02a71a370f5034888037f7448820f4a01a7d300430e652134c6c095417f3cc09
+Beets DEX V3,dex,75,0,0,10,,,beets,beets.fi,"beets dex,beets",,arkham,2026-05-11,false,c709bd6c01d05fae67a855d8431cb00e47f22b73e79baa67fe6c3fb1f7def49b
+Tropykus RSK,defi,75,0,0,10,,,tropykus-rsk,app.tropykus.com,"tropykus rsk,tropykus-rsk",,arkham,2026-05-11,false,6304afd652059d7db47a9f465353a5af3a5f588f52d48bf8a0f6d39c5a45931c
+Odyssey Finance,defi,75,0,0,10,ETH|BASE|OPTIMISM,,odyssey,app.odyssey.finance,odyssey,,favicon,2026-05-11,false,57418e683c4e0c8d264e733e4b52e5c3a775728bff0710d23e6563c13fb438a3
+ApeSwap AMM,dex,75,0,0,10,BSC|POLYGON|ARBITRUM|ETH,,apeswap-amm,ape.bond,"apeswap amm,apeswap-amm",,arkham,2026-05-11,false,b0754bf01f520cf51975cd1afb9167650c83832a9e67b8c05c828c39f5ac0586
+EVAA Protocol,defi,75,0,0,10,,,evaa,evaa.finance,evaa,,arkham,2026-05-11,false,5bfae9b370a78ce5b278fd96f8a4998e6931fcac748f917f6e64b3ad633d4fd2
+Current,defi,75,0,0,10,,,current,current.finance,current,,defillama,2026-05-11,false,d3fa3c15a26788f8e990a7c9e72b7af75ecb70c28352b35335e9d4453ef37841
+Chainflip AMM,dex,75,0,0,10,ETH,,chainflip-amm,chainflip.io,"chainflip amm,chainflip-amm",,arkham,2026-05-11,false,8e74a36963bcab25c119db9e35f916a2f80b22fe26b2804e1fecc835fff837e8
+Loopring,dex,75,0,0,10,ETH|BASE,,loopring,loopring.org,loopring,,arkham,2026-05-11,false,e4b897e55a5d7186a9b7a672fb6f76b6c4b1dade48f9b899ab5a890cc9545c09
+Meld Gold,defi,75,0,0,10,,,meld-gold,meld.gold,"meld gold,meld-gold",,arkham,2026-05-11,false,6c28a0f1650e9f20f4862973622ff55610cd4231dc099b014bbdab3dfe195897
+SuperEarn,defi,75,0,0,10,,,superearn,superearn.io,superearn,,defillama,2026-05-11,false,c485d6f133536239fd6baaa74b48ae81716d54b26d9300fc342432b32cc0feb9
+Boros,defi,75,0,0,10,ARBITRUM,,boros,boros.pendle.finance,boros,,defillama,2026-05-11,false,725f28cdf7a71ea4796850f5b05eb424dd22529ca0aa135f299039ac26355d8e
+BEND,defi,75,0,0,10,,,bend,bend.berachain.com,bend,,defillama,2026-05-11,false,21fdf118231e671d8ff8c0f0f251e35ad2d8b95447cde8f46b6fa0a7870736fe
+Maya Protocol,bridge,75,0,0,10,BTC|ETH|ARBITRUM,,maya,mayaprotocol.com,"maya,cacao",,arkham,2026-05-11,false,c11233b0f38be2fd1aec6c33aa2a1f6fefeddced8e872ed12581a35abd94b651
+Kava Lend,defi,75,0,0,10,,,kava-lend,app.kava.io,"kava lend,kava-lend",,arkham,2026-05-11,false,5c01a69e1f48c01d74b33cf0b0f14f73145eb53b1cded546c78cc60ef960cb9f
+Dinari,defi,75,0,0,10,ETH|ARBITRUM|BASE,,dinari,dinari.com,dinari,,arkham,2026-05-11,false,d86fdd537a9c2cb4ef3bd9fd4da6c7fb20b8d6bb745f43cca6db948b4caaff82
+Katana DEX,dex,75,0,0,10,,,katana,app.roninchain.com,"katana dex,katana",,defillama,2026-05-11,false,9a6d7a10eef5a042025445927f5ae813e646d076b3b86b3bb5544a8d625cd140
+Overnight Finance,defi,75,0,0,10,BASE|ARBITRUM|OPTIMISM|BSC|POLYGON,,overnight,overnight.fi,"overnight,overnight-finance",,arkham,2026-05-11,false,68f47b7b2221ed2dd972fff368dce8d7e01850a0b7df9c472c3ec0851b9b6285
+Angstrom,dex,75,0,0,10,ETH,,angstrom,angstrom.xyz,angstrom,,arkham,2026-05-11,false,7c2366c6443628fcac07ea9789551f941de807b23f25546d33f331c5888358f1
+Sovryn Dex,dex,75,0,0,10,,,sovryn,sovryn.app,"sovryn dex,sovryn",,arkham,2026-05-11,false,22007f09d82302526d22b05caa1d516f692c19a63bd86436b046c87c00090d07
+Aries Markets,defi,75,0,0,10,,,aries-markets,ariesmarkets.xyz,"aries markets,aries-markets",,arkham,2026-05-11,false,ae970c65e1f7e1e8f6d723e984fced375911f01f23b92704a87aa42ad3a941b0
+FlashTrade,defi,75,0,0,10,SOL,,flashtrade,flash.trade,"flashtrade,flash-trade",,defillama,2026-05-11,false,1773bcc208ec929c1e09565acf7ea215214bfd0f8849e671e9a85e705932cab1
+AlphaFi Agg,defi,75,0,0,10,,,alphafi-agg,alphafi.xyz,"alphafi agg,alphafi-agg",,arkham,2026-05-11,false,3a861d7167c7e126e5d8e14b0cfce914035992b4d51b4ebe51ea1fc16768d93d
+Endur,defi,75,0,0,10,,,endur,app.endur.fi,endur,,arkham,2026-05-11,false,b3eeb293130afa030e07951e79d9480bf0998bded211a1e4423202e851280e50
+Hegic,defi,75,0,0,10,ARBITRUM|ETH,,hegic,hegic.co,hegic,,arkham,2026-05-11,false,dde38696ea66b0a3b84f409e137413a502841c25e5f22e3679780388980d5239
+Antarctic,defi,75,0,0,10,ARBITRUM,,antarctic,antarctic.exchange,antarctic,,arkham,2026-05-11,false,89a33bac1a229577169a55f7f3c11634b7ca8760ddb16b65e331d185957de842
 Bingx.com,exchange,99.9,66,85,5,BSC|ETH|TRON,scorechain-counterparties,bingx-com,bingx.com,bingx,,arkham,2026-04-22,false,28be759f2b86bae73350effc77bdd6fbdc98649973b1341fc2692fdbb5de111a
 Gate.io,exchange,99.8,65,85,5,BSC|ETH|TRON,scorechain-counterparties,gate-io,gate.io,"gate.io,gateio,gate io",,arkham,2026-04-22,false,d7e86952c6f88d15bb30b32272f4cd53d01f013652be8c77c98c2cb961ae1201
 Mexc.com,exchange,99.7,64,85,5,BSC|ETH|TRON,scorechain-counterparties,mexc-com,mexc.com,mexc,,arkham,2026-04-22,false,198dc1013085b53adac3e7c73a8fc11302339c694a5c722e6ccdf2515737f81d
