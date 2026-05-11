@@ -1,12 +1,14 @@
 """Orchestrator — walk entities.csv, fill in missing/stale logos.
 
-Pipeline per row:
-    1. skip if manual_lock=true
-    2. skip if fresh (logo_updated_at within REFRESH_DAYS, status != 'none')
-    3. if logos/_manual/<cat>/<slug>.png exists → copy over, set manual
-    4. else: Arkham -> Brandfetch -> DefiLlama; first hit wins
-    5. normalize -> 160x160 RGBA PNG
-    6. sha256 check: write + update CSV only if bytes changed
+Pre-filters to only candidates that need work (not locked, not
+fresh) so the HTTP loop touches only rows without a logo. --force
+disables the freshness gate to re-check everything.
+
+Pipeline per candidate:
+    1. if logos/_manual/<cat>/<slug>.png exists → copy over, set manual
+    2. else: Arkham -> Brandfetch -> DefiLlama -> Favicon; first hit wins
+    3. normalize -> 160x160 RGBA PNG
+    4. sha256 check: write + update CSV only if bytes changed
 
 After the walk, rewrite logos/_index.json for consumers that want
 existence checks without a 404 round-trip.
@@ -199,7 +201,9 @@ def run(
     rows.sort(key=lambda r: r.importance, reverse=True)
 
     counters = {
-        "scanned": 0, "skipped_lock": 0, "skipped_fresh": 0,
+        "total": 0, "candidates": 0,
+        "skipped_lock": 0, "skipped_fresh": 0,
+        "scanned": 0,
         "hit_manual": 0, "hit_arkham": 0, "hit_brandfetch": 0,
         "hit_defillama": 0, "hit_favicon": 0, "hit_placeholder": 0,
         "miss": 0, "unchanged": 0,
@@ -207,11 +211,6 @@ def run(
     }
 
     _ensure_fallback(dry_run)
-    # Category-specific placeholder bytes. Cache per-category so we
-    # don't re-read the file for every miss. `hack` currently has its
-    # own "anonymous hacker" glyph at logos/_fallback/hack.png; add a
-    # `<cat>.png` there to get the same treatment for a new category,
-    # no code change needed.
     placeholder_cache: dict[str, bytes] = {}
     default_placeholder = FALLBACK_PNG.read_bytes() if FALLBACK_PNG.exists() else None
 
@@ -223,29 +222,27 @@ def run(
         placeholder_cache[category_slug] = data
         return data
 
-    budget = max_rows if max_rows is not None else len(rows)
-    processed = 0
+    # Pre-filter: only rows that actually need work enter the loop.
+    candidates: list[Row] = []
+    for row in rows:
+        if category and row.category_slug != category:
+            continue
+        counters["total"] += 1
+        if row.manual_lock:
+            counters["skipped_lock"] += 1
+            continue
+        if not force and _is_fresh(row):
+            counters["skipped_fresh"] += 1
+            continue
+        candidates.append(row)
+
+    counters["candidates"] = len(candidates)
+    budget = max_rows if max_rows is not None else len(candidates)
 
     with httpx.Client(timeout=httpx.Timeout(10.0, connect=5.0),
                       follow_redirects=True) as client:
-        for row in rows:
-            if category and row.category_slug != category:
-                continue
-            if processed >= budget:
-                break
-            processed += 1
+        for row in candidates[:budget]:
             counters["scanned"] += 1
-
-            if row.manual_lock:
-                counters["skipped_lock"] += 1
-                if verbose:
-                    log(f"lock    {row.entity_name}")
-                continue
-            if not force and _is_fresh(row):
-                counters["skipped_fresh"] += 1
-                if verbose:
-                    log(f"fresh   {row.entity_name}")
-                continue
 
             raw: bytes | None = None
             source: str | None = None
@@ -346,9 +343,11 @@ def main() -> int:
     )
 
     print("---")
-    print(f"scanned:        {c['scanned']}")
+    print(f"total:          {c['total']}")
     print(f"skipped (lock): {c['skipped_lock']}")
     print(f"skipped (fresh):{c['skipped_fresh']}")
+    print(f"candidates:     {c['candidates']}")
+    print(f"scanned:        {c['scanned']}")
     print(f"manual hits:    {c['hit_manual']}")
     print(f"arkham hits:    {c['hit_arkham']}")
     print(f"brandfetch:     {c['hit_brandfetch']}")
