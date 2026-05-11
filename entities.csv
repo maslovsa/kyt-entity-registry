@@ -591,7 +591,7 @@ ArcadiaFi,defi,98.8,104,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POL
 BingX,exchange,98.8,104,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bingx,,,,arkham,2026-04-22,false,28be759f2b86bae73350effc77bdd6fbdc98649973b1341fc2692fdbb5de111a
 DeltaPrime,defi,98.8,104,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,deltaprime,,,,manual,2026-05-03,true,6a2090337237215111e44c0db66f54c95b4c3328fab27a5b44280e8a54883887
 FourMeme,defi,98.8,104,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,fourmeme,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
-Hopelend,defi,98.8,104,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,hopelend,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Hopelend,defi,98.8,104,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,hopelend,,,,defillama,2026-05-11,false,105364671381dd0ec027e9995c181793dd56002c4cff3dac775c2ab5a8465b70
 Kub Split,defi,98.8,104,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,kub-split,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 MetaPoint,defi,98.8,104,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,metapoint,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Seneca Protocol - REKT,defi,98.8,104,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,seneca-protocol-rekt,,,,arkham,2026-04-22,false,f902e32532b839e0aae451462a380e2f87c92c00ad5fdc6d1ef399414d4cac45
@@ -693,7 +693,7 @@ Korbit,exchange,93.8,,85,5,BSC|ETH|TRON,scorechain-counterparties,korbit-kr,korb
 NOWPayments,psp,93.8,,85,15,BSC|ETH|TRON,scorechain-counterparties,nowpayments-io,nowpayments.io,"nowpayments,now payments",,manual,2026-04-29,true,aa66e3c115f6bca716a8b94bb268977ea436ec43d9409a187426e99ee1d7ea19
 Swyftx.com,exchange,93.8,,85,5,BSC|ETH|TRON,scorechain-counterparties,swyftx-com,swyftx.com,swyftx,,manual,2026-04-29,true,79438fd59e6fcaec91ebf597525b78f34a6d84be9bb031e7c8b2c566bc9386c8
 WestWallet.io,psp,93.8,,85,15,BSC|ETH|TRON,scorechain-counterparties,westwallet-io,westwallet.io,westwallet,,manual,2026-04-29,true,700c01b49bb960da23155c4e7030e7af1a9f154b9e067368e16297721d2d26fc
-yel,defi,93.8,134,70,5,AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,defillama-adapters,yel,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+yel,defi,93.8,134,70,5,AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,defillama-adapters,yel,,,,defillama,2026-05-11,false,bccd0625c0e702f853de391c242620ebc916310521b38f4b14827a1a86064102
 1xBet.com,gambling,93.5,24,85,50,BSC|ETH,scorechain-counterparties,1xbet-com,1xbet.com,"1xbet,1xbet.com",,arkham,2026-04-22,false,32d008ea8a6b652e1416388cfeb561279a48ce84adca7b3be5c700c0fe46e438
 Ceffu.com,wallet,93.5,,85,15,BSC|ETH|TRON,scorechain-counterparties,ceffu-com,ceffu.com,ceffu,,manual,2026-04-29,true,7b714b9e78a388d22c2ea7d35378a150e726fbe70c60b7c294a03dc6fcdff405
 Copper.co,wallet,93.5,,85,15,BSC|ETH|TRON,scorechain-counterparties,copper-co,copper.co,copper,,manual,2026-04-29,true,7ebd95e7587723d8bec0d506be4eebd7c6562fab82f6508110e00636d4fca9d8
@@ -1003,7 +1003,7 @@ Raft,defi,83.6,88,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,h
 Sonne,defi,83.6,88,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,sonne,,,,arkham,2026-05-11,false,81e2a888575be28950a6415bc4bd4f213156b71a4175c2866a0531f577b32b74
 SpaceGodzilla,defi,83.6,88,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,spacegodzilla,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Sturdy,defi,83.6,88,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,sturdy,,,,arkham,2026-05-11,false,c96225db9a29041e48284e13fb79ab4b895a8ddd39cdf0f21b9eb2dbd26a218d
-TeamFinance,defi,83.6,88,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,teamfinance,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+TeamFinance,defi,83.6,88,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,teamfinance,,,,defillama,2026-05-11,false,6739b85f341e1bbdc808ba6969fa7ee53fbd51b202de37b5ec4538d643b454f1
 Token8633 9419,defi,83.6,88,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,token8633-9419,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 UnverifiedContr 0x431abb,defi,83.6,88,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,unverifiedcontr-0x431abb,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Zunami,defi,83.6,88,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,zunami,,,,defillama,2026-05-11,false,671301defe328c88322f3c3a27dc37e0356697c6eb667fd202bb1191bc353425
@@ -1330,7 +1330,7 @@ xy-finance,defi,76.3,109,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|PO
 Agave,defi,76.0,80,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,agave,,,,arkham,2026-05-11,false,dd85b2b4513d7e1f65e7983ba4a9f98eae3ffdd695781e409eea6a73273dfd5c
 Audius,defi,76.0,80,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,audius,,,,arkham,2026-05-11,false,9b078a646a413b53b66dd156d5b29b6ab0bab065d9b615ec62beb299bde5d276
 BonqDAO,defi,76.0,80,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bonqdao,,,,defillama,2026-05-11,false,4dee4e2ddf94a1a84d5f7a6ebb716e333f1548c7433847de9c3172cb6b4a1adb
-Corkprotocol,defi,76.0,80,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,corkprotocol,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Corkprotocol,defi,76.0,80,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,corkprotocol,,,,defillama,2026-05-11,false,cf523d1dc5387dee84f1bfb6408fe2a2dc4e6b6d49e02f1a93fac1c0abd28b25
 EFLeverVault,defi,76.0,80,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,eflevervault,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 IoTeX,defi,76.0,80,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,iotex,,,,arkham,2026-04-22,false,95e7a6b29f62326a58f0f4a4a85ddf304452688868f45a1111e4f4de1172ce99
 LW,defi,76.0,80,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,lw,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
@@ -1358,7 +1358,7 @@ EEE,defi,68.4,72,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,ha
 EtnProduct,defi,68.4,72,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,etnproduct,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 FireBirdPair,defi,68.4,72,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,firebirdpair,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 FPR,defi,68.4,72,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,fpr,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
-HundredFinance,defi,68.4,72,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,hundredfinance,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+HundredFinance,defi,68.4,72,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,hundredfinance,,,,defillama,2026-05-11,false,0d0da21606244f9ad7a6ffe96dd5e2fffc3e2fa71d1c3a4200f4c38bc4232d0f
 Kokomo Finance - REKT,defi,68.4,72,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,kokomo-finance-rekt,,,,manual,2026-05-03,true,b0e28e86b6c06124028e84232146374df0ff952eceb63ca0748bc35ad8b56650
 Liquiditytokens,defi,68.4,72,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,liquiditytokens,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Platypus,defi,68.4,72,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,platypus,,,,arkham,2026-05-11,false,e13bcc75e34899100b7cea2140bcc075079c39f4b97bb71bca54608e310233f6
@@ -1388,7 +1388,7 @@ AAVE Repay Adapter,defi,60.8,64,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTI
 Balancer,defi,60.8,64,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,balancer,,,,arkham,2026-05-11,false,9aa222a714a5c6491eff9ac2808a795b85b041488e02ff741e12438dbc29438d
 BigBangSwap,defi,60.8,64,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bigbangswap,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 BXH,defi,60.8,64,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bxh,,,,arkham,2026-05-11,false,a701ddc76b9e72264fb06026f45ccdea8a841568cc3184533220ab8e5b9d6c18
-ChannelsFinance,defi,60.8,64,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,channelsfinance,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+ChannelsFinance,defi,60.8,64,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,channelsfinance,,,,defillama,2026-05-11,false,3cde51ee4f7ff233a16e84338ee0c1931734503a5043e751c0eb1bce63890f75
 Conic2,defi,60.8,64,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,conic2,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 FloorDAO,defi,60.8,64,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,floordao,,,,defillama,2026-05-11,false,5a2419be66e0e0fd0febe72d6c45d32b27b9f34be3bbc84f7f18c093232a9878
 futureswap,defi,60.8,64,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,futureswap,,,,arkham,2026-05-11,false,745ec088ee4a3a099904112a14dcf60025476756d2f4de4cbce6ad9018f39d50
@@ -1400,14 +1400,14 @@ INUKO,defi,60.8,64,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,
 LiFi,defi,60.8,64,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,lifi,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Nmbplatform,defi,60.8,64,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,nmbplatform,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Palmswap,defi,60.8,64,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,palmswap,,,,arkham,2026-05-11,false,c6ac604e68a0dddfe5c76636b350278692908e50d0c4479417f87e2ae6031bce
-Platypus03,defi,60.8,64,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,platypus03,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Platypus03,defi,60.8,64,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,platypus03,,,,defillama,2026-05-11,false,ba4665fc312a7693009dc65b878f197c20b968455618afb961fe1aa9254f0866
 Poly Network - REKT,defi,60.8,64,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,poly-network-rekt,,,,manual,2026-05-03,true,4c0192be6414c5d3bd7df37d911f879ec44808fa7a14ac31b9cd486cd758cbd8
 RICE,defi,60.8,64,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,rice,,,,arkham,2026-05-11,false,41b9d987117c9d1785dc3ec0f7c5d4098879926f59f30446db1d202292b72103
 TronScan: Dice,gambling,60.8,76,80,50,TRON,tronscan-verified-contracts,tronscan-dice,,,,arkham,2026-05-11,false,ce992148c3056a7582bec7604646fabe6199ec7492c0970d5b3f1e330f5331d6
 unverified 8490,defi,60.8,64,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,unverified-8490,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 unverified b5cb,defi,60.8,64,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,unverified-b5cb,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 VOW,defi,60.8,64,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,vow,,,,arkham,2026-05-11,false,3058b564d50dd659ceefa605b02ea3ff931bd5f24783dac93c4f0b8eac79c0e7
-XaveFinance,defi,60.8,64,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,xavefinance,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+XaveFinance,defi,60.8,64,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,xavefinance,,,,defillama,2026-05-11,false,2f1999cf878ff2772e7e46f832a7166ed7862498c0b10a67d9525f647702af27
 XCarnival,defi,60.8,64,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,xcarnival,,,,arkham,2026-05-11,false,863552395a83049d4644ee3ea6e45e414f35d0fda115f837782701f6f72f1657
 xWin,defi,60.8,64,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,xwin,,,,arkham,2026-05-11,false,ea96a241c4fb3414389f64ec810dee8d60306ac5fb081a482824ef05b290a95c
 Bitmart.com,exchange,60.4,71,85,5,BSC|ETH|TRON,scorechain-counterparties,bitmart-com,bitmart.com,bitmart,,arkham,2026-04-22,false,b838a3dce9a7070c2088cc18111a29c240ba9b6221a73dbea4d05494cb21dd00
@@ -1428,7 +1428,7 @@ Wallex.ir,exchange,53.5,63,85,5,BSC|ETH|TRON,scorechain-counterparties,wallex-ir
 Weex.com,exchange,53.5,63,85,5,BSC|ETH|TRON,scorechain-counterparties,weex-com,weex.com,weex,,arkham,2026-04-22,false,8eb0b2f1fff0689a53ff018ff180c21715664204f2495c84b5069ac9edb1d3e7
 AIS,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,ais,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Astrid,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,astrid,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
-BabyDogeCoin02,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,babydogecoin02,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+BabyDogeCoin02,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,babydogecoin02,,,,defillama,2026-05-11,false,abe20d6db44aeafea6f68b9dc276056ea7ad44bb2a02610e5572684796cee081
 BalancerV2,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,balancerv2,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 BEVO,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bevo,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 BGLD,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bgld,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
@@ -1442,9 +1442,9 @@ DaoMaker,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYG
 DODO - REKT,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,dodo-rekt,,,,arkham,2026-04-22,false,bbf0c5ad1909c23709e626e2b6880cf9be854351b570516f086b13a25ab1419f
 EGD Finance,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,egd,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 ETHFIN,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,ethfin,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
-InverseFinance,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,inversefinance,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+InverseFinance,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,inversefinance,,,,defillama,2026-05-11,false,4bb762c7d7c109de7ac0eaf56e9c54478ff4cc8f1a4ea1e11a71beefe454607f
 JulSwap,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,julswap,,,,arkham,2026-05-11,false,9bf6f84bedc4e07d26f131d9e73189946be196668dc9a4948386ccc930b918d0
-KelpDao,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,kelpdao,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+KelpDao,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,kelpdao,,,,defillama,2026-05-11,false,12031593b049339f572f5f4877ea42217a4c1208b3bc947b95adc2581510b6d8
 kTAF,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,ktaf,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 LABUBU,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,labubu,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 LAXO Token,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,laxo-token,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
@@ -1460,8 +1460,8 @@ NBLGAME,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGO
 NerveBridge,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,nervebridge,,,,defillama,2026-05-11,false,19a80ee847a77ae34fd1e7f2f45d5ef1ec3d64fc7c9d4eb119778b4b16db6621
 NXUSD,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,nxusd,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 OpenLeverage2,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,openleverage2,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
-PeapodsFinance,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,peapodsfinance,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
-Platypus02,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,platypus02,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+PeapodsFinance,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,peapodsfinance,,,,defillama,2026-05-11,false,b6131d891830a659b3bb615acdd8dd5a8a41cb3ddd7ea03e506e0b4360e9b5be
+Platypus02,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,platypus02,,,,defillama,2026-05-11,false,ba4665fc312a7693009dc65b878f197c20b968455618afb961fe1aa9254f0866
 RANTToken,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,ranttoken,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 SELLC,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,sellc,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 SumerMoney,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,sumermoney,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
@@ -1470,10 +1470,10 @@ uniclyNFT,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLY
 unverified 667d,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,unverified-667d,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 vETH,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,veth,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Wintermute - REKT 2,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,wintermute-rekt-2,,,,arkham,2026-04-22,false,4284306f8b1ade87929d6648e936bf71d8447136fac6751cb1c5f1faaee5c65b
-WiseLending,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,wiselending,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+WiseLending,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,wiselending,,,,defillama,2026-05-11,false,598fc27da26174cf89b9f783ed3b5e2ee7aa531ade08c3cbdfd80e597d741a6c
 XSDWETHpool,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,xsdwethpool,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 YYS,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,yys,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
-ZABU,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,zabu,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+ZABU,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,zabu,,,,defillama,2026-05-11,false,2c59f47cee4e4a50fa177a78edc9b42816986fb1c1876028aa76fcb223642cc6
 Zenterest,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,zenterest,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 zkLend,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,zklend,,,,arkham,2026-04-22,false,a8a7465e762cdeb42bd2ea39597e938211914c9b72c51bd327b61bb873c2883c
 ZoomproFinance,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,zoomprofinance,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
@@ -1490,7 +1490,7 @@ Shuffle.com,gambling,49.3,58,85,50,BSC|ETH|TRON,scorechain-counterparties,shuffl
 OFAC SDN: Wang Yunhe 王 云禾,sanctioned,48.0,48,100,95,BTC|ETH|TRON,ofac-sdn,ofac-sdn-wang-yunhe,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Ramzinex.com (Iran — operator 2026-05-09),sanctioned,48.0,48,100,95,BSC|ETH|TRON,manual-admin,ramzinex-com-iran-operator-2026-05-09,,,,arkham,2026-05-11,false,fd0467dccb360292ff225df7050e2010af9a62ba5bf419acdebc90e3771400cd
 angle,defi,47.6,68,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,defillama-adapters,angle,,,,arkham,2026-05-11,false,45bbe52668a0c2feb3e948719c73e118041ce2225447c2f541bce6d88e0a8cf6
-betafinance,defi,47.6,68,70,5,AVALANCHE|ETH|POLYGON,defillama-adapters,betafinance,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+betafinance,defi,47.6,68,70,5,AVALANCHE|ETH|POLYGON,defillama-adapters,betafinance,,,,defillama,2026-05-11,false,996de46b47a20c495fb5c73f7533a6bb96b108f8eb6036a608dbf07d62321ad6
 Cropty,wallet,47.6,56,85,5,TRON,scorechain-counterparties,cropty,,,,arkham,2026-04-22,false,4b7a35e835d8475a7a86a0cf01fc12f4da75596417cd5117bdceab7c7649672d
 OkayPayBot,bot,47.6,56,85,5,TRON,scorechain-counterparties,okaypaybot,,"okaypaybot,okay pay bot",,manual,2026-04-29,true,f16d6be930b9ae6825a0bdbd44c5b86052b2106c32453e3736a69ff249d8b4e1
 Woo X,exchange,47.5,50,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON|TRON,hack-attributions,woo-x,,,,manual,2026-05-03,true,9a0a1a2cb44663a13974d0e7a816d77c0808f47a1bebbb5005de08d4fed298f0
@@ -1506,102 +1506,102 @@ Coinone.co.kr,exchange,45.9,54,85,5,BSC|ETH|TRON,scorechain-counterparties,coino
 matrixport.com,exchange,45.9,54,85,5,BSC|ETH|TRON,scorechain-counterparties,matrixport-com,matrixport.com,matrixport,,arkham,2026-04-22,false,7468b90dff413f787376aa005b5289af03214910c93cc33cd61b77621aa64643
 Specie Wallet,wallet,45.9,54,85,5,ETH|TRON,scorechain-counterparties,specie-wallet,,specie wallet,,manual,2026-04-29,true,8e5a19f985be8636042a46cb53317cabd9c550cec46a9e144c964045b1f8a460
 ZixiPay,wallet,45.9,54,85,5,ETH|TRON,scorechain-counterparties,zixipay,,zixipay,,arkham,2026-04-22,false,97c5a273133e4e416fd641d776bd18778ebd7d695d6490873b590c0a2d94eebf
-3913,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,3913,,,,none,,false,
-AAVEBoost,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,aaveboost,,,,none,,false,
-APIG,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,apig,,,,none,,false,
-Bazaar,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bazaar,,,,none,,false,
-BCT,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bct,,,,none,,false,
-BEARNDAO,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bearndao,,,,none,,false,
-Bedrock DeFi,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bedrock-defi,,,,none,,false,
-BelugaDex,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,belugadex,,,,none,,false,
-Biswap,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,biswap,,,,none,,false,
-BlueberryProtocol,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,blueberryprotocol,,,,none,,false,
-BNO,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bno,,,,none,,false,
-Bob,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bob,,,,none,,false,
+3913,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,3913,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+AAVEBoost,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,aaveboost,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+APIG,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,apig,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Bazaar,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bazaar,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+BCT,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bct,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+BEARNDAO,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bearndao,,,,defillama,2026-05-11,false,0e4eac9cd6b6c6a9e2ae63291e493c0afbdb34008a5dc566b595423da2d30420
+Bedrock DeFi,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bedrock-defi,,,,arkham,2026-05-11,false,7763ee6d7e5e36c6fa6f254714dbdd5ed341770a32cb71ef2072aa8e17c3afab
+BelugaDex,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,belugadex,,,,defillama,2026-05-11,false,4a83dfacadd204e037a9076cd47f270ee5ea0037d8c3e15b8ce2eedc470c41d5
+Biswap,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,biswap,,,,arkham,2026-05-11,false,7c5d203781b200d7ca09f85bc7fcce9b94e86b6a5c3ab583c2fb5dc5ab1903f0
+BlueberryProtocol,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,blueberryprotocol,,,,defillama,2026-05-11,false,9829c7348464baf24b4e842496664069e2c60c444943a9a8572c838755bdd9cc
+BNO,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bno,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Bob,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bob,,,,arkham,2026-05-11,false,257e0cec32d27caf5c173948d3e4933b146765f3fd79b2c092dd083d55a18782
 BTCTurk,exchange,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,btcturk,,,,arkham,2026-04-22,false,a776abe586b491a4c4de662f0a7ffcd9ad471a65d0dc64d21c11126ec43b4582
-BTNFT,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,btnft,,,,none,,false,
-BurnsDefi,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,burnsdefi,,,,none,,false,
-Carrot,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,carrot,,,,none,,false,
-Caterpillar Coin CUT,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,caterpillar-coin-cut,,,,none,,false,
-Chainswap1,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,chainswap1,,,,none,,false,
-CompoundForkloit,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,compoundforkloit,,,,none,,false,
-CompoundUni,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,compounduni,,,,none,,false,
-Convergence,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,convergence,,,,none,,false,
-DFS,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,dfs,,,,none,,false,
-dodo flashloan,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,dodo-flashloan,,,,none,,false,
-DRLVaultV3,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,drlvaultv3,,,,none,,false,
-ElephantStatus,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,elephantstatus,,,,none,,false,
-Gamma,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,gamma,,,,none,,false,
-GoodCompound,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,goodcompound,,,,none,,false,
-HeavensGate,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,heavensgate,,,,none,,false,
-Hexotic,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,hexotic,,,,none,,false,
-HNet,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,hnet,,,,none,,false,
-HYPR,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,hypr,,,,none,,false,
-ImpermaxV3,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,impermaxv3,,,,none,,false,
-IRYSAI,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,irysai,,,,none,,false,
-KRCToken pair,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,krctoken-pair,,,,none,,false,
-LPMine,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,lpmine,,,,none,,false,
-MainnetSettler,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,mainnetsettler,,,,none,,false,
-MAMO,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,mamo,,,,none,,false,
-Market,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,market,,,,none,,false,
-MEVbot 0xdd7c,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,mevbot-0xdd7c,,,,none,,false,
-MFT,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,mft,,,,none,,false,
-MIC,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,mic,,,,none,,false,
-Mono,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,mono,,,,none,,false,
-MulticallWithXera,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,multicallwithxera,,,,none,,false,
-Nalakuvara LotteryTicket50,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,nalakuvara-lotteryticket50,,,,none,,false,
-NFTTrader,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,nfttrader,,,,none,,false,
-Novo,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,novo,,,,none,,false,
-OneInchFusionV1SettlementHack.sol,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,oneinchfusionv1settlementhack-sol,oneinchfusionv1settlementhack.sol,,,none,,false,
-OTSeaStaking,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,otseastaking,,,,none,,false,
-paraspace,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,paraspace,,,,none,,false,
-ParticleTrade,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,particletrade,,,,none,,false,
-Pickle,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,pickle,,,,none,,false,
-PineProtocol,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,pineprotocol,,,,none,,false,
-Pump,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,pump,,,,none,,false,
-RES2,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,res2,,,,none,,false,
-Rico,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,rico,,,,none,,false,
-RodeoFinance,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,rodeofinance,,,,none,,false,
-RoeFinance,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,roefinance,,,,none,,false,
-RuggedArt,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,ruggedart,,,,none,,false,
-SafeDollar,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,safedollar,,,,none,,false,
-SELLC02,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,sellc02,,,,none,,false,
-Shell MEV 0xa898,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,shell-mev-0xa898,,,,none,,false,
-ShibaToken,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,shibatoken,,,,none,,false,
-SHIDO2,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,shido2,,,,none,,false,
-SMOOFSStaking,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,smoofsstaking,,,,none,,false,
-SocketGateway,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,socketgateway,,,,none,,false,
+BTNFT,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,btnft,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+BurnsDefi,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,burnsdefi,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Carrot,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,carrot,,,,arkham,2026-05-11,false,1660067ff21e87b5a8c9b733055d4a17b4d0dd0a9a1303ac83353d6067c429ae
+Caterpillar Coin CUT,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,caterpillar-coin-cut,,,,arkham,2026-05-11,false,dace7d15ddd536a6cdb67c78d8e5808744d39cb7fe3aa30178babad6adaa4e6b
+Chainswap1,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,chainswap1,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+CompoundForkloit,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,compoundforkloit,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+CompoundUni,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,compounduni,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Convergence,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,convergence,,,,arkham,2026-05-11,false,478ace2f1ab690698c5f0bf4d4511c98f8af0c563f01355fc3c9e238eebcf64e
+DFS,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,dfs,,,,arkham,2026-05-11,false,63cf1d17d7891ef5713dac9c7117db5ea33a0f4707854e8a11c52e92ef5c87dd
+dodo flashloan,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,dodo-flashloan,,,,arkham,2026-05-11,false,a5942e41f537cf869e3c7c524e8067407d68ca71837f714116839989df82a582
+DRLVaultV3,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,drlvaultv3,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+ElephantStatus,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,elephantstatus,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Gamma,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,gamma,,,,arkham,2026-05-11,false,ea89b7b2ae53d9383f76803fbfe8062cb0a3cd8fcbd0d775990fa0541d0e4773
+GoodCompound,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,goodcompound,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+HeavensGate,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,heavensgate,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Hexotic,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,hexotic,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+HNet,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,hnet,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+HYPR,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,hypr,,,,arkham,2026-05-11,false,80671328c2110a64ee11b994adcf048ae5bdc85d11f824b8df3644cdd35c8e83
+ImpermaxV3,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,impermaxv3,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+IRYSAI,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,irysai,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+KRCToken pair,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,krctoken-pair,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+LPMine,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,lpmine,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+MainnetSettler,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,mainnetsettler,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+MAMO,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,mamo,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Market,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,market,,,,arkham,2026-05-11,false,1ee64f7019ce47e9f81d23cf96a71b341ed380651fa607eb91da8e639d8e4782
+MEVbot 0xdd7c,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,mevbot-0xdd7c,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+MFT,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,mft,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+MIC,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,mic,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Mono,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,mono,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+MulticallWithXera,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,multicallwithxera,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Nalakuvara LotteryTicket50,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,nalakuvara-lotteryticket50,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+NFTTrader,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,nfttrader,,,,arkham,2026-05-11,false,82c8f65441ef8afdf2c80902314357c0111fc93d6d17146427db1794a1989b60
+Novo,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,novo,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+OneInchFusionV1SettlementHack.sol,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,oneinchfusionv1settlementhack-sol,oneinchfusionv1settlementhack.sol,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+OTSeaStaking,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,otseastaking,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+paraspace,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,paraspace,,,,arkham,2026-05-11,false,8641206a233d687d2130acd8e78e7ab95c97ae4907a64ceffd96f2aa110c31d9
+ParticleTrade,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,particletrade,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Pickle,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,pickle,,,,arkham,2026-05-11,false,f219cbdee1d466ea77c72da5c252bdea8a4e2d49c0761d7ba5177fc27513dfa8
+PineProtocol,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,pineprotocol,,,,defillama,2026-05-11,false,2b3e00835000cb5686fa2ba7f01845aa9a7774ea922810b312f53ab86fae5a26
+Pump,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,pump,,,,defillama,2026-05-11,false,ca7060ee8aebd1051c9f0de3e7cce0c6b7582deb103f7199699d62bab99eec0d
+RES2,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,res2,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Rico,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,rico,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+RodeoFinance,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,rodeofinance,,,,defillama,2026-05-11,false,2c27512f6fd8315e969576448b2adc74eda7d124ccdb2b5a0bfb0b6f22d8911d
+RoeFinance,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,roefinance,,,,defillama,2026-05-11,false,3148b7f83bb625a691674cb396c2ac65608af6560793e0da5a0b11dea49cd5a1
+RuggedArt,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,ruggedart,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+SafeDollar,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,safedollar,,,,arkham,2026-05-11,false,ac7d8f57903da860c92180b2892d2f3909b32670c95e64b8a1cdc2431c262183
+SELLC02,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,sellc02,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Shell MEV 0xa898,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,shell-mev-0xa898,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+ShibaToken,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,shibatoken,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+SHIDO2,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,shido2,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+SMOOFSStaking,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,smoofsstaking,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+SocketGateway,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,socketgateway,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Solv,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,solv,,,,arkham,2026-04-22,false,2ff001c9c30bcbffa0e85f3bc779d533698efbdd500de4a5d23a00013ce9ec12
 StableMagnet - REKT,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,stablemagnet-rekt,,,,manual,2026-05-03,true,3bdb02d44881f5f2e4cef34a28e83ee8696941f4e966bcaa9f3d05e8a15cee43
 Stake - REKT,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,stake-rekt,,,,arkham,2026-04-22,false,5ce577995354d24974b2cb4d6ec119f13ce93cfec189c5eb23f317344d821777
-SteamSwap,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,steamswap,,,,none,,false,
-SynapLogic,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,synaplogic,,,,none,,false,
-TheNFTV2,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,thenftv2,,,,none,,false,
-Tradeonorion,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,tradeonorion,,,,none,,false,
-TransitSwap,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,transitswap,,,,none,,false,
-Unilend,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,unilend,,,,none,,false,
+SteamSwap,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,steamswap,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+SynapLogic,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,synaplogic,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+TheNFTV2,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,thenftv2,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Tradeonorion,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,tradeonorion,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+TransitSwap,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,transitswap,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Unilend,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,unilend,,,,arkham,2026-05-11,false,c55cc259e67ec9dd1edd33b51795932cdc2434aed8b48452e43c63c45f32afeb
 WazirX,exchange,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,wazirx,,,,arkham,2026-04-22,false,7f36a2aa7aedeaea1d3d165f686645595c103ace8358a192b768a4f29d2abf87
-WGPT,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,wgpt,,,,none,,false,
-WiseLending03,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,wiselending03,,,,none,,false,
-WSM,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,wsm,,,,none,,false,
+WGPT,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,wgpt,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+WiseLending03,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,wiselending03,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+WSM,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,wsm,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Yieldblox,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,yieldblox,,,,manual,2026-05-03,true,5f43bd9f294427c503ee83361fce74f88fb471550cd92fec72beea57bb137945
-YodlRouter,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,yodlrouter,,,,none,,false,
-OFAC SDN: Blender.io,sanctioned,45.0,45,100,95,BTC,ofac-sdn,ofac-sdn-blender-io,,,,none,,false,
-Uniswap v3,dex,45.0,53,85,10,BSC|ETH,scorechain-counterparties,uniswap-v3,,,,none,,false,
-avalon-finance,defi,44.8,64,70,5,ARBITRUM|BASE|BSC|ETH,defillama-adapters,avalon-finance,,,,none,,false,
-mobius,defi,44.8,64,70,5,ETH,defillama-adapters,mobius,,,,none,,false,
+YodlRouter,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,yodlrouter,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+OFAC SDN: Blender.io,sanctioned,45.0,45,100,95,BTC,ofac-sdn,ofac-sdn-blender-io,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Uniswap v3,dex,45.0,53,85,10,BSC|ETH,scorechain-counterparties,uniswap-v3,,,,arkham,2026-05-11,false,b924f21ac93e25331075d473882ace524510cf57667322584e04a276b6b383cf
+avalon-finance,defi,44.8,64,70,5,ARBITRUM|BASE|BSC|ETH,defillama-adapters,avalon-finance,,,,defillama,2026-05-11,false,e2d3682b3a51fdd411fd820adebb95b23b50a24acf614b2e3f8851d304fd3753
+mobius,defi,44.8,64,70,5,ETH,defillama-adapters,mobius,,,,arkham,2026-05-11,false,7999e93417b167c575aea1a8f6c7b6f458c5f08826f824e5e4fd30ea313b2cdd
 Upbit.com,exchange,44.2,52,85,5,ETH|TRON,scorechain-counterparties,upbit-com,upbit.com,upbit,,arkham,2026-04-22,false,5289f28335dede2d7ac593bb56c9b534c72058dd0a5377db9ef081a53f210c69
-OFAC SDN: Parsarad Behrouz پارسا راد بهروز,sanctioned,44.0,44,100,95,BTC,ofac-sdn,ofac-sdn-parsarad-behrouz,,,,none,,false,
+OFAC SDN: Parsarad Behrouz پارسا راد بهروز,sanctioned,44.0,44,100,95,BTC,ofac-sdn,ofac-sdn-parsarad-behrouz,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Fixedfloat.com - Ff.io,exchange,43.4,51,85,5,BSC|ETH|TRON,scorechain-counterparties,fixedfloat-com-ff-io,,,,arkham,2026-04-22,false,176809bc46c3e0d5141bd52c656b9ecff7763af0807729700e53a0620023d152
-tothemoon,defi,42.7,61,70,5,ARBITRUM|AVALANCHE|BSC|ETH|OPTIMISM|POLYGON|TRON,defillama-adapters,tothemoon,,,,none,,false,
+tothemoon,defi,42.7,61,70,5,ARBITRUM|AVALANCHE|BSC|ETH|OPTIMISM|POLYGON|TRON,defillama-adapters,tothemoon,,,,defillama,2026-05-11,false,5fbb2ac3ce48a729760135cbf1346b7f8e98a76330cda8ed0e861c431673456b
 Tochka24.org,exchange,41.6,49,85,5,TRON,scorechain-counterparties,tochka24-org,tochka24.org,"""tochka24,tochka 24""",,placeholder,2026-05-09,true,
-curve,defi,41.3,59,70,5,ARBITRUM|BASE|ETH,defillama-adapters,curve,,,,none,,false,
-indx,defi,41.3,59,70,5,BASE,defillama-adapters,indx,,,,none,,false,
-onchaingm,defi,41.3,59,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,defillama-adapters,onchaingm,,,,none,,false,
-Abantether.com (Iran — operator 2026-05-09),sanctioned,41.0,41,100,95,BSC|TRON,manual-admin,abantether-com-iran-operator-2026-05-09,,,,none,,false,
+curve,defi,41.3,59,70,5,ARBITRUM|BASE|ETH,defillama-adapters,curve,,,,arkham,2026-05-11,false,bfdcff824e141febac03026a8b95eb2a111709a69f4279dce63002faf344ac62
+indx,defi,41.3,59,70,5,BASE,defillama-adapters,indx,,,,defillama,2026-05-11,false,8a2b3da47a198fe51756fb3e0235ead206c766623a4521d827be17ed30abc65d
+onchaingm,defi,41.3,59,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,defillama-adapters,onchaingm,,,,defillama,2026-05-11,false,9bbe33087d05fe2f25ce717710aa1ec6f181eb1654ab5884530865be56427d69
+Abantether.com (Iran — operator 2026-05-09),sanctioned,41.0,41,100,95,BSC|TRON,manual-admin,abantether-com-iran-operator-2026-05-09,,,,arkham,2026-05-11,false,27c52cfdf347d4aa0975877ea132996cc39713d750a732411da281cbcd3b0217
 hyperpay.tech,exchange,40.8,48,85,5,BSC|ETH|TRON,scorechain-counterparties,hyperpay-tech,hyperpay.tech,hyperpay,,arkham,2026-04-22,false,bb8995f08a83164c6433ee1acc4eb8287cbf583bf8cffe0fce7c0734089ba269
 Kuna.io,exchange,40.8,48,85,5,ETH|TRON,scorechain-counterparties,kuna-io,kuna.io,kuna,,arkham,2026-04-22,false,32af7f2c02ccdca42f28ed600651745f67d7169c7b2d1144518364e6f040f430
-Ramzinex.com,exchange,40.8,48,85,5,BSC|ETH|TRON,scorechain-counterparties,ramzinex-com,ramzinex.com,,,none,,false,
+Ramzinex.com,exchange,40.8,48,85,5,BSC|ETH|TRON,scorechain-counterparties,ramzinex-com,ramzinex.com,,,manual,2026-05-11,true,77e0fcd41b25ecbaebc3a7e184bceda6032858f61bb4c8ee1b3f83a0c1744c6b
 Sportsbet.io,gambling,40.8,48,85,50,TRON,scorechain-counterparties,sportsbet-io,sportsbet.io,"sportsbet.io,sportsbet",,arkham,2026-04-22,false,fa00398f1299cef13808db8793faae5f6919dda177ec8401a2072a64236d44d2
-weex-cex,defi,40.6,58,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON|TRON,defillama-adapters,weex-cex,,,,none,,false,
-Bitpin.ir,exchange,40.0,47,85,5,BSC|ETH|TRON,scorechain-counterparties,bitpin-ir,bitpin.ir,,,none,,false,
+weex-cex,defi,40.6,58,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON|TRON,defillama-adapters,weex-cex,,,,arkham,2026-05-11,false,5dae7338564b8053bdaee394daa2154b7abc5c265f6e1098a4b4a367e6425f61
+Bitpin.ir,exchange,40.0,47,85,5,BSC|ETH|TRON,scorechain-counterparties,bitpin-ir,bitpin.ir,,,manual,2026-05-11,true,77e0fcd41b25ecbaebc3a7e184bceda6032858f61bb4c8ee1b3f83a0c1744c6b

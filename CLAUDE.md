@@ -292,15 +292,6 @@ failure. Cache `pip` install.
 `gh workflow run enrich-logos.yml --ref main`. Expect ~300 tier-1
 PNGs on run 1.
 
-### T8. Update aegis-platform consumers
-- Delete any local logo copies still in aegis-platform, point
-  readers at jsDelivr.
-- Add `entityLogoUrl()` helper — EXACT TS + Python source lives in
-  [docs/CONSUMERS.md](docs/CONSUMERS.md). Do NOT re-invent the
-  normalization; copy verbatim.
-- Add unit tests from CONSUMERS.md — they catch drift if anyone
-  edits `SUFFIX_STRIP` / `CATEGORY_TO_DIR`.
-
 ### T9. Build + publish `logos/_index.json` as part of enrichment
 - Simple addition to `scripts/enrich.py`: after the run, walk `logos/`
   and emit `{"exchanges/binance-com": true, ...}`
