@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-05-11T15:02:25+00:00",
+  "generated_at": "2026-05-11T20:04:30+00:00",
   "entries": [
     {
       "slug": "001k-exchange",
@@ -662,6 +662,38 @@
       "sanctioned": false
     },
     {
+      "slug": "justcryptos",
+      "category": "bridge",
+      "logo_path": "logos/bridge/justcryptos.png",
+      "keywords": [
+        "justcryptos"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "justlend",
+      "category": "defi",
+      "logo_path": "logos/defi/justlend.png",
+      "keywords": [
+        "justlend",
+        "just"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kamino-lend",
+      "category": "defi",
+      "logo_path": "logos/defi/kamino-lend.png",
+      "keywords": [
+        "kamino lend",
+        "kamino-lend"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "metamask",
       "category": "wallet",
       "logo_path": "logos/wallet/metamask.png",
@@ -678,6 +710,17 @@
       "keywords": [
         "morpho blue",
         "morpho-blue"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ondo-yield-assets",
+      "category": "defi",
+      "logo_path": "logos/defi/ondo-yield-assets.png",
+      "keywords": [
+        "ondo yield assets",
+        "ondo-yield-assets"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -738,6 +781,38 @@
       "sanctioned": false
     },
     {
+      "slug": "sky-lending",
+      "category": "defi",
+      "logo_path": "logos/defi/sky-lending.png",
+      "keywords": [
+        "sky lending",
+        "sky-lending"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "spark-savings",
+      "category": "defi",
+      "logo_path": "logos/defi/spark-savings.png",
+      "keywords": [
+        "spark savings",
+        "spark-savings"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "sparklend",
+      "category": "defi",
+      "logo_path": "logos/defi/sparklend.png",
+      "keywords": [
+        "sparklend"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "spiko",
       "category": "defi",
       "logo_path": "logos/defi/spiko.png",
@@ -786,6 +861,16 @@
       "keywords": [
         "venus core pool",
         "venus-core-pool"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "wbtc",
+      "category": "bridge",
+      "logo_path": "logos/bridge/wbtc.png",
+      "keywords": [
+        "wbtc"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -1539,6 +1624,26 @@
       "sanctioned": false
     },
     {
+      "slug": "babyswap",
+      "category": "dex",
+      "logo_path": "logos/dex/babyswap.png",
+      "keywords": [
+        "babyswap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "debridge",
+      "category": "bridge",
+      "logo_path": "logos/bridge/debridge.png",
+      "keywords": [
+        "debridge"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "dodoex-io",
       "category": "dex",
       "logo_path": "logos/dex/dodoex-io.png",
@@ -2134,6 +2239,17 @@
       "sanctioned": false
     },
     {
+      "slug": "aerodrome-slipstream",
+      "category": "dex",
+      "logo_path": "logos/dex/aerodrome-slipstream.png",
+      "keywords": [
+        "aerodrome slipstream",
+        "aerodrome-slipstream"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "aerodrome",
       "category": "dex",
       "logo_path": "logos/dex/aerodrome.png",
@@ -2177,11 +2293,34 @@
       "sanctioned": false
     },
     {
+      "slug": "avalon-usda",
+      "category": "defi",
+      "logo_path": "logos/defi/avalon-usda.png",
+      "keywords": [
+        "avalon usda",
+        "avalon-usda"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "axelar",
       "category": "bridge",
       "logo_path": "logos/bridge/axelar.png",
       "keywords": [
         "axelar"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "b2-buzz",
+      "category": "bridge",
+      "logo_path": "logos/bridge/b2-buzz.png",
+      "keywords": [
+        "b2 buzz",
+        "b2-buzz",
+        "bsquared-network"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -2198,6 +2337,29 @@
       "sanctioned": false
     },
     {
+      "slug": "benqi-lending",
+      "category": "defi",
+      "logo_path": "logos/defi/benqi-lending.png",
+      "keywords": [
+        "benqi lending",
+        "benqi-lending",
+        "benqi"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "benqi-staked-avax",
+      "category": "defi",
+      "logo_path": "logos/defi/benqi-staked-avax.png",
+      "keywords": [
+        "benqi staked avax",
+        "benqi-staked-avax"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "binance-staked-sol",
       "category": "defi",
       "logo_path": "logos/defi/binance-staked-sol.png",
@@ -2209,12 +2371,34 @@
       "sanctioned": false
     },
     {
+      "slug": "blend-pools",
+      "category": "defi",
+      "logo_path": "logos/defi/blend-pools.png",
+      "keywords": [
+        "blend pools",
+        "blend-pools"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "blockchain-capital",
       "category": "defi",
       "logo_path": "logos/defi/blockchain-capital.png",
       "keywords": [
         "blockchain capital",
         "blockchain-capital"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "buzz-farming",
+      "category": "defi",
+      "logo_path": "logos/defi/buzz-farming.png",
+      "keywords": [
+        "buzz farming",
+        "buzz-farming"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -2295,6 +2479,16 @@
       "sanctioned": false
     },
     {
+      "slug": "crvusd",
+      "category": "defi",
+      "logo_path": "logos/defi/crvusd.png",
+      "keywords": [
+        "crvusd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "derive",
       "category": "defi",
       "logo_path": "logos/defi/derive.png",
@@ -2305,11 +2499,53 @@
       "sanctioned": false
     },
     {
+      "slug": "digift",
+      "category": "defi",
+      "logo_path": "logos/defi/digift.png",
+      "keywords": [
+        "digift"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "dolomite",
       "category": "defi",
       "logo_path": "logos/defi/dolomite.png",
       "keywords": [
         "dolomite"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "doublezero-staked-sol",
+      "category": "defi",
+      "logo_path": "logos/defi/doublezero-staked-sol.png",
+      "keywords": [
+        "doublezero staked sol",
+        "doublezero-staked-sol"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "drift-staked-sol",
+      "category": "defi",
+      "logo_path": "logos/defi/drift-staked-sol.png",
+      "keywords": [
+        "drift staked sol",
+        "drift-staked-sol"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dswap",
+      "category": "dex",
+      "logo_path": "logos/dex/dswap.png",
+      "keywords": [
+        "dswap"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -2331,6 +2567,17 @@
       "keywords": [
         "echo bridge",
         "echo-bridge"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "echo-lending",
+      "category": "defi",
+      "logo_path": "logos/defi/echo-lending.png",
+      "keywords": [
+        "echo lending",
+        "echo-lending"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -2358,11 +2605,76 @@
       "sanctioned": false
     },
     {
+      "slug": "etherfi-borrowing-market",
+      "category": "defi",
+      "logo_path": "logos/defi/etherfi-borrowing-market.png",
+      "keywords": [
+        "etherfi borrowing market",
+        "etherfi-borrowing-market"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "exsat-staking-btc",
+      "category": "bridge",
+      "logo_path": "logos/bridge/exsat-staking-btc.png",
+      "keywords": [
+        "exsat staking btc",
+        "exsat-staking-btc"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "extended",
       "category": "defi",
       "logo_path": "logos/defi/extended.png",
       "keywords": [
         "extended"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "fassets",
+      "category": "bridge",
+      "logo_path": "logos/bridge/fassets.png",
+      "keywords": [
+        "fassets"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "fluid-lending",
+      "category": "defi",
+      "logo_path": "logos/defi/fluid-lending.png",
+      "keywords": [
+        "fluid lending",
+        "fluid-lending"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "fluid-lite",
+      "category": "defi",
+      "logo_path": "logos/defi/fluid-lite.png",
+      "keywords": [
+        "fluid lite",
+        "fluid-lite"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "frax-ether",
+      "category": "defi",
+      "logo_path": "logos/defi/frax-ether.png",
+      "keywords": [
+        "frax ether",
+        "frax-ether"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -2378,12 +2690,43 @@
       "sanctioned": false
     },
     {
+      "slug": "function-fbtc",
+      "category": "bridge",
+      "logo_path": "logos/bridge/function-fbtc.png",
+      "keywords": [
+        "function fbtc",
+        "function-fbtc"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gaib",
+      "category": "defi",
+      "logo_path": "logos/defi/gaib.png",
+      "keywords": [
+        "gaib"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "gmx-perps",
       "category": "defi",
       "logo_path": "logos/defi/gmx-perps.png",
       "keywords": [
         "gmx perps",
         "gmx-perps"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hastra",
+      "category": "defi",
+      "logo_path": "logos/defi/hastra.png",
+      "keywords": [
+        "hastra"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -2551,6 +2894,61 @@
       "sanctioned": false
     },
     {
+      "slug": "lista-cdp",
+      "category": "defi",
+      "logo_path": "logos/defi/lista-cdp.png",
+      "keywords": [
+        "lista cdp",
+        "lista-cdp"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "lista-lending",
+      "category": "defi",
+      "logo_path": "logos/defi/lista-lending.png",
+      "keywords": [
+        "lista lending",
+        "lista-lending"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "lista-liquid-staking",
+      "category": "defi",
+      "logo_path": "logos/defi/lista-liquid-staking.png",
+      "keywords": [
+        "lista liquid staking",
+        "lista-liquid-staking"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "lombard-btc-b",
+      "category": "bridge",
+      "logo_path": "logos/bridge/lombard-btc-b.png",
+      "keywords": [
+        "lombard btc.b",
+        "lombard-btc-b"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "lorenzo-enzobtc",
+      "category": "bridge",
+      "logo_path": "logos/bridge/lorenzo-enzobtc.png",
+      "keywords": [
+        "lorenzo enzobtc",
+        "lorenzo-enzobtc"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "mantle-bridge",
       "category": "bridge",
       "logo_path": "logos/bridge/mantle-bridge.png",
@@ -2574,12 +2972,35 @@
       "sanctioned": false
     },
     {
+      "slug": "marinade-liquid-staking",
+      "category": "defi",
+      "logo_path": "logos/defi/marinade-liquid-staking.png",
+      "keywords": [
+        "marinade liquid staking",
+        "marinade-liquid-staking"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "marinade-native",
       "category": "mining",
       "logo_path": "logos/mining/marinade-native.png",
       "keywords": [
         "marinade native",
         "marinade-native"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "merlins-seal",
+      "category": "bridge",
+      "logo_path": "logos/bridge/merlins-seal.png",
+      "keywords": [
+        "merlins seal",
+        "merlins-seal",
+        "merlin-chain"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -2613,6 +3034,28 @@
       "keywords": [
         "multipli.fi",
         "multipli"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "navi-lending",
+      "category": "defi",
+      "logo_path": "logos/defi/navi-lending.png",
+      "keywords": [
+        "navi lending",
+        "navi-lending"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "nexus-btc",
+      "category": "bridge",
+      "logo_path": "logos/bridge/nexus-btc.png",
+      "keywords": [
+        "nexus btc",
+        "nexus-btc"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -2694,6 +3137,16 @@
       "sanctioned": false
     },
     {
+      "slug": "pumpswap",
+      "category": "dex",
+      "logo_path": "logos/dex/pumpswap.png",
+      "keywords": [
+        "pumpswap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "quickswap",
       "category": "dex",
       "logo_path": "logos/dex/quickswap.png",
@@ -2705,12 +3158,32 @@
       "sanctioned": false
     },
     {
+      "slug": "raac",
+      "category": "defi",
+      "logo_path": "logos/defi/raac.png",
+      "keywords": [
+        "raac"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "raydium-amm",
       "category": "dex",
       "logo_path": "logos/dex/raydium-amm.png",
       "keywords": [
         "raydium amm",
         "raydium-amm"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "re",
+      "category": "defi",
+      "logo_path": "logos/defi/re.png",
+      "keywords": [
+        "re"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -2749,12 +3222,32 @@
       "sanctioned": false
     },
     {
+      "slug": "solvbtc",
+      "category": "bridge",
+      "logo_path": "logos/bridge/solvbtc.png",
+      "keywords": [
+        "solvbtc"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "stacks-sbtc",
       "category": "bridge",
       "logo_path": "logos/bridge/stacks-sbtc.png",
       "keywords": [
         "stacks sbtc",
         "stacks-sbtc"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "stader",
+      "category": "defi",
+      "logo_path": "logos/defi/stader.png",
+      "keywords": [
+        "stader"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -2793,6 +3286,26 @@
       "sanctioned": false
     },
     {
+      "slug": "sthype",
+      "category": "defi",
+      "logo_path": "logos/defi/sthype.png",
+      "keywords": [
+        "sthype"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "suilend",
+      "category": "defi",
+      "logo_path": "logos/defi/suilend.png",
+      "keywords": [
+        "suilend"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "superstate-ustb",
       "category": "defi",
       "logo_path": "logos/defi/superstate-ustb.png",
@@ -2814,12 +3327,44 @@
       "sanctioned": false
     },
     {
+      "slug": "the-vault-liquid-staking",
+      "category": "defi",
+      "logo_path": "logos/defi/the-vault-liquid-staking.png",
+      "keywords": [
+        "the vault liquid staking",
+        "the-vault-liquid-staking"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "theo-network-thbill",
+      "category": "defi",
+      "logo_path": "logos/defi/theo-network-thbill.png",
+      "keywords": [
+        "theo network thbill",
+        "theo-network-thbill"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "tonstakers-lsd",
       "category": "defi",
       "logo_path": "logos/defi/tonstakers-lsd.png",
       "keywords": [
         "tonstakers lsd",
         "tonstakers-lsd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tydro",
+      "category": "defi",
+      "logo_path": "logos/defi/tydro.png",
+      "keywords": [
+        "tydro"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -2845,11 +3390,45 @@
       "sanctioned": false
     },
     {
+      "slug": "usual-usd0",
+      "category": "defi",
+      "logo_path": "logos/defi/usual-usd0.png",
+      "keywords": [
+        "usual usd0",
+        "usual-usd0",
+        "usual"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "vvs-standard",
+      "category": "dex",
+      "logo_path": "logos/dex/vvs-standard.png",
+      "keywords": [
+        "vvs standard",
+        "vvs-standard"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "wisdomtree",
       "category": "defi",
       "logo_path": "logos/defi/wisdomtree.png",
       "keywords": [
         "wisdomtree"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "world-chain",
+      "category": "bridge",
+      "logo_path": "logos/bridge/world-chain.png",
+      "keywords": [
+        "world chain",
+        "world-chain"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -2979,6 +3558,18 @@
       "keywords": [
         "nomiswap.io",
         "nomiswap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "rhino-fi",
+      "category": "bridge",
+      "logo_path": "logos/bridge/rhino-fi.png",
+      "keywords": [
+        "rhino.fi",
+        "rhino",
+        "rhino fi"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -3277,6 +3868,16 @@
       "keywords": [
         "squidrouter.com",
         "squidrouter"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "usdd",
+      "category": "dex",
+      "logo_path": "logos/dex/usdd.png",
+      "keywords": [
+        "usdd"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -3670,6 +4271,16 @@
       "sanctioned": false
     },
     {
+      "slug": "squid",
+      "category": "dex",
+      "logo_path": "logos/dex/squid.png",
+      "keywords": [
+        "squid"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "syrup-fi",
       "category": "defi",
       "logo_path": "logos/defi/syrup-fi.png",
@@ -3959,6 +4570,16 @@
       "sanctioned": false
     },
     {
+      "slug": "component",
+      "category": "dex",
+      "logo_path": "logos/dex/component.png",
+      "keywords": [
+        "component"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "compound-usdc",
       "category": "defi",
       "logo_path": "logos/defi/compound-usdc.png",
@@ -3976,6 +4597,17 @@
       "keywords": [
         "cream.finance",
         "cream"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "crosscurve",
+      "category": "bridge",
+      "logo_path": "logos/bridge/crosscurve.png",
+      "keywords": [
+        "crosscurve",
+        "eywa"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -4412,6 +5044,16 @@
       "sanctioned": false
     },
     {
+      "slug": "pendle",
+      "category": "defi",
+      "logo_path": "logos/defi/pendle.png",
+      "keywords": [
+        "pendle"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "pulsechain-com",
       "category": "bridge",
       "logo_path": "logos/bridge/pulsechain-com.png",
@@ -4561,6 +5203,16 @@
       "sanctioned": false
     },
     {
+      "slug": "ultrayield",
+      "category": "defi",
+      "logo_path": "logos/defi/ultrayield.png",
+      "keywords": [
+        "ultrayield"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "umbria-network",
       "category": "bridge",
       "logo_path": "logos/bridge/umbria-network.png",
@@ -4579,6 +5231,18 @@
       "keywords": [
         "uwu lend",
         "uwu-lend"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "value-liquid",
+      "category": "dex",
+      "logo_path": "logos/dex/value-liquid.png",
+      "keywords": [
+        "value liquid",
+        "value-liquid",
+        "value-liquidity"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -4618,6 +5282,16 @@
       "sanctioned": false
     },
     {
+      "slug": "yearn",
+      "category": "defi",
+      "logo_path": "logos/defi/yearn.png",
+      "keywords": [
+        "yearn"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "yearn-finance",
       "category": "dex",
       "logo_path": "logos/dex/yearn-finance.png",
@@ -4645,6 +5319,17 @@
       "keywords": [
         "40 acres",
         "40-acres"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "aevo-perps",
+      "category": "defi",
+      "logo_path": "logos/defi/aevo-perps.png",
+      "keywords": [
+        "aevo perps",
+        "aevo-perps"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -4716,6 +5401,17 @@
       "sanctioned": false
     },
     {
+      "slug": "alphalend",
+      "category": "defi",
+      "logo_path": "logos/defi/alphalend.png",
+      "keywords": [
+        "alphalend",
+        "bluefin"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "angstrom",
       "category": "dex",
       "logo_path": "logos/dex/angstrom.png",
@@ -4768,12 +5464,34 @@
       "sanctioned": false
     },
     {
+      "slug": "apex-omni",
+      "category": "defi",
+      "logo_path": "logos/defi/apex-omni.png",
+      "keywords": [
+        "apex omni",
+        "apex-omni"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "apollo-diversified-credit-securitize-fund",
       "category": "defi",
       "logo_path": "logos/defi/apollo-diversified-credit-securitize-fund.png",
       "keywords": [
         "apollo diversified credit securitize fund",
         "apollo-diversified-credit-securitize-fund"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "apx-bridge",
+      "category": "bridge",
+      "logo_path": "logos/bridge/apx-bridge.png",
+      "keywords": [
+        "apx bridge",
+        "apx-bridge"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -4813,12 +5531,45 @@
       "sanctioned": false
     },
     {
+      "slug": "asseto-aoabt",
+      "category": "defi",
+      "logo_path": "logos/defi/asseto-aoabt.png",
+      "keywords": [
+        "asseto aoabt",
+        "asseto-aoabt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "aura",
       "category": "defi",
       "logo_path": "logos/defi/aura.png",
       "keywords": [
         "aura",
         "aura-finance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "autofinance",
+      "category": "defi",
+      "logo_path": "logos/defi/autofinance.png",
+      "keywords": [
+        "autofinance",
+        "tokemak"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "avalon-superearn",
+      "category": "defi",
+      "logo_path": "logos/defi/avalon-superearn.png",
+      "keywords": [
+        "avalon superearn",
+        "avalon-superearn"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -4875,6 +5626,16 @@
       "sanctioned": false
     },
     {
+      "slug": "bend",
+      "category": "defi",
+      "logo_path": "logos/defi/bend.png",
+      "keywords": [
+        "bend"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "bifrost-liquid-staking",
       "category": "defi",
       "logo_path": "logos/defi/bifrost-liquid-staking.png",
@@ -4919,12 +5680,98 @@
       "sanctioned": false
     },
     {
+      "slug": "blazestake",
+      "category": "defi",
+      "logo_path": "logos/defi/blazestake.png",
+      "keywords": [
+        "blazestake",
+        "solblaze"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bluefin-spot",
+      "category": "dex",
+      "logo_path": "logos/dex/bluefin-spot.png",
+      "keywords": [
+        "bluefin spot",
+        "bluefin-spot"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bonk-staked-sol",
+      "category": "defi",
+      "logo_path": "logos/defi/bonk-staked-sol.png",
+      "keywords": [
+        "bonk staked sol",
+        "bonk-staked-sol"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "bonzo",
       "category": "defi",
       "logo_path": "logos/defi/bonzo.png",
       "keywords": [
         "bonzo",
         "bonzo-finance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "boros",
+      "category": "defi",
+      "logo_path": "logos/defi/boros.png",
+      "keywords": [
+        "boros"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "brickken",
+      "category": "defi",
+      "logo_path": "logos/defi/brickken.png",
+      "keywords": [
+        "brickken"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "btcfi-cdp",
+      "category": "defi",
+      "logo_path": "logos/defi/btcfi-cdp.png",
+      "keywords": [
+        "btcfi cdp",
+        "btcfi-cdp"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bucket-cdp",
+      "category": "defi",
+      "logo_path": "logos/defi/bucket-cdp.png",
+      "keywords": [
+        "bucket cdp",
+        "bucket-cdp"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bucket-farm",
+      "category": "defi",
+      "logo_path": "logos/defi/bucket-farm.png",
+      "keywords": [
+        "bucket farm",
+        "bucket-farm"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -4945,6 +5792,28 @@
       "logo_path": "logos/dex/camelot.png",
       "keywords": [
         "camelot"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cbridge",
+      "category": "bridge",
+      "logo_path": "logos/bridge/cbridge.png",
+      "keywords": [
+        "cbridge",
+        "celer-network"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cetus-clmm",
+      "category": "dex",
+      "logo_path": "logos/dex/cetus-clmm.png",
+      "keywords": [
+        "cetus clmm",
+        "cetus-clmm"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -4972,6 +5841,17 @@
       "sanctioned": false
     },
     {
+      "slug": "clearpool-tpool",
+      "category": "defi",
+      "logo_path": "logos/defi/clearpool-tpool.png",
+      "keywords": [
+        "clearpool tpool",
+        "clearpool-tpool"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "concentrator",
       "category": "defi",
       "logo_path": "logos/defi/concentrator.png",
@@ -4992,12 +5872,55 @@
       "sanctioned": false
     },
     {
+      "slug": "cronos-zkevm-bridge",
+      "category": "bridge",
+      "logo_path": "logos/bridge/cronos-zkevm-bridge.png",
+      "keywords": [
+        "cronos zkevm bridge",
+        "cronos-zkevm-bridge",
+        "cronos-zkevm-cro"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "crypto-com-liquid-staking",
       "category": "defi",
       "logo_path": "logos/defi/crypto-com-liquid-staking.png",
       "keywords": [
         "crypto.com liquid staking",
         "crypto-com-liquid-staking"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "current",
+      "category": "defi",
+      "logo_path": "logos/defi/current.png",
+      "keywords": [
+        "current"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "curvance",
+      "category": "defi",
+      "logo_path": "logos/defi/curvance.png",
+      "keywords": [
+        "curvance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "curve-llamalend",
+      "category": "defi",
+      "logo_path": "logos/defi/curve-llamalend.png",
+      "keywords": [
+        "curve llamalend",
+        "curve-llamalend"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -5013,11 +5936,32 @@
       "sanctioned": false
     },
     {
+      "slug": "decibel",
+      "category": "defi",
+      "logo_path": "logos/defi/decibel.png",
+      "keywords": [
+        "decibel"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "deepbook",
       "category": "dex",
       "logo_path": "logos/dex/deepbook.png",
       "keywords": [
         "deepbook"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dfdv-staked-sol",
+      "category": "defi",
+      "logo_path": "logos/defi/dfdv-staked-sol.png",
+      "keywords": [
+        "dfdv staked sol",
+        "dfdv-staked-sol"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -5061,6 +6005,17 @@
       "logo_path": "logos/defi/edgevana.png",
       "keywords": [
         "edgevana"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "egas-swap",
+      "category": "dex",
+      "logo_path": "logos/dex/egas-swap.png",
+      "keywords": [
+        "egas swap",
+        "egas-swap"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -5150,11 +6105,108 @@
       "sanctioned": false
     },
     {
+      "slug": "extra-finance-leverage-farming",
+      "category": "defi",
+      "logo_path": "logos/defi/extra-finance-leverage-farming.png",
+      "keywords": [
+        "extra finance leverage farming",
+        "extra-finance-leverage-farming"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "felix-cdp",
+      "category": "defi",
+      "logo_path": "logos/defi/felix-cdp.png",
+      "keywords": [
+        "felix cdp",
+        "felix-cdp"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "felix-usdhl",
+      "category": "defi",
+      "logo_path": "logos/defi/felix-usdhl.png",
+      "keywords": [
+        "felix usdhl",
+        "felix-usdhl"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "firelight",
+      "category": "defi",
+      "logo_path": "logos/defi/firelight.png",
+      "keywords": [
+        "firelight"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "flashtrade",
+      "category": "defi",
+      "logo_path": "logos/defi/flashtrade.png",
+      "keywords": [
+        "flashtrade",
+        "flash-trade"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "folks-finance-lending",
+      "category": "defi",
+      "logo_path": "logos/defi/folks-finance-lending.png",
+      "keywords": [
+        "folks finance lending",
+        "folks-finance-lending"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "frax",
       "category": "defi",
       "logo_path": "logos/defi/frax.png",
       "keywords": [
         "frax"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "frax-swap",
+      "category": "dex",
+      "logo_path": "logos/dex/frax-swap.png",
+      "keywords": [
+        "frax swap",
+        "frax-swap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "frax-usd",
+      "category": "defi",
+      "logo_path": "logos/defi/frax-usd.png",
+      "keywords": [
+        "frax usd",
+        "frax-usd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "fraxlend",
+      "category": "defi",
+      "logo_path": "logos/defi/fraxlend.png",
+      "keywords": [
+        "fraxlend"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -5172,6 +6224,17 @@
       "sanctioned": false
     },
     {
+      "slug": "fulcrom-perps",
+      "category": "defi",
+      "logo_path": "logos/defi/fulcrom-perps.png",
+      "keywords": [
+        "fulcrom perps",
+        "fulcrom-perps"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "fusion-by-ipor",
       "category": "defi",
       "logo_path": "logos/defi/fusion-by-ipor.png",
@@ -5183,12 +6246,54 @@
       "sanctioned": false
     },
     {
+      "slug": "futarchy-amm",
+      "category": "dex",
+      "logo_path": "logos/dex/futarchy-amm.png",
+      "keywords": [
+        "futarchy amm",
+        "futarchy-amm"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "gains",
       "category": "defi",
       "logo_path": "logos/defi/gains.png",
       "keywords": [
         "gains",
         "gains-network"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "geth",
+      "category": "defi",
+      "logo_path": "logos/defi/geth.png",
+      "keywords": [
+        "geth",
+        "guarded-ether"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "glif",
+      "category": "defi",
+      "logo_path": "logos/defi/glif.png",
+      "keywords": [
+        "glif"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gmtrade",
+      "category": "defi",
+      "logo_path": "logos/defi/gmtrade.png",
+      "keywords": [
+        "gmtrade"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -5221,6 +6326,39 @@
         "gravity bridge",
         "gravity-bridge",
         "graviton"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gravity-by-galxe",
+      "category": "bridge",
+      "logo_path": "logos/bridge/gravity-by-galxe.png",
+      "keywords": [
+        "gravity by galxe",
+        "gravity-by-galxe",
+        "g-token"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "grvt-bridge",
+      "category": "bridge",
+      "logo_path": "logos/bridge/grvt-bridge.png",
+      "keywords": [
+        "grvt bridge",
+        "grvt-bridge"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "haedal",
+      "category": "defi",
+      "logo_path": "logos/defi/haedal.png",
+      "keywords": [
+        "haedal"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -5269,6 +6407,50 @@
       "sanctioned": false
     },
     {
+      "slug": "hemi-staking",
+      "category": "defi",
+      "logo_path": "logos/defi/hemi-staking.png",
+      "keywords": [
+        "hemi staking",
+        "hemi-staking"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hemibtc",
+      "category": "bridge",
+      "logo_path": "logos/bridge/hemibtc.png",
+      "keywords": [
+        "hemibtc"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hydration",
+      "category": "dex",
+      "logo_path": "logos/dex/hydration.png",
+      "keywords": [
+        "hydration dex",
+        "hydration",
+        "hydradx"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hydration-lending",
+      "category": "defi",
+      "logo_path": "logos/defi/hydration-lending.png",
+      "keywords": [
+        "hydration lending",
+        "hydration-lending"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "hylo-lsts",
       "category": "defi",
       "logo_path": "logos/defi/hylo-lsts.png",
@@ -5307,6 +6489,17 @@
       "logo_path": "logos/dex/hyperion.png",
       "keywords": [
         "hyperion"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hypha",
+      "category": "defi",
+      "logo_path": "logos/defi/hypha.png",
+      "keywords": [
+        "hypha",
+        "gogopool"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -5365,11 +6558,66 @@
       "sanctioned": false
     },
     {
+      "slug": "inverse-finance-firm",
+      "category": "defi",
+      "logo_path": "logos/defi/inverse-finance-firm.png",
+      "keywords": [
+        "inverse finance firm",
+        "inverse-finance-firm",
+        "inverse-finance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "jagpool-staked-sol",
+      "category": "defi",
+      "logo_path": "logos/defi/jagpool-staked-sol.png",
+      "keywords": [
+        "jagpool staked sol",
+        "jagpool-staked-sol"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "joe",
       "category": "dex",
       "logo_path": "logos/dex/joe.png",
       "keywords": [
         "joe"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kaio",
+      "category": "defi",
+      "logo_path": "logos/defi/kaio.png",
+      "keywords": [
+        "kaio"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "katana",
+      "category": "dex",
+      "logo_path": "logos/dex/katana.png",
+      "keywords": [
+        "katana dex",
+        "katana"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "katana-pre-launch",
+      "category": "defi",
+      "logo_path": "logos/defi/katana-pre-launch.png",
+      "keywords": [
+        "katana pre-launch",
+        "katana-pre-launch"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -5392,6 +6640,17 @@
       "keywords": [
         "kava mint",
         "kava-mint"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kinetic",
+      "category": "defi",
+      "logo_path": "logos/defi/kinetic.png",
+      "keywords": [
+        "kinetic",
+        "joule-2"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -5429,12 +6688,33 @@
       "sanctioned": false
     },
     {
+      "slug": "kumbaya",
+      "category": "dex",
+      "logo_path": "logos/dex/kumbaya.png",
+      "keywords": [
+        "kumbaya"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "linear",
       "category": "defi",
       "logo_path": "logos/defi/linear.png",
       "keywords": [
         "linear",
         "linear-protocol-lnr"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "liqwid",
+      "category": "defi",
+      "logo_path": "logos/defi/liqwid.png",
+      "keywords": [
+        "liqwid",
+        "liqwid-finance"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -5447,6 +6727,27 @@
         "lisk bridge",
         "lisk-bridge",
         "lisk"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "lofty",
+      "category": "defi",
+      "logo_path": "logos/defi/lofty.png",
+      "keywords": [
+        "lofty"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "looped-hype",
+      "category": "defi",
+      "logo_path": "logos/defi/looped-hype.png",
+      "keywords": [
+        "looped hype",
+        "looped-hype"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -5478,6 +6779,18 @@
       "keywords": [
         "manifest trade",
         "manifest-trade"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "manta-pacific",
+      "category": "bridge",
+      "logo_path": "logos/bridge/manta-pacific.png",
+      "keywords": [
+        "manta pacific",
+        "manta-pacific",
+        "manta-network"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -5560,6 +6873,27 @@
       "sanctioned": false
     },
     {
+      "slug": "mento",
+      "category": "defi",
+      "logo_path": "logos/defi/mento.png",
+      "keywords": [
+        "mento"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "merchant-moe-liquidity-book",
+      "category": "dex",
+      "logo_path": "logos/dex/merchant-moe-liquidity-book.png",
+      "keywords": [
+        "merchant moe liquidity book",
+        "merchant-moe-liquidity-book"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "meta-pool-eth",
       "category": "defi",
       "logo_path": "logos/defi/meta-pool-eth.png",
@@ -5577,6 +6911,18 @@
       "keywords": [
         "meta pool near",
         "meta-pool-near"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "metalx-lending",
+      "category": "defi",
+      "logo_path": "logos/defi/metalx-lending.png",
+      "keywords": [
+        "metalx lending",
+        "metalx-lending",
+        "proton-loan"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -5702,6 +7048,17 @@
       "sanctioned": false
     },
     {
+      "slug": "nado-spot",
+      "category": "dex",
+      "logo_path": "logos/dex/nado-spot.png",
+      "keywords": [
+        "nado spot",
+        "nado-spot"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "native-credit-pool",
       "category": "defi",
       "logo_path": "logos/defi/native-credit-pool.png",
@@ -5724,12 +7081,32 @@
       "sanctioned": false
     },
     {
+      "slug": "nerona",
+      "category": "defi",
+      "logo_path": "logos/defi/nerona.png",
+      "keywords": [
+        "nerona"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "nest-credit",
       "category": "defi",
       "logo_path": "logos/defi/nest-credit.png",
       "keywords": [
         "nest credit",
         "nest-credit"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "neverland",
+      "category": "defi",
+      "logo_path": "logos/defi/neverland.png",
+      "keywords": [
+        "neverland"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -5798,6 +7175,39 @@
       "sanctioned": false
     },
     {
+      "slug": "origin-arm",
+      "category": "defi",
+      "logo_path": "logos/defi/origin-arm.png",
+      "keywords": [
+        "origin arm",
+        "origin-arm"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "origin-ether",
+      "category": "defi",
+      "logo_path": "logos/defi/origin-ether.png",
+      "keywords": [
+        "origin ether",
+        "origin-ether"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "origyn",
+      "category": "defi",
+      "logo_path": "logos/defi/origyn.png",
+      "keywords": [
+        "origyn",
+        "origyn-foundation"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "osmosis",
       "category": "dex",
       "logo_path": "logos/dex/osmosis.png",
@@ -5835,6 +7245,16 @@
       "logo_path": "logos/defi/pacifica.png",
       "keywords": [
         "pacifica"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "paimon",
+      "category": "defi",
+      "logo_path": "logos/defi/paimon.png",
+      "keywords": [
+        "paimon"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -5884,6 +7304,17 @@
       "sanctioned": false
     },
     {
+      "slug": "piku",
+      "category": "defi",
+      "logo_path": "logos/defi/piku.png",
+      "keywords": [
+        "piku",
+        "piku-utility-token"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "pnetwork",
       "category": "bridge",
       "logo_path": "logos/bridge/pnetwork.png",
@@ -5915,12 +7346,33 @@
       "sanctioned": false
     },
     {
+      "slug": "project-0",
+      "category": "defi",
+      "logo_path": "logos/defi/project-0.png",
+      "keywords": [
+        "project 0",
+        "project-0"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "project-x",
       "category": "dex",
       "logo_path": "logos/dex/project-x.png",
       "keywords": [
         "project x",
         "project-x"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "proxy",
+      "category": "bridge",
+      "logo_path": "logos/bridge/proxy.png",
+      "keywords": [
+        "proxy"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -5967,6 +7419,27 @@
       "sanctioned": false
     },
     {
+      "slug": "r25",
+      "category": "defi",
+      "logo_path": "logos/defi/r25.png",
+      "keywords": [
+        "r25"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "republic-note",
+      "category": "defi",
+      "logo_path": "logos/defi/republic-note.png",
+      "keywords": [
+        "republic note",
+        "republic-note"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "reservoir",
       "category": "defi",
       "logo_path": "logos/defi/reservoir.png",
@@ -5993,6 +7466,50 @@
       "keywords": [
         "reti pooling",
         "reti-pooling"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "revert-lend",
+      "category": "defi",
+      "logo_path": "logos/defi/revert-lend.png",
+      "keywords": [
+        "revert lend",
+        "revert-lend"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "reya-perps",
+      "category": "defi",
+      "logo_path": "logos/defi/reya-perps.png",
+      "keywords": [
+        "reya perps",
+        "reya-perps"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "rhea-lend",
+      "category": "defi",
+      "logo_path": "logos/defi/rhea-lend.png",
+      "keywords": [
+        "rhea lend",
+        "rhea-lend"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "rhea-lst",
+      "category": "defi",
+      "logo_path": "logos/defi/rhea-lst.png",
+      "keywords": [
+        "rhea lst",
+        "rhea-lst"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -6040,11 +7557,42 @@
       "sanctioned": false
     },
     {
+      "slug": "saphyre",
+      "category": "dex",
+      "logo_path": "logos/dex/saphyre.png",
+      "keywords": [
+        "saphyre"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "saucerswap",
       "category": "dex",
       "logo_path": "logos/dex/saucerswap.png",
       "keywords": [
         "saucerswap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "save",
+      "category": "defi",
+      "logo_path": "logos/defi/save.png",
+      "keywords": [
+        "save"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "scallop-lend",
+      "category": "defi",
+      "logo_path": "logos/defi/scallop-lend.png",
+      "keywords": [
+        "scallop lend",
+        "scallop-lend"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -6072,11 +7620,32 @@
       "sanctioned": false
     },
     {
+      "slug": "sdai",
+      "category": "defi",
+      "logo_path": "logos/defi/sdai.png",
+      "keywords": [
+        "sdai",
+        "savings-xdai"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "serum",
       "category": "dex",
       "logo_path": "logos/dex/serum.png",
       "keywords": [
         "serum"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "shmonad",
+      "category": "defi",
+      "logo_path": "logos/defi/shmonad.png",
+      "keywords": [
+        "shmonad"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -6098,6 +7667,28 @@
       "logo_path": "logos/defi/silo.png",
       "keywords": [
         "silo"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "sky-rwa",
+      "category": "defi",
+      "logo_path": "logos/defi/sky-rwa.png",
+      "keywords": [
+        "sky rwa",
+        "sky-rwa"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "sodex-bridge",
+      "category": "bridge",
+      "logo_path": "logos/bridge/sodex-bridge.png",
+      "keywords": [
+        "sodex bridge",
+        "sodex-bridge"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -6177,12 +7768,43 @@
       "sanctioned": false
     },
     {
+      "slug": "stackingdao",
+      "category": "defi",
+      "logo_path": "logos/defi/stackingdao.png",
+      "keywords": [
+        "stackingdao"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "stakee",
+      "category": "defi",
+      "logo_path": "logos/defi/stakee.png",
+      "keywords": [
+        "stakee"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "stakestone-stone",
       "category": "defi",
       "logo_path": "logos/defi/stakestone-stone.png",
       "keywords": [
         "stakestone stone",
         "stakestone-stone"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "standx-bridge",
+      "category": "bridge",
+      "logo_path": "logos/bridge/standx-bridge.png",
+      "keywords": [
+        "standx bridge",
+        "standx-bridge"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -6205,6 +7827,17 @@
       "keywords": [
         "stellar dex",
         "stellar"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "stkesol-by-sol-strategies",
+      "category": "defi",
+      "logo_path": "logos/defi/stkesol-by-sol-strategies.png",
+      "keywords": [
+        "stkesol by sol strategies",
+        "stkesol-by-sol-strategies"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -6233,12 +7866,54 @@
       "sanctioned": false
     },
     {
+      "slug": "strata-markets",
+      "category": "defi",
+      "logo_path": "logos/defi/strata-markets.png",
+      "keywords": [
+        "strata markets",
+        "strata-markets"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "stusdt",
       "category": "defi",
       "logo_path": "logos/defi/stusdt.png",
       "keywords": [
         "stusdt",
         "staked-usdt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "suibridge",
+      "category": "bridge",
+      "logo_path": "logos/bridge/suibridge.png",
+      "keywords": [
+        "suibridge"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "sunx-bridge",
+      "category": "bridge",
+      "logo_path": "logos/bridge/sunx-bridge.png",
+      "keywords": [
+        "sunx bridge",
+        "sunx-bridge"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "superearn",
+      "category": "defi",
+      "logo_path": "logos/defi/superearn.png",
+      "keywords": [
+        "superearn"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -6276,6 +7951,17 @@
       "sanctioned": false
     },
     {
+      "slug": "sygnum-fiusd-liquidity-fund",
+      "category": "defi",
+      "logo_path": "logos/defi/sygnum-fiusd-liquidity-fund.png",
+      "keywords": [
+        "sygnum fiusd liquidity fund",
+        "sygnum-fiusd-liquidity-fund"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "synapse",
       "category": "bridge",
       "logo_path": "logos/bridge/synapse.png",
@@ -6307,6 +7993,18 @@
       "sanctioned": false
     },
     {
+      "slug": "t-rize",
+      "category": "defi",
+      "logo_path": "logos/defi/t-rize.png",
+      "keywords": [
+        "t rize",
+        "t-rize",
+        "rize"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "taiko-bridge",
       "category": "bridge",
       "logo_path": "logos/bridge/taiko-bridge.png",
@@ -6325,6 +8023,27 @@
       "keywords": [
         "tangible rwa",
         "tangible-rwa"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "termmax",
+      "category": "defi",
+      "logo_path": "logos/defi/termmax.png",
+      "keywords": [
+        "termmax"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "thala-lsd",
+      "category": "defi",
+      "logo_path": "logos/defi/thala-lsd.png",
+      "keywords": [
+        "thala lsd",
+        "thala-lsd"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -6352,11 +8071,32 @@
       "sanctioned": false
     },
     {
+      "slug": "trustake",
+      "category": "defi",
+      "logo_path": "logos/defi/trustake.png",
+      "keywords": [
+        "trustake"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "tzbtc",
       "category": "bridge",
       "logo_path": "logos/bridge/tzbtc.png",
       "keywords": [
         "tzbtc"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "valantis-stex",
+      "category": "dex",
+      "logo_path": "logos/dex/valantis-stex.png",
+      "keywords": [
+        "valantis stex",
+        "valantis-stex"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -6368,6 +8108,17 @@
       "keywords": [
         "vaneck treasury fund",
         "vaneck-treasury-fund"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "vaulta-rex",
+      "category": "defi",
+      "logo_path": "logos/defi/vaulta-rex.png",
+      "keywords": [
+        "vaulta rex",
+        "vaulta-rex"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -6394,12 +8145,33 @@
       "sanctioned": false
     },
     {
+      "slug": "venomstake",
+      "category": "defi",
+      "logo_path": "logos/defi/venomstake.png",
+      "keywords": [
+        "venomstake"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "venus-flux",
       "category": "defi",
       "logo_path": "logos/defi/venus-flux.png",
       "keywords": [
         "venus flux",
         "venus-flux"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "verus-market",
+      "category": "dex",
+      "logo_path": "logos/dex/verus-market.png",
+      "keywords": [
+        "verus market",
+        "verus-market"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -6448,6 +8220,28 @@
       "sanctioned": false
     },
     {
+      "slug": "volo-lst",
+      "category": "defi",
+      "logo_path": "logos/defi/volo-lst.png",
+      "keywords": [
+        "volo lst",
+        "volo-lst"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "wan-bridge",
+      "category": "bridge",
+      "logo_path": "logos/bridge/wan-bridge.png",
+      "keywords": [
+        "wan bridge",
+        "wan-bridge"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "wemix-fi-staking",
       "category": "mining",
       "logo_path": "logos/mining/wemix-fi-staking.png",
@@ -6459,11 +8253,43 @@
       "sanctioned": false
     },
     {
+      "slug": "world-markets-spot",
+      "category": "dex",
+      "logo_path": "logos/dex/world-markets-spot.png",
+      "keywords": [
+        "world markets spot",
+        "world-markets-spot"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "wrapped",
       "category": "bridge",
       "logo_path": "logos/bridge/wrapped.png",
       "keywords": [
         "wrapped"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "xalgo-liquid-staking",
+      "category": "defi",
+      "logo_path": "logos/defi/xalgo-liquid-staking.png",
+      "keywords": [
+        "xalgo liquid staking",
+        "xalgo-liquid-staking"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "yeilend",
+      "category": "defi",
+      "logo_path": "logos/defi/yeilend.png",
+      "keywords": [
+        "yeilend"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -6480,11 +8306,42 @@
       "sanctioned": false
     },
     {
+      "slug": "yieldfi",
+      "category": "defi",
+      "logo_path": "logos/defi/yieldfi.png",
+      "keywords": [
+        "yieldfi"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "yo",
       "category": "defi",
       "logo_path": "logos/defi/yo.png",
       "keywords": [
         "yo"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "yuzu-money",
+      "category": "defi",
+      "logo_path": "logos/defi/yuzu-money.png",
+      "keywords": [
+        "yuzu money",
+        "yuzu-money"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "zest",
+      "category": "defi",
+      "logo_path": "logos/defi/zest.png",
+      "keywords": [
+        "zest"
       ],
       "product_aliases": [],
       "sanctioned": false

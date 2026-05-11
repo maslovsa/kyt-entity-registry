@@ -79,7 +79,15 @@ REGISTRY_CSV_URL = (
 )
 
 # logo_status values that indicate a real PNG exists on the CDN.
-LOGO_READY = {"manual", "arkham", "brandfetch"}
+#
+# `defillama` added 2026-05-12 — DefiLlama-enriched entries have PNGs
+# materialised on disk (logos/<category>/<slug>.png) by the DefiLlama
+# enrichment pipeline.  Widening LOGO_READY lifts ~173 DeFi entries
+# into the runtime manifest (637 → 810 at time of change) without any
+# logo-curation work.  6 pre-existing missing-PNG entries (Iranian /
+# Cambodian sanctioned exchanges using Iran-flag override) were
+# already in the manifest before this change.
+LOGO_READY = {"manual", "arkham", "brandfetch", "defillama"}
 
 # Categories treated as sanctioned for the manifest `sanctioned` flag.
 SANCTIONED_CATEGORIES = {"sanctioned"}
