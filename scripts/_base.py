@@ -70,6 +70,7 @@ CATEGORY_TO_DIR: dict[str, str] = {
     "mixer": "mixer",
     "hack": "hack",
     "sanctioned": "sanctioned",
+    "custodian": "custodian",
 }
 
 _STRIP_SUFFIXES = [

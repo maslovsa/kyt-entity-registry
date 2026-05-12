@@ -63,6 +63,7 @@ const CATEGORY_TO_DIR: Record<string, string> = {
   mixer:            'mixer',
   hack:             'hack',
   sanctioned:       'sanctioned',
+  custodian:        'custodian',
 }
 
 const SUFFIX_STRIP = [
@@ -189,6 +190,7 @@ _CATEGORY_TO_DIR = {
     "mixer":           "mixer",
     "hack":            "hack",
     "sanctioned":      "sanctioned",
+    "custodian":       "custodian",
 }
 
 _STRIP_SUFFIXES = [

@@ -58,6 +58,7 @@ const CATEGORY_TO_DIR = {
   mixer: 'mixer',
   hack: 'hack',
   sanctioned: 'sanctioned',
+  custodian: 'custodian',
 };
 
 const CATEGORY_LABEL = {
@@ -74,6 +75,7 @@ const CATEGORY_LABEL = {
   mixer: 'Mixers',
   hack: 'Hacks',
   sanctioned: 'Sanctioned',
+  custodian: 'Custodians',
 };
 
 /* ── state ──────────────────────────────────────────────────────────── */
