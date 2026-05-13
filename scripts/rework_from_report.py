@@ -226,16 +226,29 @@ def _clear_current_logo(row: Row, dry_run: bool, *, reset_reason: str) -> str:
 
 # ── orchestration ──────────────────────────────────────────────────────
 
-def _plan(report: list[dict[str, str]], rows_by_key: dict[tuple[str, str], Row]) -> list[Action]:
+def _plan(
+    report: list[dict[str, str]],
+    rows_by_key: dict[tuple[str, str], Row],
+    rows_by_slug: dict[str, Row],
+) -> list[Action]:
     out: list[Action] = []
     for r in report:
         key = (r["category_slug"], r["arkham_slug"])
         row = rows_by_key.get(key)
         if row is None:
-            out.append(Action(
-                row=Row(raw=r), kind="skip",
-                detail=f"{r['category_slug']}/{r['arkham_slug']} not in entities.csv"))
-            continue
+            # Category may have changed since the gallery snapshot was taken.
+            # Fall back to lookup by arkham_slug alone.
+            row = rows_by_slug.get(r["arkham_slug"])
+            if row is None:
+                out.append(Action(
+                    row=Row(raw=r), kind="skip",
+                    detail=f"{r['category_slug']}/{r['arkham_slug']} not in entities.csv"))
+                continue
+            # Found under a different category — note it but proceed.
+            print(
+                f"  note   {r['entity_name']}  "
+                f"category moved {r['category_slug']} -> {row.category_slug}"
+            )
 
         png_raw = _decode_data_url(r.get("suggested_logo_data_url", ""))
         reason = (r.get("reason") or "").strip()
@@ -284,8 +297,9 @@ def main() -> int:
     report = _read_report(args.report)
     rows = read_entities()
     rows_by_key = {(r.category_slug, r.arkham_slug): r for r in rows}
+    rows_by_slug = {r.arkham_slug: r for r in rows}
 
-    actions = _plan(report, rows_by_key)
+    actions = _plan(report, rows_by_key, rows_by_slug)
 
     counters = {"apply": 0, "retry": 0, "clear": 0, "log": 0, "skip": 0}
     print(f"report: {args.report.name}  ({len(report)} row(s))")
