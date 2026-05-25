@@ -974,7 +974,7 @@ Dtcpay.com,exchange,84.2,5,85,5,BSC|ETH|TRON,scorechain-counterparties,dtcpay-co
 Elliptic,mixer,84.2,5,85,95,TRON,elliptic-verdicts,elliptic,,,,manual,2026-05-13,true,f93795bd54bf86f439c126f4162596cc97b45572c4db5c6d7616a6670a65ff0d
 Ether.fi,defi,84.2,5,85,10,ETH,scorechain-counterparties,ether-fi,ether.fi,"ether.fi,ether",,arkham,2026-04-22,false,cfba4674b217043401bd97954602edff0f5aebe5f0ab4e2ac80e5ea3c21590ae
 FameMarkets,exchange,84.2,5,85,5,TRON,scorechain-counterparties,famemarkets,,,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
-Feee.io,dex,84.2,5,85,10,TRON,scorechain-counterparties,feee-io,feee.io,"feee.io,feee",,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Feee.io,defi,84.2,5,85,10,TRON,scorechain-counterparties,feee-io,feee.io,"feee.io,feee,feee-io,feeeio",,manual,2026-05-25,true,
 Flow Traders,defi,84.2,5,85,10,ETH,scorechain-counterparties,flow-traders,,"flow traders,flow-traders",,arkham,2026-04-22,false,d9ee2463d6c6f36ee035f6be3fbabbad1f2d1f8beec951211b1d5b150cad3726
 Guarantee,dex,84.2,5,85,10,TRON,scorechain-counterparties,guarantee,,guarantee,,manual,2026-05-13,true,0f009c26d7548e7137d428ab21ce0efad1b56b65286980e95419b1b885edb1d5
 Krystal.app,dex,84.2,5,85,10,BSC,scorechain-counterparties,krystal-app,krystal.app,"krystal.app,krystal",,brandfetch,2026-04-22,false,92473e2afe52e7a31608809f223b0d193d208afb60d0c627902a08cc5c588933
@@ -1605,3 +1605,17 @@ Ramzinex.com,exchange,40.8,48,85,5,BSC|ETH|TRON,scorechain-counterparties,ramzin
 Sportsbet.io,gambling,40.8,48,85,50,TRON,scorechain-counterparties,sportsbet-io,sportsbet.io,"sportsbet.io,sportsbet",,arkham,2026-04-22,false,fa00398f1299cef13808db8793faae5f6919dda177ec8401a2072a64236d44d2
 weex-cex,defi,40.6,58,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON|TRON,defillama-adapters,weex-cex,,,,arkham,2026-05-11,false,5dae7338564b8053bdaee394daa2154b7abc5c265f6e1098a4b4a367e6425f61
 Bitpin.ir,exchange,40.0,47,85,5,BSC|ETH|TRON,scorechain-counterparties,bitpin-ir,bitpin.ir,,,manual,2026-05-11,true,77e0fcd41b25ecbaebc3a7e184bceda6032858f61bb4c8ee1b3f83a0c1744c6b
+Tronify,defi,500,2,85,10,TRON,scorechain-counterparties,tronify,tronify.io,"tronify,buy.tronify",,manual,2026-05-25,true,
+FeeSaver,defi,500,3,90,10,TRON,"scorechain-counterparties,tronscan-tags,tron-super-reps",feesaver,feesaver.com,"feesaver,fee saver",,manual,2026-05-25,true,
+TronSave,defi,500,2,85,10,TRON,"scorechain-counterparties,tronscan-tags",tronsave,tronsave.io,"tronsave,tronsave.io,tronsaver",,manual,2026-05-25,true,
+TronEnergy.io,defi,500,3,80,10,TRON,tronscan-tags,tronenergy-io,tronenergy.io,"tronenergy.io,tronenergyio,tronenergymarket,tronenergyioborrow,tronenergy market,tronenergy.market",,manual,2026-05-25,true,
+TronBid,defi,500,0,80,10,TRON,manual-admin,tronbid,tronbid.com,"tronbid,tronbid.com,tronbid.energy",,manual,2026-05-25,true,
+Profeex,defi,500,0,80,10,TRON,manual-admin,profeex,profeex.io,"profeex,profeex.io,profeex.com",,manual,2026-05-25,true,
+TR.ENERGY,defi,500,0,80,10,TRON,manual-admin,tr-energy,tr.energy,"tr.energy,tr-energy,tr energy",,manual,2026-05-25,true,
+iTRX.io,defi,500,0,80,10,TRON,manual-admin,itrx-io,itrx.io,"itrx.io,itrx-io",,manual,2026-05-25,true,
+CatFee,defi,500,9,70,10,TRON,defillama-adapters,catfee,catfee.io,"catfee,catfee.io",,manual,2026-05-25,true,
+TronZap,defi,500,1,100,10,TRON,manual-admin,tronzap,tronzap.com,"tronzap,tronzap.com",,manual,2026-05-25,true,
+RentTron,defi,500,3,100,10,TRON,manual-admin,renttron,renttron.io,"renttron,renttron.io,rent tron",,manual,2026-05-25,true,
+TronPoolEnergy,defi,500,0,80,10,TRON,manual-admin,tronpoolenergy,tronpoolenergy.com,"tronpoolenergy,tronpoolenergy.com,tronpool energy",,manual,2026-05-25,true,
+TronX Energy,defi,500,0,80,10,TRON,manual-admin,tronxenergy,tronxenergy.com,"tronxenergy,tronxenergy.com,tronx energy,tronex",,placeholder,,false,
+EnergyTRX,defi,500,0,80,10,TRON,manual-admin,energytrx,energy-trx.com,"energytrx,energy-trx,energy-trx.com",,placeholder,,false,
