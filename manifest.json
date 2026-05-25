@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-05-25T14:02:00+00:00",
+  "generated_at": "2026-05-25T14:37:49+00:00",
   "entries": [
     {
       "slug": "001k-exchange",
@@ -8865,6 +8865,55 @@
         "tronpoolenergy",
         "tronpoolenergy.com",
         "tronpool energy"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tronxenergy",
+      "category": "defi",
+      "logo_path": "logos/defi/tronxenergy.png",
+      "keywords": [
+        "tronxenergy",
+        "tronxenergy.com",
+        "tronx energy",
+        "tronex"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "energytrx",
+      "category": "defi",
+      "logo_path": "logos/defi/energytrx.png",
+      "keywords": [
+        "energytrx",
+        "energy-trx",
+        "energy-trx.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tronpool",
+      "category": "defi",
+      "logo_path": "logos/defi/tronpool.png",
+      "keywords": [
+        "tronpool",
+        "tron pool"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "stashtrx",
+      "category": "defi",
+      "logo_path": "logos/defi/stashtrx.png",
+      "keywords": [
+        "stashtrx",
+        "stash-trx",
+        "stash trx",
+        "stashcrypto"
       ],
       "product_aliases": [],
       "sanctioned": false
