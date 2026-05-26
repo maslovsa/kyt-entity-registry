@@ -1622,3 +1622,5 @@ EnergyTRX,defi,500,0,80,10,TRON,manual-admin,energytrx,energy-trx.com,"energytrx
 TronPool,defi,500,1,80,10,TRON,"manual-admin,tronscan-tags",tronpool,,"tronpool,tron pool",,manual,2026-05-25,true,
 TronExchange,defi,500,1,80,10,TRON,"manual-admin,tronscan-tags",tronexchange,,"tronexchange,tron exchange",,placeholder,,false,
 StashTRX,defi,500,0,80,10,TRON,manual-research,stashtrx,stash-trx.com,"stashtrx,stash-trx,stash trx,stashcrypto",,manual,2026-05-25,true,
+Netts,defi,300,1,100,10,TRON,manual-admin,netts,netts.io,"netts,netts.io",,manual,2026-05-26,true,
+Gas Station,defi,300,2,100,10,TRON,manual-admin,gasstation-ai,gasstation.ai,"gasstation,gasstation.ai,gas station",,manual,2026-05-26,true,

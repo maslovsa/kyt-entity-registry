@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-05-25T14:37:49+00:00",
+  "generated_at": "2026-05-26T09:37:48+00:00",
   "entries": [
     {
       "slug": "001k-exchange",
@@ -8914,6 +8914,29 @@
         "stash-trx",
         "stash trx",
         "stashcrypto"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "netts",
+      "category": "defi",
+      "logo_path": "logos/defi/netts.png",
+      "keywords": [
+        "netts",
+        "netts.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gasstation-ai",
+      "category": "defi",
+      "logo_path": "logos/defi/gasstation-ai.png",
+      "keywords": [
+        "gasstation",
+        "gasstation.ai",
+        "gas station"
       ],
       "product_aliases": [],
       "sanctioned": false
