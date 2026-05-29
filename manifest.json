@@ -1,7 +1,221 @@
 {
   "version": 2,
-  "generated_at": "2026-05-26T09:37:48+00:00",
+  "generated_at": "2026-05-29T21:39:03+00:00",
   "entries": [
+    {
+      "slug": "tronify",
+      "category": "defi",
+      "logo_path": "logos/defi/tronify.png",
+      "keywords": [
+        "tronify",
+        "buy.tronify"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "feesaver",
+      "category": "defi",
+      "logo_path": "logos/defi/feesaver.png",
+      "keywords": [
+        "feesaver",
+        "fee saver"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tronsave",
+      "category": "defi",
+      "logo_path": "logos/defi/tronsave.png",
+      "keywords": [
+        "tronsave",
+        "tronsave.io",
+        "tronsaver"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tronenergy-io",
+      "category": "defi",
+      "logo_path": "logos/defi/tronenergy-io.png",
+      "keywords": [
+        "tronenergy.io",
+        "tronenergyio",
+        "tronenergymarket",
+        "tronenergyioborrow",
+        "tronenergy market",
+        "tronenergy.market"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tronbid",
+      "category": "defi",
+      "logo_path": "logos/defi/tronbid.png",
+      "keywords": [
+        "tronbid",
+        "tronbid.com",
+        "tronbid.energy"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "profeex",
+      "category": "defi",
+      "logo_path": "logos/defi/profeex.png",
+      "keywords": [
+        "profeex",
+        "profeex.io",
+        "profeex.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tr-energy",
+      "category": "defi",
+      "logo_path": "logos/defi/tr-energy.png",
+      "keywords": [
+        "tr.energy",
+        "tr-energy",
+        "tr energy"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "itrx-io",
+      "category": "defi",
+      "logo_path": "logos/defi/itrx-io.png",
+      "keywords": [
+        "itrx.io",
+        "itrx-io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "catfee",
+      "category": "defi",
+      "logo_path": "logos/defi/catfee.png",
+      "keywords": [
+        "catfee",
+        "catfee.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tronzap",
+      "category": "defi",
+      "logo_path": "logos/defi/tronzap.png",
+      "keywords": [
+        "tronzap",
+        "tronzap.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "renttron",
+      "category": "defi",
+      "logo_path": "logos/defi/renttron.png",
+      "keywords": [
+        "renttron",
+        "renttron.io",
+        "rent tron"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tronpoolenergy",
+      "category": "defi",
+      "logo_path": "logos/defi/tronpoolenergy.png",
+      "keywords": [
+        "tronpoolenergy",
+        "tronpoolenergy.com",
+        "tronpool energy"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tronxenergy",
+      "category": "defi",
+      "logo_path": "logos/defi/tronxenergy.png",
+      "keywords": [
+        "tronxenergy",
+        "tronxenergy.com",
+        "tronx energy",
+        "tronex"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "energytrx",
+      "category": "defi",
+      "logo_path": "logos/defi/energytrx.png",
+      "keywords": [
+        "energytrx",
+        "energy-trx",
+        "energy-trx.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tronpool",
+      "category": "defi",
+      "logo_path": "logos/defi/tronpool.png",
+      "keywords": [
+        "tronpool",
+        "tron pool"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "stashtrx",
+      "category": "defi",
+      "logo_path": "logos/defi/stashtrx.png",
+      "keywords": [
+        "stashtrx",
+        "stash-trx",
+        "stash trx",
+        "stashcrypto"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "netts",
+      "category": "defi",
+      "logo_path": "logos/defi/netts.png",
+      "keywords": [
+        "netts",
+        "netts.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gasstation-ai",
+      "category": "defi",
+      "logo_path": "logos/defi/gasstation-ai.png",
+      "keywords": [
+        "gasstation",
+        "gasstation.ai",
+        "gas station"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
     {
       "slug": "001k-exchange",
       "category": "exchange",
@@ -711,6 +925,42 @@
       ],
       "product_aliases": [],
       "sanctioned": false
+    },
+    {
+      "slug": "altair-holding-sa-lu",
+      "category": "sanctioned",
+      "logo_path": "logos/sanctioned/altair-holding-sa-lu.png",
+      "keywords": [
+        "altair holding",
+        "altair holding sa",
+        "altair-holding.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": true
+    },
+    {
+      "slug": "old-vector-llc-kg",
+      "category": "sanctioned",
+      "logo_path": "logos/sanctioned/old-vector-llc-kg.png",
+      "keywords": [
+        "old vector",
+        "old vector llc",
+        "old vektor"
+      ],
+      "product_aliases": [],
+      "sanctioned": true
+    },
+    {
+      "slug": "a7a5-token",
+      "category": "sanctioned",
+      "logo_path": "logos/sanctioned/a7a5-token.png",
+      "keywords": [
+        "a7a5",
+        "a7a5 token",
+        "a7a5-token"
+      ],
+      "product_aliases": [],
+      "sanctioned": true
     },
     {
       "slug": "aerodrome-slipstream",
@@ -1977,6 +2227,17 @@
       "keywords": [
         "40 acres",
         "40-acres"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "adrastea-validator",
+      "category": "mining",
+      "logo_path": "logos/mining/adrastea-validator.png",
+      "keywords": [
+        "adrastea validator",
+        "adrastea-validator"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -5841,17 +6102,6 @@
       "sanctioned": false
     },
     {
-      "slug": "kyber-network-kyberswap",
-      "category": "dex",
-      "logo_path": "logos/dex/kyber-network-kyberswap.png",
-      "keywords": [
-        "kyberswap",
-        "kyber-network-kyberswap"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "probit-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/probit-com.png",
@@ -5968,17 +6218,6 @@
       "sanctioned": false
     },
     {
-      "slug": "dodoex-io",
-      "category": "dex",
-      "logo_path": "logos/dex/dodoex-io.png",
-      "keywords": [
-        "dodoex.io",
-        "dodoex"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "openocean",
       "category": "dex",
       "logo_path": "logos/dex/openocean.png",
@@ -6083,17 +6322,6 @@
       "sanctioned": false
     },
     {
-      "slug": "magpiexyz-io",
-      "category": "dex",
-      "logo_path": "logos/dex/magpiexyz-io.png",
-      "keywords": [
-        "magpiexyz.io",
-        "magpiexyz"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "moonpay-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/moonpay-com.png",
@@ -6161,6 +6389,19 @@
       "logo_path": "logos/exchanges/changelly-com.png",
       "keywords": [
         "changelly"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "clipper-exchange",
+      "category": "dex",
+      "logo_path": "logos/dex/clipper-exchange.png",
+      "keywords": [
+        "clipper.exchange",
+        "clipper-exchange",
+        "clipper",
+        "sail-2"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -6522,17 +6763,6 @@
       "sanctioned": false
     },
     {
-      "slug": "kyber-network-kyberswap",
-      "category": "bridge",
-      "logo_path": "logos/bridge/kyber-network-kyberswap.png",
-      "keywords": [
-        "kyberswap",
-        "kyber-network-kyberswap"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "maverick-protocol",
       "category": "dex",
       "logo_path": "logos/dex/maverick-protocol.png",
@@ -6681,17 +6911,6 @@
       "sanctioned": false
     },
     {
-      "slug": "krystal-app",
-      "category": "dex",
-      "logo_path": "logos/dex/krystal-app.png",
-      "keywords": [
-        "krystal.app",
-        "krystal"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "layerzero-network",
       "category": "bridge",
       "logo_path": "logos/bridge/layerzero-network.png",
@@ -6720,18 +6939,6 @@
       "keywords": [
         "nomiswap.io",
         "nomiswap"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "rhino-fi",
-      "category": "bridge",
-      "logo_path": "logos/bridge/rhino-fi.png",
-      "keywords": [
-        "rhino.fi",
-        "rhino",
-        "rhino fi"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -6844,6 +7051,19 @@
       "sanctioned": false
     },
     {
+      "slug": "clipper-exchange",
+      "category": "defi",
+      "logo_path": "logos/defi/clipper-exchange.png",
+      "keywords": [
+        "clipper.exchange",
+        "clipper-exchange",
+        "clipper",
+        "sail-2"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "cow-swap-cow-protocol",
       "category": "bridge",
       "logo_path": "logos/bridge/cow-swap-cow-protocol.png",
@@ -6941,17 +7161,6 @@
       "sanctioned": false
     },
     {
-      "slug": "kyber-network-kyberswap",
-      "category": "defi",
-      "logo_path": "logos/defi/kyber-network-kyberswap.png",
-      "keywords": [
-        "kyberswap",
-        "kyber-network-kyberswap"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "maker-dao",
       "category": "dex",
       "logo_path": "logos/dex/maker-dao.png",
@@ -7009,6 +7218,18 @@
       "logo_path": "logos/dex/relayer-network.png",
       "keywords": [
         "relayer"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "rubic-exchange",
+      "category": "bridge",
+      "logo_path": "logos/bridge/rubic-exchange.png",
+      "keywords": [
+        "rubic.exchange",
+        "rubic-exchange",
+        "rubic"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -7642,6 +7863,17 @@
       "keywords": [
         "biconomy.io",
         "biconomy"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "blockdag-network",
+      "category": "dex",
+      "logo_path": "logos/dex/blockdag-network.png",
+      "keywords": [
+        "blockdag.network",
+        "blockdag"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -8465,6 +8697,16 @@
       "sanctioned": false
     },
     {
+      "slug": "heleket-com",
+      "category": "psp",
+      "logo_path": "logos/psp/heleket-com.png",
+      "keywords": [
+        "heleket"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "96ach-com",
       "category": "gambling",
       "logo_path": "logos/gambling/96ach-com.png",
@@ -8530,17 +8772,6 @@
       "logo_path": "logos/dex/pancakeswap.png",
       "keywords": [
         "pancakeswap"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "lemon-me",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/lemon-me.png",
-      "keywords": [
-        "lemon.me",
-        "lemon"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -8723,220 +8954,6 @@
       "keywords": [
         "sportsbet.io",
         "sportsbet"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "tronify",
-      "category": "defi",
-      "logo_path": "logos/defi/tronify.png",
-      "keywords": [
-        "tronify",
-        "buy.tronify"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "feesaver",
-      "category": "defi",
-      "logo_path": "logos/defi/feesaver.png",
-      "keywords": [
-        "feesaver",
-        "fee saver"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "tronsave",
-      "category": "defi",
-      "logo_path": "logos/defi/tronsave.png",
-      "keywords": [
-        "tronsave",
-        "tronsave.io",
-        "tronsaver"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "tronenergy-io",
-      "category": "defi",
-      "logo_path": "logos/defi/tronenergy-io.png",
-      "keywords": [
-        "tronenergy.io",
-        "tronenergyio",
-        "tronenergymarket",
-        "tronenergyioborrow",
-        "tronenergy market",
-        "tronenergy.market"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "tronbid",
-      "category": "defi",
-      "logo_path": "logos/defi/tronbid.png",
-      "keywords": [
-        "tronbid",
-        "tronbid.com",
-        "tronbid.energy"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "profeex",
-      "category": "defi",
-      "logo_path": "logos/defi/profeex.png",
-      "keywords": [
-        "profeex",
-        "profeex.io",
-        "profeex.com"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "tr-energy",
-      "category": "defi",
-      "logo_path": "logos/defi/tr-energy.png",
-      "keywords": [
-        "tr.energy",
-        "tr-energy",
-        "tr energy"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "itrx-io",
-      "category": "defi",
-      "logo_path": "logos/defi/itrx-io.png",
-      "keywords": [
-        "itrx.io",
-        "itrx-io"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "catfee",
-      "category": "defi",
-      "logo_path": "logos/defi/catfee.png",
-      "keywords": [
-        "catfee",
-        "catfee.io"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "tronzap",
-      "category": "defi",
-      "logo_path": "logos/defi/tronzap.png",
-      "keywords": [
-        "tronzap",
-        "tronzap.com"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "renttron",
-      "category": "defi",
-      "logo_path": "logos/defi/renttron.png",
-      "keywords": [
-        "renttron",
-        "renttron.io",
-        "rent tron"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "tronpoolenergy",
-      "category": "defi",
-      "logo_path": "logos/defi/tronpoolenergy.png",
-      "keywords": [
-        "tronpoolenergy",
-        "tronpoolenergy.com",
-        "tronpool energy"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "tronxenergy",
-      "category": "defi",
-      "logo_path": "logos/defi/tronxenergy.png",
-      "keywords": [
-        "tronxenergy",
-        "tronxenergy.com",
-        "tronx energy",
-        "tronex"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "energytrx",
-      "category": "defi",
-      "logo_path": "logos/defi/energytrx.png",
-      "keywords": [
-        "energytrx",
-        "energy-trx",
-        "energy-trx.com"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "tronpool",
-      "category": "defi",
-      "logo_path": "logos/defi/tronpool.png",
-      "keywords": [
-        "tronpool",
-        "tron pool"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "stashtrx",
-      "category": "defi",
-      "logo_path": "logos/defi/stashtrx.png",
-      "keywords": [
-        "stashtrx",
-        "stash-trx",
-        "stash trx",
-        "stashcrypto"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "netts",
-      "category": "defi",
-      "logo_path": "logos/defi/netts.png",
-      "keywords": [
-        "netts",
-        "netts.io"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "gasstation-ai",
-      "category": "defi",
-      "logo_path": "logos/defi/gasstation-ai.png",
-      "keywords": [
-        "gasstation",
-        "gasstation.ai",
-        "gas station"
       ],
       "product_aliases": [],
       "sanctioned": false

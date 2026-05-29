@@ -1642,3 +1642,5 @@ Ramzinex.com,exchange,40.8,48,85,5,BSC|ETH|TRON,scorechain-counterparties,ramzin
 Sportsbet.io,gambling,40.8,48,85,50,TRON,scorechain-counterparties,sportsbet-io,sportsbet.io,"sportsbet.io,sportsbet",,arkham,2026-05-26,false,6ed2fe92d4d7a0dda94636ba5308ca476d88b56b935edc5cceb3528e2d4ff9bd
 weex-cex,defi,40.6,58,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON|TRON,defillama-adapters,weex-cex,,,,arkham,2026-05-11,false,5dae7338564b8053bdaee394daa2154b7abc5c265f6e1098a4b4a367e6425f61
 Bitpin.ir,exchange,40.0,47,85,5,BSC|ETH|TRON,scorechain-counterparties,bitpin-ir,bitpin.ir,,,manual,2026-05-11,true,77e0fcd41b25ecbaebc3a7e184bceda6032858f61bb4c8ee1b3f83a0c1744c6b
+Ethhorse,gambling,100,300,80,60,ETH,graphsense-tagpacks,ethhorse-com,ethorse.com,"ethhorse,ethorsecom,ethhorse",,graphsense,2026-05-30,false,
+blender.io,mixer,80,45,80,95,BTC,graphsense-tagpacks,blenderio-io,blender.io,"blenderio,blenderio,blenderio",,none,2026-05-30,false,
