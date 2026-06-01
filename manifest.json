@@ -352,7 +352,8 @@
       "keywords": [
         "gate.io",
         "gateio",
-        "gate io"
+        "gate io",
+        "gate"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -8954,6 +8955,17 @@
       "keywords": [
         "sportsbet.io",
         "sportsbet"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tapbit",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/tapbit.png",
+      "keywords": [
+        "tapbit.com",
+        "tapbit"
       ],
       "product_aliases": [],
       "sanctioned": false

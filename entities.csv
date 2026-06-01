@@ -61,7 +61,7 @@ Fei Rari - REKT 2,defi,100,32,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMI
 folks-xchain,defi,100,148,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|POLYGON,defillama-adapters,folks-xchain,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 FortressLoans,defi,100,232,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,fortressloans,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Garantex,sanctioned,100,89,100,100,BSC|ETH|TRON,hack-attributions,garantex,garantex.org,garantex,,manual,2026-04-23,true,5c78e26435214285e9c689bef9e6968102e95d5af360e6d1c48d1f20394b3311
-Gate.io,exchange,100,205,85,5,BSC|ETH|TRON,brianleect-labels|dawsbot-eth-labels|immike-multichain-labels|scorechain-counterparties,gate-io,gate.io,"gate.io,gateio,gate io",,arkham,2026-05-11,false,bb8d7bbbf99cd382c4508193783b2d2bc6c31123dd1784b9cbe43070e205c3ca
+Gate.io,exchange,100,205,85,5,BSC|ETH|TRON,brianleect-labels|dawsbot-eth-labels|immike-multichain-labels|scorechain-counterparties,gate-io,gate.io,"gate.io,gateio,gate io,gate",,arkham,2026-05-11,false,bb8d7bbbf99cd382c4508193783b2d2bc6c31123dd1784b9cbe43070e205c3ca
 Grinex,sanctioned,100,52,100,100,BSC|ETH|TRON,hack-attributions,grinex,grinex.io,grinex,,manual,2026-04-23,true,32883eb3da0bcc0e37ef0974616b09e80f027481f3665c5c0e7938532e95ec15
 GYMNET,defi,100,200,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,gymnet,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Harmony Bridge - REKT,bridge,100,40,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,harmony-bridge-rekt,,,,arkham,2026-05-11,false,44dbf31baef1e1c69850e6058efc2d64d4189ec117ac8c659f86202ce4a9dd65
@@ -1644,3 +1644,4 @@ weex-cex,defi,40.6,58,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON|TRON
 Bitpin.ir,exchange,40.0,47,85,5,BSC|ETH|TRON,scorechain-counterparties,bitpin-ir,bitpin.ir,,,manual,2026-05-11,true,77e0fcd41b25ecbaebc3a7e184bceda6032858f61bb4c8ee1b3f83a0c1744c6b
 Ethhorse,gambling,100,300,80,60,ETH,graphsense-tagpacks,ethhorse-com,ethorse.com,"ethhorse,ethorsecom,ethhorse",,graphsense,2026-05-30,false,
 blender.io,mixer,80,45,80,95,BTC,graphsense-tagpacks,blenderio-io,blender.io,"blenderio,blenderio,blenderio",,none,2026-05-30,false,
+Tapbit.com,exchange,50,3,75,5,TRON,,tapbit,tapbit.com,"tapbit.com,tapbit",,pending,2026-06-01,false,
