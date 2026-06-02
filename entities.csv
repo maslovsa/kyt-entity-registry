@@ -993,7 +993,7 @@ Uniswap,defi,85.2,6,85,10,BSC|ETH,scorechain-counterparties,uniswap,app.uniswap.
 Upay,psp,85.2,6,85,15,TRON,scorechain-counterparties,upay,,upay,,manual,2026-04-23,true,420b66cd669433808b68d2e8f3e7a7fb4f4f4e096f08a294b24a608f572720c1
 Xrex,exchange,85.2,6,85,5,TRON,scorechain-counterparties,xrex,,xrex,,manual,2026-05-13,true,216357599fa35e67a4d094667df0e1e530589782401db691d3d77f41ec317c63
 B2C2,exchange,85.0,6,85,25,ETH,scorechain-counterparties|etherscan-html,b2c2-com,b2c2.com,b2c2,,placeholder,2026-05-09,true,
-Bitrefill.com,psp,85.0,16,85,15,ETH,scorechain-counterparties|etherscan-html,bitrefill-com,bitrefill.com,bitrefill,,placeholder,2026-05-09,true,
+Bitrefill.com,psp,85.0,16,85,15,ETH,scorechain-counterparties|etherscan-html,bitrefill-com,bitrefill.com,bitrefill,,arkham,2026-06-02,true,15e2ea85af66a0dceb9904df4603de8a9e1ed03dbfa28d0d3997cdbf6d447f34
 UnitrustGlobal.com,custodian,85.0,52,85,50,BSC|ETH|TRON,scorechain-counterparties|manual-admin,unitrustglobal-com,unitrustglobal.com,unitrustglobal,,manual,2026-05-12,true,14a1ba933f174cc84103894d38b42224bc9db04aad11afba49877fe76b388bd0
 Zerohash.com,psp,85.0,6,85,15,ETH,scorechain-counterparties|etherscan-html,zerohash-com,zerohash.com,"""zerohash,zero hash""",,placeholder,2026-05-09,true,
 Aifory Pro,exchange,84.2,5,85,5,ETH|TRON,scorechain-counterparties,aifory-pro,,"aifory,aifory pro",,manual,2026-04-23,true,e4348bd585065902b3a6fe3a2f874fccf3ecb3e934618b2b9f1e50514f491d38
@@ -1645,3 +1645,16 @@ Bitpin.ir,exchange,40.0,47,85,5,BSC|ETH|TRON,scorechain-counterparties,bitpin-ir
 Ethhorse,gambling,100,300,80,60,ETH,graphsense-tagpacks,ethhorse-com,ethorse.com,"ethhorse,ethorsecom,ethhorse",,graphsense,2026-05-30,false,
 blender.io,mixer,80,45,80,95,BTC,graphsense-tagpacks,blenderio-io,blender.io,"blenderio,blenderio,blenderio",,none,2026-05-30,false,
 Tapbit.com,exchange,50,3,75,5,TRON,,tapbit,tapbit.com,"tapbit.com,tapbit",,pending,2026-06-01,false,
+Tornado Cash,mixer,95,,,,ETH,,tornado-cash,tornado.cash,"tornado cash,tornado",,arkham,2026-06-02,false,ce62e632633a01bfcc281b1774281efadc5839c2474f116fadcf4845ad2b9633
+BlockFi,exchange,82,,,,ETH|BTC|SOL|POLYGON,,blockfi-com,blockfi.com,blockfi,,arkham,2026-06-02,false,380c514cb2d37c44948732b223b44516dc07a5cd82a5bfc659603b805fb497d1
+Toobit.com,exchange,58,,,,ETH|TRON|BSC,,toobit-com,toobit.com,"toobit,toobit.com",,arkham,2026-06-02,false,7b01da92fb4f06c6ff0db54052fdf027c98b7a566cc82b1134f2eb9a97e7b9e8
+Tradeogre.com,exchange,52,,,,ETH|BTC,,tradeogre-com,tradeogre.com,"tradeogre,tradeogre.com",,arkham,2026-06-02,false,49a9e9de01e941e1d5a6bd05854927a6a707d138a6a3d3def72e76b7e5dd3026
+Coinsbuy.com,exchange,50,,,,ETH|TRON|BTC,,coinsbuy-com,coinsbuy.com,"coinsbuy,coinsbuy.com",,arkham,2026-06-02,false,af351c8e05404b633ac8c0761775f718005076ba5b8f504bc038283dfa1aed51
+Fairdesk,exchange,48,,,,ETH,,fairdesk-com,fairdesk.com,"fairdesk,fairdesk.com",,arkham,2026-06-02,false,24e95f5f87ecf752b86186979e644f9f0b7914f389cd2cdfc45b691418021820
+Beribit.com,exchange,47,,,,ETH|TRON,,beribit-com,beribit.com,"beribit,beribit.com",,none,2026-06-02,false,
+Bitmama.io,exchange,46,,,,ETH|BTC,,bitmama-io,bitmama.io,"bitmama,bitmama.io",,none,2026-06-02,false,
+Ariomex,exchange,42,,,,ETH|TRON,,ariomex,,ariomex,,none,2026-06-02,false,
+BlueBit,exchange,42,,,,ETH,,bluebit,,bluebit,,arkham,2026-06-02,false,f4dc877f413c89e7b325be5b290f87262ef1edc488e7e5d32ddc95c9da1db64d
+Wallet in Telegram,wallet,65,,,,TON|TRON,,wallet-in-telegram,wallet.tg,"wallet in telegram,wallet telegram,wallet.tg",,arkham,2026-06-02,false,66b4ab86ac8355ff54f5ef208fa8b58c1a82374430229a8b03ebf1ee550a1b19
+Wolf.bet,gambling,60,,,,ETH|BSC,,wolf-bet,wolf.bet,"wolf.bet,wolfbet,wolf bet",,arkham,2026-06-02,false,74c1ead345fedbb3a87e8a86a789c49d6dd98401b9044902c5f485787a44d70e
+TG.Casino,gambling,50,,,,ETH,,tg-casino,tg.casino,"tg.casino,tg casino,tgcasino",,arkham,2026-06-02,false,5ddfe901b26ecf86350b57b948af90a3737077d1370896fffb2ea5a3acb66bb3
