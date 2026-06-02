@@ -1658,3 +1658,8 @@ BlueBit,exchange,42,,,,ETH,,bluebit,,bluebit,,arkham,2026-06-02,false,f4dc877f41
 Wallet in Telegram,wallet,65,,,,TON|TRON,,wallet-in-telegram,wallet.tg,"wallet in telegram,wallet telegram,wallet.tg",,arkham,2026-06-02,false,66b4ab86ac8355ff54f5ef208fa8b58c1a82374430229a8b03ebf1ee550a1b19
 Wolf.bet,gambling,60,,,,ETH|BSC,,wolf-bet,wolf.bet,"wolf.bet,wolfbet,wolf bet",,arkham,2026-06-02,false,74c1ead345fedbb3a87e8a86a789c49d6dd98401b9044902c5f485787a44d70e
 TG.Casino,gambling,50,,,,ETH,,tg-casino,tg.casino,"tg.casino,tg casino,tgcasino",,arkham,2026-06-02,false,5ddfe901b26ecf86350b57b948af90a3737077d1370896fffb2ea5a3acb66bb3
+Cryptex.net,sanctioned,90,,,,ETH|TRON|BSC|ARBITRUM|AVALANCHE|BASE|OPTIMISM|POLYGON,,cryptex-net,exchange.cryptex.net,"cryptex,cryptex.net,cryptex exchange",,arkham,2026-06-02,false,75eaf779ba4bf2f57095f2634e5634e51d0caa74b964533a990ac4ff50c5dbe4
+Triv.co.id,exchange,62,,,,TRON|BSC|ETH,,triv,triv.co.id,"triv,triv.co.id",,manual,2026-06-02,false,6bfd8b14aab606f32abb737168e7d6ce14c567877614d274e9675d768da1a505
+Tudou Danbao,exchange,55,,,,TRON,,tudou-danbao,,"tudou danbao,tudou,danbao",土豆担保,none,2026-06-02,false,
+Pingi.co,exchange,48,,,,TRON,,pingi,pingi.co,"pingi,pingi.co",,manual,2026-06-02,false,0c5891adba4a8c9cd9678394a60509ad2595acc87247336bc67b1d55572251f3
+HKD.com,exchange,58,,,,TRON|ETH|BTC,,hkd-com,hkd.com,"hkd,hkd.com",,manual,2026-06-02,false,a883f2c4429ecd9a09420353f30371da14fc68589f1e93a50a59b362c92565d7
