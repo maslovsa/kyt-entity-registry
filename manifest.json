@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-06-02T12:57:56+00:00",
+  "generated_at": "2026-06-02T13:06:22+00:00",
   "entries": [
     {
       "slug": "tronify",
@@ -7717,6 +7717,16 @@
       "sanctioned": false
     },
     {
+      "slug": "bitrefill-com",
+      "category": "psp",
+      "logo_path": "logos/psp/bitrefill-com.png",
+      "keywords": [
+        "bitrefill"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "unitrustglobal-com",
       "category": "custodian",
       "logo_path": "logos/custodian/unitrustglobal-com.png",
@@ -11298,6 +11308,117 @@
         "bitpin",
         "bitpin ir",
         "bitpin.ir"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tornado-cash",
+      "category": "mixer",
+      "logo_path": "logos/mixer/tornado-cash.png",
+      "keywords": [
+        "tornado cash",
+        "tornado"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "blockfi-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/blockfi-com.png",
+      "keywords": [
+        "blockfi"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "toobit-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/toobit-com.png",
+      "keywords": [
+        "toobit",
+        "toobit.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tradeogre-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/tradeogre-com.png",
+      "keywords": [
+        "tradeogre",
+        "tradeogre.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coinsbuy-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/coinsbuy-com.png",
+      "keywords": [
+        "coinsbuy",
+        "coinsbuy.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "fairdesk-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/fairdesk-com.png",
+      "keywords": [
+        "fairdesk",
+        "fairdesk.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bluebit",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bluebit.png",
+      "keywords": [
+        "bluebit"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "wallet-in-telegram",
+      "category": "wallet",
+      "logo_path": "logos/wallet/wallet-in-telegram.png",
+      "keywords": [
+        "wallet in telegram",
+        "wallet telegram",
+        "wallet.tg"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "wolf-bet",
+      "category": "gambling",
+      "logo_path": "logos/gambling/wolf-bet.png",
+      "keywords": [
+        "wolf.bet",
+        "wolfbet",
+        "wolf bet"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tg-casino",
+      "category": "gambling",
+      "logo_path": "logos/gambling/tg-casino.png",
+      "keywords": [
+        "tg.casino",
+        "tg casino",
+        "tgcasino"
       ],
       "product_aliases": [],
       "sanctioned": false
