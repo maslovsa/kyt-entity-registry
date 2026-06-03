@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-06-03T12:18:53+00:00",
+  "generated_at": "2026-06-03T12:37:47+00:00",
   "entries": [
     {
       "slug": "tronify",
@@ -2095,7 +2095,11 @@
       "keywords": [
         "re"
       ],
-      "product_aliases": [],
+      "product_aliases": [
+        "re-score",
+        "rescore",
+        "aegis re-score"
+      ],
       "sanctioned": false
     },
     {
