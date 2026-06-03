@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-06-03T12:37:47+00:00",
+  "generated_at": "2026-06-03T16:50:03+00:00",
   "entries": [
     {
       "slug": "tronify",
@@ -808,6 +808,21 @@
         "centrifuge"
       ],
       "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "circle",
+      "category": "psp",
+      "logo_path": "logos/psp/circle.png",
+      "keywords": [
+        "circle",
+        "circle.com"
+      ],
+      "product_aliases": [
+        "circle usyc",
+        "circle-usyc",
+        "circle usdc"
+      ],
       "sanctioned": false
     },
     {
