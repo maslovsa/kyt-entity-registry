@@ -2160,3 +2160,12 @@ Sportsbet.io,gambling,40.8,48,85,50,TRON,scorechain-counterparties,sportsbet-io,
 weex-cex,defi,40.6,58,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON|TRON,defillama-adapters,weex-cex,,,,arkham,2026-05-11,false,5dae7338564b8053bdaee394daa2154b7abc5c265f6e1098a4b4a367e6425f61
 Bitpin.ir,exchange,40.0,47,85,5,BSC|ETH|TRON,scorechain-counterparties,bitpin-ir,bitpin.ir,"bitpin,bitpin ir,bitpin.ir",,manual,2026-05-11,true,77e0fcd41b25ecbaebc3a7e184bceda6032858f61bb4c8ee1b3f83a0c1744c6b
 Suex.io,sanctioned,100,4,100,100,ETH|TRON,misttrack-verdicts,suex,suex.io,"suex,suex.io",,missing,,false,
+x2bet-win,gambling,100,2,88,65,ETH,misttrack-verdicts,x2bet-win,x2bet.win,"x2bet,x2bet-win,x2bet.win",,missing,,false,
+big-small,gambling,100,3,88,65,TRON,misttrack-verdicts,big-small,,"big-small,bigsmall",,missing,,false,
+Seedify,defi,200,17,88,5,BSC|ETH,misttrack-verdicts,seedify,seedify.fund,"seedify,seedify.fund",,missing,,false,
+spookyswap,dex,200,2,88,5,FANTOM,misttrack-verdicts,spookyswap,spooky.fi,"spookyswap,spooky",,missing,,false,
+gamestation,defi,100,2,88,5,BSC,misttrack-verdicts,gamestation,gamestation.io,"gamestation,game-station",,missing,,false,
+OpenDAO,defi,100,2,88,5,ETH,misttrack-verdicts,opendao,opendao.io,"opendao,sos-token,thesostoken",,missing,,false,
+HedgePay,defi,100,5,88,5,BSC,misttrack-verdicts,hedgepay,hedgepay.org,"hedgepay,hpay",,missing,,false,
+wink,defi,100,14,88,5,TRON,misttrack-verdicts,wink,wink.org,"wink,winklink,winkdao",,missing,,false,
+jp-ex.io,exchange,100,9,88,5,ETH|TRON,misttrack-verdicts,jp-ex-io,jp-ex.io,"jp-ex,jpex,jp-ex.io",,missing,,false,
