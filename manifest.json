@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-06-03T16:50:03+00:00",
+  "generated_at": "2026-06-08T06:44:37+00:00",
   "entries": [
     {
       "slug": "tronify",
@@ -191,6 +191,21 @@
         "stashcrypto"
       ],
       "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "circle",
+      "category": "psp",
+      "logo_path": "logos/psp/circle.png",
+      "keywords": [
+        "circle",
+        "circle.com"
+      ],
+      "product_aliases": [
+        "circle usyc",
+        "circle-usyc",
+        "circle usdc"
+      ],
       "sanctioned": false
     },
     {
@@ -734,6 +749,38 @@
       "sanctioned": false
     },
     {
+      "slug": "ueex-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/ueex-com.png",
+      "keywords": [
+        "ueex",
+        "ueex.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "m2-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/m2-com.png",
+      "keywords": [
+        "m2.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "p2pb2b-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/p2pb2b-com.png",
+      "keywords": [
+        "p2pb2b",
+        "p2pb2b.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "anemoy-capital",
       "category": "defi",
       "logo_path": "logos/defi/anemoy-capital.png",
@@ -808,21 +855,6 @@
         "centrifuge"
       ],
       "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "circle",
-      "category": "psp",
-      "logo_path": "logos/psp/circle.png",
-      "keywords": [
-        "circle",
-        "circle.com"
-      ],
-      "product_aliases": [
-        "circle usyc",
-        "circle-usyc",
-        "circle usdc"
-      ],
       "sanctioned": false
     },
     {
