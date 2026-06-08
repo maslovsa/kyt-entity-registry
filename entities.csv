@@ -16,8 +16,11 @@ EnergyTRX,defi,500,0,80,10,TRON,manual-admin,energytrx,energy-trx.com,"energytrx
 TronPool,defi,500,1,80,10,TRON,"manual-admin,tronscan-tags",tronpool,,"tronpool,tron pool",,manual,2026-05-25,true,33ea544f57ac190887a520eb2986e23e1008bbdcdb8f339a7cb2660f3b994893
 TronExchange,defi,500,1,80,10,TRON,"manual-admin,tronscan-tags",tronexchange,,"tronexchange,tron exchange",,placeholder,2026-05-26,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 StashTRX,defi,500,0,80,10,TRON,manual-research,stashtrx,stash-trx.com,"stashtrx,stash-trx,stash trx,stashcrypto",,manual,2026-05-25,true,00923f40c8ae8d4fccd1ae3111a70935d39a91a5220567a78114cf092adfc336
+Circle,psp,500,3,85,5,ETH|BSC|POLYGON|BASE,scorechain-counterparties|brianleect-labels|dawsbot-eth-labels,circle,circle.com,"circle,circle.com","circle usyc,circle-usyc,circle usdc",manual,2026-06-03,false,6f2390c4bf94ba36584793958432d5069f2bec31dfa7cb9b93c0c76cf965a901
 Netts,defi,300,1,100,10,TRON,manual-admin,netts,netts.io,"netts,netts.io",,manual,2026-05-26,true,1edf9130e5facff413cb69d7579bf26d527d6ae159eb2c9501e5b47830b9ea8b
 Gas Station,defi,300,2,100,10,TRON,manual-admin,gasstation-ai,gasstation.ai,"gasstation,gasstation.ai,gas station",,manual,2026-05-26,true,0f60e6e8ea7c287ac0621c7947a0433f57cba4831b3843f73488bbc7754e47f9
+Seedify,defi,200,17,88,5,BSC|ETH,misttrack-verdicts,seedify,seedify.fund,"seedify,seedify.fund",,missing,,false,
+spookyswap,dex,200,2,88,5,FANTOM,misttrack-verdicts,spookyswap,spooky.fi,"spookyswap,spooky",,missing,,false,
 001k.exchange,exchange,100,119,85,5,ETH|TRON,scorechain-counterparties,001k-exchange,001k.exchange,"001k.exchange,001k",,manual,2026-04-29,true,21efd0703154398e00a167d5e81c4dc9098eaefda2fed644b74a7a8388a90616
 0vix,defi,100,248,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,0vix,,,,arkham,2026-05-11,false,bbb15309359171626815b9b1dadcac9f173788dde11c7a741f2a31b280157edc
 Aevo,defi,100,176,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,aevo,,,,arkham,2026-05-11,false,aaab3be6af68abcc6f872b5dccdfaf3c99961c7fbb3580964fcde78130abb090
@@ -156,6 +159,17 @@ ByBit,exchange,100,250,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLY
 Overnight Finance,defi,100,120,95,10,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,overnight,overnight.fi,"overnight,overnight-finance",,arkham,2026-05-11,false,68f47b7b2221ed2dd972fff368dce8d7e01850a0b7df9c472c3ec0851b9b6285
 PJSC Promsvyazbank,sanctioned,100,0,100,100,BTC|ETH|TRON,uk-ofsi-sanctions,promsvyazbank-ru,psbank.ru,"promsvyazbank,psb,pjsc promsvyazbank,public joint stock company promsvyazbank,psbank,psbank.ru",,favicon,2026-05-26,false,bcd17a40b65aa3baa569f9bdb6b9106d0aab59ee3e265b0607fae778064021ad
 Ethhorse,gambling,100,300,80,60,ETH,graphsense-tagpacks,ethhorse-com,ethorse.com,"ethhorse,ethorsecom,ethhorse",,graphsense,2026-05-30,false,
+Suex.io,sanctioned,100,4,100,100,ETH|TRON,misttrack-verdicts,suex,suex.io,"suex,suex.io",,missing,,false,
+x2bet-win,gambling,100,2,88,65,ETH,misttrack-verdicts,x2bet-win,x2bet.win,"x2bet,x2bet-win,x2bet.win",,missing,,false,
+big-small,gambling,100,3,88,65,TRON,misttrack-verdicts,big-small,,"big-small,bigsmall",,missing,,false,
+gamestation,defi,100,2,88,5,BSC,misttrack-verdicts,gamestation,gamestation.io,"gamestation,game-station",,missing,,false,
+OpenDAO,defi,100,2,88,5,ETH,misttrack-verdicts,opendao,opendao.io,"opendao,sos-token,thesostoken",,missing,,false,
+HedgePay,defi,100,5,88,5,BSC,misttrack-verdicts,hedgepay,hedgepay.org,"hedgepay,hpay",,missing,,false,
+wink,defi,100,14,88,5,TRON,misttrack-verdicts,wink,wink.org,"wink,winklink,winkdao",,missing,,false,
+jp-ex.io,exchange,100,9,88,5,ETH|TRON,misttrack-verdicts,jp-ex-io,jp-ex.io,"jp-ex,jpex,jp-ex.io",,placeholder,2026-06-08,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+ueex.com,exchange,100,1,88,5,TRON,misttrack-verdicts,ueex-com,ueex.com,"ueex,ueex.com",,arkham,2026-06-08,false,908fb4dc746ea8a469cc440694987d25d046a6e9cc3ee5bc0ae952e5c2494d30
+m2.com,exchange,100,1,88,5,ETH,misttrack-verdicts,m2-com,m2.com,m2.com,,arkham,2026-06-08,false,9cd751df7117851d48279b5c47bae0822622779b4de6e9322d767aa65a88b364
+p2pb2b.com,exchange,100,1,88,5,TRON,misttrack-verdicts,p2pb2b-com,p2pb2b.com,"p2pb2b,p2pb2b.com",,arkham,2026-06-08,false,5cf94666aa8c14d7948832190cb1a9051a43ffdc517f09f6bf538af6af4b1e99
 Anemoy Capital,defi,95,0,0,10,ETH|BASE,,anemoy-capital,anemoy.io,"anemoy capital,anemoy-capital",,arkham,2026-05-11,false,51200ebad621af7d14dbe83a7e37caf930dd7dac8e07f5d77bd92a90330622d2
 Arbitrum Bridge,bridge,95,0,0,10,ETH,,arbitrum-bridge,portal.arbitrum.io,"arbitrum bridge,arbitrum-bridge",,arkham,2026-05-11,false,9932d9e78131567448a60e4b9e28f3e2959ec47e2d9d9f5dc35432ce3f723f07
 Base Bridge,bridge,95,0,0,10,ETH,,base-bridge,docs.base.org,"base bridge,base-bridge",,arkham,2026-05-11,false,c955362037e5d25d5f38e872c22f925dc5cef859c47d39d0077c219a2520bbd9
@@ -163,7 +177,6 @@ Binance Bitcoin,bridge,95,0,0,10,BTC,,binance-bitcoin,binance.com,"binance bitco
 Binance staked ETH,defi,95,0,0,10,ETH|BSC,,binance-staked-eth,binance.com,"binance staked eth,binance-staked-eth",,arkham,2026-05-11,false,a5313ec2b9f0872fc3b042868cda6c20e435f62afaa23f5519e1389e0b9b648f
 BlackRock BUIDL,defi,95,0,0,10,ETH|BSC|SOL|AVALANCHE|OPTIMISM|ARBITRUM|POLYGON,,blackrock-buidl,securitize.io,"blackrock buidl,blackrock-buidl,blackrock-usd-institutional-digital-liquidity-fund",,arkham,2026-05-11,false,abd652740d8536eadc8fd8650f14e6d5c708246a6b58e79ad61c25f48e99950b
 Centrifuge Protocol,defi,95,0,0,10,ETH|AVALANCHE|BASE|BSC|OPTIMISM|ARBITRUM,,centrifuge,centrifuge.io,centrifuge,,arkham,2026-05-11,false,0c0176187e50929a7092ec720dcf35d0e296fcc6cc838d251ffc66d2e41c44cb
-Circle,psp,500,3,85,5,ETH|BSC|POLYGON|BASE,scorechain-counterparties|brianleect-labels|dawsbot-eth-labels,circle,circle.com,"circle,circle.com","circle usyc,circle-usyc,circle usdc",manual,2026-06-03,false,6f2390c4bf94ba36584793958432d5069f2bec31dfa7cb9b93c0c76cf965a901
 Circle USYC,defi,95,0,0,10,BSC|ETH,,circle-usyc,circle.com,"circle usyc,circle-usyc",,arkham,2026-05-11,false,d5850fcee1fbe0fae694d91a73c70d7bbc031f9f45d8170d4924891f762f0870
 Coinbase Bridge,bridge,95,0,0,10,BTC,,coinbase-bridge,coinbase.com,"coinbase bridge,coinbase-bridge",,arkham,2026-05-11,false,c9f43b3fe9f8df7a059a36cc69744bc70f2e33394ae9f6db8a35b4f2ee79347d
 Compound V3,defi,95,0,0,10,ETH|ARBITRUM|BASE|OPTIMISM|POLYGON,,compound,v3-app.compound.finance,compound,,arkham,2026-05-11,false,dcbaecdf2f3cc5d2123161cce6489f8c45b91857710ef8660afa825cbba72fc3
@@ -2159,16 +2172,3 @@ Ramzinex.com,exchange,40.8,48,85,5,BSC|ETH|TRON,scorechain-counterparties,ramzin
 Sportsbet.io,gambling,40.8,48,85,50,TRON,scorechain-counterparties,sportsbet-io,sportsbet.io,"sportsbet.io,sportsbet",,arkham,2026-05-26,false,6ed2fe92d4d7a0dda94636ba5308ca476d88b56b935edc5cceb3528e2d4ff9bd
 weex-cex,defi,40.6,58,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON|TRON,defillama-adapters,weex-cex,,,,arkham,2026-05-11,false,5dae7338564b8053bdaee394daa2154b7abc5c265f6e1098a4b4a367e6425f61
 Bitpin.ir,exchange,40.0,47,85,5,BSC|ETH|TRON,scorechain-counterparties,bitpin-ir,bitpin.ir,"bitpin,bitpin ir,bitpin.ir",,manual,2026-05-11,true,77e0fcd41b25ecbaebc3a7e184bceda6032858f61bb4c8ee1b3f83a0c1744c6b
-Suex.io,sanctioned,100,4,100,100,ETH|TRON,misttrack-verdicts,suex,suex.io,"suex,suex.io",,missing,,false,
-x2bet-win,gambling,100,2,88,65,ETH,misttrack-verdicts,x2bet-win,x2bet.win,"x2bet,x2bet-win,x2bet.win",,missing,,false,
-big-small,gambling,100,3,88,65,TRON,misttrack-verdicts,big-small,,"big-small,bigsmall",,missing,,false,
-Seedify,defi,200,17,88,5,BSC|ETH,misttrack-verdicts,seedify,seedify.fund,"seedify,seedify.fund",,missing,,false,
-spookyswap,dex,200,2,88,5,FANTOM,misttrack-verdicts,spookyswap,spooky.fi,"spookyswap,spooky",,missing,,false,
-gamestation,defi,100,2,88,5,BSC,misttrack-verdicts,gamestation,gamestation.io,"gamestation,game-station",,missing,,false,
-OpenDAO,defi,100,2,88,5,ETH,misttrack-verdicts,opendao,opendao.io,"opendao,sos-token,thesostoken",,missing,,false,
-HedgePay,defi,100,5,88,5,BSC,misttrack-verdicts,hedgepay,hedgepay.org,"hedgepay,hpay",,missing,,false,
-wink,defi,100,14,88,5,TRON,misttrack-verdicts,wink,wink.org,"wink,winklink,winkdao",,missing,,false,
-jp-ex.io,exchange,100,9,88,5,ETH|TRON,misttrack-verdicts,jp-ex-io,jp-ex.io,"jp-ex,jpex,jp-ex.io",,missing,,false,
-ueex.com,exchange,100,1,88,5,TRON,misttrack-verdicts,ueex-com,ueex.com,"ueex,ueex.com",,missing,,false,
-m2.com,exchange,100,1,88,5,ETH,misttrack-verdicts,m2-com,m2.com,m2.com,,missing,,false,
-p2pb2b.com,exchange,100,1,88,5,TRON,misttrack-verdicts,p2pb2b-com,p2pb2b.com,"p2pb2b,p2pb2b.com",,missing,,false,
