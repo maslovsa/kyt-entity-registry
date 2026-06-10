@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-06-10T07:47:11+00:00",
+  "generated_at": "2026-06-10T07:54:54+00:00",
   "entries": [
     {
       "slug": "tronify",
@@ -11525,7 +11525,8 @@
       "category": "sanctioned",
       "logo_path": "logos/sanctioned/ramzinex-com.png",
       "keywords": [
-        "ramzinex"
+        "ramzinex",
+        "ramzinex.com"
       ],
       "product_aliases": [],
       "sanctioned": true
@@ -11536,7 +11537,8 @@
       "logo_path": "logos/sanctioned/bitpin-ir.png",
       "keywords": [
         "bitpin",
-        "bitpin.ir"
+        "bitpin.ir",
+        "bitpin ir"
       ],
       "product_aliases": [],
       "sanctioned": true
@@ -16623,35 +16625,12 @@
       "sanctioned": false
     },
     {
-      "slug": "ramzinex-com",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/ramzinex-com.png",
-      "keywords": [
-        "ramzinex",
-        "ramzinex.com"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "sportsbet-io",
       "category": "gambling",
       "logo_path": "logos/gambling/sportsbet-io.png",
       "keywords": [
         "sportsbet.io",
         "sportsbet"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "bitpin-ir",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/bitpin-ir.png",
-      "keywords": [
-        "bitpin",
-        "bitpin ir",
-        "bitpin.ir"
       ],
       "product_aliases": [],
       "sanctioned": false
