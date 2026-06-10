@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-06-08T06:44:37+00:00",
+  "generated_at": "2026-06-10T07:47:11+00:00",
   "entries": [
     {
       "slug": "tronify",
@@ -1170,6 +1170,16 @@
         "cryptex",
         "cryptex.net",
         "cryptex exchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": true
+    },
+    {
+      "slug": "bitpapa-com",
+      "category": "sanctioned",
+      "logo_path": "logos/sanctioned/bitpapa-com.png",
+      "keywords": [
+        "bitpapa"
       ],
       "product_aliases": [],
       "sanctioned": true
@@ -11042,7 +11052,8 @@
       "logo_path": "logos/sanctioned/wallex-ir.png",
       "keywords": [
         "wallex",
-        "wallex.ir"
+        "wallex.ir",
+        "wallex ir"
       ],
       "product_aliases": [],
       "sanctioned": true
@@ -16308,16 +16319,6 @@
       "sanctioned": false
     },
     {
-      "slug": "wallex-ir-iran-operator-2026-05-09",
-      "category": "sanctioned",
-      "logo_path": "logos/sanctioned/wallex-ir-iran-operator-2026-05-09.png",
-      "keywords": [
-        "wallex.ir"
-      ],
-      "product_aliases": [],
-      "sanctioned": true
-    },
-    {
       "slug": "pancakeswap",
       "category": "dex",
       "logo_path": "logos/dex/pancakeswap.png",
@@ -16388,18 +16389,6 @@
       "sanctioned": false
     },
     {
-      "slug": "wallex-ir",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/wallex-ir.png",
-      "keywords": [
-        "wallex",
-        "wallex ir",
-        "wallex.ir"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "weex-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/weex-com.png",
@@ -16460,16 +16449,6 @@
       "sanctioned": false
     },
     {
-      "slug": "ramzinex-com-iran-operator-2026-05-09",
-      "category": "sanctioned",
-      "logo_path": "logos/sanctioned/ramzinex-com-iran-operator-2026-05-09.png",
-      "keywords": [
-        "ramzinex.com"
-      ],
-      "product_aliases": [],
-      "sanctioned": true
-    },
-    {
       "slug": "cropty",
       "category": "wallet",
       "logo_path": "logos/wallet/cropty.png",
@@ -16509,16 +16488,6 @@
       ],
       "product_aliases": [],
       "sanctioned": false
-    },
-    {
-      "slug": "bitpin-ir-iran-operator-2026-05-09",
-      "category": "sanctioned",
-      "logo_path": "logos/sanctioned/bitpin-ir-iran-operator-2026-05-09.png",
-      "keywords": [
-        "bitpin.ir"
-      ],
-      "product_aliases": [],
-      "sanctioned": true
     },
     {
       "slug": "coins-philippines",
@@ -16632,17 +16601,6 @@
       ],
       "product_aliases": [],
       "sanctioned": false
-    },
-    {
-      "slug": "abantether-com-iran-operator-2026-05-09",
-      "category": "sanctioned",
-      "logo_path": "logos/sanctioned/abantether-com-iran-operator-2026-05-09.png",
-      "keywords": [
-        "abantether",
-        "abantether.com"
-      ],
-      "product_aliases": [],
-      "sanctioned": true
     },
     {
       "slug": "hyperpay-tech",
