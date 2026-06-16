@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "generated_at": "2026-06-10T07:54:54+00:00",
+  "version": 3,
+  "generated_at": "2026-06-16T10:55:20Z",
   "entries": [
     {
       "slug": "tronify",
@@ -16316,6 +16316,16 @@
         "coinspaid",
         "cryptoprocessing",
         "coinspaid.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "no-com",
+      "category": "psp",
+      "logo_path": "logos/psp/no-com.png",
+      "keywords": [
+        "no.com"
       ],
       "product_aliases": [],
       "sanctioned": false

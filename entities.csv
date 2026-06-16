@@ -1616,7 +1616,7 @@ LMAX Digital,exchange,83.0,4,85,5,ETH,scorechain-counterparties,lmax-digital,,lm
 Maker DAO,dex,83.0,4,85,10,ETH,scorechain-counterparties,maker-dao,,maker,,manual,2026-04-23,true,4cc1b9429dea0bb373f883d34b23e22b8ca34f872c03a9b0a02f3e636f4cd34e
 Metamask.io,exchange,83.0,4,85,5,BSC|ETH,scorechain-counterparties,metamask-io,metamask.io,"metamask,metamask.io",,arkham,2026-05-26,false,d1b2e37db4e8302bfbb04e2d0bbefa941fbd176a56272eb0fdc91255b01cd52d
 Multichain,defi,83.0,4,85,10,BSC|ETH,scorechain-counterparties,multichain,multichain.org,multichain,,arkham,2026-05-26,false,cdf48c197b1a459a3e8ea8c543027e98671e4e476c9ade77c7133e5118367ee0
-No.com,psp,83.0,4,85,15,TRON,scorechain-counterparties,no-com,no.com,,,favicon,2026-05-26,false,9fb35e9559f87cf64dff6bb3644b44224e5ad5621b13e748c3cad10fb5c1ccf3
+No.com,psp,83.0,4,85,15,TRON,scorechain-counterparties,no-com,no.com,no.com,,manual,2026-06-16,false,9fb35e9559f87cf64dff6bb3644b44224e5ad5621b13e748c3cad10fb5c1ccf3
 O3swap,bridge,83.0,4,85,15,BSC|ETH,scorechain-counterparties,o3swap,,o3swap,,arkham,2026-05-26,false,43fb92d9eb81bd6e5dc5f8ffb8217edbc873bfe83ac83d8772429fbbf0fbe7d7
 Optimism,bridge,83.0,4,85,15,BSC|ETH,scorechain-counterparties,optimism,,optimism,,arkham,2026-05-26,false,09459f10cbbcea1639163669365ed4934f5f33421d6c0f4d7fa2970b91219619
 otc-u.com,exchange,83.0,4,85,5,ETH|TRON,scorechain-counterparties,otc-u-com,otc-u.com,,,google,2026-05-27,false,53b99fb41fd09907790849b09651b630550bbc5f8de62f2db11d797ff45bb545
