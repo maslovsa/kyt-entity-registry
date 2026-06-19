@@ -220,6 +220,21 @@
       </span>
     </p>
 
+    <div class="quilt-controls">
+      <div class="search-wrap">
+        <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+          <circle cx="7" cy="7" r="4.5" stroke="currentColor" stroke-width="1.5"/>
+          <line x1="10.5" y1="10.5" x2="14" y2="14" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+        </svg>
+        <input type="search" id="quilt-search" class="quilt-search"
+          placeholder="Search…"
+          aria-label="Search entities"
+          autocomplete="off"
+          spellcheck="false" />
+      </div>
+      <span id="search-count" class="search-count" aria-live="polite" aria-atomic="true"></span>
+    </div>
+
     <div id="tabs" class="tabs" role="tablist" aria-label="Category filter"></div>
 
     <div id="quilt" class="quilt" aria-label="Logo quilt"></div>
@@ -390,6 +405,11 @@ l.resolve({
 </section>
 
 </main>
+
+<button id="back-to-filter" class="back-to-filter" type="button" hidden>
+  <span aria-hidden="true">↑</span>
+  <span data-lang="en">Filters</span><span data-lang="ru">Фильтры</span>
+</button>
 
 <footer class="footer">
   <div class="container footer-inner">

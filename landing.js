@@ -66,12 +66,15 @@ function setLang(lang) {
   document.querySelectorAll('.lang-toggle button').forEach(b => {
     b.setAttribute('aria-pressed', String(b.dataset.lang === lang));
   });
+  const si = document.getElementById('quilt-search');
+  if (si) si.placeholder = lang === 'ru' ? 'Поиск…' : 'Search…';
 }
 
 /* ── state ────────────────────────────────────────────────────────── */
 const state = {
   index: null,              // loaded lookup JSON
   activeCats: new Set(),    // empty = all active
+  searchQuery: '',          // current search string
 };
 
 /* ── hover card ──────────────────────────────────────────────────── */
@@ -212,24 +215,44 @@ function renderQuilt() {
 
 function renderTabs() {
   const root = document.getElementById('tabs');
-  const counts = state.index.entries.reduce((m, e) => {
+  const entries = state.index.entries;
+  const totalCounts = entries.reduce((m, e) => {
     m[e.cat] = (m[e.cat] || 0) + 1;
     return m;
   }, {});
+
+  const q = (state.searchQuery || '').trim().toLowerCase();
+  const tokens = q ? q.split(/\s+/).filter(Boolean) : null;
+
   const lang = document.documentElement.lang;
   const labels = lang === 'ru' ? CATEGORY_LABEL_RU : CATEGORY_LABEL_EN;
-  const cats = Object.keys(CATEGORY_LABEL_EN).filter(c => counts[c]);
+  const cats = Object.keys(CATEGORY_LABEL_EN).filter(c => totalCounts[c]);
   root.innerHTML = '';
+
   for (const c of cats) {
     const btn = document.createElement('button');
     btn.className = 'tab';
     btn.type = 'button';
     btn.dataset.cat = c;
     btn.setAttribute('aria-pressed', String(state.activeCats.has(c)));
-    btn.innerHTML = `${labels[c]}<span class="count">${counts[c]}</span>`;
+
+    const total = totalCounts[c];
+    if (tokens && tokens.length) {
+      const matchCount = entries.filter(e =>
+        e.cat === c && tokens.every(tok =>
+          e.name.toLowerCase().includes(tok) ||
+          e.slug.toLowerCase().includes(tok)
+        )
+      ).length;
+      btn.innerHTML = `${labels[c]}<span class="count">${matchCount}/${total}</span>`;
+    } else {
+      btn.innerHTML = `${labels[c]}<span class="count">${total}</span>`;
+    }
+
     btn.addEventListener('click', () => toggleCat(c));
     root.appendChild(btn);
   }
+
   if (state.activeCats.size) {
     const clear = document.createElement('button');
     clear.className = 'tab tab-clear';
@@ -245,23 +268,125 @@ function renderTabs() {
 }
 
 function toggleCat(c) {
-  if (state.activeCats.has(c)) state.activeCats.delete(c);
+  const wasActive = state.activeCats.has(c);
+  if (wasActive) state.activeCats.delete(c);
   else state.activeCats.add(c);
-  applyFilter();
   renderTabs();
+  applyFilter().then(() => {
+    if (!wasActive && state.activeCats.has(c)) {
+      const first = document.querySelector(`.tile:not(.tile-hidden)[data-category="${c}"]`);
+      if (first) first.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+  });
 }
 
-function applyFilter() {
+let _filterGeneration = 0;
+
+async function applyFilter() {
+  const gen = ++_filterGeneration;
   const quilt = document.getElementById('quilt');
+
+  quilt.classList.add('quilt-fading');
+  await new Promise(r => setTimeout(r, 155));
+  if (gen !== _filterGeneration) return;
+
   const active = state.activeCats;
-  if (!active.size) {
-    quilt.removeAttribute('data-filter-active');
-    quilt.querySelectorAll('.tile.matches').forEach(t => t.classList.remove('matches'));
-    return;
-  }
-  quilt.dataset.filterActive = 'true';
+  const q = (state.searchQuery || '').trim().toLowerCase();
+  const tokens = q ? q.split(/\s+/).filter(Boolean) : null;
+  const hasFilter = active.size > 0 || !!(tokens && tokens.length);
+
   quilt.querySelectorAll('.tile').forEach(t => {
-    t.classList.toggle('matches', active.has(t.dataset.category));
+    const catMatch = !active.size || active.has(t.dataset.category);
+    const nameMatch = !tokens || tokens.every(tok =>
+      t.dataset.name.toLowerCase().includes(tok) ||
+      t.dataset.slug.toLowerCase().includes(tok)
+    );
+    const show = !hasFilter || (catMatch && nameMatch);
+    t.classList.toggle('tile-hidden', !show);
+    t.classList.toggle('matches', show && hasFilter);
+  });
+
+  if (hasFilter) {
+    quilt.dataset.filterActive = 'true';
+  } else {
+    quilt.removeAttribute('data-filter-active');
+  }
+
+  updateSearchCount();
+  updateBackToFilterBtn();
+
+  // Reset any stale tile-in animations, then fade the quilt back in.
+  quilt.querySelectorAll('.tile.tile-in').forEach(t => t.classList.remove('tile-in'));
+  void quilt.offsetWidth; // single reflow resets CSS animation state
+  quilt.classList.remove('quilt-fading');
+
+  // Stagger visible tiles in.
+  const visibleTiles = Array.from(quilt.querySelectorAll('.tile:not(.tile-hidden)'));
+  visibleTiles.forEach((t, i) => {
+    t.style.setProperty('--tile-i', String(Math.min(i, 50)));
+    t.classList.add('tile-in');
+  });
+  const cleanupMs = Math.min(visibleTiles.length, 50) * 6 + 260;
+  setTimeout(() => {
+    if (gen === _filterGeneration) visibleTiles.forEach(t => t.classList.remove('tile-in'));
+  }, cleanupMs);
+}
+
+/* ── search ──────────────────────────────────────────────────────── */
+function updateSearchCount() {
+  const el = document.getElementById('search-count');
+  if (!el) return;
+  const hasFilter = (state.searchQuery || '').trim() || state.activeCats.size;
+  if (!hasFilter) { el.textContent = ''; return; }
+  const n = document.querySelectorAll('#quilt .tile:not(.tile-hidden)').length;
+  const total = state.index.entries.length;
+  const lang = document.documentElement.lang;
+  el.textContent = lang === 'ru' ? `${n} из ${total}` : `${n} of ${total}`;
+}
+
+function wireSearch() {
+  const input = document.getElementById('quilt-search');
+  if (!input) return;
+  let debounce;
+  input.addEventListener('input', () => {
+    clearTimeout(debounce);
+    debounce = setTimeout(() => {
+      state.searchQuery = input.value;
+      renderTabs();
+      applyFilter();
+    }, 150);
+  });
+  input.addEventListener('keydown', e => {
+    if (e.key === 'Escape') {
+      input.value = '';
+      state.searchQuery = '';
+      renderTabs();
+      applyFilter();
+    }
+  });
+}
+
+/* ── back-to-filter sticky ───────────────────────────────────────── */
+let _tabsVisible = true;
+
+function updateBackToFilterBtn() {
+  const btn = document.getElementById('back-to-filter');
+  if (!btn) return;
+  const hasFilter = state.activeCats.size > 0 || (state.searchQuery || '').trim().length > 0;
+  btn.hidden = _tabsVisible || !hasFilter;
+}
+
+function wireBackToFilter() {
+  const btn = document.getElementById('back-to-filter');
+  const tabs = document.getElementById('tabs');
+  if (!btn || !tabs) return;
+  const obs = new IntersectionObserver(entries => {
+    _tabsVisible = entries[0].isIntersecting;
+    updateBackToFilterBtn();
+  }, { threshold: 0.1 });
+  obs.observe(tabs);
+  btn.addEventListener('click', () => {
+    tabs.scrollIntoView({ behavior: 'smooth', block: 'start' });
   });
 }
 
@@ -475,7 +600,8 @@ function wireLangToggle() {
   document.querySelectorAll('.lang-toggle button').forEach(b => {
     b.addEventListener('click', () => {
       setLang(b.dataset.lang);
-      renderTabs();  // re-render with new labels
+      renderTabs();
+      updateSearchCount();
     });
   });
 }
@@ -515,6 +641,8 @@ async function boot() {
   renderStats();
   renderTabs();
   renderQuilt();
+  wireSearch();
+  wireBackToFilter();
   wireBulkUpload();
 
   // CTA button smooth-scroll
