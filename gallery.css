@@ -50,7 +50,7 @@
 }
 
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not(.light) {
     --background: #18181c;
     --foreground: #f5f5f7;
     --card: #232328;
@@ -78,6 +78,35 @@
     --shadow: 0 1px 3px rgba(0, 0, 0, 0.4),
               0 1px 2px rgba(0, 0, 0, 0.3);
   }
+}
+
+:root.dark {
+  --background: #18181c;
+  --foreground: #f5f5f7;
+  --card: #232328;
+  --card-foreground: #f5f5f7;
+
+  --brand: #ec5b9d;
+  --brand-soft: #3a1e2d;
+  --brand-foreground: #ffffff;
+
+  --primary: #ec5b9d;
+  --primary-foreground: #ffffff;
+  --secondary: #2a2a30;
+  --secondary-foreground: #f5f5f7;
+  --muted: #2a2a30;
+  --muted-foreground: #9e9ea7;
+  --accent: #3a1e2d;
+  --accent-foreground: #ec5b9d;
+  --destructive: #f87171;
+  --destructive-soft: #3d1f1e;
+
+  --border: #2e2e36;
+  --input: #2e2e36;
+  --ring: #ec5b9d;
+
+  --shadow: 0 1px 3px rgba(0, 0, 0, 0.4),
+            0 1px 2px rgba(0, 0, 0, 0.3);
 }
 
 * { box-sizing: border-box; }
@@ -171,7 +200,48 @@ h1, h2, h3, h4, h5, h6 {
   flex-wrap: wrap;
 }
 .toolbar-row-top { padding-bottom: 6px; }
-.toolbar-row-chips { padding-top: 4px; padding-bottom: 10px; gap: 6px; }
+.toolbar-row-chips {
+  padding-top: 4px;
+  padding-bottom: 10px;
+  gap: 6px;
+  overflow-x: auto;
+  white-space: nowrap;
+  flex-wrap: nowrap;
+}
+
+/* right-aligned toolbar actions group */
+.toolbar-actions {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-shrink: 0;
+}
+
+.result-count {
+  font-size: 12px;
+  color: var(--muted-foreground);
+  white-space: nowrap;
+}
+
+.btn-sm {
+  padding: 5px 10px;
+  font-size: 12px;
+}
+
+/* progress bar — 3px track below stats bar */
+#progress-bar {
+  height: 3px;
+  background: var(--border);
+  position: relative;
+  overflow: hidden;
+}
+#progress-fill {
+  height: 100%;
+  background: var(--brand);
+  width: 0%;
+  transition: width 0.3s ease;
+}
 
 #search {
   flex: 1 1 240px;
@@ -257,10 +327,19 @@ h1, h2, h3, h4, h5, h6 {
   transition: background 120ms, color 120ms, border-color 120ms;
 }
 .chip:hover { border-color: var(--muted-foreground); }
+/* selected chip: underline indicator only, no pink fill */
 .chip[aria-selected="true"] {
-  background: var(--accent);
-  border-color: var(--brand);
-  color: var(--brand);
+  font-weight: 600;
+  background: var(--card);
+  color: var(--foreground);
+  border-top-color: var(--border);
+  border-left-color: var(--border);
+  border-right-color: var(--border);
+  border-bottom: 2px solid var(--brand);
+}
+/* dim unselected chips when any selection is active */
+.chips-has-selection .chip:not([aria-selected="true"]) {
+  opacity: 0.5;
 }
 .chip .count {
   margin-left: 5px;
@@ -358,12 +437,20 @@ h1, h2, h3, h4, h5, h6 {
 .badge-status[data-status="defillama"]  { background: #fef3c7; color: #92400e; }
 .badge-status[data-status="manual"]     { background: #d1fae5; color: #065f46; }
 .badge-status[data-status="none"]       { background: var(--destructive-soft); color: var(--destructive); }
+.badge-status[data-status="favicon"]      { background: #fef3c7; color: #92400e; }
+.badge-status[data-status="placeholder"]  { background: var(--muted); color: var(--muted-foreground); }
 @media (prefers-color-scheme: dark) {
-  .badge-status[data-status="arkham"]     { background: #1e3a5f; color: #93c5fd; }
-  .badge-status[data-status="brandfetch"] { background: #2e1f4a; color: #c4b5fd; }
-  .badge-status[data-status="defillama"]  { background: #3f2e10; color: #fcd34d; }
-  .badge-status[data-status="manual"]     { background: #1a3a2a; color: #6ee7a4; }
+  :root:not(.light) .badge-status[data-status="arkham"]     { background: #1e3a5f; color: #93c5fd; }
+  :root:not(.light) .badge-status[data-status="brandfetch"] { background: #2e1f4a; color: #c4b5fd; }
+  :root:not(.light) .badge-status[data-status="defillama"]  { background: #3f2e10; color: #fcd34d; }
+  :root:not(.light) .badge-status[data-status="manual"]     { background: #1a3a2a; color: #6ee7a4; }
+  :root:not(.light) .badge-status[data-status="favicon"]    { background: #3d2e10; color: #fcd34d; }
 }
+:root.dark .badge-status[data-status="arkham"]     { background: #1e3a5f; color: #93c5fd; }
+:root.dark .badge-status[data-status="brandfetch"] { background: #2e1f4a; color: #c4b5fd; }
+:root.dark .badge-status[data-status="defillama"]  { background: #3f2e10; color: #fcd34d; }
+:root.dark .badge-status[data-status="manual"]     { background: #1a3a2a; color: #6ee7a4; }
+:root.dark .badge-status[data-status="favicon"]    { background: #3d2e10; color: #fcd34d; }
 .badge-lock { background: var(--destructive-soft); color: var(--destructive); }
 
 .card-sub {
@@ -490,3 +577,89 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--muted-foreground);
   font-size: 13px;
 }
+
+/* ── search highlight ───────────────────────────────────────────────── */
+mark.highlight {
+  background: rgba(214, 70, 134, 0.18); /* fallback for pre-2023 browsers */
+  background: color-mix(in srgb, var(--brand) 20%, transparent); /* Chrome 111+, Safari 16.2+ */
+  color: inherit;
+  border-radius: 2px;
+  padding: 0 1px;
+  font-style: normal;
+}
+
+/* ── copy-slug button ───────────────────────────────────────────────── */
+.copy-slug-btn {
+  position: absolute;
+  right: 8px;
+  bottom: 8px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+  color: var(--muted-foreground);
+  opacity: 0;
+  transition: opacity 0.15s;
+  padding: 2px 4px;
+  border-radius: var(--radius-sm);
+}
+.copy-slug-btn:hover { background: var(--muted); opacity: 1 !important; }
+.card:hover .copy-slug-btn { opacity: 1; }
+.card:focus-within .copy-slug-btn { opacity: 1; }
+
+/* ── pagination bar ─────────────────────────────────────────────────── */
+.pagination-bar {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 16px 24px 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  font-size: 13px;
+  color: var(--muted-foreground);
+}
+
+/* ── first-use hint banner ──────────────────────────────────────────── */
+.hint-banner {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 6px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  background: var(--brand-soft);
+  color: var(--accent-foreground);
+  font-size: 12px;
+}
+.hint-dismiss {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 18px;
+  line-height: 1;
+  color: var(--accent-foreground);
+  padding: 0 4px;
+  border-radius: var(--radius-sm);
+  flex-shrink: 0;
+}
+.hint-dismiss:hover { background: var(--brand); color: var(--brand-foreground); }
+
+/* ── status chip color dots ─────────────────────────────────────────── */
+#status-chips .chip::before {
+  content: '';
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  margin-right: 5px;
+  vertical-align: middle;
+}
+#status-chips .chip[data-status="arkham"]::before      { background: #e0f2fe; border: 1px solid #0ea5e9; }
+#status-chips .chip[data-status="brandfetch"]::before  { background: #f0fdf4; border: 1px solid #22c55e; }
+#status-chips .chip[data-status="defillama"]::before   { background: #fef9c3; border: 1px solid #ca8a04; }
+#status-chips .chip[data-status="favicon"]::before     { background: #fef3c7; border: 1px solid #d97706; }
+#status-chips .chip[data-status="manual"]::before      { background: #fde9f1; border: 1px solid var(--brand); }
+#status-chips .chip[data-status="placeholder"]::before { background: var(--muted); border: 1px solid var(--border); }
+#status-chips .chip[data-status="none"]::before        { background: var(--destructive-soft); border: 1px solid var(--destructive); }

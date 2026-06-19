@@ -9,6 +9,12 @@
  * No framework, no build step. Edit and reload.
  */
 
+/* ── debounce helper ────────────────────────────────────────────────── */
+function debounce(fn, ms) {
+  let t;
+  return (...a) => { clearTimeout(t); t = setTimeout(() => fn(...a), ms); };
+}
+
 /* ── tiny CSV parser ──────────────────────────────────────────────────
  * Handles quoted fields with embedded commas. entities.csv uses UTF-8
  * without a BOM and LF line endings. Sufficient for our known shape —
@@ -79,23 +85,29 @@ const CATEGORY_LABEL = {
 };
 
 /* ── state ──────────────────────────────────────────────────────────── */
-const FLAGS_KEY = 'kyt-registry-gallery.flags.v2';
+const FLAGS_KEY    = 'kyt-registry-gallery.flags.v2';
+const REVIEWED_KEY = 'kyt-gallery.reviewed.v1';
+const HINT_KEY     = 'kyt-gallery.hint-dismissed.v1';
+
 const state = {
-  rows: [],           // entities.csv rows (plain objects)
-  index: {},          // logos/_index.json — { "exchanges/binance-com": true, ... }
+  rows: [],
+  index: {},
   // flags: { "<dir>/<slug>": {
   //   reason, note, flagged_at,
-  //   suggested_data_url?,    // full "data:image/png;base64,…" (canvas-normalised to 160×160)
-  //   suggested_filename?,    // original filename the reviewer picked (for provenance in CSV)
-  //   suggested_bytes?,       // byte length of the normalised PNG (bookkeeping for CSV sizing)
+  //   suggested_data_url?,
+  //   suggested_filename?,
+  //   suggested_bytes?,
   // } }
   flags: {},
+  reviewed: new Set(),
   filter: {
     category: 'all',
+    statuses: new Set(),
     search: '',
     onlyFlagged: false,
     onlyMissing: false,
     sort: 'importance',
+    page: 1,
   },
 };
 
@@ -206,6 +218,18 @@ function saveFlags() {
   }
 }
 
+/* ── reviewed persistence ───────────────────────────────────────────── */
+function loadReviewed() {
+  try { return new Set(JSON.parse(localStorage.getItem(REVIEWED_KEY)) || []); }
+  catch { return new Set(); }
+}
+
+function markReviewed(key) {
+  state.reviewed.add(key);
+  try { localStorage.setItem(REVIEWED_KEY, JSON.stringify([...state.reviewed])); }
+  catch { /* quota: progress lost on reload — non-critical for progress indicator */ }
+}
+
 function flagKey(row) {
   return `${CATEGORY_TO_DIR[row.category_slug] || row.category_slug}/${row.arkham_slug}`;
 }
@@ -228,18 +252,63 @@ function logoUrl(row) {
   return `logos/${dir}/${row.arkham_slug}.png`;
 }
 
+/* ── search helpers ─────────────────────────────────────────────────── */
+function tokenize(q) {
+  return q.trim().toLowerCase().split(/\s+/).filter(Boolean);
+}
+
+function highlightText(text, tokens) {
+  const frag = document.createDocumentFragment();
+  if (!tokens.length) { frag.appendChild(document.createTextNode(text)); return frag; }
+  const escaped = tokens.map(t => t.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+  const re = new RegExp(`(${escaped.join('|')})`, 'gi');
+  text.split(re).forEach((part, i) => {
+    if (i % 2 === 1) {
+      const mark = document.createElement('mark');
+      mark.className = 'highlight';
+      mark.appendChild(document.createTextNode(part));
+      frag.appendChild(mark);
+    } else {
+      frag.appendChild(document.createTextNode(part));
+    }
+  });
+  return frag;
+}
+
+/* ── filter state management ────────────────────────────────────────── */
+function isFilterDirty() {
+  const f = state.filter;
+  return f.category !== 'all'
+    || f.statuses.size > 0
+    || f.search !== ''
+    || f.onlyFlagged
+    || f.onlyMissing;
+  // page > 1 intentionally excluded — navigation ≠ filter state
+}
+
+function setFilter(patch) {
+  Object.assign(state.filter, patch, { page: 1 });
+  renderGrid();
+}
+
+function setPage(n) {
+  state.filter.page = n;
+  renderGrid();
+}
+
 /* ── filtering + sorting ────────────────────────────────────────────── */
 function filteredRows() {
-  const { category, search, onlyFlagged, onlyMissing, sort } = state.filter;
-  const q = search.trim().toLowerCase();
+  const { category, statuses, search, onlyFlagged, onlyMissing, sort } = state.filter;
+  const tokens = tokenize(search);
   let out = state.rows.filter(r => {
     if (category !== 'all' && r.category_slug !== category) return false;
     if (onlyFlagged && !state.flags[flagKey(r)]) return false;
     if (onlyMissing && hasLogo(r)) return false;
-    if (q) {
+    if (tokens.length) {
       const hay = `${r.entity_name} ${r.arkham_slug} ${r.canonical_domain}`.toLowerCase();
-      if (!hay.includes(q)) return false;
+      if (!tokens.every(t => hay.includes(t))) return false;
     }
+    if (statuses.size && !statuses.has(r.logo_status || 'none')) return false;
     return true;
   });
 
@@ -274,6 +343,7 @@ function renderStatsBar() {
     <span><strong>${withLogo}</strong> with real logo</span>
     <span><strong>${missing}</strong> placeholder / missing</span>
     <span><strong>${flaggedCount}</strong> flagged locally</span>
+    <span>reviewed <strong>${state.reviewed.size}</strong> / <strong>${total}</strong></span>
     <span>status:
       arkham <strong>${byStatus.arkham || 0}</strong> ·
       brandfetch <strong>${byStatus.brandfetch || 0}</strong> ·
@@ -285,6 +355,10 @@ function renderStatsBar() {
     </span>
   `;
   els.flaggedCount.textContent = String(flaggedCount);
+
+  const pct = total ? (state.reviewed.size / total * 100).toFixed(1) : 0;
+  const fill = document.getElementById('progress-fill');
+  if (fill) fill.style.width = pct + '%';
 }
 
 function renderCategoryChips() {
@@ -303,9 +377,122 @@ function renderCategoryChips() {
     mkChip('all', 'All', state.rows.length),
     ...cats.map(c => mkChip(c, CATEGORY_LABEL[c], counts[c])),
   ].join('');
+  els.chips.classList.toggle('chips-has-selection', state.filter.category !== 'all');
 }
 
-function renderCard(row) {
+const ALL_STATUSES = ['arkham', 'brandfetch', 'defillama', 'favicon', 'manual', 'placeholder', 'none'];
+
+function renderStatusChips() {
+  const bar = document.getElementById('status-chips');
+  if (!bar) return;
+  const counts = state.rows.reduce((acc, r) => {
+    const s = r.logo_status || 'none';
+    acc[s] = (acc[s] || 0) + 1;
+    return acc;
+  }, {});
+  bar.innerHTML = ALL_STATUSES
+    .filter(s => counts[s])
+    .map(s => {
+      const sel = state.filter.statuses.has(s);
+      return `<button class="chip" role="checkbox" aria-selected="${sel}" data-status="${s}">
+        ${s}<span class="count">${counts[s]}</span>
+      </button>`;
+    }).join('');
+  bar.classList.toggle('chips-has-selection', state.filter.statuses.size > 0);
+}
+
+function renderResultCount(total, page, pageSize) {
+  if (!els.resultCount) return;
+  if (!total) {
+    els.resultCount.textContent = '0 entities';
+    return;
+  }
+  if (total === state.rows.length && page === 1 && !isFilterDirty()) {
+    els.resultCount.textContent = `${total.toLocaleString()} entities`;
+    return;
+  }
+  const from = (page - 1) * pageSize + 1;
+  const to = Math.min(page * pageSize, total);
+  const suffix = total === state.rows.length ? '' : ' filtered';
+  els.resultCount.textContent =
+    `Showing ${from.toLocaleString()}–${to.toLocaleString()} of ${total.toLocaleString()}${suffix}`;
+}
+
+/* cached column count for keyboard grid navigation */
+let _colCount = 1;
+const refreshColCount = debounce(() => {
+  const cards = els.grid.querySelectorAll('.card');
+  if (cards.length < 2) { _colCount = 1; return; }
+  const y0 = cards[0].getBoundingClientRect().top;
+  let c = 1;
+  for (let i = 1; i < cards.length; i++) {
+    if (Math.abs(cards[i].getBoundingClientRect().top - y0) >= 1) break;
+    c++;
+  }
+  _colCount = c;
+}, 150);
+
+function renderGridContent(pageRows, tokens) {
+  els.grid.innerHTML = '';
+  if (!pageRows.length) {
+    const q = state.filter.search;
+    const msg = q
+      ? `No entities match "${q}". Try clearing filters.`
+      : 'No entities match the current filters.';
+    const emptyDiv = document.createElement('div');
+    emptyDiv.className = 'empty';
+    emptyDiv.textContent = msg + ' ';
+    const resetBtn = document.createElement('button');
+    resetBtn.className = 'btn btn-subtle btn-sm';
+    resetBtn.textContent = 'Reset view';
+    resetBtn.addEventListener('click', () => document.getElementById('reset-view')?.click());
+    emptyDiv.appendChild(resetBtn);
+    els.grid.appendChild(emptyDiv);
+    return;
+  }
+  const frag = document.createDocumentFragment();
+  pageRows.forEach((r, i) => frag.appendChild(renderCard(r, i, tokens)));
+  els.grid.appendChild(frag);
+  refreshColCount();
+}
+
+function renderPagination(total, page, pageSize) {
+  const bar = document.getElementById('pagination-bar');
+  if (!bar) return;
+  const pages = Math.ceil(total / pageSize);
+  if (!total || pages <= 1) { bar.hidden = true; return; }
+  bar.hidden = false;
+  bar.innerHTML = `
+    <button class="btn btn-subtle" id="page-prev" aria-label="Go to previous page"${page === 1 ? ' disabled' : ''}>← Prev</button>
+    <span aria-current="page">Page ${page} of ${pages}</span>
+    <button class="btn btn-subtle" id="page-next" aria-label="Go to next page"${page === pages ? ' disabled' : ''}>Next →</button>
+  `;
+  bar.querySelector('#page-prev')?.addEventListener('click', () => setPage(page - 1));
+  bar.querySelector('#page-next')?.addEventListener('click', () => setPage(page + 1));
+}
+
+function renderGrid() {
+  const all    = filteredRows();
+  const total  = all.length;
+  const page   = state.filter.page;
+  const tokens = tokenize(state.filter.search);
+  const slice  = all.slice((page - 1) * 100, page * 100);
+
+  renderCategoryChips();
+  renderStatusChips();
+  renderResultCount(total, page, 100);
+  renderGridContent(slice, tokens);
+  renderPagination(total, page, 100);
+
+  if (els.resetView) els.resetView.hidden = !isFilterDirty();
+
+  // restore focus to first card when navigating pages via pagination bar
+  if (document.activeElement && document.activeElement.closest('#pagination-bar')) {
+    els.grid.querySelector('.card')?.focus();
+  }
+}
+
+function renderCard(row, index, tokens) {
   const tpl = els.cardTemplate.content.cloneNode(true);
   const card = tpl.querySelector('.card');
   const key = flagKey(row);
@@ -316,13 +503,17 @@ function renderCard(row) {
   card.dataset.category = row.category_slug;
   card.dataset.hasLogo = String(logoOk);
   card.dataset.flagged = String(!!flag);
+  card.dataset.index = String(index);
+  card.tabIndex = 0;
 
   const img = card.querySelector('img');
   img.src = logoUrl(row);
   img.alt = row.entity_name;
   img.onerror = () => { card.dataset.hasLogo = 'false'; };
 
-  card.querySelector('.card-name').textContent = row.entity_name;
+  const cardName = card.querySelector('.card-name');
+  cardName.replaceChildren(highlightText(row.entity_name, tokens));
+
   card.querySelector('.badge-category').textContent = CATEGORY_TO_DIR[row.category_slug] || row.category_slug;
   const statusBadge = card.querySelector('.badge-status');
   statusBadge.textContent = row.logo_status || 'none';
@@ -332,6 +523,28 @@ function renderCard(row) {
 
   card.querySelector('.imp').textContent = `imp ${row.importance || 0}`;
   card.querySelector('.updated').textContent = row.logo_updated_at || '—';
+
+  // copy-slug button
+  const copySlugBtn = card.querySelector('.copy-slug-btn');
+  if (copySlugBtn) {
+    copySlugBtn.addEventListener('click', async e => {
+      e.stopPropagation();
+      const keyStr = flagKey(row);
+      try { await navigator.clipboard.writeText(keyStr); }
+      catch {
+        const ta = Object.assign(document.createElement('textarea'), { value: keyStr });
+        document.body.appendChild(ta); ta.select();
+        document.execCommand('copy'); ta.remove();
+      }
+      const prev = copySlugBtn.textContent;
+      copySlugBtn.textContent = '✓';
+      copySlugBtn.setAttribute('aria-label', 'Copied!');
+      setTimeout(() => {
+        copySlugBtn.textContent = prev;
+        copySlugBtn.setAttribute('aria-label', 'Copy entity path');
+      }, 1500);
+    });
+  }
 
   // flag UI wiring
   const flagBtn = card.querySelector('.flag-btn');
@@ -372,6 +585,7 @@ function renderCard(row) {
   paintFlagState();
 
   flagBtn.addEventListener('click', () => {
+    markReviewed(key);
     if (state.flags[key]) {
       delete state.flags[key];
     } else {
@@ -450,19 +664,6 @@ function renderCard(row) {
   return tpl;
 }
 
-function renderGrid() {
-  const rows = filteredRows();
-  els.grid.innerHTML = '';
-  if (!rows.length) {
-    els.grid.innerHTML = '<div class="empty">No entities match the current filters.</div>';
-    return;
-  }
-  // Render in chunks to keep the main thread responsive for 800+ rows.
-  const frag = document.createDocumentFragment();
-  for (const r of rows) frag.appendChild(renderCard(r));
-  els.grid.appendChild(frag);
-}
-
 /* ── CSV export ─────────────────────────────────────────────────────── */
 function escapeCsv(v) {
   const s = String(v ?? '');
@@ -470,7 +671,7 @@ function escapeCsv(v) {
 }
 
 /** Report schema — keep in sync with scripts/rework_from_report.py
- *  (to be built) on the enrichment side.
+ *  on the enrichment side.
  *
  *  `suggested_logo_data_url` carries the reviewer's replacement image
  *  inline as a `data:image/png;base64,…` URI. The image is already
@@ -536,29 +737,45 @@ function downloadReportCSV() {
 
 /* ── wire-up ────────────────────────────────────────────────────────── */
 function bindEvents() {
-  els.search.addEventListener('input', () => {
-    state.filter.search = els.search.value;
-    renderGrid();
-  });
-  els.sort.addEventListener('change', () => {
-    state.filter.sort = els.sort.value;
-    renderGrid();
-  });
-  els.onlyFlagged.addEventListener('change', () => {
-    state.filter.onlyFlagged = els.onlyFlagged.checked;
-    renderGrid();
-  });
-  els.onlyMissing.addEventListener('change', () => {
-    state.filter.onlyMissing = els.onlyMissing.checked;
-    renderGrid();
-  });
+  els.search.addEventListener('input', debounce(() => setFilter({ search: els.search.value }), 150));
+  els.sort.addEventListener('change', () => setFilter({ sort: els.sort.value }));
+  els.onlyFlagged.addEventListener('change', () => setFilter({ onlyFlagged: els.onlyFlagged.checked }));
+  els.onlyMissing.addEventListener('change', () => setFilter({ onlyMissing: els.onlyMissing.checked }));
+
   els.chips.addEventListener('click', e => {
     const chip = e.target.closest('.chip');
     if (!chip) return;
-    state.filter.category = chip.dataset.category;
-    renderCategoryChips();
-    renderGrid();
+    const newCat = chip.dataset.category === state.filter.category ? 'all' : chip.dataset.category;
+    setFilter({ category: newCat });
   });
+
+  const statusChipsEl = document.getElementById('status-chips');
+  if (statusChipsEl) {
+    statusChipsEl.addEventListener('click', e => {
+      const chip = e.target.closest('.chip');
+      if (!chip) return;
+      const s = chip.dataset.status;
+      const newSet = new Set(state.filter.statuses);
+      if (newSet.has(s)) newSet.delete(s);
+      else newSet.add(s);
+      setFilter({ statuses: newSet });
+    });
+  }
+
+  if (els.resetView) {
+    els.resetView.addEventListener('click', () => {
+      Object.assign(state.filter, {
+        category: 'all', statuses: new Set(),
+        search: '', onlyFlagged: false, onlyMissing: false, page: 1,
+        // sort intentionally NOT reset — reviewer set it deliberately
+      });
+      els.search.value = '';
+      els.onlyFlagged.checked = false;
+      els.onlyMissing.checked = false;
+      renderGrid();
+    });
+  }
+
   els.exportCsv.addEventListener('click', () => {
     if (!Object.keys(state.flags).length) {
       alert('No entries flagged yet. Click "Mark as problem" on a card first.');
@@ -575,6 +792,52 @@ function bindEvents() {
     renderStatsBar();
     renderGrid();
   });
+
+  if (els.themeToggle) {
+    els.themeToggle.addEventListener('click', () => {
+      const isDark = document.documentElement.classList.toggle('dark');
+      document.documentElement.classList.toggle('light', !isDark);
+      localStorage.setItem('kyt-gallery.theme.v1', isDark ? 'dark' : 'light');
+      els.themeToggle.textContent = isDark ? '☀' : '🌙';
+    });
+    els.themeToggle.textContent = document.documentElement.classList.contains('dark') ? '☀' : '🌙';
+  }
+
+  // keyboard shortcuts (document-level)
+  document.addEventListener('keydown', e => {
+    if (e.target.matches('input, textarea, select')) return;  // CRITICAL guard
+    if (e.target.closest('.card')) return;                   // card nav handles Escape
+    if (e.key === '/' && !e.ctrlKey && !e.metaKey) {
+      e.preventDefault();
+      els.search.focus(); els.search.select();
+    }
+    if (e.key === 'Escape') {
+      setFilter({ search: '' });
+      els.search.value = '';
+      els.search.blur();
+    }
+  });
+
+  // grid keyboard navigation (event delegation on #grid)
+  els.grid.addEventListener('keydown', e => {
+    const card = e.target.closest('.card');
+    if (!card) return;
+    const idx = +card.dataset.index;
+    const total = els.grid.querySelectorAll('.card').length;
+    const delta = { ArrowRight: 1, ArrowLeft: -1, ArrowDown: _colCount, ArrowUp: -_colCount }[e.key];
+    if (delta !== undefined) {
+      e.preventDefault();
+      const next = idx + delta;
+      if (next >= 0 && next < total) {
+        els.grid.querySelectorAll('.card')[next]?.focus();
+      }
+      // at boundary: silent no-op — focus ring provides visual feedback
+    }
+    if (e.key === 'Enter') { e.stopPropagation(); card.querySelector('.flag-btn')?.click(); }
+    if (e.key === 'Escape') { e.stopPropagation(); card.blur(); }
+  });
+
+  window.addEventListener('resize', refreshColCount);
 }
 
 async function fetchText(path) {
@@ -601,8 +864,34 @@ async function main() {
   els.flaggedCount = document.getElementById('flagged-count');
   els.grid         = document.getElementById('grid');
   els.cardTemplate = document.getElementById('card-template');
+  els.resetView    = document.getElementById('reset-view');
+  els.resultCount  = document.getElementById('result-count');
+  els.themeToggle  = document.getElementById('theme-toggle');
 
-  state.flags = loadFlags();
+  state.flags    = loadFlags();
+  state.reviewed = loadReviewed();
+
+  // first-use keyboard hint banner
+  if (!localStorage.getItem(HINT_KEY) && Object.keys(state.flags).length === 0 && state.reviewed.size === 0) {
+    const banner = document.createElement('div');
+    banner.className = 'hint-banner';
+    const msg = document.createElement('span');
+    msg.textContent = '/ to search · ↑↓←→ navigate cards · Enter to flag · Esc to clear search';
+    const dismissBtn = document.createElement('button');
+    dismissBtn.className = 'hint-dismiss';
+    dismissBtn.setAttribute('aria-label', 'Dismiss hint');
+    dismissBtn.textContent = '×';
+    dismissBtn.addEventListener('click', () => {
+      localStorage.setItem(HINT_KEY, '1');
+      banner.remove();
+    });
+    banner.appendChild(msg);
+    banner.appendChild(dismissBtn);
+    const toolbar = document.querySelector('.toolbar');
+    if (toolbar && toolbar.nextSibling) {
+      toolbar.parentNode.insertBefore(banner, toolbar.nextSibling);
+    }
+  }
 
   try {
     const [csv, index] = await Promise.all([
@@ -612,19 +901,22 @@ async function main() {
     state.rows = parseCSV(csv);
     state.index = index;
   } catch (e) {
-    // Use textContent so a crafted error message (e.g. a server-side
-    // response echoed by fetch) cannot inject markup into the grid.
-    const banner = document.createElement('div');
-    banner.className = 'empty';
-    banner.textContent = `Failed to load entities.csv or logos/_index.json: ${e && e.message ? e.message : String(e)}`;
-    els.grid.replaceChildren(banner);
+    const errDiv = document.createElement('div');
+    errDiv.className = 'empty';
+    errDiv.textContent = 'Failed to load entities. Check your connection and reload. ';
+    const reloadBtn = document.createElement('button');
+    reloadBtn.className = 'btn btn-subtle btn-sm';
+    reloadBtn.textContent = 'Reload';
+    reloadBtn.addEventListener('click', () => window.location.reload());
+    errDiv.appendChild(reloadBtn);
+    els.grid.replaceChildren(errDiv);
+    els.grid.removeAttribute('aria-busy');
     return;
   }
 
   els.grid.removeAttribute('aria-busy');
   bindEvents();
   renderStatsBar();
-  renderCategoryChips();
   renderGrid();
 }
 
