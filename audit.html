@@ -11,6 +11,13 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap" />
+  <script>
+    (function(){
+      var t = localStorage.getItem('kyt-gallery.theme.v1');
+      if (t === 'dark') { document.documentElement.classList.add('dark'); }
+      else if (t === 'light') { document.documentElement.classList.remove('dark'); document.documentElement.classList.add('light'); }
+    })();
+  </script>
   <link rel="stylesheet" href="gallery.css" />
 </head>
 <body>
@@ -21,11 +28,13 @@
         <p class="tagline">Reviewer audit tool — flag, replace, export rework CSV</p>
       </div>
       <div class="header-actions">
+        <button id="theme-toggle" class="btn btn-subtle" type="button" title="Toggle dark/light mode" style="margin-right:4px">🌙</button>
         <a class="gh-link" href="./" style="margin-right:8px">← Landing</a>
         <a class="gh-link" href="https://github.com/maslovsa/kyt-entity-registry" target="_blank" rel="noopener">GitHub</a>
       </div>
     </div>
     <div class="stats-bar" id="stats-bar" aria-live="polite"></div>
+    <div id="progress-bar"><div id="progress-fill"></div></div>
   </header>
 
   <section class="toolbar" aria-label="Filters and actions">
@@ -45,17 +54,24 @@
         <input type="checkbox" id="only-missing" />
         <span>Only missing logos</span>
       </label>
-      <button id="export-csv" class="btn btn-primary" type="button">
-        Export flagged CSV (<span id="flagged-count">0</span>)
-      </button>
-      <button id="clear-flags" class="btn btn-subtle" type="button" title="Clear all local flags (cannot be undone)">Clear flags</button>
+      <div class="toolbar-actions">
+        <span id="result-count" class="result-count" aria-live="polite" aria-atomic="true"></span>
+        <button id="reset-view" class="btn btn-subtle" type="button" hidden>Reset view</button>
+        <button id="export-csv" class="btn btn-primary" type="button">
+          Export flagged CSV (<span id="flagged-count">0</span>)
+        </button>
+        <button id="clear-flags" class="btn btn-subtle" type="button" title="Clear all local flags (cannot be undone)">Clear flags</button>
+      </div>
     </div>
     <div class="toolbar-row toolbar-row-chips" id="category-chips" role="tablist"></div>
+    <div class="toolbar-row toolbar-row-chips" id="status-chips" role="group" aria-label="Status filter"></div>
   </section>
 
   <main id="grid" class="grid" aria-live="polite" aria-busy="true">
     <div class="loading">Loading entities.csv...</div>
   </main>
+
+  <nav id="pagination-bar" class="pagination-bar" aria-label="Grid pagination" hidden></nav>
 
   <template id="card-template">
     <article class="card" data-slug="" data-category="">
@@ -72,6 +88,7 @@
         <div class="card-sub">
           <span class="imp" title="importance"></span>
           <span class="updated" title="logo_updated_at"></span>
+          <button class="copy-slug-btn" type="button" aria-label="Copy entity path">⎘</button>
         </div>
       </div>
       <div class="card-flag-area">
