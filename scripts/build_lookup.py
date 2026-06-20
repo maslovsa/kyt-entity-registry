@@ -9,25 +9,32 @@ CONSUMERS.md's `entityLogoUrl(category, name)` only works when the
 name is already canonical ("Binance.com"). Freeform labels miss.
 
 This script emits a JSON index that lets a ~40-line client-side
-resolver do keyword-overlap matching in O(N) per call (N=800 rows;
+resolver do keyword-overlap matching in O(N) per call (N≈2000 rows;
 cheap enough for sub-ms lookups on a precomputed token set).
 
-Shape (intentionally compact — ~80 KB gzipped on the wire):
+Only entities that have a real brand logo (logo_status ∈ {arkham,
+brandfetch, defillama, favicon, manual}) are emitted into `entries`.
+Placeholder-only rows are excluded to keep the download lean.  The
+header carries `total_entities` (full CSV count) so consumers that
+want to report "N known entities" can still do so.
+
+Shape (intentionally compact — ~200 KB raw, ~55 KB gzipped):
 
     {
       "version": 1,
-      "generated_at": "YYYY-MM-DD",
-      "cdn":          "https://cdn.jsdelivr.net/gh/.../@main",
-      "fallback":     "/logos/404.png",
+      "generated_at":   "YYYY-MM-DD",
+      "cdn":             "https://cdn.jsdelivr.net/gh/.../@main",
+      "fallback":        "/logos/404.png",
       "category_to_dir": { "exchange": "exchanges", ... },
+      "total_entities":  2280,   // full CSV count incl. placeholder rows
       "entries": [
         {
-          "cat":  "exchange",        // category_slug
-          "slug": "binance-com",     // arkham_slug (= filename stem)
-          "name": "Binance.com",     // display name
-          "kw":   ["binance"],       // lowercase tokens for fuzzy match
-          "imp":  100,               // importance, for tiebreaking
-          "real": true               // false when status==placeholder
+          "cat":  "exchange",    // category_slug
+          "slug": "binance-com", // arkham_slug (= filename stem)
+          "name": "Binance.com", // display name
+          "kw":   ["binance"],   // lowercase tokens for fuzzy match
+          "imp":  100,           // importance, for tiebreaking
+          "real": true           // always true — placeholder rows excluded
         },
         ...
       ]

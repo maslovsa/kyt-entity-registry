@@ -264,8 +264,12 @@ resolver.
 matching: each entity carries a small list of pre-extracted
 keywords (lowercase alphanumeric tokens, >= 3 chars, not a
 stopword). A freeform label is tokenized the same way; score =
-size of the intersection. Ties broken by `imp` (importance) then
-by `real` (real logo beats placeholder).
+size of the intersection. Ties broken by `imp` (importance).
+
+The index only includes entities with a real brand logo — placeholder
+rows are excluded to keep the download lean (~55 KB gzipped).
+The header field `total_entities` holds the full CSV count if you
+need to report "N known entities" without fetching every row.
 
 ### JS / TS — drop-in
 
@@ -306,7 +310,7 @@ export function EntityLogo({ category, label, size = 20 }: {
     getLookup().then(l => {
       if (cancelled) return
       const hit = l.resolve({ category, label })
-      setUrl(hit?.real ? hit.url : null)  // only show REAL hits
+      setUrl(hit ? hit.url : null)  // all entries have real logos
     })
     return () => { cancelled = true }
   }, [category, label])
@@ -335,8 +339,7 @@ def _tokens(label: str) -> set[str]:
     return {t for t in _TOKEN_RE.split((label or "").lower())
             if len(t) >= 3 and not t.isdigit()}
 
-def resolve_entity_logo(category: str | None, label: str,
-                        prefer_real: bool = True) -> str | None:
+def resolve_entity_logo(category: str | None, label: str) -> str | None:
     """Return the CDN URL of the best-matching logo, or None."""
     tokens = _tokens(label)
     if not tokens: return None
@@ -347,7 +350,7 @@ def resolve_entity_logo(category: str | None, label: str,
         if category and e["cat"] != category: continue
         score = sum(1 for k in e["kw"] if k in tokens)
         if score == 0: continue
-        effective = score + (0.5 if prefer_real and e["real"] else 0)
+        effective = score  # all entries have real logos; imp breaks ties
         if effective > best_score:
             best, best_score = e, effective
     if not best: return None
