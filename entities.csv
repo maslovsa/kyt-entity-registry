@@ -1282,7 +1282,7 @@ Yearn - REKT 2,defi,98.5,24,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM
 Zoth,defi,98.5,24,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,zoth,,,,arkham,2026-05-26,false,e396eca566ad44de1313d51cc472785d10f39b9b443441a1d2b23f9cf32ce803
 OkayPayBot,bot,98.2,131,75,5,TRON,scorechain-counterparties,okaypaybot,,"okaypaybot,okay pay bot",,manual,2026-04-29,true,f16d6be930b9ae6825a0bdbd44c5b86052b2106c32453e3736a69ff249d8b4e1
 Etherscan gambling,gambling,97.6,122,80,50,ETH,graphsense-tagpacks,etherscan-gambling,,etherscan gambling,,arkham,2026-05-11,false,9c50a724d21c915268b2d005c512866261f1d62abd6f78907e52edb6ea3403a5
-Huionepay,sanctioned,97.4,113,85,100,BSC|ETH|TRON,scorechain-counterparties,huionepay-kh,huionepay.com.kh,huionepay,,manual,2026-04-29,true,256317dc70d5f8362b1a01288c980f47a840f290d54443027cb8768029574066
+Huionepay,sanctioned,97.4,113,85,100,BSC|ETH|TRON,scorechain-counterparties,huionepay-kh,huionepay.com.kh,huionepay,,manual,2026-06-20,true,256317dc70d5f8362b1a01288c980f47a840f290d54443027cb8768029574066
 ChainUp,exchange,97.2,109,85,5,BSC|ETH|TRON,scorechain-counterparties,chainup-com,chainup.com,"chainup.com,chainup",,manual,2026-04-29,true,b53dd85a26db408db07affeac902ae8249ccba37e81f0079b8ef4f6003cc7ec8
 BitStarz.com,gambling,96.8,,85,50,BSC|ETH|TRON,scorechain-counterparties,bitstarz-com,bitstarz.com,bitstarz,,manual,2026-04-29,true,9d33d32bba7d5529a9d22e39a5439b85b32e99b918ca40b58fc977c558850b14
 1inch Network,dex,96.7,40,85,10,BSC|ETH,scorechain-counterparties,1inch-network,1inch.com,1inch,,arkham,2026-05-26,false,b7e981315bea9ef1f64f65716e220508a1c6577bdeb706d945762e959c945b52
@@ -2239,7 +2239,7 @@ Yieldblox,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLY
 YodlRouter,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,yodlrouter,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Gnosis Sight,defi,45.5,65,70,5,ETH,ethereum-lists-contracts,gnosis-sight,,,,arkham,2026-06-19,false,8b61aa790e1859323e7131a51c40da845d87af526c07ac715b3c813b5dea956a
 mobius,defi,45.5,65,70,5,ETH,defillama-adapters|vasp-entity-defaults,mobius,,,,arkham,2026-05-11,false,7999e93417b167c575aea1a8f6c7b6f458c5f08826f824e5e4fd30ea313b2cdd
-Htx.com - Huobi.com,sanctioned,45.0,60,75,95,BSC|ETH|TRON,scorechain-counterparties,htx-com-huobi-com,,,,arkham,2026-06-19,false,43c2d389e79fd1c4127e2856a3845a50514cfbe4dc2e1db97ee196fc8b88a52b
+Htx.com - Huobi.com,sanctioned,45.0,60,75,95,BSC|ETH|TRON,scorechain-counterparties,htx-com-huobi-com,,,,manual,2026-06-20,true,8b1f267221bcf7a0c943b5509c9d0ac97a201367645c51c6a97f9425bd940064
 Kraken (Arkham prediction),exchange,45.0,50,90,5,ETH,arkham-intelligence,kraken-arkham-prediction,,,,arkham,2026-06-19,false,ef076819c5be0de259dcc9bd21131c4cf08531fa9a69eec0bcf8fc7aafcaecdb
 OFAC SDN: Blender.io,sanctioned,45.0,45,100,95,BTC,ofac-sdn,ofac-sdn-blender-io,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 ParaSwap.io,dex,45.0,60,75,10,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,scorechain-counterparties|vasp-entity-defaults,paraswap-io,paraswap.io,"paraswap.io,paraswap",,arkham,2026-05-26,false,170813a2b087d4ab9f11b420174d2366c4fc8827fb6de0455f36de982ea3bd89
