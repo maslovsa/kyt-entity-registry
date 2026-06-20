@@ -393,9 +393,11 @@ function wireBackToFilter() {
 /* ── stats ───────────────────────────────────────────────────────── */
 function renderStats() {
   const entries = state.index.entries;
-  const total = entries.length;
-  const real = entries.filter(e => e.real).length;
-  const cats = new Set(entries.map(e => e.cat)).size;
+  // total_entities = full CSV count (including placeholder-only rows);
+  // falls back to entries.length for older lookup builds.
+  const total = state.index.total_entities ?? entries.length;
+  const real  = entries.length;  // entries now contains only real-logo rows
+  const cats  = new Set(entries.map(e => e.cat)).size;
   const set = id => {
     const el = document.getElementById(id);
     if (el) el.textContent = id === 'stat-updated'

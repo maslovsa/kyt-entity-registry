@@ -145,11 +145,16 @@ def _keywords(row: Row) -> list[str]:
 
 def build(rows: list[Row]) -> dict:
     real_statuses = {"arkham", "brandfetch", "defillama", "favicon", "manual"}
+    eligible = [r for r in rows if r.category_slug in CATEGORY_TO_DIR and r.arkham_slug]
+    total_entities = len(eligible)
+
+    # Only include entries that have a real brand logo — placeholder entries
+    # carry no useful logo URL and would bloat the index downloaded by every
+    # page visitor.  The full entity count is preserved in total_entities so
+    # the landing-page stats can still report "N known entities".
     entries: list[dict] = []
-    for r in rows:
-        if r.category_slug not in CATEGORY_TO_DIR:
-            continue
-        if not r.arkham_slug:
+    for r in eligible:
+        if r.logo_status not in real_statuses:
             continue
         entries.append({
             "cat":  r.category_slug,
@@ -157,7 +162,7 @@ def build(rows: list[Row]) -> dict:
             "name": r.entity_name,
             "kw":   _keywords(r),
             "imp":  r.importance,
-            "real": r.logo_status in real_statuses,
+            "real": True,
         })
     # Sort by importance desc, then name — same order the enrichment
     # cron uses; keeps the resolver's "pick highest importance on tie"
@@ -170,6 +175,7 @@ def build(rows: list[Row]) -> dict:
         "cdn": CDN_BASE,
         "fallback": FALLBACK_URL,
         "category_to_dir": dict(CATEGORY_TO_DIR),
+        "total_entities": total_entities,
         "entries": entries,
     }
 
