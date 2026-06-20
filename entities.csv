@@ -1962,7 +1962,7 @@ rumpel,defi,75.6,108,70,5,BSC|ETH,defillama-adapters,rumpel,,,,defillama,2026-05
 B2BinPay.com - B2BX.exchange,exchange,75.0,100,75,5,BSC|ETH|TRON,scorechain-counterparties,b2binpay-com-b2bx-exchange,,"b2binpay,b2bx,b2binpay.com",,arkham,2026-05-26,false,60c9c613ece03edb3631006897fb01f23d841c26fce953b0746e36428eeeb328
 ChaingeFinance,defi,74.9,107,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,chaingefinance,,,,defillama,2026-05-11,false,84fc8da530692cbce912abb5c41a8033457e82490c25bd067341ad972194e563
 Crystal,exchange,74.7,2,75,5,TRON,crystal-verdicts,crystal,,crystal,,defillama,2026-05-27,false,7ed0e6ae6f0e3ce6b9820705b5358ad8103bc683345cae38824145e13ccd8e17
-HTX,exchange,72.9,81,90,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON|TRON,arkham-intelligence,htx,,,,arkham,2026-06-19,false,43c2d389e79fd1c4127e2856a3845a50514cfbe4dc2e1db97ee196fc8b88a52b
+HTX,exchange,72.9,81,90,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON|TRON,arkham-intelligence,htx,,,,manual,2026-06-20,true,8b1f267221bcf7a0c943b5509c9d0ac97a201367645c51c6a97f9425bd940064
 Hopelend,defi,72.8,104,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,hopelend,,,,defillama,2026-05-11,false,105364671381dd0ec027e9995c181793dd56002c4cff3dac775c2ab5a8465b70
 MetaPoint,defi,72.8,104,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,metapoint,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Tochka24.org,exchange,72.8,97,75,5,TRON,scorechain-counterparties,tochka24-org,tochka24.org,"""tochka24,tochka 24""",,placeholder,2026-05-09,true,
