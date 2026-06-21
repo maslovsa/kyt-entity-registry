@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-06-21T15:31:22+00:00",
+  "generated_at": "2026-06-21T16:23:10+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -16273,6 +16273,18 @@
       "logo_path": "logos/exchanges/crystal.png",
       "keywords": [
         "crystal"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tochka24-org",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/tochka24-org.png",
+      "keywords": [
+        "tochka24",
+        "tochka 24",
+        "tochka24.org"
       ],
       "product_aliases": [],
       "sanctioned": false

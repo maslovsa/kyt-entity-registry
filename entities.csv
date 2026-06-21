@@ -1965,7 +1965,7 @@ Crystal,exchange,74.7,2,75,5,TRON,crystal-verdicts,crystal,,crystal,,defillama,2
 HTX,exchange,72.9,81,90,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON|TRON,arkham-intelligence,htx,,,,manual,2026-06-20,true,8b1f267221bcf7a0c943b5509c9d0ac97a201367645c51c6a97f9425bd940064
 Hopelend,defi,72.8,104,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,hopelend,,,,defillama,2026-05-11,false,105364671381dd0ec027e9995c181793dd56002c4cff3dac775c2ab5a8465b70
 MetaPoint,defi,72.8,104,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,metapoint,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
-Tochka24.org,exchange,72.8,97,75,5,TRON,scorechain-counterparties,tochka24-org,tochka24.org,"""tochka24,tochka 24""",,placeholder,2026-05-09,true,
+Tochka24.org,exchange,72.8,97,75,5,TRON,scorechain-counterparties,tochka24-org,tochka24.org,"tochka24,tochka 24,tochka24.org",,manual,2026-06-21,true,2561e0f7240559a24e689e77381c0239e3e5b9a228d20891fafafc6162e30c2a
 FourMeme,defi,72.1,103,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,fourmeme,,,,manual,2026-05-12,true,07d4d2c277cc3b036881ab17831f71313178a6ede566bd5c89990ef7f9dcd9e5
 PancakeBunny,defi,72.1,103,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,pancakebunny,,,,manual,2026-05-12,true,59585066373cedd4ec35aa832558e41c3a238fb5ef67caf04d62cef6884f1c23
 synapse,defi,72.1,103,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,defillama-adapters|vasp-entity-defaults,synapse,,,,arkham,2026-05-11,false,d1f99d6e36e8959a06111ea48fb39009a017b75e19b3d6b73b74469c115a096d
