@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-06-19T13:48:39+00:00",
+  "generated_at": "2026-06-21T09:18:24+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -16708,6 +16708,17 @@
       "keywords": [
         "safe trade",
         "safe.trade"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "capitalist-net",
+      "category": "psp",
+      "logo_path": "logos/psp/capitalist-net.png",
+      "keywords": [
+        "capitalist",
+        "capitalist.net"
       ],
       "product_aliases": [],
       "sanctioned": false
