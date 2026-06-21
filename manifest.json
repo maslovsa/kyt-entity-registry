@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-06-21T09:18:24+00:00",
+  "generated_at": "2026-06-21T15:31:22+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -16721,6 +16721,21 @@
         "capitalist.net"
       ],
       "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "abcex-io",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/abcex-io.png",
+      "keywords": [
+        "abcex",
+        "abcex.io",
+        "abcex-io"
+      ],
+      "product_aliases": [
+        "nueva cryptologia",
+        "nueva cryptologia sas"
+      ],
       "sanctioned": false
     }
   ]

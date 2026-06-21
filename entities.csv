@@ -2280,3 +2280,4 @@ Farhad-exchange.com - Efex.pro,exchange,40.5,54,75,5,BSC|ETH|TRON,scorechain-cou
 CoinDCX,exchange,0,67,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON|TRON,defillama-adapters|hack-attributions,coindcx,,coindcx,,arkham,2026-05-26,false,ab86d8869e8cfadd6afb5f6acf47386665de7d8db56026600e432e79ca54fa5c
 Safe Trade,exchange,0,6,85,5,BSC|ETH|TRON,scorechain-counterparties,safe-trade,safe.trade,"safe trade,safe.trade",,arkham,2026-05-26,false,89ba5c8d782acbe3c4f1606f459891311e2d70447fb8316e1ec55093de1aefe2
 Capitalist.net,psp,100,,75,5,ETH|TRON,manual-admin,capitalist-net,capitalist.net,"capitalist,capitalist.net",,manual,2026-06-21,true,12c95b7cade4ea7b32db7dba0620c7df3f9058e2d451f5be49968c4ad502c43c
+ABCex,exchange,85,7,85,100,BTC|ETH|TRON,manual-admin|uk-ofsi-sanctions,abcex-io,abcex.io,"abcex,abcex.io,abcex-io","nueva cryptologia,nueva cryptologia sas",manual,2026-06-21,false,f7b138c37db2934e38eab3c1cf3a3a7ee7473ab083f639b17e9929739fc4a5dd
