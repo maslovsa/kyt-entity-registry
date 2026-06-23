@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-06-23T12:01:10+00:00",
+  "generated_at": "2026-06-23T13:45:58+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -16749,6 +16749,17 @@
         "nueva cryptologia",
         "nueva cryptologia sas"
       ],
+      "sanctioned": false
+    },
+    {
+      "slug": "hifiswap",
+      "category": "dex",
+      "logo_path": "logos/dex/hifiswap.png",
+      "keywords": [
+        "hifiswap",
+        "hifi swap"
+      ],
+      "product_aliases": [],
       "sanctioned": false
     }
   ]
