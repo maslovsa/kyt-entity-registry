@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-06-21T16:23:10+00:00",
+  "generated_at": "2026-06-23T12:01:10+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -1574,7 +1574,8 @@
       "category": "bridge",
       "logo_path": "logos/bridge/usdt0.png",
       "keywords": [
-        "usdt0"
+        "usdt0",
+        "UsdtOFT"
       ],
       "product_aliases": [],
       "sanctioned": false

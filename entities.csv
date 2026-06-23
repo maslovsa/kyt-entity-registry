@@ -307,7 +307,7 @@ SSV Network,mining,95,0,0,10,ETH,,ssv,ssv.network,"ssv,ssv-network",,arkham,2026
 Tether Gold,defi,95,0,0,10,ETH|AVALANCHE|ARBITRUM|POLYGON,,tether-gold,gold.tether.to,"tether gold,tether-gold",,arkham,2026-05-11,false,5a44d5ce6071b7f2ca24fab58fdaaf2f8931d60125b39679aaec45dd685976aa
 Tornado Cash,mixer,95,,,,ETH,,tornado-cash,tornado.cash,"tornado cash,tornado",,arkham,2026-06-02,false,48f1f138140f1fe4de4cc741364f15595b28e7b666fda60c074d966cd91dcb93
 Trace Road LLC,sanctioned,95,0,100,100,BTC|ETH|TRON,uk-ofsi-sanctions,trace-road-llc,,"trace road,trace road llc",,placeholder,2026-05-26,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
-USDT0,bridge,95,0,0,10,ETH,,usdt0,usdt0.to,usdt0,,arkham,2026-05-11,false,269ac6823bce9a4dd6dafcee15fec63c5fb8be16b0ffaf2dcdb0516a4a98cfce
+USDT0,bridge,95,0,0,10,ETH,,usdt0,usdt0.to,"usdt0,UsdtOFT",,arkham,2026-05-11,false,269ac6823bce9a4dd6dafcee15fec63c5fb8be16b0ffaf2dcdb0516a4a98cfce
 Venus Core Pool,defi,95,0,0,10,BSC|ETH|ARBITRUM|BASE|OPTIMISM,,venus-core-pool,app.venus.io,"venus core pool,venus-core-pool",,arkham,2026-05-11,false,5921ae4863fcf5d784b1fc66503552846226dbe67b4208e1f018839af703f6dc
 WBTC,bridge,95,0,0,10,BTC,,wbtc,btc.network,wbtc,,defillama,2026-05-11,false,fcf70a72cc11dd5814d186bcd86a3e0a5794c2c4426f2705d7a721181c0603aa
 A7A5 (token),sanctioned,90,0,100,95,TRON|ETH,uk-ofsi-sanctions,a7a5-token,,"a7a5,a7a5 token,a7a5-token",,arkham,2026-05-26,false,683fcde18f669429f8369b8978868c7654b809cbb35b93414245567c53dfff75
