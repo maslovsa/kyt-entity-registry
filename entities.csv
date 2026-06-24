@@ -2282,3 +2282,4 @@ Safe Trade,exchange,0,6,85,5,BSC|ETH|TRON,scorechain-counterparties,safe-trade,s
 Capitalist.net,psp,100,,75,5,ETH|TRON,manual-admin,capitalist-net,capitalist.net,"capitalist,capitalist.net",,manual,2026-06-21,true,12c95b7cade4ea7b32db7dba0620c7df3f9058e2d451f5be49968c4ad502c43c
 ABCex,exchange,85,7,85,100,BTC|ETH|TRON,manual-admin|uk-ofsi-sanctions,abcex-io,abcex.io,"abcex,abcex.io,abcex-io","nueva cryptologia,nueva cryptologia sas",manual,2026-06-21,false,f7b138c37db2934e38eab3c1cf3a3a7ee7473ab083f639b17e9929739fc4a5dd
 HiFiSwap,dex,50,1,90,10,TRON,arkham-intelligence|scorechain-counterparties|tronscan-api,hifiswap,hifiswap.io,"hifiswap,hifi swap",,manual,2026-06-23,false,420be7e7e0deba5aa3c3fc7ae6d8ff850814ed23a19902d0a995ffc032f9a48e
+4g.net,gambling,30,7,100,65,TRON,manual-admin|scorechain-counterparties,4g-net,4g.net,"4g.net,4gnet,4g casino,4g gambling,4gwd",,manual,2026-06-24,true,b8e02feb4d5e57c2c577cf943e5b4c443ad2a9da2193b3cbbff81218004f396c

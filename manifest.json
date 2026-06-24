@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-06-23T13:45:58+00:00",
+  "generated_at": "2026-06-24T18:02:48+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -16758,6 +16758,20 @@
       "keywords": [
         "hifiswap",
         "hifi swap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "4g-net",
+      "category": "gambling",
+      "logo_path": "logos/gambling/4g-net.png",
+      "keywords": [
+        "4g.net",
+        "4gnet",
+        "4g casino",
+        "4g gambling",
+        "4gwd"
       ],
       "product_aliases": [],
       "sanctioned": false
