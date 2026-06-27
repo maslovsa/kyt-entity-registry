@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-06-24T18:02:48+00:00",
+  "generated_at": "2026-06-27T14:05:38+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -16772,6 +16772,19 @@
         "4g casino",
         "4g gambling",
         "4gwd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "come-back-alive",
+      "category": "ngo",
+      "logo_path": "logos/ngo/come-back-alive.png",
+      "keywords": [
+        "come back alive",
+        "savelife",
+        "повернись живим",
+        "save life ukraine"
       ],
       "product_aliases": [],
       "sanctioned": false
