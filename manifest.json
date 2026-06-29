@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-06-29T20:57:20+00:00",
+  "generated_at": "2026-06-29T21:11:39+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -16842,6 +16842,34 @@
         "ace exchange",
         "ace.io",
         "ace-ex"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ukraine-government-donation",
+      "category": "ngo",
+      "logo_path": "logos/ngo/ukraine-government-donation.png",
+      "keywords": [
+        "united24",
+        "ukraine government",
+        "ukraine donation",
+        "минцифра",
+        "fedorov"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "prytula-foundation",
+      "category": "ngo",
+      "logo_path": "logos/ngo/prytula-foundation.png",
+      "keywords": [
+        "prytula foundation",
+        "serhiy prytula",
+        "prytula",
+        "prytulafoundation",
+        "притула"
       ],
       "product_aliases": [],
       "sanctioned": false
