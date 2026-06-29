@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-06-29T20:33:54+00:00",
+  "generated_at": "2026-06-29T20:57:20+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -16830,6 +16830,18 @@
       "keywords": [
         "getbit",
         "getbit exchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ace-io",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/ace-io.png",
+      "keywords": [
+        "ace exchange",
+        "ace.io",
+        "ace-ex"
       ],
       "product_aliases": [],
       "sanctioned": false
