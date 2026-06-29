@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-06-27T14:05:38+00:00",
+  "generated_at": "2026-06-29T20:31:18+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -16785,6 +16785,17 @@
         "savelife",
         "повернись живим",
         "save life ukraine"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "sher888-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/sher888-com.png",
+      "keywords": [
+        "sher888",
+        "sher888.com"
       ],
       "product_aliases": [],
       "sanctioned": false
