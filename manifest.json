@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-06-29T21:11:39+00:00",
+  "generated_at": "2026-06-29T21:20:53+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -16870,6 +16870,19 @@
         "prytula",
         "prytulafoundation",
         "притула"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "unchain-fund",
+      "category": "ngo",
+      "logo_path": "logos/ngo/unchain-fund.png",
+      "keywords": [
+        "unchain fund",
+        "unchain ukraine",
+        "#unchain_ukraine",
+        "unchainukraine"
       ],
       "product_aliases": [],
       "sanctioned": false
