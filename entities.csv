@@ -1591,7 +1591,7 @@ Xrex,exchange,85.2,6,85,5,TRON,scorechain-counterparties,xrex,,xrex,,manual,2026
 B2C2,exchange,85.0,6,85,25,ETH,scorechain-counterparties|etherscan-html,b2c2-com,b2c2.com,b2c2,,placeholder,2026-05-09,true,
 Bitrefill.com,psp,85.0,16,85,15,ETH,scorechain-counterparties|etherscan-html,bitrefill-com,bitrefill.com,bitrefill,,arkham,2026-06-02,true,15e2ea85af66a0dceb9904df4603de8a9e1ed03dbfa28d0d3997cdbf6d447f34
 UnitrustGlobal.com,custodian,85.0,52,85,50,BSC|ETH|TRON,scorechain-counterparties|manual-admin,unitrustglobal-com,unitrustglobal.com,unitrustglobal,,manual,2026-05-12,true,14a1ba933f174cc84103894d38b42224bc9db04aad11afba49877fe76b388bd0
-Zerohash.com,psp,85.0,6,85,15,ETH,scorechain-counterparties|etherscan-html,zerohash-com,zerohash.com,"""zerohash,zero hash""",,placeholder,2026-05-09,true,
+Zerohash.com,psp,85.0,6,85,15,ETH,scorechain-counterparties|etherscan-html,zerohash-com,zerohash.com,"""zerohash,zero hash""",,manual,2026-06-29,true,c8659aaf32c59cc1d49d9e48be3cc574f3d1a18aa263d5304df698d415798339
 Upbit.com,exchange,84.8,113,75,5,ETH|TRON,scorechain-counterparties,upbit-com,upbit.com,upbit,,arkham,2026-05-26,false,8695bd7ff26dc94575e0c74a44f73481c3baf0e9e583dedcd8650200ae36c3a1
 Aifory Pro,exchange,84.2,5,85,5,ETH|TRON,scorechain-counterparties,aifory-pro,,"aifory,aifory pro",,manual,2026-04-23,true,e4348bd585065902b3a6fe3a2f874fccf3ecb3e934618b2b9f1e50514f491d38
 Binance Wallet,wallet,84.2,5,85,5,BSC|ETH|TRON,scorechain-counterparties,binance-wallet,,binance wallet,,arkham,2026-05-26,false,a0e24a935c02ce7c68cbb2dd8fce26c662b224dcbbcba0d6d70583994608d1d0
@@ -2285,3 +2285,5 @@ HiFiSwap,dex,50,1,90,10,TRON,arkham-intelligence|scorechain-counterparties|trons
 4g.net,gambling,30,7,100,65,TRON,manual-admin|scorechain-counterparties,4g-net,4g.net,"4g.net,4gnet,4g casino,4g gambling,4gwd",,manual,2026-06-24,true,b8e02feb4d5e57c2c577cf943e5b4c443ad2a9da2193b3cbbff81218004f396c
 Come Back Alive,ngo,300,2,100,60,TRON|ETH|BTC|SOL,manual-admin,come-back-alive,savelife.in.ua,"come back alive,savelife,повернись живим,save life ukraine",,manual,2026-06-27,true,9628a7d05b6849c5a0b8a27463a9ad30ef6cf74f278e42d484aff35e0acefad2
 Sher888.com,exchange,200,7,85,65,TRON,"manual-admin,bitok-verdicts,scorechain-counterparties",sher888-com,sher888.com,"sher888,sher888.com",,manual,2026-06-29,true,de41c4ff1b4a0606294a0e284db77c13c7437c3f3564226fa8f1d0c0b9c4ba93
+Samourai Wallet,wallet,300,0,95,95,BTC,manual-admin,samourai-wallet,samouraiwallet.com,"samourai,samourai wallet,samouraiwallet",,manual,2026-06-29,true,e4966686c387a44aac1a51927accc558b0fd52dc51aeaf42674c1b2528111c69
+GetBit,exchange,100,0,72,72,TRON|ETH,manual-admin,getbit-exchange,getbit.io,"getbit,getbit exchange",,manual,2026-06-29,true,447992b66f29a38ede92fa9ceb1e94436e95a1b62a688b520869636018a2950f

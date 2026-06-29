@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-06-29T20:31:18+00:00",
+  "generated_at": "2026-06-29T20:33:54+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -13186,6 +13186,17 @@
       "sanctioned": false
     },
     {
+      "slug": "zerohash-com",
+      "category": "psp",
+      "logo_path": "logos/psp/zerohash-com.png",
+      "keywords": [
+        "\"zerohash",
+        "zero hash\""
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "upbit-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/upbit-com.png",
@@ -16796,6 +16807,29 @@
       "keywords": [
         "sher888",
         "sher888.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "samourai-wallet",
+      "category": "wallet",
+      "logo_path": "logos/wallet/samourai-wallet.png",
+      "keywords": [
+        "samourai",
+        "samourai wallet",
+        "samouraiwallet"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "getbit-exchange",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/getbit-exchange.png",
+      "keywords": [
+        "getbit",
+        "getbit exchange"
       ],
       "product_aliases": [],
       "sanctioned": false
