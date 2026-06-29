@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-06-29T21:20:53+00:00",
+  "generated_at": "2026-06-29T21:55:59+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -12151,6 +12151,17 @@
       "keywords": [
         "pendle.finance",
         "pendle"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "vexel-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/vexel-com.png",
+      "keywords": [
+        "vexel",
+        "vexel.com"
       ],
       "product_aliases": [],
       "sanctioned": false

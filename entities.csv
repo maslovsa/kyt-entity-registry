@@ -1476,7 +1476,7 @@ Kwiq.app,exchange,88.7,11,85,5,ETH|TRON,scorechain-counterparties,kwiq-app,kwiq.
 Metamask.io,wallet,88.7,11,85,5,BSC|ETH,scorechain-counterparties,metamask-io,metamask.io,"metamask,metamask.io",,arkham,2026-05-26,false,d1b2e37db4e8302bfbb04e2d0bbefa941fbd176a56272eb0fdc91255b01cd52d
 N.exchange,exchange,88.7,11,85,5,BSC|ETH|TRON,scorechain-counterparties,n-exchange,n.exchange,"n.exchange,nexchange",,arkham,2026-05-26,false,311c9a470a456b16c6b3558e86b346b3808c02aa4e89854e56a89567cbd5d5ef
 Pendle.finance,dex,88.7,11,85,10,BSC|ETH,scorechain-counterparties,pendle-finance,pendle.finance,"pendle.finance,pendle",,arkham,2026-05-26,false,afa655563ff7005f63459d3673ae9df00dd454d7c9a0657d18504d230d094f5b
-Vexel.com,exchange,88.7,11,85,5,TRON,scorechain-counterparties,vexel-com,vexel.com,,,favicon,2026-05-26,false,0ed0119bbd6dd24926a80393880a4008dda564bc29c11216dc1140bb5d1013eb
+Vexel.com,exchange,88.7,11,85,5,TRON,scorechain-counterparties,vexel-com,vexel.com,"vexel,vexel.com",,manual,2026-06-30,true,0ed0119bbd6dd24926a80393880a4008dda564bc29c11216dc1140bb5d1013eb
 Xinbi Guarantee,sanctioned,88.7,11,85,100,TRON,scorechain-counterparties,xinbi-guarantee,,xinbi guarantee,,manual,2026-05-13,true,3ea65f3e1e8ddc616e9e69d37dd263d1d513fab16183c3ce7191c129553e6243
 Altcointrader.co.za,exchange,88.1,10,85,5,BSC|ETH|TRON,scorechain-counterparties,altcointrader-co-za,altcointrader.co.za,"altcointrader,altcointrader co za,altcointrader.co.za",,arkham,2026-05-26,false,ea0d5e29590cfe273230442d6f7d4078c17ef3f93abb5cf152a65c00d1e20d2f
 Bitcasino.io,gambling,88.1,10,85,50,BSC|ETH,scorechain-counterparties,bitcasino-io,bitcasino.io,"bitcasino,bitcasino.io",,arkham,2026-05-26,false,398a920169224f3bcd722eac5a04d636f8db4eb1410e483ca3e8fb84d688e78f
