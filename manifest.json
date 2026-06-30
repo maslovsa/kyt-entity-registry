@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-06-29T21:55:59+00:00",
+  "generated_at": "2026-06-30T07:59:32+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -16894,6 +16894,18 @@
         "unchain ukraine",
         "#unchain_ukraine",
         "unchainukraine"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ukraine-dao",
+      "category": "ngo",
+      "logo_path": "logos/ngo/ukraine-dao.png",
+      "keywords": [
+        "ukraine dao",
+        "ukrainedao",
+        "ukraine dao nft"
       ],
       "product_aliases": [],
       "sanctioned": false
