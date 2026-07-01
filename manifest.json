@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-06-30T07:59:32+00:00",
+  "generated_at": "2026-07-01T20:58:07+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -14743,6 +14743,17 @@
       "sanctioned": false
     },
     {
+      "slug": "yodaobmen",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/yodaobmen.png",
+      "keywords": [
+        "yodaobmen",
+        "yodaobmen.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "zerolend-xyz",
       "category": "dex",
       "logo_path": "logos/dex/zerolend-xyz.png",
@@ -16908,6 +16919,20 @@
         "ukraine dao nft"
       ],
       "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "f-change-biz",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/f-change-biz.png",
+      "keywords": [
+        "f-change",
+        "f-change.biz",
+        "f-change.cc"
+      ],
+      "product_aliases": [
+        "F-change.biz"
+      ],
       "sanctioned": false
     }
   ]

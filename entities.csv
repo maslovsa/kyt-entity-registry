@@ -1767,7 +1767,7 @@ Wault Finance,dex,81.5,3,85,10,BSC,scorechain-counterparties,wault-finance,,waul
 WazirX.com,exchange,81.5,3,85,5,ETH|TRON,scorechain-counterparties,wazirx-com,wazirx.com,"wazirx,wazirx.com",,arkham,2026-05-26,false,f0a4c1172f2e28358b8adb41b35003cb15c87908238d19d578506bc8d4ae863a
 Xeggex.com,exchange,81.5,3,85,5,BSC|TRON,scorechain-counterparties,xeggex-com,xeggex.com,"xeggex,xeggex.com",,arkham,2026-05-26,false,ba9aaa604d7db003d20c34ea56eea85d9e5e3b2577f5ec332e22c32dd1081a42
 Yobit.net,exchange,81.5,3,85,5,ETH|TRON,scorechain-counterparties,yobit-net,yobit.net,"yobit,yobit.net",,arkham,2026-05-26,false,ea3cc14b9c2ba8938821292b77dfb9f909e1e7540e7451f39e74de1f71028e70
-Yodaobmen,exchange,81.5,3,85,5,TRON,scorechain-counterparties,yodaobmen,,,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Yodaobmen,exchange,81.5,3,85,5,TRON,scorechain-counterparties,yodaobmen,yodaobmen.com,"yodaobmen,yodaobmen.com",,manual,2026-04-22,true,9e88bafd9637e14002d6fc2057fae451d02628b51282499cad70e8567bfd5716
 Zerolend.xyz,dex,81.5,3,85,10,BSC|ETH,scorechain-counterparties,zerolend-xyz,zerolend.xyz,"zerolend.xyz,zerolend",,arkham,2026-05-26,false,c88203d0eb2e3d2d1b906006988eb408796d12f3d13e1e8af90a25aaa68ac6ca
 Blofin.com,exchange,80.2,107,75,5,BSC|ETH|TRON,scorechain-counterparties,blofin-com,blofin.com,blofin,,arkham,2026-05-26,false,06632f21a2d06de17f4e1dce16b33ab37ef05b8def1fde7eb275c08e178c0fae
 Fixedfloat.com - Ff.io,exchange,80.2,107,75,5,BSC|ETH|TRON,scorechain-counterparties,fixedfloat-com-ff-io,,"fixedfloat,fixedfloat.com",,arkham,2026-05-26,false,b2de97eed289ccdc70ee13aeb583338542b9ce36285bfec1ebd2e2265043b081
@@ -2292,3 +2292,4 @@ UNITED24 (Ukraine Gov),ngo,400,2,100,60,ETH|BTC|TRON,manual-admin,ukraine-govern
 Prytula Foundation,ngo,400,2,100,60,ETH|BTC|TRON|BSC|POLYGON|AVAX,manual-admin,prytula-foundation,prytulafoundation.org,"prytula foundation,serhiy prytula,prytula,prytulafoundation,притула",,manual,2026-06-30,true,3c70834abfdf7be73511c1dee31532fd0031c2855b795de16fbfdabfd9f60ee9
 Unchain Fund,ngo,400,2,100,60,ETH|BTC|TRON|BSC|POLYGON|AVAX,manual-admin,unchain-fund,unchain.fund,"unchain fund,unchain ukraine,#unchain_ukraine,unchainukraine",,manual,2026-06-30,true,4f1d26add92408eb4756e3437cbe529f6cfae8cddfff0f58c245ca91733c3045
 Ukraine DAO,ngo,200,1,75,60,ETH,scorechain-counterparties,ukraine-dao,ukrainedao.love,"ukraine dao,ukrainedao,ukraine dao nft",,manual,2026-06-30,true,575a67f816b8258639dd754b2f77cde7cd01ea67d507293b2ca187cb9101834d
+F-Change,exchange,75,20,75,5,"TRON,ETH",manual-admin,f-change-biz,f-change.cc,"f-change,f-change.biz,f-change.cc",F-change.biz,manual,2026-07-01,true,2a84ff9cdfc0e8676192db5531b8820bacca6858c02525ac1e9bf70b1809905b
