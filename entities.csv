@@ -1616,7 +1616,7 @@ Layerzero.network,bridge,84.2,5,85,15,BSC|ETH,scorechain-counterparties,layerzer
 Metamask.io,dex,84.2,5,85,10,BSC|ETH,scorechain-counterparties,metamask-io,metamask.io,"metamask.io,metamask",,arkham,2026-05-26,false,d1b2e37db4e8302bfbb04e2d0bbefa941fbd176a56272eb0fdc91255b01cd52d
 Nomiswap.io,dex,84.2,5,85,10,BSC,scorechain-counterparties,nomiswap-io,nomiswap.io,"nomiswap.io,nomiswap",,arkham,2026-05-26,false,318f5cfe47cc3dd1ab70aaae72c2990a73bbf30b341be5284a0a4478e730744f
 Obmen One,exchange,84.2,5,85,5,ETH,scorechain-counterparties,obmen-one,,obmen one,,manual,2026-05-13,true,76c5054c4cffb5779e773b09229c43af2f9726e80dbd5b491fcf20ba7d4accf9
-Rhino.fi,bridge,84.2,5,85,15,BSC|ETH|TRON,scorechain-counterparties,rhino-fi,rhino.fi,"rhino.fi,rhino,rhino fi",,favicon,2026-05-26,false,66f6bf071877b1d6dc8e768fd3017eeefb9627556e36cec1f0b9dfdc284f2b5c
+Rhino.fi,bridge,84.2,5,85,15,BSC|ETH|TRON,scorechain-counterparties|manual-admin,rhino-fi,rhino.fi,"rhino.fi,rhino,rhino fi",,manual,2026-07-06,true,66f6bf071877b1d6dc8e768fd3017eeefb9627556e36cec1f0b9dfdc284f2b5c
 Robinhood.com,exchange,84.2,5,85,5,BSC|ETH,scorechain-counterparties,robinhood-com,robinhood.com,"robinhood,robinhood.com",,arkham,2026-05-26,false,c2c46f49c39c2551540bc093fe2084b608819e5ad4d75e3518ed73cf75a9f16b
 scroll.io,bridge,84.2,5,85,15,ETH,scorechain-counterparties,scroll-io,scroll.io,"scroll.io,scroll",,arkham,2026-05-26,false,30f810a7657086b998b8a680f0da527c453e1c91c0cba46721a8d1795f686f0a
 Stargate Finance,defi,84.2,5,85,10,BSC|ETH,scorechain-counterparties,stargate-finance,stargate.finance,stargate,,arkham,2026-05-26,false,4d435d73f333938f574a7eda8572c5406823f5755b204c412956ab5badf6a1c8
