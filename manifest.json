@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-06T17:07:33+00:00",
+  "generated_at": "2026-07-08T21:42:33+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -16944,6 +16944,36 @@
       ],
       "product_aliases": [
         "F-change.biz"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "emcd",
+      "category": "mining",
+      "logo_path": "logos/mining/emcd.png",
+      "keywords": [
+        "emcd",
+        "emcd.io",
+        "emcdpool",
+        "emcd pool"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "volet",
+      "category": "psp",
+      "logo_path": "logos/psp/volet.png",
+      "keywords": [
+        "volet",
+        "volet.com",
+        "advcash",
+        "advanced cash",
+        "advcash.com"
+      ],
+      "product_aliases": [
+        "Advcash",
+        "Advanced Cash"
       ],
       "sanctioned": false
     }
