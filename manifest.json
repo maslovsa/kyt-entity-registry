@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-08T21:42:33+00:00",
+  "generated_at": "2026-07-08T21:44:04+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -16975,6 +16975,19 @@
         "Advcash",
         "Advanced Cash"
       ],
+      "sanctioned": false
+    },
+    {
+      "slug": "zarub-io",
+      "category": "psp",
+      "logo_path": "logos/psp/zarub-io.png",
+      "keywords": [
+        "zarub",
+        "zarub.io",
+        "zarub_robot",
+        "ZARUB"
+      ],
+      "product_aliases": [],
       "sanctioned": false
     }
   ]
