@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T12:00:03+00:00",
+  "generated_at": "2026-07-09T12:03:01+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17381,6 +17381,31 @@
         "coinbit",
         "coinbit.co.kr",
         "coinbit exchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coinflex-opnx",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/coinflex-opnx.png",
+      "keywords": [
+        "coinflex",
+        "coinflex.com",
+        "opnx",
+        "coinflex opnx"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coinotron",
+      "category": "mining",
+      "logo_path": "logos/mining/coinotron.png",
+      "keywords": [
+        "coinotron",
+        "coinotron.com",
+        "coinotron mining"
       ],
       "product_aliases": [],
       "sanctioned": false
