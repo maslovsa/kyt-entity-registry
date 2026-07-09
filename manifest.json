@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T11:41:23+00:00",
+  "generated_at": "2026-07-09T11:42:55+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17237,6 +17237,43 @@
       "keywords": [
         "bitnordex",
         "bitnordex.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitsler",
+      "category": "gambling",
+      "logo_path": "logos/gambling/bitsler.png",
+      "keywords": [
+        "bitsler",
+        "bitsler.com",
+        "bitsler casino"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitstorage",
+      "category": "exchanges",
+      "logo_path": "logos/exchanges/bitstorage.png",
+      "keywords": [
+        "bitstorage",
+        "bitstorage.finance",
+        "bit storage"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bittorrent",
+      "category": "defi",
+      "logo_path": "logos/defi/bittorrent.png",
+      "keywords": [
+        "bittorrent",
+        "btt",
+        "bt.io",
+        "bittorrent token"
       ],
       "product_aliases": [],
       "sanctioned": false
