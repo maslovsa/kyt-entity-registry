@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T14:27:19+00:00",
+  "generated_at": "2026-07-09T14:34:40+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17943,6 +17943,18 @@
       ],
       "product_aliases": [
         "terraform labs terra luna lunc ust"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "tornado-cash",
+      "category": "mixer",
+      "logo_path": "logos/mixer/tornado-cash.png",
+      "keywords": [
+        "tornado cash mixer privacy protocol"
+      ],
+      "product_aliases": [
+        "tornado cash tornado"
       ],
       "sanctioned": false
     },
