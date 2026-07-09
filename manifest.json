@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T11:57:23+00:00",
+  "generated_at": "2026-07-09T11:57:43+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17345,6 +17345,18 @@
         "chainup",
         "chainup.com",
         "chainup custody"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cobinhood",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/cobinhood.png",
+      "keywords": [
+        "cobinhood",
+        "cobinhood exchange",
+        "cobinhood.com"
       ],
       "product_aliases": [],
       "sanctioned": false
