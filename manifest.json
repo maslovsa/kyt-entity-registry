@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T12:35:01+00:00",
+  "generated_at": "2026-07-09T12:37:30+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17505,6 +17505,30 @@
         "gokumarket",
         "goku market",
         "gokumarket.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hiveon",
+      "category": "mining",
+      "logo_path": "logos/mining/hiveon.png",
+      "keywords": [
+        "hiveon",
+        "hiveon pool",
+        "hive mining"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hoo-smart-chain",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/hoo-smart-chain.png",
+      "keywords": [
+        "hoo",
+        "hoo smart chain",
+        "hoo exchange"
       ],
       "product_aliases": [],
       "sanctioned": false
