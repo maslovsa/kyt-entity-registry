@@ -2312,3 +2312,5 @@ Beaxy,exchange,100,10,75,5,ETH|BSC|BASE|ARBITRUM|AVALANCHE,manual-admin,beaxy,be
 BeePool,mining,100,10,75,5,ETH|BSC|BASE|ARBITRUM|AVALANCHE,manual-admin,beepool,beepool.org,"beepool,beepool.org,bee pool",,manual,2026-07-09,true,76e5937d41f728c1a2b3c030d2639069dbbcb6f7ae7245e9d00edd1c850448b1
 Bink AI,defi,100,18,75,5,BSC|ETH|ARBITRUM|AVALANCHE,manual-admin,bink-ai,bink.ai,"bink ai,bink.ai,bink",,manual,2026-07-09,true,7aaedc1936d81f421025e4e4169b592494bf202a746a86263db1d493da916d9f
 Bit-Z,exchanges,100,20,75,5,ETH|BSC|TRON|ARBITRUM,manual-admin,bit-z,bitz.com,"bit-z,bitz,bitz.com,bit z exchange",,manual,2026-07-09,true,c86819909f41fa0edd8531c49f859351781f8a9b0db03cbeaa3746c81f575116
+BitBase,exchanges,100,10,75,5,ETH|BSC|ARBITRUM|BASE|AVALANCHE,manual-admin,bitbase,bitbase.com.es,"bitbase,bitbase.com.es,bitbase exchange",,manual,2026-07-09,true,3bde4325d906ba32176c53c9b812bd69402a13550811e1fa4ba68f898f998397
+BitBlinx,exchanges,100,10,75,5,ETH|BSC|ARBITRUM|POLYGON|AVALANCHE,manual-admin,bitblinx,bitblinx.com,"bitblinx,bitblinx.com",,manual,2026-07-09,true,1e3dfa8a67b199046dfd5be9eaaec481fa3e8042c6688960662175ee02717bc5

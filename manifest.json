@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T11:32:11+00:00",
+  "generated_at": "2026-07-09T11:35:41+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17179,6 +17179,29 @@
         "bitz",
         "bitz.com",
         "bit z exchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitbase",
+      "category": "exchanges",
+      "logo_path": "logos/exchanges/bitbase.png",
+      "keywords": [
+        "bitbase",
+        "bitbase.com.es",
+        "bitbase exchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitblinx",
+      "category": "exchanges",
+      "logo_path": "logos/exchanges/bitblinx.png",
+      "keywords": [
+        "bitblinx",
+        "bitblinx.com"
       ],
       "product_aliases": [],
       "sanctioned": false
