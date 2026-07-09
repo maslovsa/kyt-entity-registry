@@ -2327,3 +2327,6 @@ Cashierest,exchanges,100,10,75,5,TRON|ETH,manual-admin,cashierest,cashierest.com
 Catex Exchange,exchanges,100,10,75,5,ETH|BSC|ARBITRUM|AVALANCHE|OPTIMISM,manual-admin,catex-exchange,catex.io,"catex,catex.io,catex exchange",,manual,2026-07-09,true,434b5d8948140083b2139fe8c17915fb324eabb3cab469b7c878e96af97b731d
 ChainUp Custody,custodian,100,10,75,5,ETH|BSC|ARBITRUM|AVALANCHE|BASE,manual-admin,chainup-custody,chainup.com,"chainup,chainup.com,chainup custody",,manual,2026-07-09,true,b53dd85a26db408db07affeac902ae8249ccba37e81f0079b8ef4f6003cc7ec8
 Cobinhood,exchange,80,5,75,5,ETH,manual-admin,cobinhood,cobinhood.com,"cobinhood,cobinhood exchange,cobinhood.com",,manual,2026-07-09,true,be79c8dbe79385e23837652e31f47d3b56cc2d4649464159c59c0a0101fc8bab
+
+CoinBig,exchange,80,10,75,5,ETH|TRON,manual-admin,coinbig,coinbig.com,"coinbig,coinbig.com,coinbig exchange",,manual,2026-07-09,true,49c7974e14eae4656658679d8f534705ac3264df6723495c9cee82215346c1b2
+Coinbit,exchange,80,10,75,5,ETH,manual-admin,coinbit,coinbit.co.kr,"coinbit,coinbit.co.kr,coinbit exchange",,manual,2026-07-09,true,ae2bb507e5f865452dc57a5efa1cc9d91a17d032d6dc5d692c5df8bec5984158

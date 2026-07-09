@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T11:57:43+00:00",
+  "generated_at": "2026-07-09T12:00:03+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17357,6 +17357,30 @@
         "cobinhood",
         "cobinhood exchange",
         "cobinhood.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coinbig",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/coinbig.png",
+      "keywords": [
+        "coinbig",
+        "coinbig.com",
+        "coinbig exchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coinbit",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/coinbit.png",
+      "keywords": [
+        "coinbit",
+        "coinbit.co.kr",
+        "coinbit exchange"
       ],
       "product_aliases": [],
       "sanctioned": false
