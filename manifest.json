@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T13:17:38+00:00",
+  "generated_at": "2026-07-09T13:19:51+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17721,6 +17721,36 @@
       "logo_path": "logos/psp/paykassa-pro.png",
       "keywords": [
         "paykassa payment gateway crypto"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "polygon",
+      "category": "defi",
+      "logo_path": "logos/defi/polygon.png",
+      "keywords": [
+        "polygon matic network layer2"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "poolin",
+      "category": "mining",
+      "logo_path": "logos/mining/poolin.png",
+      "keywords": [
+        "poolin mining pool bitcoin"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "privasea",
+      "category": "defi",
+      "logo_path": "logos/defi/privasea.png",
+      "keywords": [
+        "privasea privacy ai depin"
       ],
       "product_aliases": [],
       "sanctioned": false
