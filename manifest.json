@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T11:49:18+00:00",
+  "generated_at": "2026-07-09T11:51:22+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17321,6 +17321,30 @@
       "keywords": [
         "cashierest",
         "cashierest.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "catex-exchange",
+      "category": "exchanges",
+      "logo_path": "logos/exchanges/catex-exchange.png",
+      "keywords": [
+        "catex",
+        "catex.io",
+        "catex exchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "chainup-custody",
+      "category": "custodian",
+      "logo_path": "logos/custodian/chainup-custody.png",
+      "keywords": [
+        "chainup",
+        "chainup.com",
+        "chainup custody"
       ],
       "product_aliases": [],
       "sanctioned": false
