@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T12:54:01+00:00",
+  "generated_at": "2026-07-09T12:56:38+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17651,6 +17651,16 @@
       "logo_path": "logos/exchanges/liqui.png",
       "keywords": [
         "liqui liqui.io exchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "livepeer",
+      "category": "defi",
+      "logo_path": "logos/defi/livepeer.png",
+      "keywords": [
+        "livepeer lpt video streaming"
       ],
       "product_aliases": [],
       "sanctioned": false

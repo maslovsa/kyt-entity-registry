@@ -2355,3 +2355,4 @@ INXY Payments,psp,100,0,75,15,ETH|TRON|BTC,manual-admin,inxy-io,inxy.io,"inxy in
 Lemon Cash,exchange,50,1,75,5,ETH,manual-admin,lemon-cash,lemon.me,"lemon cash lemon.me argentina",,manual,2026-07-09,true,ec2314012038a6f285a4314431d7875990322f0701b902d3b46c2a2f7017e202
 Leverj,defi,50,1,75,5,ETH,manual-admin,leverj,leverj.io,"leverj l2 dex perpetual futures",,manual,2026-07-09,true,9f00a8f857a3acc124583cd9eabc6ee380e9ef36066fc3d17391f2ea5d16101b
 Liqui,exchange,50,1,75,5,ETH,manual-admin,liqui,liqui.io,"liqui liqui.io exchange",,manual,2026-07-09,true,9e4ca5267e358cd93469662fefa6c98ccfb6c01965c42822c00dd1b6862ca891
+Livepeer,defi,50,1,75,5,ETH|ARBITRUM,manual-admin,livepeer,livepeer.org,"livepeer lpt video streaming",,manual,2026-07-09,true,7b8c51300dbf93c15cb8384334d685b75a6e6f14fc9840acb15f5b06e92ab008
