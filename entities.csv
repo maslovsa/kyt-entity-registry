@@ -2389,3 +2389,6 @@ TFL (Terraform Labs),defi,80,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALA
 TopBTC,exchange,30,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE,manual-admin,topbtc,topbtc.com,"topbtc exchange",topbtc,none,2026-07-09,true,
 Tornado.Cash,mixer,70,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE,manual-admin,tornado-cash,tornadocash.eth,"tornado cash mixer privacy protocol",tornado cash tornado,none,2026-07-09,true,
 Trade.io,exchange,30,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE|TRON,manual-admin,trade-io,trade.io,"trade.io exchange tio token",trade.io tio,none,2026-07-09,true,
+Transit Finance,defi,60,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE|TRON,manual-admin,transit-finance,transit.finance,"transit finance swap bridge defi",transit swap,manual,2026-07-09,true,fee5a6bf37fddce7f9c099d96dbf1795ce104c9c37cbb7d1bba57604675e9a9a
+Unifi Protocol,defi,30,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE|TRON,manual-admin,unifi-protocol,unifiprotocol.com,"unifi protocol dex defi",unifi up,none,2026-07-09,true,
+Uswap.me,dex,40,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE|TRON,manual-admin,uswap-me,uswap.me,"uswap dex multi-chain defi",uswap,none,2026-07-09,true,

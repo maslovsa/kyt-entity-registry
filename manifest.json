@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T14:04:11+00:00",
+  "generated_at": "2026-07-09T14:06:41+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17932,6 +17932,18 @@
       ],
       "product_aliases": [
         "terraform labs terra luna lunc ust"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "transit-finance",
+      "category": "defi",
+      "logo_path": "logos/defi/transit-finance.png",
+      "keywords": [
+        "transit finance swap bridge defi"
+      ],
+      "product_aliases": [
+        "transit swap"
       ],
       "sanctioned": false
     }
