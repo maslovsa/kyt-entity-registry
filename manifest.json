@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T13:28:32+00:00",
+  "generated_at": "2026-07-09T13:31:54+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17764,6 +17764,30 @@
       ],
       "product_aliases": [
         "ren renvm"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "resfinex",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/resfinex.png",
+      "keywords": [
+        "resfinex exchange"
+      ],
+      "product_aliases": [
+        "resfinex"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "shapeshift",
+      "category": "dex",
+      "logo_path": "logos/dex/shapeshift.png",
+      "keywords": [
+        "shapeshift dex crypto exchange fox"
+      ],
+      "product_aliases": [
+        "fox shapeshift fox token"
       ],
       "sanctioned": false
     }
