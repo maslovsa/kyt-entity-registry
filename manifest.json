@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T14:35:43+00:00",
+  "generated_at": "2026-07-09T14:46:51+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17631,7 +17631,9 @@
       "category": "psp",
       "logo_path": "logos/psp/inxy-io.png",
       "keywords": [
-        "inxy inxy payments inxy.io crypto payment"
+        "inxy",
+        "inxy payments",
+        "inxy.io"
       ],
       "product_aliases": [],
       "sanctioned": false

@@ -2350,7 +2350,7 @@ Just Money,defi,50,3,75,5,TRON|ETH|BSC|POLYGON,manual-admin,just-money,just.mone
 K1 Pool,mining,50,3,75,5,ETH|ARBITRUM|AVALANCHE|BASE,manual-admin,k1-pool,k1pool.com,"k1pool,k1 pool,k1pool.com",,manual,2026-07-09,true,b567e61068e86685f3bbf69ede9f69a20bdba0271fb55314b7c9ae6c9b602f33
 KickEX,exchange,50,1,75,5,ETH|TRON|BSC|POLYGON|BASE|ARBITRUM|AVALANCHE|OPTIMISM,manual-admin,kickex,kickex.com,"kickex kick exchange",,manual,2026-07-09,true,4f52faec95f7fe4139a570a3bf37691c261ab67a39759eea09fedbb062fdefb5
 Klever,custodian,50,1,75,5,TRON|ETH,manual-admin,klever,klever.io,"klever klv wallet exchange tron",,manual,2026-07-09,true,8f398c904d66db452e8c1b81f40df7804524377d4b9d37f48f1a72a96540ed15
-INXY Payments,psp,100,0,75,15,ETH|TRON|BTC,manual-admin,inxy-io,inxy.io,"inxy inxy payments inxy.io crypto payment",,manual,2026-07-09,true,f680ed91f5573c63af6cf011484011637c576b13100e28bac1423dc4719f5da3
+INXY Payments,psp,100,0,75,15,ETH|TRON|BTC,manual-admin,inxy-io,inxy.io,"inxy,inxy payments,inxy.io",,manual,2026-07-09,true,f680ed91f5573c63af6cf011484011637c576b13100e28bac1423dc4719f5da3
 
 Lemon Cash,exchange,50,1,75,5,ETH,manual-admin,lemon-cash,lemon.me,"lemon cash lemon.me argentina",,manual,2026-07-09,true,ec2314012038a6f285a4314431d7875990322f0701b902d3b46c2a2f7017e202
 Leverj,defi,50,1,75,5,ETH,manual-admin,leverj,leverj.io,"leverj l2 dex perpetual futures",,manual,2026-07-09,true,9f00a8f857a3acc124583cd9eabc6ee380e9ef36066fc3d17391f2ea5d16101b
