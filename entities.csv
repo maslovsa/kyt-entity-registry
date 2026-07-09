@@ -155,7 +155,7 @@ Kyber,dex,100,182,70,10,ETH|POLYGON,ethereum-lists-contracts,kyber,,,,arkham,202
 Kyrrex.com,exchange,100,292,75,5,ETH|TRON,scorechain-counterparties,kyrrex-com,kyrrex.com,"kyrrex.com,kyrrex",,manual,2026-04-29,true,eb3ddd628b6fa9987f87ca6be6ecb3cd205304fe57201dafeb8124318740a8dd
 LavaLending,defi,100,216,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,lavalending,,,,defillama,2026-05-11,false,7b94bc82fb593b78c6ef6f290049ea96029a44a60ccb4e13bc3766c44f159ae9
 Lbank.com,exchange,100,341,75,5,BSC|ETH|TRON,scorechain-counterparties,lbank-com,lbank.com,lbank,,arkham,2026-05-11,false,92b1a33d96e796175552154cff04f3d428e5c648b7b92f661b9c15667a69d255
-Lemon.me,exchange,100,159,75,5,BSC|ETH|TRON,scorechain-counterparties,lemon-me,lemon.me,"lemon.me,lemon",,favicon,2026-05-26,false,ec2314012038a6f285a4314431d7875990322f0701b902d3b46c2a2f7017e202
+Lemon.me,exchange,100,159,75,5,BSC|ETH|TRON,scorechain-counterparties,lemon-me,lemon.me,"lemon.me,lemon",,manual,2026-05-26,false,ec2314012038a6f285a4314431d7875990322f0701b902d3b46c2a2f7017e202
 Lodestar,defi,100,170,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,defillama-adapters|vasp-entity-defaults,lodestar,,,,arkham,2026-05-11,false,9cdee528ea10753a99a0e4eae3f9a1dc89c7a880df6b0051eecb11cb5e20f04e
 m2.com,exchange,100,1,88,5,ETH,misttrack-verdicts,m2-com,m2.com,m2.com,,arkham,2026-07-09,false,be37bdafbe7c240a488ac4e92a5d61dc3b64b3cb24f13a58e943e4799cbd0314
 MakerDAO,dex,100,471,70,10,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,makerdao,,,,arkham,2026-06-19,false,631f57b89d3f8f14d3754bf88c38aebd45e714d868e1513088358d72cfc27f04
@@ -2398,3 +2398,6 @@ Virtue Poker,gambling,40,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE
 Wallet in Telegram,wallet,70,1,75,5,TON|ETH|BTC|TRON,manual-admin,wallet-in-telegram,wallet.tg,"wallet telegram ton custodial",wallet telegram,manual,2026-07-09,true,ca932aa5eae0a2fc0c1e00793e24de912e0885ffdd16c7907bdc08e7b437c499
 Waterhole,mining,30,1,75,5,ETH,manual-admin,waterhole,waterhole.io,"waterhole mining pool eth",waterhole,none,2026-07-09,true,
 Whalesburg,mining,30,1,75,5,ETH,manual-admin,whalesburg,whalesburg.com,"whalesburg mining pool ethereum",whalesburg,none,2026-07-09,true,
+WINk,gambling,50,1,75,5,TRON|ETH|BSC,manual-admin,wink,wink.live,"wink win gaming tron gambling token",wink win,manual,2026-07-09,true,fdf7ce9bf926c2e5a749c0ad21ca045dcfab00d303c7a6135f627fa3ae196807
+Wintermute,defi,60,1,75,5,ETH|BSC|SOL,manual-admin,wintermute,wintermute.com,"wintermute market maker algorithmic trading",wintermute,manual,2026-07-09,true,e61be5e8c2e00ee8a3548923d5e8a28d7c65e2f9563bd98b5c8babe977cda848
+Xether.io,exchange,30,1,75,5,ETH,manual-admin,xether-io,xether.io,"xether eth exchange",xether,manual,2026-07-09,true,cc659349ed0a0d9ecbef87b28874d45ad83a3e108ab6526d2beab2c210073f0c

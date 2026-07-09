@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T14:18:44+00:00",
+  "generated_at": "2026-07-09T14:21:02+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -885,6 +885,17 @@
       "logo_path": "logos/exchanges/lbank-com.png",
       "keywords": [
         "lbank"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "lemon-me",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/lemon-me.png",
+      "keywords": [
+        "lemon.me",
+        "lemon"
       ],
       "product_aliases": [],
       "sanctioned": false
