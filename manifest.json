@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T11:35:41+00:00",
+  "generated_at": "2026-07-09T11:37:31+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17202,6 +17202,18 @@
       "keywords": [
         "bitblinx",
         "bitblinx.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitci",
+      "category": "exchanges",
+      "logo_path": "logos/exchanges/bitci.png",
+      "keywords": [
+        "bitci",
+        "bitci exchange",
+        "bitci.com"
       ],
       "product_aliases": [],
       "sanctioned": false
