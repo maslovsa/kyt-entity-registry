@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T10:58:27+00:00",
+  "generated_at": "2026-07-09T11:02:53+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17059,6 +17059,41 @@
         "apenft",
         "apenft nft",
         "apenft launchpad"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "aprobit",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/aprobit.png",
+      "keywords": [
+        "aprobit",
+        "aprobit.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "aquanow",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/aquanow.png",
+      "keywords": [
+        "aquanow",
+        "aquanow.io",
+        "aquanow deposit"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "artis-turba-exchange",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/artis-turba-exchange.png",
+      "keywords": [
+        "artis turba exchange",
+        "artis-turba-exchange",
+        "artisturba"
       ],
       "product_aliases": [],
       "sanctioned": false
