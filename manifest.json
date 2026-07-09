@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T13:31:54+00:00",
+  "generated_at": "2026-07-09T13:36:33+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17788,6 +17788,30 @@
       ],
       "product_aliases": [
         "fox shapeshift fox token"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "sky-makerdao",
+      "category": "defi",
+      "logo_path": "logos/defi/sky-makerdao.png",
+      "keywords": [
+        "sky makerdao dai maker mkr defi"
+      ],
+      "product_aliases": [
+        "maker dai mkr sky"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "smart-valor",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/smart-valor.png",
+      "keywords": [
+        "smart valor exchange regulated swiss"
+      ],
+      "product_aliases": [
+        "smart valor"
       ],
       "sanctioned": false
     }
