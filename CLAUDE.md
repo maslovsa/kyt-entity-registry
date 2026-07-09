@@ -298,14 +298,6 @@ PNGs on run 1.
 - Consumers who want to avoid 404-flash use it via `hasLogo()`
   helper in CONSUMERS.md
 
-### T10. Implement aegis-platform side — `scripts/export_entity_registry.py`
-- See PROVIDERS.md pseudocode. Gens candidate CSV, fetches live
-  registry CSV, merges preserving registry-owned columns, opens PR.
-- CLI: `--output FILE`, `--pr` (opens GitHub PR), `--dry-run`.
-- Workflow: aegis-platform
-  `.github/workflows/export-entity-registry.yml` fires Sunday
-  12:00 UTC.
-
 ## What you SHOULD NOT do without asking
 
 - Restructure `logos/<category>/` — consumers' URLs will break.

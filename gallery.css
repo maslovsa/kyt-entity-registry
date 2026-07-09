@@ -663,3 +663,8 @@ mark.highlight {
 #status-chips .chip[data-status="manual"]::before      { background: #fde9f1; border: 1px solid var(--brand); }
 #status-chips .chip[data-status="placeholder"]::before { background: var(--muted); border: 1px solid var(--border); }
 #status-chips .chip[data-status="none"]::before        { background: var(--destructive-soft); border: 1px solid var(--destructive); }
+
+/* ── reduced-motion overrides ─────────────────────────────────────── */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { transition: none !important; animation: none !important; }
+}

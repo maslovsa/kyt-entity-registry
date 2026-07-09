@@ -733,6 +733,5 @@ pre.code .c-com { color: #7e7e86; font-style: italic; }
 
 /* ── reduced-motion overrides ─────────────────────────────────────── */
 @media (prefers-reduced-motion: reduce) {
-  .quilt { transition: none; }
-  .tile.tile-in { animation: none; }
+  *, *::before, *::after { transition: none !important; animation: none !important; }
 }
