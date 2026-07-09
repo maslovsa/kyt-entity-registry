@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T13:36:33+00:00",
+  "generated_at": "2026-07-09T13:40:32+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17812,6 +17812,42 @@
       ],
       "product_aliases": [
         "smart valor"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "spark-pool",
+      "category": "mining",
+      "logo_path": "logos/mining/spark-pool.png",
+      "keywords": [
+        "spark pool mining ethereum pool"
+      ],
+      "product_aliases": [
+        "sparkpool"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "sparrow-exchange",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/sparrow-exchange.png",
+      "keywords": [
+        "sparrow exchange crypto derivatives singapore"
+      ],
+      "product_aliases": [
+        "sparrow"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "spider-pool",
+      "category": "mining",
+      "logo_path": "logos/mining/spider-pool.png",
+      "keywords": [
+        "spider pool mining"
+      ],
+      "product_aliases": [
+        "spiderpool"
       ],
       "sanctioned": false
     }
