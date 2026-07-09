@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T12:51:36+00:00",
+  "generated_at": "2026-07-09T12:54:01+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17621,6 +17621,36 @@
       "logo_path": "logos/psp/inxy-io.png",
       "keywords": [
         "inxy inxy payments inxy.io crypto payment"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "lemon-cash",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/lemon-cash.png",
+      "keywords": [
+        "lemon cash lemon.me argentina"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "leverj",
+      "category": "defi",
+      "logo_path": "logos/defi/leverj.png",
+      "keywords": [
+        "leverj l2 dex perpetual futures"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "liqui",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/liqui.png",
+      "keywords": [
+        "liqui liqui.io exchange"
       ],
       "product_aliases": [],
       "sanctioned": false
