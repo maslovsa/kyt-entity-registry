@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T11:02:53+00:00",
+  "generated_at": "2026-07-09T11:10:27+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17094,6 +17094,18 @@
         "artis turba exchange",
         "artis-turba-exchange",
         "artisturba"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ataix",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/ataix.png",
+      "keywords": [
+        "ataix",
+        "ataix.com",
+        "ataix exchange"
       ],
       "product_aliases": [],
       "sanctioned": false
