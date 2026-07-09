@@ -2334,3 +2334,4 @@ CoinFLEX (OPNX),exchange,80,10,75,5,ETH|BSC|ARBITRUM|AVALANCHE|OPTIMISM,manual-a
 Coinotron,mining,60,5,75,5,ETH,manual-admin,coinotron,coinotron.com,"coinotron,coinotron.com,coinotron mining",,manual,2026-07-09,true,70c746278eb38c462742847d614c1d5f8c857391ce22103a4c233e382b0361b6
 Cruxpool,mining,70,10,75,5,ETH|AVAX,manual-admin,cruxpool,cruxpool.com,"cruxpool,cruxpool.com,cruxpool mining",,manual,2026-07-09,true,8525a62d7528e872a6e9e461dc1aca621a0a0579e7fddad3b4254f48f2943178
 Cryptopia,exchange,80,20,75,5,ETH|BSC,manual-admin,cryptopia,cryptopia.co.nz,"cryptopia,cryptopia.co.nz,cryptopia exchange",,manual,2026-07-09,true,4ae8c15f30c077503a45c28f9cb94679d567e50190cbb8b053d2887633876f50
+deBridge Finance,defi,90,20,75,5,ETH|BSC|ARBITRUM,manual-admin,debridge-finance,debridge.finance,"debridge,debridge.finance,debridge finance",,manual,2026-07-09,true,59fb5d5719897029bf5f56916f35548e9138c7e13b9f7cf3e4b5f3941f1d819f
