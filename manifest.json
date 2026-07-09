@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T12:43:54+00:00",
+  "generated_at": "2026-07-09T12:51:08+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17591,6 +17591,26 @@
         "k1pool",
         "k1 pool",
         "k1pool.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kickex",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/kickex.png",
+      "keywords": [
+        "kickex kick exchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "klever",
+      "category": "custodian",
+      "logo_path": "logos/custodian/klever.png",
+      "keywords": [
+        "klever klv wallet exchange tron"
       ],
       "product_aliases": [],
       "sanctioned": false
