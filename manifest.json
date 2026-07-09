@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T12:18:55+00:00",
+  "generated_at": "2026-07-09T12:23:11+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -11178,17 +11178,6 @@
       "sanctioned": false
     },
     {
-      "slug": "fairdesk-com",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/fairdesk-com.png",
-      "keywords": [
-        "fairdesk",
-        "fairdesk.com"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "pingi",
       "category": "exchange",
       "logo_path": "logos/exchanges/pingi.png",
@@ -17539,6 +17528,44 @@
         "f2pool",
         "f2pool.com",
         "f2 pool"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "fairdesk",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/fairdesk.png",
+      "keywords": [
+        "fairdesk",
+        "fairdesk exchange",
+        "derivatives exchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "faucetpay",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/faucetpay.png",
+      "keywords": [
+        "faucetpay",
+        "faucetpay.io",
+        "micro wallet",
+        "bitcoin faucet"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "fck-com",
+      "category": "gambling",
+      "logo_path": "logos/gambling/fck-com.png",
+      "keywords": [
+        "fck",
+        "fck.com",
+        "fck token",
+        "meme token"
       ],
       "product_aliases": [],
       "sanctioned": false

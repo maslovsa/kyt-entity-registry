@@ -1235,7 +1235,6 @@ Tradeogre.com,exchange,52,,,,ETH|BTC,,tradeogre-com,tradeogre.com,"tradeogre,tra
 Coinsbuy.com,exchange,50,,,,ETH|TRON|BTC,,coinsbuy-com,coinsbuy.com,"coinsbuy,coinsbuy.com",,arkham,2026-06-02,false,7c9400fd21c075a424a648946611d75bc07ce5c81119a4d143c2b768cfc70c34
 Tapbit.com,exchange,50,3,75,5,TRON,,tapbit,tapbit.com,"tapbit.com,tapbit",,pending,2026-06-01,false,7c210e704bbf4483fcfa921d81a2ed9422d33b603f9b1375c692d56775a8e038
 TG.Casino,gambling,50,,,,ETH,,tg-casino,tg.casino,"tg.casino,tg casino,tgcasino",,arkham,2026-06-02,false,5ddfe901b26ecf86350b57b948af90a3737077d1370896fffb2ea5a3acb66bb3
-Fairdesk,exchange,48,,,,ETH,,fairdesk-com,fairdesk.com,"fairdesk,fairdesk.com",,arkham,2026-06-02,false,75282638bd9ccb7d1e98f540aa3414c11cacd064736eeea45830540f5d323597
 Pingi.co,exchange,48,,,,TRON,,pingi,pingi.co,"pingi,pingi.co",,manual,2026-06-02,false,0c5891adba4a8c9cd9678394a60509ad2595acc87247336bc67b1d55572251f3
 Beribit.com,exchange,47,,,,ETH|TRON,,beribit-com,beribit.com,"beribit,beribit.com",,placeholder,2026-06-02,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Bitmama.io,exchange,46,,,,ETH|BTC,,bitmama-io,bitmama.io,"bitmama,bitmama.io",,favicon,2026-06-02,false,b20f036577059c792aec55e0b38324c622ca323863e463f8a403786e7172cb1d
@@ -2341,3 +2340,7 @@ EthereumPool.co,mining,70,10,75,5,ETH|POLYGON|BASE|ARBITRUM,manual-admin,ethereu
 EtherFlip,gambling,60,5,75,5,ETH|ARBITRUM|AVALANCHE|BASE,manual-admin,etherflip,etherflip.com,"etherflip,etherflip.com,ether flip gambling",,manual,2026-07-09,true,1ac754dd78a4a484a011452ea471fbd9e3f47f993a27d5d643ade037bbbfac52
 Ethpool,mining,80,15,75,5,ETH|BSC|AVALANCHE|BASE,manual-admin,ethpool,ethpool.org,"ethpool,ethpool.org,ethpool mining",,manual,2026-07-09,true,37fe0974299f5137c255db82f5cd45cf92468105717233a38794b61ed98b662d
 F2Pool,mining,90,30,75,5,ETH|ARBITRUM|AVALANCHE,manual-admin,f2pool,f2pool.com,"f2pool,f2pool.com,f2 pool",,manual,2026-07-09,true,2c3cdeaedde536ca5a356132315ad6b689c311d4cf9aea015101f1d4953744ce
+
+Fairdesk,exchange,50,1,75,5,ETH|TRON|BTC,manual-admin,fairdesk,fairdesk.com,"fairdesk,fairdesk exchange,derivatives exchange",,manual,2026-07-09,true,0aab11df91a2743a3116a6f17779b3a2fac86d7ec6162487333b366dcff7f2ca
+Faucetpay.io,exchange,50,1,75,5,ETH|TRON|BTC|SOL,manual-admin,faucetpay,faucetpay.io,"faucetpay,faucetpay.io,micro wallet,bitcoin faucet",,manual,2026-07-09,true,2df0aafa8b33dca3a5a25992f6d78fa8798dda08721f5fa64eae45daae22e419
+FCK.com,gambling,50,1,75,5,ETH|BSC|BASE|AVALANCHE,manual-admin,fck-com,fck.com,"fck,fck.com,fck token,meme token",,manual,2026-07-09,true,0cf8b5edb39c9f48a943dc26de7027bdc617c9e5900d0da94226d7107c14d0c7
