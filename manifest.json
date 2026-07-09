@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T13:40:32+00:00",
+  "generated_at": "2026-07-09T13:43:07+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17848,6 +17848,42 @@
       ],
       "product_aliases": [
         "spiderpool"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "splinterlands",
+      "category": "gambling",
+      "logo_path": "logos/gambling/splinterlands.png",
+      "keywords": [
+        "splinterlands nft card game blockchain"
+      ],
+      "product_aliases": [
+        "splinterlands sps dec"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "streamity",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/streamity.png",
+      "keywords": [
+        "streamity p2p exchange"
+      ],
+      "product_aliases": [
+        "streamity stm"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "sunbit",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/sunbit.png",
+      "keywords": [
+        "sunbit tron exchange"
+      ],
+      "product_aliases": [
+        "sunbit"
       ],
       "sanctioned": false
     }
