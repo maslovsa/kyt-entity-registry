@@ -2297,3 +2297,5 @@ EMCD,mining,100,3,75,10,TRON|BTC,manual-admin,emcd,emcd.io,"emcd,emcd.io,emcdpoo
 Volet.com,psp,100,1,75,50,TRON,manual-admin,volet,volet.com,"volet,volet.com,advcash,advanced cash,advcash.com","Advcash,Advanced Cash",manual,2026-07-09,true,638d05ed5cefe70501f8a8cc6444d0cc2e86ad8cdad7a37375e5d97b9c8ebb6e
 Zarub.io,psp,100,1,75,50,TRON,manual-admin,zarub-io,zarub.io,"zarub,zarub.io,zarub_robot,ZARUB",,manual,2026-07-09,true,bfb50acf22252994fccd42896f8ff5ed8bac113730b5810ecce19e7df3186345
 0x Protocol,dex,100,10,75,5,ETH|BSC|ARBITRUM|BASE|OPTIMISM|POLYGON|AVALANCHE,manual-admin,0x-protocol,0x.org,"0x protocol,0x.org,0xprotocol,zrx",,manual,2026-07-09,true,2af5e4d290d80ea58e09b41ffa7f9172aab9470d73c46e512cdcee5af0f17e67
+666Pool,mining,100,14,75,5,ETH|BTC|TRON,manual-admin,666pool,666pool.com,"666pool,666pool.cn,666 pool",,manual,2026-07-09,true,9964272fa50ff1bda177d22b3983e5a98bfcbfe360191ba24ebf2d7c6189df2e
+ABCC Exchange,exchange,100,10,75,5,ETH|BSC,manual-admin,abcc-exchange,abcc.com,"abcc exchange,abcc,abcc-exchange",,manual,2026-07-09,true,b7d461fb7cb9557c0e8898643d7ba3aaeafe76162b191a9e886734653a0d6d7d

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T10:18:42+00:00",
+  "generated_at": "2026-07-09T10:53:23+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -16999,6 +16999,30 @@
         "0x.org",
         "0xprotocol",
         "zrx"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "666pool",
+      "category": "mining",
+      "logo_path": "logos/mining/666pool.png",
+      "keywords": [
+        "666pool",
+        "666pool.cn",
+        "666 pool"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "abcc-exchange",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/abcc-exchange.png",
+      "keywords": [
+        "abcc exchange",
+        "abcc",
+        "abcc-exchange"
       ],
       "product_aliases": [],
       "sanctioned": false
