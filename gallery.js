@@ -107,7 +107,6 @@ const state = {
     onlyFlagged: false,
     onlyMissing: false,
     sort: 'importance',
-    page: 1,
   },
 };
 
@@ -283,16 +282,10 @@ function isFilterDirty() {
     || f.search !== ''
     || f.onlyFlagged
     || f.onlyMissing;
-  // page > 1 intentionally excluded — navigation ≠ filter state
 }
 
 function setFilter(patch) {
-  Object.assign(state.filter, patch, { page: 1 });
-  renderGrid();
-}
-
-function setPage(n) {
-  state.filter.page = n;
+  Object.assign(state.filter, patch);
   renderGrid();
 }
 
@@ -401,21 +394,16 @@ function renderStatusChips() {
   bar.classList.toggle('chips-has-selection', state.filter.statuses.size > 0);
 }
 
-function renderResultCount(total, page, pageSize) {
+function renderResultCount(total, rendered) {
   if (!els.resultCount) return;
-  if (!total) {
-    els.resultCount.textContent = '0 entities';
-    return;
-  }
-  if (total === state.rows.length && page === 1 && !isFilterDirty()) {
-    els.resultCount.textContent = `${total.toLocaleString()} entities`;
-    return;
-  }
-  const from = (page - 1) * pageSize + 1;
-  const to = Math.min(page * pageSize, total);
+  if (!total) { els.resultCount.textContent = '0 entities'; return; }
   const suffix = total === state.rows.length ? '' : ' filtered';
-  els.resultCount.textContent =
-    `Showing ${from.toLocaleString()}–${to.toLocaleString()} of ${total.toLocaleString()}${suffix}`;
+  if (rendered >= total) {
+    els.resultCount.textContent = `${total.toLocaleString()} entities${suffix}`;
+  } else {
+    els.resultCount.textContent =
+      `${rendered.toLocaleString()} of ${total.toLocaleString()} entities${suffix}`;
+  }
 }
 
 /* cached column count for keyboard grid navigation */
@@ -432,9 +420,64 @@ const refreshColCount = debounce(() => {
   _colCount = c;
 }, 150);
 
-function renderGridContent(pageRows, tokens) {
+/* ── virtual scroll ─────────────────────────────────────────────────
+ * Replaces pagination. Renders BATCH_SIZE cards, then watches a
+ * sentinel div at the bottom of the grid via IntersectionObserver.
+ * When the sentinel enters the viewport, the next batch is appended.
+ * Filter changes reset to the beginning (grid cleared, scroll reset). */
+const BATCH_SIZE = 100;
+const _vs = { all: [], rendered: 0, tokens: [], observer: null };
+
+function _vsDisconnect() {
+  if (_vs.observer) { _vs.observer.disconnect(); _vs.observer = null; }
+  const s = document.getElementById('vs-sentinel');
+  if (s) s.remove();
+}
+
+function _vsAppendBatch() {
+  if (_vs.rendered >= _vs.all.length) { _vsDisconnect(); return; }
+  const batch = _vs.all.slice(_vs.rendered, _vs.rendered + BATCH_SIZE);
+  const frag = document.createDocumentFragment();
+  batch.forEach((r, i) => frag.appendChild(renderCard(r, _vs.rendered + i, _vs.tokens)));
+  _vs.rendered += batch.length;
+
+  // remove old sentinel before appending so it stays at the bottom
+  document.getElementById('vs-sentinel')?.remove();
+  els.grid.appendChild(frag);
+  refreshColCount();
+  renderResultCount(_vs.all.length, _vs.rendered);
+
+  if (_vs.rendered < _vs.all.length) {
+    const sentinel = document.createElement('div');
+    sentinel.id = 'vs-sentinel';
+    sentinel.style.cssText = 'grid-column:1/-1;height:1px';
+    els.grid.appendChild(sentinel);
+    _vs.observer = new IntersectionObserver(entries => {
+      if (entries[0].isIntersecting) { _vsDisconnect(); _vsAppendBatch(); }
+    }, { rootMargin: '300px' });
+    _vs.observer.observe(sentinel);
+  } else {
+    _vsDisconnect();
+  }
+}
+
+function renderGrid() {
+  _vsDisconnect();
+
+  const all    = filteredRows();
+  const tokens = tokenize(state.filter.search);
+
+  renderCategoryChips();
+  renderStatusChips();
+  if (els.resetView) els.resetView.hidden = !isFilterDirty();
+
+  // hide the old pagination bar — virtual scroll replaces it
+  const bar = document.getElementById('pagination-bar');
+  if (bar) bar.hidden = true;
+
   els.grid.innerHTML = '';
-  if (!pageRows.length) {
+
+  if (!all.length) {
     const q = state.filter.search;
     const msg = q
       ? `No entities match "${q}". Try clearing filters.`
@@ -448,48 +491,14 @@ function renderGridContent(pageRows, tokens) {
     resetBtn.addEventListener('click', () => document.getElementById('reset-view')?.click());
     emptyDiv.appendChild(resetBtn);
     els.grid.appendChild(emptyDiv);
+    renderResultCount(0, 0);
     return;
   }
-  const frag = document.createDocumentFragment();
-  pageRows.forEach((r, i) => frag.appendChild(renderCard(r, i, tokens)));
-  els.grid.appendChild(frag);
-  refreshColCount();
-}
 
-function renderPagination(total, page, pageSize) {
-  const bar = document.getElementById('pagination-bar');
-  if (!bar) return;
-  const pages = Math.ceil(total / pageSize);
-  if (!total || pages <= 1) { bar.hidden = true; return; }
-  bar.hidden = false;
-  bar.innerHTML = `
-    <button class="btn btn-subtle" id="page-prev" aria-label="Go to previous page"${page === 1 ? ' disabled' : ''}>← Prev</button>
-    <span aria-current="page">Page ${page} of ${pages}</span>
-    <button class="btn btn-subtle" id="page-next" aria-label="Go to next page"${page === pages ? ' disabled' : ''}>Next →</button>
-  `;
-  bar.querySelector('#page-prev')?.addEventListener('click', () => setPage(page - 1));
-  bar.querySelector('#page-next')?.addEventListener('click', () => setPage(page + 1));
-}
-
-function renderGrid() {
-  const all    = filteredRows();
-  const total  = all.length;
-  const page   = state.filter.page;
-  const tokens = tokenize(state.filter.search);
-  const slice  = all.slice((page - 1) * 100, page * 100);
-
-  renderCategoryChips();
-  renderStatusChips();
-  renderResultCount(total, page, 100);
-  renderGridContent(slice, tokens);
-  renderPagination(total, page, 100);
-
-  if (els.resetView) els.resetView.hidden = !isFilterDirty();
-
-  // restore focus to first card when navigating pages via pagination bar
-  if (document.activeElement && document.activeElement.closest('#pagination-bar')) {
-    els.grid.querySelector('.card')?.focus();
-  }
+  _vs.all = all;
+  _vs.rendered = 0;
+  _vs.tokens = tokens;
+  _vsAppendBatch();
 }
 
 function renderCard(row, index, tokens) {

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T12:17:19+00:00",
+  "generated_at": "2026-07-09T12:18:55+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17515,6 +17515,30 @@
         "etherflip",
         "etherflip.com",
         "ether flip gambling"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ethpool",
+      "category": "mining",
+      "logo_path": "logos/mining/ethpool.png",
+      "keywords": [
+        "ethpool",
+        "ethpool.org",
+        "ethpool mining"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "f2pool",
+      "category": "mining",
+      "logo_path": "logos/mining/f2pool.png",
+      "keywords": [
+        "f2pool",
+        "f2pool.com",
+        "f2 pool"
       ],
       "product_aliases": [],
       "sanctioned": false
