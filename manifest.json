@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T12:40:38+00:00",
+  "generated_at": "2026-07-09T12:43:54+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17553,6 +17553,44 @@
         "intercrone",
         "intercrone exchange",
         "icr"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "just",
+      "category": "defi",
+      "logo_path": "logos/defi/just.png",
+      "keywords": [
+        "just",
+        "just network",
+        "justlend",
+        "jst",
+        "justusd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "just-money",
+      "category": "defi",
+      "logo_path": "logos/defi/just-money.png",
+      "keywords": [
+        "just money",
+        "justmoney",
+        "jm token"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "k1-pool",
+      "category": "mining",
+      "logo_path": "logos/mining/k1-pool.png",
+      "keywords": [
+        "k1pool",
+        "k1 pool",
+        "k1pool.com"
       ],
       "product_aliases": [],
       "sanctioned": false

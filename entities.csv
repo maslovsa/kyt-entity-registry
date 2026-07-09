@@ -2345,3 +2345,6 @@ Hiveon,mining,50,3,75,5,ETH|BSC|ARBITRUM|AVALANCHE|BASE,manual-admin,hiveon,hive
 Hoo Smart Chain,exchange,50,3,75,5,ETH|BSC|OPTIMISM,manual-admin,hoo-smart-chain,hoo.com,"hoo,hoo smart chain,hoo exchange",,manual,2026-07-09,true,7cd2613251f08c12a2229f978f3c2da1eb7993dbf4748f29d85b57cd9269b11c
 IndoEx,exchange,50,2,75,5,ETH|ARBITRUM|AVALANCHE|BASE,manual-admin,indoex,indoex.io,"indoex,indoex exchange,indoex.io",,manual,2026-07-09,true,266c0d2ec3821d59307a9f91bc06db86bdf7d835eab71721126baf16df78b3ed
 InterCrone,exchange,50,2,75,5,TRON|ETH,manual-admin,intercrone,intercrone.com,"intercrone,intercrone exchange,icr",,manual,2026-07-09,true,5f638b30e406751936473c206b7c7adb7e204691db2264b8922113b6b10aa8f5
+JUST,defi,50,3,75,5,TRON|ETH|BSC,manual-admin,just,just.network,"just,just network,justlend,jst,justusd",,manual,2026-07-09,true,c1b9f80dde2224b5bf70b90238bb769edd8ad07818c2a37b3b6df723556be876
+Just Money,defi,50,3,75,5,TRON|ETH|BSC|POLYGON,manual-admin,just-money,just.money,"just money,justmoney,jm token",,manual,2026-07-09,true,d997803c53c309f3e84c21b048a3d6c88c79138be3ecf2dde7a68318dbd5e999
+K1 Pool,mining,50,3,75,5,ETH|ARBITRUM|AVALANCHE|BASE,manual-admin,k1-pool,k1pool.com,"k1pool,k1 pool,k1pool.com",,manual,2026-07-09,true,b567e61068e86685f3bbf69ede9f69a20bdba0271fb55314b7c9ae6c9b602f33
