@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T13:08:54+00:00",
+  "generated_at": "2026-07-09T13:15:25+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17701,6 +17701,16 @@
       "logo_path": "logos/defi/nest-protocol.png",
       "keywords": [
         "nest protocol ntoken oracle"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "omgfin",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/omgfin.png",
+      "keywords": [
+        "omgfin exchange"
       ],
       "product_aliases": [],
       "sanctioned": false
