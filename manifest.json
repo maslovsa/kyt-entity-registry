@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T12:03:01+00:00",
+  "generated_at": "2026-07-09T12:07:47+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17406,6 +17406,30 @@
         "coinotron",
         "coinotron.com",
         "coinotron mining"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cruxpool",
+      "category": "mining",
+      "logo_path": "logos/mining/cruxpool.png",
+      "keywords": [
+        "cruxpool",
+        "cruxpool.com",
+        "cruxpool mining"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cryptopia",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/cryptopia.png",
+      "keywords": [
+        "cryptopia",
+        "cryptopia.co.nz",
+        "cryptopia exchange"
       ],
       "product_aliases": [],
       "sanctioned": false

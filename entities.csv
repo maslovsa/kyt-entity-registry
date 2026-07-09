@@ -2332,3 +2332,5 @@ CoinBig,exchange,80,10,75,5,ETH|TRON,manual-admin,coinbig,coinbig.com,"coinbig,c
 Coinbit,exchange,80,10,75,5,ETH,manual-admin,coinbit,coinbit.co.kr,"coinbit,coinbit.co.kr,coinbit exchange",,manual,2026-07-09,true,ae2bb507e5f865452dc57a5efa1cc9d91a17d032d6dc5d692c5df8bec5984158
 CoinFLEX (OPNX),exchange,80,10,75,5,ETH|BSC|ARBITRUM|AVALANCHE|OPTIMISM,manual-admin,coinflex-opnx,coinflex.com,"coinflex,coinflex.com,opnx,coinflex opnx",,manual,2026-07-09,true,12c183f2eff4125cc9e3b79503a04d6535ea41298ee6d9992b044f63b2d55259
 Coinotron,mining,60,5,75,5,ETH,manual-admin,coinotron,coinotron.com,"coinotron,coinotron.com,coinotron mining",,manual,2026-07-09,true,70c746278eb38c462742847d614c1d5f8c857391ce22103a4c233e382b0361b6
+Cruxpool,mining,70,10,75,5,ETH|AVAX,manual-admin,cruxpool,cruxpool.com,"cruxpool,cruxpool.com,cruxpool mining",,manual,2026-07-09,true,8525a62d7528e872a6e9e461dc1aca621a0a0579e7fddad3b4254f48f2943178
+Cryptopia,exchange,80,20,75,5,ETH|BSC,manual-admin,cryptopia,cryptopia.co.nz,"cryptopia,cryptopia.co.nz,cryptopia exchange",,manual,2026-07-09,true,4ae8c15f30c077503a45c28f9cb94679d567e50190cbb8b053d2887633876f50
