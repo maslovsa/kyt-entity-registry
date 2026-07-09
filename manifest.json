@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T11:17:08+00:00",
+  "generated_at": "2026-07-09T11:25:15+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17142,6 +17142,18 @@
         "beaxy",
         "beaxy.com",
         "beaxy exchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "beepool",
+      "category": "mining",
+      "logo_path": "logos/mining/beepool.png",
+      "keywords": [
+        "beepool",
+        "beepool.org",
+        "bee pool"
       ],
       "product_aliases": [],
       "sanctioned": false
