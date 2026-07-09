@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T10:53:23+00:00",
+  "generated_at": "2026-07-09T10:58:27+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17023,6 +17023,42 @@
         "abcc exchange",
         "abcc",
         "abcc-exchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "2miners",
+      "category": "mining",
+      "logo_path": "logos/mining/2miners.png",
+      "keywords": [
+        "2miners",
+        "2miners.com",
+        "2miners pplns"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ant-pool",
+      "category": "mining",
+      "logo_path": "logos/mining/ant-pool.png",
+      "keywords": [
+        "antpool",
+        "ant pool",
+        "antpool.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "apenft",
+      "category": "defi",
+      "logo_path": "logos/defi/apenft.png",
+      "keywords": [
+        "apenft",
+        "apenft nft",
+        "apenft launchpad"
       ],
       "product_aliases": [],
       "sanctioned": false

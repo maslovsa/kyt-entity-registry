@@ -2299,3 +2299,7 @@ Zarub.io,psp,100,1,75,50,TRON,manual-admin,zarub-io,zarub.io,"zarub,zarub.io,zar
 0x Protocol,dex,100,10,75,5,ETH|BSC|ARBITRUM|BASE|OPTIMISM|POLYGON|AVALANCHE,manual-admin,0x-protocol,0x.org,"0x protocol,0x.org,0xprotocol,zrx",,manual,2026-07-09,true,2af5e4d290d80ea58e09b41ffa7f9172aab9470d73c46e512cdcee5af0f17e67
 666Pool,mining,100,14,75,5,ETH|BTC|TRON,manual-admin,666pool,666pool.com,"666pool,666pool.cn,666 pool",,manual,2026-07-09,true,9964272fa50ff1bda177d22b3983e5a98bfcbfe360191ba24ebf2d7c6189df2e
 ABCC Exchange,exchange,100,10,75,5,ETH|BSC,manual-admin,abcc-exchange,abcc.com,"abcc exchange,abcc,abcc-exchange",,manual,2026-07-09,true,b7d461fb7cb9557c0e8898643d7ba3aaeafe76162b191a9e886734653a0d6d7d
+
+2Miners,mining,100,10,75,5,ETH|ETC|BASE|BSC|ARBITRUM|AVALANCHE,manual-admin,2miners,2miners.com,"2miners,2miners.com,2miners pplns",,manual,2026-07-09,true,4baa30b8a2f76df3e42d97995aa2230a2a73ea598e0c82a9aaa30e8000a87162
+AntPool,mining,100,9,75,5,BTC|ETH|TRON,manual-admin,ant-pool,antpool.com,"antpool,ant pool,antpool.com",,manual,2026-07-09,true,7ff39ecd2cd6511a952b22491b4cfe4b93d22d1b3a2c1920d4a8a73b612bf925
+APENFT,defi,100,12,75,5,ETH|BSC|TRON,manual-admin,apenft,apenft.io,"apenft,apenft nft,apenft launchpad",,manual,2026-07-09,true,f2dfb068c32c87799314aa31ecbe635856b9f0e0cde72c63a7ba73a647815bbb
