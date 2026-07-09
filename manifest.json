@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T12:37:30+00:00",
+  "generated_at": "2026-07-09T12:40:38+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17529,6 +17529,30 @@
         "hoo",
         "hoo smart chain",
         "hoo exchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "indoex",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/indoex.png",
+      "keywords": [
+        "indoex",
+        "indoex exchange",
+        "indoex.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "intercrone",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/intercrone.png",
+      "keywords": [
+        "intercrone",
+        "intercrone exchange",
+        "icr"
       ],
       "product_aliases": [],
       "sanctioned": false

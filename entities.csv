@@ -2343,3 +2343,5 @@ Globe Derivative Exchange,exchange,50,3,75,5,ETH|OPTIMISM|ARBITRUM|AVALANCHE,man
 GokuMarket,exchange,50,3,75,5,ETH|BSC,manual-admin,goku-market,gokumarket.com,"gokumarket,goku market,gokumarket.com",,manual,2026-07-09,true,a4dc2db0dd17e6eb6c612fc0ff6391b882ddbebd35ee3d9c2e208ddf56e43bba
 Hiveon,mining,50,3,75,5,ETH|BSC|ARBITRUM|AVALANCHE|BASE,manual-admin,hiveon,hiveon.com,"hiveon,hiveon pool,hive mining",,manual,2026-07-09,true,8e013aab4f7b2414378bff3f5900ec0b6b00e344f1e20f3c45e0fa784ca3a40d
 Hoo Smart Chain,exchange,50,3,75,5,ETH|BSC|OPTIMISM,manual-admin,hoo-smart-chain,hoo.com,"hoo,hoo smart chain,hoo exchange",,manual,2026-07-09,true,7cd2613251f08c12a2229f978f3c2da1eb7993dbf4748f29d85b57cd9269b11c
+IndoEx,exchange,50,2,75,5,ETH|ARBITRUM|AVALANCHE|BASE,manual-admin,indoex,indoex.io,"indoex,indoex exchange,indoex.io",,manual,2026-07-09,true,266c0d2ec3821d59307a9f91bc06db86bdf7d835eab71721126baf16df78b3ed
+InterCrone,exchange,50,2,75,5,TRON|ETH,manual-admin,intercrone,intercrone.com,"intercrone,intercrone exchange,icr",,manual,2026-07-09,true,5f638b30e406751936473c206b7c7adb7e204691db2264b8922113b6b10aa8f5
