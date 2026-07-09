@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T11:42:55+00:00",
+  "generated_at": "2026-07-09T11:45:18+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17274,6 +17274,18 @@
         "btt",
         "bt.io",
         "bittorrent token"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "blocktrades-exchange",
+      "category": "exchanges",
+      "logo_path": "logos/exchanges/blocktrades-exchange.png",
+      "keywords": [
+        "blocktrades",
+        "blocktrades.us",
+        "block trades"
       ],
       "product_aliases": [],
       "sanctioned": false
