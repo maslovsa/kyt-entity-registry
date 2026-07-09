@@ -25,9 +25,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683  # v5
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@0b93645e9fea7318ecaed2b359559ac225c90a2  # v5
         with:
           python-version: '3.12'
           cache: 'pip'
@@ -40,11 +40,13 @@ jobs:
           # Public CDN client ID; safe to inline but secret-wired so it
           # can rotate without a commit.
           BRANDFETCH_CLIENT_ID: ${{ secrets.BRANDFETCH_CLIENT_ID }}
+          INPUT_MAX: ${{ github.event.inputs.max }}
+          INPUT_CATEGORY: ${{ github.event.inputs.category }}
+          INPUT_DRY_RUN: ${{ github.event.inputs.dry-run }}
         run: |
-          MAX="${{ github.event.inputs.max }}"
-          ARGS="--max ${MAX:-500}"
-          [ -n "${{ github.event.inputs.category }}" ]  && ARGS="$ARGS --category ${{ github.event.inputs.category }}"
-          [ "${{ github.event.inputs.dry-run }}" = "true" ] && ARGS="$ARGS --dry-run"
+          ARGS="--max ${INPUT_MAX:-500}"
+          [ -n "$INPUT_CATEGORY" ] && ARGS="$ARGS --category $INPUT_CATEGORY"
+          [ "$INPUT_DRY_RUN" = "true" ] && ARGS="$ARGS --dry-run"
           python scripts/enrich.py $ARGS
 
       - name: Commit updates

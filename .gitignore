@@ -12,3 +12,4 @@ mcp/ts/dist/
 mcp/ts/package-lock.json
 mcp/python/src/*.egg-info/
 mcp/python/.pytest_cache/
+.gstack/
