@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T11:10:27+00:00",
+  "generated_at": "2026-07-09T11:17:08+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -16541,6 +16541,18 @@
       "sanctioned": false
     },
     {
+      "slug": "barnbridge",
+      "category": "defi",
+      "logo_path": "logos/defi/barnbridge.png",
+      "keywords": [
+        "barnbridge",
+        "barnbridge.com",
+        "bond token barnbridge"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "hitbtc-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/hitbtc-com.png",
@@ -17106,6 +17118,30 @@
         "ataix",
         "ataix.com",
         "ataix exchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "badger-finance",
+      "category": "defi",
+      "logo_path": "logos/defi/badger-finance.png",
+      "keywords": [
+        "badger finance",
+        "badger dao",
+        "badger.finance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "beaxy",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/beaxy.png",
+      "keywords": [
+        "beaxy",
+        "beaxy.com",
+        "beaxy exchange"
       ],
       "product_aliases": [],
       "sanctioned": false
