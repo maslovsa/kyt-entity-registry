@@ -2337,3 +2337,7 @@ Exmo.me,exchange,40.5,54,75,5,ETH|TRON,scorechain-counterparties,exmo-me,exmo.me
 Farhad-exchange.com - Efex.pro,exchange,40.5,54,75,5,BSC|ETH|TRON,scorechain-counterparties,farhad-exchange-com-efex-pro,,"farhad exchange,efex,farhad-exchange.com",,manual,2026-05-03,true,d16a644c11bc0ace8116ddc6416c644d5020273d53e11a9032697e0cb4fd5507
 CoinDCX,exchange,0,67,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON|TRON,defillama-adapters|hack-attributions,coindcx,,coindcx,,arkham,2026-05-26,false,ab86d8869e8cfadd6afb5f6acf47386665de7d8db56026600e432e79ca54fa5c
 Safe Trade,exchange,0,6,85,5,BSC|ETH|TRON,scorechain-counterparties,safe-trade,safe.trade,"safe trade,safe.trade",,arkham,2026-05-26,false,89ba5c8d782acbe3c4f1606f459891311e2d70447fb8316e1ec55093de1aefe2
+
+GGBTC,exchange,50,3,75,5,ETH|BASE|OPTIMISM,manual-admin,ggbtc,ggbtc.com,"ggbtc,ggbtc exchange",,manual,2026-07-09,true,706002d368bbf847aeacff61b61783a8cc460a5f023b7e3ee1ca10aa7273df87
+Globe Derivative Exchange,exchange,50,3,75,5,ETH|OPTIMISM|ARBITRUM|AVALANCHE,manual-admin,globe-derivative-exchange,globe.exchange,"globe,globe exchange,globe derivative exchange,globe derivatives",,manual,2026-07-09,true,c2dacff637ef70a2b40ca7d2429c3add02acd545af65f4624478fdfd902ea298
+GokuMarket,exchange,50,3,75,5,ETH|BSC,manual-admin,goku-market,gokumarket.com,"gokumarket,goku market,gokumarket.com",,manual,2026-07-09,true,a4dc2db0dd17e6eb6c612fc0ff6391b882ddbebd35ee3d9c2e208ddf56e43bba

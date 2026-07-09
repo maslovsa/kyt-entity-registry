@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T12:30:25+00:00",
+  "generated_at": "2026-07-09T12:35:01+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -2185,18 +2185,6 @@
       "sanctioned": false
     },
     {
-      "slug": "f2pool",
-      "category": "mining",
-      "logo_path": "logos/mining/f2pool.png",
-      "keywords": [
-        "f2pool",
-        "f2pool.com",
-        "f2 pool"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "aerodrome-slipstream",
       "category": "dex",
       "logo_path": "logos/dex/aerodrome-slipstream.png",
@@ -2872,17 +2860,6 @@
       "sanctioned": false
     },
     {
-      "slug": "lista-cdp",
-      "category": "defi",
-      "logo_path": "logos/defi/lista-cdp.png",
-      "keywords": [
-        "lista cdp",
-        "lista-cdp"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "lista-lending",
       "category": "defi",
       "logo_path": "logos/defi/lista-lending.png",
@@ -3023,17 +3000,6 @@
       "keywords": [
         "navi lending",
         "navi-lending"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "nexus-btc",
-      "category": "bridge",
-      "logo_path": "logos/bridge/nexus-btc.png",
-      "keywords": [
-        "nexus btc",
-        "nexus-btc"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -3549,18 +3515,6 @@
         "cryptopia",
         "cryptopia.co.nz",
         "cryptopia exchange"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "ethpool",
-      "category": "mining",
-      "logo_path": "logos/mining/ethpool.png",
-      "keywords": [
-        "ethpool",
-        "ethpool.org",
-        "ethpool mining"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -6868,18 +6822,6 @@
         "e2m",
         "wayi",
         "easy2mine.com"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "ethereumpool-co",
-      "category": "mining",
-      "logo_path": "logos/mining/ethereumpool-co.png",
-      "keywords": [
-        "ethereumpool",
-        "ethereumpool.co",
-        "ethereum pool mining"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -11869,18 +11811,6 @@
       "sanctioned": false
     },
     {
-      "slug": "etherflip",
-      "category": "gambling",
-      "logo_path": "logos/gambling/etherflip.png",
-      "keywords": [
-        "etherflip",
-        "etherflip.com",
-        "ether flip gambling"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "hkd-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/hkd-com.png",
@@ -11937,65 +11867,12 @@
       "sanctioned": false
     },
     {
-      "slug": "fairdesk",
+      "slug": "fairdesk-com",
       "category": "exchange",
-      "logo_path": "logos/exchanges/fairdesk.png",
+      "logo_path": "logos/exchanges/fairdesk-com.png",
       "keywords": [
         "fairdesk",
-        "fairdesk exchange",
-        "derivatives exchange"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "faucetpay",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/faucetpay.png",
-      "keywords": [
-        "faucetpay",
-        "faucetpay.io",
-        "micro wallet",
-        "bitcoin faucet"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "fck-com",
-      "category": "gambling",
-      "logo_path": "logos/gambling/fck-com.png",
-      "keywords": [
-        "fck",
-        "fck.com",
-        "fck token",
-        "meme token"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "fei-protocol",
-      "category": "defi",
-      "logo_path": "logos/defi/fei-protocol.png",
-      "keywords": [
-        "fei",
-        "fei protocol",
-        "fei money",
-        "fei usd",
-        "tribe dao"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "flata-exchange",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/flata-exchange.png",
-      "keywords": [
-        "flata",
-        "flata exchange",
-        "flata.exchange"
+        "fairdesk.com"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -17597,26 +17474,37 @@
       "sanctioned": false
     },
     {
-      "slug": "geco-one",
-      "category": "defi",
-      "logo_path": "logos/defi/geco-one.png",
+      "slug": "ggbtc",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/ggbtc.png",
       "keywords": [
-        "geco",
-        "geco.one",
-        "geco exchange",
-        "defi exchange"
+        "ggbtc",
+        "ggbtc exchange"
       ],
       "product_aliases": [],
       "sanctioned": false
     },
     {
-      "slug": "genesis-mining",
-      "category": "mining",
-      "logo_path": "logos/mining/genesis-mining.png",
+      "slug": "globe-derivative-exchange",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/globe-derivative-exchange.png",
       "keywords": [
-        "genesis mining",
-        "genesis-mining",
-        "cloud mining"
+        "globe",
+        "globe exchange",
+        "globe derivative exchange",
+        "globe derivatives"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "goku-market",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/goku-market.png",
+      "keywords": [
+        "gokumarket",
+        "goku market",
+        "gokumarket.com"
       ],
       "product_aliases": [],
       "sanctioned": false
