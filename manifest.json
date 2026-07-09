@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T14:48:37+00:00",
+  "generated_at": "2026-07-09T21:12:09+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -16125,6 +16125,17 @@
         "dydx.exchange",
         "dydx-exchange",
         "dydx"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ecng-digital",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/ecng-digital.png",
+      "keywords": [
+        "ecng digital",
+        "ecng-digital"
       ],
       "product_aliases": [],
       "sanctioned": false
