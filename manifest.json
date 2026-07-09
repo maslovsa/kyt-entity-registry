@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T11:47:05+00:00",
+  "generated_at": "2026-07-09T11:49:18+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17310,6 +17310,17 @@
         "btc.com",
         "btc com pool",
         "btccom"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cashierest",
+      "category": "exchanges",
+      "logo_path": "logos/exchanges/cashierest.png",
+      "keywords": [
+        "cashierest",
+        "cashierest.com"
       ],
       "product_aliases": [],
       "sanctioned": false
