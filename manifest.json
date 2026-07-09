@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T13:00:09+00:00",
+  "generated_at": "2026-07-09T13:08:54+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17681,6 +17681,26 @@
       "logo_path": "logos/wallet/multibit.png",
       "keywords": [
         "multibit bitcoin wallet"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "native-gaming",
+      "category": "gambling",
+      "logo_path": "logos/gambling/native-gaming.png",
+      "keywords": [
+        "native gaming nativegaming casino"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "nest-protocol",
+      "category": "defi",
+      "logo_path": "logos/defi/nest-protocol.png",
+      "keywords": [
+        "nest protocol ntoken oracle"
       ],
       "product_aliases": [],
       "sanctioned": false

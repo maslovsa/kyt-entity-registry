@@ -2358,3 +2358,5 @@ Liqui,exchange,50,1,75,5,ETH,manual-admin,liqui,liqui.io,"liqui liqui.io exchang
 Livepeer,defi,50,1,75,5,ETH|ARBITRUM,manual-admin,livepeer,livepeer.org,"livepeer lpt video streaming",,manual,2026-07-09,true,7b8c51300dbf93c15cb8384334d685b75a6e6f14fc9840acb15f5b06e92ab008
 MinedTrade.com,exchange,50,1,75,5,ETH,manual-admin,minedtrade-com,minedtrade.com,"minedtrade mined trade",,manual,2026-07-09,true,49681765a2446267f2315adf164add36db854a3ee3ed5085e2051be8864ca4e0
 Multibit,wallet,50,1,75,5,ETH|BSC|POLYGON|ARBITRUM|AVALANCHE|OPTIMISM|BASE|BTC,manual-admin,multibit,multibit.org,"multibit bitcoin wallet",,manual,2026-07-09,true,f1b0b738d897deee2591d8ee14954aa764dc69ed4744b5859ff2480427f018d0
+Native Gaming,gambling,50,1,75,5,ETH,manual-admin,native-gaming,nativegaming.io,"native gaming nativegaming casino",,manual,2026-07-09,true,0fa7297533a4f8297ac87cccfeb097e1e03b046178a01ee1c7168c103a24916e
+NEST Protocol,defi,50,1,75,5,ETH|BSC,manual-admin,nest-protocol,nestprotocol.org,"nest protocol ntoken oracle",,manual,2026-07-09,true,dc4ebef7e5a15b5422f14867cd2af43c086a7c7c4b240c1756e463d2b5576800
