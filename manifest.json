@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T14:46:51+00:00",
+  "generated_at": "2026-07-09T14:48:37+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17643,7 +17643,9 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/lemon-cash.png",
       "keywords": [
-        "lemon cash lemon.me argentina"
+        "lemon cash",
+        "lemon.me",
+        "argentina"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -17663,7 +17665,8 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/liqui.png",
       "keywords": [
-        "liqui liqui.io exchange"
+        "liqui",
+        "liqui.io"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -17773,7 +17776,9 @@
       "category": "defi",
       "logo_path": "logos/defi/ren-protocol.png",
       "keywords": [
-        "ren protocol ren bridge defi"
+        "ren",
+        "ren protocol",
+        "ren bridge"
       ],
       "product_aliases": [
         "ren renvm"
@@ -17833,7 +17838,8 @@
       "category": "mining",
       "logo_path": "logos/mining/spark-pool.png",
       "keywords": [
-        "spark pool mining ethereum pool"
+        "spark pool",
+        "sparkpool"
       ],
       "product_aliases": [
         "sparkpool"
