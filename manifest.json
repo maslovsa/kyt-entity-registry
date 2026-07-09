@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T12:11:17+00:00",
+  "generated_at": "2026-07-09T12:13:32+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17466,6 +17466,31 @@
         "delta exchange",
         "delta.exchange",
         "delta crypto"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dwarfpool",
+      "category": "mining",
+      "logo_path": "logos/mining/dwarfpool.png",
+      "keywords": [
+        "dwarfpool",
+        "dwarfpool.com",
+        "dwarf pool mining"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "easy2mine-e2m-wayi",
+      "category": "mining",
+      "logo_path": "logos/mining/easy2mine-e2m-wayi.png",
+      "keywords": [
+        "easy2mine",
+        "e2m",
+        "wayi",
+        "easy2mine.com"
       ],
       "product_aliases": [],
       "sanctioned": false
