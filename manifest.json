@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T12:51:08+00:00",
+  "generated_at": "2026-07-09T12:51:36+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17611,6 +17611,16 @@
       "logo_path": "logos/custodian/klever.png",
       "keywords": [
         "klever klv wallet exchange tron"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "inxy-io",
+      "category": "psp",
+      "logo_path": "logos/psp/inxy-io.png",
+      "keywords": [
+        "inxy inxy payments inxy.io crypto payment"
       ],
       "product_aliases": [],
       "sanctioned": false
