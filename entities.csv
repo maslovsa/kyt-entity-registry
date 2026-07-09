@@ -2315,3 +2315,4 @@ Bit-Z,exchanges,100,20,75,5,ETH|BSC|TRON|ARBITRUM,manual-admin,bit-z,bitz.com,"b
 BitBase,exchanges,100,10,75,5,ETH|BSC|ARBITRUM|BASE|AVALANCHE,manual-admin,bitbase,bitbase.com.es,"bitbase,bitbase.com.es,bitbase exchange",,manual,2026-07-09,true,3bde4325d906ba32176c53c9b812bd69402a13550811e1fa4ba68f898f998397
 BitBlinx,exchanges,100,10,75,5,ETH|BSC|ARBITRUM|POLYGON|AVALANCHE,manual-admin,bitblinx,bitblinx.com,"bitblinx,bitblinx.com",,manual,2026-07-09,true,1e3dfa8a67b199046dfd5be9eaaec481fa3e8042c6688960662175ee02717bc5
 Bitci,exchanges,100,10,75,5,ETH|BSC|ARBITRUM|BASE|AVALANCHE,manual-admin,bitci,bitci.com,"bitci,bitci exchange,bitci.com",,manual,2026-07-09,true,9c38e3b5702f576387a3884324b4fb53d09c03314451cf029471cd4de8ba2008
+BiteBTC,exchanges,100,10,75,5,ETH|BSC|ARBITRUM|POLYGON|AVALANCHE,manual-admin,bitebtc,bitebtc.com,"bitebtc,bitebtc.com,bite btc",,manual,2026-07-09,true,a02360143cbecc902e24a7b40bd8e37d3a1963157e0b302cabd3f4e42646a8ba
