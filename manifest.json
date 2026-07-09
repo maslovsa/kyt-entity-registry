@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T14:34:40+00:00",
+  "generated_at": "2026-07-09T14:35:43+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -18100,6 +18100,17 @@
       "product_aliases": [
         "zipmex"
       ],
+      "sanctioned": false
+    },
+    {
+      "slug": "onion-market",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/onion-market.png",
+      "keywords": [
+        "onion market",
+        "onionmarket"
+      ],
+      "product_aliases": [],
       "sanctioned": false
     }
   ]

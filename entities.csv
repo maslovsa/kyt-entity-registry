@@ -2407,3 +2407,4 @@ ZBX (Zillion Bits),exchange,40,1,75,5,ETH|BTC,manual-admin,zbx-zillion-bits,zbx.
 Zethr Casino,gambling,30,1,75,5,ETH,manual-admin,zethr-casino,zethr.io,"zethr casino eth ethereum gambling dice",zethr,manual,2026-07-09,true,b9285226035289a50d60641c228db3063339f4090a24549ffd417c7117d63be9
 Zethyr Exchange,exchange,20,1,75,5,ETH,manual-admin,zethyr-exchange,zethyr.com,"zethyr exchange eth",zethyr,none,2026-07-09,true,
 Zipmex,exchange,50,1,75,5,ETH|BTC|XRP,manual-admin,zipmex,zipmex.com,"zipmex southeast asia exchange thailand singapore",zipmex,manual,2026-07-09,true,cd0a552e0997274440601d8aafbfb92c45f74734f59a241ede660dca4da16ca2
+Onion Market,exchange,60,3,75,50,TRON,manual-admin,onion-market,t.me/onionmarket_bot,"onion market,onionmarket",,manual,2026-07-09,true,dd939afeec0f17f38987c6178485884b78b93eac1e38c8385bde6581829e65b1
