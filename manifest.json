@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T11:45:18+00:00",
+  "generated_at": "2026-07-09T11:47:05+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17286,6 +17286,30 @@
         "blocktrades",
         "blocktrades.us",
         "block trades"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "btc-alpha-exchange",
+      "category": "exchanges",
+      "logo_path": "logos/exchanges/btc-alpha-exchange.png",
+      "keywords": [
+        "btc-alpha",
+        "btc alpha",
+        "btc-alpha.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "btc-com",
+      "category": "mining",
+      "logo_path": "logos/mining/btc-com.png",
+      "keywords": [
+        "btc.com",
+        "btc com pool",
+        "btccom"
       ],
       "product_aliases": [],
       "sanctioned": false
