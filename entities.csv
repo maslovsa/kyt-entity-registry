@@ -2296,3 +2296,4 @@ F-Change,exchange,75,20,75,5,"TRON,ETH",manual-admin,f-change-biz,f-change.cc,"f
 EMCD,mining,100,3,75,10,TRON|BTC,manual-admin,emcd,emcd.io,"emcd,emcd.io,emcdpool,emcd pool",,manual,2026-07-09,true,16a7d9f2fbe746d63767ebb946820a65fc17d2480e63f6217c4e5565296f9b9b
 Volet.com,psp,100,1,75,50,TRON,manual-admin,volet,volet.com,"volet,volet.com,advcash,advanced cash,advcash.com","Advcash,Advanced Cash",manual,2026-07-09,true,638d05ed5cefe70501f8a8cc6444d0cc2e86ad8cdad7a37375e5d97b9c8ebb6e
 Zarub.io,psp,100,1,75,50,TRON,manual-admin,zarub-io,zarub.io,"zarub,zarub.io,zarub_robot,ZARUB",,manual,2026-07-09,true,bfb50acf22252994fccd42896f8ff5ed8bac113730b5810ecce19e7df3186345
+0x Protocol,dex,100,10,75,5,ETH|BSC|ARBITRUM|BASE|OPTIMISM|POLYGON|AVALANCHE,manual-admin,0x-protocol,0x.org,"0x protocol,0x.org,0xprotocol,zrx",,manual,2026-07-09,true,2af5e4d290d80ea58e09b41ffa7f9172aab9470d73c46e512cdcee5af0f17e67

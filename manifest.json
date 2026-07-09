@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-08T21:44:04+00:00",
+  "generated_at": "2026-07-09T10:18:42+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -16986,6 +16986,19 @@
         "zarub.io",
         "zarub_robot",
         "ZARUB"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "0x-protocol",
+      "category": "dex",
+      "logo_path": "logos/dex/0x-protocol.png",
+      "keywords": [
+        "0x protocol",
+        "0x.org",
+        "0xprotocol",
+        "zrx"
       ],
       "product_aliases": [],
       "sanctioned": false
