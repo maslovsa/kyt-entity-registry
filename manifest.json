@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T14:25:10+00:00",
+  "generated_at": "2026-07-09T14:27:19+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -18063,6 +18063,30 @@
       ],
       "product_aliases": [
         "zbx zillion bits"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "zethr-casino",
+      "category": "gambling",
+      "logo_path": "logos/gambling/zethr-casino.png",
+      "keywords": [
+        "zethr casino eth ethereum gambling dice"
+      ],
+      "product_aliases": [
+        "zethr"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "zipmex",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/zipmex.png",
+      "keywords": [
+        "zipmex southeast asia exchange thailand singapore"
+      ],
+      "product_aliases": [
+        "zipmex"
       ],
       "sanctioned": false
     }
