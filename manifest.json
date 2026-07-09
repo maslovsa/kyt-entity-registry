@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T12:09:34+00:00",
+  "generated_at": "2026-07-09T12:11:17+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17442,6 +17442,30 @@
         "debridge",
         "debridge.finance",
         "debridge finance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "definity",
+      "category": "defi",
+      "logo_path": "logos/defi/definity.png",
+      "keywords": [
+        "definity",
+        "definity.network",
+        "definity exchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "delta-exchange",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/delta-exchange.png",
+      "keywords": [
+        "delta exchange",
+        "delta.exchange",
+        "delta crypto"
       ],
       "product_aliases": [],
       "sanctioned": false
