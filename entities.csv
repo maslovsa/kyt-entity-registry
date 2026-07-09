@@ -81,7 +81,7 @@ CoinEx.com,exchange,100,432,75,5,BSC|ETH|TRON,scorechain-counterparties,coinex-c
 CoinPayments.net,psp,100,475,75,5,BSC|ETH|TRON,scorechain-counterparties,coinpayments-net,coinpayments.net,coinpayments,,arkham,2026-05-11,false,eebd23b56faac3b20aca9ed5b03798b35d5711629a061b2e1383aa92ed7ab3ed
 Coinspaid.com - Cryptoprocessing.com,psp,100,134,75,5,BSC|ETH|TRON,scorechain-counterparties,coinspaid-com-cryptoprocessing-com,,"coinspaid,cryptoprocessing,coinspaid.com",,arkham,2026-05-26,false,fc445283bc5f182f1f4c93e32ce126abeb6ea92ec48eef64dd203a7cf31aca49
 Copper,custodian,100,112,90,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,arkham-intelligence,copper,,,,arkham,2026-06-19,false,7ebd95e7587723d8bec0d506be4eebd7c6562fab82f6508110e00636d4fca9d8
-Cream 2,defi,100,260,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,cream-2,,,,defillama,2026-05-27,false,f310e4e5c9f5ccfda1eb3934864cd5a523e708f553bbf41173c4f5f3766520ae
+Cream 2,defi,100,260,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,cream-2,,,,defillama,2026-05-27,true,f310e4e5c9f5ccfda1eb3934864cd5a523e708f553bbf41173c4f5f3766520ae
 Credix,defi,100,32,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,credix,,,,arkham,2026-05-11,false,055fe134584b6f55bca6a36290396c4fdf9b46472e5dd79d0c3658104c8b0e62
 CryptoBot,bot,100,334,75,5,BSC|ETH|TRON,scorechain-counterparties,cryptobot,,"cryptobot,@cryptobot",,manual,2026-04-29,true,bcfa90025da570a643396687dde7ab493bcd0d08096c12ab6e9eabb07b6889e9
 Cryptomus.com,exchange,100,513,75,5,BSC|ETH|TRON,scorechain-counterparties,cryptomus-com,cryptomus.com,cryptomus,,arkham,2026-05-11,false,14feccd7731094545d0662c534057eed64828b8c8e11d0fd310e299436d234a5
@@ -149,7 +149,7 @@ LavaLending,defi,100,216,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|PO
 Lbank.com,exchange,100,341,75,5,BSC|ETH|TRON,scorechain-counterparties,lbank-com,lbank.com,lbank,,arkham,2026-05-11,false,92b1a33d96e796175552154cff04f3d428e5c648b7b92f661b9c15667a69d255
 Lemon.me,exchange,100,159,75,5,BSC|ETH|TRON,scorechain-counterparties,lemon-me,lemon.me,"lemon.me,lemon",,favicon,2026-05-26,false,ec2314012038a6f285a4314431d7875990322f0701b902d3b46c2a2f7017e202
 Lodestar,defi,100,170,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,defillama-adapters|vasp-entity-defaults,lodestar,,,,arkham,2026-05-11,false,9cdee528ea10753a99a0e4eae3f9a1dc89c7a880df6b0051eecb11cb5e20f04e
-m2.com,exchange,100,1,88,5,ETH,misttrack-verdicts,m2-com,m2.com,m2.com,,arkham,2026-06-08,false,9cd751df7117851d48279b5c47bae0822622779b4de6e9322d767aa65a88b364
+m2.com,exchange,100,1,88,5,ETH,misttrack-verdicts,m2-com,m2.com,m2.com,,arkham,2026-06-08,true,9cd751df7117851d48279b5c47bae0822622779b4de6e9322d767aa65a88b364
 MakerDAO,dex,100,471,70,10,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,makerdao,,,,arkham,2026-06-19,false,631f57b89d3f8f14d3754bf88c38aebd45e714d868e1513088358d72cfc27f04
 Makina,defi,100,152,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,makina,,,,manual,2026-05-13,true,0226e4f52742125fab016edd28ea4f4c6730d1f34e94ca494f6d3445b8068a83
 MaskEX.com,exchange,100,298,75,5,BSC|ETH|TRON,scorechain-counterparties,maskex-com,maskex.com,maskex,,arkham,2026-05-11,false,9641fcf4741c99b8d1b659039a0ed84554c10a17139bd6c865bbe06fd1a746ad
@@ -2299,7 +2299,6 @@ Zarub.io,psp,100,1,75,50,TRON,manual-admin,zarub-io,zarub.io,"zarub,zarub.io,zar
 0x Protocol,dex,100,10,75,5,ETH|BSC|ARBITRUM|BASE|OPTIMISM|POLYGON|AVALANCHE,manual-admin,0x-protocol,0x.org,"0x protocol,0x.org,0xprotocol,zrx",,manual,2026-07-09,true,2af5e4d290d80ea58e09b41ffa7f9172aab9470d73c46e512cdcee5af0f17e67
 666Pool,mining,100,14,75,5,ETH|BTC|TRON,manual-admin,666pool,666pool.com,"666pool,666pool.cn,666 pool",,manual,2026-07-09,true,9964272fa50ff1bda177d22b3983e5a98bfcbfe360191ba24ebf2d7c6189df2e
 ABCC Exchange,exchange,100,10,75,5,ETH|BSC,manual-admin,abcc-exchange,abcc.com,"abcc exchange,abcc,abcc-exchange",,manual,2026-07-09,true,b7d461fb7cb9557c0e8898643d7ba3aaeafe76162b191a9e886734653a0d6d7d
-
 2Miners,mining,100,10,75,5,ETH|ETC|BASE|BSC|ARBITRUM|AVALANCHE,manual-admin,2miners,2miners.com,"2miners,2miners.com,2miners pplns",,manual,2026-07-09,true,4baa30b8a2f76df3e42d97995aa2230a2a73ea598e0c82a9aaa30e8000a87162
 AntPool,mining,100,9,75,5,BTC|ETH|TRON,manual-admin,ant-pool,antpool.com,"antpool,ant pool,antpool.com",,manual,2026-07-09,true,7ff39ecd2cd6511a952b22491b4cfe4b93d22d1b3a2c1920d4a8a73b612bf925
 APENFT,defi,100,12,75,5,ETH|BSC|TRON,manual-admin,apenft,apenft.io,"apenft,apenft nft,apenft launchpad",,manual,2026-07-09,true,f2dfb068c32c87799314aa31ecbe635856b9f0e0cde72c63a7ba73a647815bbb
@@ -2327,7 +2326,6 @@ Cashierest,exchanges,100,10,75,5,TRON|ETH,manual-admin,cashierest,cashierest.com
 Catex Exchange,exchanges,100,10,75,5,ETH|BSC|ARBITRUM|AVALANCHE|OPTIMISM,manual-admin,catex-exchange,catex.io,"catex,catex.io,catex exchange",,manual,2026-07-09,true,434b5d8948140083b2139fe8c17915fb324eabb3cab469b7c878e96af97b731d
 ChainUp Custody,custodian,100,10,75,5,ETH|BSC|ARBITRUM|AVALANCHE|BASE,manual-admin,chainup-custody,chainup.com,"chainup,chainup.com,chainup custody",,manual,2026-07-09,true,b53dd85a26db408db07affeac902ae8249ccba37e81f0079b8ef4f6003cc7ec8
 Cobinhood,exchange,80,5,75,5,ETH,manual-admin,cobinhood,cobinhood.com,"cobinhood,cobinhood exchange,cobinhood.com",,manual,2026-07-09,true,be79c8dbe79385e23837652e31f47d3b56cc2d4649464159c59c0a0101fc8bab
-
 CoinBig,exchange,80,10,75,5,ETH|TRON,manual-admin,coinbig,coinbig.com,"coinbig,coinbig.com,coinbig exchange",,manual,2026-07-09,true,49c7974e14eae4656658679d8f534705ac3264df6723495c9cee82215346c1b2
 Coinbit,exchange,80,10,75,5,ETH,manual-admin,coinbit,coinbit.co.kr,"coinbit,coinbit.co.kr,coinbit exchange",,manual,2026-07-09,true,ae2bb507e5f865452dc57a5efa1cc9d91a17d032d6dc5d692c5df8bec5984158
 CoinFLEX (OPNX),exchange,80,10,75,5,ETH|BSC|ARBITRUM|AVALANCHE|OPTIMISM,manual-admin,coinflex-opnx,coinflex.com,"coinflex,coinflex.com,opnx,coinflex opnx",,manual,2026-07-09,true,12c183f2eff4125cc9e3b79503a04d6535ea41298ee6d9992b044f63b2d55259
