@@ -2383,3 +2383,6 @@ Sunbit,exchange,30,1,75,5,TRON,manual-admin,sunbit,sunbit.com,"sunbit tron excha
 SunPump,defi,50,1,75,5,TRON,manual-admin,sunpump,sunpump.meme,"sunpump tron meme launchpad pump",sunpump,manual,2026-07-09,true,651b84ce680616b2f65d75d3170e3e4372c61bfcbbf33867c1f09f6ca3d73719
 Supercard,psp,30,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE,manual-admin,supercard,supercard.io,"supercard crypto debit card",supercard,none,2026-07-09,true,
 Suprnova,mining,40,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE,manual-admin,suprnova,suprnova.cc,"suprnova mining pool altcoin",suprnova,manual,2026-07-09,true,9ffd92fb8a1dabf7dc19099dd7f6287d206ae11bcbd3fe35ce8354459478b023
+TAGZ,exchange,30,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE,manual-admin,tagz,tagz.com,"tagz exchange crypto",tagz,manual,2026-07-09,true,5baa4b4ee569e2deb84b4fb73420af1aecf291dd40942b909026f769fa0d14f1
+Terareum,defi,20,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE,manual-admin,terareum,terareum.com,"terareum tera token",terareum tera,none,2026-07-09,true,
+TFL (Terraform Labs),defi,80,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE|TRON,manual-admin,tfl,tfl.org,"terraform labs terra luna lunc ustc",terraform labs terra luna lunc ust,manual,2026-07-09,true,92124cd85dbf05ceeec04fffb381f929ac941fd7b5bab309b73ee31f69453bf6

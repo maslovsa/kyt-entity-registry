@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T13:47:15+00:00",
+  "generated_at": "2026-07-09T14:01:08+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17908,6 +17908,30 @@
       ],
       "product_aliases": [
         "suprnova"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "tagz",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/tagz.png",
+      "keywords": [
+        "tagz exchange crypto"
+      ],
+      "product_aliases": [
+        "tagz"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "tfl",
+      "category": "defi",
+      "logo_path": "logos/defi/tfl.png",
+      "keywords": [
+        "terraform labs terra luna lunc ustc"
+      ],
+      "product_aliases": [
+        "terraform labs terra luna lunc ust"
       ],
       "sanctioned": false
     }
