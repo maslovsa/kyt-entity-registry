@@ -2365,3 +2365,6 @@ PayKassa.pro,psp,50,1,75,5,TRON|ETH|BSC|POLYGON|ARBITRUM|AVALANCHE|OPTIMISM|BASE
 Polygon,defi,50,1,75,5,POLYGON|ETH,manual-admin,polygon,polygon.technology,"polygon matic network layer2",,manual,2026-07-09,true,c2b49e5a28369e6df33bf87051e16954f7e62f7d0a8044a98b2b8d53e641bee9
 Poolin,mining,50,1,75,5,ETH|BSC|ARBITRUM|AVALANCHE|BASE|OPTIMISM|POLYGON,manual-admin,poolin,poolin.com,"poolin mining pool bitcoin",,manual,2026-07-09,true,05638b9c55ea374339958845e0dc482228025ace70fe43bcb74e055b584e8ada
 Privasea,defi,50,1,75,5,ETH|BSC|ARBITRUM|AVALANCHE|BASE|OPTIMISM|POLYGON,manual-admin,privasea,privasea.ai,"privasea privacy ai depin",,manual,2026-07-09,true,ec03388474bead9f77ecb6a6b6e1749ccc6b2021f8ed59546db8b6a56059a2ae
+Protocol Monsters,gambling,30,1,75,5,BSC|ETH|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE,manual-admin,protocol-monsters,protocolmonsters.com,"protocol monsters nft gaming",protocol monsters,none,2026-07-09,true,
+QuantaEx,exchange,30,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE,manual-admin,quantaex,quantaex.com,"quantaex exchange",quantaex,none,2026-07-09,true,
+Ren Protocol,defi,60,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE,manual-admin,ren-protocol,renproject.io,"ren protocol ren bridge defi",ren renvm,manual,2026-07-09,true,b1ca9a30db5c788a64d18db043731f22e4fcda7f94b5b78fc4fd5dba30bd8c33
