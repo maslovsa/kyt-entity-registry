@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T14:09:52+00:00",
+  "generated_at": "2026-07-09T14:18:44+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17968,6 +17968,18 @@
       ],
       "product_aliases": [
         "vesper vsp"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "wallet-in-telegram",
+      "category": "wallet",
+      "logo_path": "logos/wallet/wallet-in-telegram.png",
+      "keywords": [
+        "wallet telegram ton custodial"
+      ],
+      "product_aliases": [
+        "wallet telegram"
       ],
       "sanctioned": false
     }

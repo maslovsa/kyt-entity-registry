@@ -2395,3 +2395,6 @@ Uswap.me,dex,40,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE|TRON,man
 Verox,defi,30,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE,manual-admin,verox,verox.com,"verox vex token defi",verox vex,manual,2026-07-09,true,5cb66ae85702f0e19f1c19f4a1e4b9162c4ba12fa4aaf7ec6caccc906df6a577
 Vesper Finance,defi,50,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE,manual-admin,vesper-finance,vesper.finance,"vesper finance vsp yield defi",vesper vsp,manual,2026-07-09,true,4161623bfeb164c83c25c3a5828cc8b1c23f738071458350b29f89e292c79d72
 Virtue Poker,gambling,40,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE,manual-admin,virtue-poker,virtue.poker,"virtue poker ethereum blockchain poker",virtue poker vpu,none,2026-07-09,true,
+Wallet in Telegram,wallet,70,1,75,5,TON|ETH|BTC|TRON,manual-admin,wallet-in-telegram,wallet.tg,"wallet telegram ton custodial",wallet telegram,manual,2026-07-09,true,ca932aa5eae0a2fc0c1e00793e24de912e0885ffdd16c7907bdc08e7b437c499
+Waterhole,mining,30,1,75,5,ETH,manual-admin,waterhole,waterhole.io,"waterhole mining pool eth",waterhole,none,2026-07-09,true,
+Whalesburg,mining,30,1,75,5,ETH,manual-admin,whalesburg,whalesburg.com,"whalesburg mining pool ethereum",whalesburg,none,2026-07-09,true,
