@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T13:43:07+00:00",
+  "generated_at": "2026-07-09T13:47:15+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17884,6 +17884,30 @@
       ],
       "product_aliases": [
         "sunbit"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "sunpump",
+      "category": "defi",
+      "logo_path": "logos/defi/sunpump.png",
+      "keywords": [
+        "sunpump tron meme launchpad pump"
+      ],
+      "product_aliases": [
+        "sunpump"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "suprnova",
+      "category": "mining",
+      "logo_path": "logos/mining/suprnova.png",
+      "keywords": [
+        "suprnova mining pool altcoin"
+      ],
+      "product_aliases": [
+        "suprnova"
       ],
       "sanctioned": false
     }
