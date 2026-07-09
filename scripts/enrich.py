@@ -6,9 +6,11 @@ disables the freshness gate to re-check everything.
 
 Pipeline per candidate:
     1. if logos/_manual/<cat>/<slug>.png exists → copy over, set manual
-    2. else: Arkham -> Brandfetch -> DefiLlama -> Favicon; first hit wins
-    3. normalize -> 160x160 RGBA PNG
-    4. sha256 check: write + update CSV only if bytes changed
+    2. else if logos/<cat>/<slug>.png exists on disk AND sha256 matches
+       logo_hash in CSV → skip (disk is source of truth, CDN may differ)
+    3. else: Arkham -> Brandfetch -> DefiLlama -> Favicon; first hit wins
+    4. normalize -> 160x160 RGBA PNG
+    5. sha256 check: write + update CSV only if bytes changed
 
 After the walk, rewrite logos/_index.json for consumers that want
 existence checks without a 404 round-trip.
@@ -206,7 +208,7 @@ def run(
         "scanned": 0,
         "hit_manual": 0, "hit_arkham": 0, "hit_brandfetch": 0,
         "hit_defillama": 0, "hit_favicon": 0, "hit_placeholder": 0,
-        "miss": 0, "unchanged": 0,
+        "miss": 0, "unchanged": 0, "disk_ok": 0,
         "written": 0, "normalize_fail": 0,
     }
 
@@ -252,6 +254,27 @@ def run(
                 raw = manual
                 source = STATUS_MANUAL
             else:
+                # Step 0: if a logo file already exists on disk and its
+                # sha256 matches logo_hash in the CSV, the file IS the
+                # source of truth — don't replace it with whatever the
+                # external CDN returns today (content can change, e.g.
+                # Arkham swaps their icon). Only skip this gate when
+                # --force is passed or the status is placeholder/none
+                # (those need a real logo, not just the existing bytes).
+                existing_path = logo_path_for(row.category_slug, row.slug)
+                if (
+                    not force
+                    and row.logo_hash
+                    and row.logo_status not in (STATUS_NONE, STATUS_PLACEHOLDER)
+                    and existing_path is not None
+                    and existing_path.exists()
+                    and sha256_hex(existing_path.read_bytes()) == row.logo_hash
+                ):
+                    counters["disk_ok"] += 1
+                    if verbose:
+                        log(f"disk-ok {row.entity_name}")
+                    continue
+
                 result = _try_auto(row, client)
                 if result is not None:
                     source, raw = result
@@ -354,6 +377,7 @@ def main() -> int:
     print(f"defillama:      {c['hit_defillama']}")
     print(f"favicon:        {c['hit_favicon']}")
     print(f"placeholder:    {c['hit_placeholder']}")
+    print(f"disk-ok (skip): {c['disk_ok']}")
     print(f"unchanged:      {c['unchanged']}")
     print(f"written:        {c['written']}")
     print(f"normalize fail: {c['normalize_fail']}")
