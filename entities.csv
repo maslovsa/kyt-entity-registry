@@ -2361,3 +2361,4 @@ Multibit,wallet,50,1,75,5,ETH|BSC|POLYGON|ARBITRUM|AVALANCHE|OPTIMISM|BASE|BTC,m
 Native Gaming,gambling,50,1,75,5,ETH,manual-admin,native-gaming,nativegaming.io,"native gaming nativegaming casino",,manual,2026-07-09,true,0fa7297533a4f8297ac87cccfeb097e1e03b046178a01ee1c7168c103a24916e
 NEST Protocol,defi,50,1,75,5,ETH|BSC,manual-admin,nest-protocol,nestprotocol.org,"nest protocol ntoken oracle",,manual,2026-07-09,true,dc4ebef7e5a15b5422f14867cd2af43c086a7c7c4b240c1756e463d2b5576800
 Omgfin,exchange,50,1,75,5,TRON|ETH|BSC|POLYGON|ARBITRUM|AVALANCHE|OPTIMISM|BASE,manual-admin,omgfin,omgfin.com,"omgfin exchange",,manual,2026-07-09,true,7e48075634e95b3f9da4206dcc6c24b0999620a71a9ab8e8435034257d9b2169
+PayKassa.pro,psp,50,1,75,5,TRON|ETH|BSC|POLYGON|ARBITRUM|AVALANCHE|OPTIMISM|BASE,manual-admin,paykassa-pro,paykassa.pro,"paykassa payment gateway crypto",,manual,2026-07-09,true,fc3b18489a7df809a42290d5a49961321b065fa5fba8892bed087dfa639c0bb2

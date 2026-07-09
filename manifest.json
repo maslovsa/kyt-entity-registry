@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T13:15:25+00:00",
+  "generated_at": "2026-07-09T13:17:38+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17711,6 +17711,16 @@
       "logo_path": "logos/exchanges/omgfin.png",
       "keywords": [
         "omgfin exchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "paykassa-pro",
+      "category": "psp",
+      "logo_path": "logos/psp/paykassa-pro.png",
+      "keywords": [
+        "paykassa payment gateway crypto"
       ],
       "product_aliases": [],
       "sanctioned": false
