@@ -2401,3 +2401,6 @@ Whalesburg,mining,30,1,75,5,ETH,manual-admin,whalesburg,whalesburg.com,"whalesbu
 WINk,gambling,50,1,75,5,TRON|ETH|BSC,manual-admin,wink,wink.live,"wink win gaming tron gambling token",wink win,manual,2026-07-09,true,fdf7ce9bf926c2e5a749c0ad21ca045dcfab00d303c7a6135f627fa3ae196807
 Wintermute,defi,60,1,75,5,ETH|BSC|SOL,manual-admin,wintermute,wintermute.com,"wintermute market maker algorithmic trading",wintermute,manual,2026-07-09,true,e61be5e8c2e00ee8a3548923d5e8a28d7c65e2f9563bd98b5c8babe977cda848
 Xether.io,exchange,30,1,75,5,ETH,manual-admin,xether-io,xether.io,"xether eth exchange",xether,manual,2026-07-09,true,cc659349ed0a0d9ecbef87b28874d45ad83a3e108ab6526d2beab2c210073f0c
+Yolo.com (Coingaming),gambling,50,1,75,5,BTC|ETH|TRON,manual-admin,yolo-com-coingaming,yolo.com,"yolo coingaming casino gambling crypto",yolo coingaming,manual,2026-07-09,true,3b2e6eac48076f216003be0d52e818fa4715a39f67284b6efda8ae35e6c80c3e
+YUNBI,exchange,40,1,75,5,BTC|ETH,manual-admin,yunbi,yunbi.com,"yunbi chinese exchange btc eth",yunbi,manual,2026-07-09,true,a1fbf5649dc2c4f1d462df9b5c81c1c37f6e82d205f9d0a1699a12614c08bc21
+ZBX (Zillion Bits),exchange,40,1,75,5,ETH|BTC,manual-admin,zbx-zillion-bits,zbx.com,"zbx zillion bits latvian exchange european",zbx zillion bits,manual,2026-07-09,true,1ff642f810a6f1aa60ad48b3345fe608904c965fd7a24cc630cbd341165a8d26

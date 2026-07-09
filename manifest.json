@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T14:21:07+00:00",
+  "generated_at": "2026-07-09T14:25:10+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -18027,6 +18027,42 @@
       ],
       "product_aliases": [
         "xether"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "yolo-com-coingaming",
+      "category": "gambling",
+      "logo_path": "logos/gambling/yolo-com-coingaming.png",
+      "keywords": [
+        "yolo coingaming casino gambling crypto"
+      ],
+      "product_aliases": [
+        "yolo coingaming"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "yunbi",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/yunbi.png",
+      "keywords": [
+        "yunbi chinese exchange btc eth"
+      ],
+      "product_aliases": [
+        "yunbi"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "zbx-zillion-bits",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/zbx-zillion-bits.png",
+      "keywords": [
+        "zbx zillion bits latvian exchange european"
+      ],
+      "product_aliases": [
+        "zbx zillion bits"
       ],
       "sanctioned": false
     }
