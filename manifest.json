@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T12:56:38+00:00",
+  "generated_at": "2026-07-09T13:00:09+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17661,6 +17661,26 @@
       "logo_path": "logos/defi/livepeer.png",
       "keywords": [
         "livepeer lpt video streaming"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "minedtrade-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/minedtrade-com.png",
+      "keywords": [
+        "minedtrade mined trade"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "multibit",
+      "category": "wallet",
+      "logo_path": "logos/wallet/multibit.png",
+      "keywords": [
+        "multibit bitcoin wallet"
       ],
       "product_aliases": [],
       "sanctioned": false
