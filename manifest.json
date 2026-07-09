@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T12:13:32+00:00",
+  "generated_at": "2026-07-09T12:17:19+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17491,6 +17491,30 @@
         "e2m",
         "wayi",
         "easy2mine.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ethereumpool-co",
+      "category": "mining",
+      "logo_path": "logos/mining/ethereumpool-co.png",
+      "keywords": [
+        "ethereumpool",
+        "ethereumpool.co",
+        "ethereum pool mining"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "etherflip",
+      "category": "gambling",
+      "logo_path": "logos/gambling/etherflip.png",
+      "keywords": [
+        "etherflip",
+        "etherflip.com",
+        "ether flip gambling"
       ],
       "product_aliases": [],
       "sanctioned": false
