@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T14:21:02+00:00",
+  "generated_at": "2026-07-09T14:21:07+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17991,6 +17991,42 @@
       ],
       "product_aliases": [
         "wallet telegram"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "wink",
+      "category": "gambling",
+      "logo_path": "logos/gambling/wink.png",
+      "keywords": [
+        "wink win gaming tron gambling token"
+      ],
+      "product_aliases": [
+        "wink win"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "wintermute",
+      "category": "defi",
+      "logo_path": "logos/defi/wintermute.png",
+      "keywords": [
+        "wintermute market maker algorithmic trading"
+      ],
+      "product_aliases": [
+        "wintermute"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "xether-io",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/xether-io.png",
+      "keywords": [
+        "xether eth exchange"
+      ],
+      "product_aliases": [
+        "xether"
       ],
       "sanctioned": false
     }
