@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T12:23:11+00:00",
+  "generated_at": "2026-07-09T12:25:44+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17566,6 +17566,32 @@
         "fck.com",
         "fck token",
         "meme token"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "fei-protocol",
+      "category": "defi",
+      "logo_path": "logos/defi/fei-protocol.png",
+      "keywords": [
+        "fei",
+        "fei protocol",
+        "fei money",
+        "fei usd",
+        "tribe dao"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "flata-exchange",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/flata-exchange.png",
+      "keywords": [
+        "flata",
+        "flata exchange",
+        "flata.exchange"
       ],
       "product_aliases": [],
       "sanctioned": false
