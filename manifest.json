@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T14:06:41+00:00",
+  "generated_at": "2026-07-09T14:09:52+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17944,6 +17944,30 @@
       ],
       "product_aliases": [
         "transit swap"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "verox",
+      "category": "defi",
+      "logo_path": "logos/defi/verox.png",
+      "keywords": [
+        "verox vex token defi"
+      ],
+      "product_aliases": [
+        "verox vex"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "vesper-finance",
+      "category": "defi",
+      "logo_path": "logos/defi/vesper-finance.png",
+      "keywords": [
+        "vesper finance vsp yield defi"
+      ],
+      "product_aliases": [
+        "vesper vsp"
       ],
       "sanctioned": false
     }

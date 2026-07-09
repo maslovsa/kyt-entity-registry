@@ -2392,3 +2392,6 @@ Trade.io,exchange,30,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE|TRO
 Transit Finance,defi,60,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE|TRON,manual-admin,transit-finance,transit.finance,"transit finance swap bridge defi",transit swap,manual,2026-07-09,true,fee5a6bf37fddce7f9c099d96dbf1795ce104c9c37cbb7d1bba57604675e9a9a
 Unifi Protocol,defi,30,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE|TRON,manual-admin,unifi-protocol,unifiprotocol.com,"unifi protocol dex defi",unifi up,none,2026-07-09,true,
 Uswap.me,dex,40,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE|TRON,manual-admin,uswap-me,uswap.me,"uswap dex multi-chain defi",uswap,none,2026-07-09,true,
+Verox,defi,30,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE,manual-admin,verox,verox.com,"verox vex token defi",verox vex,manual,2026-07-09,true,5cb66ae85702f0e19f1c19f4a1e4b9162c4ba12fa4aaf7ec6caccc906df6a577
+Vesper Finance,defi,50,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE,manual-admin,vesper-finance,vesper.finance,"vesper finance vsp yield defi",vesper vsp,manual,2026-07-09,true,4161623bfeb164c83c25c3a5828cc8b1c23f738071458350b29f89e292c79d72
+Virtue Poker,gambling,40,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE,manual-admin,virtue-poker,virtue.poker,"virtue poker ethereum blockchain poker",virtue poker vpu,none,2026-07-09,true,
