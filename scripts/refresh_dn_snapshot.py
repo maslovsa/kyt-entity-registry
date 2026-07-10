@@ -1,21 +1,24 @@
 """Refresh dn_snapshot.json — the cached vasp_entities.display_name map.
 
 Fetches the current list from the aegis-platform Supabase project via the
-Management API SQL endpoint. Runs weekly (GHA workflow_dispatch or cron) to
-keep the semantic validator's expectations in sync with what the UI actually
-resolves at runtime.
+Management API SQL endpoint, so the semantic validator's expectations stay
+in sync with what the UI actually resolves at runtime.
 
-The snapshot is committed BACK into the registry repo so PR checks work
-without any live DB access — they compare the manifest against whatever
-the last refresh saw.
+**RUN LOCALLY, NOT IN CI.** The required Supabase PAT has sql:execute
+scope on the whole project — too much power to hold as a secret on a
+public repo. Run this on your workstation with your local .env creds,
+then commit the resulting dn_snapshot.json.
 
-Required env vars (set as GHA repository secrets in kyt-entity-registry):
+Required env vars (from aegis-platform/.env):
   SUPABASE_ACCESS_TOKEN — Personal Access Token with sql:execute scope
   SUPABASE_PROJECT_REF  — project ref (e.g. ykvgssjonwlddvfsxjrk)
 
-Usage:
-  python3 scripts/refresh_dn_snapshot.py                   # write dn_snapshot.json
-  python3 scripts/refresh_dn_snapshot.py --output /tmp/x   # custom path
+Usage (weekly, or whenever vasp_entities.display_name changes):
+  set -a; . /path/to/aegis-platform/.env; set +a
+  python3 scripts/refresh_dn_snapshot.py     # writes dn_snapshot.json
+  git add dn_snapshot.json
+  git commit -m 'chore: refresh dn_snapshot.json'
+  git push
 """
 from __future__ import annotations
 
