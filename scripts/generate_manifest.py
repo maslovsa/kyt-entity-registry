@@ -72,7 +72,8 @@ import sys
 from pathlib import Path
 from typing import List, Optional
 
-import httpx  # already in apps/data requirements
+# httpx is only needed for --from-cdn; imported lazily inside load_csv() so
+# a minimal CI environment (offline validate.yml) doesn't have to install it.
 
 REGISTRY_CSV_URL = (
     "https://cdn.jsdelivr.net/gh/maslovsa/kyt-entity-registry@main/entities.csv"
@@ -135,6 +136,7 @@ def _parse_list(raw: str) -> List[str]:
 
 def load_csv(path: Optional[Path] = None, from_cdn: bool = False) -> List[dict]:
     if from_cdn:
+        import httpx  # lazy — only when --from-cdn is used
         print("Fetching live entities.csv from CDN...", file=sys.stderr)
         r = httpx.get(REGISTRY_CSV_URL, timeout=30, follow_redirects=True)
         r.raise_for_status()
