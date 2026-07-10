@@ -18,6 +18,7 @@ from __future__ import annotations
 
 import io
 import ipaddress
+import logging
 import re
 import socket
 from functools import lru_cache
@@ -26,6 +27,8 @@ from urllib.parse import urljoin, urlparse
 
 import httpx
 from PIL import Image
+
+logger = logging.getLogger(__name__)
 
 _UA = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -52,9 +55,31 @@ _MAX_CANDIDATES = 6    # stop probing after this many
 # public IP at check time and a private one at connect time). For
 # the threat model — attacker influences entities.csv via a
 # reviewed PR — we accept this gap.
+#
+# Known domain-parking / registrar-monetization CIDRs. These serve
+# template landing pages for expired/dead domains and are sometimes
+# re-sold to phishing operators. Legitimate favicons never live here,
+# so we refuse to fetch regardless of routability.
+# 2026-07-09: added after enrich_from_favicon followed
+# protocolmonsters.com to 162.255.119.99 (Namecheap parking),
+# triggering a network-egress alert.
+_PARKING_NETWORKS = tuple(
+    ipaddress.ip_network(n)
+    for n in (
+        "162.255.116.0/22",  # Namecheap NCNET-5 parking
+        "199.59.242.0/23",  # Bodis LLC parking
+        "199.188.200.0/22",  # Bluehost/HostGator parking
+        "185.53.176.0/22",  # Team Internet / above.com parking
+        "204.11.56.0/21",  # DomainMarket / HugeDomains
+        "208.100.0.0/16",  # Sedo parking (partial)
+    )
+)
+
+
 def _is_public_host(host: str) -> bool:
-    """True iff `host` resolves exclusively to globally-routable IPs.
-    Empty host, resolution failure, or any non-global answer → False."""
+    """True iff `host` resolves exclusively to globally-routable IPs
+    that are not known domain-parking networks. Empty host, resolution
+    failure, or any non-global/parking answer → False."""
     if not host:
         return False
     try:
@@ -74,6 +99,14 @@ def _is_public_host(host: str) -> bool:
         # Excludes loopback, link-local, private, multicast, reserved.
         if not ip.is_global:
             return False
+        for net in _PARKING_NETWORKS:
+            if ip in net:
+                logger.warning(
+                    "refusing fetch: host %s resolves to %s in known "
+                    "parking network %s — entity is likely dead/parked",
+                    host, ip, net,
+                )
+                return False
     return True
 
 
@@ -91,6 +124,26 @@ def _url_host_allowed(url: str) -> bool:
     except ValueError:
         return False
     return _host_allowed((host or "").lower())
+
+
+def _same_origin(base_url: str, link_url: str) -> bool:
+    """True iff `link_url`'s hostname is the same entity as `base_url`'s
+    (ignoring a "www." prefix on either side).
+
+    HTML-declared icons can point anywhere — a compromised or parked
+    page could serve `<link rel="icon" href="https://attacker.tld/x">`
+    and we'd otherwise fetch and ship it as the entity's logo. Confine
+    to the domain we were actually told to enrich."""
+    try:
+        b = urlparse(base_url).hostname or ""
+        l = urlparse(link_url).hostname or ""
+    except ValueError:
+        return False
+    if not b or not l:
+        return False
+    b = b[4:] if b.startswith("www.") else b
+    l = l[4:] if l.startswith("www.") else l
+    return b == l
 
 
 # Static fallbacks tried when HTML doesn't expose any <link rel="icon">.
@@ -177,6 +230,10 @@ def _candidates(domain: str, client: httpx.Client) -> Iterable[str]:
         # could <link rel="icon" href="http://169.254.169.254/">.
         # Check each host before we yield.
         if not _url_host_allowed(url):
+            continue
+        # ...or off-domain entirely, e.g. a parked page's tracker pixel
+        # disguised as a favicon link. Only trust same-origin icons.
+        if not _same_origin(base, url):
             continue
         seen.add(url)
         yield url

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-10T16:02:44+00:00",
+  "generated_at": "2026-07-10T17:01:11+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17564,20 +17564,6 @@
         "privasea"
       ],
       "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "ren-protocol",
-      "category": "defi",
-      "logo_path": "logos/defi/ren-protocol.png",
-      "keywords": [
-        "ren",
-        "ren protocol",
-        "ren bridge"
-      ],
-      "product_aliases": [
-        "ren renvm"
-      ],
       "sanctioned": false
     },
     {
