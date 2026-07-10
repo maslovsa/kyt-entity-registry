@@ -2381,3 +2381,4 @@ Zethr Casino,gambling,30,1,75,5,ETH,manual-admin,zethr-casino,zethr.io,zethr cas
 Zethyr Exchange,exchange,20,1,75,5,ETH,manual-admin,zethyr-exchange,zethyr.com,zethyr exchange eth,zethyr,none,2026-07-09,true,
 Zipmex,exchange,50,1,75,5,ETH|BTC|XRP,manual-admin,zipmex,zipmex.com,zipmex,,manual,2026-07-09,true,cd0a552e0997274440601d8aafbfb92c45f74734f59a241ede660dca4da16ca2
 Onion Market,exchange,60,3,75,50,TRON,manual-admin,onion-market,t.me/onionmarket_bot,"onion market,onionmarket",,manual,2026-07-09,true,dd939afeec0f17f38987c6178485884b78b93eac1e38c8385bde6581829e65b1
+Tether,psp,500,8412,90,5,ETH|TRON|BSC|POLYGON|AVALANCHE|ARBITRUM,manual-admin,tether,tether.to,"tether,tether.to,tetherusd","USDT,USDt",manual,2026-07-10,true,ee494110c05491d4b2d849941126c229e782501d9ca47585f7f1fde47b340763

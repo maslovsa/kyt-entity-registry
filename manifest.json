@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-10T09:37:53+00:00",
+  "generated_at": "2026-07-10T16:02:44+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17877,6 +17877,21 @@
         "onionmarket"
       ],
       "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tether",
+      "category": "psp",
+      "logo_path": "logos/psp/tether.png",
+      "keywords": [
+        "tether",
+        "tether.to",
+        "tetherusd"
+      ],
+      "product_aliases": [
+        "USDT",
+        "USDt"
+      ],
       "sanctioned": false
     }
   ]
