@@ -1,0 +1,46 @@
+name: validate
+
+on:
+  pull_request:
+    paths:
+      - "entities.csv"
+      - "manifest.json"
+      - "dn_snapshot.json"
+      - ".validator_known_dups.txt"
+      - "scripts/generate_manifest.py"
+      - "scripts/validate_manifest.py"
+      - ".github/workflows/validate.yml"
+  push:
+    branches: [main]
+    paths:
+      - "entities.csv"
+      - "manifest.json"
+      - "dn_snapshot.json"
+      - ".validator_known_dups.txt"
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683  # v5
+
+      - uses: actions/setup-python@0b93645e9fea7318ecaed2b359559ac225c90a2b  # v5
+        with:
+          python-version: "3.12"
+
+      - name: Regenerate manifest.json from entities.csv
+        # Regenerate rather than trust the committed one — makes it impossible
+        # to land an entities.csv edit whose manifest wasn't refreshed. If the
+        # regen diff is non-empty vs the committed manifest, the check fails.
+        run: |
+          python3 scripts/generate_manifest.py --input entities.csv --output /tmp/manifest_regen.json
+          if ! diff -q manifest.json /tmp/manifest_regen.json > /dev/null; then
+            echo "::error::manifest.json is stale — regenerate it locally:"
+            echo "  python3 scripts/generate_manifest.py --input entities.csv --output manifest.json"
+            diff manifest.json /tmp/manifest_regen.json | head -40 || true
+            exit 1
+          fi
+
+      - name: Validate manifest against static rules + dn_snapshot
+        run: python3 scripts/validate_manifest.py

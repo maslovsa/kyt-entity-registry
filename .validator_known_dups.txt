@@ -1,0 +1,18 @@
+# arkham_slug values that intentionally appear on 2+ rows in entities.csv.
+# Each row here is grandfathered — validate_manifest.py will not fail on
+# these. NEW duplicate slugs (not listed here) block the PR.
+#
+# To resolve a slug: merge the CSV rows in entities.csv (keep the fuller
+# metadata, unite keywords/aliases) then delete the entry from this file.
+1inch-network
+clipper-exchange
+curve-fi
+li-fi
+maple-finance
+metamask-io
+nobitex-ir
+pancakeswap
+spookyswap
+stargate-finance
+uniswap
+wink

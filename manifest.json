@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-10T09:06:31+00:00",
+  "generated_at": "2026-07-10T09:18:14+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -1404,10 +1404,7 @@
         "advanced cash",
         "advcash.com"
       ],
-      "product_aliases": [
-        "Advcash",
-        "Advanced Cash"
-      ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -2094,17 +2091,6 @@
       "keywords": [
         "tether gold",
         "tether-gold"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "tornado-cash",
-      "category": "mixer",
-      "logo_path": "logos/mixer/tornado-cash.png",
-      "keywords": [
-        "tornado cash",
-        "tornado"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -6790,9 +6776,7 @@
         "f-change.biz",
         "f-change.cc"
       ],
-      "product_aliases": [
-        "F-change.biz"
-      ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -11515,18 +11499,6 @@
       "sanctioned": false
     },
     {
-      "slug": "wallet-in-telegram",
-      "category": "wallet",
-      "logo_path": "logos/wallet/wallet-in-telegram.png",
-      "keywords": [
-        "wallet in telegram",
-        "wallet telegram",
-        "wallet.tg"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "wanswap",
       "category": "dex",
       "logo_path": "logos/dex/wanswap.png",
@@ -13931,8 +13903,8 @@
       "logo_path": "logos/psp/zerohash-com.png",
       "keywords": [
         "zero hash",
-        "\"zerohash",
-        "zero hash\""
+        "zerohash",
+        "zerohash.com"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -16951,6 +16923,7 @@
       "category": "dex",
       "logo_path": "logos/dex/waves-tech.png",
       "keywords": [
+        "waves tech",
         "waves.tech",
         "waves-tech"
       ],
@@ -17372,7 +17345,9 @@
       "category": "mixer",
       "logo_path": "logos/mixer/etherscan-mixing-service.png",
       "keywords": [
-        "etherscan mixing service"
+        "etherscan mixing service",
+        "etherscan-mixing-service",
+        "etherscan mixing_service"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -17841,11 +17816,11 @@
       "category": "defi",
       "logo_path": "logos/defi/sky-makerdao.png",
       "keywords": [
-        "sky makerdao dai maker mkr defi"
+        "sky (makerdao)",
+        "makerdao",
+        "sky.money"
       ],
-      "product_aliases": [
-        "maker dai mkr sky"
-      ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -17866,9 +17841,7 @@
         "spark pool",
         "sparkpool"
       ],
-      "product_aliases": [
-        "sparkpool"
-      ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -17958,11 +17931,10 @@
       "category": "defi",
       "logo_path": "logos/defi/tfl.png",
       "keywords": [
-        "terraform labs terra luna lunc ustc"
+        "tfl (terraform labs)",
+        "terraform labs"
       ],
-      "product_aliases": [
-        "terraform labs terra luna lunc ust"
-      ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -17970,11 +17942,11 @@
       "category": "mixer",
       "logo_path": "logos/mixer/tornado-cash.png",
       "keywords": [
-        "tornado cash mixer privacy protocol"
+        "tornado cash",
+        "tornado",
+        "tornado.cash"
       ],
-      "product_aliases": [
-        "tornado cash tornado"
-      ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -18012,11 +17984,11 @@
       "category": "wallet",
       "logo_path": "logos/wallet/wallet-in-telegram.png",
       "keywords": [
-        "wallet telegram ton custodial"
+        "wallet in telegram",
+        "wallet telegram",
+        "wallet.tg"
       ],
-      "product_aliases": [
-        "wallet telegram"
-      ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -18044,11 +18016,10 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/xether-io.png",
       "keywords": [
-        "xether eth exchange"
-      ],
-      "product_aliases": [
+        "xether.io",
         "xether"
       ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -18079,11 +18050,11 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/zbx-zillion-bits.png",
       "keywords": [
-        "zbx zillion bits latvian exchange european"
+        "zbx (zillion bits)",
+        "zillion bits",
+        "zbx.com"
       ],
-      "product_aliases": [
-        "zbx zillion bits"
-      ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
