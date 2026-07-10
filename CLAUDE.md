@@ -153,6 +153,34 @@ Elliptic logos — those brands are paid-only and we have no license
 to redistribute). Only freely-licensed or fair-use-for-identification
 brand assets.
 
+### C4a. SSL verification is non-negotiable
+
+Never disable SSL certificate verification in any HTTP client — not in
+one-off scripts, not in subagents, not in debug heredocs, not in
+production code:
+
+- Python: `ssl.CERT_NONE`, `context.check_hostname = False`,
+  `httpx.Client(verify=False)`, `requests.get(..., verify=False)`.
+- CLI: `curl -k` / `--insecure`, `wget --no-check-certificate`.
+- Node: `NODE_TLS_REJECT_UNAUTHORIZED=0`, `rejectUnauthorized: false`.
+
+If a certificate is truly broken — fail loudly. Bubble the traceback
+up. Do NOT silently downgrade to plaintext trust.
+
+**Why.** This repo enriches from arbitrary third-party domains
+(favicon crawl in C4.5). Disabling verify masks MITM and DNS-hijack
+scenarios — exactly the class of attack the SSRF guard in
+`enrich_from_favicon.py` exists to detect. A subagent that trades
+verify-off for a Cloudflare-challenge workaround defeats the entire
+guardrail.
+
+If a cert failure blocks progress, open an issue naming the domain and
+the exact error. Do not paper over it.
+
+Real incident (2026-06-29): a charity-logos subagent set
+`ssl.CERT_NONE` because Cloudflare returned a bot-challenge cert.
+No harm that time — but the pattern must not spread.
+
 ### C5. Commit hygiene
 
 - Nightly cron commits as `github-actions[bot]`, format:
