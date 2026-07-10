@@ -14,6 +14,8 @@ from scripts.enrich_from_favicon import _is_public_host, _same_origin
         ("169.254.169.254", False),  # AWS/GCP metadata
         ("10.0.0.1", False),
         ("192.168.1.1", False),
+        ("::ffff:162.255.119.99", False),  # IPv4-mapped IPv6 parking IP
+        ("2606:4700:4700::1111", True),  # ordinary public IPv6
     ],
 )
 def test_public_host_blocks_parking(ip, ok):

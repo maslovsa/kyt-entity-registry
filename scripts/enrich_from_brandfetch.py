@@ -60,7 +60,17 @@ def fetch(domain: str, client: httpx.Client | None = None) -> bytes | None:
     """Return raw logo bytes (typically webp) or None."""
     if not domain:
         return None
-    domain = domain.strip().lower().lstrip("https://").lstrip("http://").strip("/")
+    domain = domain.strip().lower()
+    # Strip a leading scheme, if any. `str.lstrip("https://")` looks
+    # tempting here but strips *characters* in that set, not the
+    # prefix string — it mangles domains starting with h/t/p/s
+    # (e.g. "tether.to" -> "ether.to"). Python 3.8 is still a
+    # supported target (see requirements.txt), so no removeprefix().
+    for scheme in ("https://", "http://"):
+        if domain.startswith(scheme):
+            domain = domain[len(scheme):]
+            break
+    domain = domain.strip("/")
     if not domain:
         return None
 

@@ -99,14 +99,21 @@ def _is_public_host(host: str) -> bool:
         # Excludes loopback, link-local, private, multicast, reserved.
         if not ip.is_global:
             return False
-        for net in _PARKING_NETWORKS:
-            if ip in net:
-                logger.warning(
-                    "refusing fetch: host %s resolves to %s in known "
-                    "parking network %s — entity is likely dead/parked",
-                    host, ip, net,
-                )
-                return False
+        # Unwrap IPv4-mapped IPv6 (::ffff:a.b.c.d) before the CIDR
+        # comparison below — an IPv6Address never matches an
+        # IPv4Network via `in` (silently False, no exception), so
+        # without this a parked host answering with an IPv4-mapped
+        # AAAA record would sail past _PARKING_NETWORKS undetected.
+        check_ip = ip.ipv4_mapped if isinstance(ip, ipaddress.IPv6Address) else ip
+        if check_ip is not None:
+            for net in _PARKING_NETWORKS:
+                if check_ip.version == net.version and check_ip in net:
+                    logger.warning(
+                        "refusing fetch: host %s resolves to %s in known "
+                        "parking network %s — entity is likely dead/parked",
+                        host, ip, net,
+                    )
+                    return False
     return True
 
 

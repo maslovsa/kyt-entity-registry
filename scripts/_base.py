@@ -78,6 +78,27 @@ _STRIP_SUFFIXES = [
     " labs", " foundation", " dao", " pool", " swap",
 ]
 
+# `slug` (usually the raw `arkham_slug` CSV column — see Row.slug) is used
+# to build filesystem paths below. Unlike category_slug (looked up in a
+# fixed CATEGORY_TO_DIR allowlist), the slug itself is free text supplied
+# by whoever proposes an entities.csv row/re-export (see docs/PROVIDERS.md
+# — the PR review checklist doesn't validate per-row slug format). Reject
+# anything that isn't a plain lowercase-dash token before it ever reaches
+# a path, and confirm the resolved path still lands inside LOGOS_DIR as a
+# second, independent check.
+_SLUG_RE = re.compile(r"^[a-z0-9][a-z0-9-]*$")
+
+
+def _safe_slug_path(base: Path, slug: str) -> Path | None:
+    if not slug or not _SLUG_RE.match(slug):
+        return None
+    path = base / f"{slug}.png"
+    try:
+        path.resolve().relative_to(base.resolve())
+    except ValueError:
+        return None
+    return path
+
 
 def entity_slug(entity_name: str) -> str:
     """Normalize entity_name -> filesystem slug. Mirrors CONSUMERS.md."""
@@ -97,16 +118,16 @@ def logo_dir_for(category_slug: str) -> Path | None:
 
 def logo_path_for(category_slug: str, slug: str) -> Path | None:
     d = logo_dir_for(category_slug)
-    if d is None or not slug:
+    if d is None:
         return None
-    return d / f"{slug}.png"
+    return _safe_slug_path(d, slug)
 
 
 def manual_path_for(category_slug: str, slug: str) -> Path | None:
     d = CATEGORY_TO_DIR.get(category_slug)
-    if not d or not slug:
+    if not d:
         return None
-    return MANUAL_DIR / d / f"{slug}.png"
+    return _safe_slug_path(MANUAL_DIR / d, slug)
 
 
 def sha256_hex(data: bytes) -> str:
