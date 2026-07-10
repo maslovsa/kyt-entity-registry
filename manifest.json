@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-10T17:01:11+00:00",
+  "generated_at": "2026-07-10T17:41:42+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17878,6 +17878,17 @@
         "USDT",
         "USDt"
       ],
+      "sanctioned": false
+    },
+    {
+      "slug": "fabur",
+      "category": "merchant",
+      "logo_path": "logos/merchant/fabur.png",
+      "keywords": [
+        "fabur",
+        "faburstock"
+      ],
+      "product_aliases": [],
       "sanctioned": false
     }
   ]
