@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-10T09:18:14+00:00",
+  "generated_at": "2026-07-10T09:37:53+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -944,18 +944,6 @@
       "sanctioned": false
     },
     {
-      "slug": "nobitex-ir",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/nobitex-ir.png",
-      "keywords": [
-        "nobitex",
-        "nobitex ir",
-        "nobitex.ir"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "nobitex-ir-iran-irgc-exposure-operator-2026-05-09",
       "category": "sanctioned",
       "logo_path": "logos/sanctioned/nobitex-ir-iran-irgc-exposure-operator-2026-05-09.png",
@@ -1309,18 +1297,6 @@
       "logo_path": "logos/exchanges/whitebit-com.png",
       "keywords": [
         "whitebit"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "wink",
-      "category": "defi",
-      "logo_path": "logos/defi/wink.png",
-      "keywords": [
-        "wink",
-        "winklink",
-        "winkdao"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -10628,16 +10604,6 @@
       "sanctioned": false
     },
     {
-      "slug": "spookyswap",
-      "category": "dex",
-      "logo_path": "logos/dex/spookyswap.png",
-      "keywords": [
-        "spookyswap"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "squadswap-wow",
       "category": "dex",
       "logo_path": "logos/dex/squadswap-wow.png",
@@ -12072,8 +12038,9 @@
       "category": "sanctioned",
       "logo_path": "logos/sanctioned/nobitex-ir.png",
       "keywords": [
-        "nobitex.ir",
-        "nobitex"
+        "nobitex",
+        "nobitex ir",
+        "nobitex.ir"
       ],
       "product_aliases": [],
       "sanctioned": true
@@ -13299,7 +13266,8 @@
       "category": "bridge",
       "logo_path": "logos/bridge/li-fi.png",
       "keywords": [
-        "li.fi"
+        "li.fi",
+        "lifi"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -13322,16 +13290,6 @@
       "keywords": [
         "odos.xyz",
         "odos"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "pancakeswap",
-      "category": "defi",
-      "logo_path": "logos/defi/pancakeswap.png",
-      "keywords": [
-        "pancakeswap"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -13847,16 +13805,6 @@
       "sanctioned": false
     },
     {
-      "slug": "uniswap",
-      "category": "defi",
-      "logo_path": "logos/defi/uniswap.png",
-      "keywords": [
-        "uniswap"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "upay",
       "category": "psp",
       "logo_path": "logos/psp/upay.png",
@@ -14082,17 +14030,6 @@
       "sanctioned": false
     },
     {
-      "slug": "metamask-io",
-      "category": "dex",
-      "logo_path": "logos/dex/metamask-io.png",
-      "keywords": [
-        "metamask.io",
-        "metamask"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "nomiswap-io",
       "category": "dex",
       "logo_path": "logos/dex/nomiswap-io.png",
@@ -14143,16 +14080,6 @@
       "keywords": [
         "scroll.io",
         "scroll"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "stargate-finance",
-      "category": "defi",
-      "logo_path": "logos/defi/stargate-finance.png",
-      "keywords": [
-        "stargate"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -14220,16 +14147,6 @@
       "logo_path": "logos/exchanges/kuna-io.png",
       "keywords": [
         "kuna"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "1inch-network",
-      "category": "defi",
-      "logo_path": "logos/defi/1inch-network.png",
-      "keywords": [
-        "1inch"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -14338,19 +14255,6 @@
       "keywords": [
         "byex",
         "byex.com"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "clipper-exchange",
-      "category": "defi",
-      "logo_path": "logos/defi/clipper-exchange.png",
-      "keywords": [
-        "clipper.exchange",
-        "clipper-exchange",
-        "clipper",
-        "sail-2"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -14560,17 +14464,6 @@
       "sanctioned": false
     },
     {
-      "slug": "metamask-io",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/metamask-io.png",
-      "keywords": [
-        "metamask",
-        "metamask.io"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "multichain",
       "category": "defi",
       "logo_path": "logos/defi/multichain.png",
@@ -14596,16 +14489,6 @@
       "logo_path": "logos/bridge/o3swap.png",
       "keywords": [
         "o3swap"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "pancakeswap",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/pancakeswap.png",
-      "keywords": [
-        "pancakeswap"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -14704,16 +14587,6 @@
       "logo_path": "logos/exchanges/coinspot.png",
       "keywords": [
         "coinspot"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "1inch-network",
-      "category": "bridge",
-      "logo_path": "logos/bridge/1inch-network.png",
-      "keywords": [
-        "1inch"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -14925,17 +14798,6 @@
       "keywords": [
         "compound.finance",
         "compound"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "curve-fi",
-      "category": "defi",
-      "logo_path": "logos/defi/curve-fi.png",
-      "keywords": [
-        "curve.fi",
-        "curve"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -15389,16 +15251,6 @@
       "keywords": [
         "syrup.fi",
         "syrup"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "uniswap",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/uniswap.png",
-      "keywords": [
-        "uniswap"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -16449,27 +16301,6 @@
       "sanctioned": false
     },
     {
-      "slug": "li-fi",
-      "category": "dex",
-      "logo_path": "logos/dex/li-fi.png",
-      "keywords": [
-        "li.fi"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "li-fi",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/li-fi.png",
-      "keywords": [
-        "li.fi",
-        "lifi"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "localcoinswap-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/localcoinswap-com.png",
@@ -16520,38 +16351,6 @@
       "logo_path": "logos/defi/maple-finance.png",
       "keywords": [
         "maple"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "maple-finance",
-      "category": "dex",
-      "logo_path": "logos/dex/maple-finance.png",
-      "keywords": [
-        "maple"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "metamask-io",
-      "category": "bridge",
-      "logo_path": "logos/bridge/metamask-io.png",
-      "keywords": [
-        "metamask.io",
-        "metamask"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "metamask-io",
-      "category": "gambling",
-      "logo_path": "logos/gambling/metamask-io.png",
-      "keywords": [
-        "metamask",
-        "metamask.io"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -16635,16 +16434,6 @@
       "keywords": [
         "p2p staking",
         "p2p-org-p2p-staking"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "pancakeswap",
-      "category": "bridge",
-      "logo_path": "logos/bridge/pancakeswap.png",
-      "keywords": [
-        "pancakeswap"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -17996,7 +17785,9 @@
       "category": "gambling",
       "logo_path": "logos/gambling/wink.png",
       "keywords": [
-        "wink"
+        "wink",
+        "winklink",
+        "winkdao"
       ],
       "product_aliases": [],
       "sanctioned": false

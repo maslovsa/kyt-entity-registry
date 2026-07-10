@@ -4,15 +4,6 @@
 #
 # To resolve a slug: merge the CSV rows in entities.csv (keep the fuller
 # metadata, unite keywords/aliases) then delete the entry from this file.
-1inch-network
-clipper-exchange
-curve-fi
-li-fi
-maple-finance
-metamask-io
-nobitex-ir
-pancakeswap
-spookyswap
-stargate-finance
-uniswap
-wink
+#
+# 2026-07-10: initial 12 grandfathered entries all merged. Keep the file
+# so future ops know the mechanism if a legitimate dup arises.
