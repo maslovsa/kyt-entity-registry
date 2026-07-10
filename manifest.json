@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-09T21:12:09+00:00",
+  "generated_at": "2026-07-10T08:49:25+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17622,7 +17622,7 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/kickex.png",
       "keywords": [
-        "kickex kick exchange"
+        "kickex"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -17632,7 +17632,7 @@
       "category": "custodian",
       "logo_path": "logos/custodian/klever.png",
       "keywords": [
-        "klever klv wallet exchange tron"
+        "klever"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -17666,7 +17666,7 @@
       "category": "defi",
       "logo_path": "logos/defi/leverj.png",
       "keywords": [
-        "leverj l2 dex perpetual futures"
+        "leverj"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -17687,7 +17687,7 @@
       "category": "defi",
       "logo_path": "logos/defi/livepeer.png",
       "keywords": [
-        "livepeer lpt video streaming"
+        "livepeer"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -17707,7 +17707,7 @@
       "category": "wallet",
       "logo_path": "logos/wallet/multibit.png",
       "keywords": [
-        "multibit bitcoin wallet"
+        "multibit"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -17757,7 +17757,7 @@
       "category": "defi",
       "logo_path": "logos/defi/polygon.png",
       "keywords": [
-        "polygon matic network layer2"
+        "polygon"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -17767,7 +17767,7 @@
       "category": "mining",
       "logo_path": "logos/mining/poolin.png",
       "keywords": [
-        "poolin mining pool bitcoin"
+        "poolin"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -17777,7 +17777,7 @@
       "category": "defi",
       "logo_path": "logos/defi/privasea.png",
       "keywords": [
-        "privasea privacy ai depin"
+        "privasea"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -17801,11 +17801,9 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/resfinex.png",
       "keywords": [
-        "resfinex exchange"
-      ],
-      "product_aliases": [
         "resfinex"
       ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -17813,11 +17811,9 @@
       "category": "dex",
       "logo_path": "logos/dex/shapeshift.png",
       "keywords": [
-        "shapeshift dex crypto exchange fox"
+        "shapeshift"
       ],
-      "product_aliases": [
-        "fox shapeshift fox token"
-      ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -17886,11 +17882,9 @@
       "category": "gambling",
       "logo_path": "logos/gambling/splinterlands.png",
       "keywords": [
-        "splinterlands nft card game blockchain"
+        "splinterlands"
       ],
-      "product_aliases": [
-        "splinterlands sps dec"
-      ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -17898,11 +17892,9 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/streamity.png",
       "keywords": [
-        "streamity p2p exchange"
+        "streamity"
       ],
-      "product_aliases": [
-        "streamity stm"
-      ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -17910,11 +17902,9 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/sunbit.png",
       "keywords": [
-        "sunbit tron exchange"
-      ],
-      "product_aliases": [
         "sunbit"
       ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -17922,11 +17912,9 @@
       "category": "defi",
       "logo_path": "logos/defi/sunpump.png",
       "keywords": [
-        "sunpump tron meme launchpad pump"
-      ],
-      "product_aliases": [
         "sunpump"
       ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -17934,11 +17922,9 @@
       "category": "mining",
       "logo_path": "logos/mining/suprnova.png",
       "keywords": [
-        "suprnova mining pool altcoin"
-      ],
-      "product_aliases": [
         "suprnova"
       ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -17946,11 +17932,9 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/tagz.png",
       "keywords": [
-        "tagz exchange crypto"
-      ],
-      "product_aliases": [
         "tagz"
       ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -17994,11 +17978,9 @@
       "category": "defi",
       "logo_path": "logos/defi/verox.png",
       "keywords": [
-        "verox vex token defi"
+        "verox"
       ],
-      "product_aliases": [
-        "verox vex"
-      ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -18030,11 +18012,9 @@
       "category": "gambling",
       "logo_path": "logos/gambling/wink.png",
       "keywords": [
-        "wink win gaming tron gambling token"
+        "wink"
       ],
-      "product_aliases": [
-        "wink win"
-      ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -18042,11 +18022,9 @@
       "category": "defi",
       "logo_path": "logos/defi/wintermute.png",
       "keywords": [
-        "wintermute market maker algorithmic trading"
-      ],
-      "product_aliases": [
         "wintermute"
       ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -18078,11 +18056,9 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/yunbi.png",
       "keywords": [
-        "yunbi chinese exchange btc eth"
-      ],
-      "product_aliases": [
         "yunbi"
       ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -18114,11 +18090,9 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/zipmex.png",
       "keywords": [
-        "zipmex southeast asia exchange thailand singapore"
-      ],
-      "product_aliases": [
         "zipmex"
       ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
