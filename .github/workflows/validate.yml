@@ -17,6 +17,9 @@ on:
       - "manifest.json"
       - "dn_snapshot.json"
       - ".validator_known_dups.txt"
+      - "scripts/generate_manifest.py"
+      - "scripts/validate_manifest.py"
+      - ".github/workflows/validate.yml"
   workflow_dispatch:
 
 jobs:
