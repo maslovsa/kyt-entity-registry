@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-10T08:49:25+00:00",
+  "generated_at": "2026-07-10T09:06:31+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -128,6 +128,7 @@
       "category": "defi",
       "logo_path": "logos/defi/tronenergy-io.png",
       "keywords": [
+        "tronenergy",
         "tronenergy.io",
         "tronenergyio",
         "tronenergymarket",
@@ -380,6 +381,7 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/alphapo-rekt.png",
       "keywords": [
+        "alphapo - rekt",
         "alphapo rekt"
       ],
       "product_aliases": [],
@@ -521,6 +523,7 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/bitmart-rekt.png",
       "keywords": [
+        "bitmart - rekt",
         "bitmart rekt"
       ],
       "product_aliases": [],
@@ -1138,6 +1141,7 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/poloniex-rekt.png",
       "keywords": [
+        "poloniex - rekt",
         "poloniex rekt"
       ],
       "product_aliases": [],
@@ -2682,6 +2686,7 @@
       "category": "defi",
       "logo_path": "logos/defi/gmx-perps.png",
       "keywords": [
+        "gmx v2 perps",
         "gmx perps",
         "gmx-perps"
       ],
@@ -4128,6 +4133,7 @@
       "category": "defi",
       "logo_path": "logos/defi/crypto-com-liquid-staking.png",
       "keywords": [
+        "crypto liquid staking",
         "crypto.com liquid staking",
         "crypto-com-liquid-staking"
       ],
@@ -6631,6 +6637,7 @@
       "category": "mining",
       "logo_path": "logos/mining/wemix-fi-staking.png",
       "keywords": [
+        "wemix staking",
         "wemix.fi staking",
         "wemix-fi-staking"
       ],
@@ -12061,6 +12068,7 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/deribit-rekt.png",
       "keywords": [
+        "deribit - rekt",
         "deribit rekt"
       ],
       "product_aliases": [],
@@ -12071,6 +12079,7 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/lcx-rekt.png",
       "keywords": [
+        "lcx - rekt",
         "lcx rekt"
       ],
       "product_aliases": [],
@@ -12269,6 +12278,7 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/fixedfloat-com.png",
       "keywords": [
+        "fixed float",
         "fixedfloat"
       ],
       "product_aliases": [],
@@ -12402,6 +12412,7 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/mercado-bitcoin.png",
       "keywords": [
+        "mercado bitcoin",
         "mercadobitcoin"
       ],
       "product_aliases": [],
@@ -12523,6 +12534,7 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/remitano-rekt.png",
       "keywords": [
+        "remitano - rekt",
         "remitano rekt"
       ],
       "product_aliases": [],
@@ -12606,6 +12618,7 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/ascendex-rekt.png",
       "keywords": [
+        "ascendex - rekt",
         "ascendex rekt"
       ],
       "product_aliases": [],
@@ -12616,6 +12629,7 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/crypto-com-rekt.png",
       "keywords": [
+        "crypto.com - rekt",
         "crypto com rekt"
       ],
       "product_aliases": [],
@@ -13905,6 +13919,7 @@
       "category": "custodian",
       "logo_path": "logos/custodian/unitrustglobal-com.png",
       "keywords": [
+        "unitrust global",
         "unitrustglobal"
       ],
       "product_aliases": [],
@@ -13915,6 +13930,7 @@
       "category": "psp",
       "logo_path": "logos/psp/zerohash-com.png",
       "keywords": [
+        "zero hash",
         "\"zerohash",
         "zero hash\""
       ],
@@ -17085,6 +17101,7 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/coinex-rekt.png",
       "keywords": [
+        "coinex - rekt",
         "coinex rekt"
       ],
       "product_aliases": [],
@@ -17697,6 +17714,7 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/minedtrade-com.png",
       "keywords": [
+        "minedtrade.com",
         "minedtrade mined trade"
       ],
       "product_aliases": [],
@@ -17717,7 +17735,7 @@
       "category": "gambling",
       "logo_path": "logos/gambling/native-gaming.png",
       "keywords": [
-        "native gaming nativegaming casino"
+        "native gaming"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -17727,7 +17745,7 @@
       "category": "defi",
       "logo_path": "logos/defi/nest-protocol.png",
       "keywords": [
-        "nest protocol ntoken oracle"
+        "nest protocol"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -17737,6 +17755,7 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/omgfin.png",
       "keywords": [
+        "omgfin",
         "omgfin exchange"
       ],
       "product_aliases": [],
@@ -17747,6 +17766,7 @@
       "category": "psp",
       "logo_path": "logos/psp/paykassa-pro.png",
       "keywords": [
+        "paykassa.pro",
         "paykassa payment gateway crypto"
       ],
       "product_aliases": [],
@@ -17833,11 +17853,9 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/smart-valor.png",
       "keywords": [
-        "smart valor exchange regulated swiss"
-      ],
-      "product_aliases": [
         "smart valor"
       ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -17858,11 +17876,9 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/sparrow-exchange.png",
       "keywords": [
-        "sparrow exchange crypto derivatives singapore"
+        "sparrow exchange"
       ],
-      "product_aliases": [
-        "sparrow"
-      ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -17870,7 +17886,7 @@
       "category": "mining",
       "logo_path": "logos/mining/spider-pool.png",
       "keywords": [
-        "spider pool mining"
+        "spider pool"
       ],
       "product_aliases": [
         "spiderpool"
@@ -17966,11 +17982,9 @@
       "category": "defi",
       "logo_path": "logos/defi/transit-finance.png",
       "keywords": [
-        "transit finance swap bridge defi"
+        "transit finance"
       ],
-      "product_aliases": [
-        "transit swap"
-      ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -17988,11 +18002,9 @@
       "category": "defi",
       "logo_path": "logos/defi/vesper-finance.png",
       "keywords": [
-        "vesper finance vsp yield defi"
+        "vesper finance"
       ],
-      "product_aliases": [
-        "vesper vsp"
-      ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -18044,6 +18056,7 @@
       "category": "gambling",
       "logo_path": "logos/gambling/yolo-com-coingaming.png",
       "keywords": [
+        "yolo.com",
         "yolo coingaming casino gambling crypto"
       ],
       "product_aliases": [
@@ -18078,11 +18091,9 @@
       "category": "gambling",
       "logo_path": "logos/gambling/zethr-casino.png",
       "keywords": [
-        "zethr casino eth ethereum gambling dice"
+        "zethr casino"
       ],
-      "product_aliases": [
-        "zethr"
-      ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
