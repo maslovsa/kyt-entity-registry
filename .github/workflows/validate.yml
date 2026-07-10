@@ -31,14 +31,16 @@ jobs:
 
       - name: Regenerate manifest.json from entities.csv
         # Regenerate rather than trust the committed one — makes it impossible
-        # to land an entities.csv edit whose manifest wasn't refreshed. If the
-        # regen diff is non-empty vs the committed manifest, the check fails.
+        # to land an entities.csv edit whose manifest wasn't refreshed. Diff
+        # excludes `generated_at` (a per-run timestamp) so byte-comparison
+        # only trips on real content divergence.
         run: |
           python3 scripts/generate_manifest.py --input entities.csv --output /tmp/manifest_regen.json
-          if ! diff -q manifest.json /tmp/manifest_regen.json > /dev/null; then
-            echo "::error::manifest.json is stale — regenerate it locally:"
+          strip_ts() { python3 -c "import json,sys; d=json.load(open(sys.argv[1])); d.pop('generated_at', None); print(json.dumps(d, sort_keys=True))" "$1"; }
+          if ! diff <(strip_ts manifest.json) <(strip_ts /tmp/manifest_regen.json) > /dev/null; then
+            echo "::error::manifest.json content diverges from what entities.csv would generate. Regenerate locally:"
             echo "  python3 scripts/generate_manifest.py --input entities.csv --output manifest.json"
-            diff manifest.json /tmp/manifest_regen.json | head -40 || true
+            diff <(strip_ts manifest.json) <(strip_ts /tmp/manifest_regen.json) | head -40 || true
             exit 1
           fi
 
