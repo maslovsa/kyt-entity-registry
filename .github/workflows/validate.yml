@@ -1,25 +1,13 @@
 name: validate
 
+# Runs on every push to main and every PR — 10s per run, negligible cost.
+# Earlier we tried a paths filter but it silently skipped commits that
+# touched adjacent files (2026-07-10 gap: 2a0cfca, c61c284 didn't fire).
+# Broad triggering is simpler and never miss-fires.
 on:
   pull_request:
-    paths:
-      - "entities.csv"
-      - "manifest.json"
-      - "dn_snapshot.json"
-      - ".validator_known_dups.txt"
-      - "scripts/generate_manifest.py"
-      - "scripts/validate_manifest.py"
-      - ".github/workflows/validate.yml"
   push:
     branches: [main]
-    paths:
-      - "entities.csv"
-      - "manifest.json"
-      - "dn_snapshot.json"
-      - ".validator_known_dups.txt"
-      - "scripts/generate_manifest.py"
-      - "scripts/validate_manifest.py"
-      - ".github/workflows/validate.yml"
   workflow_dispatch:
 
 jobs:
