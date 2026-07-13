@@ -2382,3 +2382,4 @@ Zipmex,exchange,50,1,75,5,ETH|BTC|XRP,manual-admin,zipmex,zipmex.com,zipmex,,man
 Onion Market,exchange,60,3,75,50,TRON,manual-admin,onion-market,t.me/onionmarket_bot,"onion market,onionmarket",,manual,2026-07-09,true,dd939afeec0f17f38987c6178485884b78b93eac1e38c8385bde6581829e65b1
 Tether,psp,500,8412,90,5,ETH|TRON|BSC|POLYGON|AVALANCHE|ARBITRUM,manual-admin,tether,tether.to,"tether,tether.to,tetherusd","USDT,USDt",manual,2026-07-10,true,ee494110c05491d4b2d849941126c229e782501d9ca47585f7f1fde47b340763
 Fabur,merchant,10,4,50,0,TRON,manual-admin,fabur,instagram.com/fabur.inc,"fabur,faburstock",,manual,2026-07-10,true,59d4101e1135b4598b27cdc23b22e047274d7996d7ec023983f2f1be85d53564
+MB (ex Multibank),exchange,100,4,75,5,TRON,manual-admin,mb-io,mb.io,"mb.io,multibank,multibankfx.com",,manual,2026-07-13,true,31d3722696d7e9004073388ca4328930cae267b8f644a807addd665837b76241

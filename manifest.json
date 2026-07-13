@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-10T17:41:42+00:00",
+  "generated_at": "2026-07-13T13:03:05+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17887,6 +17887,18 @@
       "keywords": [
         "fabur",
         "faburstock"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mb-io",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/mb-io.png",
+      "keywords": [
+        "mb.io",
+        "multibank",
+        "multibankfx.com"
       ],
       "product_aliases": [],
       "sanctioned": false
