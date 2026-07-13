@@ -62,8 +62,24 @@ def main() -> int:
     )
     args = ap.parse_args()
 
+    # Slugs whose display_name is intentionally not keyword-matchable (short /
+    # ambiguous names — e.g. "Re"). Excluded here so the weekly refresh does
+    # NOT re-introduce a semantic expectation the validator deliberately skips.
+    # Same file honored by validate_manifest.py. See the 2026-07-14 incident.
+    known_semantic: set[str] = set()
+    semantic_path = Path(__file__).resolve().parent.parent / ".validator_known_semantic.txt"
+    if semantic_path.exists():
+        for line in semantic_path.read_text().splitlines():
+            line = line.split("#", 1)[0].strip()
+            if line:
+                known_semantic.add(line)
+
     rows = fetch()
-    dn_by_slug = {r["registry_slug"]: r["display_name"] for r in rows}
+    dn_by_slug = {
+        r["registry_slug"]: r["display_name"]
+        for r in rows
+        if r["registry_slug"] not in known_semantic
+    }
     snap = {
         "schema_version": 1,
         "source": "aegis-platform Supabase vasp_entities",

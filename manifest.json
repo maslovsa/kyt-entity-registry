@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-13T13:03:05+00:00",
+  "generated_at": "2026-07-13T21:57:23+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -3115,13 +3115,9 @@
       "category": "defi",
       "logo_path": "logos/defi/re.png",
       "keywords": [
-        "re"
+        "app.re.xyz"
       ],
-      "product_aliases": [
-        "re-score",
-        "rescore",
-        "aegis re-score"
-      ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {

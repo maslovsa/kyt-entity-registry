@@ -448,7 +448,7 @@ PumpSwap,dex,85,0,0,10,SOL,,pumpswap,swap.pump.fun,pumpswap,,defillama,2026-07-0
 Quickswap Dex,dex,85,0,0,10,POLYGON|BASE,,quickswap,quickswap.exchange,"quickswap dex,quickswap",,defillama,2026-07-09,true,f176e500721097ca064d7e4cb26075330f136098f32caaa0c8b958f74f0c2d32
 RAAC,defi,85,0,0,10,ETH,,raac,raac.io,raac,,defillama,2026-05-11,false,365ecf415ad6fc1061c6ed884636556fc33878e8cc6cca37bb2a5fdccae02b0d
 Raydium AMM,dex,85,0,0,10,SOL,,raydium-amm,raydium.io,"raydium amm,raydium-amm",,arkham,2026-05-11,false,e27ae3fd7038e1da322aed918b88ef7304ccdd4d5e9e4f6c7872ea0ec11cb0be
-Re,defi,85,0,0,10,ETH|BASE|AVALANCHE|ARBITRUM,,re,app.re.xyz,re,"re-score,rescore,aegis re-score",defillama,2026-05-11,false,914a7561ca843280cc778a3f895d1160111c36afb73d0617e3fe892450204564
+Re,defi,85,0,0,10,ETH|BASE|AVALANCHE|ARBITRUM,,re,app.re.xyz,app.re.xyz,,defillama,2026-05-11,false,914a7561ca843280cc778a3f895d1160111c36afb73d0617e3fe892450204564
 RealT Tokens,defi,85,0,0,10,,,realt-tokens,realt.co,"realt tokens,realt-tokens",,arkham,2026-05-11,false,d005f5f533b4d9c36779070cc0eb368de033ae7280defa225c379da8117b515c
 Sanctum Infinity,dex,85,0,0,10,SOL,,sanctum-infinity,sanctum.so,"sanctum infinity,sanctum-infinity",,arkham,2026-05-11,false,8bd91259e1162ad8920dcb6fe300ba2d8150e06dbc244055043e1ad68b686391
 Securitize Tokenized AAA CLO Fund,defi,85,0,0,10,ETH,,securitize-tokenized-aaa-clo-fund,bny.com,"securitize tokenized aaa clo fund,securitize-tokenized-aaa-clo-fund",,arkham,2026-05-11,false,860cb9db5c7d1c2547f703c676bb39799eb9ec825c2d7b295ea53f0620e9d3c5

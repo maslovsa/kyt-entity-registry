@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "aegis-platform Supabase vasp_entities",
-  "row_count": 2005,
+  "row_count": 2004,
   "display_names": {
     "001k-exchange": "001k",
     "0vix": "0vix",
@@ -1446,7 +1446,6 @@
     "rapira-net": "Rapira",
     "raydium-amm": "Raydium AMM",
     "raydium-rekt": "Raydium - REKT",
-    "re": "Re",
     "re-protocol-reusd": "Re Protocol reUSD",
     "real-usd": "Real USD",
     "realt-tokens": "RealT Tokens",

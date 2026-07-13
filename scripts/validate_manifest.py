@@ -46,6 +46,20 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_MANIFEST = REPO_ROOT / "manifest.json"
 DEFAULT_SNAPSHOT = REPO_ROOT / "dn_snapshot.json"
 DEFAULT_KNOWN_DUPS = REPO_ROOT / ".validator_known_dups.txt"
+DEFAULT_KNOWN_SEMANTIC = REPO_ROOT / ".validator_known_semantic.txt"
+
+
+def _load_slug_allowlist(path: Path) -> set[str]:
+    """Read a slug-per-line allowlist, ignoring blank lines, full-line '#'
+    comments, and trailing inline '# ...' comments."""
+    out: set[str] = set()
+    if not path.exists():
+        return out
+    for line in path.read_text().splitlines():
+        line = line.split("#", 1)[0].strip()
+        if line:
+            out.add(line)
+    return out
 
 # Mirror of PROVIDER_VENDOR_SLUGS in apps/ui/src/lib/aml/provider-alias.ts.
 # detectBadge strips a leading "{Vendor}:" prefix before matching. Kept short
@@ -138,6 +152,8 @@ def main() -> int:
                     help="dn_snapshot.json — set to /dev/null to skip semantic check")
     ap.add_argument("--known-dups", type=Path, default=DEFAULT_KNOWN_DUPS,
                     help="Allowlist of arkham_slugs that intentionally have 2+ CSV rows")
+    ap.add_argument("--known-semantic", type=Path, default=DEFAULT_KNOWN_SEMANTIC,
+                    help="Allowlist of slugs whose display_name is intentionally not keyword-matchable")
     ap.add_argument("--warn-only", action="store_true",
                     help="Exit 0 even on failure (useful during rollout)")
     args = ap.parse_args()
@@ -182,11 +198,15 @@ def main() -> int:
     if grandfathered:
         print(f"  NOTE {len(grandfathered)} known-dup arkham_slug (allowlisted): {grandfathered}")
 
+    known_semantic = _load_slug_allowlist(args.known_semantic)
+
     total_semantic_errs = 0
     if args.snapshot.exists():
         snap = json.loads(args.snapshot.read_text())
         dn_by_slug: dict[str, str] = snap.get("display_names", {})
         print(f"validate-manifest: {len(dn_by_slug)} slugs in {args.snapshot.name}")
+        if known_semantic:
+            print(f"validate-manifest: {len(known_semantic)} slug(s) in semantic allowlist")
 
         # Group manifest entries by slug so we handle intentional
         # duplicates by requiring at least ONE entry to match.
@@ -195,6 +215,8 @@ def main() -> int:
             by_slug.setdefault(e["slug"], []).append(e)
 
         for slug, dn in dn_by_slug.items():
+            if slug in known_semantic:
+                continue  # intentionally not keyword-matchable (short/ambiguous name)
             e_list = by_slug.get(slug)
             if not e_list:
                 continue

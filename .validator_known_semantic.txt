@@ -1,0 +1,17 @@
+# registry_slug values whose display_name is intentionally NOT keyword-matchable.
+# The semantic validator normally requires each entity's display_name to match
+# at least one of its keywords/aliases (so the entity self-badges on its own
+# labels). A handful of entities have names too short/common to keyword-match
+# SAFELY — e.g. "Re" (2 chars): the only keyword matching "Re" is the bare word
+# "re", which false-matches "aegis re-score", "Uno Re", Balancer pools,
+# Endaoment charities, etc. (2026-07-14 false-positive incident). Such entities
+# carry only a domain keyword (app.re.xyz) and rely on explicit
+# address_entity_links / provider attribution instead of keyword auto-badging.
+#
+# Listed slugs are:
+#   • skipped by validate_manifest.py's SEMANTIC check, and
+#   • excluded from dn_snapshot.json by refresh_dn_snapshot.py
+# so the weekly snapshot refresh does not re-introduce the expectation.
+#
+# One slug per line. Keep the reason in a trailing comment.
+re    # "Re" (app.re.xyz DeFi) — 2-char name, keyword-unsafe; see 2026-07-14 incident
