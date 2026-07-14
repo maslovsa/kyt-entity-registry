@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-14T21:12:29+00:00",
+  "generated_at": "2026-07-14T21:32:36+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -15005,6 +15005,19 @@
       "sanctioned": false
     },
     {
+      "slug": "hotscoin-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/hotscoin-com.png",
+      "keywords": [
+        "hotscoin",
+        "hotscoin.com",
+        "hibt",
+        "hibt.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "interport-fi",
       "category": "bridge",
       "logo_path": "logos/bridge/interport-fi.png",
@@ -15118,6 +15131,18 @@
       "keywords": [
         "meson.fi",
         "meson"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mgbx",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/mgbx.png",
+      "keywords": [
+        "mgbx",
+        "mgbx.com",
+        "megabit"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -16888,6 +16913,18 @@
       "logo_path": "logos/exchanges/zb-com.png",
       "keywords": [
         "zb.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ztb",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/ztb.png",
+      "keywords": [
+        "ztb",
+        "zt.com",
+        "zt exchange"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -19880,6 +19917,28 @@
       "keywords": [
         "liquid loans usdl",
         "liquid-loans-usdl"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tapbit-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/tapbit-com.png",
+      "keywords": [
+        "tapbit",
+        "tapbit.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "triv-co-id",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/triv-co-id.png",
+      "keywords": [
+        "triv",
+        "triv.co.id"
       ],
       "product_aliases": [],
       "sanctioned": false
