@@ -2387,3 +2387,4 @@ USDT.KG,exchange,50,1,80,5,TRON,manual-admin,usdt-kg,usdt.kg,"usdt.kg,ticketnet"
 Raastin,exchange,60,,,,TRON,,raastin-com,raastin.com,"raastin,raastin.com",,manual,2026-07-14,true,7d7da9cb9ad339f0ce43bb70a86ffb05c40ed6248a9b2e03dfd25b32b5054ce5
 ExWallet,custodian,60,,,,TRON,,exwallet-io,exwallet.io,"exwallet,exwallet.io",,manual,2026-07-14,true,d536dda4260310990fc1cfc43e101e1fb1385a88ef0e2fb48e38a59f14d9a670
 Sergei Mendeleev,wallet,80,,,,TRON,manual-admin,sergei-mendeleev,,"sergei mendeleev,mendeleev",,manual,2026-07-14,true,c38af433eab9c3dfa5a7e334fa5c33373470edc1e4f1a1e26b5a2ea155d36955
+Votium,defi,100,12,90,10,ETH|ARBITRUM|AVALANCHE|BASE|BSC|OPTIMISM|POLYGON,arkham|scorechain-counterparties,votium,votium.app,"votium,votium.app,multimerklestash",,manual,2026-07-14,true,c68291246966830c6ae39441025b467c354b9c359c63c1462cc5c0be2607194c

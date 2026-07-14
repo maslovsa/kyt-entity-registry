@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-14T19:39:32+00:00",
+  "generated_at": "2026-07-14T19:51:04+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -18051,6 +18051,18 @@
       "keywords": [
         "sergei mendeleev",
         "mendeleev"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "votium",
+      "category": "defi",
+      "logo_path": "logos/defi/votium.png",
+      "keywords": [
+        "votium",
+        "votium.app",
+        "multimerklestash"
       ],
       "product_aliases": [],
       "sanctioned": false
