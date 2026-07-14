@@ -184,7 +184,7 @@ Noones.com,exchange,100,166,90,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGO
 Ocean V3,defi,100,1544,70,5,ETH,ethereum-lists-contracts,ocean-v3,,,,defillama,2026-06-19,false,1cd1761eee3d866053ebc398ab216d09e2900e48f240264bb24fcee2d31903b6
 OFAC SDN,sanctioned,100,928,100,100,ARBITRUM|BSC|BTC|ETH|TRON,ofac-sdn,ofac-sdn,,ofac sdn,,manual,2026-04-23,true,5d913ef04edfed35dfc6c0d643b8636827fb35778f35b262faa5c31f578f0a33
 OFAC SDN: CHEIL CREDIT BANK,sanctioned,100,106,100,95,BTC|TRON,ofac-sdn,ofac-sdn-cheil-credit-bank,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
-OFAC SDN: Hydra Market,sanctioned,100,117,100,95,BTC,ofac-sdn,ofac-sdn-hydra-market,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Hydra Market,sanctioned,100,117,100,95,BTC,ofac-sdn,hydra-market,,,,manual,2026-07-14,true,cdfe37759e7855f3082da9465de0becd8afdcc93d3cda42dbed159ad157f2ca7
 okex,defi,100,324,70,5,ARBITRUM|AVALANCHE|BASE|ETH|OPTIMISM|POLYGON|TRON,defillama-adapters,okex,,,,placeholder,2026-06-19,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 okex,exchange,100,324,70,5,ARBITRUM|AVALANCHE|BASE|ETH|OPTIMISM|POLYGON|TRON,defillama-adapters,okex,,okex,,manual,2026-05-12,true,d4e90b4b08dcfc0aba35b7bed995969a4a6cae36b02bf9bb847f719315b45a95
 OKX,exchange,100,184,90,5,ARBITRUM|AVALANCHE|BASE|BSC|BTC|ETH|OPTIMISM|POLYGON|TRON,arkham-intelligence|immike-multichain-labels|misttrack-verdicts,okx,,,,arkham,2026-06-19,false,b30e20c3e0cb15d893fb07d922b197d48363726e58a99a988f8f7700fac26311
