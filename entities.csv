@@ -868,7 +868,7 @@ Botanix stBTC,defi,65,0,0,10,,,botanix-stbtc,yield.botanixlabs.com,"botanix stbt
 Bounce.Tech,defi,65,0,0,10,,,bounce-tech,bounce.tech,"bounce.tech,bounce-tech",,favicon,2026-06-02,false,ffeb3e80c0bae758823acc3cb83c96a55f7036c147ca6268626d71c6b43822f3
 Brasa Finance,defi,65,0,0,10,,,brasa,brasa.finance,brasa,,defillama,2026-06-02,false,be9c77ff8a9e741944c28b7b315f8abf6fe91ecdbb8e8c53c8ec559262685c78
 Bridgers,dex,65,0,0,10,TRON|BSC|ETH|BASE|POLYGON|ARBITRUM|OPTIMISM|AVALANCHE|FANTOM|SOL,,bridgers,bridgers.ai,bridgers,,arkham,2026-06-02,false,2dd8e9c7086004f99e01e6256394cedc1457b66e74468c139935a48a57dd5abc
-BSCSwap,dex,65,0,0,10,BSC,,bscswap,,bscswap,,defillama,2026-06-02,false,5b1bd5d43f3bd95383dbc59add763a476807ab160e23b117abad92bd0288f58b
+BSCSwap,dex,65,0,0,10,BSC,,bscswap,,bscswap,,manual,2026-07-15,true,861a74a3effa4e90248f09441ad8212b07fad9fa140d74ebf7f9d0b64bd99bd0
 Bucket Protocol V2,defi,65,0,0,10,,,bucket,bucketprotocol.io,bucket,,arkham,2026-06-02,false,d1f16e2fb32e40ade07d4d07f38c4f40872027f4439981973a52ea845546f3b2
 BulbaSwap V3,dex,65,0,0,10,,,bulbaswap,bulbaswap.io,bulbaswap,,defillama,2026-06-02,false,e7f83cbdc1e6def905895071a8888abd06b52888fe858be19ee33243c4c6a42a
 Bumpin Trade,defi,65,0,0,10,SOL,,bumpin-trade,bumpin.trade,"bumpin trade,bumpin-trade",,arkham,2026-06-02,false,185aa710c9ea87ad22b2873ab8c0bb60de5c87e977711df2f8ce254b88e63830
