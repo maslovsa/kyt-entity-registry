@@ -2392,3 +2392,158 @@ Bitget Wallet (Prev. Bitkeep),custodian,100,,75,5,,manual-admin,bitget-wallet,,"
 Justin Sun,individual,100,,70,5,,manual-admin,justin-sun,,"justin sun,justinsuntron",,manual,2026-07-14,true,6335233312195a88fe99f6e432a1041a0432750163a60fdbb74de105f860389a
 EUR CoinVertible,defi,100,,80,5,,manual-admin,societe-generale-forge-eurcv,,"eur coinvertible,eurcv,societe generale forge",,manual,2026-07-14,true,526dcbee3d9afc29ad59ebcfca3b95b9e86e73ddf979d310b59d8e06118e47e8
 IDAX,exchange,100,,75,5,,manual-admin,idax,,idax,,manual,2026-07-14,true,97e6611cf1037b540865e966d94687a9c1a126fe1256fa6d7ef4d3cc72cb2603
+Hermetica USDh,stablecoin_issuer,65,0,0,10,,defillama-adapters,hermetica-usdh,,"hermetica usdh,hermetica-usdh",,defillama,2026-07-15,false,8a3fd0443b906e112fe4baded9a8266f88e872c9b548c6012fe252ddf3dec206
+Plume USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,plume-usd,,"plume usd,plume-usd",,defillama,2026-07-15,false,c6627f997d78cbfac3397e8fc8b6f770a6438de826859c72e6bf1aee40b0eb4c
+Solayer USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,solayer-usd,,"solayer usd,solayer-usd",,defillama,2026-07-15,false,1e9ad84fc8a0e5f1116d1e15a9ec6a81fa1d684e5c2c67d64892acb9b7302da5
+USDH,stablecoin_issuer,65,0,0,10,,defillama-adapters,usdh,,usdh,,defillama,2026-07-15,false,73123beb99f7df6842007ad96331f70a5314572c49f534ac81e067514fee7e1f
+Pleasing USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,pleasing-usd,,"pleasing usd,pleasing-usd",,defillama,2026-07-15,false,275e4bfc0026906d590f44786d889f2cc4400e9253dda8687a77c21b935f2e96
+Alto DUSD,stablecoin_issuer,65,0,0,10,,defillama-adapters,alto-dusd,,"alto dusd,alto-dusd",,defillama,2026-07-15,false,6ea6c04ed9d29b0e2880b42638acba58be2e62a3db560f6828bee0649b8b3e7c
+Tori trUSD,stablecoin_issuer,65,0,0,10,,defillama-adapters,tori-trusd,,"tori trusd,tori-trusd,trusd",,defillama,2026-07-15,false,a03bed9712c7c68cb648c2ecbf184e597a133477eb79ec14ae6eb2df53750b03
+Davos Protocol,stablecoin_issuer,65,0,0,10,,defillama-adapters,davos-protocol,,"davos protocol,davos-protocol",,defillama,2026-07-15,false,e029616d0347e9340cb92b47acc57d17118d7e1aeec553bdd65b843fb67500dc
+TheStandard USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,thestandard-usd,,"thestandard usd,thestandard-usd",,defillama,2026-07-15,false,35c43d64d20a09a9c4a0e61120a9004ead4c8e77f90a3937d8cec3b71b577114
+XBANKING USDE,stablecoin_issuer,65,0,0,10,,defillama-adapters,xbanking-usde,,"xbanking usde,xbanking-usde",,defillama,2026-07-15,false,046fdf3a263be1813b178db42d179e18fa116db10f7500f4c782a09ed3fc5a06
+USDJ,stablecoin_issuer,65,0,0,10,,defillama-adapters,just-stablecoin,,"just-stablecoin,usdj",,defillama,2026-07-15,false,8eb68f2afd29d6c5cfdc0e7f649233bc37d6d2c10c99a5d086c5dd731b712e25
+Coin98 Dollar,stablecoin_issuer,65,0,0,10,,defillama-adapters,coin98-dollar,,"coin98 dollar,coin98-dollar",,defillama,2026-07-15,false,26f20f809b563b65160631b9642ed00306141f88807001c0b09e44432c8a0742
+Moremoney USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,moremoney-usd,,"moremoney usd,moremoney-usd",,defillama,2026-07-15,false,45112fcb68022f0119f736294f6b5eeebcecf3f14c9c3ccc6b26e002debdc600
+StandX DUSD,stablecoin_issuer,65,0,0,10,,defillama-adapters,standx-dusd,,"standx dusd,standx-dusd",,defillama,2026-07-15,false,884e84f71ef6cf92ed0b4075da8ca96b9bff06dd9bb4029ffd8796f2bd0ee689
+US Permissionless Dollar,stablecoin_issuer,65,0,0,10,,defillama-adapters,us-permissionless-dollar,,"us permissionless dollar,us-permissionless-dollar",,defillama,2026-07-15,false,0dc1689d0b7ae2f8251fb904d5d2b94e65e55011018996ebd4dbb3d066172148
+infiniFi USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,infinifi-usd,,"infinifi usd,infinifi-usd",,defillama,2026-07-15,false,8abeffc1b6237a888cea1dae34462b30742575b29aa08ea390242981b3ef08a0
+Main Street USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,main-street-usd,,"main street usd,main-street-usd",,defillama,2026-07-15,false,3ba29da463c6d2fdbfbec9b3f2fc4acbb57ad677a023cfd366a1fe498b221866
+Aegis YUSD,stablecoin_issuer,65,0,0,10,,defillama-adapters,aegis-yusd,,"aegis yusd,aegis-yusd",,defillama,2026-07-15,false,d33a3fcb238770782eb2e8c9f532007c13b7041b55305265e30cd551d1dcf95c
+Resupply USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,resupply-usd,,"resupply usd,resupply-usd",,defillama,2026-07-15,false,e15a6d9e52da8350eabf4736b1eb987508888d739f9bb68429a9e4ef144650b5
+Noon USN,stablecoin_issuer,65,0,0,10,,defillama-adapters,noon-usn,,"noon usn,noon-usn",,defillama,2026-07-15,false,2661330683068c90e5f6b8e04e7d175a799b71b34968e3a47f54aafd7c14e1e1
+Metamask USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,metamask-usd,,"metamask usd,metamask-usd",,defillama,2026-07-15,false,33d60dcf848200d155f6e513eab4ee8fc5ac190f7428bf709a638a35e916636e
+Electronic USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,electronic-usd,,"electronic usd,electronic-usd",,defillama,2026-07-15,false,c83bcd5ef502a47cf436f8a6cef2ebb183861b4b99ee529810ac696dc4051419
+Mezo USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,mezo-usd,,"mezo usd,mezo-usd",,defillama,2026-07-15,false,497f2858489fa853ddf51c61398d4b4c5e9ae6623e2119e18919019873b65629
+Real USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,real-usd,,"real usd,real-usd",,defillama,2026-07-15,false,8f76d1191111f206551ac86376770d2e3fd6d0b94bf2d95f2ab44c659c7ab929
+YUSD Stablecoin,stablecoin_issuer,65,0,0,10,,defillama-adapters,yusd-stablecoin,,"yusd stablecoin,yusd-stablecoin",,defillama,2026-07-15,false,41e8f5c99ac17198e3d2a6df5cda6d0ecc0b5407c3c09a72b8b25934f9407ba2
+Anzens USDA,stablecoin_issuer,65,0,0,10,,defillama-adapters,anzens-usda,,"anzens usda,anzens-usda",,defillama,2026-07-15,false,017bdfb0f1951abad7257d53ef3cc3231337d0563b0e5aa1539cbd2478e8072b
+Solomon USDv,stablecoin_issuer,65,0,0,10,,defillama-adapters,solomon-usdv,,"solomon usdv,solomon-usdv",,defillama,2026-07-15,false,18de876d686dc89baf9488841e7cc62fce169302950e62330196b49688a2402a
+iUSD,stablecoin_issuer,65,0,0,10,,defillama-adapters,iusd,,iusd,,defillama,2026-07-15,false,d637b311666595b1aa6ba9a1ab18a4cf83a49cd9f132720f0146b584686b3725
+Pareto USP,stablecoin_issuer,65,0,0,10,,defillama-adapters,pareto-usp,,"pareto usp,pareto-usp",,defillama,2026-07-15,false,3b84e020d9bdb84ab79802a24c1a36e9cd27b3bb4a96eccf7dadd52f8f0d18d5
+Opus CASH,stablecoin_issuer,65,0,0,10,,defillama-adapters,opus-cash,,"opus cash,opus-cash",,defillama,2026-07-15,false,85c047cfedc29e559c41dc88ebba6e3a058b8ef06884ecfbcd5315d550dcba1e
+SMARDEX USDN,stablecoin_issuer,65,0,0,10,,defillama-adapters,smardex-usdn,,"smardex usdn,smardex-usdn",,defillama,2026-07-15,false,8faf41916b0703dbb9b4fbd641d43e1832dced569971206edde0946b86eca9f1
+Hedge USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,hedge-usd,,"hedge usd,hedge-usd",,defillama,2026-07-15,false,21e3a912722cb1c1ad9c780a31e63e479142cb8adc5cf61786242f3ad0934947
+Asymmetry USDaf,stablecoin_issuer,65,0,0,10,,defillama-adapters,asymmetry-usdaf,,"asymmetry usdaf,asymmetry-usdaf",,defillama,2026-07-15,false,48f0b61d9167eba6c2dc8f54ded7ba886326f3d18c83bd13814c2e2967d8fb3b
+Avant USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,avant-usd,,"avant usd,avant-usd,avusd",,defillama,2026-07-15,false,56188df2373ba4e80e7fb77d24d7d3b57f66a9a3201b61de5d0151457434e066
+Elixir deUSD,stablecoin_issuer,65,0,0,10,,defillama-adapters,elixir-deusd,,"deusd,elixir deusd,elixir-deusd",,defillama,2026-07-15,false,e9df831236e17bcb61a9f01908c71beddb3598b0b8430ff0e3a46a97330a122b
+Sperax USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,sperax-usd,,"sperax usd,sperax-usd",,defillama,2026-07-15,false,96c6e186a9f69f0b28a04824ce78df25102ddd0ed444f25447e927001fae30ed
+JupUSD,stablecoin_issuer,65,0,0,10,,defillama-adapters,jupusd,,jupusd,,defillama,2026-07-15,false,6f345d874ef028dcbce1f7c894bf6ae9be5ec870c477a26a73586537cf0a80d6
+Bean,stablecoin_issuer,65,0,0,10,,defillama-adapters,bean,,bean,,defillama,2026-07-15,false,750deb7c266e195c6d3e041cbd6c573a8c551e196b11b6e984bad12e02acaa03
+Saturn Dollar,stablecoin_issuer,65,0,0,10,,defillama-adapters,saturn-dollar,,"saturn dollar,saturn-dollar,usdat",,defillama,2026-07-15,false,7054b56fae73d6854545b1653f0c3810ec5e26469a806029556a51d5c1b2ad08
+GAIB AID,stablecoin_issuer,65,0,0,10,,defillama-adapters,gaib-aid,,"aid,gaib aid,gaib-aid",,defillama,2026-07-15,false,aff4538f60665b86a6bd87a722d222c27b5852e1f919b955859e5a058f061dd5
+USDtez,stablecoin_issuer,65,0,0,10,,defillama-adapters,usdtez,,"usdtez,usdtz",,defillama,2026-07-15,false,01d31a234e1d7c260e165a3971dae5d946a7a26eabae789f9902a8e4682c555c
+Alchemix USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,alchemix-usd,,"alchemix usd,alchemix-usd,alusd",,defillama,2026-07-15,false,3ecbac966ceb7972ea9d6d3c66de1bd6865a56080049a8a7390f643dcbe11e6f
+eSui Dollar,stablecoin_issuer,65,0,0,10,,defillama-adapters,esui-dollar,,"esui dollar,esui-dollar,suiusde",,defillama,2026-07-15,false,d6df242941c94a013096443ed50b93935ebac84160620170c16d9181e9127786
+Felix feUSD,stablecoin_issuer,65,0,0,10,,defillama-adapters,felix-feusd,,"felix feusd,felix-feusd,feusd",,defillama,2026-07-15,false,8a89848d5e11c192aaf2ff8226f75c7186f1ef2bc70aaa3547141a1882090211
+Metronome Synth USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,metronome-synth-usd,,"metronome synth usd,metronome-synth-usd",,defillama,2026-07-15,false,69354438181b7a4c3ea127f4148dc94193668e25e58e6543fc949faabb71bd48
+USDX Money USDX,stablecoin_issuer,65,0,0,10,,defillama-adapters,usdx-money-usdx,,"usdx money usdx,usdx-money-usdx",,defillama,2026-07-15,false,e9cf4e502595f16f14339620ad0bb4892befbc0772e1752dba3ac2da329093e4
+Anzen USDz,stablecoin_issuer,65,0,0,10,,defillama-adapters,anzen-usdz,,"anzen usdz,anzen-usdz,usdz",,defillama,2026-07-15,false,d71758c7161e6841d32381691071dbdbfc13ba9ee791951b650f5f4d05151c9e
+USBD,stablecoin_issuer,65,0,0,10,,defillama-adapters,usbd,,usbd,,defillama,2026-07-15,false,59ef29082b0664301c927787378fa351c2f7d181270c4640d0bba1a97d4541cb
+Mu Digital AZND,stablecoin_issuer,65,0,0,10,,defillama-adapters,mu-digital-aznd,,"aznd,mu digital aznd,mu-digital-aznd",,defillama,2026-07-15,false,037bf16fecc2c72b28548855c1e91486fc8eeff750d14c376c0da56e3acd3d8f
+Citrea USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,citrea-usd,,"citrea usd,citrea-usd,ctusd",,defillama,2026-07-15,false,44988459a7629895c21fa261c09e507153d02b0e24fc9f4b3fc1c8b8911279a4
+Web 3 Dollar,stablecoin_issuer,65,0,0,10,,defillama-adapters,web-3-dollar,,"usd3,web 3 dollar,web-3-dollar",,defillama,2026-07-15,false,5c15b0776e20d60ecfe020233ece652c8316014f9a450beb190a71201250fa63
+Parrot USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,parrot-usd,,"pai,parrot usd,parrot-usd",,defillama,2026-07-15,false,81fb391cf4113db10fd2a742550084ab6710fad75924298b6486f9d46e188e16
+Fei USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,fei-usd,,"fei,fei usd,fei-usd",,defillama,2026-07-15,false,5be940325e510c46bad22e7f2fcd5804f388d6535a9d7323148d318f8a5d9ad4
+USDX,stablecoin_issuer,65,0,0,10,,defillama-adapters,usdx,,usdx,,defillama,2026-07-15,false,b730e56e195b5dec7ead5d34ded0879fafb8cba8b1370270b1ca317a0652fcc6
+US Sonic Dollar,stablecoin_issuer,65,0,0,10,,defillama-adapters,us-sonic-dollar,,"us sonic dollar,us-sonic-dollar,ussd",,defillama,2026-07-15,false,3fa697188d6d82b1c107674d9b5a95dd0c8a1c9a927f0462ece047620e6f5bfc
+Synnax Stablecoin,stablecoin_issuer,65,0,0,10,,defillama-adapters,syusd,,"synnax stablecoin,syusd",,defillama,2026-07-15,false,3c6b7a38fe14d522a98c06eea819880d01aac51f96e69ffd5a98c9180346e5fe
+Vai,stablecoin_issuer,65,0,0,10,,defillama-adapters,vai,,vai,,defillama,2026-07-15,false,4b827274a758fc44e666b050c238d42d0cb9396fcbc1218d0eb340d4b43744e0
+Sovryn Dollar,stablecoin_issuer,65,0,0,10,,defillama-adapters,sovryn-dollar,,"dllr,sovryn dollar,sovryn-dollar",,defillama,2026-07-15,false,bdd3ed24103d5d8be06bcc12c1e99594d293ce092eb70e7306060d8347fe47de
+Fathom Dollar,stablecoin_issuer,65,0,0,10,,defillama-adapters,fathom-dollar,,"fathom dollar,fathom-dollar,fxd",,defillama,2026-07-15,false,89afe632c2c0a4c98b1e531cb378e146c04be6cbb6344a8727e8a18a40b2c924
+Balanced Dollars,stablecoin_issuer,65,0,0,10,,defillama-adapters,balanced-dollars,,"balanced dollars,balanced-dollars,bnusd",,defillama,2026-07-15,false,ca69611de397c4c6e249b551d41419be1def0b929c4044e88faf27db5effc522
+USDST,stablecoin_issuer,65,0,0,10,,defillama-adapters,usdst,,usdst,,defillama,2026-07-15,false,88cef2655bd0c7f19f6c0f9bf4e7b1a60851b61428f29b14759f8c889e71b4a0
+Last USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,last-usd,,"last usd,last-usd,usdxl",,defillama,2026-07-15,false,ba2fbc5504d5222de890bebfe07115108a7edc4ec11454d629dd927c5535c902
+Rings scUSD,stablecoin_issuer,65,0,0,10,,defillama-adapters,rings-scusd,,"rings scusd,rings-scusd,scusd",,defillama,2026-07-15,false,85eb318ca948eeb1e218861ece469ee4df8273d2cae87b8e3dbb6923f123bfe8
+dTRINITY USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,dtrinity-usd,,"dtrinity usd,dtrinity-usd",,defillama,2026-07-15,false,65a7b108753444aa84602b474c14c5f265eaf7665198611e6d4a3d2f09f36cf1
+USK,stablecoin_issuer,65,0,0,10,,defillama-adapters,usk,,usk,,defillama,2026-07-15,false,9d30b4de61a0b684002ea863ed00c3bfda6960d12405a9ef3f7b5be82f1a8428
+Threshold USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,threshold-usd,,"threshold usd,threshold-usd,thusd",,defillama,2026-07-15,false,4675de589d78b0bfce1a431cf4823225df28ad4d4e5742c497fa0ecd056702ce
+Good Game US Dollar,stablecoin_issuer,65,0,0,10,,defillama-adapters,good-game-us-dollar,,"ggusd,good game us dollar,good-game-us-dollar",,defillama,2026-07-15,false,957ca9ed883ffa7c550cb2b7247a0245f45e7515e48b2cd2064d7120d684f168
+Level USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,level-usd,,"level usd,level-usd,lvlusd",,defillama,2026-07-15,false,7cc83efd2750fae4bed1ba373aa453df426a9547963f5b4f860ce0ad0dfa4db1
+USD Somnia,stablecoin_issuer,65,0,0,10,,defillama-adapters,usd-somnia,,"usd somnia,usd-somnia,usdso",,defillama,2026-07-15,false,1595f71c5bd87df907056f16d774170d5c1df990b1932a9fd2c0cef45e0ad3b0
+Nectar,stablecoin_issuer,65,0,0,10,,defillama-adapters,nectar,,"nect,nectar",,defillama,2026-07-15,false,f5be5c1fc668615aaead0898ad4dc8f7d350e65ed487b8c12eb5676054c98988
+WEUSD,stablecoin_issuer,65,0,0,10,,defillama-adapters,weusd,,weusd,,defillama,2026-07-15,false,2c75c9d6dcad6459707153586df026c55534b91a82133b433318bc060d0ef2d1
+Kolibri USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,kolibri-usd,,"kolibri usd,kolibri-usd,kusd",,defillama,2026-07-15,false,a18e4754e9cbb61fa304715d1ed7bd69887fb4aa9356751cb1b546234068a1f2
+UXD Stablecoin,stablecoin_issuer,65,0,0,10,,defillama-adapters,uxd-stablecoin,,"uxd,uxd stablecoin,uxd-stablecoin",,defillama,2026-07-15,false,9eb8283b4df0545fc3a17d1320ac5d60230a9a5f4c80dbc4770fa5381292645d
+GRAI,stablecoin_issuer,65,0,0,10,,defillama-adapters,grai,,grai,,defillama,2026-07-15,false,24f558693d14132491b1816af27a5e1107fec2bbd6384f4e71b27e22e78855ef
+BAI Stablecoin,stablecoin_issuer,65,0,0,10,,defillama-adapters,bai-stablecoin,,"bai,bai stablecoin,bai-stablecoin",,defillama,2026-07-15,false,2ca70c229d53a38cb15da9aa271667bc4299adbe7d0573ce7f4ab425b0cc75a1
+Inter Stable Token,stablecoin_issuer,65,0,0,10,,defillama-adapters,inter-stable-token,,"inter stable token,inter-stable-token,ist",,defillama,2026-07-15,false,9e855b0221e8140d794c6ffca44e249099f0436f464959a6dc42b83bbaa31ce4
+USDFC,stablecoin_issuer,65,0,0,10,,defillama-adapters,usdfc,,usdfc,,defillama,2026-07-15,false,a17e321e05ad99fe3652b09f3c9332c72dd6d67169e99380727ae4ec5d4188c4
+Ethos Reserve Note,stablecoin_issuer,65,0,0,10,,defillama-adapters,ethos-reserve-note,,"ern,ethos reserve note,ethos-reserve-note",,defillama,2026-07-15,false,de03f742bd433a9ae1f50487f285b64e4f4aa748504852316dbb73e2f08add0a
+Move Dollar,stablecoin_issuer,65,0,0,10,,defillama-adapters,move-dollar,,"mod,move dollar,move-dollar",,defillama,2026-07-15,false,14838daf0d6469463a3eaba8044afac3bdfb27ca61ae08a1fba83faa39e8db73
+First Digital,stablecoin_issuer,65,0,0,10,,defillama-adapters,first-digital-usd,,"fdusd,first digital",,defillama,2026-07-15,false,7c186e91688a0ea0fef5136468afc0fecd4e5fbea535ff6962a8f6c7468119c0
+KEI Stablecoin,stablecoin_issuer,65,0,0,10,,defillama-adapters,kei-stablecoin,,"kei,kei stablecoin,kei-stablecoin",,defillama,2026-07-15,false,fd574a9c03e8fe395d896a6c018f83258ffdea5e724132558e7ed03e854c7bbe
+HEX Dollar Coin,stablecoin_issuer,65,0,0,10,,defillama-adapters,hex-dollar-coin,,"hex dollar coin,hex-dollar-coin,hexdc",,defillama,2026-07-15,false,9b5048fe6c901512e294fd9bfbcdeedd08ceeee36ef8ebdce9f7fa6769b301ba
+Dai,stablecoin_issuer,65,0,0,10,,defillama-adapters,dai,,dai,,defillama,2026-07-15,false,84cf2ae56e3f2c35fbcbd23f888417a1f46faa58ad390d69ec5f1865200695f5
+Global Dollar,stablecoin_issuer,65,0,0,10,,defillama-adapters,global-dollar,,"global dollar,global-dollar,usdg",,defillama,2026-07-15,false,a339fa50eecbccb3296643ea1f859d4c516ab7474c77760aa56d4811e151c3ee
+MegaUSD,stablecoin_issuer,65,0,0,10,,defillama-adapters,megausd,,megausd,,defillama,2026-07-15,false,999afb3127388411f60ec216e51d80c50e0db5da0f1014e12dff3740b56e1ed6
+Usual USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,usual-usd,,"usd0,usual usd,usual-usd",,defillama,2026-07-15,false,518403003f0683c39425ae3d79bddc6650367cfb335895365fd4a23d71b2fb65
+YLDS,stablecoin_issuer,65,0,0,10,,defillama-adapters,ylds,,ylds,,defillama,2026-07-15,false,c3256cc69441f51f3d6892d2057b900ad416e0684a71f761a29e20f344351d71
+apxUSD,stablecoin_issuer,65,0,0,10,,defillama-adapters,apxusd,,apxusd,,defillama,2026-07-15,false,b6225f3057927e9b9cfdaa1db655d76e169910398ff88a18f69de2fb1e71a7c5
+Re Protocol reUSD,stablecoin_issuer,65,0,0,10,,defillama-adapters,re-protocol-reusd,,"re protocol reusd,re-protocol-reusd",,defillama,2026-07-15,false,c3d62f789830f893a0bd69aa9f9447885085c9f12965fc62ba68c4635c7b46b4
+River Stablecoin,stablecoin_issuer,65,0,0,10,,defillama-adapters,satoshi-stablecoin,,"river stablecoin,satoshi-stablecoin,satusd",,defillama,2026-07-15,false,34ad8d6c427802f3c4f08f4a314c8e645886d9df5c89586cba04fbf7975bc300
+Cygnus Finance Global USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,cygnus-finance-global-usd,,"cgusd,cygnus finance global usd,cygnus-finance-global-usd",,defillama,2026-07-15,false,903429c64623c479abab7ba80cee9fce2b67a0f9f09e68819ce04fc3f301b6a2
+Magic Internet Money,stablecoin_issuer,65,0,0,10,,defillama-adapters,magic-internet-money,,"magic internet money,magic-internet-money,mim",,defillama,2026-07-15,false,be03011239c4330b59e5ad8b376d25cd5f3a6360d3eed165f31c10c2ce066e93
+Gyroscope GYD,stablecoin_issuer,65,0,0,10,,defillama-adapters,gyroscope-gyd,,"gyd,gyroscope gyd,gyroscope-gyd",,defillama,2026-07-15,false,7460a9f75dee2001c95e1e73a6be4c80ca08a07361b60b84c88bb5cd26996061
+Bucket Protocol BUCK Stablecoin,stablecoin_issuer,65,0,0,10,,defillama-adapters,bucket-protocol-buck-stablecoin,,"buck,bucket protocol buck stablecoin,bucket-protocol-buck-stablecoin",,defillama,2026-07-15,false,a05e27a28d4376a37c6f0d8818da01bf7edd8723a23ad0888594ca01ab83590b
+TOR,stablecoin_issuer,65,0,0,10,,defillama-adapters,tor,,tor,,defillama,2026-07-15,false,f7002e70398f70c1f4ac74a179ae0f1fb63b46169dfe38a5dafa71a5950d0ac2
+Worldwide USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,worldwide-usd,,"worldwide usd,worldwide-usd,wusd",,defillama,2026-07-15,false,40c969c74e07d7451132e3c070d15d4386e2efdde459138428bdc9812e38f72d
+Hydrated Dollar,stablecoin_issuer,65,0,0,10,,defillama-adapters,hydrated-dollar,,"hollar,hydrated dollar,hydrated-dollar",,defillama,2026-07-15,false,c5930056a0b3e1324cbbc84302284da9115c953f1a4f9a05ea5067f281543adb
+Pinto,stablecoin_issuer,65,0,0,10,,defillama-adapters,pinto,,pinto,,defillama,2026-07-15,false,18d3e42957ced7d55f4d0b90d4996d252386c6da8e95e0ea7162e1811e64195b
+PathUSD,stablecoin_issuer,65,0,0,10,,defillama-adapters,pathusd,,pathusd,,defillama,2026-07-15,false,9eb491d77ac5cc699b8682547233e296b911fb0672746f90241cbf920fe3a576
+YU,stablecoin_issuer,65,0,0,10,,defillama-adapters,yu,,yu,,defillama,2026-07-15,false,8744abd00d64b39c8655d2428807775c24876fb95832a524fcb5ed4a81f06fb3
+RIF US Dollar,stablecoin_issuer,65,0,0,10,,defillama-adapters,rif-us-dollar,,"rif us dollar,rif-us-dollar,usdrif",,defillama,2026-07-15,false,198f6773f83c9fcecd65757d5976009f4bc6b007c947d14305b1919f014dbbab
+Classic USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,classic-usd,,"classic usd,classic-usd",,defillama,2026-07-15,false,f2a2771357ada45d237ea17c76dba9d205c84ac47bf70a658cc454c15bbc9179
+Dyad,stablecoin_issuer,65,0,0,10,,defillama-adapters,dyad,,dyad,,defillama,2026-07-15,false,ec81a50e7ba09b21839ed57197d3dbb98e2efca1e9d9194415801e8ff6a770e5
+Jigsaw USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,jigsaw-usd,,"jigsaw usd,jigsaw-usd,jusd",,defillama,2026-07-15,false,1795f5bcd20d0c3ff1b076fc23730154bfba421ba7173f9236f1528e5f60804e
+KNOX Dollar,stablecoin_issuer,65,0,0,10,,defillama-adapters,knox-dollar,,"knox,knox dollar,knox-dollar",,defillama,2026-07-15,false,f237dc8d21f3d874746e5985bf4d25215aaac0a794b4ef5abf49615978c11ac2
+Parabol USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,parabol-usd,,"parabol usd,parabol-usd,parausd",,defillama,2026-07-15,false,a817ad9e6c65403747ddebf7672d274560fb59ff96672aa7a460849fc76dfcab
+Uncap USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,uncap-usd,,"uncap usd,uncap-usd",,defillama,2026-07-15,false,51e5e9f5bdb9ff8683df558a5c46c6bb9f45288c0fb928556c8f54a59c569a39
+Phase Dollar,stablecoin_issuer,65,0,0,10,,defillama-adapters,phase-dollar,,"phase dollar,phase-dollar",,defillama,2026-07-15,false,b520be7bc551535c00bba045ba8f9422d094daba799d852c711d4883d8cef818
+sEUR,stablecoin_issuer,65,0,0,10,,defillama-adapters,seur,,seur,,defillama,2026-07-15,false,84eee5e78ea02a5cb79bb09b98a5fa4bfefc547cad750fad07928dea6ebe6d6e
+Frax Price Index,stablecoin_issuer,65,0,0,10,,defillama-adapters,frax-price-index,,"fpi,frax price index,frax-price-index",,defillama,2026-07-15,false,bd21657a42b8b22eafc9144f16d0bd4360724d34ff6e4171058bf2d710ddc3e0
+Kerne USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,kerne-usd,,"kerne usd,kerne-usd,kusd",,defillama,2026-07-15,false,16dcde29269b7c7d5ebaad35c1debea199e543f178523968cd8c1750b92fdfb3
+Alternity CNY,stablecoin_issuer,65,0,0,10,,defillama-adapters,alternity-cny,,"alternity cny,alternity-cny,lcny",,defillama,2026-07-15,false,e51dfe0ec8df4c53de57fce1f91f0bdf9af65411f5e3d6e0a11083e664eb11a1
+Collateralized Debt Token,stablecoin_issuer,65,0,0,10,,defillama-adapters,collateralized-debt-token,,"cdt,collateralized debt token,collateralized-debt-token",,defillama,2026-07-15,false,b21c5438008bee27da33453a3f35fbd6c49e5febd9639473ecaaeb0a240421cd
+Tokenised GBP,stablecoin_issuer,65,0,0,10,,defillama-adapters,tokenised-gbp,,"tgbp,tokenised gbp,tokenised-gbp",,defillama,2026-07-15,false,0dd61d562b320591e0964dcfdc41912ccf5565a803132efbe18e628e01d21da4
+GYEN,stablecoin_issuer,65,0,0,10,,defillama-adapters,gyen,,gyen,,defillama,2026-07-15,false,6490aa1508529dafaeac2c4630e98b508f02b76af2b3451906a9b89daa2ea418
+Agant GBP,stablecoin_issuer,65,0,0,10,,defillama-adapters,agant-gbp,,"agant gbp,agant-gbp,gbpa",,defillama,2026-07-15,false,b57dc3f84a8964f7b744020a4636e9a733298160bb0a67864d7216a371dd25c8
+StraitsX XUSD,stablecoin_issuer,65,0,0,10,,defillama-adapters,straitsx-xusd,,"straitsx xusd,straitsx-xusd",,defillama,2026-07-15,false,330fc54b258052aca6c1dcd2acafb8925cb85912faeedc147f5f78dc68b91e15
+Gemini Dollar,stablecoin_issuer,65,0,0,10,,defillama-adapters,gemini-dollar,,"gemini dollar,gemini-dollar,gusd",,defillama,2026-07-15,false,05523a2357145416234ee104379bb0c4cdd638a357eefc2cf208978bb7ac82cc
+Mento Dollar,stablecoin_issuer,65,0,0,10,,defillama-adapters,celo-dollar,,"celo-dollar,mento dollar",,defillama,2026-07-15,false,dd725cf0ef64e6c182f814aa9443593b1730a01ec907ad09a8a1fde6db52612e
+VNX EURO,stablecoin_issuer,65,0,0,10,,defillama-adapters,vnx-euro,,"veur,vnx euro,vnx-euro",,defillama,2026-07-15,false,9d6c644833dd7b3e613dc6bd0547a49861fdbbcd845bb31211d620303523160e
+StablR Euro,stablecoin_issuer,65,0,0,10,,defillama-adapters,stablr-euro,,"eurr,stablr euro,stablr-euro",,defillama,2026-07-15,false,a0d63af0a725145a4711671f8ac9cfc4acd7f34b05c167681dccb7c0d6216dcc
+Mento British Pound,stablecoin_issuer,65,0,0,10,,defillama-adapters,mento-british-pound,,"gbpm,mento british pound,mento-british-pound",,defillama,2026-07-15,false,385b6fc766974b43e533c934a78e9a1b905c699a792917ca18a4624ce4b9320c
+Quantoz EURD,stablecoin_issuer,65,0,0,10,,defillama-adapters,quantoz-eurd,,"eurd,quantoz eurd,quantoz-eurd",,defillama,2026-07-15,false,89efbe390f8225417344cebd610747be8e5c4ed03f451aff791c4900e5e30373
+USD CoinVertible,stablecoin_issuer,65,0,0,10,,defillama-adapters,usd-coinvertible,,"usd coinvertible,usd-coinvertible,usdcv",,defillama,2026-07-15,false,728468fa8e190e9ad51b5bab53a90e132c948f7f625a50505ff772e89179924b
+Eurite,stablecoin_issuer,65,0,0,10,,defillama-adapters,eurite,,"euri,eurite",,defillama,2026-07-15,false,3c85669fbbbf65ed992a2a3209bb0b705d781d71bb3bb5a8ce5339a07e8aa596
+ARYZE eEUR,stablecoin_issuer,65,0,0,10,,defillama-adapters,aryze-eeur,,"aryze eeur,aryze-eeur,eeur",,defillama,2026-07-15,false,c93ce336894c409818a8c27c9f9c846e950881821c40c62f21f1c2b82fbe7670
+Schuman EUROP,stablecoin_issuer,65,0,0,10,,defillama-adapters,schuman-europ,,"europ,schuman europ,schuman-europ",,defillama,2026-07-15,false,c8d686a5778e250d549ebf6a79ee1159cc2a749eec419935b2d599e957d9271d
+Binance Peg BUSD,stablecoin_issuer,65,0,0,10,,defillama-adapters,binance-peg-busd,,"binance peg busd,binance-peg-busd",,defillama,2026-07-15,false,1c9970674f20a46eae8c9353f823001a2b78834860c782aaef0482a00202a6a4
+PayPal USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,paypal-usd,,"paypal usd,paypal-usd",,defillama,2026-07-15,false,6eebdb44c81d43b41dc901d453726584d2dabf49d37dc207e7e7d4abef42f8e7
+Quantoz USDQ,stablecoin_issuer,65,0,0,10,,defillama-adapters,quantoz-usdq,,"quantoz usdq,quantoz-usdq",,defillama,2026-07-15,false,64446eba7320b47004569ea5a6fb431aa89cc15a054f552f7ce6b500e12f1d17
+Fidelity Digital Dollar,stablecoin_issuer,65,0,0,10,,defillama-adapters,fidelity-digital-dollar,,"fidd,fidelity digital dollar,fidelity-digital-dollar",,defillama,2026-07-15,false,e2eae532696e7ca1c7237d6f502d52d0d699a381839440b44c141907cbf54abb
+Mento Euro,stablecoin_issuer,65,0,0,10,,defillama-adapters,celo-euro,,"celo-euro,eurm,mento euro",,defillama,2026-07-15,false,6fe9ac554d4203a056d7ece004675270f4393bd39519271e65798017ff9694ae
+Agora Dollar,stablecoin_issuer,65,0,0,10,,defillama-adapters,agora-dollar,,"agora dollar,agora-dollar",,defillama,2026-07-15,false,85528c59e56401000f0e82ac69ddc596d5fd4051f8acc32bd1ab69472459412c
+AllUnity EUR,stablecoin_issuer,65,0,0,10,,defillama-adapters,allunity-eur,,"allunity eur,allunity-eur,eurau",,defillama,2026-07-15,false,462844ec26c2a1bbc167927a5332ca906f64922b45daf837a0b14b91d7ecdcb5
+Ethena Labs,stablecoin_issuer,65,0,0,10,,defillama-adapters,ethena-usde,,"ethena,susde",,defillama,2026-07-15,false,ede610584d1d2ff981dd56caeea54cd4ebed8cb2a7a51d983d34f6c03d4a65e4
+Circle,stablecoin_issuer,65,0,0,10,,defillama-adapters,usd-coin,,"circle,usd coin,usd-coin",,defillama,2026-07-15,false,eb874115af98a367538d97320af98d539201ccfed8015c6cb9787004dc3bce4c
+Iron Bank EURO,stablecoin_issuer,65,0,0,10,,defillama-adapters,iron-bank-euro,,"ibeur,iron bank euro,iron-bank-euro",,defillama,2026-07-15,false,987f9d913455f9b06a4682b0138d459e61003d6a2a0a33724bb33e63bee9e1fa
+Youves uUSD,stablecoin_issuer,65,0,0,10,,defillama-adapters,youves-uusd,,"uusd,youves uusd,youves-uusd",,defillama,2026-07-15,false,1aac4926c35eb663934ab978d4a39aaff2a61f56295423ca54522dcba5761483
+Yuzu USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,yuzu-usd,,"yuzu usd,yuzu-usd,yzusd",,defillama,2026-07-15,false,5ee430ceff141351f2b90740a59b52dabb81ee00500651ece9bf458e81c57dad
+Glo Dollar,stablecoin_issuer,65,0,0,10,,defillama-adapters,glo-dollar,,"glo dollar,glo-dollar,usdglo",,defillama,2026-07-15,false,b86c3930213fbd203371eb2c98dc8aca8dd0d7e92bbe145aa08e7a9689156331
+Newrails Euro,stablecoin_issuer,65,0,0,10,,defillama-adapters,newrails-euro,,"eurw,newrails euro,newrails-euro",,defillama,2026-07-15,false,7c3338c95fc54a89ce8e84cb595c3f17aa31c4d7c892d933a445695d8fdb8dab
+Binance USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,binance-usd,,"binance usd,binance-usd",,defillama,2026-07-15,false,ae3cf53213696de99fa6f9e763c3417cd7c4d389525d108c37dc7b3793e795c9
+GHO,stablecoin_issuer,65,0,0,10,,defillama-adapters,gho,,gho,,defillama,2026-07-15,false,32d299892e2d408f040c1b7ae431e63dca56904ff1e329bb5c73ec0e631cd235
+United Stables,stablecoin_issuer,65,0,0,10,,defillama-adapters,united-stables,,"united stables,united-stables",,defillama,2026-07-15,false,529ff81a71552c8005aaa8ff52f464e14f041caec81faffda349754fcf21dd13
+Quantoz EURQ,stablecoin_issuer,65,0,0,10,,defillama-adapters,quantoz-eurq,,"eurq,quantoz eurq,quantoz-eurq",,defillama,2026-07-15,false,bd0af18bd176b16fc58eb731d5382fe841f8675b22e22fbf3af58e84af6fa1d8
+HUSD,stablecoin_issuer,65,0,0,10,,defillama-adapters,husd,,husd,,defillama,2026-07-15,false,78cb846a77c847ebd207cf3cf5951ef08401f31beec05a560a765486484cd6e8
+Lift Dollar,stablecoin_issuer,65,0,0,10,,defillama-adapters,lift-dollar,,"lift dollar,lift-dollar",,defillama,2026-07-15,false,c234275f9a8bc49f9cb3993e0e124d7a53988e7ed2affa907195f7146c0c183b
+Hex Trust USDX,stablecoin_issuer,65,0,0,10,,defillama-adapters,hex-trust-usdx,,"hex trust usdx,hex-trust-usdx",,defillama,2026-07-15,false,a145daf6f59a9036300b19f0352409fb2aa8c54ac78e175e61f1348bbc6f8866
+ARYZE eUSD,stablecoin_issuer,65,0,0,10,,defillama-adapters,aryze-eusd,,"aryze eusd,aryze-eusd",,defillama,2026-07-15,false,91841c37b74b88d87b9f5c01125f918ea1d386d23e561303c116922d0660c4f7
+Ondo US Dollar Yield,stablecoin_issuer,65,0,0,10,,defillama-adapters,ondo-us-dollar-yield,,"ondo us dollar yield,ondo-us-dollar-yield,usdy",,defillama,2026-07-15,false,076f4f319115e26b212b7b67ce1cc8c91249d600cf16ee8f3bed05d02a8e1ea1
+Ripple USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,ripple-usd,,"ripple usd,ripple-usd,rlusd",,defillama,2026-07-15,false,d4688df732c640d09e82a237ba4ae713bd905c2f06de6a6e35bb348213cd5ee3
+ARYZE eGBP,stablecoin_issuer,65,0,0,10,,defillama-adapters,aryze-egbp,,"aryze egbp,aryze-egbp,egbp",,defillama,2026-07-15,false,57ecf48088576e680f291687e9775f6fa5063c1f5cc4f02c0fee6a2cf1ecd903
+VNX British Pound,stablecoin_issuer,65,0,0,10,,defillama-adapters,vnx-british-pound,,"vgbp,vnx british pound,vnx-british-pound",,defillama,2026-07-15,false,fbda266e834cb8cf4a254d4e64dfb9f4a86c98f900df1369f0cabf81c000ae2f
+StablR USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,stablr-usd,,"stablr usd,stablr-usd",,defillama,2026-07-15,false,a47f6925ac86ee01d6f43383c1db285680772f39e81aef1e85e070d019c482db
+Liquid Loans USDL,stablecoin_issuer,65,0,0,10,,defillama-adapters,liquid-loans-usdl,,"liquid loans usdl,liquid-loans-usdl",,defillama,2026-07-15,false,a58c5f00a98ebbf5eea531c04b4b935229f1758596f189a42ab58f2a966a9bcb

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-14T21:09:43+00:00",
+  "generated_at": "2026-07-14T21:12:29+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -18127,6 +18127,1759 @@
       "logo_path": "logos/exchanges/idax.png",
       "keywords": [
         "idax"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hermetica-usdh",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/hermetica-usdh.png",
+      "keywords": [
+        "hermetica usdh",
+        "hermetica-usdh"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "plume-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/plume-usd.png",
+      "keywords": [
+        "plume usd",
+        "plume-usd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "solayer-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/solayer-usd.png",
+      "keywords": [
+        "solayer usd",
+        "solayer-usd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "usdh",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/usdh.png",
+      "keywords": [
+        "usdh"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pleasing-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/pleasing-usd.png",
+      "keywords": [
+        "pleasing usd",
+        "pleasing-usd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "alto-dusd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/alto-dusd.png",
+      "keywords": [
+        "alto dusd",
+        "alto-dusd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tori-trusd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/tori-trusd.png",
+      "keywords": [
+        "tori trusd",
+        "tori-trusd",
+        "trusd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "davos-protocol",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/davos-protocol.png",
+      "keywords": [
+        "davos protocol",
+        "davos-protocol"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "thestandard-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/thestandard-usd.png",
+      "keywords": [
+        "thestandard usd",
+        "thestandard-usd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "xbanking-usde",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/xbanking-usde.png",
+      "keywords": [
+        "xbanking usde",
+        "xbanking-usde"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "just-stablecoin",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/just-stablecoin.png",
+      "keywords": [
+        "just-stablecoin",
+        "usdj"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coin98-dollar",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/coin98-dollar.png",
+      "keywords": [
+        "coin98 dollar",
+        "coin98-dollar"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "moremoney-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/moremoney-usd.png",
+      "keywords": [
+        "moremoney usd",
+        "moremoney-usd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "standx-dusd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/standx-dusd.png",
+      "keywords": [
+        "standx dusd",
+        "standx-dusd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "us-permissionless-dollar",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/us-permissionless-dollar.png",
+      "keywords": [
+        "us permissionless dollar",
+        "us-permissionless-dollar"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "infinifi-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/infinifi-usd.png",
+      "keywords": [
+        "infinifi usd",
+        "infinifi-usd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "main-street-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/main-street-usd.png",
+      "keywords": [
+        "main street usd",
+        "main-street-usd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "aegis-yusd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/aegis-yusd.png",
+      "keywords": [
+        "aegis yusd",
+        "aegis-yusd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "resupply-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/resupply-usd.png",
+      "keywords": [
+        "resupply usd",
+        "resupply-usd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "noon-usn",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/noon-usn.png",
+      "keywords": [
+        "noon usn",
+        "noon-usn"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "metamask-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/metamask-usd.png",
+      "keywords": [
+        "metamask usd",
+        "metamask-usd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "electronic-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/electronic-usd.png",
+      "keywords": [
+        "electronic usd",
+        "electronic-usd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mezo-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/mezo-usd.png",
+      "keywords": [
+        "mezo usd",
+        "mezo-usd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "real-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/real-usd.png",
+      "keywords": [
+        "real usd",
+        "real-usd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "yusd-stablecoin",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/yusd-stablecoin.png",
+      "keywords": [
+        "yusd stablecoin",
+        "yusd-stablecoin"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "anzens-usda",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/anzens-usda.png",
+      "keywords": [
+        "anzens usda",
+        "anzens-usda"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "solomon-usdv",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/solomon-usdv.png",
+      "keywords": [
+        "solomon usdv",
+        "solomon-usdv"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "iusd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/iusd.png",
+      "keywords": [
+        "iusd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pareto-usp",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/pareto-usp.png",
+      "keywords": [
+        "pareto usp",
+        "pareto-usp"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "opus-cash",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/opus-cash.png",
+      "keywords": [
+        "opus cash",
+        "opus-cash"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "smardex-usdn",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/smardex-usdn.png",
+      "keywords": [
+        "smardex usdn",
+        "smardex-usdn"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hedge-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/hedge-usd.png",
+      "keywords": [
+        "hedge usd",
+        "hedge-usd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "asymmetry-usdaf",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/asymmetry-usdaf.png",
+      "keywords": [
+        "asymmetry usdaf",
+        "asymmetry-usdaf"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "avant-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/avant-usd.png",
+      "keywords": [
+        "avant usd",
+        "avant-usd",
+        "avusd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "elixir-deusd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/elixir-deusd.png",
+      "keywords": [
+        "deusd",
+        "elixir deusd",
+        "elixir-deusd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "sperax-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/sperax-usd.png",
+      "keywords": [
+        "sperax usd",
+        "sperax-usd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "jupusd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/jupusd.png",
+      "keywords": [
+        "jupusd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bean",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/bean.png",
+      "keywords": [
+        "bean"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "saturn-dollar",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/saturn-dollar.png",
+      "keywords": [
+        "saturn dollar",
+        "saturn-dollar",
+        "usdat"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gaib-aid",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/gaib-aid.png",
+      "keywords": [
+        "aid",
+        "gaib aid",
+        "gaib-aid"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "usdtez",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/usdtez.png",
+      "keywords": [
+        "usdtez",
+        "usdtz"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "alchemix-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/alchemix-usd.png",
+      "keywords": [
+        "alchemix usd",
+        "alchemix-usd",
+        "alusd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "esui-dollar",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/esui-dollar.png",
+      "keywords": [
+        "esui dollar",
+        "esui-dollar",
+        "suiusde"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "felix-feusd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/felix-feusd.png",
+      "keywords": [
+        "felix feusd",
+        "felix-feusd",
+        "feusd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "metronome-synth-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/metronome-synth-usd.png",
+      "keywords": [
+        "metronome synth usd",
+        "metronome-synth-usd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "usdx-money-usdx",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/usdx-money-usdx.png",
+      "keywords": [
+        "usdx money usdx",
+        "usdx-money-usdx"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "anzen-usdz",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/anzen-usdz.png",
+      "keywords": [
+        "anzen usdz",
+        "anzen-usdz",
+        "usdz"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "usbd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/usbd.png",
+      "keywords": [
+        "usbd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mu-digital-aznd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/mu-digital-aznd.png",
+      "keywords": [
+        "aznd",
+        "mu digital aznd",
+        "mu-digital-aznd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "citrea-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/citrea-usd.png",
+      "keywords": [
+        "citrea usd",
+        "citrea-usd",
+        "ctusd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "web-3-dollar",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/web-3-dollar.png",
+      "keywords": [
+        "usd3",
+        "web 3 dollar",
+        "web-3-dollar"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "parrot-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/parrot-usd.png",
+      "keywords": [
+        "pai",
+        "parrot usd",
+        "parrot-usd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "fei-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/fei-usd.png",
+      "keywords": [
+        "fei",
+        "fei usd",
+        "fei-usd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "usdx",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/usdx.png",
+      "keywords": [
+        "usdx"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "us-sonic-dollar",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/us-sonic-dollar.png",
+      "keywords": [
+        "us sonic dollar",
+        "us-sonic-dollar",
+        "ussd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "syusd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/syusd.png",
+      "keywords": [
+        "synnax stablecoin",
+        "syusd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "vai",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/vai.png",
+      "keywords": [
+        "vai"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "sovryn-dollar",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/sovryn-dollar.png",
+      "keywords": [
+        "dllr",
+        "sovryn dollar",
+        "sovryn-dollar"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "fathom-dollar",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/fathom-dollar.png",
+      "keywords": [
+        "fathom dollar",
+        "fathom-dollar",
+        "fxd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "balanced-dollars",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/balanced-dollars.png",
+      "keywords": [
+        "balanced dollars",
+        "balanced-dollars",
+        "bnusd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "usdst",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/usdst.png",
+      "keywords": [
+        "usdst"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "last-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/last-usd.png",
+      "keywords": [
+        "last usd",
+        "last-usd",
+        "usdxl"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "rings-scusd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/rings-scusd.png",
+      "keywords": [
+        "rings scusd",
+        "rings-scusd",
+        "scusd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dtrinity-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/dtrinity-usd.png",
+      "keywords": [
+        "dtrinity usd",
+        "dtrinity-usd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "usk",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/usk.png",
+      "keywords": [
+        "usk"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "threshold-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/threshold-usd.png",
+      "keywords": [
+        "threshold usd",
+        "threshold-usd",
+        "thusd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "good-game-us-dollar",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/good-game-us-dollar.png",
+      "keywords": [
+        "ggusd",
+        "good game us dollar",
+        "good-game-us-dollar"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "level-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/level-usd.png",
+      "keywords": [
+        "level usd",
+        "level-usd",
+        "lvlusd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "usd-somnia",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/usd-somnia.png",
+      "keywords": [
+        "usd somnia",
+        "usd-somnia",
+        "usdso"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "nectar",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/nectar.png",
+      "keywords": [
+        "nect",
+        "nectar"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "weusd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/weusd.png",
+      "keywords": [
+        "weusd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kolibri-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/kolibri-usd.png",
+      "keywords": [
+        "kolibri usd",
+        "kolibri-usd",
+        "kusd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "uxd-stablecoin",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/uxd-stablecoin.png",
+      "keywords": [
+        "uxd",
+        "uxd stablecoin",
+        "uxd-stablecoin"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "grai",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/grai.png",
+      "keywords": [
+        "grai"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bai-stablecoin",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/bai-stablecoin.png",
+      "keywords": [
+        "bai",
+        "bai stablecoin",
+        "bai-stablecoin"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "inter-stable-token",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/inter-stable-token.png",
+      "keywords": [
+        "inter stable token",
+        "inter-stable-token",
+        "ist"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "usdfc",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/usdfc.png",
+      "keywords": [
+        "usdfc"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ethos-reserve-note",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/ethos-reserve-note.png",
+      "keywords": [
+        "ern",
+        "ethos reserve note",
+        "ethos-reserve-note"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "move-dollar",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/move-dollar.png",
+      "keywords": [
+        "mod",
+        "move dollar",
+        "move-dollar"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "first-digital-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/first-digital-usd.png",
+      "keywords": [
+        "fdusd",
+        "first digital"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kei-stablecoin",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/kei-stablecoin.png",
+      "keywords": [
+        "kei",
+        "kei stablecoin",
+        "kei-stablecoin"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hex-dollar-coin",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/hex-dollar-coin.png",
+      "keywords": [
+        "hex dollar coin",
+        "hex-dollar-coin",
+        "hexdc"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dai",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/dai.png",
+      "keywords": [
+        "dai"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "global-dollar",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/global-dollar.png",
+      "keywords": [
+        "global dollar",
+        "global-dollar",
+        "usdg"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "megausd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/megausd.png",
+      "keywords": [
+        "megausd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "usual-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/usual-usd.png",
+      "keywords": [
+        "usd0",
+        "usual usd",
+        "usual-usd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ylds",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/ylds.png",
+      "keywords": [
+        "ylds"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "apxusd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/apxusd.png",
+      "keywords": [
+        "apxusd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "re-protocol-reusd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/re-protocol-reusd.png",
+      "keywords": [
+        "re protocol reusd",
+        "re-protocol-reusd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "satoshi-stablecoin",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/satoshi-stablecoin.png",
+      "keywords": [
+        "river stablecoin",
+        "satoshi-stablecoin",
+        "satusd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cygnus-finance-global-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/cygnus-finance-global-usd.png",
+      "keywords": [
+        "cgusd",
+        "cygnus finance global usd",
+        "cygnus-finance-global-usd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "magic-internet-money",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/magic-internet-money.png",
+      "keywords": [
+        "magic internet money",
+        "magic-internet-money",
+        "mim"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gyroscope-gyd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/gyroscope-gyd.png",
+      "keywords": [
+        "gyd",
+        "gyroscope gyd",
+        "gyroscope-gyd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bucket-protocol-buck-stablecoin",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/bucket-protocol-buck-stablecoin.png",
+      "keywords": [
+        "buck",
+        "bucket protocol buck stablecoin",
+        "bucket-protocol-buck-stablecoin"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tor",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/tor.png",
+      "keywords": [
+        "tor"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "worldwide-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/worldwide-usd.png",
+      "keywords": [
+        "worldwide usd",
+        "worldwide-usd",
+        "wusd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hydrated-dollar",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/hydrated-dollar.png",
+      "keywords": [
+        "hollar",
+        "hydrated dollar",
+        "hydrated-dollar"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pinto",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/pinto.png",
+      "keywords": [
+        "pinto"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pathusd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/pathusd.png",
+      "keywords": [
+        "pathusd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "yu",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/yu.png",
+      "keywords": [
+        "yu"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "rif-us-dollar",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/rif-us-dollar.png",
+      "keywords": [
+        "rif us dollar",
+        "rif-us-dollar",
+        "usdrif"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "classic-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/classic-usd.png",
+      "keywords": [
+        "classic usd",
+        "classic-usd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dyad",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/dyad.png",
+      "keywords": [
+        "dyad"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "jigsaw-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/jigsaw-usd.png",
+      "keywords": [
+        "jigsaw usd",
+        "jigsaw-usd",
+        "jusd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "knox-dollar",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/knox-dollar.png",
+      "keywords": [
+        "knox",
+        "knox dollar",
+        "knox-dollar"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "parabol-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/parabol-usd.png",
+      "keywords": [
+        "parabol usd",
+        "parabol-usd",
+        "parausd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "uncap-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/uncap-usd.png",
+      "keywords": [
+        "uncap usd",
+        "uncap-usd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "phase-dollar",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/phase-dollar.png",
+      "keywords": [
+        "phase dollar",
+        "phase-dollar"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "seur",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/seur.png",
+      "keywords": [
+        "seur"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "frax-price-index",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/frax-price-index.png",
+      "keywords": [
+        "fpi",
+        "frax price index",
+        "frax-price-index"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kerne-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/kerne-usd.png",
+      "keywords": [
+        "kerne usd",
+        "kerne-usd",
+        "kusd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "alternity-cny",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/alternity-cny.png",
+      "keywords": [
+        "alternity cny",
+        "alternity-cny",
+        "lcny"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "collateralized-debt-token",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/collateralized-debt-token.png",
+      "keywords": [
+        "cdt",
+        "collateralized debt token",
+        "collateralized-debt-token"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tokenised-gbp",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/tokenised-gbp.png",
+      "keywords": [
+        "tgbp",
+        "tokenised gbp",
+        "tokenised-gbp"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gyen",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/gyen.png",
+      "keywords": [
+        "gyen"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "agant-gbp",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/agant-gbp.png",
+      "keywords": [
+        "agant gbp",
+        "agant-gbp",
+        "gbpa"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "straitsx-xusd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/straitsx-xusd.png",
+      "keywords": [
+        "straitsx xusd",
+        "straitsx-xusd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gemini-dollar",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/gemini-dollar.png",
+      "keywords": [
+        "gemini dollar",
+        "gemini-dollar",
+        "gusd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "celo-dollar",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/celo-dollar.png",
+      "keywords": [
+        "celo-dollar",
+        "mento dollar"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "vnx-euro",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/vnx-euro.png",
+      "keywords": [
+        "veur",
+        "vnx euro",
+        "vnx-euro"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "stablr-euro",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/stablr-euro.png",
+      "keywords": [
+        "eurr",
+        "stablr euro",
+        "stablr-euro"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mento-british-pound",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/mento-british-pound.png",
+      "keywords": [
+        "gbpm",
+        "mento british pound",
+        "mento-british-pound"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "quantoz-eurd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/quantoz-eurd.png",
+      "keywords": [
+        "eurd",
+        "quantoz eurd",
+        "quantoz-eurd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "usd-coinvertible",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/usd-coinvertible.png",
+      "keywords": [
+        "usd coinvertible",
+        "usd-coinvertible",
+        "usdcv"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "eurite",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/eurite.png",
+      "keywords": [
+        "euri",
+        "eurite"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "aryze-eeur",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/aryze-eeur.png",
+      "keywords": [
+        "aryze eeur",
+        "aryze-eeur",
+        "eeur"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "schuman-europ",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/schuman-europ.png",
+      "keywords": [
+        "europ",
+        "schuman europ",
+        "schuman-europ"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "binance-peg-busd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/binance-peg-busd.png",
+      "keywords": [
+        "binance peg busd",
+        "binance-peg-busd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "paypal-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/paypal-usd.png",
+      "keywords": [
+        "paypal usd",
+        "paypal-usd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "quantoz-usdq",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/quantoz-usdq.png",
+      "keywords": [
+        "quantoz usdq",
+        "quantoz-usdq"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "fidelity-digital-dollar",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/fidelity-digital-dollar.png",
+      "keywords": [
+        "fidd",
+        "fidelity digital dollar",
+        "fidelity-digital-dollar"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "celo-euro",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/celo-euro.png",
+      "keywords": [
+        "celo-euro",
+        "eurm",
+        "mento euro"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "agora-dollar",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/agora-dollar.png",
+      "keywords": [
+        "agora dollar",
+        "agora-dollar"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "allunity-eur",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/allunity-eur.png",
+      "keywords": [
+        "allunity eur",
+        "allunity-eur",
+        "eurau"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ethena-usde",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/ethena-usde.png",
+      "keywords": [
+        "ethena",
+        "susde"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "usd-coin",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/usd-coin.png",
+      "keywords": [
+        "circle",
+        "usd coin",
+        "usd-coin"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "iron-bank-euro",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/iron-bank-euro.png",
+      "keywords": [
+        "ibeur",
+        "iron bank euro",
+        "iron-bank-euro"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "youves-uusd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/youves-uusd.png",
+      "keywords": [
+        "uusd",
+        "youves uusd",
+        "youves-uusd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "yuzu-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/yuzu-usd.png",
+      "keywords": [
+        "yuzu usd",
+        "yuzu-usd",
+        "yzusd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "glo-dollar",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/glo-dollar.png",
+      "keywords": [
+        "glo dollar",
+        "glo-dollar",
+        "usdglo"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "newrails-euro",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/newrails-euro.png",
+      "keywords": [
+        "eurw",
+        "newrails euro",
+        "newrails-euro"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "binance-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/binance-usd.png",
+      "keywords": [
+        "binance usd",
+        "binance-usd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gho",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/gho.png",
+      "keywords": [
+        "gho"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "united-stables",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/united-stables.png",
+      "keywords": [
+        "united stables",
+        "united-stables"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "quantoz-eurq",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/quantoz-eurq.png",
+      "keywords": [
+        "eurq",
+        "quantoz eurq",
+        "quantoz-eurq"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "husd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/husd.png",
+      "keywords": [
+        "husd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "lift-dollar",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/lift-dollar.png",
+      "keywords": [
+        "lift dollar",
+        "lift-dollar"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hex-trust-usdx",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/hex-trust-usdx.png",
+      "keywords": [
+        "hex trust usdx",
+        "hex-trust-usdx"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "aryze-eusd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/aryze-eusd.png",
+      "keywords": [
+        "aryze eusd",
+        "aryze-eusd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ondo-us-dollar-yield",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/ondo-us-dollar-yield.png",
+      "keywords": [
+        "ondo us dollar yield",
+        "ondo-us-dollar-yield",
+        "usdy"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ripple-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/ripple-usd.png",
+      "keywords": [
+        "ripple usd",
+        "ripple-usd",
+        "rlusd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "aryze-egbp",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/aryze-egbp.png",
+      "keywords": [
+        "aryze egbp",
+        "aryze-egbp",
+        "egbp"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "vnx-british-pound",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/vnx-british-pound.png",
+      "keywords": [
+        "vgbp",
+        "vnx british pound",
+        "vnx-british-pound"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "stablr-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/stablr-usd.png",
+      "keywords": [
+        "stablr usd",
+        "stablr-usd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "liquid-loans-usdl",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/liquid-loans-usdl.png",
+      "keywords": [
+        "liquid loans usdl",
+        "liquid-loans-usdl"
       ],
       "product_aliases": [],
       "sanctioned": false

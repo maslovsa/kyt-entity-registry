@@ -71,6 +71,7 @@ CATEGORY_TO_DIR: dict[str, str] = {
     "hack": "hack",
     "sanctioned": "sanctioned",
     "custodian": "custodian",
+    "stablecoin_issuer": "stablecoin_issuer",
 }
 
 _STRIP_SUFFIXES = [

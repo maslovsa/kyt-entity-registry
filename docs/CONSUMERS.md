@@ -64,6 +64,7 @@ const CATEGORY_TO_DIR: Record<string, string> = {
   hack:             'hack',
   sanctioned:       'sanctioned',
   custodian:        'custodian',
+  stablecoin_issuer: 'stablecoin_issuer',
 }
 
 const SUFFIX_STRIP = [
@@ -191,6 +192,7 @@ _CATEGORY_TO_DIR = {
     "hack":            "hack",
     "sanctioned":      "sanctioned",
     "custodian":       "custodian",
+    "stablecoin_issuer": "stablecoin_issuer",
 }
 
 _STRIP_SUFFIXES = [
