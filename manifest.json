@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-14T21:32:36+00:00",
+  "generated_at": "2026-07-14T22:26:09+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -764,6 +764,18 @@
       "logo_path": "logos/psp/heleket-com.png",
       "keywords": [
         "heleket"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hinkal",
+      "category": "mixer",
+      "logo_path": "logos/mixer/hinkal.png",
+      "keywords": [
+        "hinkal",
+        "hinkal.xyz",
+        "hinkal protocol"
       ],
       "product_aliases": [],
       "sanctioned": false
