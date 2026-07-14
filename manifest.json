@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-14T19:51:04+00:00",
+  "generated_at": "2026-07-14T20:36:30+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17875,6 +17875,16 @@
       "sanctioned": false
     },
     {
+      "slug": "whalesburg",
+      "category": "mining",
+      "logo_path": "logos/mining/whalesburg.png",
+      "keywords": [
+        "whalesburg"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "wink",
       "category": "gambling",
       "logo_path": "logos/gambling/wink.png",
@@ -18063,6 +18073,40 @@
         "votium",
         "votium.app",
         "multimerklestash"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitget-wallet",
+      "category": "custodian",
+      "logo_path": "logos/custodian/bitget-wallet.png",
+      "keywords": [
+        "bitget wallet",
+        "bitkeep"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "justin-sun",
+      "category": "individual",
+      "logo_path": "logos/individual/justin-sun.png",
+      "keywords": [
+        "justin sun",
+        "justinsuntron"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "societe-generale-forge-eurcv",
+      "category": "defi",
+      "logo_path": "logos/defi/societe-generale-forge-eurcv.png",
+      "keywords": [
+        "eur coinvertible",
+        "eurcv",
+        "societe generale forge"
       ],
       "product_aliases": [],
       "sanctioned": false

@@ -2369,7 +2369,7 @@ Vesper Finance,defi,50,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE,m
 Virtue Poker,gambling,40,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE,manual-admin,virtue-poker,virtue.poker,virtue poker ethereum blockchain poker,virtue poker vpu,none,2026-07-09,true,
 Wallet in Telegram,wallet,70,1,75,5,TON|ETH|BTC|TRON,manual-admin,wallet-in-telegram,wallet.tg,"wallet in telegram,wallet telegram,wallet.tg",,manual,2026-07-09,true,ca932aa5eae0a2fc0c1e00793e24de912e0885ffdd16c7907bdc08e7b437c499
 Waterhole,mining,30,1,75,5,ETH,manual-admin,waterhole,waterhole.io,waterhole mining pool eth,waterhole,none,2026-07-09,true,
-Whalesburg,mining,30,1,75,5,ETH,manual-admin,whalesburg,whalesburg.com,whalesburg mining pool ethereum,whalesburg,none,2026-07-09,true,
+Whalesburg,mining,30,1,75,5,ETH,manual-admin,whalesburg,whalesburg.com,whalesburg,,manual,2026-07-14,true,ba60055b49e5aa6e0587e384c8fae6c0ceb1c99b9e7b6a4bcf23c78bd566c32b
 WINk,gambling,50,1,75,5,TRON|ETH|BSC,manual-admin,wink,wink.live,"wink,winklink,winkdao",,manual,2026-07-09,true,fdf7ce9bf926c2e5a749c0ad21ca045dcfab00d303c7a6135f627fa3ae196807
 Wintermute,defi,60,1,75,5,ETH|BSC|SOL,manual-admin,wintermute,wintermute.com,wintermute,,manual,2026-07-09,true,e61be5e8c2e00ee8a3548923d5e8a28d7c65e2f9563bd98b5c8babe977cda848
 Xether.io,exchange,30,1,75,5,ETH,manual-admin,xether-io,xether.io,"xether.io,xether",,manual,2026-07-09,true,cc659349ed0a0d9ecbef87b28874d45ad83a3e108ab6526d2beab2c210073f0c
@@ -2385,6 +2385,9 @@ Fabur,merchant,10,4,50,0,TRON,manual-admin,fabur,instagram.com/fabur.inc,"fabur,
 MB (ex Multibank),exchange,100,4,75,5,TRON,manual-admin,mb-io,mb.io,"mb.io,multibank,multibankfx.com",,manual,2026-07-13,true,31d3722696d7e9004073388ca4328930cae267b8f644a807addd665837b76241
 USDT.KG,exchange,50,1,80,5,TRON,manual-admin,usdt-kg,usdt.kg,"usdt.kg,ticketnet",,manual,2026-07-14,true,274a2e4d56bcf40d3498c5c4dad207dc882e948c13dc4c674a2165e20ec8b37e
 Raastin,exchange,60,,,,TRON,,raastin-com,raastin.com,"raastin,raastin.com",,manual,2026-07-14,true,7d7da9cb9ad339f0ce43bb70a86ffb05c40ed6248a9b2e03dfd25b32b5054ce5
-ExWallet,custodian,60,,,,TRON,,exwallet-io,exwallet.io,"exwallet,exwallet.io",,manual,2026-07-14,true,d536dda4260310990fc1cfc43e101e1fb1385a88ef0e2fb48e38a59f14d9a670
+ExWallet,custodian,60,,,,TRON,,exwallet-io,exwallet.io,"exwallet,exwallet.io",,manual,2026-07-14,true,eefe579a617342c6a2a938a777b1f29e092a9341e30eb7d9d8c7765f0a37e232
 Sergei Mendeleev,wallet,80,,,,TRON,manual-admin,sergei-mendeleev,,"sergei mendeleev,mendeleev",,manual,2026-07-14,true,c38af433eab9c3dfa5a7e334fa5c33373470edc1e4f1a1e26b5a2ea155d36955
 Votium,defi,100,12,90,10,ETH|ARBITRUM|AVALANCHE|BASE|BSC|OPTIMISM|POLYGON,arkham|scorechain-counterparties,votium,votium.app,"votium,votium.app,multimerklestash",,manual,2026-07-14,true,c68291246966830c6ae39441025b467c354b9c359c63c1462cc5c0be2607194c
+Bitget Wallet (Prev. Bitkeep),custodian,100,,75,5,,manual-admin,bitget-wallet,,"bitget wallet,bitkeep",,manual,2026-07-14,true,e4593e21bf01d6bb31d5a1b514d146ed03439b3ebae8aaf6c00b3ab294c5a4e2
+Justin Sun,individual,100,,70,5,,manual-admin,justin-sun,,"justin sun,justinsuntron",,manual,2026-07-14,true,6335233312195a88fe99f6e432a1041a0432750163a60fdbb74de105f860389a
+EUR CoinVertible,defi,100,,80,5,,manual-admin,societe-generale-forge-eurcv,,"eur coinvertible,eurcv,societe generale forge",,manual,2026-07-14,true,526dcbee3d9afc29ad59ebcfca3b95b9e86e73ddf979d310b59d8e06118e47e8
