@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-13T21:57:23+00:00",
+  "generated_at": "2026-07-14T10:00:46+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17895,6 +17895,17 @@
         "mb.io",
         "multibank",
         "multibankfx.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "usdt-kg",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/usdt-kg.png",
+      "keywords": [
+        "usdt.kg",
+        "ticketnet"
       ],
       "product_aliases": [],
       "sanctioned": false
