@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-14T20:41:23+00:00",
+  "generated_at": "2026-07-14T20:49:19+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17712,6 +17712,16 @@
       "logo_path": "logos/exchanges/smart-valor.png",
       "keywords": [
         "smart valor"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "southxchange",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/southxchange.png",
+      "keywords": [
+        "southxchange"
       ],
       "product_aliases": [],
       "sanctioned": false
