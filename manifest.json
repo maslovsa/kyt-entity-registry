@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-14T20:36:30+00:00",
+  "generated_at": "2026-07-14T20:41:23+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -18107,6 +18107,16 @@
         "eur coinvertible",
         "eurcv",
         "societe generale forge"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "idax",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/idax.png",
+      "keywords": [
+        "idax"
       ],
       "product_aliases": [],
       "sanctioned": false
