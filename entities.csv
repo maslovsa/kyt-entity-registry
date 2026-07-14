@@ -1292,7 +1292,7 @@ Pingi.co,exchange,48,,,,TRON,,pingi,pingi.co,"pingi,pingi.co",,manual,2026-06-02
 Beribit.com,exchange,47,,,,ETH|TRON,,beribit-com,beribit.com,"beribit,beribit.com",,placeholder,2026-06-02,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Bitmama.io,exchange,46,,,,ETH|BTC,,bitmama-io,bitmama.io,"bitmama,bitmama.io",,favicon,2026-06-02,false,b20f036577059c792aec55e0b38324c622ca323863e463f8a403786e7172cb1d
 Ariomex,exchange,42,,,,ETH|TRON,,ariomex,,ariomex,,manual,2026-07-14,false,3e6cefba06ac95d9a7a1476f0074b4791f8ec34ad3fba3b4e8ddeaba622b5804
-BlueBit,exchange,42,,,,ETH,,bluebit,,bluebit,,arkham,2026-06-02,false,888eba00bb00a49c600c660551b52c63d8d92d992bae65186a2f594126f9a132
+BlueBit,exchange,42,,,,ETH,,bluebit,bluebit.io,bluebit,,manual,2026-07-15,true,057d797ec5a290984d8ee13d03b628a2b589ff7c799f9a500bf21c68f6487bd5
 4g.net,gambling,30,7,100,65,TRON,manual-admin|scorechain-counterparties,4g-net,4g.net,"4g.net,4gnet,4g casino,4g gambling,4gwd",,manual,2026-06-24,true,b8e02feb4d5e57c2c577cf943e5b4c443ad2a9da2193b3cbbff81218004f396c
 MaiCoinMAX - MAX Exchange,exchange,99.8,133,75,5,BSC|ETH|TRON,scorechain-counterparties,maicoinmax-max,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 OnyxProtocol,defi,99.4,142,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,onyxprotocol,,,,defillama,2026-05-11,false,9ce95f35c765a139345a9e6626cf8ec9fbb569187967b28cff40c08a078d15c6
