@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-14T10:00:46+00:00",
+  "generated_at": "2026-07-14T17:05:06+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -1125,6 +1125,21 @@
       "sanctioned": false
     },
     {
+      "slug": "promsvyazbank-ru",
+      "category": "sanctioned",
+      "logo_path": "logos/sanctioned/promsvyazbank-ru.png",
+      "keywords": [
+        "promsvyazbank",
+        "psb",
+        "pjsc promsvyazbank",
+        "public joint stock company promsvyazbank",
+        "psbank",
+        "psbank.ru"
+      ],
+      "product_aliases": [],
+      "sanctioned": true
+    },
+    {
       "slug": "poloniex-rekt",
       "category": "exchange",
       "logo_path": "logos/exchanges/poloniex-rekt.png",
@@ -1744,6 +1759,20 @@
       "sanctioned": false
     },
     {
+      "slug": "a7-llc-ru",
+      "category": "sanctioned",
+      "logo_path": "logos/sanctioned/a7-llc-ru.png",
+      "keywords": [
+        "a7",
+        "a7 llc",
+        "a7 limited",
+        "a7 limited liability company",
+        "obshchestvo s ogranichennoi otvetstvennostyu a7"
+      ],
+      "product_aliases": [],
+      "sanctioned": true
+    },
+    {
       "slug": "altair-holding-sa-lu",
       "category": "sanctioned",
       "logo_path": "logos/sanctioned/altair-holding-sa-lu.png",
@@ -1844,6 +1873,17 @@
       "sanctioned": false
     },
     {
+      "slug": "tengricoin-kg",
+      "category": "sanctioned",
+      "logo_path": "logos/sanctioned/tengricoin-kg.png",
+      "keywords": [
+        "tengricoin",
+        "cjsc tengricoin"
+      ],
+      "product_aliases": [],
+      "sanctioned": true
+    },
+    {
       "slug": "coinbase-bridge",
       "category": "bridge",
       "logo_path": "logos/bridge/coinbase-bridge.png",
@@ -1919,6 +1959,19 @@
       "sanctioned": false
     },
     {
+      "slug": "diamond-estate-ru",
+      "category": "sanctioned",
+      "logo_path": "logos/sanctioned/diamond-estate-ru.png",
+      "keywords": [
+        "diamond estate",
+        "diamant estate",
+        "diamand estate llc",
+        "llc diamond estate"
+      ],
+      "product_aliases": [],
+      "sanctioned": true
+    },
+    {
       "slug": "morpho-blue",
       "category": "defi",
       "logo_path": "logos/defi/morpho-blue.png",
@@ -1928,6 +1981,44 @@
       ],
       "product_aliases": [],
       "sanctioned": false
+    },
+    {
+      "slug": "capital-bank-of-central-asia-kg",
+      "category": "sanctioned",
+      "logo_path": "logos/sanctioned/capital-bank-of-central-asia-kg.png",
+      "keywords": [
+        "capital bank",
+        "capital bank of central asia",
+        "ojsc capital bank"
+      ],
+      "product_aliases": [],
+      "sanctioned": true
+    },
+    {
+      "slug": "esb-kg",
+      "category": "sanctioned",
+      "logo_path": "logos/sanctioned/esb-kg.png",
+      "keywords": [
+        "eurasian savings bank",
+        "esb",
+        "esb.kg",
+        "ojsc eurasian savings bank"
+      ],
+      "product_aliases": [],
+      "sanctioned": true
+    },
+    {
+      "slug": "virtual-assets-issuer-kg",
+      "category": "sanctioned",
+      "logo_path": "logos/sanctioned/virtual-assets-issuer-kg.png",
+      "keywords": [
+        "virtual assets issuer",
+        "usdkg",
+        "usdkg.com",
+        "ojsc virtual assets issuer"
+      ],
+      "product_aliases": [],
+      "sanctioned": true
     },
     {
       "slug": "old-vector-llc-kg",
@@ -11841,6 +11932,16 @@
       "sanctioned": false
     },
     {
+      "slug": "ariomex",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/ariomex.png",
+      "keywords": [
+        "ariomex"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "bluebit",
       "category": "exchange",
       "logo_path": "logos/exchanges/bluebit.png",
@@ -16114,6 +16215,17 @@
       "sanctioned": false
     },
     {
+      "slug": "freekassa-ru",
+      "category": "psp",
+      "logo_path": "logos/psp/freekassa-ru.png",
+      "keywords": [
+        "freekassa",
+        "freekassa.ru"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "freewallet-org",
       "category": "wallet",
       "logo_path": "logos/wallet/freewallet-org.png",
@@ -17906,6 +18018,39 @@
       "keywords": [
         "usdt.kg",
         "ticketnet"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "raastin-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/raastin-com.png",
+      "keywords": [
+        "raastin",
+        "raastin.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "exwallet-io",
+      "category": "custodian",
+      "logo_path": "logos/custodian/exwallet-io.png",
+      "keywords": [
+        "exwallet",
+        "exwallet.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "sergei-mendeleev",
+      "category": "wallet",
+      "logo_path": "logos/wallet/sergei-mendeleev.png",
+      "keywords": [
+        "sergei mendeleev",
+        "mendeleev"
       ],
       "product_aliases": [],
       "sanctioned": false
