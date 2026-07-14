@@ -1939,7 +1939,7 @@ Packdraw,gambling,79.7,2,85,50,ETH,scorechain-counterparties,packdraw,,,,placeho
 Paybis.com,exchange,79.7,2,85,5,ETH|TRON,scorechain-counterparties,paybis-com,paybis.com,"paybis,paybis.com",,arkham,2026-05-26,false,bfdedcf8a801109fde113273da291e6fe2ac97f33dcb1935a0e5522ba8014ab7
 Portalbridge.com,bridge,79.7,2,85,15,BSC|ETH,scorechain-counterparties,portalbridge-com,portalbridge.com,"portalbridge.com,portalbridge",,favicon,2026-05-26,false,1fffb4edfbe1ffa3846d84d34744b918740514b3ca1a3db466b52b66cd615719
 PulseChain.com,bridge,79.7,2,85,15,ETH,scorechain-counterparties,pulsechain-com,pulsechain.com,"pulsechain.com,pulsechain",,arkham,2026-05-26,false,3de21cfa64d2ae463c1f888f52bebb7ebdb0932a62fb57f2e36f0233404c40e6
-Railgun,dex,79.7,2,85,10,ETH,scorechain-counterparties,railgun,railgun.org,railgun,,arkham,2026-05-26,false,600ab52ea606155a355ca73d33188431c8d2b192d923b4884fc0a50c193e4d2b
+Railgun,mixer,79.7,2,85,85,ETH|ARBITRUM|BSC|POLYGON,scorechain-counterparties|manual-admin,railgun,railgun.org,"railgun,railgun.org,railgun protocol,0zk",,manual,2026-07-15,true,600ab52ea606155a355ca73d33188431c8d2b192d923b4884fc0a50c193e4d2b
 Rainbet.com,dex,79.7,2,85,10,BSC|ETH,scorechain-counterparties,rainbet-com,rainbet.com,"rainbet.com,rainbet",,arkham,2026-05-26,false,757b88f5fa1216ba9aebaf10958b4a1d8d25c0b38610189e853e6550aa5a0a35
 Revert.finance,dex,79.7,2,85,10,BSC|ETH,scorechain-counterparties,revert-finance,revert.finance,"revert.finance,revert",,arkham,2026-05-26,false,be5e6d3cf216f019bf4384d72a541a1e28c63fe4c9f443fe403e371861677310
 Ring.exchange,dex,79.7,2,85,10,ETH,scorechain-counterparties,ring-exchange,ring.exchange,"ring.exchange,ring-exchange",,arkham,2026-05-26,false,f9c412440344d981e60378de99e0a556ca23862f87000b095f723657cc206861

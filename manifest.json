@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-14T22:26:09+00:00",
+  "generated_at": "2026-07-14T22:36:39+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -16607,10 +16607,13 @@
     },
     {
       "slug": "railgun",
-      "category": "dex",
-      "logo_path": "logos/dex/railgun.png",
+      "category": "mixer",
+      "logo_path": "logos/mixer/railgun.png",
       "keywords": [
-        "railgun"
+        "railgun",
+        "railgun.org",
+        "railgun protocol",
+        "0zk"
       ],
       "product_aliases": [],
       "sanctioned": false
