@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-15T10:16:50+00:00",
+  "generated_at": "2026-07-15T16:23:44+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -14682,6 +14682,16 @@
       "sanctioned": false
     },
     {
+      "slug": "sunswap-com",
+      "category": "dex",
+      "logo_path": "logos/dex/sunswap-com.png",
+      "keywords": [
+        "sunswap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "usdd",
       "category": "dex",
       "logo_path": "logos/dex/usdd.png",
@@ -17760,6 +17770,18 @@
       "sanctioned": false
     },
     {
+      "slug": "shitcoins-club",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/shitcoins-club.png",
+      "keywords": [
+        "shitcoins club atm crypto"
+      ],
+      "product_aliases": [
+        "shitcoins"
+      ],
+      "sanctioned": false
+    },
+    {
       "slug": "sky-makerdao",
       "category": "defi",
       "logo_path": "logos/defi/sky-makerdao.png",
@@ -18035,6 +18057,18 @@
         "zethr casino"
       ],
       "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "zethyr-exchange",
+      "category": "dex",
+      "logo_path": "logos/dex/zethyr-exchange.png",
+      "keywords": [
+        "zethyr exchange eth"
+      ],
+      "product_aliases": [
+        "zethyr"
+      ],
       "sanctioned": false
     },
     {
@@ -19967,6 +20001,193 @@
       "keywords": [
         "triv",
         "triv.co.id"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitenium",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bitenium.png",
+      "keywords": [
+        "bitenium",
+        "bitenium"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitexlive",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bitexlive.png",
+      "keywords": [
+        "bitexlive",
+        "bitexlive"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitfront",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bitfront.png",
+      "keywords": [
+        "bitfront",
+        "bitfront"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "chainup",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/chainup.png",
+      "keywords": [
+        "chainup",
+        "chainup"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coindelta",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/coindelta.png",
+      "keywords": [
+        "coindelta",
+        "coindelta"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cross",
+      "category": "defi",
+      "logo_path": "logos/defi/cross.png",
+      "keywords": [
+        "cross",
+        "cross"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "eterbase",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/eterbase.png",
+      "keywords": [
+        "eterbase",
+        "eterbase"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "fairdesk",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/fairdesk.png",
+      "keywords": [
+        "fairdesk",
+        "fairdesk"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "flybit",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/flybit.png",
+      "keywords": [
+        "flybit",
+        "flybit"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "g-24",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/g-24.png",
+      "keywords": [
+        "g 24",
+        "g-24"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gbx",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/gbx.png",
+      "keywords": [
+        "gbx",
+        "gbx"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "jucoin-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/jucoin-com.png",
+      "keywords": [
+        "jucoin",
+        "jucoin-com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "krrx-bot",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/krrx-bot.png",
+      "keywords": [
+        "krrx bot",
+        "krrx-bot"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kryptono",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/kryptono.png",
+      "keywords": [
+        "kryptono",
+        "kryptono"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "luminous",
+      "category": "gambling",
+      "logo_path": "logos/gambling/luminous.png",
+      "keywords": [
+        "luminous",
+        "luminous"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "thpay-org",
+      "category": "psp",
+      "logo_path": "logos/psp/thpay-org.png",
+      "keywords": [
+        "thpay org",
+        "thpay-org"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tmgm-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/tmgm-com.png",
+      "keywords": [
+        "tmgm",
+        "tmgm-com"
       ],
       "product_aliases": [],
       "sanctioned": false
