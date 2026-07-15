@@ -2520,3 +2520,4 @@ kryptono,exchange,70,0,70,10,ETH,manual-admin,kryptono,,"kryptono,kryptono",,man
 luminous,gambling,70,0,70,10,ETH,manual-admin,luminous,luminous.games,"luminous,luminous",,manual,2026-07-15,true,6c39fb4403d4f39e5ceafb9c254b918063ae3d5677535bcacab3da99ded77a14
 thpay-org,psp,70,0,70,10,ETH,manual-admin,thpay-org,thpay.org,"thpay org,thpay-org",,manual,2026-07-15,true,7317732b72d45f7ac23250310b78e4ef146505478dcfd52a65b04869c0926ddf
 tmgm-com,exchange,70,0,70,10,ETH,manual-admin,tmgm-com,www.tmgm.com,"tmgm,tmgm-com",,manual,2026-07-15,true,4de56f8f824cf1c0b25cd0624da78681a15d11ed1a84a6033a814c54e619ebdd
+@HWZF,exchange,85,0,70,85,TRON,manual-admin,hwzf,,hwzf,,placeholder,2026-07-15,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
