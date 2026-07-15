@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-15T10:11:12+00:00",
+  "generated_at": "2026-07-15T10:16:50+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -1509,8 +1509,8 @@
     },
     {
       "slug": "aquanow",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/aquanow.png",
+      "category": "otc_desk",
+      "logo_path": "logos/otc_desk/aquanow.png",
       "keywords": [
         "aquanow",
         "aquanow.io",
@@ -13545,8 +13545,8 @@
     },
     {
       "slug": "falconx-io",
-      "category": "defi",
-      "logo_path": "logos/defi/falconx-io.png",
+      "category": "otc_desk",
+      "logo_path": "logos/otc_desk/falconx-io.png",
       "keywords": [
         "falconx.io",
         "falconx"
@@ -13809,8 +13809,8 @@
     },
     {
       "slug": "cumberland-io",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/cumberland-io.png",
+      "category": "otc_desk",
+      "logo_path": "logos/otc_desk/cumberland-io.png",
       "keywords": [
         "cumberland",
         "cumberland.io"
@@ -14121,8 +14121,8 @@
     },
     {
       "slug": "flow-traders",
-      "category": "defi",
-      "logo_path": "logos/defi/flow-traders.png",
+      "category": "otc_desk",
+      "logo_path": "logos/otc_desk/flow-traders.png",
       "keywords": [
         "flow traders",
         "flow-traders"
@@ -14482,8 +14482,8 @@
     },
     {
       "slug": "gsr-markets",
-      "category": "defi",
-      "logo_path": "logos/defi/gsr-markets.png",
+      "category": "otc_desk",
+      "logo_path": "logos/otc_desk/gsr-markets.png",
       "keywords": [
         "gsr markets",
         "gsr-markets"
@@ -14746,8 +14746,8 @@
     },
     {
       "slug": "amber-group",
-      "category": "defi",
-      "logo_path": "logos/defi/amber-group.png",
+      "category": "otc_desk",
+      "logo_path": "logos/otc_desk/amber-group.png",
       "keywords": [
         "amber group",
         "amber-group"
@@ -16118,8 +16118,8 @@
     },
     {
       "slug": "ecng-digital",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/ecng-digital.png",
+      "category": "otc_desk",
+      "logo_path": "logos/otc_desk/ecng-digital.png",
       "keywords": [
         "ecng digital",
         "ecng-digital"
