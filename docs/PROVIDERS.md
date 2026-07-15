@@ -119,6 +119,7 @@ Full map:
 | mixer            | logos/mixer/ | |
 | hack             | logos/hack/ | by incident name |
 | sanctioned       | logos/sanctioned/ | sanctioning bodies (OFAC, UK OFSI, …) |
+| bank             | logos/bank/ | traditional/state banks (incl. sanctioned banks reclassified out of `sanctioned` so registry_category reflects business type, not designation status) |
 | other / unknown  | logos/_fallback/unknown.png | consumer fallback |
 
 Enrichment scripts + consumer resolvers must share this map. It lives

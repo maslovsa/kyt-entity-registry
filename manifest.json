@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-14T22:36:39+00:00",
+  "generated_at": "2026-07-15T09:29:38+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -1138,8 +1138,8 @@
     },
     {
       "slug": "promsvyazbank-ru",
-      "category": "sanctioned",
-      "logo_path": "logos/sanctioned/promsvyazbank-ru.png",
+      "category": "bank",
+      "logo_path": "logos/bank/promsvyazbank-ru.png",
       "keywords": [
         "promsvyazbank",
         "psb",
@@ -1996,8 +1996,8 @@
     },
     {
       "slug": "capital-bank-of-central-asia-kg",
-      "category": "sanctioned",
-      "logo_path": "logos/sanctioned/capital-bank-of-central-asia-kg.png",
+      "category": "bank",
+      "logo_path": "logos/bank/capital-bank-of-central-asia-kg.png",
       "keywords": [
         "capital bank",
         "capital bank of central asia",
@@ -2008,8 +2008,8 @@
     },
     {
       "slug": "esb-kg",
-      "category": "sanctioned",
-      "logo_path": "logos/sanctioned/esb-kg.png",
+      "category": "bank",
+      "logo_path": "logos/bank/esb-kg.png",
       "keywords": [
         "eurasian savings bank",
         "esb",

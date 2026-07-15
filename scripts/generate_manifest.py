@@ -93,6 +93,20 @@ LOGO_READY = {"manual", "arkham", "brandfetch", "defillama"}
 # Categories treated as sanctioned for the manifest `sanctioned` flag.
 SANCTIONED_CATEGORIES = {"sanctioned"}
 
+# 2026-07-15 — designated entities reclassified OUT of category_slug=sanctioned
+# into a business-type bucket (e.g. 'bank') so registry_category reflects what
+# the entity IS, not just that it's designated (mirrors aegis-platform's
+# risk_metadata.subcategory=sanctioned, a cross-cutting tag independent of
+# type). The `sanctioned` manifest flag must still surface for these, since
+# aegis-platform consumers (kyt-client.tsx, exchange-badge-styles.ts) key off
+# it directly to show a red "(sanctioned)" indicator regardless of category.
+SANCTIONED_SLUG_OVERRIDES = {
+    "ofac-sdn-cheil-credit-bank",  # OFAC SDN
+    "promsvyazbank-ru",            # UK OFSI
+    "capital-bank-of-central-asia-kg",  # UK OFSI
+    "esb-kg",                      # UK OFSI
+}
+
 # Map category_slug → on-disk directory name under logos/.  Mirrors
 # docs/PROVIDERS.md "Category → directory mapping" table.  Only
 # `exchange` is pluralised (historical reasons); the rest match the
@@ -112,6 +126,7 @@ CATEGORY_DIR_MAP = {
     "nft_marketplace": "nft_marketplace",
     "mixer": "mixer",
     "hack": "hack",
+    "bank": "bank",
     "sanctioned": "sanctioned",
 }
 
@@ -169,7 +184,7 @@ def build_manifest(rows: List[dict]) -> dict:
         slug = (row.get("arkham_slug") or row.get("slug") or "").strip()
         category = (row.get("category_slug") or "").strip()
         product_aliases = _parse_list(row.get("product_aliases") or "")
-        sanctioned = category in SANCTIONED_CATEGORIES
+        sanctioned = category in SANCTIONED_CATEGORIES or slug in SANCTIONED_SLUG_OVERRIDES
 
         if not slug or not category:
             continue
