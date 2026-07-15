@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-15T16:48:01+00:00",
+  "generated_at": "2026-07-15T16:50:56+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -367,11 +367,63 @@
       "sanctioned": false
     },
     {
+      "slug": "0vix",
+      "category": "defi",
+      "logo_path": "logos/defi/0vix.png",
+      "keywords": [
+        "0vix"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "1inch",
+      "category": "dex",
+      "logo_path": "logos/dex/1inch.png",
+      "keywords": [
+        "1inch"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "96ach-com",
       "category": "gambling",
       "logo_path": "logos/gambling/96ach-com.png",
       "keywords": [
         "96ach"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "abantether-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/abantether-com.png",
+      "keywords": [
+        "abantether.com",
+        "abantether com",
+        "abantether-com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "aevo",
+      "category": "defi",
+      "logo_path": "logos/defi/aevo.png",
+      "keywords": [
+        "aevo"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "alphafi",
+      "category": "defi",
+      "logo_path": "logos/defi/alphafi.png",
+      "keywords": [
+        "alphafi"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -398,6 +450,18 @@
       "sanctioned": false
     },
     {
+      "slug": "ankr-helio-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/ankr-helio-rekt.png",
+      "keywords": [
+        "ankr & helio - rekt",
+        "ankr helio rekt",
+        "ankr-helio-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "aragon",
       "category": "defi",
       "logo_path": "logos/defi/aragon.png",
@@ -419,12 +483,97 @@
       "sanctioned": false
     },
     {
+      "slug": "arcadia-finance-hack",
+      "category": "defi",
+      "logo_path": "logos/defi/arcadia-finance-hack.png",
+      "keywords": [
+        "arcadia finance hack",
+        "arcadia-finance-hack"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "argent",
+      "category": "defi",
+      "logo_path": "logos/defi/argent.png",
+      "keywords": [
+        "argent"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "balancer",
+      "category": "dex",
+      "logo_path": "logos/dex/balancer.png",
+      "keywords": [
+        "balancer"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "balancer",
+      "category": "defi",
+      "logo_path": "logos/defi/balancer.png",
+      "keywords": [
+        "balancer"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "balancer-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/balancer-rekt.png",
+      "keywords": [
+        "balancer - rekt",
+        "balancer rekt",
+        "balancer-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "balancer-v2",
+      "category": "defi",
+      "logo_path": "logos/defi/balancer-v2.png",
+      "keywords": [
+        "balancer v2",
+        "balancer-v2"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "balancer-fi",
       "category": "dex",
       "logo_path": "logos/dex/balancer-fi.png",
       "keywords": [
         "balancer.fi",
         "balancer"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bancor",
+      "category": "defi",
+      "logo_path": "logos/defi/bancor.png",
+      "keywords": [
+        "bancor"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bancor-v3",
+      "category": "dex",
+      "logo_path": "logos/dex/bancor-v3.png",
+      "keywords": [
+        "bancor v3",
+        "bancor-v3"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -441,12 +590,44 @@
       "sanctioned": false
     },
     {
+      "slug": "betterbank",
+      "category": "defi",
+      "logo_path": "logos/defi/betterbank.png",
+      "keywords": [
+        "betterbank"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "big-small",
       "category": "gambling",
       "logo_path": "logos/gambling/big-small.png",
       "keywords": [
         "big-small",
         "bigsmall"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "binance",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/binance.png",
+      "keywords": [
+        "binance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "binance-arkham-prediction",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/binance-arkham-prediction.png",
+      "keywords": [
+        "binance (arkham prediction)",
+        "binance arkham prediction",
+        "binance-arkham-prediction"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -487,6 +668,16 @@
       "sanctioned": false
     },
     {
+      "slug": "bitget",
+      "category": "defi",
+      "logo_path": "logos/defi/bitget.png",
+      "keywords": [
+        "bitget"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "bitget-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/bitget-com.png",
@@ -504,6 +695,17 @@
       "logo_path": "logos/exchanges/bithumb-com.png",
       "keywords": [
         "bithumb"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitkub-cex",
+      "category": "defi",
+      "logo_path": "logos/defi/bitkub-cex.png",
+      "keywords": [
+        "bitkub-cex",
+        "bitkub cex"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -550,6 +752,16 @@
       "sanctioned": false
     },
     {
+      "slug": "bnbx",
+      "category": "defi",
+      "logo_path": "logos/defi/bnbx.png",
+      "keywords": [
+        "bnbx"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "btcturk-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/btcturk-com.png",
@@ -565,6 +777,26 @@
       "logo_path": "logos/exchanges/btse-com.png",
       "keywords": [
         "btse"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bunni",
+      "category": "defi",
+      "logo_path": "logos/defi/bunni.png",
+      "keywords": [
+        "bunni"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bybit",
+      "category": "defi",
+      "logo_path": "logos/defi/bybit.png",
+      "keywords": [
+        "bybit"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -590,9 +822,41 @@
       "sanctioned": false
     },
     {
+      "slug": "bzx-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/bzx-rekt.png",
+      "keywords": [
+        "bzx - rekt",
+        "bzx rekt",
+        "bzx-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "celerbridge",
+      "category": "defi",
+      "logo_path": "logos/defi/celerbridge.png",
+      "keywords": [
+        "celerbridge"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "chainlink",
       "category": "dex",
       "logo_path": "logos/dex/chainlink.png",
+      "keywords": [
+        "chainlink"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "chainlink",
+      "category": "defi",
+      "logo_path": "logos/defi/chainlink.png",
       "keywords": [
         "chainlink"
       ],
@@ -622,11 +886,43 @@
       "sanctioned": false
     },
     {
+      "slug": "charm",
+      "category": "defi",
+      "logo_path": "logos/defi/charm.png",
+      "keywords": [
+        "charm"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "civfund",
+      "category": "defi",
+      "logo_path": "logos/defi/civfund.png",
+      "keywords": [
+        "civfund"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "cobo-com",
       "category": "wallet",
       "logo_path": "logos/wallet/cobo-com.png",
       "keywords": [
         "cobo"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coinbase-arkham-prediction",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/coinbase-arkham-prediction.png",
+      "keywords": [
+        "coinbase (arkham prediction)",
+        "coinbase arkham prediction",
+        "coinbase-arkham-prediction"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -664,6 +960,26 @@
       "sanctioned": false
     },
     {
+      "slug": "copper",
+      "category": "custodian",
+      "logo_path": "logos/custodian/copper.png",
+      "keywords": [
+        "copper"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "credix",
+      "category": "defi",
+      "logo_path": "logos/defi/credix.png",
+      "keywords": [
+        "credix"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "cryptobot",
       "category": "bot",
       "logo_path": "logos/bot/cryptobot.png",
@@ -695,11 +1011,94 @@
       "sanctioned": false
     },
     {
+      "slug": "daoventures",
+      "category": "defi",
+      "logo_path": "logos/defi/daoventures.png",
+      "keywords": [
+        "daoventures"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "deribit",
       "category": "exchange",
       "logo_path": "logos/exchanges/deribit.png",
       "keywords": [
         "deribit"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dforce",
+      "category": "defi",
+      "logo_path": "logos/defi/dforce.png",
+      "keywords": [
+        "dforce"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dfyn",
+      "category": "defi",
+      "logo_path": "logos/defi/dfyn.png",
+      "keywords": [
+        "dfyn"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dhedge",
+      "category": "defi",
+      "logo_path": "logos/defi/dhedge.png",
+      "keywords": [
+        "dhedge"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dodo",
+      "category": "defi",
+      "logo_path": "logos/defi/dodo.png",
+      "keywords": [
+        "dodo"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "drift-protocol",
+      "category": "defi",
+      "logo_path": "logos/defi/drift-protocol.png",
+      "keywords": [
+        "drift protocol",
+        "drift-protocol"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "erasure-v110",
+      "category": "defi",
+      "logo_path": "logos/defi/erasure-v110.png",
+      "keywords": [
+        "erasure v110",
+        "erasure-v110"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "erasure-v130",
+      "category": "defi",
+      "logo_path": "logos/defi/erasure-v130.png",
+      "keywords": [
+        "erasure v130",
+        "erasure-v130"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -715,11 +1114,65 @@
       "sanctioned": false
     },
     {
+      "slug": "etherscan-miner",
+      "category": "mining",
+      "logo_path": "logos/mining/etherscan-miner.png",
+      "keywords": [
+        "etherscan miner",
+        "etherscan-miner"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ethtrustfund",
+      "category": "defi",
+      "logo_path": "logos/defi/ethtrustfund.png",
+      "keywords": [
+        "ethtrustfund"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "exactly",
+      "category": "defi",
+      "logo_path": "logos/defi/exactly.png",
+      "keywords": [
+        "exactly"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "exness-uk",
       "category": "exchange",
       "logo_path": "logos/exchanges/exness-uk.png",
       "keywords": [
         "exness"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "fei-rari-rekt-2",
+      "category": "defi",
+      "logo_path": "logos/defi/fei-rari-rekt-2.png",
+      "keywords": [
+        "fei rari - rekt 2",
+        "fei rari rekt 2",
+        "fei-rari-rekt-2"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "fractional-art",
+      "category": "defi",
+      "logo_path": "logos/defi/fractional-art.png",
+      "keywords": [
+        "fractional art",
+        "fractional-art"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -746,6 +1199,18 @@
       "sanctioned": true
     },
     {
+      "slug": "garantex-io",
+      "category": "sanctioned",
+      "logo_path": "logos/sanctioned/garantex-io.png",
+      "keywords": [
+        "garantex.io",
+        "garantex io",
+        "garantex-io"
+      ],
+      "product_aliases": [],
+      "sanctioned": true
+    },
+    {
       "slug": "gate-io",
       "category": "exchange",
       "logo_path": "logos/exchanges/gate-io.png",
@@ -754,6 +1219,61 @@
         "gateio",
         "gate io",
         "gate"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gmx",
+      "category": "defi",
+      "logo_path": "logos/defi/gmx.png",
+      "keywords": [
+        "gmx"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gnosis-multisig",
+      "category": "defi",
+      "logo_path": "logos/defi/gnosis-multisig.png",
+      "keywords": [
+        "gnosis multisig",
+        "gnosis-multisig"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gnosis-safe",
+      "category": "defi",
+      "logo_path": "logos/defi/gnosis-safe.png",
+      "keywords": [
+        "gnosis safe",
+        "gnosis-safe"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "harmony-bridge-rekt",
+      "category": "bridge",
+      "logo_path": "logos/bridge/harmony-bridge-rekt.png",
+      "keywords": [
+        "harmony bridge - rekt",
+        "harmony bridge rekt",
+        "harmony-bridge-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hedgey-finance",
+      "category": "defi",
+      "logo_path": "logos/defi/hedgey-finance.png",
+      "keywords": [
+        "hedgey finance",
+        "hedgey-finance"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -781,6 +1301,18 @@
       "sanctioned": false
     },
     {
+      "slug": "hope-finance-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/hope-finance-rekt.png",
+      "keywords": [
+        "hope finance - rekt",
+        "hope finance rekt",
+        "hope-finance-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "htx-com-huobi-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/htx-com-huobi-com.png",
@@ -803,11 +1335,41 @@
       "sanctioned": true
     },
     {
+      "slug": "huionepay",
+      "category": "sanctioned",
+      "logo_path": "logos/sanctioned/huionepay.png",
+      "keywords": [
+        "huionepay"
+      ],
+      "product_aliases": [],
+      "sanctioned": true
+    },
+    {
+      "slug": "hundredfinance",
+      "category": "defi",
+      "logo_path": "logos/defi/hundredfinance.png",
+      "keywords": [
+        "hundredfinance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "hyperpay-tech",
       "category": "exchange",
       "logo_path": "logos/exchanges/hyperpay-tech.png",
       "keywords": [
         "hyperpay"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "impermax",
+      "category": "defi",
+      "logo_path": "logos/defi/impermax.png",
+      "keywords": [
+        "impermax"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -838,6 +1400,40 @@
       "logo_path": "logos/exchanges/infini.png",
       "keywords": [
         "infini"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "instadapp-dsa",
+      "category": "defi",
+      "logo_path": "logos/defi/instadapp-dsa.png",
+      "keywords": [
+        "instadapp dsa",
+        "instadapp-dsa"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "instadapp-v2",
+      "category": "defi",
+      "logo_path": "logos/defi/instadapp-v2.png",
+      "keywords": [
+        "instadapp v2",
+        "instadapp-v2"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "jaypegs-automart-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/jaypegs-automart-rekt.png",
+      "keywords": [
+        "jaypegs automart - rekt",
+        "jaypegs automart rekt",
+        "jaypegs-automart-rekt"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -874,11 +1470,41 @@
       "sanctioned": false
     },
     {
+      "slug": "kucoin",
+      "category": "defi",
+      "logo_path": "logos/defi/kucoin.png",
+      "keywords": [
+        "kucoin"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kucoin",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/kucoin.png",
+      "keywords": [
+        "kucoin"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "kucoin-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/kucoin-com.png",
       "keywords": [
         "kucoin"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kyber",
+      "category": "dex",
+      "logo_path": "logos/dex/kyber.png",
+      "keywords": [
+        "kyber"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -890,6 +1516,16 @@
       "keywords": [
         "kyrrex.com",
         "kyrrex"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "lavalending",
+      "category": "defi",
+      "logo_path": "logos/defi/lavalending.png",
+      "keywords": [
+        "lavalending"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -916,11 +1552,41 @@
       "sanctioned": false
     },
     {
+      "slug": "lodestar",
+      "category": "defi",
+      "logo_path": "logos/defi/lodestar.png",
+      "keywords": [
+        "lodestar"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "m2-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/m2-com.png",
       "keywords": [
         "m2.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "makerdao",
+      "category": "dex",
+      "logo_path": "logos/dex/makerdao.png",
+      "keywords": [
+        "makerdao"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "makina",
+      "category": "defi",
+      "logo_path": "logos/defi/makina.png",
+      "keywords": [
+        "makina"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -936,11 +1602,85 @@
       "sanctioned": false
     },
     {
+      "slug": "meerkat-finance-bsc-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/meerkat-finance-bsc-rekt.png",
+      "keywords": [
+        "meerkat finance - bsc - rekt",
+        "meerkat finance bsc rekt",
+        "meerkat-finance-bsc-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "mexc-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/mexc-com.png",
       "keywords": [
         "mexc"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "midas",
+      "category": "defi",
+      "logo_path": "logos/defi/midas.png",
+      "keywords": [
+        "midas"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mirror",
+      "category": "defi",
+      "logo_path": "logos/defi/mirror.png",
+      "keywords": [
+        "mirror"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "monox-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/monox-rekt.png",
+      "keywords": [
+        "monox - rekt",
+        "monox rekt",
+        "monox-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mooniswap",
+      "category": "defi",
+      "logo_path": "logos/defi/mooniswap.png",
+      "keywords": [
+        "mooniswap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "moonwell",
+      "category": "defi",
+      "logo_path": "logos/defi/moonwell.png",
+      "keywords": [
+        "moonwell"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "nemo",
+      "category": "defi",
+      "logo_path": "logos/defi/nemo.png",
+      "keywords": [
+        "nemo"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -956,6 +1696,27 @@
       "sanctioned": false
     },
     {
+      "slug": "nft20",
+      "category": "defi",
+      "logo_path": "logos/defi/nft20.png",
+      "keywords": [
+        "nft20"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "nftx-v2",
+      "category": "defi",
+      "logo_path": "logos/defi/nftx-v2.png",
+      "keywords": [
+        "nftx v2",
+        "nftx-v2"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "nobitex-ir-iran-irgc-exposure-operator-2026-05-09",
       "category": "sanctioned",
       "logo_path": "logos/sanctioned/nobitex-ir-iran-irgc-exposure-operator-2026-05-09.png",
@@ -966,11 +1727,34 @@
       "sanctioned": true
     },
     {
+      "slug": "nomad-bridge-rekt",
+      "category": "bridge",
+      "logo_path": "logos/bridge/nomad-bridge-rekt.png",
+      "keywords": [
+        "nomad bridge - rekt",
+        "nomad bridge rekt",
+        "nomad-bridge-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "noones-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/noones-com.png",
       "keywords": [
         "noones"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ocean-v3",
+      "category": "defi",
+      "logo_path": "logos/defi/ocean-v3.png",
+      "keywords": [
+        "ocean v3",
+        "ocean-v3"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -1003,6 +1787,16 @@
       "logo_path": "logos/exchanges/okex.png",
       "keywords": [
         "okex"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "okx",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/okx.png",
+      "keywords": [
+        "okx"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -1057,11 +1851,45 @@
       "sanctioned": false
     },
     {
+      "slug": "opensea-io",
+      "category": "nft_marketplace",
+      "logo_path": "logos/nft_marketplace/opensea-io.png",
+      "keywords": [
+        "opensea.io",
+        "opensea io",
+        "opensea-io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "optimism",
       "category": "bridge",
       "logo_path": "logos/bridge/optimism.png",
       "keywords": [
         "optimism"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "orange-finance",
+      "category": "defi",
+      "logo_path": "logos/defi/orange-finance.png",
+      "keywords": [
+        "orange finance",
+        "orange-finance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "osl-hk",
+      "category": "defi",
+      "logo_path": "logos/defi/osl-hk.png",
+      "keywords": [
+        "osl-hk",
+        "osl hk"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -1109,11 +1937,31 @@
       "sanctioned": false
     },
     {
+      "slug": "partydao",
+      "category": "defi",
+      "logo_path": "logos/defi/partydao.png",
+      "keywords": [
+        "partydao"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "payeer-com",
       "category": "psp",
       "logo_path": "logos/psp/payeer-com.png",
       "keywords": [
         "payeer"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "payprotocol",
+      "category": "defi",
+      "logo_path": "logos/defi/payprotocol.png",
+      "keywords": [
+        "payprotocol"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -1129,11 +1977,32 @@
       "sanctioned": false
     },
     {
+      "slug": "penpie",
+      "category": "defi",
+      "logo_path": "logos/defi/penpie.png",
+      "keywords": [
+        "penpie"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "phemex",
       "category": "exchange",
       "logo_path": "logos/exchanges/phemex.png",
       "keywords": [
         "phemex"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pickle",
+      "category": "defi",
+      "logo_path": "logos/defi/pickle.png",
+      "keywords": [
+        "pickle finance",
+        "pickle"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -1185,6 +2054,48 @@
       "sanctioned": false
     },
     {
+      "slug": "prismafi-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/prismafi-rekt.png",
+      "keywords": [
+        "prismafi - rekt",
+        "prismafi rekt",
+        "prismafi-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "qidao",
+      "category": "defi",
+      "logo_path": "logos/defi/qidao.png",
+      "keywords": [
+        "qidao"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "quickswap",
+      "category": "defi",
+      "logo_path": "logos/defi/quickswap.png",
+      "keywords": [
+        "quickswap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "rapira",
+      "category": "sanctioned",
+      "logo_path": "logos/sanctioned/rapira.png",
+      "keywords": [
+        "rapira"
+      ],
+      "product_aliases": [],
+      "sanctioned": true
+    },
+    {
       "slug": "rapira-net",
       "category": "exchange",
       "logo_path": "logos/exchanges/rapira-net.png",
@@ -1218,6 +2129,17 @@
       "sanctioned": false
     },
     {
+      "slug": "rarible-v1",
+      "category": "defi",
+      "logo_path": "logos/defi/rarible-v1.png",
+      "keywords": [
+        "rarible v1",
+        "rarible-v1"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "redotpay-com",
       "category": "psp",
       "logo_path": "logos/psp/redotpay-com.png",
@@ -1238,11 +2160,65 @@
       "sanctioned": false
     },
     {
+      "slug": "resolv-labs",
+      "category": "defi",
+      "logo_path": "logos/defi/resolv-labs.png",
+      "keywords": [
+        "resolv labs",
+        "resolv-labs"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "rubic",
+      "category": "defi",
+      "logo_path": "logos/defi/rubic.png",
+      "keywords": [
+        "rubic"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "safemoon-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/safemoon-rekt.png",
+      "keywords": [
+        "safemoon - rekt",
+        "safemoon rekt",
+        "safemoon-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "sonne-finance",
+      "category": "defi",
+      "logo_path": "logos/defi/sonne-finance.png",
+      "keywords": [
+        "sonne finance",
+        "sonne-finance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "stake-com",
       "category": "gambling",
       "logo_path": "logos/gambling/stake-com.png",
       "keywords": [
         "stake"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "sushi",
+      "category": "defi",
+      "logo_path": "logos/defi/sushi.png",
+      "keywords": [
+        "sushi"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -1258,12 +2234,87 @@
       "sanctioned": false
     },
     {
+      "slug": "swaprum-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/swaprum-rekt.png",
+      "keywords": [
+        "swaprum - rekt",
+        "swaprum rekt",
+        "swaprum-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "swapster-fi",
       "category": "exchange",
       "logo_path": "logos/exchanges/swapster-fi.png",
       "keywords": [
         "swapster.fi",
         "swapster"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "swapx",
+      "category": "defi",
+      "logo_path": "logos/defi/swapx.png",
+      "keywords": [
+        "swapx"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "synthetix",
+      "category": "defi",
+      "logo_path": "logos/defi/synthetix.png",
+      "keywords": [
+        "synthetix"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tapioca-dao",
+      "category": "defi",
+      "logo_path": "logos/defi/tapioca-dao.png",
+      "keywords": [
+        "tapioca dao",
+        "tapioca-dao"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tmxtribe",
+      "category": "defi",
+      "logo_path": "logos/defi/tmxtribe.png",
+      "keywords": [
+        "tmxtribe"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tornado-cash-governance-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/tornado-cash-governance-rekt.png",
+      "keywords": [
+        "tornado cash governance - rekt",
+        "tornado cash governance rekt",
+        "tornado-cash-governance-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "treasury",
+      "category": "defi",
+      "logo_path": "logos/defi/treasury.png",
+      "keywords": [
+        "treasury"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -1301,6 +2352,16 @@
       "sanctioned": true
     },
     {
+      "slug": "unibot",
+      "category": "defi",
+      "logo_path": "logos/defi/unibot.png",
+      "keywords": [
+        "unibot"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "uniswap",
       "category": "dex",
       "logo_path": "logos/dex/uniswap.png",
@@ -1311,11 +2372,99 @@
       "sanctioned": false
     },
     {
+      "slug": "uniswap-v2",
+      "category": "defi",
+      "logo_path": "logos/defi/uniswap-v2.png",
+      "keywords": [
+        "uniswap v2",
+        "uniswap-v2"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "uniswap-v3",
+      "category": "defi",
+      "logo_path": "logos/defi/uniswap-v3.png",
+      "keywords": [
+        "uniswap v3",
+        "uniswap-v3"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "unlock",
+      "category": "defi",
+      "logo_path": "logos/defi/unlock.png",
+      "keywords": [
+        "unlock"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "uwulend",
+      "category": "defi",
+      "logo_path": "logos/defi/uwulend.png",
+      "keywords": [
+        "uwulend"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "venus",
       "category": "defi",
       "logo_path": "logos/defi/venus.png",
       "keywords": [
         "venus"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "venus-the",
+      "category": "defi",
+      "logo_path": "logos/defi/venus-the.png",
+      "keywords": [
+        "venus the",
+        "venus-the"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "voltage-finance-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/voltage-finance-rekt.png",
+      "keywords": [
+        "voltage finance - rekt",
+        "voltage finance rekt",
+        "voltage-finance-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "wallex-ir",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/wallex-ir.png",
+      "keywords": [
+        "wallex.ir",
+        "wallex ir",
+        "wallex-ir"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "wasabi",
+      "category": "defi",
+      "logo_path": "logos/defi/wasabi.png",
+      "keywords": [
+        "wasabi protocol",
+        "wasabi"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -1347,6 +2496,26 @@
       "keywords": [
         "xt",
         "xt.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "yearn",
+      "category": "defi",
+      "logo_path": "logos/defi/yearn.png",
+      "keywords": [
+        "yearn"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "yearnfinance",
+      "category": "defi",
+      "logo_path": "logos/defi/yearnfinance.png",
+      "keywords": [
+        "yearnfinance"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -11990,6 +13159,28 @@
       "sanctioned": false
     },
     {
+      "slug": "onyxprotocol",
+      "category": "defi",
+      "logo_path": "logos/defi/onyxprotocol.png",
+      "keywords": [
+        "onyxprotocol"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ramzinex-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/ramzinex-com.png",
+      "keywords": [
+        "ramzinex.com",
+        "ramzinex com",
+        "ramzinex-com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "zixipay",
       "category": "wallet",
       "logo_path": "logos/wallet/zixipay.png",
@@ -12000,11 +13191,389 @@
       "sanctioned": false
     },
     {
+      "slug": "arcadiafi",
+      "category": "defi",
+      "logo_path": "logos/defi/arcadiafi.png",
+      "keywords": [
+        "arcadiafi"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "deltaprime",
+      "category": "defi",
+      "logo_path": "logos/defi/deltaprime.png",
+      "keywords": [
+        "deltaprime"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "seneca-protocol-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/seneca-protocol-rekt.png",
+      "keywords": [
+        "seneca protocol - rekt",
+        "seneca protocol rekt",
+        "seneca-protocol-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "uxlink",
+      "category": "defi",
+      "logo_path": "logos/defi/uxlink.png",
+      "keywords": [
+        "uxlink"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "synfutures-v1",
+      "category": "defi",
+      "logo_path": "logos/defi/synfutures-v1.png",
+      "keywords": [
+        "synfutures v1",
+        "synfutures-v1"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "abracadabra-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/abracadabra-rekt.png",
+      "keywords": [
+        "abracadabra - rekt",
+        "abracadabra rekt",
+        "abracadabra-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "alexlab",
+      "category": "defi",
+      "logo_path": "logos/defi/alexlab.png",
+      "keywords": [
+        "alexlab"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "arbix-finance-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/arbix-finance-rekt.png",
+      "keywords": [
+        "arbix finance - rekt",
+        "arbix finance rekt",
+        "arbix-finance-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "conic-finance-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/conic-finance-rekt.png",
+      "keywords": [
+        "conic finance - rekt",
+        "conic finance rekt",
+        "conic-finance-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cover-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/cover-rekt.png",
+      "keywords": [
+        "cover - rekt",
+        "cover rekt",
+        "cover-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cream-finance-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/cream-finance-rekt.png",
+      "keywords": [
+        "cream finance - rekt",
+        "cream finance rekt",
+        "cream-finance-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cream-finance-rekt-2",
+      "category": "defi",
+      "logo_path": "logos/defi/cream-finance-rekt-2.png",
+      "keywords": [
+        "cream finance - rekt 2",
+        "cream finance rekt 2",
+        "cream-finance-rekt-2"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "curve-vyper-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/curve-vyper-rekt.png",
+      "keywords": [
+        "curve",
+        "vyper - rekt",
+        "curve vyper rekt",
+        "curve-vyper-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "defilabs-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/defilabs-rekt.png",
+      "keywords": [
+        "defilabs - rekt",
+        "defilabs rekt",
+        "defilabs-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "deus-dao-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/deus-dao-rekt.png",
+      "keywords": [
+        "deus dao - rekt",
+        "deus dao rekt",
+        "deus-dao-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "force-bridge",
+      "category": "bridge",
+      "logo_path": "logos/bridge/force-bridge.png",
+      "keywords": [
+        "force bridge",
+        "force-bridge"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "furucombo-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/furucombo-rekt.png",
+      "keywords": [
+        "furucombo - rekt",
+        "furucombo rekt",
+        "furucombo-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ionic-money",
+      "category": "defi",
+      "logo_path": "logos/defi/ionic-money.png",
+      "keywords": [
+        "ionic money",
+        "ionic-money"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kyberswap-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/kyberswap-rekt.png",
+      "keywords": [
+        "kyberswap - rekt",
+        "kyberswap rekt",
+        "kyberswap-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "levyathan-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/levyathan-rekt.png",
+      "keywords": [
+        "levyathan - rekt",
+        "levyathan rekt",
+        "levyathan-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "lifi-jumper",
+      "category": "defi",
+      "logo_path": "logos/defi/lifi-jumper.png",
+      "keywords": [
+        "lifi/jumper",
+        "lifi jumper",
+        "lifi-jumper"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "lodestar-finance-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/lodestar-finance-rekt.png",
+      "keywords": [
+        "lodestar finance - rekt",
+        "lodestar finance rekt",
+        "lodestar-finance-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "m2-exchange",
       "category": "exchange",
       "logo_path": "logos/exchanges/m2-exchange.png",
       "keywords": [
         "m2 exchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mixin-network-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/mixin-network-rekt.png",
+      "keywords": [
+        "mixin network - rekt",
+        "mixin network rekt",
+        "mixin-network-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pike-finance",
+      "category": "defi",
+      "logo_path": "logos/defi/pike-finance.png",
+      "keywords": [
+        "pike finance",
+        "pike-finance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "punk-protocol-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/punk-protocol-rekt.png",
+      "keywords": [
+        "punk protocol - rekt",
+        "punk protocol rekt",
+        "punk-protocol-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "saga",
+      "category": "defi",
+      "logo_path": "logos/defi/saga.png",
+      "keywords": [
+        "saga"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "sbi-crypto",
+      "category": "defi",
+      "logo_path": "logos/defi/sbi-crypto.png",
+      "keywords": [
+        "sbi crypto",
+        "sbi-crypto"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "steadefi-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/steadefi-rekt.png",
+      "keywords": [
+        "steadefi - rekt",
+        "steadefi rekt",
+        "steadefi-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "thorchain-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/thorchain-rekt.png",
+      "keywords": [
+        "thorchain - rekt",
+        "thorchain rekt",
+        "thorchain-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "transit-swap-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/transit-swap-rekt.png",
+      "keywords": [
+        "transit swap - rekt",
+        "transit swap rekt",
+        "transit-swap-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "uspd",
+      "category": "defi",
+      "logo_path": "logos/defi/uspd.png",
+      "keywords": [
+        "uspd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "yearn-rekt-2",
+      "category": "defi",
+      "logo_path": "logos/defi/yearn-rekt-2.png",
+      "keywords": [
+        "yearn - rekt 2",
+        "yearn rekt 2",
+        "yearn-rekt-2"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "zoth",
+      "category": "defi",
+      "logo_path": "logos/defi/zoth.png",
+      "keywords": [
+        "zoth"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -12123,12 +13692,175 @@
       "sanctioned": false
     },
     {
+      "slug": "badger-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/badger-rekt.png",
+      "keywords": [
+        "badger - rekt",
+        "badger rekt",
+        "badger-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "beanstalk-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/beanstalk-rekt.png",
+      "keywords": [
+        "beanstalk - rekt",
+        "beanstalk rekt",
+        "beanstalk-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bondly-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/bondly-rekt.png",
+      "keywords": [
+        "bondly - rekt",
+        "bondly rekt",
+        "bondly-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cetus",
+      "category": "defi",
+      "logo_path": "logos/defi/cetus.png",
+      "keywords": [
+        "cetus"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "clober-dex",
+      "category": "defi",
+      "logo_path": "logos/defi/clober-dex.png",
+      "keywords": [
+        "clober dex",
+        "clober-dex"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "curve-finance-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/curve-finance-rekt.png",
+      "keywords": [
+        "curve finance - rekt",
+        "curve finance rekt",
+        "curve-finance-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "deribit-rekt",
       "category": "exchange",
       "logo_path": "logos/exchanges/deribit-rekt.png",
       "keywords": [
         "deribit - rekt",
         "deribit rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "deus-dao-rekt-2",
+      "category": "defi",
+      "logo_path": "logos/defi/deus-dao-rekt-2.png",
+      "keywords": [
+        "deus dao - rekt 2",
+        "deus dao rekt 2",
+        "deus-dao-rekt-2"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "euler-finance-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/euler-finance-rekt.png",
+      "keywords": [
+        "euler finance - rekt",
+        "euler finance rekt",
+        "euler-finance-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "exactly-protocol-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/exactly-protocol-rekt.png",
+      "keywords": [
+        "exactly protocol - rekt",
+        "exactly protocol rekt",
+        "exactly-protocol-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gempad",
+      "category": "defi",
+      "logo_path": "logos/defi/gempad.png",
+      "keywords": [
+        "gempad"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gym-network-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/gym-network-rekt.png",
+      "keywords": [
+        "gym network - rekt",
+        "gym network rekt",
+        "gym-network-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "harvest-finance-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/harvest-finance-rekt.png",
+      "keywords": [
+        "harvest finance - rekt",
+        "harvest finance rekt",
+        "harvest-finance-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "htx-huobi-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/htx-huobi-rekt.png",
+      "keywords": [
+        "htx (huobi) - rekt",
+        "htx huobi rekt",
+        "htx-huobi-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "jimbo-s-protocol-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/jimbo-s-protocol-rekt.png",
+      "keywords": [
+        "jimbo's protocol - rekt",
+        "jimbo s protocol rekt",
+        "jimbo-s-protocol-rekt"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -12145,11 +13877,198 @@
       "sanctioned": false
     },
     {
+      "slug": "level-finance-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/level-finance-rekt.png",
+      "keywords": [
+        "level finance - rekt",
+        "level finance rekt",
+        "level-finance-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "loopscale",
+      "category": "defi",
+      "logo_path": "logos/defi/loopscale.png",
+      "keywords": [
+        "loopscale"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "midas-capital-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/midas-capital-rekt.png",
+      "keywords": [
+        "midas capital - rekt",
+        "midas capital rekt",
+        "midas-capital-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "mixin-one",
       "category": "wallet",
       "logo_path": "logos/wallet/mixin-one.png",
       "keywords": [
         "mixin"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mm-finance-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/mm-finance-rekt.png",
+      "keywords": [
+        "mm finance - rekt",
+        "mm finance rekt",
+        "mm-finance-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "moby-trade",
+      "category": "defi",
+      "logo_path": "logos/defi/moby-trade.png",
+      "keywords": [
+        "moby trade",
+        "moby-trade"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "moola-market-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/moola-market-rekt.png",
+      "keywords": [
+        "moola market - rekt",
+        "moola market rekt",
+        "moola-market-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "onyx-protocol-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/onyx-protocol-rekt.png",
+      "keywords": [
+        "onyx protocol - rekt",
+        "onyx protocol rekt",
+        "onyx-protocol-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "orion-protocol-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/orion-protocol-rekt.png",
+      "keywords": [
+        "orion protocol - rekt",
+        "orion protocol rekt",
+        "orion-protocol-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "platypus-finance-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/platypus-finance-rekt.png",
+      "keywords": [
+        "platypus finance - rekt",
+        "platypus finance rekt",
+        "platypus-finance-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "shibarium",
+      "category": "defi",
+      "logo_path": "logos/defi/shibarium.png",
+      "keywords": [
+        "shibarium"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "shibarium-bridge-rekt",
+      "category": "bridge",
+      "logo_path": "logos/bridge/shibarium-bridge-rekt.png",
+      "keywords": [
+        "shibarium bridge - rekt",
+        "shibarium bridge rekt",
+        "shibarium-bridge-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "snowdog-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/snowdog-rekt.png",
+      "keywords": [
+        "snowdog - rekt",
+        "snowdog rekt",
+        "snowdog-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "visor-finance-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/visor-finance-rekt.png",
+      "keywords": [
+        "visor finance - rekt",
+        "visor finance rekt",
+        "visor-finance-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "vulcan-forged-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/vulcan-forged-rekt.png",
+      "keywords": [
+        "vulcan forged - rekt",
+        "vulcan forged rekt",
+        "vulcan-forged-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "wintermute-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/wintermute-rekt.png",
+      "keywords": [
+        "wintermute - rekt",
+        "wintermute rekt",
+        "wintermute-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "zunami-protocol-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/zunami-protocol-rekt.png",
+      "keywords": [
+        "zunami protocol - rekt",
+        "zunami protocol rekt",
+        "zunami-protocol-rekt"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -12197,6 +14116,26 @@
       "sanctioned": false
     },
     {
+      "slug": "onyxdao",
+      "category": "defi",
+      "logo_path": "logos/defi/onyxdao.png",
+      "keywords": [
+        "onyxdao"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pawnfi",
+      "category": "defi",
+      "logo_path": "logos/defi/pawnfi.png",
+      "keywords": [
+        "pawnfi"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "pintu-co-id",
       "category": "exchange",
       "logo_path": "logos/exchanges/pintu-co-id.png",
@@ -12204,6 +14143,16 @@
         "pintu",
         "pintu co id",
         "pintu.co.id"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "themis",
+      "category": "defi",
+      "logo_path": "logos/defi/themis.png",
+      "keywords": [
+        "themis"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -12396,6 +14345,16 @@
       "sanctioned": false
     },
     {
+      "slug": "paribus",
+      "category": "defi",
+      "logo_path": "logos/defi/paribus.png",
+      "keywords": [
+        "paribus"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "swyftx-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/swyftx-com.png",
@@ -12411,6 +14370,16 @@
       "logo_path": "logos/psp/westwallet-io.png",
       "keywords": [
         "westwallet"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "yel",
+      "category": "defi",
+      "logo_path": "logos/defi/yel.png",
+      "keywords": [
+        "yel"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -12550,6 +14519,16 @@
       "sanctioned": false
     },
     {
+      "slug": "mexc",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/mexc.png",
+      "keywords": [
+        "mexc"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "wirex",
       "category": "exchange",
       "logo_path": "logos/exchanges/wirex.png",
@@ -12674,6 +14653,42 @@
       "sanctioned": false
     },
     {
+      "slug": "akropolis-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/akropolis-rekt.png",
+      "keywords": [
+        "akropolis - rekt",
+        "akropolis rekt",
+        "akropolis-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "alpha-finance-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/alpha-finance-rekt.png",
+      "keywords": [
+        "alpha finance - rekt",
+        "alpha finance rekt",
+        "alpha-finance-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "anyswap-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/anyswap-rekt.png",
+      "keywords": [
+        "anyswap - rekt",
+        "anyswap rekt",
+        "anyswap-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "ascendex-rekt",
       "category": "exchange",
       "logo_path": "logos/exchanges/ascendex-rekt.png",
@@ -12685,12 +14700,601 @@
       "sanctioned": false
     },
     {
+      "slug": "astroport",
+      "category": "defi",
+      "logo_path": "logos/defi/astroport.png",
+      "keywords": [
+        "astroport"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "atlantis-loans-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/atlantis-loans-rekt.png",
+      "keywords": [
+        "atlantis loans - rekt",
+        "atlantis loans rekt",
+        "atlantis-loans-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bald-on-base-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/bald-on-base-rekt.png",
+      "keywords": [
+        "bald on base - rekt",
+        "bald on base rekt",
+        "bald-on-base-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bearn-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/bearn-rekt.png",
+      "keywords": [
+        "bearn - rekt",
+        "bearn rekt",
+        "bearn-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bedrock",
+      "category": "defi",
+      "logo_path": "logos/defi/bedrock.png",
+      "keywords": [
+        "bedrock"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "blizz-finance-venus-protocol-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/blizz-finance-venus-protocol-rekt.png",
+      "keywords": [
+        "blizz finance",
+        "venus protocol - rekt",
+        "blizz finance venus protocol rekt",
+        "blizz-finance-venus-protocol-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bnb-bridge-rekt",
+      "category": "bridge",
+      "logo_path": "logos/bridge/bnb-bridge-rekt.png",
+      "keywords": [
+        "bnb bridge - rekt",
+        "bnb bridge rekt",
+        "bnb-bridge-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cashio-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/cashio-rekt.png",
+      "keywords": [
+        "cashio - rekt",
+        "cashio rekt",
+        "cashio-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "compound-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/compound-rekt.png",
+      "keywords": [
+        "compound - rekt",
+        "compound rekt",
+        "compound-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cork-protocol",
+      "category": "defi",
+      "logo_path": "logos/defi/cork-protocol.png",
+      "keywords": [
+        "cork protocol",
+        "cork-protocol"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "crema-finance-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/crema-finance-rekt.png",
+      "keywords": [
+        "crema finance - rekt",
+        "crema finance rekt",
+        "crema-finance-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "crypto-com-rekt",
       "category": "exchange",
       "logo_path": "logos/exchanges/crypto-com-rekt.png",
       "keywords": [
         "crypto.com - rekt",
         "crypto com rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dao-maker-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/dao-maker-rekt.png",
+      "keywords": [
+        "dao maker - rekt",
+        "dao maker rekt",
+        "dao-maker-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dego-finance-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/dego-finance-rekt.png",
+      "keywords": [
+        "dego finance - rekt",
+        "dego finance rekt",
+        "dego-finance-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dexible-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/dexible-rekt.png",
+      "keywords": [
+        "dexible - rekt",
+        "dexible rekt",
+        "dexible-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dforce-network-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/dforce-network-rekt.png",
+      "keywords": [
+        "dforce network - rekt",
+        "dforce network rekt",
+        "dforce-network-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "easyfi-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/easyfi-rekt.png",
+      "keywords": [
+        "easyfi - rekt",
+        "easyfi rekt",
+        "easyfi-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "eralend-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/eralend-rekt.png",
+      "keywords": [
+        "eralend - rekt",
+        "eralend rekt",
+        "eralend-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gala-games",
+      "category": "defi",
+      "logo_path": "logos/defi/gala-games.png",
+      "keywords": [
+        "gala games",
+        "gala-games"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gamma-strategies-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/gamma-strategies-rekt.png",
+      "keywords": [
+        "gamma strategies - rekt",
+        "gamma strategies rekt",
+        "gamma-strategies-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "grim-finance-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/grim-finance-rekt.png",
+      "keywords": [
+        "grim finance - rekt",
+        "grim finance rekt",
+        "grim-finance-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hacken",
+      "category": "defi",
+      "logo_path": "logos/defi/hacken.png",
+      "keywords": [
+        "hacken"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hedera-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/hedera-rekt.png",
+      "keywords": [
+        "hedera - rekt",
+        "hedera rekt",
+        "hedera-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hypr-network-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/hypr-network-rekt.png",
+      "keywords": [
+        "hypr network - rekt",
+        "hypr network rekt",
+        "hypr-network-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "indexed-finance-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/indexed-finance-rekt.png",
+      "keywords": [
+        "indexed finance - rekt",
+        "indexed finance rekt",
+        "indexed-finance-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kannagi-finance-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/kannagi-finance-rekt.png",
+      "keywords": [
+        "kannagi finance - rekt",
+        "kannagi finance rekt",
+        "kannagi-finance-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kronos-research-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/kronos-research-rekt.png",
+      "keywords": [
+        "kronos research - rekt",
+        "kronos research rekt",
+        "kronos-research-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "merlin-dex-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/merlin-dex-rekt.png",
+      "keywords": [
+        "merlin dex - rekt",
+        "merlin dex rekt",
+        "merlin-dex-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "merlin-labs-r3kt",
+      "category": "defi",
+      "logo_path": "logos/defi/merlin-labs-r3kt.png",
+      "keywords": [
+        "merlin labs - r3kt",
+        "merlin labs r3kt",
+        "merlin-labs-r3kt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "merlin-labs-rekt-2",
+      "category": "defi",
+      "logo_path": "logos/defi/merlin-labs-rekt-2.png",
+      "keywords": [
+        "merlin labs - rekt 2",
+        "merlin labs rekt 2",
+        "merlin-labs-rekt-2"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mobiusdao",
+      "category": "defi",
+      "logo_path": "logos/defi/mobiusdao.png",
+      "keywords": [
+        "mobiusdao"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "new-gold-protocol",
+      "category": "defi",
+      "logo_path": "logos/defi/new-gold-protocol.png",
+      "keywords": [
+        "new gold protocol",
+        "new-gold-protocol"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "nirvana-finance-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/nirvana-finance-rekt.png",
+      "keywords": [
+        "nirvana finance - rekt",
+        "nirvana finance rekt",
+        "nirvana-finance-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "orbit-bridge-rekt",
+      "category": "bridge",
+      "logo_path": "logos/bridge/orbit-bridge-rekt.png",
+      "keywords": [
+        "orbit bridge - rekt",
+        "orbit bridge rekt",
+        "orbit-bridge-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "paid-network-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/paid-network-rekt.png",
+      "keywords": [
+        "paid network - rekt",
+        "paid network rekt",
+        "paid-network-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pancakebunny-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/pancakebunny-rekt.png",
+      "keywords": [
+        "pancakebunny - rekt",
+        "pancakebunny rekt",
+        "pancakebunny-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pancakebunny-rekt-2",
+      "category": "defi",
+      "logo_path": "logos/defi/pancakebunny-rekt-2.png",
+      "keywords": [
+        "pancakebunny - rekt 2",
+        "pancakebunny rekt 2",
+        "pancakebunny-rekt-2"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "raft-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/raft-rekt.png",
+      "keywords": [
+        "raft - rekt",
+        "raft rekt",
+        "raft-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "raydium-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/raydium-rekt.png",
+      "keywords": [
+        "raydium - rekt",
+        "raydium rekt",
+        "raydium-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "revest-finance-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/revest-finance-rekt.png",
+      "keywords": [
+        "revest finance - rekt",
+        "revest finance rekt",
+        "revest-finance-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "rhea-finance",
+      "category": "defi",
+      "logo_path": "logos/defi/rhea-finance.png",
+      "keywords": [
+        "rhea finance",
+        "rhea-finance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "rocketswap-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/rocketswap-rekt.png",
+      "keywords": [
+        "rocketswap - rekt",
+        "rocketswap rekt",
+        "rocketswap-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "roll-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/roll-rekt.png",
+      "keywords": [
+        "roll - rekt",
+        "roll rekt",
+        "roll-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ronin-network-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/ronin-network-rekt.png",
+      "keywords": [
+        "ronin network - rekt",
+        "ronin network rekt",
+        "ronin-network-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "safedollar-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/safedollar-rekt.png",
+      "keywords": [
+        "safedollar - rekt",
+        "safedollar rekt",
+        "safedollar-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "sovryn-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/sovryn-rekt.png",
+      "keywords": [
+        "sovryn - rekt",
+        "sovryn rekt",
+        "sovryn-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "superfluid-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/superfluid-rekt.png",
+      "keywords": [
+        "superfluid - rekt",
+        "superfluid rekt",
+        "superfluid-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "team-finance-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/team-finance-rekt.png",
+      "keywords": [
+        "team finance - rekt",
+        "team finance rekt",
+        "team-finance-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "templedao-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/templedao-rekt.png",
+      "keywords": [
+        "templedao - rekt",
+        "templedao rekt",
+        "templedao-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "vee-finance-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/vee-finance-rekt.png",
+      "keywords": [
+        "vee finance - rekt",
+        "vee finance rekt",
+        "vee-finance-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "wormhole-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/wormhole-rekt.png",
+      "keywords": [
+        "wormhole - rekt",
+        "wormhole rekt",
+        "wormhole-rekt"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -12741,6 +15345,46 @@
       "sanctioned": false
     },
     {
+      "slug": "bao",
+      "category": "defi",
+      "logo_path": "logos/defi/bao.png",
+      "keywords": [
+        "bao"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "griffinai",
+      "category": "defi",
+      "logo_path": "logos/defi/griffinai.png",
+      "keywords": [
+        "griffinai"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "resupplyfi",
+      "category": "defi",
+      "logo_path": "logos/defi/resupplyfi.png",
+      "keywords": [
+        "resupplyfi"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "truebit",
+      "category": "defi",
+      "logo_path": "logos/defi/truebit.png",
+      "keywords": [
+        "truebit"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "coinstore-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/coinstore-com.png",
@@ -12763,11 +15407,31 @@
       "sanctioned": false
     },
     {
+      "slug": "overnight",
+      "category": "defi",
+      "logo_path": "logos/defi/overnight.png",
+      "keywords": [
+        "overnight"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "bitkan-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/bitkan-com.png",
       "keywords": [
         "bitkan"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "goldfinch",
+      "category": "defi",
+      "logo_path": "logos/defi/goldfinch.png",
+      "keywords": [
+        "goldfinch"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -12859,6 +15523,29 @@
       "sanctioned": false
     },
     {
+      "slug": "bitpin-ir",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bitpin-ir.png",
+      "keywords": [
+        "bitpin.ir",
+        "bitpin ir",
+        "bitpin-ir"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "multiple-dexs",
+      "category": "dex",
+      "logo_path": "logos/dex/multiple-dexs.png",
+      "keywords": [
+        "multiple dexs",
+        "multiple-dexs"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "probit-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/probit-com.png",
@@ -12875,6 +15562,27 @@
       "keywords": [
         "quidax",
         "quidax.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "neutral-trade",
+      "category": "defi",
+      "logo_path": "logos/defi/neutral-trade.png",
+      "keywords": [
+        "neutral-trade",
+        "neutral trade"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "sonne",
+      "category": "defi",
+      "logo_path": "logos/defi/sonne.png",
+      "keywords": [
+        "sonne"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -13337,6 +16045,16 @@
       "sanctioned": false
     },
     {
+      "slug": "siren",
+      "category": "defi",
+      "logo_path": "logos/defi/siren.png",
+      "keywords": [
+        "siren"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "uphold-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/uphold-com.png",
@@ -13764,6 +16482,26 @@
       "logo_path": "logos/exchanges/coins-philippines.png",
       "keywords": [
         "coins philippines"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kraken",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/kraken.png",
+      "keywords": [
+        "kraken"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "veda",
+      "category": "defi",
+      "logo_path": "logos/defi/veda.png",
+      "keywords": [
+        "veda"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -14197,6 +16935,17 @@
       "sanctioned": false
     },
     {
+      "slug": "crypto-exchanger-bot",
+      "category": "bot",
+      "logo_path": "logos/bot/crypto-exchanger-bot.png",
+      "keywords": [
+        "crypto exchanger bot",
+        "crypto-exchanger-bot"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "depay-com",
       "category": "psp",
       "logo_path": "logos/psp/depay-com.png",
@@ -14403,6 +17152,69 @@
       "keywords": [
         "zksync.io",
         "zksync"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "deus",
+      "category": "defi",
+      "logo_path": "logos/defi/deus.png",
+      "keywords": [
+        "deus"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hpay",
+      "category": "defi",
+      "logo_path": "logos/defi/hpay.png",
+      "keywords": [
+        "hpay"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "okx-dex-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/okx-dex-rekt.png",
+      "keywords": [
+        "okx dex - rekt",
+        "okx dex rekt",
+        "okx-dex-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "raft",
+      "category": "defi",
+      "logo_path": "logos/defi/raft.png",
+      "keywords": [
+        "raft"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "creamfinance",
+      "category": "defi",
+      "logo_path": "logos/defi/creamfinance.png",
+      "keywords": [
+        "creamfinance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gate-io",
+      "category": "defi",
+      "logo_path": "logos/defi/gate-io.png",
+      "keywords": [
+        "gate-io",
+        "gate io"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -14877,6 +17689,39 @@
         "wombat.exchange",
         "wombat-exchange",
         "wombat"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "morpho-blue",
+      "category": "defi",
+      "logo_path": "logos/defi/morpho-blue.png",
+      "keywords": [
+        "morpho-blue",
+        "morpho blue"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "symbiosis-finance",
+      "category": "defi",
+      "logo_path": "logos/defi/symbiosis-finance.png",
+      "keywords": [
+        "symbiosis-finance",
+        "symbiosis finance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mev-capital",
+      "category": "defi",
+      "logo_path": "logos/defi/mev-capital.png",
+      "keywords": [
+        "mev-capital",
+        "mev capital"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -15387,6 +18232,17 @@
     },
     {
       "slug": "multiple-dexs",
+      "category": "defi",
+      "logo_path": "logos/defi/multiple-dexs.png",
+      "keywords": [
+        "multiple dexs",
+        "multiple-dexs"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "multiple-dexs",
       "category": "exchange",
       "logo_path": "logos/exchanges/multiple-dexs.png",
       "keywords": [
@@ -15706,6 +18562,17 @@
       "logo_path": "logos/exchanges/paxful-com.png",
       "keywords": [
         "paxful"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "reservoir-protocol",
+      "category": "defi",
+      "logo_path": "logos/defi/reservoir-protocol.png",
+      "keywords": [
+        "reservoir-protocol",
+        "reservoir protocol"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -16818,6 +19685,17 @@
       "sanctioned": false
     },
     {
+      "slug": "multiple-dexs",
+      "category": "bot",
+      "logo_path": "logos/bot/multiple-dexs.png",
+      "keywords": [
+        "multiple dexs",
+        "multiple-dexs"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "multisender-app",
       "category": "dex",
       "logo_path": "logos/dex/multisender-app.png",
@@ -17300,11 +20178,115 @@
       "sanctioned": false
     },
     {
+      "slug": "orange",
+      "category": "defi",
+      "logo_path": "logos/defi/orange.png",
+      "keywords": [
+        "orange finance",
+        "orange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "zunami",
+      "category": "defi",
+      "logo_path": "logos/defi/zunami.png",
+      "keywords": [
+        "zunami"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "defiplaza",
+      "category": "defi",
+      "logo_path": "logos/defi/defiplaza.png",
+      "keywords": [
+        "defiplaza"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "visor",
+      "category": "defi",
+      "logo_path": "logos/defi/visor.png",
+      "keywords": [
+        "visor"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "xy-finance",
+      "category": "defi",
+      "logo_path": "logos/defi/xy-finance.png",
+      "keywords": [
+        "xy-finance",
+        "xy finance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "audius",
+      "category": "defi",
+      "logo_path": "logos/defi/audius.png",
+      "keywords": [
+        "audius"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "iotex",
+      "category": "defi",
+      "logo_path": "logos/defi/iotex.png",
+      "keywords": [
+        "iotex"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "warp-finance-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/warp-finance-rekt.png",
+      "keywords": [
+        "warp finance - rekt",
+        "warp finance rekt",
+        "warp-finance-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "woofi",
+      "category": "defi",
+      "logo_path": "logos/defi/woofi.png",
+      "keywords": [
+        "woofi"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "1win-com",
       "category": "gambling",
       "logo_path": "logos/gambling/1win-com.png",
       "keywords": [
         "1win"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "rumpel",
+      "category": "defi",
+      "logo_path": "logos/defi/rumpel.png",
+      "keywords": [
+        "rumpel"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -17322,11 +20304,41 @@
       "sanctioned": false
     },
     {
+      "slug": "chaingefinance",
+      "category": "defi",
+      "logo_path": "logos/defi/chaingefinance.png",
+      "keywords": [
+        "chaingefinance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "crystal",
       "category": "exchange",
       "logo_path": "logos/exchanges/crystal.png",
       "keywords": [
         "crystal"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "htx",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/htx.png",
+      "keywords": [
+        "htx"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hopelend",
+      "category": "defi",
+      "logo_path": "logos/defi/hopelend.png",
+      "keywords": [
+        "hopelend"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -17344,11 +20356,52 @@
       "sanctioned": false
     },
     {
+      "slug": "fourmeme",
+      "category": "defi",
+      "logo_path": "logos/defi/fourmeme.png",
+      "keywords": [
+        "fourmeme"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pancakebunny",
+      "category": "defi",
+      "logo_path": "logos/defi/pancakebunny.png",
+      "keywords": [
+        "pancakebunny"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "synapse",
+      "category": "defi",
+      "logo_path": "logos/defi/synapse.png",
+      "keywords": [
+        "synapse"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "cointr-pro",
       "category": "exchange",
       "logo_path": "logos/exchanges/cointr-pro.png",
       "keywords": [
         "cointr"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "satoshi-protocol",
+      "category": "defi",
+      "logo_path": "logos/defi/satoshi-protocol.png",
+      "keywords": [
+        "satoshi-protocol",
+        "satoshi protocol"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -17364,12 +20417,32 @@
       "sanctioned": false
     },
     {
+      "slug": "bunny",
+      "category": "defi",
+      "logo_path": "logos/defi/bunny.png",
+      "keywords": [
+        "bunny"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "coinex-rekt",
       "category": "exchange",
       "logo_path": "logos/exchanges/coinex-rekt.png",
       "keywords": [
         "coinex - rekt",
         "coinex rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "flarefarm",
+      "category": "defi",
+      "logo_path": "logos/defi/flarefarm.png",
+      "keywords": [
+        "flarefarm"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -17395,11 +20468,96 @@
       "sanctioned": false
     },
     {
+      "slug": "fpr",
+      "category": "defi",
+      "logo_path": "logos/defi/fpr.png",
+      "keywords": [
+        "fpr"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kokomo-finance-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/kokomo-finance-rekt.png",
+      "keywords": [
+        "kokomo finance - rekt",
+        "kokomo finance rekt",
+        "kokomo-finance-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "unizen",
+      "category": "defi",
+      "logo_path": "logos/defi/unizen.png",
+      "keywords": [
+        "unizen"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "velocore",
+      "category": "defi",
+      "logo_path": "logos/defi/velocore.png",
+      "keywords": [
+        "velocore"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "venus-zksync",
+      "category": "defi",
+      "logo_path": "logos/defi/venus-zksync.png",
+      "keywords": [
+        "venus zksync",
+        "venus-zksync"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "matrixport-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/matrixport-com.png",
       "keywords": [
         "matrixport"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "paribu",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/paribu.png",
+      "keywords": [
+        "paribu exchange",
+        "paribu"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pacoca",
+      "category": "defi",
+      "logo_path": "logos/defi/pacoca.png",
+      "keywords": [
+        "pacoca"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "wombat-exchange",
+      "category": "defi",
+      "logo_path": "logos/defi/wombat-exchange.png",
+      "keywords": [
+        "wombat-exchange",
+        "wombat exchange"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -17415,11 +20573,31 @@
       "sanctioned": false
     },
     {
+      "slug": "airpuff",
+      "category": "defi",
+      "logo_path": "logos/defi/airpuff.png",
+      "keywords": [
+        "airpuff"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "ourbit-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/ourbit-com.png",
       "keywords": [
         "ourbit"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "topbidder",
+      "category": "defi",
+      "logo_path": "logos/defi/topbidder.png",
+      "keywords": [
+        "topbidder"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -17447,6 +20625,144 @@
       "sanctioned": false
     },
     {
+      "slug": "88mph",
+      "category": "defi",
+      "logo_path": "logos/defi/88mph.png",
+      "keywords": [
+        "88mph"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "wallex-ir-iran-operator-2026-05-09",
+      "category": "sanctioned",
+      "logo_path": "logos/sanctioned/wallex-ir-iran-operator-2026-05-09.png",
+      "keywords": [
+        "wallex.ir (iran — operator 2026-05-09)",
+        "wallex ir iran operator 2026 05 09",
+        "wallex-ir-iran-operator-2026-05-09"
+      ],
+      "product_aliases": [],
+      "sanctioned": true
+    },
+    {
+      "slug": "garantex",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/garantex.png",
+      "keywords": [
+        "garantex"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gysr-vsp-eth",
+      "category": "defi",
+      "logo_path": "logos/defi/gysr-vsp-eth.png",
+      "keywords": [
+        "gysr vsp eth pool",
+        "gysr vsp eth",
+        "gysr-vsp-eth"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "defi-saver",
+      "category": "defi",
+      "logo_path": "logos/defi/defi-saver.png",
+      "keywords": [
+        "defi saver",
+        "defi-saver"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "belt",
+      "category": "defi",
+      "logo_path": "logos/defi/belt.png",
+      "keywords": [
+        "belt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "lyra-v2",
+      "category": "defi",
+      "logo_path": "logos/defi/lyra-v2.png",
+      "keywords": [
+        "lyra-v2",
+        "lyra v2"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "minterest",
+      "category": "defi",
+      "logo_path": "logos/defi/minterest.png",
+      "keywords": [
+        "minterest"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "penpiexyzio",
+      "category": "defi",
+      "logo_path": "logos/defi/penpiexyzio.png",
+      "keywords": [
+        "penpiexyzio"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "popsicle",
+      "category": "defi",
+      "logo_path": "logos/defi/popsicle.png",
+      "keywords": [
+        "popsicle"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "thetanuts",
+      "category": "defi",
+      "logo_path": "logos/defi/thetanuts.png",
+      "keywords": [
+        "thetanuts"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "yieldflow",
+      "category": "defi",
+      "logo_path": "logos/defi/yieldflow.png",
+      "keywords": [
+        "yieldflow"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "okx-arkham-prediction",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/okx-arkham-prediction.png",
+      "keywords": [
+        "okx (arkham prediction)",
+        "okx arkham prediction",
+        "okx-arkham-prediction"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "grinex",
       "category": "sanctioned",
       "logo_path": "logos/sanctioned/grinex.png",
@@ -17457,6 +20773,26 @@
       "sanctioned": true
     },
     {
+      "slug": "polynomial",
+      "category": "defi",
+      "logo_path": "logos/defi/polynomial.png",
+      "keywords": [
+        "polynomial"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "teamfinance",
+      "category": "defi",
+      "logo_path": "logos/defi/teamfinance.png",
+      "keywords": [
+        "teamfinance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "coinone-co-kr",
       "category": "exchange",
       "logo_path": "logos/exchanges/coinone-co-kr.png",
@@ -17464,6 +20800,92 @@
         "coinone",
         "coinone co kr",
         "coinone.co.kr"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gauntlet",
+      "category": "defi",
+      "logo_path": "logos/defi/gauntlet.png",
+      "keywords": [
+        "gauntlet"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bxh",
+      "category": "defi",
+      "logo_path": "logos/defi/bxh.png",
+      "keywords": [
+        "bxh"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gana-payment",
+      "category": "defi",
+      "logo_path": "logos/defi/gana-payment.png",
+      "keywords": [
+        "gana payment",
+        "gana-payment"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "heco-bridge-htx-rekt",
+      "category": "bridge",
+      "logo_path": "logos/bridge/heco-bridge-htx-rekt.png",
+      "keywords": [
+        "heco bridge",
+        "htx - rekt",
+        "heco bridge htx rekt",
+        "heco-bridge-htx-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hyperbridge",
+      "category": "defi",
+      "logo_path": "logos/defi/hyperbridge.png",
+      "keywords": [
+        "hyperbridge"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "lifi",
+      "category": "defi",
+      "logo_path": "logos/defi/lifi.png",
+      "keywords": [
+        "lifi"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "poly-network-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/poly-network-rekt.png",
+      "keywords": [
+        "poly network - rekt",
+        "poly network rekt",
+        "poly-network-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "rice",
+      "category": "defi",
+      "logo_path": "logos/defi/rice.png",
+      "keywords": [
+        "rice"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -17479,6 +20901,26 @@
       "sanctioned": false
     },
     {
+      "slug": "vow",
+      "category": "defi",
+      "logo_path": "logos/defi/vow.png",
+      "keywords": [
+        "vow"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "xwin",
+      "category": "defi",
+      "logo_path": "logos/defi/xwin.png",
+      "keywords": [
+        "xwin"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "dinari",
       "category": "defi",
       "logo_path": "logos/defi/dinari.png",
@@ -17489,11 +20931,141 @@
       "sanctioned": false
     },
     {
+      "slug": "platypus",
+      "category": "defi",
+      "logo_path": "logos/defi/platypus.png",
+      "keywords": [
+        "platypus"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "raindex",
+      "category": "defi",
+      "logo_path": "logos/defi/raindex.png",
+      "keywords": [
+        "raindex"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "nazza",
       "category": "exchange",
       "logo_path": "logos/exchanges/nazza.png",
       "keywords": [
         "nazza"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "impermax",
+      "category": "defi",
+      "logo_path": "logos/defi/impermax.png",
+      "keywords": [
+        "impermax"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "lynx",
+      "category": "defi",
+      "logo_path": "logos/defi/lynx.png",
+      "keywords": [
+        "lynx"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "sturdy",
+      "category": "defi",
+      "logo_path": "logos/defi/sturdy.png",
+      "keywords": [
+        "sturdy"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "prisma",
+      "category": "defi",
+      "logo_path": "logos/defi/prisma.png",
+      "keywords": [
+        "prisma"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "zyfai",
+      "category": "defi",
+      "logo_path": "logos/defi/zyfai.png",
+      "keywords": [
+        "zyfai"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "agave",
+      "category": "defi",
+      "logo_path": "logos/defi/agave.png",
+      "keywords": [
+        "agave"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitget",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bitget.png",
+      "keywords": [
+        "bitget"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "nostra",
+      "category": "defi",
+      "logo_path": "logos/defi/nostra.png",
+      "keywords": [
+        "nostra"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "audius",
+      "category": "hack",
+      "logo_path": "logos/hack/audius.png",
+      "keywords": [
+        "audius"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bishares",
+      "category": "defi",
+      "logo_path": "logos/defi/bishares.png",
+      "keywords": [
+        "bishares"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bonqdao",
+      "category": "defi",
+      "logo_path": "logos/defi/bonqdao.png",
+      "keywords": [
+        "bonqdao"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -17510,11 +21082,31 @@
       "sanctioned": false
     },
     {
+      "slug": "huobi",
+      "category": "defi",
+      "logo_path": "logos/defi/huobi.png",
+      "keywords": [
+        "huobi"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "aave",
       "category": "defi",
       "logo_path": "logos/defi/aave.png",
       "keywords": [
         "aave"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "corkprotocol",
+      "category": "defi",
+      "logo_path": "logos/defi/corkprotocol.png",
+      "keywords": [
+        "corkprotocol"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -17540,11 +21132,134 @@
       "sanctioned": false
     },
     {
+      "slug": "angle",
+      "category": "defi",
+      "logo_path": "logos/defi/angle.png",
+      "keywords": [
+        "angle"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "primitive",
+      "category": "defi",
+      "logo_path": "logos/defi/primitive.png",
+      "keywords": [
+        "primitive"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "bitrue-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/bitrue-com.png",
       "keywords": [
         "bitrue"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "swissborg",
+      "category": "defi",
+      "logo_path": "logos/defi/swissborg.png",
+      "keywords": [
+        "swissborg"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ais",
+      "category": "defi",
+      "logo_path": "logos/defi/ais.png",
+      "keywords": [
+        "ais"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "babydogecoin02",
+      "category": "defi",
+      "logo_path": "logos/defi/babydogecoin02.png",
+      "keywords": [
+        "babydogecoin02"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bh",
+      "category": "defi",
+      "logo_path": "logos/defi/bh.png",
+      "keywords": [
+        "bh"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "btc20",
+      "category": "defi",
+      "logo_path": "logos/defi/btc20.png",
+      "keywords": [
+        "btc20"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "burntbubba",
+      "category": "defi",
+      "logo_path": "logos/defi/burntbubba.png",
+      "keywords": [
+        "burntbubba"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "centrifuge",
+      "category": "defi",
+      "logo_path": "logos/defi/centrifuge.png",
+      "keywords": [
+        "centrifuge"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "channels",
+      "category": "defi",
+      "logo_path": "logos/defi/channels.png",
+      "keywords": [
+        "channels"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dodo-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/dodo-rekt.png",
+      "keywords": [
+        "dodo - rekt",
+        "dodo rekt",
+        "dodo-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "erasure-v100",
+      "category": "defi",
+      "logo_path": "logos/defi/erasure-v100.png",
+      "keywords": [
+        "erasure v100",
+        "erasure-v100"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -17561,6 +21276,109 @@
       "sanctioned": false
     },
     {
+      "slug": "inversefinance",
+      "category": "defi",
+      "logo_path": "logos/defi/inversefinance.png",
+      "keywords": [
+        "inversefinance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "julswap",
+      "category": "defi",
+      "logo_path": "logos/defi/julswap.png",
+      "keywords": [
+        "julswap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kelpdao",
+      "category": "defi",
+      "logo_path": "logos/defi/kelpdao.png",
+      "keywords": [
+        "kelpdao"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mahalend",
+      "category": "defi",
+      "logo_path": "logos/defi/mahalend.png",
+      "keywords": [
+        "mahalend"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mo",
+      "category": "defi",
+      "logo_path": "logos/defi/mo.png",
+      "keywords": [
+        "mo"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "munchables-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/munchables-rekt.png",
+      "keywords": [
+        "munchables - rekt",
+        "munchables rekt",
+        "munchables-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "nervebridge",
+      "category": "defi",
+      "logo_path": "logos/defi/nervebridge.png",
+      "keywords": [
+        "nervebridge"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "peapodsfinance",
+      "category": "defi",
+      "logo_path": "logos/defi/peapodsfinance.png",
+      "keywords": [
+        "peapodsfinance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "platypus02",
+      "category": "defi",
+      "logo_path": "logos/defi/platypus02.png",
+      "keywords": [
+        "platypus02"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "thestandard-io",
+      "category": "defi",
+      "logo_path": "logos/defi/thestandard-io.png",
+      "keywords": [
+        "thestandard io",
+        "thestandard-io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "toobit-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/toobit-com.png",
@@ -17572,12 +21390,134 @@
       "sanctioned": false
     },
     {
+      "slug": "veth",
+      "category": "defi",
+      "logo_path": "logos/defi/veth.png",
+      "keywords": [
+        "veth"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "wintermute-rekt-2",
+      "category": "defi",
+      "logo_path": "logos/defi/wintermute-rekt-2.png",
+      "keywords": [
+        "wintermute - rekt 2",
+        "wintermute rekt 2",
+        "wintermute-rekt-2"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "wiselending",
+      "category": "defi",
+      "logo_path": "logos/defi/wiselending.png",
+      "keywords": [
+        "wiselending"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "zabu",
+      "category": "defi",
+      "logo_path": "logos/defi/zabu.png",
+      "keywords": [
+        "zabu"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "zklend",
+      "category": "defi",
+      "logo_path": "logos/defi/zklend.png",
+      "keywords": [
+        "zklend"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bybit",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bybit.png",
+      "keywords": [
+        "bybit"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "ftx-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/ftx-com.png",
       "keywords": [
         "ftx",
         "ftx.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gooddollar",
+      "category": "defi",
+      "logo_path": "logos/defi/gooddollar.png",
+      "keywords": [
+        "gooddollar"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mahadao",
+      "category": "defi",
+      "logo_path": "logos/defi/mahadao.png",
+      "keywords": [
+        "mahadao"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "sashimiswap",
+      "category": "defi",
+      "logo_path": "logos/defi/sashimiswap.png",
+      "keywords": [
+        "sashimiswap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dodo",
+      "category": "defi",
+      "logo_path": "logos/defi/dodo.png",
+      "keywords": [
+        "dodo"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitstamp",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bitstamp.png",
+      "keywords": [
+        "bitstamp"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "carolprotocol",
+      "category": "defi",
+      "logo_path": "logos/defi/carolprotocol.png",
+      "keywords": [
+        "carolprotocol"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -17604,6 +21544,16 @@
       "sanctioned": false
     },
     {
+      "slug": "futureswap",
+      "category": "defi",
+      "logo_path": "logos/defi/futureswap.png",
+      "keywords": [
+        "futureswap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "binance-us",
       "category": "exchange",
       "logo_path": "logos/exchanges/binance-us.png",
@@ -17615,11 +21565,54 @@
       "sanctioned": false
     },
     {
+      "slug": "equilibria",
+      "category": "defi",
+      "logo_path": "logos/defi/equilibria.png",
+      "keywords": [
+        "equilibria"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "jucoin",
       "category": "exchange",
       "logo_path": "logos/exchanges/jucoin.png",
       "keywords": [
         "jucoin"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ramzinex-com-iran-operator-2026-05-09",
+      "category": "sanctioned",
+      "logo_path": "logos/sanctioned/ramzinex-com-iran-operator-2026-05-09.png",
+      "keywords": [
+        "ramzinex.com (iran — operator 2026-05-09)",
+        "ramzinex com iran operator 2026 05 09",
+        "ramzinex-com-iran-operator-2026-05-09"
+      ],
+      "product_aliases": [],
+      "sanctioned": true
+    },
+    {
+      "slug": "betafinance",
+      "category": "defi",
+      "logo_path": "logos/defi/betafinance.png",
+      "keywords": [
+        "betafinance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "linkswap-v1",
+      "category": "defi",
+      "logo_path": "logos/defi/linkswap-v1.png",
+      "keywords": [
+        "linkswap v1",
+        "linkswap-v1"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -17642,6 +21635,50 @@
         "etherscan mixing service",
         "etherscan-mixing-service",
         "etherscan mixing_service"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ledger-connect-kit-hack",
+      "category": "defi",
+      "logo_path": "logos/defi/ledger-connect-kit-hack.png",
+      "keywords": [
+        "ledger connect kit hack",
+        "ledger-connect-kit-hack"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitpin-ir-iran-operator-2026-05-09",
+      "category": "sanctioned",
+      "logo_path": "logos/sanctioned/bitpin-ir-iran-operator-2026-05-09.png",
+      "keywords": [
+        "bitpin.ir (iran — operator 2026-05-09)",
+        "bitpin ir iran operator 2026 05 09",
+        "bitpin-ir-iran-operator-2026-05-09"
+      ],
+      "product_aliases": [],
+      "sanctioned": true
+    },
+    {
+      "slug": "avalon-finance",
+      "category": "defi",
+      "logo_path": "logos/defi/avalon-finance.png",
+      "keywords": [
+        "avalon-finance",
+        "avalon finance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coindcx",
+      "category": "defi",
+      "logo_path": "logos/defi/coindcx.png",
+      "keywords": [
+        "coindcx"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -17677,6 +21714,87 @@
       "sanctioned": false
     },
     {
+      "slug": "xcarnival",
+      "category": "defi",
+      "logo_path": "logos/defi/xcarnival.png",
+      "keywords": [
+        "xcarnival"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "1xbet",
+      "category": "gambling",
+      "logo_path": "logos/gambling/1xbet.png",
+      "keywords": [
+        "1xbet"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bearndao",
+      "category": "defi",
+      "logo_path": "logos/defi/bearndao.png",
+      "keywords": [
+        "bearndao"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bedrock-defi",
+      "category": "defi",
+      "logo_path": "logos/defi/bedrock-defi.png",
+      "keywords": [
+        "bedrock defi",
+        "bedrock-defi"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "belugadex",
+      "category": "defi",
+      "logo_path": "logos/defi/belugadex.png",
+      "keywords": [
+        "belugadex"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "biswap",
+      "category": "defi",
+      "logo_path": "logos/defi/biswap.png",
+      "keywords": [
+        "biswap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "blueberryprotocol",
+      "category": "defi",
+      "logo_path": "logos/defi/blueberryprotocol.png",
+      "keywords": [
+        "blueberryprotocol"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bob",
+      "category": "defi",
+      "logo_path": "logos/defi/bob.png",
+      "keywords": [
+        "bob"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "btcturk",
       "category": "exchange",
       "logo_path": "logos/exchanges/btcturk.png",
@@ -17687,11 +21805,282 @@
       "sanctioned": false
     },
     {
+      "slug": "carrot",
+      "category": "defi",
+      "logo_path": "logos/defi/carrot.png",
+      "keywords": [
+        "carrot"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "caterpillar-coin-cut",
+      "category": "defi",
+      "logo_path": "logos/defi/caterpillar-coin-cut.png",
+      "keywords": [
+        "caterpillar coin cut",
+        "caterpillar-coin-cut"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "convergence",
+      "category": "defi",
+      "logo_path": "logos/defi/convergence.png",
+      "keywords": [
+        "convergence"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dfs",
+      "category": "defi",
+      "logo_path": "logos/defi/dfs.png",
+      "keywords": [
+        "dfs"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dodo-flashloan",
+      "category": "defi",
+      "logo_path": "logos/defi/dodo-flashloan.png",
+      "keywords": [
+        "dodo flashloan",
+        "dodo-flashloan"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hnet",
+      "category": "defi",
+      "logo_path": "logos/defi/hnet.png",
+      "keywords": [
+        "hnet"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hypr",
+      "category": "defi",
+      "logo_path": "logos/defi/hypr.png",
+      "keywords": [
+        "hypr"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "market",
+      "category": "defi",
+      "logo_path": "logos/defi/market.png",
+      "keywords": [
+        "market"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mic",
+      "category": "defi",
+      "logo_path": "logos/defi/mic.png",
+      "keywords": [
+        "mic"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mono",
+      "category": "defi",
+      "logo_path": "logos/defi/mono.png",
+      "keywords": [
+        "mono"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "nfttrader",
+      "category": "defi",
+      "logo_path": "logos/defi/nfttrader.png",
+      "keywords": [
+        "nfttrader"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pineprotocol",
+      "category": "defi",
+      "logo_path": "logos/defi/pineprotocol.png",
+      "keywords": [
+        "pineprotocol"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pump",
+      "category": "defi",
+      "logo_path": "logos/defi/pump.png",
+      "keywords": [
+        "pump"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "rico",
+      "category": "defi",
+      "logo_path": "logos/defi/rico.png",
+      "keywords": [
+        "rico"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "rodeofinance",
+      "category": "defi",
+      "logo_path": "logos/defi/rodeofinance.png",
+      "keywords": [
+        "rodeofinance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "roefinance",
+      "category": "defi",
+      "logo_path": "logos/defi/roefinance.png",
+      "keywords": [
+        "roefinance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "safedollar",
+      "category": "defi",
+      "logo_path": "logos/defi/safedollar.png",
+      "keywords": [
+        "safedollar"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "solv",
+      "category": "defi",
+      "logo_path": "logos/defi/solv.png",
+      "keywords": [
+        "solv"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "stablemagnet-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/stablemagnet-rekt.png",
+      "keywords": [
+        "stablemagnet - rekt",
+        "stablemagnet rekt",
+        "stablemagnet-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "stake-rekt",
+      "category": "defi",
+      "logo_path": "logos/defi/stake-rekt.png",
+      "keywords": [
+        "stake - rekt",
+        "stake rekt",
+        "stake-rekt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "unilend",
+      "category": "defi",
+      "logo_path": "logos/defi/unilend.png",
+      "keywords": [
+        "unilend"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "wazirx",
       "category": "exchange",
       "logo_path": "logos/exchanges/wazirx.png",
       "keywords": [
         "wazirx"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "yieldblox",
+      "category": "defi",
+      "logo_path": "logos/defi/yieldblox.png",
+      "keywords": [
+        "yieldblox"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gnosis-sight",
+      "category": "defi",
+      "logo_path": "logos/defi/gnosis-sight.png",
+      "keywords": [
+        "gnosis sight",
+        "gnosis-sight"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mobius",
+      "category": "defi",
+      "logo_path": "logos/defi/mobius.png",
+      "keywords": [
+        "mobius"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "htx-com-huobi-com",
+      "category": "sanctioned",
+      "logo_path": "logos/sanctioned/htx-com-huobi-com.png",
+      "keywords": [
+        "htx.com - huobi.com",
+        "htx com huobi com",
+        "htx-com-huobi-com"
+      ],
+      "product_aliases": [],
+      "sanctioned": true
+    },
+    {
+      "slug": "kraken-arkham-prediction",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/kraken-arkham-prediction.png",
+      "keywords": [
+        "kraken (arkham prediction)",
+        "kraken arkham prediction",
+        "kraken-arkham-prediction"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -17708,11 +22097,183 @@
       "sanctioned": false
     },
     {
+      "slug": "aave-repay-adapter",
+      "category": "defi",
+      "logo_path": "logos/defi/aave-repay-adapter.png",
+      "keywords": [
+        "aave repay adapter",
+        "aave-repay-adapter"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "channelsfinance",
+      "category": "defi",
+      "logo_path": "logos/defi/channelsfinance.png",
+      "keywords": [
+        "channelsfinance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "floordao",
+      "category": "defi",
+      "logo_path": "logos/defi/floordao.png",
+      "keywords": [
+        "floordao"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "palmswap",
+      "category": "defi",
+      "logo_path": "logos/defi/palmswap.png",
+      "keywords": [
+        "palmswap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "platypus03",
+      "category": "defi",
+      "logo_path": "logos/defi/platypus03.png",
+      "keywords": [
+        "platypus03"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "xavefinance",
+      "category": "defi",
+      "logo_path": "logos/defi/xavefinance.png",
+      "keywords": [
+        "xavefinance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "julswap",
       "category": "dex",
       "logo_path": "logos/dex/julswap.png",
       "keywords": [
         "julswap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitkub",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bitkub.png",
+      "keywords": [
+        "bitkub"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "lbank",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/lbank.png",
+      "keywords": [
+        "lbank"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "olympus",
+      "category": "defi",
+      "logo_path": "logos/defi/olympus.png",
+      "keywords": [
+        "olympus"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "xstocks",
+      "category": "defi",
+      "logo_path": "logos/defi/xstocks.png",
+      "keywords": [
+        "xstocks"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "uniswap-v3",
+      "category": "dex",
+      "logo_path": "logos/dex/uniswap-v3.png",
+      "keywords": [
+        "uniswap v3",
+        "uniswap-v3"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tothemoon",
+      "category": "defi",
+      "logo_path": "logos/defi/tothemoon.png",
+      "keywords": [
+        "tothemoon"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "paraspace",
+      "category": "defi",
+      "logo_path": "logos/defi/paraspace.png",
+      "keywords": [
+        "paraspace"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "curve",
+      "category": "defi",
+      "logo_path": "logos/defi/curve.png",
+      "keywords": [
+        "curve"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "indx",
+      "category": "defi",
+      "logo_path": "logos/defi/indx.png",
+      "keywords": [
+        "indx"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "onchaingm",
+      "category": "defi",
+      "logo_path": "logos/defi/onchaingm.png",
+      "keywords": [
+        "onchaingm"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pickle",
+      "category": "defi",
+      "logo_path": "logos/defi/pickle.png",
+      "keywords": [
+        "pickle"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -17734,6 +22295,59 @@
       "logo_path": "logos/exchanges/switchain-com.png",
       "keywords": [
         "switchain"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "abantether-com-iran-operator-2026-05-09",
+      "category": "sanctioned",
+      "logo_path": "logos/sanctioned/abantether-com-iran-operator-2026-05-09.png",
+      "keywords": [
+        "abantether.com (iran — operator 2026-05-09)",
+        "abantether com iran operator 2026 05 09",
+        "abantether-com-iran-operator-2026-05-09"
+      ],
+      "product_aliases": [],
+      "sanctioned": true
+    },
+    {
+      "slug": "astrid",
+      "category": "defi",
+      "logo_path": "logos/defi/astrid.png",
+      "keywords": [
+        "astrid"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "daomaker",
+      "category": "defi",
+      "logo_path": "logos/defi/daomaker.png",
+      "keywords": [
+        "daomaker"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gamma",
+      "category": "defi",
+      "logo_path": "logos/defi/gamma.png",
+      "keywords": [
+        "gamma"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "weex-cex",
+      "category": "defi",
+      "logo_path": "logos/defi/weex-cex.png",
+      "keywords": [
+        "weex-cex",
+        "weex cex"
       ],
       "product_aliases": [],
       "sanctioned": false
