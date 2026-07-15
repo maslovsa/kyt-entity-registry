@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-15T16:26:21+00:00",
+  "generated_at": "2026-07-15T16:48:01+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -981,6 +981,18 @@
       "logo_path": "logos/sanctioned/ofac-sdn.png",
       "keywords": [
         "ofac sdn"
+      ],
+      "product_aliases": [],
+      "sanctioned": true
+    },
+    {
+      "slug": "hydra-market",
+      "category": "sanctioned",
+      "logo_path": "logos/sanctioned/hydra-market.png",
+      "keywords": [
+        "hydra market",
+        "hydra",
+        "hydramarket"
       ],
       "product_aliases": [],
       "sanctioned": true
