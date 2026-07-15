@@ -105,6 +105,9 @@ SANCTIONED_SLUG_OVERRIDES = {
     "promsvyazbank-ru",            # UK OFSI
     "capital-bank-of-central-asia-kg",  # UK OFSI
     "esb-kg",                      # UK OFSI
+    "htx-com-huobi-com",           # UK OFSI (RUS3619) — kept category='exchange' (still-operating
+                                    # business, richer claim_count/importance than the duplicate
+                                    # 'sanctioned' row merged away 2026-07-15 registry dedup)
 }
 
 # Map category_slug → on-disk directory name under logos/.  Mirrors
