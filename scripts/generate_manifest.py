@@ -127,6 +127,7 @@ CATEGORY_DIR_MAP = {
     "mixer": "mixer",
     "hack": "hack",
     "bank": "bank",
+    "otc_desk": "otc_desk",
     "sanctioned": "sanctioned",
 }
 

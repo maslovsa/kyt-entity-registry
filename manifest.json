@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-15T09:29:38+00:00",
+  "generated_at": "2026-07-15T10:11:12+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -13929,6 +13929,19 @@
       "logo_path": "logos/exchanges/xrex.png",
       "keywords": [
         "xrex"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "b2c2-com",
+      "category": "otc_desk",
+      "logo_path": "logos/otc_desk/b2c2-com.png",
+      "keywords": [
+        "b2c2",
+        "b2c2.com",
+        "b2c2 group",
+        "b2c2 otc"
       ],
       "product_aliases": [],
       "sanctioned": false
