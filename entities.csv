@@ -2014,7 +2014,7 @@ Grinex,sanctioned,61.8,65,95,95,ETH|TRON,vasp-entity-defaults-override,grinex,,g
 Polynomial,defi,61.6,88,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,polynomial,,polynomial,,arkham,2026-05-11,false,7731cd74587781aa9c7f1b90876134e6420e938687d4b17e60b874f913fa5377
 SpaceGodzilla,defi,61.6,88,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,spacegodzilla,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 TeamFinance,defi,61.6,88,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,teamfinance,,teamfinance,,defillama,2026-05-11,false,6739b85f341e1bbdc808ba6969fa7ee53fbd51b202de37b5ec4538d643b454f1
-Bvnk.com - Coindirect.com,psp,61.5,82,75,5,BSC|ETH|TRON,scorechain-counterparties,bvnk-com-coindirect-com,,,,google,2026-05-27,false,0d58e31de868d4e956b53de602a95b3f881fa726c11ca18bc3bdc1807f3396b7
+Bvnk.com - Coindirect.com,psp,61.5,82,75,5,BSC|ETH|TRON,scorechain-counterparties,bvnk-com-coindirect-com,bvnk.com,"coindirect,coindirect.com,bvnk.com - coindirect.com",,manual,2026-05-27,false,0d58e31de868d4e956b53de602a95b3f881fa726c11ca18bc3bdc1807f3396b7
 Coinone.co.kr,exchange,61.5,82,75,5,BSC|ETH|TRON,scorechain-counterparties,coinone-co-kr,coinone.co.kr,"coinone,coinone co kr,coinone.co.kr",,arkham,2026-05-26,false,40126a53adb90588585c9067da6c165f4b84f6db910dfe274eccf7603a35d613
 Dyson money,defi,60.9,87,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,dyson-money,,,,placeholder,2026-05-11,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 gauntlet,defi,60.9,87,70,5,ARBITRUM|BASE|BSC|ETH|OPTIMISM|POLYGON,defillama-adapters|vasp-entity-defaults,gauntlet,,gauntlet,,arkham,2026-05-11,false,07233adfda655b6a0e6774bd5137ccbd9968d3c058ec1601ed151a6ab9e0f663
@@ -2521,3 +2521,4 @@ luminous,gambling,70,0,70,10,ETH,manual-admin,luminous,luminous.games,"luminous,
 thpay-org,psp,70,0,70,10,ETH,manual-admin,thpay-org,thpay.org,"thpay org,thpay-org",,manual,2026-07-15,true,7317732b72d45f7ac23250310b78e4ef146505478dcfd52a65b04869c0926ddf
 tmgm-com,exchange,70,0,70,10,ETH,manual-admin,tmgm-com,www.tmgm.com,"tmgm,tmgm-com",,manual,2026-07-15,true,4de56f8f824cf1c0b25cd0624da78681a15d11ed1a84a6033a814c54e619ebdd
 @HWZF,exchange,85,0,70,85,TRON,manual-admin,hwzf,,hwzf,,placeholder,2026-07-15,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+BVNK,psp,61.5,2,100,5,TRON,misttrack-own-label,bvnk-com,bvnk.com,"bvnk,bvnk.com",,manual,2026-07-16,false,0d58e31de868d4e956b53de602a95b3f881fa726c11ca18bc3bdc1807f3396b7

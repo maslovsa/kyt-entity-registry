@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-15T17:28:26+00:00",
+  "generated_at": "2026-07-16T11:09:18+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -20454,6 +20454,18 @@
       "sanctioned": false
     },
     {
+      "slug": "bvnk-com-coindirect-com",
+      "category": "psp",
+      "logo_path": "logos/psp/bvnk-com-coindirect-com.png",
+      "keywords": [
+        "coindirect",
+        "coindirect.com",
+        "bvnk.com - coindirect.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "coinone-co-kr",
       "category": "exchange",
       "logo_path": "logos/exchanges/coinone-co-kr.png",
@@ -24683,6 +24695,17 @@
       "keywords": [
         "tmgm",
         "tmgm-com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bvnk-com",
+      "category": "psp",
+      "logo_path": "logos/psp/bvnk-com.png",
+      "keywords": [
+        "bvnk",
+        "bvnk.com"
       ],
       "product_aliases": [],
       "sanctioned": false
