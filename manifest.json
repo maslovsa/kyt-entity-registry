@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-16T14:00:54+00:00",
+  "generated_at": "2026-07-16T15:52:11+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -2109,6 +2109,17 @@
       ],
       "product_aliases": [],
       "sanctioned": false
+    },
+    {
+      "slug": "suex",
+      "category": "sanctioned",
+      "logo_path": "logos/sanctioned/suex.png",
+      "keywords": [
+        "suex",
+        "suex.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": true
     },
     {
       "slug": "sushi",
@@ -24744,6 +24755,29 @@
       ],
       "product_aliases": [],
       "sanctioned": false
+    },
+    {
+      "slug": "zedcex",
+      "category": "sanctioned",
+      "logo_path": "logos/sanctioned/zedcex.png",
+      "keywords": [
+        "zedcex",
+        "zedcex exchange",
+        "zedcex.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": true
+    },
+    {
+      "slug": "chatex",
+      "category": "sanctioned",
+      "logo_path": "logos/sanctioned/chatex.png",
+      "keywords": [
+        "chatex",
+        "chatex.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": true
     }
   ]
 }
