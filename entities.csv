@@ -1516,7 +1516,7 @@ Bitget Wallet - BitKeep.com,wallet,88.1,10,85,5,BSC|ETH|TRON,scorechain-counterp
 BTCC,exchange,88.1,10,85,5,ETH|TRON,scorechain-counterparties,btcc,,btcc,,arkham,2026-05-26,false,b4a9ed5677697dd6a946a515562f5ad6f41ea380a7834df39f5f4e0ce7d99631
 Coinhako.com,exchange,88.1,10,85,5,ETH,scorechain-counterparties,coinhako-com,coinhako.com,"coinhako,coinhako.com",,arkham,2026-05-26,false,50ce4c2a95f5e8ee3477bd23ab4636534fa58f1e71a4ef7d495e4c366dfa37c9
 deBridge,bridge,88.1,10,85,15,BSC|ETH|TRON,scorechain-counterparties,debridge,app.debridge.com,debridge,,arkham,2026-05-26,false,1dccbf70b8adaa9498106f42d2f538be9b7dd59c88a7066846486c343cbe5e27
-Dodoex.io,dex,88.1,10,85,10,BSC|ETH,scorechain-counterparties,dodoex-io,dodoex.io,"dodoex.io,dodoex",,google,2026-05-27,false,7b780ef9c94b2101e29ac78e2bff3f6ab1a25a723f1c315a296960dc15896b3c
+Dodoex.io,dex,88.1,10,85,10,BSC|ETH,scorechain-counterparties,dodoex-io,dodoex.io,"dodoex.io,dodoex",,manual,2026-05-27,false,7b780ef9c94b2101e29ac78e2bff3f6ab1a25a723f1c315a296960dc15896b3c
 Fastex.com,exchange,88.1,10,85,5,BSC|ETH|TRON,scorechain-counterparties,fastex-com,fastex.com,"fastex,fastex.com",,arkham,2026-05-26,false,3dece77b968d55b5a4678490cd51145f6588731641944abfe0ee1a3ef5c27620
 Letsbit.io,exchange,88.1,10,85,5,BSC|ETH|TRON,scorechain-counterparties,letsbit-io,letsbit.io,"letsbit.io,letsbit io,letsbit-io",,manual,2026-07-15,true,1068e9accf06a426a1c46f51320e37763a5dbf20d3a9d8608dd0b60fea26ed7b
 Mercadobitcoin.com.br,exchange,88.1,10,85,5,BSC|ETH|TRON,scorechain-counterparties,mercadobitcoin-com-br,mercadobitcoin.com.br,"mercadobitcoin.com.br,mercadobitcoin com br,mercadobitcoin-com-br",,manual,2026-07-15,true,32b044483367221a4221d9daf3a9c31e97b71c1f668a2b0904613b648731d8c2
@@ -1810,7 +1810,7 @@ Axie Infinity,gambling,79.7,2,85,50,ETH,scorechain-counterparties,axie-infinity,
 Banana Gun,dex,79.7,2,85,10,BSC,scorechain-counterparties,banana-gun,t.me,"banana gun,banana-gun",,arkham,2026-05-26,false,ffeb7e6a44aedec46b33baf372506fcb162db8a46bc39b5de0439ccb972a0bda
 Bella Protocol,defi,79.7,2,85,10,ETH,defillama-protocols|scorechain-counterparties,bella-protocol,,"bella,bella-protocol",,arkham,2026-05-26,false,ee3a3cbbe6980ad515bb06067417a93d49a5d38e0875b71fea49ea6d6e090237
 belt.fi,dex,79.7,2,85,10,BSC,scorechain-counterparties,belt-fi,belt.fi,"belt.fi,belt",,arkham,2026-05-26,false,5ab6850db35d64df27dae1b3a56dc5f1438551403f2c441e8af7298424123b97
-Betpanda.io (Star Bright Media S.R.L.),gambling,79.7,2,85,50,BSC,scorechain-counterparties,betpanda-io-star-bright-media-s-r-l,betpanda.io,,,google,2026-05-27,false,0e2f1419487a687f0cb9442dfc8ec6e5c542b9837ae18d47c392950a11fa842b
+Betpanda.io (Star Bright Media S.R.L.),gambling,79.7,2,85,50,BSC,scorechain-counterparties,betpanda-io-star-bright-media-s-r-l,betpanda.io,"betpanda,betpanda.io",,manual,2026-05-27,false,0e2f1419487a687f0cb9442dfc8ec6e5c542b9837ae18d47c392950a11fa842b
 Biconomy.io,bridge,79.7,2,85,15,BSC|ETH,scorechain-counterparties,biconomy-io,biconomy.io,"biconomy.io,biconomy",,arkham,2026-05-26,false,1cc34972b1bc38515e780de37b4578f28db678b4572502fc8129cf6757c455e6
 BiKing,exchange,79.7,2,85,5,BSC|TRON,scorechain-counterparties,biking,,biking,,arkham,2026-05-26,false,0768510908567cfaddb204377337c28a86a2644e21aaebb4284c36f620dfcbee
 Bilira.co,exchange,79.7,2,85,5,ETH,scorechain-counterparties,bilira-co,bilira.co,"bilira,bilira.co",,arkham,2026-05-26,false,13001e8e4af8ac8a3b2d6922bd8c4e22ffd5dd8743e4979ca4959f00110c4468

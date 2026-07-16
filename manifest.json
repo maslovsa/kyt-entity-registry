@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-16T11:09:18+00:00",
+  "generated_at": "2026-07-16T11:11:29+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -15550,6 +15550,17 @@
       "sanctioned": false
     },
     {
+      "slug": "dodoex-io",
+      "category": "dex",
+      "logo_path": "logos/dex/dodoex-io.png",
+      "keywords": [
+        "dodoex.io",
+        "dodoex"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "fastex-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/fastex-com.png",
@@ -18523,6 +18534,17 @@
       "keywords": [
         "belt.fi",
         "belt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "betpanda-io-star-bright-media-s-r-l",
+      "category": "gambling",
+      "logo_path": "logos/gambling/betpanda-io-star-bright-media-s-r-l.png",
+      "keywords": [
+        "betpanda",
+        "betpanda.io"
       ],
       "product_aliases": [],
       "sanctioned": false
