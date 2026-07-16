@@ -2522,3 +2522,4 @@ thpay-org,psp,70,0,70,10,ETH,manual-admin,thpay-org,thpay.org,"thpay org,thpay-o
 tmgm-com,exchange,70,0,70,10,ETH,manual-admin,tmgm-com,www.tmgm.com,"tmgm,tmgm-com",,manual,2026-07-15,true,4de56f8f824cf1c0b25cd0624da78681a15d11ed1a84a6033a814c54e619ebdd
 @HWZF,exchange,85,0,70,85,TRON,manual-admin,hwzf,,hwzf,,placeholder,2026-07-15,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 BVNK,psp,61.5,2,100,5,TRON,misttrack-own-label,bvnk-com,bvnk.com,"bvnk,bvnk.com",,manual,2026-07-16,false,0d58e31de868d4e956b53de602a95b3f881fa726c11ca18bc3bdc1807f3396b7
+xRocket,exchange,50,1,75,50,TRON,manual-admin,xrocket-exchange,xrocket.exchange,"xrocket,xrocket.tg,xrocket.exchange,xrocket-exchange",,manual,2026-07-16,true,4fb3dca23bead8a691412c3b7b54ad0d9aaee4a3473f023d47b8dbb2180428ac

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-16T11:11:29+00:00",
+  "generated_at": "2026-07-16T14:00:54+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -24728,6 +24728,19 @@
       "keywords": [
         "bvnk",
         "bvnk.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "xrocket-exchange",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/xrocket-exchange.png",
+      "keywords": [
+        "xrocket",
+        "xrocket.tg",
+        "xrocket.exchange",
+        "xrocket-exchange"
       ],
       "product_aliases": [],
       "sanctioned": false
