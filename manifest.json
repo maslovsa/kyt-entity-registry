@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-16T15:52:11+00:00",
+  "generated_at": "2026-07-21T13:58:16+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -24778,6 +24778,20 @@
       ],
       "product_aliases": [],
       "sanctioned": true
+    },
+    {
+      "slug": "refee-bot",
+      "category": "bot",
+      "logo_path": "logos/bot/refee-bot.png",
+      "keywords": [
+        "refee",
+        "refee.bot",
+        "re:fee",
+        "re_fee_bot",
+        "refee bot"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
     }
   ]
 }
