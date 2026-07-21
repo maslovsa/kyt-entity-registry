@@ -2526,3 +2526,4 @@ xRocket,exchange,50,1,75,50,TRON,manual-admin,xrocket-exchange,xrocket.exchange,
 Zedcex,sanctioned,100,10,100,100,TRON,ofac-sdn,zedcex,zedcex.com,"zedcex,zedcex exchange,zedcex.com",,manual,2026-07-16,true,989345c208c46c0353cabfd9acb809e7bd09dbd6e2edbfc34cf40128a13ba4f9
 Chatex,sanctioned,100,47,100,100,ETH|TRON,ofac-sdn,chatex,chatex.com,"chatex,chatex.com",,manual,2026-07-16,true,0643726455eee57678d96d1aedd4befd8bc95385eeb7a1b3b6809f9c0c7adc5d
 Refee,bot,90,0,75,50,TRON,manual-admin,refee-bot,refee.bot,"refee,refee.bot,re:fee,re_fee_bot,refee bot",,manual,2026-07-21,true,408f60feb9674e6bafb0cd76b2192c50e9ff9bce0bb4ed6a9414408ea67e6064
+Verse DEX,dex,100,8,90,10,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,arkham-intelligence,verse-dex,verse.bitcoin.com,"verse dex,verse exchange,verse-x,verse.bitcoin.com",,manual,2026-07-22,true,549a2f7e7acc1e2b50651107f57be1589cf0d88268bb4ab132723f64c882eaea

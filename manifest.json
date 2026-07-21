@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-21T13:58:16+00:00",
+  "generated_at": "2026-07-21T21:31:32+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -24789,6 +24789,19 @@
         "re:fee",
         "re_fee_bot",
         "refee bot"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "verse-dex",
+      "category": "dex",
+      "logo_path": "logos/dex/verse-dex.png",
+      "keywords": [
+        "verse dex",
+        "verse exchange",
+        "verse-x",
+        "verse.bitcoin.com"
       ],
       "product_aliases": [],
       "sanctioned": false
