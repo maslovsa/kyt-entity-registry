@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-22T17:54:39+00:00",
+  "generated_at": "2026-07-22T18:02:29+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -25818,6 +25818,39 @@
       "product_aliases": [
         "USTB",
         "USCC"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "telcoin",
+      "category": "psp",
+      "logo_path": "logos/psp/telcoin.png",
+      "keywords": [
+        "telcoin",
+        "telcoin.org",
+        "telco.in",
+        "eusd",
+        "emxn",
+        "telcoin digital asset bank"
+      ],
+      "product_aliases": [
+        "eUSD",
+        "eMXN"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "token-teknoloji",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/token-teknoloji.png",
+      "keywords": [
+        "token teknoloji",
+        "token teknoloji a.s.",
+        "btcturk",
+        "eurot"
+      ],
+      "product_aliases": [
+        "EUROT"
       ],
       "sanctioned": false
     }
