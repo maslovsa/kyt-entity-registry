@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-22T09:17:54+00:00",
+  "generated_at": "2026-07-22T09:27:42+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -25190,6 +25190,34 @@
         "forte aud",
         "forte-aud",
         "audf"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gate",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/gate.png",
+      "keywords": [
+        "gate",
+        "gate.io",
+        "gate.com",
+        "gateio",
+        "gusd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gold-dao",
+      "category": "defi",
+      "logo_path": "logos/defi/gold-dao.png",
+      "keywords": [
+        "gold dao",
+        "gold-dao",
+        "golddao",
+        "gldt",
+        "gldgov"
       ],
       "product_aliases": [],
       "sanctioned": false

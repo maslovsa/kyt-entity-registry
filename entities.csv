@@ -2566,3 +2566,6 @@ FinChain,stablecoin_issuer,70,0,60,10,AVALANCHE|ETH,pharos-watch,,finchain.globa
 Fluid Finance,stablecoin_issuer,65,0,0,10,ARBITRUM,pharos-watch,fluid-finance,fluid.ch,"fluid finance,fluid-finance,fluid.ch,dusd",,none,2026-07-22,true,
 Flying Tulip,stablecoin_issuer,65,0,0,10,ETH,pharos-watch,flying-tulip,flyingtulip.com,"flying tulip,flying-tulip,ftusd",,manual,2026-07-22,true,b432423a39089e9a2ef97a290962cd343c4090fb78f8880ab57af0cbda925a2b
 Forte AUD,stablecoin_issuer,65,0,0,10,ETH|BASE|POLYGON|AVALANCHE,pharos-watch,forte-aud,forteaud.com,"forte aud,forte-aud,audf",,manual,2026-07-22,true,9bf2ec215130a548afb1b20d4543b728a60587385c4d4cdfe68376e041d2a08b
+Gate,exchange,500,0,100,5,ETH|TRON|BSC|BTC|SOL|POLYGON,manual-admin,gate,gate.com,"gate,gate.io,gate.com,gateio,gusd",,manual,2026-07-22,true,444f1c5f81e19e3416aa4e6e78254c26562ccb2b3b355489e4a4936c66b469fe
+Gold Dao,defi,150,0,90,10,,manual-admin,gold-dao,gold-dao.org,"gold dao,gold-dao,golddao,gldt,gldgov",,manual,2026-07-22,true,9dfcf19266b8926549a8b3cd92205edbdf1f19cffc88b0825054eb48087014f6
+Gold Dollar,psp,100,0,85,15,ETH,manual-admin,gold-dollar,usdkg.com,"gold dollar,gold-dollar,usdkg",,none,2026-07-22,true,
