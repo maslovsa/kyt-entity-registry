@@ -2372,7 +2372,7 @@ Mezo USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,mezo-usd,,"mezo usd,mez
 Real USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,real-usd,,"real usd,real-usd",,defillama,2026-07-15,false,8f76d1191111f206551ac86376770d2e3fd6d0b94bf2d95f2ab44c659c7ab929
 YUSD Stablecoin,stablecoin_issuer,65,0,0,10,,defillama-adapters,yusd-stablecoin,,"yusd stablecoin,yusd-stablecoin",,defillama,2026-07-15,false,41e8f5c99ac17198e3d2a6df5cda6d0ecc0b5407c3c09a72b8b25934f9407ba2
 Anzens USDA,stablecoin_issuer,65,0,0,10,,defillama-adapters,anzens-usda,,"anzens usda,anzens-usda",,defillama,2026-07-15,false,017bdfb0f1951abad7257d53ef3cc3231337d0563b0e5aa1539cbd2478e8072b
-Solomon USDv,stablecoin_issuer,65,0,0,10,,defillama-adapters,solomon-usdv,,"solomon usdv,solomon-usdv",,defillama,2026-07-15,false,18de876d686dc89baf9488841e7cc62fce169302950e62330196b49688a2402a
+Solomon USDv,stablecoin_issuer,65,0,0,10,SOL,defillama-adapters|pharos-watch,solomon-usdv,solomonlabs.org,"solomon usdv,solomon-usdv",,manual,2026-07-22,true,587d680ecd5784378b580815dc109fef6dc2414150f7dadf34a8cf102b617da3
 iUSD,stablecoin_issuer,65,0,0,10,,defillama-adapters,iusd,,iusd,,defillama,2026-07-15,false,d637b311666595b1aa6ba9a1ab18a4cf83a49cd9f132720f0146b584686b3725
 Pareto USP,stablecoin_issuer,65,0,0,10,,defillama-adapters,pareto-usp,,"pareto usp,pareto-usp",,defillama,2026-07-15,false,3b84e020d9bdb84ab79802a24c1a36e9cd27b3bb4a96eccf7dadd52f8f0d18d5
 Opus CASH,stablecoin_issuer,65,0,0,10,,defillama-adapters,opus-cash,,"opus cash,opus-cash",,defillama,2026-07-15,false,85c047cfedc29e559c41dc88ebba6e3a058b8ef06884ecfbcd5315d550dcba1e
@@ -2607,3 +2607,5 @@ Securitize,defi,85,0,0,10,ETH|SOL|AVALANCHE|POLYGON|ARBITRUM|OPTIMISM|BASE,pharo
 Solayer,defi,60,0,0,15,SOL,pharos-watch,solayer,app.solayer.org,"solayer,solayer.org,app.solayer.org",,manual,2026-07-22,true,9beddf4ca07641b4a67bbe8024f9f83fa84405caf700d6caa2fedec7cf1ba62c
 Silo Finance,stablecoin_issuer,60,0,0,15,ARBITRUM|ETH,pharos-watch,silo-finance,app.silo.finance,"silo finance,silo.finance",,manual,2026-07-22,true,fa1db2137941e712601870c6df930eca73be98a2fbef6bc754c7227fabe8ed0e
 Sky,stablecoin_issuer,60,0,0,10,ETH|BASE|SOL,pharos-watch,sky-stablecoin,sky.money,"sky.money,susds,sky savings rate",,manual,2026-07-22,true,eff98cb350b63f24d547979ccb58e6630485f8ee673970eb02f6d4c95a14eb6c
+Solstice,stablecoin_issuer,65,0,0,10,SOL,pharos-watch,solstice,solstice.finance,"solstice finance,solstice.finance,usx stablecoin",,manual,2026-07-22,true,a74839fb60888300de95843abe5221a903cdef639aeab126fc3b2c8d48df96ae
+Sonic Labs,stablecoin_issuer,65,0,0,10,ETH|BASE|ARBITRUM|OPTIMISM,pharos-watch,sonic-labs,soniclabs.com,"sonic labs,soniclabs.com,ussd stablecoin",,manual,2026-07-22,true,677adc6730a1168d4606cf0cdc096d98f63079680353ee9d794f13be5cad08d9

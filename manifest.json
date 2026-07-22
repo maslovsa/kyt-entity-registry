@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-22T17:11:20+00:00",
+  "generated_at": "2026-07-22T17:25:47+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -25685,6 +25685,30 @@
         "sky.money",
         "susds",
         "sky savings rate"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "solstice",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/solstice.png",
+      "keywords": [
+        "solstice finance",
+        "solstice.finance",
+        "usx stablecoin"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "sonic-labs",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/sonic-labs.png",
+      "keywords": [
+        "sonic labs",
+        "soniclabs.com",
+        "ussd stablecoin"
       ],
       "product_aliases": [],
       "sanctioned": false
