@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-22T10:35:54+00:00",
+  "generated_at": "2026-07-22T10:40:28+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -25379,14 +25379,14 @@
     },
     {
       "slug": "k3-capital",
-      "category": "defi",
-      "logo_path": "logos/defi/k3-capital.png",
+      "category": "psp",
+      "logo_path": "logos/psp/k3-capital.png",
       "keywords": [
         "k3 capital",
         "k3-capital"
       ],
       "product_aliases": [
-        "sbold"
+        "SBOLD"
       ],
       "sanctioned": false
     },
@@ -25400,21 +25400,24 @@
         "kast crypto card",
         "kast money app"
       ],
-      "product_aliases": [],
+      "product_aliases": [
+        "USDK",
+        "USDKY"
+      ],
       "sanctioned": false
     },
     {
       "slug": "kerne",
-      "category": "defi",
-      "logo_path": "logos/defi/kerne.png",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/kerne.png",
       "keywords": [
         "kerne-protocol",
         "kerne.fi",
         "kerne protocol"
       ],
       "product_aliases": [
-        "kusd",
-        "skusd"
+        "kUSD",
+        "skUSD"
       ],
       "sanctioned": false
     }
