@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-22T07:30:57+00:00",
+  "generated_at": "2026-07-22T07:44:37+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -24990,6 +24990,37 @@
         "avantprotocol.com"
       ],
       "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bima",
+      "category": "psp",
+      "logo_path": "logos/psp/bima.png",
+      "keywords": [
+        "bima",
+        "bima.money",
+        "bima labs"
+      ],
+      "product_aliases": [
+        "USBD",
+        "BIMA"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "brix",
+      "category": "psp",
+      "logo_path": "logos/psp/brix.png",
+      "keywords": [
+        "brix",
+        "brix.money",
+        "itry",
+        "witry"
+      ],
+      "product_aliases": [
+        "iTRY",
+        "wiTRY"
+      ],
       "sanctioned": false
     }
   ]
