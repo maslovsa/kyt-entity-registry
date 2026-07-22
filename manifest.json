@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-22T15:59:49+00:00",
+  "generated_at": "2026-07-22T16:02:54+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -25580,6 +25580,21 @@
         "neutrl finance"
       ],
       "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pht",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/pht.png",
+      "keywords": [
+        "apacx",
+        "apacx.io",
+        "pht",
+        "pht stablecoin"
+      ],
+      "product_aliases": [
+        "PHT"
+      ],
       "sanctioned": false
     }
   ]

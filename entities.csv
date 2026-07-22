@@ -2596,4 +2596,4 @@ Metronome,defi,200,16,90,10,ETH|POLYGON|OPTIMISM|BASE,dawsbot-eth-labels|coingec
 Mezo,defi,200,7,90,10,ETH|BASE,dawsbot-eth-labels|coingecko-tokens|coingecko-uniswap-list|defillama-adapters|arkham-intelligence|scorechain-counterparties|defillama-protocols,mezo,mezo.org,"mezo,mezo.org,musd,mezo usd",,manual,2026-07-22,false,403b8b8e343099fd31c9742a4d0b9715f3992cfef1e46236113472344b3fa96c
 Neutrl,defi,60,1,75,10,ETH,pharos-watch,neutrl,neutrl.finance,"neutrl,neutrl.finance,nusd,neutrl finance",,manual,2026-07-22,true,fe6fdc982cbb16a834de19b8dd6c8a91f142a75d62217fbade213af4e903df55
 Novatti,stablecoin_issuer,60,0,0,5,,,"novatti","novatti.com","novatti,novatti group,novatti.com,audd",,none,2026-07-22,false,
-APACX,stablecoin_issuer,70,0,60,10,ETH|POLYGON|TRON,pharos-watch,,apacx.io,"apacx,apacx.io,pht,pht stablecoin",PHT,manual,2026-07-22,true,666f3bcad14167511c784257f8b85acf8654c4cfda5a63fb8a09ff380fb7a3f4
+APACX,stablecoin_issuer,70,0,60,10,ETH|POLYGON|TRON,pharos-watch,pht,apacx.io,"apacx,apacx.io,pht,pht stablecoin",PHT,manual,2026-07-22,true,666f3bcad14167511c784257f8b85acf8654c4cfda5a63fb8a09ff380fb7a3f4
