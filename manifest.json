@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-22T08:23:12+00:00",
+  "generated_at": "2026-07-22T08:37:54+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -25083,6 +25083,47 @@
       "product_aliases": [
         "BRLV"
       ],
+      "sanctioned": false
+    },
+    {
+      "slug": "dephaser",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/dephaser.png",
+      "keywords": [
+        "dephaser",
+        "dephaser.com",
+        "jpyt",
+        "dephaser jpy"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "deuro",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/deuro.png",
+      "keywords": [
+        "deuro",
+        "deuro.com",
+        "decentralized euro",
+        "d-euro",
+        "frankencoin"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dtrinity",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/dtrinity.png",
+      "keywords": [
+        "dtrinity",
+        "dtrinity.org",
+        "dusd",
+        "sdusd",
+        "trinity foundation"
+      ],
+      "product_aliases": [],
       "sanctioned": false
     }
   ]
