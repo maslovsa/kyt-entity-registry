@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-22T17:06:25+00:00",
+  "generated_at": "2026-07-22T17:11:20+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -25662,6 +25662,29 @@
         "solayer",
         "solayer.org",
         "app.solayer.org"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "silo-finance",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/silo-finance.png",
+      "keywords": [
+        "silo finance",
+        "silo.finance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "sky-stablecoin",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/sky-stablecoin.png",
+      "keywords": [
+        "sky.money",
+        "susds",
+        "sky savings rate"
       ],
       "product_aliases": [],
       "sanctioned": false

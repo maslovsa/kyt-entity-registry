@@ -2605,3 +2605,5 @@ Rupiah Token,stablecoin_issuer,70,0,0,15,ETH|BSC|POLYGON,pharos-stablecoins,rupi
 Saturn,stablecoin_issuer,65,0,0,20,ETH,pharos-stablecoins,saturn,saturn.credit,"saturn.credit,usdat,susdat",,manual,2026-07-22,true,be81a38ea71f78a812d8c510ec7cc9fde8fd54fa8ac86f625a2d5c5b9c5f792b
 Securitize,defi,85,0,0,10,ETH|SOL|AVALANCHE|POLYGON|ARBITRUM|OPTIMISM|BASE,pharos-stablecoins,securitize,securitize.io,"securitize inc,securitize holdings",,manual,2026-07-22,true,c765fad456659bf73bdd6301ce505b9eddf6462c46cd633a5091e36c34da92f9
 Solayer,defi,60,0,0,15,SOL,pharos-watch,solayer,app.solayer.org,"solayer,solayer.org,app.solayer.org",,manual,2026-07-22,true,9beddf4ca07641b4a67bbe8024f9f83fa84405caf700d6caa2fedec7cf1ba62c
+Silo Finance,stablecoin_issuer,60,0,0,15,ARBITRUM|ETH,pharos-watch,silo-finance,app.silo.finance,"silo finance,silo.finance",,manual,2026-07-22,true,fa1db2137941e712601870c6df930eca73be98a2fbef6bc754c7227fabe8ed0e
+Sky,stablecoin_issuer,60,0,0,10,ETH|BASE|SOL,pharos-watch,sky-stablecoin,sky.money,"sky.money,susds,sky savings rate",,manual,2026-07-22,true,eff98cb350b63f24d547979ccb58e6630485f8ee673970eb02f6d4c95a14eb6c
