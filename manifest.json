@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-22T09:03:30+00:00",
+  "generated_at": "2026-07-22T09:17:54+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -25166,6 +25166,30 @@
         "fxsave",
         "fxn",
         "aladdin dao"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "flying-tulip",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/flying-tulip.png",
+      "keywords": [
+        "flying tulip",
+        "flying-tulip",
+        "ftusd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "forte-aud",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/forte-aud.png",
+      "keywords": [
+        "forte aud",
+        "forte-aud",
+        "audf"
       ],
       "product_aliases": [],
       "sanctioned": false
