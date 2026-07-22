@@ -2569,3 +2569,6 @@ Forte AUD,stablecoin_issuer,65,0,0,10,ETH|BASE|POLYGON|AVALANCHE,pharos-watch,fo
 Gate,exchange,500,0,100,5,ETH|TRON|BSC|BTC|SOL|POLYGON,manual-admin,gate,gate.com,"gate,gate.io,gate.com,gateio,gusd",,manual,2026-07-22,true,444f1c5f81e19e3416aa4e6e78254c26562ccb2b3b355489e4a4936c66b469fe
 Gold Dao,defi,150,0,90,10,,manual-admin,gold-dao,gold-dao.org,"gold dao,gold-dao,golddao,gldt,gldgov",,manual,2026-07-22,true,9dfcf19266b8926549a8b3cd92205edbdf1f19cffc88b0825054eb48087014f6
 Gold Dollar,psp,100,0,85,15,ETH,manual-admin,gold-dollar,usdkg.com,"gold dollar,gold-dollar,usdkg",,none,2026-07-22,true,
+Gold Token Sa,stablecoin_issuer,70,0,0,10,ETH,pharos-stablecoins,gold-token-sa,dgld.ch,"gold token sa,dgld,gold-token-sa",DGLD,manual,2026-07-22,true,eb960d7da43ebd78ef1b222f2d269f7a91d405ce8815407dce8c6666b32d4c0b
+Goldfish Gold,stablecoin_issuer,70,0,0,10,ETH,pharos-stablecoins,goldfish-gold,goldfishgold.com,"goldfish gold,ggbr,goldfish-gold",GGBR,manual,2026-07-22,true,c007704ed0a92bd11021c2963a1e5e1db037757e04f88af7cb06c2bcd122abbb
+Hamilton Lane,stablecoin_issuer,70,0,0,10,ETH|POLYGON,pharos-stablecoins,hamilton-lane,hamiltonlane.com,"hamilton lane,hlscope,hamilton-lane",HLSCOPE,manual,2026-07-22,true,e5944cc2ef29d9c45e3567956155e20103b247cd6deb979287d463b7506fa13a

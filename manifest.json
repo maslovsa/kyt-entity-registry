@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-22T09:27:42+00:00",
+  "generated_at": "2026-07-22T09:38:44+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -25220,6 +25220,48 @@
         "gldgov"
       ],
       "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gold-token-sa",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/gold-token-sa.png",
+      "keywords": [
+        "gold token sa",
+        "dgld",
+        "gold-token-sa"
+      ],
+      "product_aliases": [
+        "DGLD"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "goldfish-gold",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/goldfish-gold.png",
+      "keywords": [
+        "goldfish gold",
+        "ggbr",
+        "goldfish-gold"
+      ],
+      "product_aliases": [
+        "GGBR"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "hamilton-lane",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/hamilton-lane.png",
+      "keywords": [
+        "hamilton lane",
+        "hlscope",
+        "hamilton-lane"
+      ],
+      "product_aliases": [
+        "HLSCOPE"
+      ],
       "sanctioned": false
     }
   ]
