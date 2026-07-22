@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-22T10:40:28+00:00",
+  "generated_at": "2026-07-22T10:54:50+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -25418,6 +25418,50 @@
       "product_aliases": [
         "kUSD",
         "skUSD"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "kinesis",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/kinesis.png",
+      "keywords": [
+        "kinesis",
+        "kinesis.money",
+        "kinesis money"
+      ],
+      "product_aliases": [
+        "KAU",
+        "KAG"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "kinka",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/kinka.png",
+      "keywords": [
+        "kinka",
+        "kinka-gold.com",
+        "kinka gold"
+      ],
+      "product_aliases": [
+        "XNK"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "kyrgyz-som",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/kyrgyz-som.png",
+      "keywords": [
+        "kyrgyz som",
+        "kgstoken.kg",
+        "kyrgyzstan som",
+        "kyrgyz som stablecoin"
+      ],
+      "product_aliases": [
+        "KGST"
       ],
       "sanctioned": false
     }
