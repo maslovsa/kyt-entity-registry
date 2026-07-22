@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-22T07:59:26+00:00",
+  "generated_at": "2026-07-22T08:11:09+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -25037,6 +25037,22 @@
       ],
       "product_aliases": [
         "avenia"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "cfx",
+      "category": "psp",
+      "logo_path": "logos/psp/cfx.png",
+      "keywords": [
+        "cfx",
+        "cfx labs",
+        "coinfx",
+        "moveusd.com",
+        "cfx.to"
+      ],
+      "product_aliases": [
+        "MOVEUSD"
       ],
       "sanctioned": false
     }

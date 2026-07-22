@@ -2548,3 +2548,6 @@ Brix,psp,70,0,0,60,ETH,pharos-stablecoins,brix,brix.money,"brix,brix.money,itry,
 Brl1,psp,70,0,0,15,POLYGON,pharos-stablecoins,brl1,brl1.io,"brl1,brl1.io",BRL1,none,2026-07-22,false,
 BRLA Digital,stablecoin_issuer,60,2,70,10,POLYGON,coingecko-tokens|manual-admin,brla-digital,brla.digital,"brla,brla digital,brla token,brla.digital",avenia,manual,2026-07-22,true,d75e0d24f4bcc5334f18118faae0c480735ed8fb340572e115f7044bc32724e9
 CAD Digital,stablecoin_issuer,55,2,70,8,ETH,coingecko-tokens|manual-admin,cad-digital,tetradg.com,"cad digital,cadd,tetra digital group,tetra trust company",,none,2026-07-22,true,
+Celo,psp,70,0,0,10,ETH|POLYGON|SOL,pharos-stablecoins,celo,celo.org,"celo,celo.org,mento,mento protocol,celo foundation,cusd,ceur","CUSD,CEUR",none,2026-07-22,false,
+Cfx,psp,65,0,0,10,SOL|ETH|BASE,pharos-stablecoins,cfx,moveusd.com,"cfx,cfx labs,coinfx,moveusd.com,cfx.to",MOVEUSD,manual,2026-07-22,false,a4649335e2acb718ad00839547fc930c0ca559b16d8b073cb63ff517953e5e18
+Cod3X,psp,60,0,0,40,BASE,pharos-stablecoins,cod3x,cod3x.org,"cod3x,cod3x.org,cod3x lend,cod3x facilitators,cdxusd",CDXUSD,none,2026-07-22,false,
