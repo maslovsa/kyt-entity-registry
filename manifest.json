@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-22T18:10:12+00:00",
+  "generated_at": "2026-07-22T18:14:23+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -25881,6 +25881,31 @@
       "product_aliases": [
         "USDU"
       ],
+      "sanctioned": false
+    },
+    {
+      "slug": "western-union",
+      "category": "psp",
+      "logo_path": "logos/psp/western-union.png",
+      "keywords": [
+        "western union",
+        "westernunion",
+        "usdpt"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "xsy",
+      "category": "defi",
+      "logo_path": "logos/defi/xsy.png",
+      "keywords": [
+        "xsy",
+        "xsy.fi",
+        "unity",
+        "uty"
+      ],
+      "product_aliases": [],
       "sanctioned": false
     }
   ]

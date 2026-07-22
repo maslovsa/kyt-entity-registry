@@ -2622,3 +2622,5 @@ Telcoin,psp,75,0,0,8,ETH|POLYGON,pharos-stablecoins,telcoin,telcoin.org,"telcoin
 Token Teknoloji,exchange,70,262,80,8,ETH|POLYGON|AVALANCHE,pharos-stablecoins,token-teknoloji,btcturk.com,"token teknoloji,token teknoloji a.s.,btcturk,eurot",EUROT,manual,2026-07-22,true,4f5d0fde768c716be2967387ca97669e58b092921776b619eb63d4ae9bb79da3
 Transfero,psp,100,9,75,5,ETH|BSC|POLYGON|BASE|OPTIMISM|AVALANCHE|ARBITRUM|SOL,pharos-stablecoins,transfero,transfero.com,"transfero,transfero.com,brz,brz stablecoin",BRZ,manual,2026-07-22,true,dd6eadcf435415675dcbab8749cb71e4a60bd41b79d123009427569437c18119
 Usdu Finance,defi,60,1,60,5,ETH,pharos-stablecoins,usdu-finance,usdu.finance,"usdu finance,usdu.finance,usdu",USDU,manual,2026-07-22,true,c6d9cf89cc860645f74a7011ccdf722c5442208e51417f92bfe09d09581eb86e
+Western Union,psp,80,0,90,5,SOLANA,manual-admin,western-union,westernunion.com,"western union,westernunion,usdpt",,manual,2026-07-22,true,3fe4c6eff0312aa2ac9c7d99b721f99c4c0cbc42d0801d0d2eaeecb97df9a35c
+XSY,defi,50,0,60,20,AVALANCHE,manual-admin,xsy,xsy.fi,"xsy,xsy.fi,unity,uty",,manual,2026-07-22,true,53eddfb8522bdecf34781948b46a993cfca13ae419cd4e887a7f56e6e5e523fc
