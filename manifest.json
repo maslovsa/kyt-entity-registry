@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-22T10:54:50+00:00",
+  "generated_at": "2026-07-22T15:08:52+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -25462,6 +25462,53 @@
       ],
       "product_aliases": [
         "KGST"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "lorenzo",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/lorenzo.png",
+      "keywords": [
+        "lorenzo",
+        "lorenzo-protocol.xyz",
+        "lorenzo protocol",
+        "usd1+ otf"
+      ],
+      "product_aliases": [
+        "USD1+",
+        "sUSD1+"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "lumi-finance",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/lumi-finance.png",
+      "keywords": [
+        "lumi finance",
+        "lumi.finance",
+        "lua token"
+      ],
+      "product_aliases": [
+        "LUA"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "m0",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/m0.png",
+      "keywords": [
+        "m0",
+        "m0.org",
+        "m^0",
+        "m zero",
+        "m-zero labs"
+      ],
+      "product_aliases": [
+        "M",
+        "$M"
       ],
       "sanctioned": false
     }
