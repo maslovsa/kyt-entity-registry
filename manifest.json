@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-22T06:50:46+00:00",
+  "generated_at": "2026-07-22T06:58:30+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -24864,6 +24864,47 @@
       "product_aliases": [
         "DUSD",
         "ALTO"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "anchorx",
+      "category": "psp",
+      "logo_path": "logos/psp/anchorx.png",
+      "keywords": [
+        "anchorx",
+        "anchorx.org"
+      ],
+      "product_aliases": [
+        "AXCNH"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "anemoy",
+      "category": "psp",
+      "logo_path": "logos/psp/anemoy.png",
+      "keywords": [
+        "anemoy",
+        "anemoy.io",
+        "janus henderson anemoy treasury fund"
+      ],
+      "product_aliases": [
+        "JTRSY"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "anemoy-apollo",
+      "category": "psp",
+      "logo_path": "logos/psp/anemoy-apollo.png",
+      "keywords": [
+        "anemoy apollo",
+        "anemoy tokenized apollo diversified credit fund"
+      ],
+      "product_aliases": [
+        "ACRDX",
+        "deCRDX"
       ],
       "sanctioned": false
     }
