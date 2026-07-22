@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-22T15:35:36+00:00",
+  "generated_at": "2026-07-22T15:40:49+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -25565,6 +25565,19 @@
         "mezo.org",
         "musd",
         "mezo usd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "neutrl",
+      "category": "defi",
+      "logo_path": "logos/defi/neutrl.png",
+      "keywords": [
+        "neutrl",
+        "neutrl.finance",
+        "nusd",
+        "neutrl finance"
       ],
       "product_aliases": [],
       "sanctioned": false
