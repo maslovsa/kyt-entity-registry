@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-22T18:02:29+00:00",
+  "generated_at": "2026-07-22T18:10:12+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -25851,6 +25851,35 @@
       ],
       "product_aliases": [
         "EUROT"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "transfero",
+      "category": "psp",
+      "logo_path": "logos/psp/transfero.png",
+      "keywords": [
+        "transfero",
+        "transfero.com",
+        "brz",
+        "brz stablecoin"
+      ],
+      "product_aliases": [
+        "BRZ"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "usdu-finance",
+      "category": "defi",
+      "logo_path": "logos/defi/usdu-finance.png",
+      "keywords": [
+        "usdu finance",
+        "usdu.finance",
+        "usdu"
+      ],
+      "product_aliases": [
+        "USDU"
       ],
       "sanctioned": false
     }
