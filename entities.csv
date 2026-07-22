@@ -2539,3 +2539,6 @@ Anemoy Apollo,psp,65,0,0,20,ETH,pharos-stablecoins,anemoy-apollo,anemoy.io,"anem
 Apollo Securitize,psp,70,0,0,10,ETH|AVALANCHE|POLYGON|SOL,pharos-stablecoins,apollo-securitize,securitize.io,"apollo securitize,securitize.io","ACRED,sACRED",manual,2026-07-22,false,c765fad456659bf73bdd6301ce505b9eddf6462c46cd633a5091e36c34da92f9
 Apyx,psp,60,0,0,35,ETH|BASE,pharos-stablecoins,apyx,apyx.fi,"apyx,apyx.fi","apxUSD,apyUSD",manual,2026-07-22,false,737c64d253f41c7a41c558665cb0336301b2e7306cd09ff9d38ca8adc547164a
 Argentine Peso,psp,60,0,0,15,ETH|BASE,pharos-stablecoins,argentine-peso,ripio.com,"argentine peso,ripio.com,wars,ripio","wARS",none,2026-07-22,false,
+Asymmetry,psp,70,0,0,10,ETH,pharos-stablecoins,asymmetry,asymmetry.finance,"asymmetry,asymmetry.finance","USDaf,ampUSD",manual,2026-07-22,false,4045244150dde38172e7a0324142e237bf2403f9b31301d0cac95ee2c5d51f91
+Aussie Dollar Token,psp,60,0,0,15,ETH|POLYGON,pharos-stablecoins,aussie-dollar-token,audxtoken.com,"aussie dollar token,audxtoken.com,tau pty ltd",AUDX,manual,2026-07-22,false,f404ac1c985586b14b3a465830ef11b713fda01917b29439f64edae0ad0b5044
+Auto Finance,psp,60,0,0,35,ETH,pharos-stablecoins,auto-finance,auto.finance,"auto finance,auto.finance,tokemak","AUTO,TOKE,autoUSD",manual,2026-07-22,false,6b79a1e53f3440811d9b52ab450a17458d4165b2858ca0bdb948cea17ae70aa6

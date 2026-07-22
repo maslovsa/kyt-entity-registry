@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-22T07:09:33+00:00",
+  "generated_at": "2026-07-22T07:21:08+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -24933,6 +24933,50 @@
       "product_aliases": [
         "apxUSD",
         "apyUSD"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "asymmetry",
+      "category": "psp",
+      "logo_path": "logos/psp/asymmetry.png",
+      "keywords": [
+        "asymmetry",
+        "asymmetry.finance"
+      ],
+      "product_aliases": [
+        "USDaf",
+        "ampUSD"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "aussie-dollar-token",
+      "category": "psp",
+      "logo_path": "logos/psp/aussie-dollar-token.png",
+      "keywords": [
+        "aussie dollar token",
+        "audxtoken.com",
+        "tau pty ltd"
+      ],
+      "product_aliases": [
+        "AUDX"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "auto-finance",
+      "category": "psp",
+      "logo_path": "logos/psp/auto-finance.png",
+      "keywords": [
+        "auto finance",
+        "auto.finance",
+        "tokemak"
+      ],
+      "product_aliases": [
+        "AUTO",
+        "TOKE",
+        "autoUSD"
       ],
       "sanctioned": false
     }
