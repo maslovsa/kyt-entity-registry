@@ -2595,3 +2595,6 @@ Membrane,stablecoin_issuer,70,0,0,15,ETH|ARBITRUM|OPTIMISM|POLYGON|SOL,pharos-st
 Metronome,defi,200,16,90,10,ETH|POLYGON|OPTIMISM|BASE,dawsbot-eth-labels|coingecko-tokens|brianleect-labels|arkham-intelligence|defillama-protocols,metronome,metronome.io,"metronome,metronome.io,msusd,metronome synth",,manual,2026-07-22,false,e57fa1471ac5d980ec0ffd078a37acd95ac5db024292834295bc211a670c2b55
 Mezo,defi,200,7,90,10,ETH|BASE,dawsbot-eth-labels|coingecko-tokens|coingecko-uniswap-list|defillama-adapters|arkham-intelligence|scorechain-counterparties|defillama-protocols,mezo,mezo.org,"mezo,mezo.org,musd,mezo usd",,manual,2026-07-22,false,403b8b8e343099fd31c9742a4d0b9715f3992cfef1e46236113472344b3fa96c
 Neutrl,defi,60,1,75,10,ETH,pharos-watch,neutrl,neutrl.finance,"neutrl,neutrl.finance,nusd,neutrl finance",,manual,2026-07-22,true,fe6fdc982cbb16a834de19b8dd6c8a91f142a75d62217fbade213af4e903df55
+Novatti,psp,60,0,0,5,,,"novatti","novatti.com","novatti,novatti group,novatti.com",,none,2026-07-22,false,
+Ondo,defi,80,0,0,5,ETH|SOL,,"ondo","ondo.finance","ondo,ondo finance,ondo.finance",,manual,2026-07-22,false,0265311fd64bc3eeb34e966d960c2a982c55c84dfdfbca8d60ec150435d224fc
+Ondo Finance,defi,80,0,0,5,ETH|SOL,,"ondo-finance","ondo.finance","ondo finance,ondo-finance,ondo.finance",,manual,2026-07-22,false,0265311fd64bc3eeb34e966d960c2a982c55c84dfdfbca8d60ec150435d224fc
