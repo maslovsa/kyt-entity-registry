@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-22T17:48:41+00:00",
+  "generated_at": "2026-07-22T17:54:39+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -25787,6 +25787,38 @@
         "stusd"
       ],
       "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "streamex",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/streamex.png",
+      "keywords": [
+        "streamex",
+        "streamex.com",
+        "streamex corp",
+        "gldy"
+      ],
+      "product_aliases": [
+        "GLDY"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "superstate",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/superstate.png",
+      "keywords": [
+        "superstate",
+        "superstate.com",
+        "superstate inc",
+        "ustb",
+        "uscc"
+      ],
+      "product_aliases": [
+        "USTB",
+        "USCC"
+      ],
       "sanctioned": false
     }
   ]
