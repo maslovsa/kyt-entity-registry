@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-22T09:46:10+00:00",
+  "generated_at": "2026-07-22T10:00:12+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -25285,6 +25285,53 @@
         "hextrust.com"
       ],
       "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hylo",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/hylo.png",
+      "keywords": [
+        "hylo",
+        "hylo.so",
+        "hyusd",
+        "xsol"
+      ],
+      "product_aliases": [
+        "hyUSD",
+        "xSOL"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "idrx",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/idrx.png",
+      "keywords": [
+        "idrx",
+        "idrx.co",
+        "indonesian rupiah stablecoin",
+        "rupiah token"
+      ],
+      "product_aliases": [
+        "IDRX Rupiah Token"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "iq",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/iq.png",
+      "keywords": [
+        "iq",
+        "iqai.com",
+        "krwq",
+        "korean won stablecoin",
+        "iq ai"
+      ],
+      "product_aliases": [
+        "KRWQ"
+      ],
       "sanctioned": false
     }
   ]
