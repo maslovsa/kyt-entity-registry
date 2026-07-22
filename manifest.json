@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-22T08:44:08+00:00",
+  "generated_at": "2026-07-22T08:51:29+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -25128,38 +25128,42 @@
     },
     {
       "slug": "ember",
-      "category": "wallet",
-      "logo_path": "logos/wallet/ember.png",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/ember.png",
       "keywords": [
         "ember",
-        "ember fund",
-        "emberfund",
-        "emberfund.io"
+        "ember protocol",
+        "ember.so",
+        "ember earn",
+        "eearn"
       ],
       "product_aliases": [],
       "sanctioned": false
     },
     {
       "slug": "exodus",
-      "category": "wallet",
-      "logo_path": "logos/wallet/exodus.png",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/exodus.png",
       "keywords": [
         "exodus",
-        "exodus wallet",
-        "exodus.com",
-        "exodus movement"
+        "exodus movement",
+        "xo cash",
+        "xocash",
+        "xousd"
       ],
       "product_aliases": [],
       "sanctioned": false
     },
     {
       "slug": "f-x-protocol",
-      "category": "defi",
-      "logo_path": "logos/defi/f-x-protocol.png",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/f-x-protocol.png",
       "keywords": [
         "f(x) protocol",
         "fx protocol",
         "f-x-protocol",
+        "fxusd",
+        "fxsave",
         "fxn",
         "aladdin dao"
       ],
