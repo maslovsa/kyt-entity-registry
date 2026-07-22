@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-22T10:00:12+00:00",
+  "generated_at": "2026-07-22T10:20:53+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -25331,6 +25331,49 @@
       ],
       "product_aliases": [
         "KRWQ"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "janus-henderson-anemoy",
+      "category": "psp",
+      "logo_path": "logos/psp/janus-henderson-anemoy.png",
+      "keywords": [
+        "janus henderson anemoy",
+        "janus henderson anemoy aaa clo fund"
+      ],
+      "product_aliases": [
+        "JAAA"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "juno",
+      "category": "psp",
+      "logo_path": "logos/psp/juno.png",
+      "keywords": [
+        "juno",
+        "mxnb.mx",
+        "bitso",
+        "juno finance mxn"
+      ],
+      "product_aliases": [
+        "MXNB"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "jupiter",
+      "category": "psp",
+      "logo_path": "logos/psp/jupiter.png",
+      "keywords": [
+        "jupiter",
+        "jup.ag",
+        "jupiter exchange"
+      ],
+      "product_aliases": [
+        "JUP",
+        "JupUSD"
       ],
       "sanctioned": false
     }
