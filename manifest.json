@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-21T21:31:32+00:00",
+  "generated_at": "2026-07-22T06:27:40+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -24804,6 +24804,33 @@
         "verse.bitcoin.com"
       ],
       "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "3jane",
+      "category": "psp",
+      "logo_path": "logos/psp/3jane.png",
+      "keywords": [
+        "3jane",
+        "3jane.xyz"
+      ],
+      "product_aliases": [
+        "USD3",
+        "sUSD3"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "agora",
+      "category": "psp",
+      "logo_path": "logos/psp/agora.png",
+      "keywords": [
+        "agora",
+        "agora.finance"
+      ],
+      "product_aliases": [
+        "AUSD"
+      ],
       "sanctioned": false
     }
   ]

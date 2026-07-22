@@ -2527,3 +2527,6 @@ Zedcex,sanctioned,100,10,100,100,TRON,ofac-sdn,zedcex,zedcex.com,"zedcex,zedcex 
 Chatex,sanctioned,100,47,100,100,ETH|TRON,ofac-sdn,chatex,chatex.com,"chatex,chatex.com",,manual,2026-07-16,true,0643726455eee57678d96d1aedd4befd8bc95385eeb7a1b3b6809f9c0c7adc5d
 Refee,bot,90,0,75,50,TRON,manual-admin,refee-bot,refee.bot,"refee,refee.bot,re:fee,re_fee_bot,refee bot",,manual,2026-07-21,true,408f60feb9674e6bafb0cd76b2192c50e9ff9bce0bb4ed6a9414408ea67e6064
 Verse DEX,dex,100,8,90,10,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,arkham-intelligence,verse-dex,verse.bitcoin.com,"verse dex,verse exchange,verse-x,verse.bitcoin.com",,manual,2026-07-22,true,549a2f7e7acc1e2b50651107f57be1589cf0d88268bb4ab132723f64c882eaea
+3A Dao,psp,60,0,0,15,ETH,pharos-stablecoins,3a-dao,3adao.org,"3a dao,3adao,3adao.org,euro3","EURO3,A3A",none,2026-07-22,false,
+3Jane,psp,60,0,0,45,ETH,pharos-stablecoins,3jane,3jane.xyz,"3jane,3jane.xyz","USD3,sUSD3",manual,2026-07-22,false,1e4f92b0b1d8446d0d0a01ec408b461ce736c99deb8f1bac58ad2c17ba179bd4
+Agora,psp,70,0,0,10,ETH|SOL|BASE|POLYGON|AVALANCHE,pharos-stablecoins,agora,agora.finance,"agora,agora.finance","AUSD",manual,2026-07-22,false,8773befdf16a4954659106472ccdf43f39e3efcc37afa54338a603f7002f5d95
