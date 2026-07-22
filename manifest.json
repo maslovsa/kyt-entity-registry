@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-22T17:25:47+00:00",
+  "generated_at": "2026-07-22T17:32:57+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -25709,6 +25709,44 @@
         "sonic labs",
         "soniclabs.com",
         "ussd stablecoin"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "soulpeg",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/soulpeg.png",
+      "keywords": [
+        "soulpeg",
+        "soulpeg.io",
+        "spusd",
+        "susdc"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "stablecorp",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/stablecorp.png",
+      "keywords": [
+        "stablecorp",
+        "stablecorp.ca",
+        "qcad"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "stablr",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/stablr.png",
+      "keywords": [
+        "stablr",
+        "stablr.com",
+        "eurr",
+        "usdr"
       ],
       "product_aliases": [],
       "sanctioned": false

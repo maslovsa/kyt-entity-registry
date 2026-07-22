@@ -2609,3 +2609,6 @@ Silo Finance,stablecoin_issuer,60,0,0,15,ARBITRUM|ETH,pharos-watch,silo-finance,
 Sky,stablecoin_issuer,60,0,0,10,ETH|BASE|SOL,pharos-watch,sky-stablecoin,sky.money,"sky.money,susds,sky savings rate",,manual,2026-07-22,true,eff98cb350b63f24d547979ccb58e6630485f8ee673970eb02f6d4c95a14eb6c
 Solstice,stablecoin_issuer,65,0,0,10,SOL,pharos-watch,solstice,solstice.finance,"solstice finance,solstice.finance,usx stablecoin",,manual,2026-07-22,true,a74839fb60888300de95843abe5221a903cdef639aeab126fc3b2c8d48df96ae
 Sonic Labs,stablecoin_issuer,65,0,0,10,ETH|BASE|ARBITRUM|OPTIMISM,pharos-watch,sonic-labs,soniclabs.com,"sonic labs,soniclabs.com,ussd stablecoin",,manual,2026-07-22,true,677adc6730a1168d4606cf0cdc096d98f63079680353ee9d794f13be5cad08d9
+Soulpeg,stablecoin_issuer,60,0,0,15,BSC,pharos-stablecoins,soulpeg,soulpeg.io,"soulpeg,soulpeg.io,spusd,susdc",,manual,2026-07-22,true,1ab960d33e4c1e019b4a9c71e1ac3883f09df9f5dc03e9704181d6528a39932f
+Stablecorp,stablecoin_issuer,60,0,0,5,ETH|POLYGON|BASE,pharos-stablecoins,stablecorp,stablecorp.ca,"stablecorp,stablecorp.ca,qcad",,manual,2026-07-22,true,b944af9ac52a3708236a0fb4b3cf7c2c9a11aab3118c11a9ebb2c87c23ff6a0e
+Stablr,stablecoin_issuer,60,0,0,20,ETH|SOL,pharos-stablecoins,stablr,stablr.com,"stablr,stablr.com,eurr,usdr",,manual,2026-07-22,true,879ca45242db284d02df0bab440a5230a7619b88e2e31226b2e809138777df61
