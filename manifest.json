@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-22T08:37:54+00:00",
+  "generated_at": "2026-07-22T08:44:08+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -25122,6 +25122,46 @@
         "dusd",
         "sdusd",
         "trinity foundation"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ember",
+      "category": "wallet",
+      "logo_path": "logos/wallet/ember.png",
+      "keywords": [
+        "ember",
+        "ember fund",
+        "emberfund",
+        "emberfund.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "exodus",
+      "category": "wallet",
+      "logo_path": "logos/wallet/exodus.png",
+      "keywords": [
+        "exodus",
+        "exodus wallet",
+        "exodus.com",
+        "exodus movement"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "f-x-protocol",
+      "category": "defi",
+      "logo_path": "logos/defi/f-x-protocol.png",
+      "keywords": [
+        "f(x) protocol",
+        "fx protocol",
+        "f-x-protocol",
+        "fxn",
+        "aladdin dao"
       ],
       "product_aliases": [],
       "sanctioned": false
