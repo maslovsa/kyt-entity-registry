@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-22T16:20:20+00:00",
+  "generated_at": "2026-07-22T16:38:43+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -25591,6 +25591,30 @@
         "apacx.io",
         "pht",
         "pht stablecoin"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "royal-dollar",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/royal-dollar.png",
+      "keywords": [
+        "royal dollar",
+        "rusd",
+        "rcoins"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "royal-euro",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/royal-euro.png",
+      "keywords": [
+        "royal euro",
+        "reur",
+        "rcoins"
       ],
       "product_aliases": [],
       "sanctioned": false
