@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-22T06:27:40+00:00",
+  "generated_at": "2026-07-22T06:50:46+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -24830,6 +24830,40 @@
       ],
       "product_aliases": [
         "AUSD"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "allunity",
+      "category": "psp",
+      "logo_path": "logos/psp/allunity.png",
+      "keywords": [
+        "allunity",
+        "allunity.com",
+        "eurau",
+        "chfau",
+        "sekau"
+      ],
+      "product_aliases": [
+        "EURAU",
+        "CHFAU",
+        "SEKAU"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "alto",
+      "category": "psp",
+      "logo_path": "logos/psp/alto.png",
+      "keywords": [
+        "alto",
+        "altofoundation.org",
+        "alto.money",
+        "dusd"
+      ],
+      "product_aliases": [
+        "DUSD",
+        "ALTO"
       ],
       "sanctioned": false
     }

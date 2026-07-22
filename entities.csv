@@ -2530,3 +2530,6 @@ Verse DEX,dex,100,8,90,10,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,arkha
 3A Dao,psp,60,0,0,15,ETH,pharos-stablecoins,3a-dao,3adao.org,"3a dao,3adao,3adao.org,euro3","EURO3,A3A",none,2026-07-22,false,
 3Jane,psp,60,0,0,45,ETH,pharos-stablecoins,3jane,3jane.xyz,"3jane,3jane.xyz","USD3,sUSD3",manual,2026-07-22,false,1e4f92b0b1d8446d0d0a01ec408b461ce736c99deb8f1bac58ad2c17ba179bd4
 Agora,psp,70,0,0,10,ETH|SOL|BASE|POLYGON|AVALANCHE,pharos-stablecoins,agora,agora.finance,"agora,agora.finance","AUSD",manual,2026-07-22,false,8773befdf16a4954659106472ccdf43f39e3efcc37afa54338a603f7002f5d95
+Allunity,psp,70,1,0,10,ETH|POLYGON|ARBITRUM,pharos-stablecoins,allunity,allunity.com,"allunity,allunity.com,eurau,chfau,sekau","EURAU,CHFAU,SEKAU",manual,2026-07-22,false,923748f044abc937449cb744d86966dfd43bfa332e9ec63c3ce2dc9ee7645290
+Alpha Partner,psp,60,1,0,60,BSC,pharos-stablecoins,alpha-partner,alphapartner.vip,"alpha partner,alphapartner.vip,ap ucard,usda","USDA",none,2026-07-22,false,
+Alto,psp,60,1,0,25,ETH,pharos-stablecoins,alto,altofoundation.org,"alto,altofoundation.org,alto.money,dusd","DUSD,ALTO",manual,2026-07-22,false,8b5ae3bbe72c64e991094d1c46adef362115767178371f9a01b36844cf1feb75
