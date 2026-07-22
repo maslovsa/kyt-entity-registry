@@ -2536,3 +2536,6 @@ Alto,psp,60,1,0,25,ETH,pharos-stablecoins,alto,altofoundation.org,"alto,altofoun
 Anchorx,psp,70,0,0,10,,pharos-stablecoins,anchorx,anchorx.org,"anchorx,anchorx.org",AXCNH,manual,2026-07-22,false,a377eb81967b0e9ce4e4f85dc505048b7cbc213e7ed5423d24863a1bf870842c
 Anemoy,psp,70,0,0,10,ETH,pharos-stablecoins,anemoy,anemoy.io,"anemoy,anemoy.io,janus henderson anemoy treasury fund",JTRSY,manual,2026-07-22,false,a817c92d053f403042481218912dc7aa97c6c54348115f0cd4d160f9eb04586a
 Anemoy Apollo,psp,65,0,0,20,ETH,pharos-stablecoins,anemoy-apollo,anemoy.io,"anemoy apollo,anemoy tokenized apollo diversified credit fund","ACRDX,deCRDX",manual,2026-07-22,false,a817c92d053f403042481218912dc7aa97c6c54348115f0cd4d160f9eb04586a
+Apollo Securitize,psp,70,0,0,10,ETH|AVALANCHE|POLYGON|SOL,pharos-stablecoins,apollo-securitize,securitize.io,"apollo securitize,securitize.io","ACRED,sACRED",manual,2026-07-22,false,c765fad456659bf73bdd6301ce505b9eddf6462c46cd633a5091e36c34da92f9
+Apyx,psp,60,0,0,35,ETH|BASE,pharos-stablecoins,apyx,apyx.fi,"apyx,apyx.fi","apxUSD,apyUSD",manual,2026-07-22,false,737c64d253f41c7a41c558665cb0336301b2e7306cd09ff9d38ca8adc547164a
+Argentine Peso,psp,60,0,0,15,ETH|BASE,pharos-stablecoins,argentine-peso,ripio.com,"argentine peso,ripio.com,wars,ripio","wARS",none,2026-07-22,false,
