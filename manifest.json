@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-22T09:38:44+00:00",
+  "generated_at": "2026-07-22T09:46:10+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -25262,6 +25262,29 @@
       "product_aliases": [
         "HLSCOPE"
       ],
+      "sanctioned": false
+    },
+    {
+      "slug": "hedgecore",
+      "category": "defi",
+      "logo_path": "logos/defi/hedgecore.png",
+      "keywords": [
+        "hedgecore",
+        "hedgecore.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hex-trust",
+      "category": "custodian",
+      "logo_path": "logos/custodian/hex-trust.png",
+      "keywords": [
+        "hex trust",
+        "hextrust",
+        "hextrust.com"
+      ],
+      "product_aliases": [],
       "sanctioned": false
     }
   ]
