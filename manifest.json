@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-22T15:08:52+00:00",
+  "generated_at": "2026-07-22T15:23:26+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -25509,6 +25509,37 @@
       "product_aliases": [
         "M",
         "$M"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "matrixdock",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/matrixdock.png",
+      "keywords": [
+        "matrixdock",
+        "matrixdock.com",
+        "matrixport"
+      ],
+      "product_aliases": [
+        "STBT",
+        "XAUm",
+        "XAGm"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "mega",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/mega.png",
+      "keywords": [
+        "mega",
+        "megaeth.com",
+        "megaeth"
+      ],
+      "product_aliases": [
+        "USDM",
+        "MegaUSD"
       ],
       "sanctioned": false
     }
