@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-22T17:44:39+00:00",
+  "generated_at": "2026-07-22T17:48:41+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -25747,6 +25747,44 @@
         "stablr.com",
         "eurr",
         "usdr"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "standx",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/standx.png",
+      "keywords": [
+        "standx",
+        "standx.com",
+        "dusd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "steakhouse",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/steakhouse.png",
+      "keywords": [
+        "steakhouse",
+        "steakhouse.financial",
+        "steakusdc",
+        "steakusdt",
+        "bbqusdc"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "stoneyield",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/stoneyield.png",
+      "keywords": [
+        "stoneyield",
+        "stoneyield.io",
+        "stusd"
       ],
       "product_aliases": [],
       "sanctioned": false
