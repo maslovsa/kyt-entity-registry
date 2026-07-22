@@ -512,7 +512,7 @@ Bonzo Finance,defi,75,0,0,10,,,bonzo,bonzo.finance,"bonzo,bonzo-finance",,arkham
 Bonzo Lend,defi,75,0,0,10,,,bonzo-lend,bonzo.finance,"bonzo lend,bonzo-lend",,defillama,2026-06-02,false,05ca4f736b9fb01c1ba81703a9bfb8bf2dcb462a52181192c889d051e94decec
 Boros,defi,75,0,0,10,ARBITRUM,,boros,boros.pendle.finance,boros,,defillama,2026-05-11,false,725f28cdf7a71ea4796850f5b05eb424dd22529ca0aa135f299039ac26355d8e
 Brickken,defi,75,0,0,10,BSC|ETH|BASE|AVALANCHE|POLYGON,,brickken,brickken.com,brickken,,defillama,2026-06-02,false,7a2fd093e0e7cfee56c74de18c2339293d855b954b2231dedf2aadecdcda4000
-BTCFi CDP,defi,75,0,0,10,BTC|BASE,,btcfi-cdp,btcfi.one,"btcfi cdp,btcfi-cdp",,defillama,2026-05-11,false,9defb9a9ace4c8a7f5fe28ed2f53ed91c979fbd818b2aa73c9c3a1835cda5826
+BTCFi CDP,defi,75,6,65,10,BTC|BASE,defillama-adapters,btcfi-cdp,btcfi.one,"btcfi cdp,btcfi-cdp,btcfi,btcusd",,defillama,2026-07-22,false,9defb9a9ace4c8a7f5fe28ed2f53ed91c979fbd818b2aa73c9c3a1835cda5826
 Bucket CDP,defi,75,0,0,10,,,bucket-cdp,bucketprotocol.io,"bucket cdp,bucket-cdp",,defillama,2026-06-02,false,28a1b7747258769c167f62d2293819d32f0fa898027fa1e30460ab56bda042c0
 Bucket Farm,defi,75,0,0,10,,,bucket-farm,farm.bucketprotocol.io,"bucket farm,bucket-farm",,defillama,2026-06-02,false,28a1b7747258769c167f62d2293819d32f0fa898027fa1e30460ab56bda042c0
 Byreal,dex,75,0,0,10,SOL,,byreal,byreal.io,byreal,,arkham,2026-06-02,false,993a14260434fa060557457fe4e363af2ef08aa1c723e77993036e6a2f680586
@@ -2546,3 +2546,5 @@ Avant Protocol,defi,60,0,0,10,AVALANCHE,,avant,avantprotocol.com,"avant,avant pr
 Bima,psp,70,0,0,35,ETH,pharos-stablecoins,bima,bima.money,"bima,bima.money,bima labs","USBD,BIMA",manual,2026-07-22,false,626c3d63d1bd70a18a8f9a94090fcbdfe61b08b8e9cc49e9db5c56301711495f
 Brix,psp,70,0,0,60,ETH,pharos-stablecoins,brix,brix.money,"brix,brix.money,itry,witry","iTRY,wiTRY",manual,2026-07-22,false,b12599576fb83fce5cf37761ecde4f4ababda5e16bb174b958baadb86ed345b3
 Brl1,psp,70,0,0,15,POLYGON,pharos-stablecoins,brl1,brl1.io,"brl1,brl1.io",BRL1,none,2026-07-22,false,
+BRLA Digital,stablecoin_issuer,60,2,70,10,POLYGON,coingecko-tokens|manual-admin,brla-digital,brla.digital,"brla,brla digital,brla token,brla.digital",avenia,manual,2026-07-22,true,d75e0d24f4bcc5334f18118faae0c480735ed8fb340572e115f7044bc32724e9
+CAD Digital,stablecoin_issuer,55,2,70,8,ETH,coingecko-tokens|manual-admin,cad-digital,tetradg.com,"cad digital,cadd,tetra digital group,tetra trust company",,none,2026-07-22,true,

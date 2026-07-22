@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-22T07:44:37+00:00",
+  "generated_at": "2026-07-22T07:59:26+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -5090,7 +5090,9 @@
       "logo_path": "logos/defi/btcfi-cdp.png",
       "keywords": [
         "btcfi cdp",
-        "btcfi-cdp"
+        "btcfi-cdp",
+        "btcfi",
+        "btcusd"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -25020,6 +25022,21 @@
       "product_aliases": [
         "iTRY",
         "wiTRY"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "brla-digital",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/brla-digital.png",
+      "keywords": [
+        "brla",
+        "brla digital",
+        "brla token",
+        "brla.digital"
+      ],
+      "product_aliases": [
+        "avenia"
       ],
       "sanctioned": false
     }
