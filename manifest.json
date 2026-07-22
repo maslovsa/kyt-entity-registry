@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-22T16:38:43+00:00",
+  "generated_at": "2026-07-22T16:57:09+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -25615,6 +25615,41 @@
         "royal euro",
         "reur",
         "rcoins"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "rupiah-token",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/rupiah-token.png",
+      "keywords": [
+        "rupiahtoken.com",
+        "idrt",
+        "idrtb"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "saturn",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/saturn.png",
+      "keywords": [
+        "saturn.credit",
+        "usdat",
+        "susdat"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "securitize",
+      "category": "defi",
+      "logo_path": "logos/defi/securitize.png",
+      "keywords": [
+        "securitize inc",
+        "securitize holdings"
       ],
       "product_aliases": [],
       "sanctioned": false
