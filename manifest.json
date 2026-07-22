@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-22T07:21:08+00:00",
+  "generated_at": "2026-07-22T07:30:57+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -24978,6 +24978,18 @@
         "TOKE",
         "autoUSD"
       ],
+      "sanctioned": false
+    },
+    {
+      "slug": "avant",
+      "category": "defi",
+      "logo_path": "logos/defi/avant.png",
+      "keywords": [
+        "avant",
+        "avant protocol",
+        "avantprotocol.com"
+      ],
+      "product_aliases": [],
       "sanctioned": false
     }
   ]

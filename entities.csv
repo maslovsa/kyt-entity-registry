@@ -2542,3 +2542,4 @@ Argentine Peso,psp,60,0,0,15,ETH|BASE,pharos-stablecoins,argentine-peso,ripio.co
 Asymmetry,psp,70,0,0,10,ETH,pharos-stablecoins,asymmetry,asymmetry.finance,"asymmetry,asymmetry.finance","USDaf,ampUSD",manual,2026-07-22,false,4045244150dde38172e7a0324142e237bf2403f9b31301d0cac95ee2c5d51f91
 Aussie Dollar Token,psp,60,0,0,15,ETH|POLYGON,pharos-stablecoins,aussie-dollar-token,audxtoken.com,"aussie dollar token,audxtoken.com,tau pty ltd",AUDX,manual,2026-07-22,false,f404ac1c985586b14b3a465830ef11b713fda01917b29439f64edae0ad0b5044
 Auto Finance,psp,60,0,0,35,ETH,pharos-stablecoins,auto-finance,auto.finance,"auto finance,auto.finance,tokemak","AUTO,TOKE,autoUSD",manual,2026-07-22,false,6b79a1e53f3440811d9b52ab450a17458d4165b2858ca0bdb948cea17ae70aa6
+Avant Protocol,defi,60,0,0,10,AVALANCHE,,avant,avantprotocol.com,"avant,avant protocol,avantprotocol.com",,manual,2026-07-22,false,f673c0d418f1167df36be577bb27ff074581b5f81d7e5e2ae7f5111964416d65
