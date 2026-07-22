@@ -2551,3 +2551,6 @@ CAD Digital,stablecoin_issuer,55,2,70,8,ETH,coingecko-tokens|manual-admin,cad-di
 Celo,psp,70,0,0,10,ETH|POLYGON|SOL,pharos-stablecoins,celo,celo.org,"celo,celo.org,mento,mento protocol,celo foundation,cusd,ceur","CUSD,CEUR",none,2026-07-22,false,
 Cfx,psp,65,0,0,10,SOL|ETH|BASE,pharos-stablecoins,cfx,moveusd.com,"cfx,cfx labs,coinfx,moveusd.com,cfx.to",MOVEUSD,manual,2026-07-22,false,a4649335e2acb718ad00839547fc930c0ca559b16d8b073cb63ff517953e5e18
 Cod3X,psp,60,0,0,40,BASE,pharos-stablecoins,cod3x,cod3x.org,"cod3x,cod3x.org,cod3x lend,cod3x facilitators,cdxusd",CDXUSD,none,2026-07-22,false,
+Compliant Naira,stablecoin_issuer,70,6,70,30,ETH|BSC|POLYGON,pharos-stablecoins|coingecko-tokens,compliant-naira,cngn.co,"compliant naira,cngn.co,wrappedcbdc,consortium naira",CNGN,manual,2026-07-22,false,38c20d8a611ea105a7a68feb44e2188ee800bc4a741ac6fb95bb80ba0a008700
+Crown,stablecoin_issuer,70,2,70,12,ETH,pharos-stablecoins|coingecko-tokens,crown-brlv,crown-brlv.com,"crown brlv,crown-brlv.com,brl.xyz",BRLV,manual,2026-07-22,false,c81796ad9de41c42db04a53b685ab68aa8774c905da8387e42984533b7e71f59
+Cygnus Finance,psp,60,0,0,20,BASE|ETH|POLYGON|AVALANCHE,pharos-stablecoins,cygnus-finance,cygnus.finance,"cygnus finance,cygnus.finance,cgusd,wcgusd","CGUSD,WCGUSD",none,2026-07-22,false,

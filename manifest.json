@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-22T08:11:09+00:00",
+  "generated_at": "2026-07-22T08:23:12+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -25053,6 +25053,35 @@
       ],
       "product_aliases": [
         "MOVEUSD"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "compliant-naira",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/compliant-naira.png",
+      "keywords": [
+        "compliant naira",
+        "cngn.co",
+        "wrappedcbdc",
+        "consortium naira"
+      ],
+      "product_aliases": [
+        "CNGN"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "crown-brlv",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/crown-brlv.png",
+      "keywords": [
+        "crown brlv",
+        "crown-brlv.com",
+        "brl.xyz"
+      ],
+      "product_aliases": [
+        "BRLV"
       ],
       "sanctioned": false
     }
