@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-22T16:02:54+00:00",
+  "generated_at": "2026-07-22T16:03:26+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -25592,9 +25592,7 @@
         "pht",
         "pht stablecoin"
       ],
-      "product_aliases": [
-        "PHT"
-      ],
+      "product_aliases": [],
       "sanctioned": false
     }
   ]
