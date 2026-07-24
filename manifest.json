@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-22T18:14:23+00:00",
+  "generated_at": "2026-07-24T10:04:19+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -25904,6 +25904,18 @@
         "xsy.fi",
         "unity",
         "uty"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "paysido-com",
+      "category": "psp",
+      "logo_path": "logos/psp/paysido-com.png",
+      "keywords": [
+        "paysido",
+        "paysido payment",
+        "paysido psp"
       ],
       "product_aliases": [],
       "sanctioned": false
