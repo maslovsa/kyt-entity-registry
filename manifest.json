@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-24T10:04:19+00:00",
+  "generated_at": "2026-07-25T13:03:13+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -25919,6 +25919,62 @@
       ],
       "product_aliases": [],
       "sanctioned": false
+    },
+    {
+      "slug": "whitebird-io",
+      "category": "sanctioned",
+      "logo_path": "logos/sanctioned/whitebird-io.png",
+      "keywords": [
+        "whitebird",
+        "white bird"
+      ],
+      "product_aliases": [],
+      "sanctioned": true
+    },
+    {
+      "slug": "noonecrypto-inc",
+      "category": "sanctioned",
+      "logo_path": "logos/sanctioned/noonecrypto-inc.png",
+      "keywords": [
+        "noonecrypto",
+        "noones",
+        "no ones"
+      ],
+      "product_aliases": [],
+      "sanctioned": true
+    },
+    {
+      "slug": "tradex-by",
+      "category": "sanctioned",
+      "logo_path": "logos/sanctioned/tradex-by.png",
+      "keywords": [
+        "tradex",
+        "brightum"
+      ],
+      "product_aliases": [],
+      "sanctioned": true
+    },
+    {
+      "slug": "monease-io",
+      "category": "sanctioned",
+      "logo_path": "logos/sanctioned/monease-io.png",
+      "keywords": [
+        "monease"
+      ],
+      "product_aliases": [],
+      "sanctioned": true
+    },
+    {
+      "slug": "pilotfinance-ltd",
+      "category": "sanctioned",
+      "logo_path": "logos/sanctioned/pilotfinance-ltd.png",
+      "keywords": [
+        "pilotfinance",
+        "pilot finance",
+        "usepilot"
+      ],
+      "product_aliases": [],
+      "sanctioned": true
     }
   ]
 }

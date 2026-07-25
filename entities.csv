@@ -2625,3 +2625,8 @@ Usdu Finance,defi,60,1,60,5,ETH,pharos-stablecoins,usdu-finance,usdu.finance,"us
 Western Union,psp,80,0,90,5,SOLANA,manual-admin,western-union,westernunion.com,"western union,westernunion,usdpt",,manual,2026-07-22,true,3fe4c6eff0312aa2ac9c7d99b721f99c4c0cbc42d0801d0d2eaeecb97df9a35c
 XSY,defi,50,0,60,20,AVALANCHE,manual-admin,xsy,xsy.fi,"xsy,xsy.fi,unity,uty",,manual,2026-07-22,true,53eddfb8522bdecf34781948b46a993cfca13ae419cd4e887a7f56e6e5e523fc
 PaySido,psp,60,1,100,3,TRON,manual-admin,paysido-com,paysido.com,"paysido,paysido payment,paysido psp",,manual,2026-07-24,true,d95ecb537ebe9cda14d463e3c2f6cc95b540a4d971f26554da64584d508f9812
+WhiteBird,sanctioned,100,0,75,100,,eu-sanctions-2026-1849,whitebird-io,whitebird.io,"whitebird,white bird",,manual,2026-07-25,true,03f0a4b1c0f89a26a6a5dff3d40d202f83a1b9222b7f48232510244a78fa796b
+NoOnecrypto INC.,sanctioned,100,0,75,100,,eu-sanctions-2026-1849,noonecrypto-inc,noones.com,"noonecrypto,noones,no ones",,manual,2026-07-25,true,af85f23a8c2dc85ea8afe55a4071cad9664f0564aaac382eb34dca87266bf28a
+Tradex,sanctioned,100,0,75,100,,eu-sanctions-2026-1849,tradex-by,tradex.by,"tradex,brightum",,manual,2026-07-25,true,9252ab93237e17c92202280ef7d5daec4acf454e26e98dd9534ea91edfdf5c27
+Monease,sanctioned,100,0,75,100,,eu-sanctions-2026-1849,monease-io,monease.io,monease,,manual,2026-07-25,true,e499d381c00279d89e0d125c824c3f844299fcb3d6d34b379386544e0c560c6c
+PilotFinance Ltd,sanctioned,100,0,75,100,,eu-sanctions-2026-1849,pilotfinance-ltd,pilotfinanceltd.com.ng,"pilotfinance,pilot finance,usepilot",,manual,2026-07-25,true,5516d41e6fb7b6b843310e97d3f581271f3b4573ecc0caf8bfb23804fddb843c
