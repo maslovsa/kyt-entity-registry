@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-26T20:24:34+00:00",
+  "generated_at": "2026-07-26T20:33:22+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -21023,6 +21023,18 @@
       "logo_path": "logos/defi/mo.png",
       "keywords": [
         "mo"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "morphoblue",
+      "category": "defi",
+      "logo_path": "logos/defi/morphoblue.png",
+      "keywords": [
+        "morpho",
+        "morphoblue",
+        "morpho blue"
       ],
       "product_aliases": [],
       "sanctioned": false
