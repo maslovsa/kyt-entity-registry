@@ -1705,7 +1705,6 @@ Squidrouter.com,bridge,83.0,4,85,15,BSC|ETH,scorechain-counterparties,squidroute
 SunSwap.com,dex,83.0,4,85,5,TRON,scorechain-counterparties,sunswap-com,sunswap.com,sunswap,,manual,2026-07-15,true,a02e93d221a52267e98f1e51a5a50e12d3f38f806c4261c8d987f82ab14fbe18
 USDD,dex,83.0,4,85,10,BSC|ETH|TRON,scorechain-counterparties,usdd,usdd.io,usdd,,arkham,2026-05-26,false,ac9254a920579f4410974b0319fb6bddb9aeb378cc63b837e0bb31fc34416ae1
 Wombat.exchange,bridge,83.0,4,85,15,BSC,scorechain-counterparties,wombat-exchange,wombat.exchange,"wombat.exchange,wombat-exchange,wombat",,arkham,2026-05-26,false,f020991dc7891344d1afbf3d8ff308a6541308515fed8b256ba0db2d4321c906
-morpho-blue,defi,82.6,118,70,5,ARBITRUM|BASE|BSC|ETH|OPTIMISM|POLYGON,defillama-adapters|vasp-entity-defaults,morpho-blue,,"morpho-blue,morpho blue",,arkham,2026-06-19,false,1ffd208cb51b9fba7e2570b87817a3020ed21efca1abddbceec552895ad38402
 mev-capital,defi,81.9,117,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|POLYGON,defillama-adapters,mev-capital,,"mev-capital,mev capital",,arkham,2026-05-11,false,0ad8cfc27664d896dcb301b753773e1e93470d64bf0ced039622a144ea529be7
 CoinSpot,exchange,81.8,109,75,5,BSC|ETH|TRON,scorechain-counterparties,coinspot,,coinspot,,arkham,2026-05-26,false,4016f4378d1598c3522be25c9db581d2f5d8cf3d22be7a394ea33f32ee20156f
 4e Exchange - eeee.com,exchange,81.5,3,85,5,TRON,scorechain-counterparties,4e-exchange-eeee-com,,"4e exchange,eeee.com",,manual,2026-05-13,true,ca5fe1a2838128426ae04a877a17a9c0eeda215c8bbd79f3308624cf31287ac2

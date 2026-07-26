@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-26T20:33:22+00:00",
+  "generated_at": "2026-07-26T20:36:01+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17513,17 +17513,6 @@
         "wombat.exchange",
         "wombat-exchange",
         "wombat"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "morpho-blue",
-      "category": "defi",
-      "logo_path": "logos/defi/morpho-blue.png",
-      "keywords": [
-        "morpho-blue",
-        "morpho blue"
       ],
       "product_aliases": [],
       "sanctioned": false
