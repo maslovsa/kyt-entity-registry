@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-25T13:03:13+00:00",
+  "generated_at": "2026-07-26T20:24:34+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -2341,6 +2341,30 @@
         "voltage-finance-rekt"
       ],
       "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "wallet-tg",
+      "category": "wallet",
+      "logo_path": "logos/wallet/wallet-tg.png",
+      "keywords": [
+        "wallet.tg",
+        "@wallet",
+        "walletbot",
+        "wallet bot",
+        "wallet in telegram",
+        "telegram wallet"
+      ],
+      "product_aliases": [
+        "trust wallet",
+        "coinbase wallet",
+        "bitget wallet",
+        "okx wallet",
+        "binance wallet",
+        "metamask wallet",
+        "tonkeeper wallet",
+        "safepal wallet"
+      ],
       "sanctioned": false
     },
     {
@@ -22497,18 +22521,6 @@
       "logo_path": "logos/defi/vesper-finance.png",
       "keywords": [
         "vesper finance"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "wallet-in-telegram",
-      "category": "wallet",
-      "logo_path": "logos/wallet/wallet-in-telegram.png",
-      "keywords": [
-        "wallet in telegram",
-        "wallet telegram",
-        "wallet.tg"
       ],
       "product_aliases": [],
       "sanctioned": false
