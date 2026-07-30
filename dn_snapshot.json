@@ -1,7 +1,4 @@
 {
-  "schema_version": 1,
-  "source": "aegis-platform Supabase vasp_entities",
-  "row_count": 2004,
   "display_names": {
     "001k-exchange": "001k",
     "0vix": "0vix",
@@ -1876,7 +1873,6 @@
     "virtue-poker": "Virtue Poker",
     "visor": "visor",
     "visor-finance-rekt": "Visor Finance - REKT",
-    "vitalik-buterin": "Vitalik Buterin",
     "vnx-british-pound": "VNX British Pound",
     "vnx-euro": "VNX EURO",
     "volet": "Volet.com",
@@ -2007,5 +2003,8 @@
     "zunami": "Zunami",
     "zunami-protocol-rekt": "Zunami Protocol - REKT",
     "zyfai": "zyfai"
-  }
+  },
+  "row_count": 2003,
+  "schema_version": 1,
+  "source": "aegis-platform Supabase vasp_entities"
 }

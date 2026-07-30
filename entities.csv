@@ -184,7 +184,7 @@ Okx.com,exchange,100,540,75,5,BSC|ETH|TRON,scorechain-counterparties,okx-com,okx
 Omen,defi,100,289,70,5,ETH,ethereum-lists-contracts,omen,,,,placeholder,2026-06-19,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 ondo-global-markets,defi,100,406,70,5,BSC|ETH,defillama-adapters,ondo-global-markets,,"ondo global markets,ondo-global-markets",,defillama,2026-05-11,false,179a695fa10ea211f400fe3982f3a0a8bdc9430e63f044413da07e5b1b4b92ce
 OpenDAO,defi,100,2,88,5,ETH,misttrack-verdicts,opendao,opendao.io,"opendao,sos-token,thesostoken",,arkham,2026-06-19,false,653f5e133a2bd34cb23b703e124d1b2393d25fd6ae3cd216c574885bf4c5cc80
-OpenSea.io,nft_marketplace,100,5110,75,10,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,scorechain-counterparties|vasp-entity-defaults,opensea-io,opensea.io,"opensea.io,opensea io,opensea-io",,arkham,2026-05-26,false,34f04d15888e51717401e9f6429dbaca08f1fa7a9945e5b5855b3a8efc308e86
+OpenSea.io,nft_marketplace,100,5110,75,10,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,scorechain-counterparties|vasp-entity-defaults,opensea-io,opensea.io,"opensea.io,opensea io,opensea-io,opensea",,arkham,2026-05-26,false,34f04d15888e51717401e9f6429dbaca08f1fa7a9945e5b5855b3a8efc308e86
 Optimism,bridge,100,144,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,optimism,,optimism,,arkham,2026-05-26,false,09459f10cbbcea1639163669365ed4934f5f33421d6c0f4d7fa2970b91219619
 Orange Finance,defi,100,112,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,orange-finance,,"orange finance,orange-finance",,arkham,2026-05-11,false,11ddc3e5c82b23fd636c7d791eac4916b8e64a71839dca862b73635d9f1b347c
 osl-hk,defi,100,490,70,5,AVALANCHE|BSC|ETH|POLYGON|TRON,defillama-adapters,osl-hk,,"osl-hk,osl hk",,arkham,2026-05-11,false,ac3d38d38c656c578f28353ad57e4435bff10011c2499f924d042f0c1288e86e
@@ -1502,9 +1502,9 @@ neutral-trade,defi,88.9,127,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM
 Sonne,defi,88.9,127,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,sonne,,sonne,,arkham,2026-05-11,false,81e2a888575be28950a6415bc4bd4f213156b71a4175c2866a0531f577b32b74
 Betpanda casino,gambling,88.7,11,85,50,ETH|TRON,scorechain-counterparties,betpanda-casino,,betpanda casino,,manual,2026-05-13,true,91f6f5230c9e339dbb90b299647baf1ad6ab99f573e4fa887ff5d2a31addd280
 Bitpanda.com,exchange,88.7,11,85,5,BSC|ETH|TRON,scorechain-counterparties,bitpanda-com,bitpanda.com,bitpanda,,arkham,2026-05-26,false,8a9a5363aca264c117686a6c24b5d262120275db112423d9d61a4e49d4854008
-Independentreserve.com,exchange,88.7,11,85,5,ETH|TRON,scorechain-counterparties,independentreserve-com,independentreserve.com,"independentreserve.com,independentreserve com,independentreserve-com",,manual,2026-07-15,true,b11f465a3cc0e12c47ca370c364df4c65bc6885abc068ac59556e1146e44e753
+Independentreserve.com,exchange,88.7,11,85,5,ETH|TRON,scorechain-counterparties,independentreserve-com,independentreserve.com,"independentreserve.com,independentreserve com,independentreserve-com,independentreserve",,manual,2026-07-15,true,b11f465a3cc0e12c47ca370c364df4c65bc6885abc068ac59556e1146e44e753
 Kiln.fi,defi,88.7,11,85,10,BSC|ETH,scorechain-counterparties,kiln-fi,kiln.fi,"kiln.fi,kiln",,arkham,2026-05-26,false,eafe32927eff88204e690af37ae1d6fa2cb7a8686fcf804a595a9f8b995e9196
-Kwiq.app,exchange,88.7,11,85,5,ETH|TRON,scorechain-counterparties,kwiq-app,kwiq.app,"kwiq.app,kwiq app,kwiq-app",,manual,2026-07-15,true,091d0117d237e389e1f06530a38ae6335981f9532a34dbe933e99c6a348df734
+Kwiq.app,exchange,88.7,11,85,5,ETH|TRON,scorechain-counterparties,kwiq-app,kwiq.app,"kwiq.app,kwiq app,kwiq-app,kwiq",,manual,2026-07-15,true,091d0117d237e389e1f06530a38ae6335981f9532a34dbe933e99c6a348df734
 Metamask.io,wallet,88.7,11,85,5,BSC|ETH,scorechain-counterparties,metamask-io,metamask.io,"metamask,metamask.io",,arkham,2026-05-26,false,d1b2e37db4e8302bfbb04e2d0bbefa941fbd176a56272eb0fdc91255b01cd52d
 N.exchange,exchange,88.7,11,85,5,BSC|ETH|TRON,scorechain-counterparties,n-exchange,n.exchange,"n.exchange,nexchange",,arkham,2026-05-26,false,311c9a470a456b16c6b3558e86b346b3808c02aa4e89854e56a89567cbd5d5ef
 Pendle.finance,dex,88.7,11,85,10,BSC|ETH,scorechain-counterparties,pendle-finance,pendle.finance,"pendle.finance,pendle",,arkham,2026-05-26,false,afa655563ff7005f63459d3673ae9df00dd454d7c9a0657d18504d230d094f5b
@@ -1518,7 +1518,7 @@ Coinhako.com,exchange,88.1,10,85,5,ETH,scorechain-counterparties,coinhako-com,co
 deBridge,bridge,88.1,10,85,15,BSC|ETH|TRON,scorechain-counterparties,debridge,app.debridge.com,debridge,,arkham,2026-05-26,false,1dccbf70b8adaa9498106f42d2f538be9b7dd59c88a7066846486c343cbe5e27
 Dodoex.io,dex,88.1,10,85,10,BSC|ETH,scorechain-counterparties,dodoex-io,dodoex.io,"dodoex.io,dodoex",,manual,2026-05-27,false,7b780ef9c94b2101e29ac78e2bff3f6ab1a25a723f1c315a296960dc15896b3c
 Fastex.com,exchange,88.1,10,85,5,BSC|ETH|TRON,scorechain-counterparties,fastex-com,fastex.com,"fastex,fastex.com",,arkham,2026-05-26,false,3dece77b968d55b5a4678490cd51145f6588731641944abfe0ee1a3ef5c27620
-Letsbit.io,exchange,88.1,10,85,5,BSC|ETH|TRON,scorechain-counterparties,letsbit-io,letsbit.io,"letsbit.io,letsbit io,letsbit-io",,manual,2026-07-15,true,1068e9accf06a426a1c46f51320e37763a5dbf20d3a9d8608dd0b60fea26ed7b
+Letsbit.io,exchange,88.1,10,85,5,BSC|ETH|TRON,scorechain-counterparties,letsbit-io,letsbit.io,"letsbit.io,letsbit io,letsbit-io,letsbit",,manual,2026-07-15,true,1068e9accf06a426a1c46f51320e37763a5dbf20d3a9d8608dd0b60fea26ed7b
 Mercadobitcoin.com.br,exchange,88.1,10,85,5,BSC|ETH|TRON,scorechain-counterparties,mercadobitcoin-com-br,mercadobitcoin.com.br,"mercadobitcoin.com.br,mercadobitcoin com br,mercadobitcoin-com-br",,manual,2026-07-15,true,32b044483367221a4221d9daf3a9c31e97b71c1f668a2b0904613b648731d8c2
 Monica.cash,exchange,88.1,10,85,5,BSC|ETH|TRON,scorechain-counterparties,monica-cash,monica.cash,"monica.cash,monica cash,monica-cash",,manual,2026-07-15,true,4037d6844b95cfbad0513403d223d8ad07367f054dda9e67fc8dc4458c995d2e
 OpenOcean,dex,88.1,10,85,10,BSC|ETH,defillama-protocols|scorechain-counterparties,openocean,openocean.finance,openocean,,arkham,2026-05-26,false,050d754825c8b3cd40beb15d540e857c63456e9b1e285dcc0d4b6e86b43740fe
@@ -1534,7 +1534,7 @@ Bridgers.xyz,bridge,87.5,9,85,15,BSC|ETH|TRON,scorechain-counterparties,bridgers
 Bungee Exchange,dex,87.5,9,85,10,BSC|ETH,scorechain-counterparties,bungee-exchange,bungee.exchange,"bungee exchange,bungee-exchange,bungee",,manual,2026-05-13,true,6a7f94513fe57a29d364ab6864e7b60cd73b0aeecdbd84044c04de5deafa7897
 Bydfi.com - Bityard.com,exchange,87.5,9,85,5,BSC|ETH|TRON,scorechain-counterparties,bydfi-com-bityard-com,bydfi.com,"bydfi.com - bityard.com,bydfi com bityard com,bydfi-com-bityard-com",,manual,2026-07-15,true,d9617331ca90b238023feec56a25e5e078e95dcf21ec3d8a504fe07a6747d16a
 Cashinout bot,bot,87.5,9,85,20,TRON,scorechain-counterparties,cashinout-bot,,cashinout,,manual,2026-04-29,true,53bd3b0961422a861d47aa1971def78b6f8f04a3cf29c57142d0faf95ea382c5
-Coincola.com,exchange,87.5,9,85,5,ETH|TRON,scorechain-counterparties,coincola-com,coincola.com,"coincola.com,coincola com,coincola-com",,manual,2026-07-15,true,afe2fa2e4cda3e127434d4a07fc7a8fb25b039bff9151a79f4018f5d692f1c6e
+Coincola.com,exchange,87.5,9,85,5,ETH|TRON,scorechain-counterparties,coincola-com,coincola.com,"coincola.com,coincola com,coincola-com,coincola",,manual,2026-07-15,true,afe2fa2e4cda3e127434d4a07fc7a8fb25b039bff9151a79f4018f5d692f1c6e
 Coindcx.com,exchange,87.5,9,85,5,BSC|ETH|TRON,scorechain-counterparties,coindcx-com,coindcx.com,coindcx,,arkham,2026-05-26,false,ab86d8869e8cfadd6afb5f6acf47386665de7d8db56026600e432e79ca54fa5c
 Curve LlamaLend,defi,87.5,125,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,curve-llamalend,,"curve llamalend,curve-llamalend",,favicon,2026-06-02,false,9010102071eba3bc0e83620cfb27900fa229dcf2117027f253b3525869b5399c
 Digifinex.com,exchange,87.5,9,85,5,BSC|ETH|TRON,scorechain-counterparties,digifinex-com,digifinex.com,"digifinex,digifinex.com",,arkham,2026-05-26,false,3926035209043509a3e7754e2a101acc63bde08d1ae76c98c7dc7eb9b1cd7d4f
@@ -1576,7 +1576,7 @@ Bololex.com,exchange,86.0,7,85,5,BSC|ETH|TRON,scorechain-counterparties,bololex-
 Butter Network,dex,86.0,7,85,10,BSC|ETH|TRON,scorechain-counterparties,butter-network,butterswap.io,butter,,arkham,2026-05-26,false,7638fef963298a0fa4199870bb6397e48fcca13d54fed4e9c461fee8dbb8de4c
 chainflip.io,bridge,86.0,7,85,15,ETH,scorechain-counterparties,chainflip-io,chainflip.io,"chainflip.io,chainflip",,arkham,2026-05-26,false,8e74a36963bcab25c119db9e35f916a2f80b22fe26b2804e1fecc835fff837e8
 FalconX.io,otc_desk,86.0,7,85,10,ETH,scorechain-counterparties,falconx-io,falconx.io,"falconx.io,falconx",,arkham,2026-07-15,true,35894ecd557916a87ecbc815684f02973c8f7498d22607a575e6b6dec12c35c3
-Icrypex.com,exchange,86.0,7,85,5,ETH|TRON,scorechain-counterparties,icrypex-com,icrypex.com,"icrypex.com,icrypex com,icrypex-com",,manual,2026-07-15,true,d0f528f96fef448eafc62eca23ef63a2b77d68bd229a79121c85e6e0872c3b0b
+Icrypex.com,exchange,86.0,7,85,5,ETH|TRON,scorechain-counterparties,icrypex-com,icrypex.com,"icrypex.com,icrypex com,icrypex-com,icrypex",,manual,2026-07-15,true,d0f528f96fef448eafc62eca23ef63a2b77d68bd229a79121c85e6e0872c3b0b
 Newton.co,exchange,86.0,7,85,5,ETH,scorechain-counterparties,newton-co,newton.co,"newton,newton.co",,arkham,2026-05-26,false,7d95484496d9d5d91a0bcd9904af8fed621300c7f4ea0d042ba88a1cc84500b7
 OSL.com,exchange,86.0,7,85,5,ETH|TRON,scorechain-counterparties,osl-com,osl.com,osl,,arkham,2026-05-26,false,ac3d38d38c656c578f28353ad57e4435bff10011c2499f924d042f0c1288e86e
 Pokepay,psp,86.0,7,85,15,BSC|ETH|TRON,scorechain-counterparties,pokepay,,pokepay,,arkham,2026-05-26,false,345524ff3b15c6d2aa33d8b5f67f34ba8bdd8d2e3e5a4bb08447830e08f9dee5
@@ -1625,7 +1625,7 @@ Upbit.com,exchange,84.8,113,75,5,ETH|TRON,scorechain-counterparties,upbit-com,up
 Aifory Pro,exchange,84.2,5,85,5,ETH|TRON,scorechain-counterparties,aifory-pro,,"aifory,aifory pro",,manual,2026-04-23,true,e4348bd585065902b3a6fe3a2f874fccf3ecb3e934618b2b9f1e50514f491d38
 Binance Wallet,wallet,84.2,5,85,5,BSC|ETH|TRON,scorechain-counterparties,binance-wallet,,binance wallet,,arkham,2026-05-26,false,a0e24a935c02ce7c68cbb2dd8fce26c662b224dcbbcba0d6d70583994608d1d0
 Bitbank.cc,exchange,84.2,5,85,5,ETH,scorechain-counterparties,bitbank-cc,bitbank.cc,bitbank,,arkham,2026-05-26,false,47eba35658beba147d528647b78e3492590b0c25478e8e4d5fa0713d0597c358
-Bitexen.com,exchange,84.2,5,85,5,BSC|ETH|TRON,scorechain-counterparties,bitexen-com,bitexen.com,"bitexen.com,bitexen com,bitexen-com",,manual,2026-07-15,true,ac4422b874d880e7c414c074fb3448514f1d5882314b20d263444744dc14a00f
+Bitexen.com,exchange,84.2,5,85,5,BSC|ETH|TRON,scorechain-counterparties,bitexen-com,bitexen.com,"bitexen.com,bitexen com,bitexen-com,bitexen",,manual,2026-07-15,true,ac4422b874d880e7c414c074fb3448514f1d5882314b20d263444744dc14a00f
 Bullish.com,exchange,84.2,5,85,5,ETH,scorechain-counterparties,bullish-com,bullish.com,"bullish,bullish.com",,arkham,2026-05-26,false,4a8171f7278dba9f657ed1186e91060f4efd7a8c37013d2ef39f4474053a5c97
 Coinjar.com,exchange,84.2,5,85,5,ETH,scorechain-counterparties,coinjar-com,coinjar.com,"coinjar,coinjar.com",,arkham,2026-05-26,false,6098b7c539ccbde2428e962c5027765693b2725028e59e7abd6dd0df7bf58b6b
 Coinsbit.io,exchange,84.2,5,85,5,BSC|ETH|TRON,scorechain-counterparties,coinsbit-io,coinsbit.io,"coinsbit,coinsbit.io",,arkham,2026-05-26,false,9211b63c8b7c9386dd63c23d808f4e49a4b8bb4f91589bcd9353e426eaabd3fa
@@ -1633,7 +1633,7 @@ Connext.network - Everclear.org,bridge,84.2,5,85,15,BSC|ETH,scorechain-counterpa
 Crypto Exchanger Bot,bot,84.2,5,85,20,TRON,scorechain-counterparties,crypto-exchanger-bot,,"crypto exchanger bot,crypto-exchanger-bot",,arkham,2026-05-26,false,22f84bf7f8661ca436adf143eebc8483f9f1609c97148e881056039b0d2fb5a3
 DePay.com,psp,84.2,5,85,15,BSC|ETH|TRON,scorechain-counterparties,depay-com,depay.com,"depay,depay.com",,arkham,2026-05-26,false,af03a373a7c22ae3845ebe2943ab4debf98ba0468b710be91ec2cc1b55e452b3
 Deribit.com,exchange,84.2,5,85,5,ETH,scorechain-counterparties,deribit-com,deribit.com,deribit,,arkham,2026-05-26,false,41f253044b1e015cca415840ffd2414a4dc19bfe144d991d8699648a58b9e98c
-Dtcpay.com,psp,84.2,5,85,5,BSC|ETH|TRON,scorechain-counterparties,dtcpay-com,dtcpay.com,"dtcpay.com,dtcpay com,dtcpay-com",,manual,2026-07-15,true,8623a9dbeaeaa9710ff757fb084a30f2eb0a26eb7adae50cfffb5b842032ecd4
+Dtcpay.com,psp,84.2,5,85,5,BSC|ETH|TRON,scorechain-counterparties,dtcpay-com,dtcpay.com,"dtcpay.com,dtcpay com,dtcpay-com,dtcpay",,manual,2026-07-15,true,8623a9dbeaeaa9710ff757fb084a30f2eb0a26eb7adae50cfffb5b842032ecd4
 Elliptic,mixer,84.2,5,85,95,TRON,elliptic-verdicts,elliptic,,elliptic,,manual,2026-05-13,true,f93795bd54bf86f439c126f4162596cc97b45572c4db5c6d7616a6670a65ff0d
 Ether.fi,defi,84.2,5,85,10,ETH,scorechain-counterparties,ether-fi,ether.fi,"ether.fi,ether",,arkham,2026-05-26,false,b98ebb24c0a6bf880bcfda761dde819086e1dbd4c5f52d303200073910e9435d
 FameMarkets,exchange,84.2,5,85,5,TRON,scorechain-counterparties,famemarkets,,,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
@@ -1669,7 +1669,7 @@ BarnBridge DAO,dex,83.0,4,85,10,BSC|ETH,scorechain-counterparties,barnbridge-dao
 Bebop.xyz,dex,83.0,4,85,10,BSC|ETH,scorechain-counterparties,bebop-xyz,bebop.xyz,"bebop.xyz,bebop",,favicon,2026-05-26,false,6c619c12ac467837932534369c5c1363c0e99712e84ef7ed4b0c8605885a2de3
 Bitoasis.net,exchange,83.0,4,85,5,ETH|TRON,scorechain-counterparties,bitoasis-net,bitoasis.net,"bitoasis,bitoasis.net",,arkham,2026-05-26,false,1db2b02f7eb08bca50faf209b234569374cff25eb0523caa93273cba0f156f15
 BrasilBitcoin.com.br,exchange,83.0,4,85,5,ETH|TRON,scorechain-counterparties,brasilbitcoin-com-br,brasilbitcoin.com.br,"brasilbitcoin,brasilbitcoin com br,brasilbitcoin.com.br",,manual,2026-05-13,true,9937e8ab4b0229a108594df9504b947c83588d508ac34788f7f5b246c564c10f
-Btcmarkets.net,exchange,83.0,4,85,5,ETH,scorechain-counterparties,btcmarkets-net,btcmarkets.net,"btcmarkets.net,btcmarkets net,btcmarkets-net",,manual,2026-07-15,true,a840408110afb48ff4b9ce72af3406c5c2687e0837f085c01356ea4551a4ac05
+Btcmarkets.net,exchange,83.0,4,85,5,ETH,scorechain-counterparties,btcmarkets-net,btcmarkets.net,"btcmarkets.net,btcmarkets net,btcmarkets-net,btcmarkets",,manual,2026-07-15,true,a840408110afb48ff4b9ce72af3406c5c2687e0837f085c01356ea4551a4ac05
 Buenbit.com,exchange,83.0,4,85,5,BSC|ETH,scorechain-counterparties,buenbit-com,buenbit.com,"buenbit,buenbit.com",,arkham,2026-05-26,false,7d0b301ca65f53f6d547ae72d91da537931ab271d915613f95b6aa5d3a2d6703
 Byex.com,exchange,83.0,4,85,5,BSC|TRON,scorechain-counterparties,byex-com,byex.com,"byex,byex.com",,arkham,2026-05-26,false,ce8c8fedfd5f5f29aa2bf4e3525ccf9f7a2968a9b03bfb1c316b8b610bc5e9a7
 CoW Swap - CoW Protocol,bridge,83.0,4,85,15,BSC|ETH,scorechain-counterparties,cow-swap-cow-protocol,,"cow,cow-swap-cow",,manual,2026-05-13,true,a72dde90daad99d8b3fcaa816e9bc0911bed8ae35676e08c9e64989499153c79
@@ -1695,7 +1695,7 @@ Maker DAO,dex,83.0,4,85,10,ETH,scorechain-counterparties,maker-dao,,maker,,manua
 Multichain,defi,83.0,4,85,10,BSC|ETH,scorechain-counterparties,multichain,multichain.org,multichain,,arkham,2026-05-26,false,cdf48c197b1a459a3e8ea8c543027e98671e4e476c9ade77c7133e5118367ee0
 No.com,psp,83.0,4,85,15,TRON,scorechain-counterparties,no-com,no.com,no.com,,manual,2026-06-16,false,9fb35e9559f87cf64dff6bb3644b44224e5ad5621b13e748c3cad10fb5c1ccf3
 O3swap,bridge,83.0,4,85,15,BSC|ETH,scorechain-counterparties,o3swap,,o3swap,,arkham,2026-05-26,false,43fb92d9eb81bd6e5dc5f8ffb8217edbc873bfe83ac83d8772429fbbf0fbe7d7
-otc-u.com,exchange,83.0,4,85,5,ETH|TRON,scorechain-counterparties,otc-u-com,otc-u.com,"otc-u.com,otc u com,otc-u-com",,manual,2026-07-15,true,05804d10bf9b9e6cfacfb131b3f67922b2e06f619857d470a574ca550dbeae65
+otc-u.com,exchange,83.0,4,85,5,ETH|TRON,scorechain-counterparties,otc-u-com,otc-u.com,"otc-u.com,otc u com,otc-u-com,otc-u",,manual,2026-07-15,true,05804d10bf9b9e6cfacfb131b3f67922b2e06f619857d470a574ca550dbeae65
 polyhedra.network,dex,83.0,4,85,10,BSC,scorechain-counterparties,polyhedra-network,polyhedra.network,"polyhedra.network,polyhedra,polyhedra-network",,arkham,2026-05-26,false,536613d1fe08505d216beb33fa2ad2bc9ea27cc08e920d1ec9c123f2e550b88c
 QMall.io,exchange,83.0,4,85,5,BSC|ETH|TRON,scorechain-counterparties,qmall-io,qmall.io,"qmall,qmall.io",,arkham,2026-05-26,false,55db4e0d5d5fbf3ef5ff2f12a761020a125083ee9a5ab1af37cae4b9c40a16ae
 Relayer Network,dex,83.0,4,85,10,BSC|ETH,scorechain-counterparties,relayer-network,,relayer,,arkham,2026-05-26,false,2778fe6151340c40cdfbc8b617243fc56b2be89f2c56cb04135c6dd318fb3a1c
@@ -1756,7 +1756,7 @@ Master Ventures,defi,81.5,3,85,10,BSC|ETH,scorechain-counterparties,master-ventu
 Meson.fi,dex,81.5,3,85,10,BSC|ETH|TRON,scorechain-counterparties,meson-fi,meson.fi,"meson.fi,meson",,arkham,2026-05-26,false,3a16d29fa609b38a80d727b57228a71eeb86270023a61cf5db06c73ee5f6e12a
 MGBX,exchange,81.5,3,85,5,TRON,scorechain-counterparties,mgbx,,"mgbx,mgbx.com,megabit",,manual,2026-07-15,false,b2270032c669d5feae9e87de5db6d8d9cf86498f821d8d5819a1293a23b3ae05
 mimic.fi,dex,81.5,3,85,10,BSC|ETH,scorechain-counterparties,mimic-fi,mimic.fi,"mimic.fi,mimic",,arkham,2026-05-26,false,9517fa2cf9ba8a44365622523a3e6c5c2b4e1079a3f2883e13bf01d14838317c
-Mobee.io,exchange,81.5,3,85,5,BSC|TRON,scorechain-counterparties,mobee-io,mobee.io,"mobee.io,mobee io,mobee-io",,manual,2026-07-15,true,3fb59b53789236d2200c54876dad2d658c1457aaa4cc9f755c930640e4b9216d
+Mobee.io,exchange,81.5,3,85,5,BSC|TRON,scorechain-counterparties,mobee-io,mobee.io,"mobee.io,mobee io,mobee-io,mobee",,manual,2026-07-15,true,3fb59b53789236d2200c54876dad2d658c1457aaa4cc9f755c930640e4b9216d
 multiple DEXs,exchange,81.5,3,85,5,BSC|ETH,scorechain-counterparties,multiple-dexs,,multiple dexs,,arkham,2026-05-26,false,f3fc63329ac289a853e4a77b7221a2b627154195a0c0160f5fbce05fce4c4781
 NEAR Intents,dex,81.5,3,85,10,BSC|ETH|TRON,scorechain-counterparties,near-intents,app.near-intents.org,"near intents,near-intents",,arkham,2026-05-26,false,44448b0e75597b2c7f123858f07dfeef37d3a62b03ae9d158af01d8c172786d7
 NovaDAX.com.br,exchange,81.5,3,85,5,BSC|ETH|TRON,scorechain-counterparties,novadax-com-br,novadax.com.br,"novadax,novadax com br,novadax.com.br",,arkham,2026-05-26,false,2b522e701eb106c032889601a32a50cdc14e2301a60dcd18328135ef777e143b
@@ -1777,7 +1777,6 @@ safex.hk,exchange,81.5,3,85,5,TRON,scorechain-counterparties,safex-hk,safex.hk,"
 Shibaswap.com,dex,81.5,3,85,10,ETH,scorechain-counterparties,shibaswap-com,shibaswap.com,"shibaswap.com,shibaswap",,arkham,2026-05-26,false,f7823e6401c555d86291605596d5ed76fab7cb6cf5e0605d41ca5753631f5dcc
 Squid,dex,81.5,3,85,10,BSC|ETH,scorechain-counterparties,squid,,squid,,defillama,2026-05-26,false,a1677cae3664ffeaab3075a5d14aa738d88220f92dab122b062b821b67301f81
 Syrup.fi,defi,81.5,3,85,10,ETH,scorechain-counterparties,syrup-fi,syrup.fi,"syrup.fi,syrup",,arkham,2026-05-26,false,19a7fd9d7c574c56976f3569bfc91088b4b9f60b7c91fdeb8167f01af8508f92
-Vitalik Buterin,wallet,81.5,3,85,5,ETH,scorechain-counterparties,vitalik-buterin,,vitalik buterin,,arkham,2026-05-26,false,87244bd4e52eb0993ce2d6a3f40832cbf0bfeda5d5076e32f2d50596e72b1509
 Wault Finance,dex,81.5,3,85,10,BSC,scorechain-counterparties,wault-finance,,wault,,arkham,2026-05-26,false,29930d4747b84fce5c19ae04f7e78b3f68b3908645879466849aa9aa5bca4fcb
 WazirX.com,exchange,81.5,3,85,5,ETH|TRON,scorechain-counterparties,wazirx-com,wazirx.com,"wazirx,wazirx.com",,arkham,2026-05-26,false,f0a4c1172f2e28358b8adb41b35003cb15c87908238d19d578506bc8d4ae863a
 Xeggex.com,exchange,81.5,3,85,5,BSC|TRON,scorechain-counterparties,xeggex-com,xeggex.com,"xeggex,xeggex.com",,arkham,2026-05-26,false,ba9aaa604d7db003d20c34ea56eea85d9e5e3b2577f5ec332e22c32dd1081a42
@@ -1817,7 +1816,7 @@ Bit Trade - Btrade.io - BTradeAustralia.com,exchange,79.7,2,85,5,BSC|ETH,scorech
 Bit.com,exchange,79.7,2,85,5,TRON,scorechain-counterparties,bit-com,bit.com,bit.com,,arkham,2026-05-26,false,76693c01c03ea7ca36611f79f834de9bba2c5a21dad71f25040bf5b127847b49
 Bit2Me.com,exchange,79.7,2,85,5,BSC|ETH,scorechain-counterparties,bit2me-com,bit2me.com,"bit2me,bit2me.com",,arkham,2026-05-26,false,85658295b6e7aac8ef0d942a57113aa752bd394e09f4d89c3c202d1e486909a8
 BitBase.es,exchange,79.7,2,85,5,BSC|ETH,scorechain-counterparties,bitbase-es,bitbase.es,"bitbase,bitbase es,bitbase.es",,arkham,2026-05-26,false,891d3f87cbe69f536a49a30239be39dd4febff6eda92fb91a6ea3ae2e3f02e97
-Bitcoinsuisse.com,exchange,79.7,2,85,5,ETH,scorechain-counterparties,bitcoinsuisse-com,bitcoinsuisse.com,"bitcoinsuisse.com,bitcoinsuisse com,bitcoinsuisse-com",,manual,2026-07-15,true,d1ea56fdc6f9f9ba83ff7cbd14a94c8a0844e5a179da9d12309e7916acc168aa
+Bitcoinsuisse.com,exchange,79.7,2,85,5,ETH,scorechain-counterparties,bitcoinsuisse-com,bitcoinsuisse.com,"bitcoinsuisse.com,bitcoinsuisse com,bitcoinsuisse-com,bitcoinsuisse",,manual,2026-07-15,true,d1ea56fdc6f9f9ba83ff7cbd14a94c8a0844e5a179da9d12309e7916acc168aa
 Bitforex.com,exchange,79.7,2,85,5,BSC|TRON,scorechain-counterparties,bitforex-com,bitforex.com,"bitforex,bitforex.com",,arkham,2026-05-26,false,50b38e080a0e20fe9d23368071ea720472e84c9145585a05f1075410f6028ead
 Bitlo.com,exchange,79.7,2,85,5,BSC|ETH,scorechain-counterparties,bitlo-com,bitlo.com,"bitlo,bitlo.com",,arkham,2026-05-26,false,363c55d9d741c90159eb2db54d363d7f04bedfb558951ad884a6ed62bc690e0b
 Bitnet,exchange,79.7,2,85,5,BSC|ETH,scorechain-counterparties,bitnet,,bitnet,,arkham,2026-05-26,false,4ea35adb6dd76aa10f963cc1cf0e7b87a26369f39779cdcdbdbe61fd73c4dd50
@@ -1833,7 +1832,7 @@ Buda.com,exchange,79.7,2,85,5,ETH,scorechain-counterparties,buda-com,buda.com,"b
 Bullperks.com,dex,79.7,2,85,10,BSC|ETH,scorechain-counterparties,bullperks-com,bullperks.com,"bullperks.com,bullperks",,arkham,2026-05-26,false,35c6cc1763ef8631940f4659ba3c60c5bb3d0f510ba731439b9a6bb0351dd9b6
 Bunicorn,dex,79.7,2,85,10,BSC,defillama-protocols|scorechain-counterparties,bunicorn,,bunicorn,,arkham,2026-05-26,false,1fbb0b63c89ea887416e69e41eb4850402f18c36cc87c4a6575c7263122d561f
 BurgerSwap,dex,79.7,2,85,10,BSC,defillama-protocols|scorechain-counterparties,burgerswap,,"burgerswap,burger-swap",,arkham,2026-05-26,false,9b0eb46677c5b55447249043a71578cf6e38739c160eaf5863dbe5c666233a3c
-Bynex.io,exchange,79.7,2,85,5,BSC|TRON,scorechain-counterparties,bynex-io,bynex.io,"bynex.io,bynex io,bynex-io",,manual,2026-07-15,true,37f492e693b4cf43869b0e4d9b9e3d568a0a5a6abb273d1f84cdfe8d60743659
+Bynex.io,exchange,79.7,2,85,5,BSC|TRON,scorechain-counterparties,bynex-io,bynex.io,"bynex.io,bynex io,bynex-io,bynex",,manual,2026-07-15,true,37f492e693b4cf43869b0e4d9b9e3d568a0a5a6abb273d1f84cdfe8d60743659
 bZx,dex,79.7,2,85,10,BSC|ETH,scorechain-counterparties,bzx,,bzx,,arkham,2026-05-26,false,8dec2c5f23fc95e1bdbf93f4bb3fd88cb337b74524d5c0a8b805673420b1a8d5
 C-PATEX.com,exchange,79.7,2,85,5,ETH|TRON,scorechain-counterparties,c-patex-com,c-patex.com,"c-patex,c-patex.com",,arkham,2026-05-26,false,6ac7ecfde0a0483a793fdb0fae70123ce13de2fff2d7af82be97d71d1a9b1719
 CafeSwap,dex,79.7,2,85,10,BSC,defillama-protocols|scorechain-counterparties,cafeswap,,"cafeswap,cafeswap-token",,arkham,2026-05-26,false,733dce2e5f338e8f10fad9009f6acdabb7099116145db0865733718a4a94815f
@@ -1872,7 +1871,7 @@ Flux Protocol,defi,79.7,2,85,10,BSC,defillama-protocols|scorechain-counterpartie
 FMCPAY,exchange,79.7,2,85,5,TRON,scorechain-counterparties,fmcpay,,fmcpay,,arkham,2026-05-26,false,3b54ddbb93e28922ca80f7fdd60a554897370bcc5a453086addf5223ff42d15a
 Four.Meme,dex,79.7,2,85,10,BSC,scorechain-counterparties,four-meme,four.meme,"four.meme,four-meme,four meme",,arkham,2026-05-26,false,0dfba351ce8f48aa74870fe2583304004948839c4224fc3602e47dbf99c702ae
 Frankencoin,defi,79.7,2,85,10,ETH,defillama-protocols|scorechain-counterparties,frankencoin,frankencoin.com,frankencoin,,arkham,2026-05-26,false,c22ff7906ece31e85832938a4c1b3106c3f2199fde2a5d1cacbae1c7a8d6291b
-Free2ex.com,exchange,79.7,2,85,5,ETH|TRON,scorechain-counterparties,free2ex-com,free2ex.com,"free2ex.com,free2ex com,free2ex-com",,manual,2026-07-15,true,a3e760a551851386b3fd4fe79afd4313382432d141c274698f2b7e60838b29cb
+Free2ex.com,exchange,79.7,2,85,5,ETH|TRON,scorechain-counterparties,free2ex-com,free2ex.com,"free2ex.com,free2ex com,free2ex-com,free2ex",,manual,2026-07-15,true,a3e760a551851386b3fd4fe79afd4313382432d141c274698f2b7e60838b29cb
 Freekassa.ru,psp,79.7,2,85,5,BSC|TRON,scorechain-counterparties,freekassa-ru,freekassa.ru,"freekassa,freekassa.ru",,manual,2026-07-14,true,a9a12d92e7eb7670f4dceb7a20b4e8995929a0bb10a86bb2791a525d2583c444
 Freewallet.org,wallet,79.7,2,85,5,ETH,scorechain-counterparties,freewallet-org,freewallet.org,"freewallet,freewallet.org",,arkham,2026-05-26,false,1ea86423f0ae504bdc5cb511cad44f8608c6ee4798281c35a9fd5f759c368087
 Fstswap,dex,79.7,2,85,10,BSC,scorechain-counterparties,fstswap,,fstswap,,arkham,2026-05-26,false,4750dd8ca66334ff0382701acaabd47030c71e4e753d3058a8dc07cf665fa283
@@ -1918,7 +1917,7 @@ Ring.exchange,dex,79.7,2,85,10,ETH,scorechain-counterparties,ring-exchange,ring.
 Rings Protocol,dex,79.7,2,85,10,ETH,scorechain-counterparties,rings-protocol,,rings,,arkham,2026-05-26,false,d83c061e9235ce541699a4c580f534eb3b45a67d432f83f2e373e0a147ffe9cf
 Ripio.com,exchange,79.7,2,85,5,BSC|ETH,scorechain-counterparties,ripio-com,ripio.com,"ripio,ripio.com",,arkham,2026-05-26,false,a5bd29aef296f1bbafa89d64b87100d9e114eeb66ec8c273c73db5e006e303c9
 Roboforex,exchange,79.7,2,85,5,BSC|ETH,scorechain-counterparties,roboforex,,roboforex,,arkham,2026-05-26,false,34782678ee451fc3564aa889cc5219ae78f1d4a11fd9679f936a20cc01f1ec4c
-Sarrafex.com,exchange,79.7,2,85,5,BSC|ETH,scorechain-counterparties,sarrafex-com,sarrafex.com,"sarrafex.com,sarrafex com,sarrafex-com",,manual,2026-07-15,true,3d0994bd39cff8e88f66013788786b580a44f04b05915718106e97c6804e4fc1
+Sarrafex.com,exchange,79.7,2,85,5,BSC|ETH,scorechain-counterparties,sarrafex-com,sarrafex.com,"sarrafex.com,sarrafex com,sarrafex-com,sarrafex",,manual,2026-07-15,true,3d0994bd39cff8e88f66013788786b580a44f04b05915718106e97c6804e4fc1
 Satoshi Tango,exchange,79.7,2,85,5,BSC|TRON,scorechain-counterparties,satoshi-tango,,satoshi tango,,arkham,2026-05-26,false,16b19ecd6861287afa6393f4c37a5f482f3685482a8f3a64d51440e6086e10b1
 Scarlettcasino,gambling,79.7,2,85,50,BSC|ETH,scorechain-counterparties,scarlettcasino,,,,placeholder,2026-04-22,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 SidusHeroes,dex,79.7,2,85,10,ETH,scorechain-counterparties,sidusheroes,,sidusheroes,,arkham,2026-05-26,false,90b72d9922efde968feff0b999b4327f01af36eaecc62e58203b1c373dacc0a1
@@ -1938,7 +1937,7 @@ Ulianex.com,exchange,79.7,2,85,5,BSC|TRON,scorechain-counterparties,ulianex-com,
 UltraYield,defi,79.7,2,85,10,ETH,scorechain-counterparties,ultrayield,,ultrayield,,defillama,2026-05-26,false,db4e225b99f6f8663b4960c4e9140fcd10ec8206f9ac5669c26a34e8a1055eee
 Umbria.network,bridge,79.7,2,85,15,BSC|ETH,scorechain-counterparties,umbria-network,umbria.network,"umbria.network,umbria,umbra-network",,arkham,2026-05-26,false,6ef1a9154139236e723a995478197c2559961ae6f5686f60f6d275f53a5889d3
 UwU Lend,defi,79.7,2,85,10,ETH,defillama-protocols|scorechain-counterparties,uwu-lend,uwulend.fi,"uwu lend,uwu-lend",,arkham,2026-05-26,false,43feee1f4d9a65d5aa5f398d0e128362a2f25088a00f1308f4cd965f4ae5dd8b
-uzx.com,exchange,79.7,2,85,5,BSC|ETH,scorechain-counterparties,uzx-com,uzx.com,"uzx.com,uzx com,uzx-com",,manual,2026-07-15,true,8a8fca63c82190feb5a6752f28f8e09df49fbf49a3f2418f29db98859fdf6965
+uzx.com,exchange,79.7,2,85,5,BSC|ETH,scorechain-counterparties,uzx-com,uzx.com,"uzx.com,uzx com,uzx-com,uzx",,manual,2026-07-15,true,8a8fca63c82190feb5a6752f28f8e09df49fbf49a3f2418f29db98859fdf6965
 Value Liquid,dex,79.7,2,85,10,ETH,defillama-protocols|scorechain-counterparties,value-liquid,,"value liquid,value-liquid,value-liquidity",,defillama,2026-05-26,false,a7692533debc6cf8fe5be4c27ac910f2014730db80f2ab2db286192a12898d64
 Waves.tech,dex,79.7,2,85,10,BSC|ETH,scorechain-counterparties,waves-tech,waves.tech,"waves tech,waves.tech,waves-tech",,arkham,2026-05-26,false,212e92e8e5601c696820656511a61003569409ea549a84c7eee1d5b611e4358c
 Wealthsimple.com,exchange,79.7,2,85,5,ETH,scorechain-counterparties,wealthsimple-com,wealthsimple.com,"wealthsimple,wealthsimple.com",,arkham,2026-05-26,false,b368aae7e940a5c0f3ddac443367765d4db0fdcd0846a51e01cf64be965acee5
@@ -2295,7 +2294,7 @@ QuantaEx,exchange,30,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE,man
 Ren Protocol,defi,60,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE,manual-admin,ren-protocol,renproject.io,"ren,ren protocol,ren bridge",ren renvm,deprecated,2026-07-09,true,b1ca9a30db5c788a64d18db043731f22e4fcda7f94b5b78fc4fd5dba30bd8c33
 Resfinex,exchange,30,1,75,5,ETH|BSC|ARBITRUM|AVALANCHE|BASE|OPTIMISM|POLYGON,manual-admin,resfinex,resfinex.com,resfinex,,manual,2026-07-09,true,69ccb3dd6c21045a6c01c72aaa9e6af0e640cc6910267c5471661362292261f6
 ShapeShift,dex,70,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE,manual-admin,shapeshift,shapeshift.com,shapeshift,,manual,2026-07-09,true,66250de9e3d313c895d60870162ddc733d0b5f609c19811a5b2449be38bd08c6
-Shitcoins.Club,exchange,50,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE|TRON,manual-admin,shitcoins-club,shitcoins.club,shitcoins club atm crypto,shitcoins,manual,2026-07-15,true,7597ca4e72c29d8f29afae7b152112033cc2832f723fb99b337e4765582345a6
+Shitcoins.Club,exchange,50,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE|TRON,manual-admin,shitcoins-club,shitcoins.club,"shitcoins club,shitcoins.club,shitcoins",,manual,2026-07-15,true,7597ca4e72c29d8f29afae7b152112033cc2832f723fb99b337e4765582345a6
 Sky (MakerDAO),defi,80,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE,manual-admin,sky-makerdao,sky.money,"sky (makerdao),makerdao,sky.money",,manual,2026-07-09,true,3532ff6d6c2c00aa080146e0543158d61590add990866f141db7d6e2a295d2d1
 Smart Valor,exchange,50,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE,manual-admin,smart-valor,smartvalor.com,smart valor,,manual,2026-07-09,true,814e893b95f6810bf509d8ad5557a0364cfee8fd3555e240bb6521cfb9870844
 SouthXchange,exchange,40,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE|TRON,manual-admin,southxchange,southxchange.com,southxchange,,manual,2026-07-14,true,773222d2a7d24735a214d4fb3aeab87c74226336bfafc245d0400664f73a0183
@@ -2329,7 +2328,7 @@ Yolo.com (Coingaming),gambling,50,1,75,5,BTC|ETH|TRON,manual-admin,yolo-com-coin
 YUNBI,exchange,40,1,75,5,BTC|ETH,manual-admin,yunbi,yunbi.com,yunbi,,manual,2026-07-09,true,a1fbf5649dc2c4f1d462df9b5c81c1c37f6e82d205f9d0a1699a12614c08bc21
 ZBX (Zillion Bits),exchange,40,1,75,5,ETH|BTC,manual-admin,zbx-zillion-bits,zbx.com,"zbx (zillion bits),zillion bits,zbx.com",,manual,2026-07-09,true,1ff642f810a6f1aa60ad48b3345fe608904c965fd7a24cc630cbd341165a8d26
 Zethr Casino,gambling,30,1,75,5,ETH,manual-admin,zethr-casino,zethr.io,zethr casino,,manual,2026-07-09,true,b9285226035289a50d60641c228db3063339f4090a24549ffd417c7117d63be9
-Zethyr Exchange,dex,20,1,75,5,ETH,manual-admin,zethyr-exchange,zethyr.com,zethyr exchange eth,zethyr,manual,2026-07-15,true,332975591d04bd6080841a5097babe598e2a20e1a436de11c865d6a0b82f4dca
+Zethyr Exchange,dex,20,1,75,5,ETH,manual-admin,zethyr-exchange,zethyr.com,"zethyr exchange,zethyr.com,zethyr",,manual,2026-07-15,true,332975591d04bd6080841a5097babe598e2a20e1a436de11c865d6a0b82f4dca
 Zipmex,exchange,50,1,75,5,ETH|BTC|XRP,manual-admin,zipmex,zipmex.com,zipmex,,manual,2026-07-09,true,cd0a552e0997274440601d8aafbfb92c45f74734f59a241ede660dca4da16ca2
 Onion Market,exchange,60,3,75,50,TRON,manual-admin,onion-market,t.me/onionmarket_bot,"onion market,onionmarket",,manual,2026-07-09,true,dd939afeec0f17f38987c6178485884b78b93eac1e38c8385bde6581829e65b1
 Tether,psp,500,8412,90,5,ETH|TRON|BSC|POLYGON|AVALANCHE|ARBITRUM,manual-admin,tether,tether.to,"tether,tether.to,tetherusd","USDT,USDt",manual,2026-07-10,true,ee494110c05491d4b2d849941126c229e782501d9ca47585f7f1fde47b340763
@@ -2341,7 +2340,6 @@ ExWallet,custodian,60,,,,TRON,,exwallet-io,exwallet.io,"exwallet,exwallet.io",,m
 Sergei Mendeleev,wallet,80,,,,TRON,manual-admin,sergei-mendeleev,,"sergei mendeleev,mendeleev",,manual,2026-07-14,true,c38af433eab9c3dfa5a7e334fa5c33373470edc1e4f1a1e26b5a2ea155d36955
 Votium,defi,100,12,90,10,ETH|ARBITRUM|AVALANCHE|BASE|BSC|OPTIMISM|POLYGON,arkham|scorechain-counterparties,votium,votium.app,"votium,votium.app,multimerklestash",,manual,2026-07-14,true,c68291246966830c6ae39441025b467c354b9c359c63c1462cc5c0be2607194c
 Bitget Wallet (Prev. Bitkeep),custodian,100,,75,5,,manual-admin,bitget-wallet,,"bitget wallet,bitkeep",,manual,2026-07-14,true,e4593e21bf01d6bb31d5a1b514d146ed03439b3ebae8aaf6c00b3ab294c5a4e2
-Justin Sun,individual,100,,70,5,,manual-admin,justin-sun,,"justin sun,justinsuntron",,manual,2026-07-14,true,6335233312195a88fe99f6e432a1041a0432750163a60fdbb74de105f860389a
 EUR CoinVertible,defi,100,,80,5,,manual-admin,societe-generale-forge-eurcv,,"eur coinvertible,eurcv,societe generale forge",,manual,2026-07-14,true,526dcbee3d9afc29ad59ebcfca3b95b9e86e73ddf979d310b59d8e06118e47e8
 IDAX,exchange,100,,75,5,,manual-admin,idax,,idax,,manual,2026-07-14,true,97e6611cf1037b540865e966d94687a9c1a126fe1256fa6d7ef4d3cc72cb2603
 Hermetica USDh,stablecoin_issuer,65,0,0,10,,defillama-adapters,hermetica-usdh,,"hermetica usdh,hermetica-usdh",,defillama,2026-07-15,false,8a3fd0443b906e112fe4baded9a8266f88e872c9b548c6012fe252ddf3dec206
@@ -2528,9 +2526,9 @@ Verse DEX,dex,100,8,90,10,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,arkha
 3A Dao,psp,60,0,0,15,ETH,pharos-stablecoins,3a-dao,3adao.org,"3a dao,3adao,3adao.org,euro3","EURO3,A3A",none,2026-07-22,false,
 3Jane,psp,60,0,0,45,ETH,pharos-stablecoins,3jane,3jane.xyz,"3jane,3jane.xyz","USD3,sUSD3",manual,2026-07-22,true,1e4f92b0b1d8446d0d0a01ec408b461ce736c99deb8f1bac58ad2c17ba179bd4
 Agora,psp,70,0,0,10,ETH|SOL|BASE|POLYGON|AVALANCHE,pharos-stablecoins,agora,agora.finance,"agora,agora.finance",AUSD,manual,2026-07-22,true,8773befdf16a4954659106472ccdf43f39e3efcc37afa54338a603f7002f5d95
-Allunity,psp,70,1,0,10,ETH|POLYGON|ARBITRUM,pharos-stablecoins,allunity,allunity.com,"allunity,allunity.com,eurau,chfau,sekau","EURAU,CHFAU,SEKAU",manual,2026-07-22,true,923748f044abc937449cb744d86966dfd43bfa332e9ec63c3ce2dc9ee7645290
+Allunity,psp,70,1,0,10,ETH|POLYGON|ARBITRUM,pharos-stablecoins,allunity,allunity.com,"allunity,allunity.com,eurau,chfau,sekau",,manual,2026-07-22,true,923748f044abc937449cb744d86966dfd43bfa332e9ec63c3ce2dc9ee7645290
 Alpha Partner,psp,60,1,0,60,BSC,pharos-stablecoins,alpha-partner,alphapartner.vip,"alpha partner,alphapartner.vip,ap ucard,usda",USDA,none,2026-07-22,false,
-Alto,psp,60,1,0,25,ETH,pharos-stablecoins,alto,altofoundation.org,"alto,altofoundation.org,alto.money,dusd","DUSD,ALTO",manual,2026-07-22,true,8b5ae3bbe72c64e991094d1c46adef362115767178371f9a01b36844cf1feb75
+Alto,psp,60,1,0,25,ETH,pharos-stablecoins,alto,altofoundation.org,"alto,altofoundation.org,alto.money,dusd",,manual,2026-07-22,true,8b5ae3bbe72c64e991094d1c46adef362115767178371f9a01b36844cf1feb75
 Anchorx,psp,70,0,0,10,,pharos-stablecoins,anchorx,anchorx.org,"anchorx,anchorx.org",AXCNH,manual,2026-07-22,true,a377eb81967b0e9ce4e4f85dc505048b7cbc213e7ed5423d24863a1bf870842c
 Anemoy,psp,70,0,0,10,ETH,pharos-stablecoins,anemoy,anemoy.io,"anemoy,anemoy.io,janus henderson anemoy treasury fund",JTRSY,manual,2026-07-22,true,a817c92d053f403042481218912dc7aa97c6c54348115f0cd4d160f9eb04586a
 Anemoy Apollo,psp,65,0,0,20,ETH,pharos-stablecoins,anemoy-apollo,anemoy.io,"anemoy apollo,anemoy tokenized apollo diversified credit fund","ACRDX,deCRDX",manual,2026-07-22,true,a817c92d053f403042481218912dc7aa97c6c54348115f0cd4d160f9eb04586a
@@ -2541,8 +2539,8 @@ Asymmetry,psp,70,0,0,10,ETH,pharos-stablecoins,asymmetry,asymmetry.finance,"asym
 Aussie Dollar Token,psp,60,0,0,15,ETH|POLYGON,pharos-stablecoins,aussie-dollar-token,audxtoken.com,"aussie dollar token,audxtoken.com,tau pty ltd",AUDX,manual,2026-07-22,true,f404ac1c985586b14b3a465830ef11b713fda01917b29439f64edae0ad0b5044
 Auto Finance,psp,60,0,0,35,ETH,pharos-stablecoins,auto-finance,auto.finance,"auto finance,auto.finance,tokemak","AUTO,TOKE,autoUSD",manual,2026-07-22,true,6b79a1e53f3440811d9b52ab450a17458d4165b2858ca0bdb948cea17ae70aa6
 Avant Protocol,defi,60,0,0,10,AVALANCHE,,avant,avantprotocol.com,"avant,avant protocol,avantprotocol.com",,manual,2026-07-22,true,f673c0d418f1167df36be577bb27ff074581b5f81d7e5e2ae7f5111964416d65
-Bima,psp,70,0,0,35,ETH,pharos-stablecoins,bima,bima.money,"bima,bima.money,bima labs","USBD,BIMA",manual,2026-07-22,true,626c3d63d1bd70a18a8f9a94090fcbdfe61b08b8e9cc49e9db5c56301711495f
-Brix,psp,70,0,0,60,ETH,pharos-stablecoins,brix,brix.money,"brix,brix.money,itry,witry","iTRY,wiTRY",manual,2026-07-22,true,b12599576fb83fce5cf37761ecde4f4ababda5e16bb174b958baadb86ed345b3
+Bima,psp,70,0,0,35,ETH,pharos-stablecoins,bima,bima.money,"bima,bima.money,bima labs",USBD,manual,2026-07-22,true,626c3d63d1bd70a18a8f9a94090fcbdfe61b08b8e9cc49e9db5c56301711495f
+Brix,psp,70,0,0,60,ETH,pharos-stablecoins,brix,brix.money,"brix,brix.money,itry,witry",,manual,2026-07-22,true,b12599576fb83fce5cf37761ecde4f4ababda5e16bb174b958baadb86ed345b3
 Brl1,psp,70,0,0,15,POLYGON,pharos-stablecoins,brl1,brl1.io,"brl1,brl1.io",BRL1,none,2026-07-22,false,
 BRLA Digital,stablecoin_issuer,60,2,70,10,POLYGON,coingecko-tokens|manual-admin,brla-digital,brla.digital,"brla,brla digital,brla token,brla.digital",avenia,manual,2026-07-22,true,d75e0d24f4bcc5334f18118faae0c480735ed8fb340572e115f7044bc32724e9
 CAD Digital,stablecoin_issuer,55,2,70,8,ETH,coingecko-tokens|manual-admin,cad-digital,tetradg.com,"cad digital,cadd,tetra digital group,tetra trust company",,none,2026-07-22,true,
@@ -2567,14 +2565,14 @@ Forte AUD,stablecoin_issuer,65,0,0,10,ETH|BASE|POLYGON|AVALANCHE,pharos-watch,fo
 Gate,exchange,500,0,100,5,ETH|TRON|BSC|BTC|SOL|POLYGON,manual-admin,gate,gate.com,"gate,gate.io,gate.com,gateio,gusd",,manual,2026-07-22,true,444f1c5f81e19e3416aa4e6e78254c26562ccb2b3b355489e4a4936c66b469fe
 Gold Dao,defi,150,0,90,10,,manual-admin,gold-dao,gold-dao.org,"gold dao,gold-dao,golddao,gldt,gldgov",,manual,2026-07-22,true,9dfcf19266b8926549a8b3cd92205edbdf1f19cffc88b0825054eb48087014f6
 Gold Dollar,psp,100,0,85,15,ETH,manual-admin,gold-dollar,usdkg.com,"gold dollar,gold-dollar,usdkg",,none,2026-07-22,true,
-Gold Token Sa,stablecoin_issuer,70,0,0,10,ETH,pharos-stablecoins,gold-token-sa,dgld.ch,"gold token sa,dgld,gold-token-sa",DGLD,manual,2026-07-22,true,eb960d7da43ebd78ef1b222f2d269f7a91d405ce8815407dce8c6666b32d4c0b
-Goldfish Gold,stablecoin_issuer,70,0,0,10,ETH,pharos-stablecoins,goldfish-gold,goldfishgold.com,"goldfish gold,ggbr,goldfish-gold",GGBR,manual,2026-07-22,true,c007704ed0a92bd11021c2963a1e5e1db037757e04f88af7cb06c2bcd122abbb
-Hamilton Lane,stablecoin_issuer,70,0,0,10,ETH|POLYGON,pharos-stablecoins,hamilton-lane,hamiltonlane.com,"hamilton lane,hlscope,hamilton-lane",HLSCOPE,manual,2026-07-22,true,e5944cc2ef29d9c45e3567956155e20103b247cd6deb979287d463b7506fa13a
+Gold Token Sa,stablecoin_issuer,70,0,0,10,ETH,pharos-stablecoins,gold-token-sa,dgld.ch,"gold token sa,dgld,gold-token-sa",,manual,2026-07-22,true,eb960d7da43ebd78ef1b222f2d269f7a91d405ce8815407dce8c6666b32d4c0b
+Goldfish Gold,stablecoin_issuer,70,0,0,10,ETH,pharos-stablecoins,goldfish-gold,goldfishgold.com,"goldfish gold,ggbr,goldfish-gold",,manual,2026-07-22,true,c007704ed0a92bd11021c2963a1e5e1db037757e04f88af7cb06c2bcd122abbb
+Hamilton Lane,stablecoin_issuer,70,0,0,10,ETH|POLYGON,pharos-stablecoins,hamilton-lane,hamiltonlane.com,"hamilton lane,hlscope,hamilton-lane",,manual,2026-07-22,true,e5944cc2ef29d9c45e3567956155e20103b247cd6deb979287d463b7506fa13a
 Hedgecore,defi,60,0,60,10,BSC|POLYGON,manual-admin,hedgecore,hedgecore.io,"hedgecore,hedgecore.io",,manual,2026-07-22,true,1d53a3b5cf8c2b2c6bb223e542abb8ed1830f1b90d7714d3593fc3c178e2e499
 Hex Trust,custodian,120,10,85,5,ETH|BASE|ARBITRUM|BSC|OPTIMISM,brianleect-labels|arkham-intelligence|coingecko-tokens,hex-trust,hextrust.com,"hex trust,hextrust,hextrust.com",,manual,2026-07-22,true,6d4aa0d6ff28884bb6a29d65de50cc33aa37054a0b282c75c0f0a55f839a242b
-Hylo,stablecoin_issuer,70,0,0,30,SOL,pharos-stablecoins,hylo,hylo.so,"hylo,hylo.so,hyusd,xsol","hyUSD,xSOL",manual,2026-07-22,true,0831279062301bf3e16978af018480c8b837e552124732a6d048185ae1b5fd80
+Hylo,stablecoin_issuer,70,0,0,30,SOL,pharos-stablecoins,hylo,hylo.so,"hylo,hylo.so,hyusd,xsol",,manual,2026-07-22,true,0831279062301bf3e16978af018480c8b837e552124732a6d048185ae1b5fd80
 IDRX,stablecoin_issuer,70,0,0,15,POLYGON|BSC|BASE|SOL,pharos-stablecoins,idrx,idrx.co,"idrx,idrx.co,indonesian rupiah stablecoin,rupiah token",IDRX Rupiah Token,manual,2026-07-22,true,7485c54b302791ebb5a98e29ddaff651b06216e4edd6fa7e5a58ef80dd73dd2b
-IQ,stablecoin_issuer,70,0,0,18,BASE|POLYGON|SOL,pharos-stablecoins,iq,iqai.com,"iq,iqai.com,krwq,korean won stablecoin,iq ai",KRWQ,manual,2026-07-22,true,544ac8e12cbdcec64628c0b43ca05eac719dc5bb827fe72a64feddda8e197bec
+IQ,stablecoin_issuer,70,0,0,18,BASE|POLYGON|SOL,pharos-stablecoins,iq,iqai.com,"iq,iqai.com,krwq,korean won stablecoin,iq ai",,manual,2026-07-22,true,544ac8e12cbdcec64628c0b43ca05eac719dc5bb827fe72a64feddda8e197bec
 Janus Henderson Anemoy,psp,65,0,0,15,ETH|BASE,pharos-stablecoins,janus-henderson-anemoy,anemoy.io,"janus henderson anemoy,janus henderson anemoy aaa clo fund",JAAA,manual,2026-07-22,true,a817c92d053f403042481218912dc7aa97c6c54348115f0cd4d160f9eb04586a
 Juno,psp,70,0,0,15,ETH|ARBITRUM|AVALANCHE,pharos-stablecoins,juno,mxnb.mx,"juno,mxnb.mx,bitso,juno finance mxn",MXNB,manual,2026-07-22,true,7f1f4cb36de535e4f792f9b97b5e55e820e612e423ec5ae6beca6353658502d0
 Jupiter,psp,70,0,0,10,SOL,pharos-stablecoins,jupiter,jup.ag,"jupiter,jup.ag,jupiter exchange","JUP,JupUSD",manual,2026-07-22,true,eb51e077fb94a6289ecaa0300da37b6b2e6aed0af89472737d011fc8c77ce3c9
@@ -2614,12 +2612,12 @@ Standx,stablecoin_issuer,65,0,0,10,BSC|SOL,pharos-stablecoins,standx,standx.com,
 Steakhouse,stablecoin_issuer,65,0,0,10,ETH,pharos-stablecoins,steakhouse,steakhouse.financial,"steakhouse,steakhouse.financial,steakusdc,steakusdt,bbqusdc",,manual,2026-07-22,true,6a4240eb8befa84558d23f61fc42e51ad7a18c1d588268b07d7f931a75bd59cd
 Stoneyield,stablecoin_issuer,65,0,0,10,BSC,pharos-stablecoins,stoneyield,stoneyield.io,"stoneyield,stoneyield.io,stusd",,manual,2026-07-22,true,8a34264617f9eeea109fe24389eeb8e51c2391b2e30d5c30631e7809138b69be
 Strata,stablecoin_issuer,70,0,0,40,ETH,pharos-stablecoins,strata,strata.markets,"strata,strata.markets,strata protocol,srusde,jrusde","srUSDe,jrUSDe",none,2026-07-22,true,
-Streamex,stablecoin_issuer,70,0,0,10,BASE,pharos-stablecoins,streamex,streamex.com,"streamex,streamex.com,streamex corp,gldy",GLDY,manual,2026-07-22,true,d63b57f6207edead5dad9b74c0c2d435301870da7bebc506324e25b23cf2cab7
-Superstate,stablecoin_issuer,70,0,0,8,ETH|OPTIMISM|POLYGON|BASE|BSC|ARBITRUM|AVALANCHE|SOL,pharos-stablecoins,superstate,superstate.com,"superstate,superstate.com,superstate inc,ustb,uscc","USTB,USCC",manual,2026-07-22,true,75e2444203fb93999a3ea8ced93ff8cf79e1066521a989fa8098a6bb1d5fdd62
-Telcoin,psp,75,0,0,8,ETH|POLYGON,pharos-stablecoins,telcoin,telcoin.org,"telcoin,telcoin.org,telco.in,eusd,emxn,telcoin digital asset bank","eUSD,eMXN",manual,2026-07-22,true,a991916ef07da73afffac84750fdf922acd7dd074d5a442ece7c1beb95fab8d9
-Token Teknoloji,exchange,70,262,80,8,ETH|POLYGON|AVALANCHE,pharos-stablecoins,token-teknoloji,btcturk.com,"token teknoloji,token teknoloji a.s.,btcturk,eurot",EUROT,manual,2026-07-22,true,4f5d0fde768c716be2967387ca97669e58b092921776b619eb63d4ae9bb79da3
-Transfero,psp,100,9,75,5,ETH|BSC|POLYGON|BASE|OPTIMISM|AVALANCHE|ARBITRUM|SOL,pharos-stablecoins,transfero,transfero.com,"transfero,transfero.com,brz,brz stablecoin",BRZ,manual,2026-07-22,true,dd6eadcf435415675dcbab8749cb71e4a60bd41b79d123009427569437c18119
-Usdu Finance,defi,60,1,60,5,ETH,pharos-stablecoins,usdu-finance,usdu.finance,"usdu finance,usdu.finance,usdu",USDU,manual,2026-07-22,true,c6d9cf89cc860645f74a7011ccdf722c5442208e51417f92bfe09d09581eb86e
+Streamex,stablecoin_issuer,70,0,0,10,BASE,pharos-stablecoins,streamex,streamex.com,"streamex,streamex.com,streamex corp,gldy",,manual,2026-07-22,true,d63b57f6207edead5dad9b74c0c2d435301870da7bebc506324e25b23cf2cab7
+Superstate,stablecoin_issuer,70,0,0,8,ETH|OPTIMISM|POLYGON|BASE|BSC|ARBITRUM|AVALANCHE|SOL,pharos-stablecoins,superstate,superstate.com,"superstate,superstate.com,superstate inc,ustb,uscc",,manual,2026-07-22,true,75e2444203fb93999a3ea8ced93ff8cf79e1066521a989fa8098a6bb1d5fdd62
+Telcoin,psp,75,0,0,8,ETH|POLYGON,pharos-stablecoins,telcoin,telcoin.org,"telcoin,telcoin.org,telco.in,eusd,emxn,telcoin digital asset bank",,manual,2026-07-22,true,a991916ef07da73afffac84750fdf922acd7dd074d5a442ece7c1beb95fab8d9
+Token Teknoloji,exchange,70,262,80,8,ETH|POLYGON|AVALANCHE,pharos-stablecoins,token-teknoloji,btcturk.com,"token teknoloji,token teknoloji a.s.,btcturk,eurot",,manual,2026-07-22,true,4f5d0fde768c716be2967387ca97669e58b092921776b619eb63d4ae9bb79da3
+Transfero,psp,100,9,75,5,ETH|BSC|POLYGON|BASE|OPTIMISM|AVALANCHE|ARBITRUM|SOL,pharos-stablecoins,transfero,transfero.com,"transfero,transfero.com,brz,brz stablecoin",,manual,2026-07-22,true,dd6eadcf435415675dcbab8749cb71e4a60bd41b79d123009427569437c18119
+Usdu Finance,defi,60,1,60,5,ETH,pharos-stablecoins,usdu-finance,usdu.finance,"usdu finance,usdu.finance,usdu",,manual,2026-07-22,true,c6d9cf89cc860645f74a7011ccdf722c5442208e51417f92bfe09d09581eb86e
 Western Union,psp,80,0,90,5,SOLANA,manual-admin,western-union,westernunion.com,"western union,westernunion,usdpt",,manual,2026-07-22,true,3fe4c6eff0312aa2ac9c7d99b721f99c4c0cbc42d0801d0d2eaeecb97df9a35c
 XSY,defi,50,0,60,20,AVALANCHE,manual-admin,xsy,xsy.fi,"xsy,xsy.fi,unity,uty",,manual,2026-07-22,true,53eddfb8522bdecf34781948b46a993cfca13ae419cd4e887a7f56e6e5e523fc
 PaySido,psp,60,1,100,3,TRON,manual-admin,paysido-com,paysido.com,"paysido,paysido payment,paysido psp",,manual,2026-07-24,true,d95ecb537ebe9cda14d463e3c2f6cc95b540a4d971f26554da64584d508f9812
@@ -2629,3 +2627,128 @@ Tradex,sanctioned,100,0,75,100,,eu-sanctions-2026-1849,tradex-by,tradex.by,"trad
 Monease,sanctioned,100,0,75,100,,eu-sanctions-2026-1849,monease-io,monease.io,monease,,manual,2026-07-25,true,e499d381c00279d89e0d125c824c3f844299fcb3d6d34b379386544e0c560c6c
 PilotFinance Ltd,sanctioned,100,0,75,100,,eu-sanctions-2026-1849,pilotfinance-ltd,pilotfinanceltd.com.ng,"pilotfinance,pilot finance,usepilot",,manual,2026-07-25,true,5516d41e6fb7b6b843310e97d3f581271f3b4573ecc0caf8bfb23804fddb843c
 Cifra Markets,exchange,100,0,75,5,,manual-admin,cifra-by,cifra.by,"cifra,cifra markets,cifra broker,tsifra broker,цифра брокер",,manual,2026-07-30,true,16135bcdd72c848d3e010ea0e66e50f0bd2833670b39c0e65ff099597800c9a6
+UAHg,stablecoin_issuer,90,3,75,15,ETH|BSC|TRON,manual-admin,uahg,uahg.io,"uahg,uahg.io,hryvnia stablecoin,ukrainian hryvnia stablecoin",,manual,2026-07-30,true,7939bfb52a5bd5bdb90a3807b3d3f69dcf651667d3a71d55a5aee95175eb907b
+Aid For Ukraine,ngo,80,1,70,5,BTC|ETH|TRON|SOL|DOT|DOGE,manual-admin,aid-for-ukraine,aid-for-ukraine.io,"aid for ukraine,aid-for-ukraine.io",,manual,2026-07-30,true,4e9e21ed1684721daa82c7eb21b128113618b71d5865fffc02bbec1966105042
+Hospitallers Medical Battalion,ngo,80,1,70,5,BTC|ETH|TRON|NEAR|POLYGON,manual-admin,hospitallers,en.wikipedia.org,"hospitallers,hospitallers medical battalion",,manual,2026-07-30,true,e04dd8d3462b080c95c57ea52f4eb1413963909127e36f615e6c5f1477cc18a2
+Razom for Ukraine,ngo,80,1,70,5,BTC|ETH,manual-admin,razom-for-ukraine,razomforukraine.org,"razom for ukraine,razom,razomforukraine.org",,manual,2026-07-30,true,ef6b18a37aec5d7320a87a2f6f97e7fe5f6801d69b08a6b4bde2be8690fbd00a
+Serhiy Prytula Humanitarian Foundation,ngo,80,1,70,5,ETH|TRON,manual-admin,prytula-humanitarian-foundation,philanthropyinukraine.org,prytula humanitarian foundation,,manual,2026-07-30,true,816dd27cf02e445afbad0c67bdb90921b8883cc12f26f38254b181993f7516fb
+Faine Misto (Azov Brigade Fundraiser),ngo,80,1,70,5,ETH,manual-admin,faine-misto-azov-campaign,fainemisto.com.ua,"faine misto,azov brigade fundraiser",,manual,2026-07-30,true,ce381d7007c4e1198732024e34ebca2e6b80466672da99ca75983c6726304e57
+Nova Ukraine,ngo,80,1,70,5,ETH,manual-admin,nova-ukraine,novaukraine.org,nova ukraine,,manual,2026-07-30,true,ab25cfca98335772b1dd409c909a181d03d886840bb0d326aa549d4ba612cd02
+The Kyiv Independent,ngo,80,1,70,5,ETH,manual-admin,kyiv-independent,kyivindependent.com,"kyiv independent,the kyiv independent",,manual,2026-07-30,true,f9de35f50d749c0f79835a7fb37a9b705976ae99435f1e438fb1eb37d4dfd64e
+BTC-Alpha,exchanges,80,1,70,5,ETH,manual-admin,btc-alpha,btc-alpha.com,"btc-alpha,btc alpha,btcalpha",,manual,2026-07-30,true,83cbbbcbd1899807fd23ca505da126d93fca5d91376fab717603314e3d4a6575
+Ukrainian Red Cross Society,ngo,80,1,70,5,ETH|TRON,manual-admin,ukrainian-red-cross,redcross.org.ua,"ukrainian red cross,ukrainian red cross society",,manual,2026-07-30,true,01fe6133ceb2965cdc9360b78ddbc278876a88029a53ef209e4c1f1b0bdce4ed
+Plast - National Scout Organization of Ukraine,ngo,80,1,70,5,ETH,manual-admin,plast-scout-organization,plast.org.ua,"plast,plast scout organization",,manual,2026-07-30,true,f75493d8ebac9fa6c2d3c0082a42a30fbaf1d6818fbe6db28ac64cc8f5e1c93f
+Dignitas Ukraine,ngo,50,1,70,5,,manual-admin,dignitas-ukraine,,dignitas ukraine,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Balbek Bureau Charity,ngo,50,1,70,5,,manual-admin,balbek-bureau-charity,charity.balbek.com,balbek bureau charity,,manual,2026-07-30,true,cd3f081e92321fc268b87d4630276f27cbac573f8aba20530661f301fbbbd497
+Palianytsia Charity Initiative,ngo,50,1,70,5,,manual-admin,palianytsia-coordination-center,,palianytsia charity initiative,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Feldman Ecopark,ngo,50,1,70,5,,manual-admin,feldman-ecopark,feldman-ecopark.com,feldman ecopark,,manual,2026-07-30,true,676e69776108d2d6f52e5e1642ede5f6de4b8878d45f487cca0f293b8ea5b0cf
+WhiteSwap,defi,50,1,70,5,,manual-admin,whiteswap,whiteswap.io,whiteswap,,manual,2026-07-30,true,6f10d2a5d1726e660eb3b5590e478e31ab6142546bbd5dd27fed7628a13c8556
+Weld Money,psp,50,1,70,5,,manual-admin,weld-money,weld.money,weld money,,manual,2026-07-30,true,daeecf24820458460d6734748eaa91581e33767703a2dc36ae0f3751354ebefe
+Hope Worldwide Ukraine,ngo,50,1,70,5,,manual-admin,hope-worldwide-ukraine,,hope worldwide ukraine,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Cyberpolice of Ukraine,ngo,50,1,70,5,,manual-admin,cyberpolice-ukraine,cyberpolice.gov.ua,cyberpolice of ukraine,,manual,2026-07-30,true,670745326f46610a3bdad75c2764f80ffd73f0b8bc8094675639042ac4343095
+Kiyan Fund,ngo,50,1,70,5,,manual-admin,fund-kiyan,fundkiyan.com.ua,kiyan fund,,manual,2026-07-31,true,54e0368236f301c1964b116f561b363ebd3dc17e12ab18a8e12892ca4c04744f
+Binance Charity - Ukraine Emergency Relief Fund,ngo,50,1,70,5,,manual-admin,binance-charity-ukraine,,binance charity - ukraine emergency relief fund,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+EXMO Save Ukraine,ngo,50,1,70,5,,manual-admin,exmo-save-ukraine,exmo.com,exmo save ukraine,,manual,2026-07-30,true,420e3ce02bce37613eddcfdffdcdb6a88683d3031c8098e1239ef2db0a8e1018
+Kolo Ukraine,ngo,50,1,70,5,,manual-admin,kolo-ukraine,,kolo ukraine,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Dobrobut Foundation,ngo,50,1,70,5,,manual-admin,dobrobut-foundation,dobrobut.foundation,dobrobut foundation,,manual,2026-07-30,true,c310fb51f720ce298be4c79d2d3df2b343c51c2898e72fb9d2f5073402676127
+Zhyva Nadiya Foundation,ngo,50,1,70,5,,manual-admin,zhyva-nadiya-foundation,zhyvanadiya.com.ua,zhyva nadiya foundation,,manual,2026-07-30,true,603e15054becc484ee0a47ddec27a40e1a17ecfae5f71c1781ef20c0599c1ce4
+Zakhyst Maibutnoho Foundation,ngo,50,1,70,5,,manual-admin,zakhyst-maibutnoho-foundation,maibutniefund.org,zakhyst maibutnoho foundation,,manual,2026-07-30,true,17436ce30155773526df8407d2f7057a92f462a69d531215ba764c51a03bc99e
+Save Sumy Civic Fund,ngo,50,1,70,5,,manual-admin,save-sumy-civic-fund,fond.sumy.ua,save sumy civic fund,,manual,2026-07-30,true,97dd8850abf92e27b2490148347d987dece1a0d988e94f797d2ff345418c3034
+Foundation 1991,ngo,50,1,70,5,,manual-admin,foundation-1991,ukraine1991.org,foundation 1991,,manual,2026-07-30,true,2bb9bc7f882c6190279afb6ca3f9cb558b0032d00fa20460dfed1f36395b7692
+Fund Dobro,ngo,50,1,70,5,,manual-admin,fund-dobro,,fund dobro,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Humanity Movement Foundation,ngo,50,1,70,5,,manual-admin,humanity-movement-foundation,,humanity movement foundation,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Dobrodar Foundation,ngo,50,1,70,5,,manual-admin,dobrodar-foundation,dobrodar.org,dobrodar foundation,,manual,2026-07-31,true,49f9c711cd9f73b6fbc9c507a52ef3f45c7727e55fc499525cdd2a3582d3c895
+Vyhodskyi Krai Foundation,ngo,50,1,70,5,,manual-admin,vyhodskyi-krai-foundation,vyhodskyikrai.com,vyhodskyi krai foundation,,manual,2026-07-30,true,16eda7f2cdce9689bd0ecd168914636dfe1d058f02366ba2b879909eccac2556
+Mama i Nemovlia,ngo,50,1,70,5,,manual-admin,mama-i-nemovlia,mamainemovlya.org.ua,mama i nemovlia,,manual,2026-07-30,true,c8cff513eee05147cf952da5805bc47b1c0a999b10d1146ccf8cfca4441c07a9
+IT Ukraine Volunteers,ngo,50,1,70,5,,manual-admin,it-ukraine-volunteers,it-ukraine.fund,it ukraine volunteers,,manual,2026-07-31,true,b0fc472484613da46060a1f9b8e17e3080037445c95cf798abfee8fac280e2c9
+Klub Dobrodiyiv,ngo,50,1,70,5,,manual-admin,klub-dobrodiyiv,dobrodiy.club,klub dobrodiyiv,,manual,2026-07-30,true,ec8a8b855ff63861eb96d49977eb422d728012f8cba684842351ad6f9c7f2295
+NewTime for Ukraine,ngo,50,1,70,5,,manual-admin,newtime-for-ukraine,newtime.charity,newtime for ukraine,,manual,2026-07-30,true,25076fffe39d5a74a27cd8a0db571d7704879c8b1e50a21f6d1dc60ef6b02c15
+Army SOS,ngo,50,1,70,5,,manual-admin,army-sos,,army sos,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Ministry of Health of Ukraine,ngo,50,1,70,5,,manual-admin,ministry-of-health-ukraine,,ministry of health of ukraine,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+I Support Ukraine - Mariupol Volunteers,ngo,50,1,70,5,,manual-admin,mariupol-volunteers-support,,i support ukraine - mariupol volunteers,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Phoenix Volunteer Center,ngo,50,1,70,5,,manual-admin,phoenix-volunteer-center,,phoenix volunteer center,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+AnyCash Army,ngo,50,1,70,5,,manual-admin,anycash-army,uahelp.any.cash,anycash army,,manual,2026-07-30,true,ffb52d8f4ddc02dbbb114ec075435bb040f5d459c9e42d9b9cff76cd1594e9d5
+Educare,ngo,50,1,70,5,,manual-admin,educare-ua,educare.org.ua,educare,,manual,2026-07-30,true,4d791c0f57dfc630b369fe11f543a6f5918cf45c406d9af0c5bc204431309ae9
+Sternenko Foundation,ngo,50,1,70,5,,manual-admin,sternenko-foundation,sternenkofund.org,sternenko foundation,,manual,2026-07-30,true,5f735a92d35226320ae3d2d35ee2ec6cf24012de6f0b0f005838162e82efc997
+Serhiy Sternenko (personal campaign),ngo,50,1,70,5,,manual-admin,serhiy-sternenko,,serhiy sternenko (personal campaign),,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Poryad,ngo,50,1,70,5,,manual-admin,poryad,poryad.in.ua,poryad,,manual,2026-07-31,true,5f15ed62fe17ec7d19232ffe84353533b49b3e79ba4af39e84d1a252f2889c35
+People's Project Blagochestya,ngo,50,1,70,5,,manual-admin,peoples-project-blagochestya,,people's project blagochestya,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Sprava Hromad,ngo,50,1,70,5,,manual-admin,sprava-hromad,spgr.org.ua,sprava hromad,,manual,2026-07-30,true,4615cb08535516261a33e89dce484e77d1f44d6507d95893c24d6da11a47e2fb
+Volunteer Headquarters 24.02,ngo,50,1,70,5,,manual-admin,volunteer-headquarters-24-02,2402.com.ua,volunteer headquarters 24.02,,manual,2026-07-30,true,abec48e82cf9530c77ae017ae42341aa741946ed279cb58557266bdb800ad64b
+UkrEuroFund,ngo,50,1,70,5,,manual-admin,ukreurofund,,ukreurofund,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Shields Ukraine,ngo,50,1,70,5,,manual-admin,shields-ukraine,shields.fund,shields ukraine,,manual,2026-07-30,true,574a5fbb6d33b251dbcd96085b187e9a0667b59f03241e4a014d5223bf38d248
+Peaceful Sky Foundation,ngo,50,1,70,5,,manual-admin,peaceful-sky-foundation,,peaceful sky foundation,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Way to Ukraine,ngo,50,1,70,5,,manual-admin,way-to-ukraine,wayofukraine.org,way to ukraine,,manual,2026-07-30,true,0c09b1bd80410464544abdd826ea658421ee6d70840bcd28a2ace4ac25baffc4
+On Time Foundation,ngo,50,1,70,5,,manual-admin,on-time-foundation,,on time foundation,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+NRC Army Help,ngo,50,1,70,5,,manual-admin,nrc-army-help,,nrc army help,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Youkrainian Foundation,ngo,50,1,70,5,,manual-admin,youkrainian-foundation,youkrainian.org,youkrainian foundation,,manual,2026-07-30,true,866f800796d256bcb9eaaa95bab046ed29e4c8b96632840bf9ef0aa24e26e490
+Blawat Foundation,ngo,50,1,70,5,,manual-admin,blawat-foundation,blawat.org,blawat foundation,,manual,2026-07-30,true,3b744accf1f5a479e7cbd027bcff620d333d110f2b30dd2d33766df23266f9b8
+Ukraine Above All,ngo,50,1,70,5,,manual-admin,ukraine-above-all,,ukraine above all,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+DykoBrothers Foundation,ngo,50,1,70,5,,manual-admin,dykobrothers-foundation,,dykobrothers foundation,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Ukrainian Federation of Military UAV Pilots,ngo,50,1,70,5,,manual-admin,ukrainian-federation-military-uav-pilots,ufmup.com,ukrainian federation of military uav pilots,,manual,2026-07-30,true,6756dfdcfea31c10eabaf4e392e21a68e9c77d605507487e1be197487df49a6b
+Brave Foundation,ngo,50,1,70,5,,manual-admin,brave-foundation-ua,brave.org.ua,brave foundation,,manual,2026-07-30,true,67b9eec9c92eb6cfc4e16a213d36d643c7864016a9927683cf83516ad1307fcc
+Orc Busters,ngo,50,1,70,5,,manual-admin,orc-busters,,orc busters,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Nightbird Foundation,ngo,50,1,70,5,,manual-admin,nightbird-foundation,nightbird.fund,nightbird foundation,,manual,2026-07-31,true,2ba99385787b3b8cf224627880f263af826cd89d5ff20e976fa2a0ff588a91c7
+Terra Ops,ngo,50,1,70,5,,manual-admin,terra-ops,terraops.info,terra ops,,manual,2026-07-30,true,ee67bafa7a71273f95660b860dccc902f9eeecf0c0bf598b7382c54d6d3b0da5
+"1st Tank Battalion, 5th Separate Mechanized Brigade (ZSU)",ngo,50,1,70,5,,manual-admin,first-tank-battalion-5-ovmbr,,"1st tank battalion, 5th separate mechanized brigade (zsu)",,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Khartiia Foundation,ngo,50,1,70,5,,manual-admin,khartiia-foundation,khartiiafoundation.com,khartiia foundation,,manual,2026-07-30,true,112958679e87a0c4286f4d85904f829d6ce2e44b94ff34d9f5fbd6721b0b77b7
+Descendants of Sahaidachnyi,ngo,50,1,70,5,,manual-admin,descendants-of-sahaidachnyi,sahaidachnyi.org,descendants of sahaidachnyi,,manual,2026-07-30,true,fcc3bbadff3dac3d291195d0e63ba4204bce7b451f30a44d08a59879fd0a6dd7
+ex.com.ua Volunteer Project,ngo,50,1,70,5,,manual-admin,ex-com-ua-volunteer-project,,ex.com.ua volunteer project,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Angel ZSU Foundation,ngo,50,1,70,5,,manual-admin,angel-zsu-foundation,,angel zsu foundation,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Sumy GO,ngo,50,1,70,5,,manual-admin,sumy-go,t.me/sumygo,sumy go,,manual,2026-07-30,true,e24d3d4b43ed2c3454250270cc95220114b93be2233ccff44dc2115ca222d23a
+Armed Kit Foundation,ngo,50,1,70,5,,manual-admin,armed-kit-foundation,armedkit.foundation,armed kit foundation,,manual,2026-07-30,true,968b1ad1b582cfa114ea43c287b422b403fe43853b0538c3be55ec176a777c5a
+UA Free,ngo,50,1,70,5,,manual-admin,ua-free,uafree.org,ua free,,manual,2026-07-30,true,c7fe71a6565ce8668be7aba58aec9cc5f0d2d74464571b96db4f8f055a3a6b02
+Justice League,ngo,50,1,70,5,,manual-admin,justice-league-ua,,justice league,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+CoFriends,ngo,50,1,70,5,,manual-admin,cofriends,,cofriends,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Hero of Ukraine Foundation,ngo,50,1,70,5,,manual-admin,hero-of-ukraine-foundation,heroofukraine.org,hero of ukraine foundation,,manual,2026-07-30,true,4fa2175097ce5f32d429ee85f9cc2ca307e1022daf6af1f0681a507743be5fc0
+Be For Ukraine,ngo,50,1,70,5,,manual-admin,be-for-ukraine,beforukraine.org.ua,be for ukraine,,manual,2026-07-31,true,054dfb3045a9ac4f65593f274de94c56fa72a5b9a7d89a56158c67087389a3b7
+Sprotyv,ngo,50,1,70,5,,manual-admin,sprotyv,,sprotyv,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Wheels of Victory,ngo,50,1,70,5,,manual-admin,wheels-of-victory,,wheels of victory,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Run Ukraine,ngo,50,1,70,5,,manual-admin,run-ukraine,runukraine.org,run ukraine,,manual,2026-07-30,true,6c6c788f88c7ce8f9f80286e4ba43bb9739c076caf54bd4dee4c5db2013df120
+Kind Hearts,ngo,50,1,70,5,,manual-admin,kind-hearts,bratstvodobryhserdec.com.ua,kind hearts,,manual,2026-07-30,true,f5405be8eb9fcbf6a65d74eb4f4c3425221fcf13d0aecb62bdddd47080f2520b
+Help People,ngo,50,1,70,5,,manual-admin,help-people-ua,,help people,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Way of Ukraine,ngo,50,1,70,5,,manual-admin,way-of-ukraine,wayofukraine.org,way of ukraine,,manual,2026-07-30,true,0c09b1bd80410464544abdd826ea658421ee6d70840bcd28a2ace4ac25baffc4
+Kharkiv Help,ngo,50,1,70,5,,manual-admin,kharkiv-help,,kharkiv help,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Help Kharkiv,ngo,50,1,70,5,,manual-admin,help-kharkiv,kharkivhelp.com.ua,help kharkiv,,manual,2026-07-30,true,73d6789e943795de7366a4e81e88108aaaa66f5190a4622f9f3319dbd10bba77
+Ukrainian Heroes Foundation,ngo,50,1,70,5,,manual-admin,ukrainian-heroes-foundation,ukrainianheroes.net,ukrainian heroes foundation,,manual,2026-07-31,true,8f56755ea413b047710822978c8c37a7e95d9af6b065b313dfb5cf4a776e5bae
+Children of Heroes,ngo,50,1,70,5,,manual-admin,children-of-heroes,childrenheroes.org,children of heroes,,manual,2026-07-30,true,3d3fd8fb50d3a839d8b6fa5d605f4b11d3a2a05fc8ca41977adef9689555b144
+RELI3F,ngo,50,1,70,5,,manual-admin,reli3f,,reli3f,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+HAPI Protocol,defi,50,1,70,5,,manual-admin,hapi-protocol,hapi.one,hapi protocol,,manual,2026-07-30,true,76d9f2cd0270576a2d98b056e0ac00779d81e29ca5a4ea4ca2e2c884e125cf09
+International Charitable Foundation (UA),ngo,50,1,70,5,,manual-admin,international-charitable-foundation-ua,,international charitable foundation (ua),,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+European Assistance Fund,ngo,50,1,70,5,,manual-admin,european-assistance-fund,eaf.fund,european assistance fund,,manual,2026-07-31,true,16127428d4549e5aed813e4c54fb2104f381c36f4db887938283df43ace8a7e3
+KFund Support4Ukraine,ngo,50,1,70,5,,manual-admin,kfund-support4ukraine,kfund.ua,kfund support4ukraine,,manual,2026-07-30,true,340b6bacec5521145b28353cc93c42a49cd5bfd75939fc4378f9bcf99294c330
+Rotary Club Kharkiv New Level,ngo,50,1,70,5,,manual-admin,rotary-club-kharkiv-new-level,,rotary club kharkiv new level,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Ukrainian Burners - Kurenivka,ngo,50,1,70,5,,manual-admin,ukrainian-burners-kurenivka,,ukrainian burners - kurenivka,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+I'm a Soul Foundation,ngo,50,1,70,5,,manual-admin,im-a-soul-foundation,,i'm a soul foundation,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Ukrainian Mutual Aid Foundation,ngo,50,1,70,5,,manual-admin,ukrainian-mutual-aid-foundation,,ukrainian mutual aid foundation,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Zaspokoysia Foundation,ngo,50,1,70,5,,manual-admin,zaspokoysia-foundation,zaspokoysia.com.ua,zaspokoysia foundation,,manual,2026-07-30,true,939fd43efcc1b602af7bc8c1441c7086f79c70704eaf7903e6b30c603390df85
+Brotherhood Foundation,ngo,50,1,70,5,,manual-admin,brotherhood-foundation,,brotherhood foundation,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Usyk Foundation,ngo,50,1,70,5,,manual-admin,usyk-foundation,usykfoundation.org,usyk foundation,,manual,2026-07-30,true,2b6fd3ec956d6be6144c26fd39ebc4e047f6715f87dff75f184689956f899470
+Support for Ukraine NGO,ngo,50,1,70,5,,manual-admin,support-for-ukraine-ngo,,support for ukraine ngo,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Lifechanger Foundation,ngo,50,1,70,5,,manual-admin,lifechanger-foundation,lifechanger-ua.org,lifechanger foundation,,manual,2026-07-30,true,2518260dde288dd828f1aa926aa67e5b8371607a53ad07b583e1fc1bdfc76ca3
+Ukraine 2022 Foundation,ngo,50,1,70,5,,manual-admin,ukraine-2022-foundation,,ukraine 2022 foundation,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Ukraine in Armor,ngo,50,1,70,5,,manual-admin,ukraine-in-armor,,ukraine in armor,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Future for Ukraine,ngo,50,1,70,5,,manual-admin,future-for-ukraine,,future for ukraine,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Kyrrex Charitable Foundation,ngo,50,1,70,5,,manual-admin,kyrrex-charitable-foundation,kyrrex.com,kyrrex charitable foundation,,manual,2026-07-30,true,04f1fb31d7aa1770eaa77a108d99f3ab31b71121e9a81dd19ddc536f35cc9d6e
+International Ukrainian Friends Fund,ngo,50,1,70,5,,manual-admin,international-ukrainian-friends-fund,,international ukrainian friends fund,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Wild Hornets,ngo,50,1,70,5,,manual-admin,wild-hornets,,wild hornets,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Cyber Regiment Ukraine,ngo,50,1,70,5,,manual-admin,cyber-regiment-ukraine,,cyber regiment ukraine,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Rarog - 1st Assault Battalion,ngo,50,1,70,5,,manual-admin,rarog-first-assault-battalion,rarog.in.ua,rarog - 1st assault battalion,,manual,2026-07-30,true,a927a204f178ce26788405eed96a52afa4525dce7683580cc133295d3615e380
+Militant Zone,ngo,50,1,70,5,,manual-admin,militant-zone,,militant zone,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Militant Zone - Forwarded Campaign,ngo,50,1,70,5,,manual-admin,militant-zone-forwarded-campaign,,militant zone - forwarded campaign,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Mamkin Trader Volunteer Campaign,ngo,50,1,70,5,,manual-admin,mamkin-trader-volunteer-campaign,t.me/Mamkin_Treyd,mamkin trader volunteer campaign,,manual,2026-07-30,true,eac05190b79fe455121bc1095ec284ba01d1e34ad4efdac987243e415c1d9b3f
+CEO Club - Grow Up in Family,ngo,50,1,70,5,,manual-admin,ceo-club-grow-up-in-family,infamily.org.ua,ceo club - grow up in family,,manual,2026-07-30,true,72562a2a80d1426f6228772fc6bc5d3f29b18f27ce957d5e22ddf19101500191
+Union of Veterans of Ukraine,ngo,50,1,70,5,,manual-admin,union-of-veterans-of-ukraine,,union of veterans of ukraine,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+FRIDA Medical Volunteers,ngo,50,1,70,5,,manual-admin,frida-medical-volunteers,frida-ukraine.com,frida medical volunteers,,manual,2026-07-30,true,46d315a998db6193ad002f5a0d01bb111bbdbb1d9b61af92a2061223818e22a5
+Commonwealth 22,ngo,50,1,70,5,,manual-admin,commonwealth-22,cmw22.org,commonwealth 22,,manual,2026-07-30,true,0f7e0da37770b0fb0fe54980f68949f63e6fab0b9c45292be7dcdc4a9ea94379
+Power of Support Foundation,ngo,50,1,70,5,,manual-admin,power-of-support-foundation,,power of support foundation,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+World to Ukraine,ngo,50,1,70,5,,manual-admin,world-to-ukraine,,world to ukraine,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Kherson is Ukraine,ngo,50,1,70,5,,manual-admin,kherson-is-ukraine,,kherson is ukraine,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Save Ukrainians,ngo,50,1,70,5,,manual-admin,save-ukrainians,save-ukrainians.com,save ukrainians,,manual,2026-07-30,true,ad25dfafadc443485fa430f9f26c75d58ea917379d3eec7318452e7351be56cc
+Cat Muran Foundation,ngo,50,1,70,5,,manual-admin,cat-muran-foundation,,cat muran foundation,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Help Ukraine Today,ngo,50,1,70,5,,manual-admin,help-ukraine-today,,help ukraine today,,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Angels of Azov (Patronage Service),ngo,50,1,70,5,,manual-admin,angels-of-azov-patronage-service,,angels of azov (patronage service),,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+98th TrO Battalion (Azov-Dnipro),ngo,50,1,70,5,,manual-admin,ninety-eighth-tro-battalion-azov-dnipro,,98th tro battalion (azov-dnipro),,manual,2026-07-30,true,02b3f7f3f9b075415fccdff26f71f03eab9f9a6b938aed958047debc05da2a70
+Freedom of Russia Legion,ngo,50,1,70,5,,manual-admin,freedom-of-russia-legion,t.me/legionoffreedom,freedom of russia legion,,manual,2026-07-30,true,9738697fe177d974e56653d3bd22597b5830c5403ccd52c0f584abefa6cfd068
+Siberian Battalion,ngo,50,1,70,5,,manual-admin,siberian-battalion,t.me/SiberianBattalion,siberian battalion,,manual,2026-07-30,true,98824ca7c810d231437f9b02fc1606ea52ea58f89094370f978e282e87f39803
+Support Ukraine UK,ngo,50,1,70,5,,manual-admin,support-ukraine-uk,supportukraine.uk,support ukraine uk,,manual,2026-07-31,true,69a96194ac10a9f9b307f3c2be698af84e1a823ea7ae3fc9cbb9705e7e5cbfd6

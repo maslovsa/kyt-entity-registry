@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-30T07:09:15+00:00",
+  "generated_at": "2026-07-30T21:26:04+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -1775,7 +1775,8 @@
       "keywords": [
         "opensea.io",
         "opensea io",
-        "opensea-io"
+        "opensea-io",
+        "opensea"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -15438,7 +15439,8 @@
       "keywords": [
         "independentreserve.com",
         "independentreserve com",
-        "independentreserve-com"
+        "independentreserve-com",
+        "independentreserve"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -15461,7 +15463,8 @@
       "keywords": [
         "kwiq.app",
         "kwiq app",
-        "kwiq-app"
+        "kwiq-app",
+        "kwiq"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -15615,7 +15618,8 @@
       "keywords": [
         "letsbit.io",
         "letsbit io",
-        "letsbit-io"
+        "letsbit-io",
+        "letsbit"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -15780,7 +15784,8 @@
       "keywords": [
         "coincola.com",
         "coincola com",
-        "coincola-com"
+        "coincola-com",
+        "coincola"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -16210,7 +16215,8 @@
       "keywords": [
         "icrypex.com",
         "icrypex com",
-        "icrypex-com"
+        "icrypex-com",
+        "icrypex"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -16720,7 +16726,8 @@
       "keywords": [
         "bitexen.com",
         "bitexen com",
-        "bitexen-com"
+        "bitexen-com",
+        "bitexen"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -16808,7 +16815,8 @@
       "keywords": [
         "dtcpay.com",
         "dtcpay com",
-        "dtcpay-com"
+        "dtcpay-com",
+        "dtcpay"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -17146,7 +17154,8 @@
       "keywords": [
         "btcmarkets.net",
         "btcmarkets net",
-        "btcmarkets-net"
+        "btcmarkets-net",
+        "btcmarkets"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -17414,7 +17423,8 @@
       "keywords": [
         "otc-u.com",
         "otc u com",
-        "otc-u-com"
+        "otc-u-com",
+        "otc-u"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -18027,7 +18037,8 @@
       "keywords": [
         "mobee.io",
         "mobee io",
-        "mobee-io"
+        "mobee-io",
+        "mobee"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -18247,16 +18258,6 @@
       "keywords": [
         "syrup.fi",
         "syrup"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "vitalik-buterin",
-      "category": "wallet",
-      "logo_path": "logos/wallet/vitalik-buterin.png",
-      "keywords": [
-        "vitalik buterin"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -18659,7 +18660,8 @@
       "keywords": [
         "bitcoinsuisse.com",
         "bitcoinsuisse com",
-        "bitcoinsuisse-com"
+        "bitcoinsuisse-com",
+        "bitcoinsuisse"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -18823,7 +18825,8 @@
       "keywords": [
         "bynex.io",
         "bynex io",
-        "bynex-io"
+        "bynex-io",
+        "bynex"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -19212,7 +19215,8 @@
       "keywords": [
         "free2ex.com",
         "free2ex com",
-        "free2ex-com"
+        "free2ex-com",
+        "free2ex"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -19667,7 +19671,8 @@
       "keywords": [
         "sarrafex.com",
         "sarrafex com",
-        "sarrafex-com"
+        "sarrafex-com",
+        "sarrafex"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -19840,7 +19845,8 @@
       "keywords": [
         "uzx.com",
         "uzx com",
-        "uzx-com"
+        "uzx-com",
+        "uzx"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -22341,11 +22347,11 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/shitcoins-club.png",
       "keywords": [
-        "shitcoins club atm crypto"
-      ],
-      "product_aliases": [
+        "shitcoins club",
+        "shitcoins.club",
         "shitcoins"
       ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -22619,11 +22625,11 @@
       "category": "dex",
       "logo_path": "logos/dex/zethyr-exchange.png",
       "keywords": [
-        "zethyr exchange eth"
-      ],
-      "product_aliases": [
+        "zethyr exchange",
+        "zethyr.com",
         "zethyr"
       ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -22748,17 +22754,6 @@
       "keywords": [
         "bitget wallet",
         "bitkeep"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "justin-sun",
-      "category": "individual",
-      "logo_path": "logos/individual/justin-sun.png",
-      "keywords": [
-        "justin sun",
-        "justinsuntron"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -24859,11 +24854,7 @@
         "chfau",
         "sekau"
       ],
-      "product_aliases": [
-        "EURAU",
-        "CHFAU",
-        "SEKAU"
-      ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -24876,10 +24867,7 @@
         "alto.money",
         "dusd"
       ],
-      "product_aliases": [
-        "DUSD",
-        "ALTO"
-      ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -25017,8 +25005,7 @@
         "bima labs"
       ],
       "product_aliases": [
-        "USBD",
-        "BIMA"
+        "USBD"
       ],
       "sanctioned": false
     },
@@ -25032,10 +25019,7 @@
         "itry",
         "witry"
       ],
-      "product_aliases": [
-        "iTRY",
-        "wiTRY"
-      ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -25244,9 +25228,7 @@
         "dgld",
         "gold-token-sa"
       ],
-      "product_aliases": [
-        "DGLD"
-      ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -25258,9 +25240,7 @@
         "ggbr",
         "goldfish-gold"
       ],
-      "product_aliases": [
-        "GGBR"
-      ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -25272,9 +25252,7 @@
         "hlscope",
         "hamilton-lane"
       ],
-      "product_aliases": [
-        "HLSCOPE"
-      ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -25310,10 +25288,7 @@
         "hyusd",
         "xsol"
       ],
-      "product_aliases": [
-        "hyUSD",
-        "xSOL"
-      ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -25342,9 +25317,7 @@
         "korean won stablecoin",
         "iq ai"
       ],
-      "product_aliases": [
-        "KRWQ"
-      ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -25812,9 +25785,7 @@
         "streamex corp",
         "gldy"
       ],
-      "product_aliases": [
-        "GLDY"
-      ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -25828,10 +25799,7 @@
         "ustb",
         "uscc"
       ],
-      "product_aliases": [
-        "USTB",
-        "USCC"
-      ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -25846,10 +25814,7 @@
         "emxn",
         "telcoin digital asset bank"
       ],
-      "product_aliases": [
-        "eUSD",
-        "eMXN"
-      ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -25862,9 +25827,7 @@
         "btcturk",
         "eurot"
       ],
-      "product_aliases": [
-        "EUROT"
-      ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -25877,9 +25840,7 @@
         "brz",
         "brz stablecoin"
       ],
-      "product_aliases": [
-        "BRZ"
-      ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -25891,9 +25852,7 @@
         "usdu.finance",
         "usdu"
       ],
-      "product_aliases": [
-        "USDU"
-      ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -25999,6 +25958,1270 @@
         "cifra broker",
         "tsifra broker",
         "цифра брокер"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "uahg",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/uahg.png",
+      "keywords": [
+        "uahg",
+        "uahg.io",
+        "hryvnia stablecoin",
+        "ukrainian hryvnia stablecoin"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "aid-for-ukraine",
+      "category": "ngo",
+      "logo_path": "logos/ngo/aid-for-ukraine.png",
+      "keywords": [
+        "aid for ukraine",
+        "aid-for-ukraine.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hospitallers",
+      "category": "ngo",
+      "logo_path": "logos/ngo/hospitallers.png",
+      "keywords": [
+        "hospitallers",
+        "hospitallers medical battalion"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "razom-for-ukraine",
+      "category": "ngo",
+      "logo_path": "logos/ngo/razom-for-ukraine.png",
+      "keywords": [
+        "razom for ukraine",
+        "razom",
+        "razomforukraine.org"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "prytula-humanitarian-foundation",
+      "category": "ngo",
+      "logo_path": "logos/ngo/prytula-humanitarian-foundation.png",
+      "keywords": [
+        "prytula humanitarian foundation"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "faine-misto-azov-campaign",
+      "category": "ngo",
+      "logo_path": "logos/ngo/faine-misto-azov-campaign.png",
+      "keywords": [
+        "faine misto",
+        "azov brigade fundraiser"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "nova-ukraine",
+      "category": "ngo",
+      "logo_path": "logos/ngo/nova-ukraine.png",
+      "keywords": [
+        "nova ukraine"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kyiv-independent",
+      "category": "ngo",
+      "logo_path": "logos/ngo/kyiv-independent.png",
+      "keywords": [
+        "kyiv independent",
+        "the kyiv independent"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "btc-alpha",
+      "category": "exchanges",
+      "logo_path": "logos/exchanges/btc-alpha.png",
+      "keywords": [
+        "btc-alpha",
+        "btc alpha",
+        "btcalpha"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ukrainian-red-cross",
+      "category": "ngo",
+      "logo_path": "logos/ngo/ukrainian-red-cross.png",
+      "keywords": [
+        "ukrainian red cross",
+        "ukrainian red cross society"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "plast-scout-organization",
+      "category": "ngo",
+      "logo_path": "logos/ngo/plast-scout-organization.png",
+      "keywords": [
+        "plast",
+        "plast scout organization"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dignitas-ukraine",
+      "category": "ngo",
+      "logo_path": "logos/ngo/dignitas-ukraine.png",
+      "keywords": [
+        "dignitas ukraine"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "balbek-bureau-charity",
+      "category": "ngo",
+      "logo_path": "logos/ngo/balbek-bureau-charity.png",
+      "keywords": [
+        "balbek bureau charity"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "palianytsia-coordination-center",
+      "category": "ngo",
+      "logo_path": "logos/ngo/palianytsia-coordination-center.png",
+      "keywords": [
+        "palianytsia charity initiative"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "feldman-ecopark",
+      "category": "ngo",
+      "logo_path": "logos/ngo/feldman-ecopark.png",
+      "keywords": [
+        "feldman ecopark"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "whiteswap",
+      "category": "defi",
+      "logo_path": "logos/defi/whiteswap.png",
+      "keywords": [
+        "whiteswap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "weld-money",
+      "category": "psp",
+      "logo_path": "logos/psp/weld-money.png",
+      "keywords": [
+        "weld money"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hope-worldwide-ukraine",
+      "category": "ngo",
+      "logo_path": "logos/ngo/hope-worldwide-ukraine.png",
+      "keywords": [
+        "hope worldwide ukraine"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cyberpolice-ukraine",
+      "category": "ngo",
+      "logo_path": "logos/ngo/cyberpolice-ukraine.png",
+      "keywords": [
+        "cyberpolice of ukraine"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "fund-kiyan",
+      "category": "ngo",
+      "logo_path": "logos/ngo/fund-kiyan.png",
+      "keywords": [
+        "kiyan fund"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "binance-charity-ukraine",
+      "category": "ngo",
+      "logo_path": "logos/ngo/binance-charity-ukraine.png",
+      "keywords": [
+        "binance charity - ukraine emergency relief fund"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "exmo-save-ukraine",
+      "category": "ngo",
+      "logo_path": "logos/ngo/exmo-save-ukraine.png",
+      "keywords": [
+        "exmo save ukraine"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kolo-ukraine",
+      "category": "ngo",
+      "logo_path": "logos/ngo/kolo-ukraine.png",
+      "keywords": [
+        "kolo ukraine"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dobrobut-foundation",
+      "category": "ngo",
+      "logo_path": "logos/ngo/dobrobut-foundation.png",
+      "keywords": [
+        "dobrobut foundation"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "zhyva-nadiya-foundation",
+      "category": "ngo",
+      "logo_path": "logos/ngo/zhyva-nadiya-foundation.png",
+      "keywords": [
+        "zhyva nadiya foundation"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "zakhyst-maibutnoho-foundation",
+      "category": "ngo",
+      "logo_path": "logos/ngo/zakhyst-maibutnoho-foundation.png",
+      "keywords": [
+        "zakhyst maibutnoho foundation"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "save-sumy-civic-fund",
+      "category": "ngo",
+      "logo_path": "logos/ngo/save-sumy-civic-fund.png",
+      "keywords": [
+        "save sumy civic fund"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "foundation-1991",
+      "category": "ngo",
+      "logo_path": "logos/ngo/foundation-1991.png",
+      "keywords": [
+        "foundation 1991"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "fund-dobro",
+      "category": "ngo",
+      "logo_path": "logos/ngo/fund-dobro.png",
+      "keywords": [
+        "fund dobro"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "humanity-movement-foundation",
+      "category": "ngo",
+      "logo_path": "logos/ngo/humanity-movement-foundation.png",
+      "keywords": [
+        "humanity movement foundation"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dobrodar-foundation",
+      "category": "ngo",
+      "logo_path": "logos/ngo/dobrodar-foundation.png",
+      "keywords": [
+        "dobrodar foundation"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "vyhodskyi-krai-foundation",
+      "category": "ngo",
+      "logo_path": "logos/ngo/vyhodskyi-krai-foundation.png",
+      "keywords": [
+        "vyhodskyi krai foundation"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mama-i-nemovlia",
+      "category": "ngo",
+      "logo_path": "logos/ngo/mama-i-nemovlia.png",
+      "keywords": [
+        "mama i nemovlia"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "it-ukraine-volunteers",
+      "category": "ngo",
+      "logo_path": "logos/ngo/it-ukraine-volunteers.png",
+      "keywords": [
+        "it ukraine volunteers"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "klub-dobrodiyiv",
+      "category": "ngo",
+      "logo_path": "logos/ngo/klub-dobrodiyiv.png",
+      "keywords": [
+        "klub dobrodiyiv"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "newtime-for-ukraine",
+      "category": "ngo",
+      "logo_path": "logos/ngo/newtime-for-ukraine.png",
+      "keywords": [
+        "newtime for ukraine"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "army-sos",
+      "category": "ngo",
+      "logo_path": "logos/ngo/army-sos.png",
+      "keywords": [
+        "army sos"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ministry-of-health-ukraine",
+      "category": "ngo",
+      "logo_path": "logos/ngo/ministry-of-health-ukraine.png",
+      "keywords": [
+        "ministry of health of ukraine"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mariupol-volunteers-support",
+      "category": "ngo",
+      "logo_path": "logos/ngo/mariupol-volunteers-support.png",
+      "keywords": [
+        "i support ukraine - mariupol volunteers"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "phoenix-volunteer-center",
+      "category": "ngo",
+      "logo_path": "logos/ngo/phoenix-volunteer-center.png",
+      "keywords": [
+        "phoenix volunteer center"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "anycash-army",
+      "category": "ngo",
+      "logo_path": "logos/ngo/anycash-army.png",
+      "keywords": [
+        "anycash army"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "educare-ua",
+      "category": "ngo",
+      "logo_path": "logos/ngo/educare-ua.png",
+      "keywords": [
+        "educare"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "sternenko-foundation",
+      "category": "ngo",
+      "logo_path": "logos/ngo/sternenko-foundation.png",
+      "keywords": [
+        "sternenko foundation"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "serhiy-sternenko",
+      "category": "ngo",
+      "logo_path": "logos/ngo/serhiy-sternenko.png",
+      "keywords": [
+        "serhiy sternenko (personal campaign)"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "poryad",
+      "category": "ngo",
+      "logo_path": "logos/ngo/poryad.png",
+      "keywords": [
+        "poryad"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "peoples-project-blagochestya",
+      "category": "ngo",
+      "logo_path": "logos/ngo/peoples-project-blagochestya.png",
+      "keywords": [
+        "people's project blagochestya"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "sprava-hromad",
+      "category": "ngo",
+      "logo_path": "logos/ngo/sprava-hromad.png",
+      "keywords": [
+        "sprava hromad"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "volunteer-headquarters-24-02",
+      "category": "ngo",
+      "logo_path": "logos/ngo/volunteer-headquarters-24-02.png",
+      "keywords": [
+        "volunteer headquarters 24.02"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ukreurofund",
+      "category": "ngo",
+      "logo_path": "logos/ngo/ukreurofund.png",
+      "keywords": [
+        "ukreurofund"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "shields-ukraine",
+      "category": "ngo",
+      "logo_path": "logos/ngo/shields-ukraine.png",
+      "keywords": [
+        "shields ukraine"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "peaceful-sky-foundation",
+      "category": "ngo",
+      "logo_path": "logos/ngo/peaceful-sky-foundation.png",
+      "keywords": [
+        "peaceful sky foundation"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "way-to-ukraine",
+      "category": "ngo",
+      "logo_path": "logos/ngo/way-to-ukraine.png",
+      "keywords": [
+        "way to ukraine"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "on-time-foundation",
+      "category": "ngo",
+      "logo_path": "logos/ngo/on-time-foundation.png",
+      "keywords": [
+        "on time foundation"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "nrc-army-help",
+      "category": "ngo",
+      "logo_path": "logos/ngo/nrc-army-help.png",
+      "keywords": [
+        "nrc army help"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "youkrainian-foundation",
+      "category": "ngo",
+      "logo_path": "logos/ngo/youkrainian-foundation.png",
+      "keywords": [
+        "youkrainian foundation"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "blawat-foundation",
+      "category": "ngo",
+      "logo_path": "logos/ngo/blawat-foundation.png",
+      "keywords": [
+        "blawat foundation"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ukraine-above-all",
+      "category": "ngo",
+      "logo_path": "logos/ngo/ukraine-above-all.png",
+      "keywords": [
+        "ukraine above all"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dykobrothers-foundation",
+      "category": "ngo",
+      "logo_path": "logos/ngo/dykobrothers-foundation.png",
+      "keywords": [
+        "dykobrothers foundation"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ukrainian-federation-military-uav-pilots",
+      "category": "ngo",
+      "logo_path": "logos/ngo/ukrainian-federation-military-uav-pilots.png",
+      "keywords": [
+        "ukrainian federation of military uav pilots"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "brave-foundation-ua",
+      "category": "ngo",
+      "logo_path": "logos/ngo/brave-foundation-ua.png",
+      "keywords": [
+        "brave foundation"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "orc-busters",
+      "category": "ngo",
+      "logo_path": "logos/ngo/orc-busters.png",
+      "keywords": [
+        "orc busters"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "nightbird-foundation",
+      "category": "ngo",
+      "logo_path": "logos/ngo/nightbird-foundation.png",
+      "keywords": [
+        "nightbird foundation"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "terra-ops",
+      "category": "ngo",
+      "logo_path": "logos/ngo/terra-ops.png",
+      "keywords": [
+        "terra ops"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "first-tank-battalion-5-ovmbr",
+      "category": "ngo",
+      "logo_path": "logos/ngo/first-tank-battalion-5-ovmbr.png",
+      "keywords": [
+        "1st tank battalion",
+        "5th separate mechanized brigade (zsu)"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "khartiia-foundation",
+      "category": "ngo",
+      "logo_path": "logos/ngo/khartiia-foundation.png",
+      "keywords": [
+        "khartiia foundation"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "descendants-of-sahaidachnyi",
+      "category": "ngo",
+      "logo_path": "logos/ngo/descendants-of-sahaidachnyi.png",
+      "keywords": [
+        "descendants of sahaidachnyi"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ex-com-ua-volunteer-project",
+      "category": "ngo",
+      "logo_path": "logos/ngo/ex-com-ua-volunteer-project.png",
+      "keywords": [
+        "ex.com.ua volunteer project"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "angel-zsu-foundation",
+      "category": "ngo",
+      "logo_path": "logos/ngo/angel-zsu-foundation.png",
+      "keywords": [
+        "angel zsu foundation"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "sumy-go",
+      "category": "ngo",
+      "logo_path": "logos/ngo/sumy-go.png",
+      "keywords": [
+        "sumy go"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "armed-kit-foundation",
+      "category": "ngo",
+      "logo_path": "logos/ngo/armed-kit-foundation.png",
+      "keywords": [
+        "armed kit foundation"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ua-free",
+      "category": "ngo",
+      "logo_path": "logos/ngo/ua-free.png",
+      "keywords": [
+        "ua free"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "justice-league-ua",
+      "category": "ngo",
+      "logo_path": "logos/ngo/justice-league-ua.png",
+      "keywords": [
+        "justice league"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cofriends",
+      "category": "ngo",
+      "logo_path": "logos/ngo/cofriends.png",
+      "keywords": [
+        "cofriends"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hero-of-ukraine-foundation",
+      "category": "ngo",
+      "logo_path": "logos/ngo/hero-of-ukraine-foundation.png",
+      "keywords": [
+        "hero of ukraine foundation"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "be-for-ukraine",
+      "category": "ngo",
+      "logo_path": "logos/ngo/be-for-ukraine.png",
+      "keywords": [
+        "be for ukraine"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "sprotyv",
+      "category": "ngo",
+      "logo_path": "logos/ngo/sprotyv.png",
+      "keywords": [
+        "sprotyv"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "wheels-of-victory",
+      "category": "ngo",
+      "logo_path": "logos/ngo/wheels-of-victory.png",
+      "keywords": [
+        "wheels of victory"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "run-ukraine",
+      "category": "ngo",
+      "logo_path": "logos/ngo/run-ukraine.png",
+      "keywords": [
+        "run ukraine"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kind-hearts",
+      "category": "ngo",
+      "logo_path": "logos/ngo/kind-hearts.png",
+      "keywords": [
+        "kind hearts"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "help-people-ua",
+      "category": "ngo",
+      "logo_path": "logos/ngo/help-people-ua.png",
+      "keywords": [
+        "help people"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "way-of-ukraine",
+      "category": "ngo",
+      "logo_path": "logos/ngo/way-of-ukraine.png",
+      "keywords": [
+        "way of ukraine"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kharkiv-help",
+      "category": "ngo",
+      "logo_path": "logos/ngo/kharkiv-help.png",
+      "keywords": [
+        "kharkiv help"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "help-kharkiv",
+      "category": "ngo",
+      "logo_path": "logos/ngo/help-kharkiv.png",
+      "keywords": [
+        "help kharkiv"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ukrainian-heroes-foundation",
+      "category": "ngo",
+      "logo_path": "logos/ngo/ukrainian-heroes-foundation.png",
+      "keywords": [
+        "ukrainian heroes foundation"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "children-of-heroes",
+      "category": "ngo",
+      "logo_path": "logos/ngo/children-of-heroes.png",
+      "keywords": [
+        "children of heroes"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "reli3f",
+      "category": "ngo",
+      "logo_path": "logos/ngo/reli3f.png",
+      "keywords": [
+        "reli3f"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hapi-protocol",
+      "category": "defi",
+      "logo_path": "logos/defi/hapi-protocol.png",
+      "keywords": [
+        "hapi protocol"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "international-charitable-foundation-ua",
+      "category": "ngo",
+      "logo_path": "logos/ngo/international-charitable-foundation-ua.png",
+      "keywords": [
+        "international charitable foundation (ua)"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "european-assistance-fund",
+      "category": "ngo",
+      "logo_path": "logos/ngo/european-assistance-fund.png",
+      "keywords": [
+        "european assistance fund"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kfund-support4ukraine",
+      "category": "ngo",
+      "logo_path": "logos/ngo/kfund-support4ukraine.png",
+      "keywords": [
+        "kfund support4ukraine"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "rotary-club-kharkiv-new-level",
+      "category": "ngo",
+      "logo_path": "logos/ngo/rotary-club-kharkiv-new-level.png",
+      "keywords": [
+        "rotary club kharkiv new level"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ukrainian-burners-kurenivka",
+      "category": "ngo",
+      "logo_path": "logos/ngo/ukrainian-burners-kurenivka.png",
+      "keywords": [
+        "ukrainian burners - kurenivka"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "im-a-soul-foundation",
+      "category": "ngo",
+      "logo_path": "logos/ngo/im-a-soul-foundation.png",
+      "keywords": [
+        "i'm a soul foundation"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ukrainian-mutual-aid-foundation",
+      "category": "ngo",
+      "logo_path": "logos/ngo/ukrainian-mutual-aid-foundation.png",
+      "keywords": [
+        "ukrainian mutual aid foundation"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "zaspokoysia-foundation",
+      "category": "ngo",
+      "logo_path": "logos/ngo/zaspokoysia-foundation.png",
+      "keywords": [
+        "zaspokoysia foundation"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "brotherhood-foundation",
+      "category": "ngo",
+      "logo_path": "logos/ngo/brotherhood-foundation.png",
+      "keywords": [
+        "brotherhood foundation"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "usyk-foundation",
+      "category": "ngo",
+      "logo_path": "logos/ngo/usyk-foundation.png",
+      "keywords": [
+        "usyk foundation"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "support-for-ukraine-ngo",
+      "category": "ngo",
+      "logo_path": "logos/ngo/support-for-ukraine-ngo.png",
+      "keywords": [
+        "support for ukraine ngo"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "lifechanger-foundation",
+      "category": "ngo",
+      "logo_path": "logos/ngo/lifechanger-foundation.png",
+      "keywords": [
+        "lifechanger foundation"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ukraine-2022-foundation",
+      "category": "ngo",
+      "logo_path": "logos/ngo/ukraine-2022-foundation.png",
+      "keywords": [
+        "ukraine 2022 foundation"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ukraine-in-armor",
+      "category": "ngo",
+      "logo_path": "logos/ngo/ukraine-in-armor.png",
+      "keywords": [
+        "ukraine in armor"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "future-for-ukraine",
+      "category": "ngo",
+      "logo_path": "logos/ngo/future-for-ukraine.png",
+      "keywords": [
+        "future for ukraine"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kyrrex-charitable-foundation",
+      "category": "ngo",
+      "logo_path": "logos/ngo/kyrrex-charitable-foundation.png",
+      "keywords": [
+        "kyrrex charitable foundation"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "international-ukrainian-friends-fund",
+      "category": "ngo",
+      "logo_path": "logos/ngo/international-ukrainian-friends-fund.png",
+      "keywords": [
+        "international ukrainian friends fund"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "wild-hornets",
+      "category": "ngo",
+      "logo_path": "logos/ngo/wild-hornets.png",
+      "keywords": [
+        "wild hornets"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cyber-regiment-ukraine",
+      "category": "ngo",
+      "logo_path": "logos/ngo/cyber-regiment-ukraine.png",
+      "keywords": [
+        "cyber regiment ukraine"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "rarog-first-assault-battalion",
+      "category": "ngo",
+      "logo_path": "logos/ngo/rarog-first-assault-battalion.png",
+      "keywords": [
+        "rarog - 1st assault battalion"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "militant-zone",
+      "category": "ngo",
+      "logo_path": "logos/ngo/militant-zone.png",
+      "keywords": [
+        "militant zone"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "militant-zone-forwarded-campaign",
+      "category": "ngo",
+      "logo_path": "logos/ngo/militant-zone-forwarded-campaign.png",
+      "keywords": [
+        "militant zone - forwarded campaign"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mamkin-trader-volunteer-campaign",
+      "category": "ngo",
+      "logo_path": "logos/ngo/mamkin-trader-volunteer-campaign.png",
+      "keywords": [
+        "mamkin trader volunteer campaign"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ceo-club-grow-up-in-family",
+      "category": "ngo",
+      "logo_path": "logos/ngo/ceo-club-grow-up-in-family.png",
+      "keywords": [
+        "ceo club - grow up in family"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "union-of-veterans-of-ukraine",
+      "category": "ngo",
+      "logo_path": "logos/ngo/union-of-veterans-of-ukraine.png",
+      "keywords": [
+        "union of veterans of ukraine"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "frida-medical-volunteers",
+      "category": "ngo",
+      "logo_path": "logos/ngo/frida-medical-volunteers.png",
+      "keywords": [
+        "frida medical volunteers"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "commonwealth-22",
+      "category": "ngo",
+      "logo_path": "logos/ngo/commonwealth-22.png",
+      "keywords": [
+        "commonwealth 22"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "power-of-support-foundation",
+      "category": "ngo",
+      "logo_path": "logos/ngo/power-of-support-foundation.png",
+      "keywords": [
+        "power of support foundation"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "world-to-ukraine",
+      "category": "ngo",
+      "logo_path": "logos/ngo/world-to-ukraine.png",
+      "keywords": [
+        "world to ukraine"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kherson-is-ukraine",
+      "category": "ngo",
+      "logo_path": "logos/ngo/kherson-is-ukraine.png",
+      "keywords": [
+        "kherson is ukraine"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "save-ukrainians",
+      "category": "ngo",
+      "logo_path": "logos/ngo/save-ukrainians.png",
+      "keywords": [
+        "save ukrainians"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cat-muran-foundation",
+      "category": "ngo",
+      "logo_path": "logos/ngo/cat-muran-foundation.png",
+      "keywords": [
+        "cat muran foundation"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "help-ukraine-today",
+      "category": "ngo",
+      "logo_path": "logos/ngo/help-ukraine-today.png",
+      "keywords": [
+        "help ukraine today"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "angels-of-azov-patronage-service",
+      "category": "ngo",
+      "logo_path": "logos/ngo/angels-of-azov-patronage-service.png",
+      "keywords": [
+        "angels of azov (patronage service)"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ninety-eighth-tro-battalion-azov-dnipro",
+      "category": "ngo",
+      "logo_path": "logos/ngo/ninety-eighth-tro-battalion-azov-dnipro.png",
+      "keywords": [
+        "98th tro battalion (azov-dnipro)"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "freedom-of-russia-legion",
+      "category": "ngo",
+      "logo_path": "logos/ngo/freedom-of-russia-legion.png",
+      "keywords": [
+        "freedom of russia legion"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "siberian-battalion",
+      "category": "ngo",
+      "logo_path": "logos/ngo/siberian-battalion.png",
+      "keywords": [
+        "siberian battalion"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "support-ukraine-uk",
+      "category": "ngo",
+      "logo_path": "logos/ngo/support-ukraine-uk.png",
+      "keywords": [
+        "support ukraine uk"
       ],
       "product_aliases": [],
       "sanctioned": false

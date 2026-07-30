@@ -15,3 +15,4 @@
 #
 # One slug per line. Keep the reason in a trailing comment.
 re    # "Re" (app.re.xyz DeFi) — 2-char name, keyword-unsafe; see 2026-07-14 incident
+currency-com    # dn="Currency" (currency.com exchange) — bare "currency" is a common English/finance word, would false-match any label mentioning fiat currency, local currency, etc.
