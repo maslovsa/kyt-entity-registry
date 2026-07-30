@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-26T20:36:01+00:00",
+  "generated_at": "2026-07-30T07:09:15+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -25988,6 +25988,20 @@
       ],
       "product_aliases": [],
       "sanctioned": true
+    },
+    {
+      "slug": "cifra-by",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/cifra-by.png",
+      "keywords": [
+        "cifra",
+        "cifra markets",
+        "cifra broker",
+        "tsifra broker",
+        "цифра брокер"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
     }
   ]
 }
