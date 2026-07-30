@@ -2337,7 +2337,6 @@ MB (ex Multibank),exchange,100,4,75,5,TRON,manual-admin,mb-io,mb.io,"mb.io,multi
 USDT.KG,exchange,50,1,80,5,TRON,manual-admin,usdt-kg,usdt.kg,"usdt.kg,ticketnet",,manual,2026-07-14,true,274a2e4d56bcf40d3498c5c4dad207dc882e948c13dc4c674a2165e20ec8b37e
 Raastin,exchange,60,,,,TRON,,raastin-com,raastin.com,"raastin,raastin.com",,manual,2026-07-14,true,7d7da9cb9ad339f0ce43bb70a86ffb05c40ed6248a9b2e03dfd25b32b5054ce5
 ExWallet,custodian,60,,,,TRON,,exwallet-io,exwallet.io,"exwallet,exwallet.io",,manual,2026-07-14,true,eefe579a617342c6a2a938a777b1f29e092a9341e30eb7d9d8c7765f0a37e232
-Sergei Mendeleev,wallet,80,,,,TRON,manual-admin,sergei-mendeleev,,"sergei mendeleev,mendeleev",,manual,2026-07-14,true,c38af433eab9c3dfa5a7e334fa5c33373470edc1e4f1a1e26b5a2ea155d36955
 Votium,defi,100,12,90,10,ETH|ARBITRUM|AVALANCHE|BASE|BSC|OPTIMISM|POLYGON,arkham|scorechain-counterparties,votium,votium.app,"votium,votium.app,multimerklestash",,manual,2026-07-14,true,c68291246966830c6ae39441025b467c354b9c359c63c1462cc5c0be2607194c
 Bitget Wallet (Prev. Bitkeep),custodian,100,,75,5,,manual-admin,bitget-wallet,,"bitget wallet,bitkeep",,manual,2026-07-14,true,e4593e21bf01d6bb31d5a1b514d146ed03439b3ebae8aaf6c00b3ab294c5a4e2
 EUR CoinVertible,defi,100,,80,5,,manual-admin,societe-generale-forge-eurcv,,"eur coinvertible,eurcv,societe generale forge",,manual,2026-07-14,true,526dcbee3d9afc29ad59ebcfca3b95b9e86e73ddf979d310b59d8e06118e47e8

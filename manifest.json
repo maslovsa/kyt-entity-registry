@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-30T21:50:19+00:00",
+  "generated_at": "2026-07-30T22:13:13+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -22720,17 +22720,6 @@
       "keywords": [
         "exwallet",
         "exwallet.io"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "sergei-mendeleev",
-      "category": "wallet",
-      "logo_path": "logos/wallet/sergei-mendeleev.png",
-      "keywords": [
-        "sergei mendeleev",
-        "mendeleev"
       ],
       "product_aliases": [],
       "sanctioned": false
