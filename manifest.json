@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-01T13:02:41+00:00",
+  "generated_at": "2026-08-01T20:50:34+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -27264,6 +27264,19 @@
       "keywords": [
         "support ukraine uk",
         "supportukraine.uk"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ezil-me",
+      "category": "mining",
+      "logo_path": "logos/mining/ezil-me.png",
+      "keywords": [
+        "ezil",
+        "ezil.me",
+        "ezil pool",
+        "zilliqa mining"
       ],
       "product_aliases": [],
       "sanctioned": false
