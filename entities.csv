@@ -2863,3 +2863,12 @@ OxaPay,psp,50,0,75,5,ETH|BTC|TRON|BSC,manual-admin,oxapay,oxapay.com,"oxapay,oxa
 PayGate.to,psp,50,0,75,5,BTC|SOL|ETH|TRON,manual-admin,paygate-to,paygate.to,"paygate.to,paygate.to",,manual,2026-08-02,true,607e18f31158c69e820c5646189e14f02011e620785ac7113b91f8cd34d71b9b
 Payhound,psp,50,0,75,5,ETH|BTC|SOL|TRON,manual-admin,payhound,payhound.com,"payhound,payhound.com",,manual,2026-08-02,true,7c67033648bb5535fee8f0b7a192604d54609be676af54b2e29edf8bf6e99379
 PayRam,psp,50,0,75,5,ETH|BTC|TRON,manual-admin,payram,payram.com,"payram,payram.com",,manual,2026-08-02,true,c0e85ff8cb8904b41f8e41454292027eb3940d54831a705e943c8e8b415f8d96
+Payy,psp,50,0,75,5,ETH|BASE,manual-admin,payy,payy.network,"payy,payy.network",,manual,2026-08-02,true,21c678fb497238111ead37f960e2aa31714e98f19ed2eb0fac7826925b8a755d
+PlasBit,custodian,50,0,75,5,BTC|ETH|TRON,manual-admin,plasbit,plasbit.com,"plasbit,plasbit.com",,manual,2026-08-02,true,066037c04cd84b9bb785d74d73006d94fb1a5e2f60351ade90f606c65ff7d7c0
+Plasma One,psp,50,0,75,5,ETH|BTC,manual-admin,plasma-one,plasma.to,"plasma one,plasma.to,plasma.org",,manual,2026-08-02,true,b51243ed244fac9399f6583060f780027d96c1677217df69e8320774e21a4b47
+Plutus,psp,50,0,75,5,ETH|BTC,manual-admin,plutus,plutus.it,"plutus,plutus.it",,manual,2026-08-02,true,7fd4f2f5af06df5f7e5adf6fcca5ac4e37d058762a4ac3dcd8e629722114cacd
+Pundi X,psp,50,0,75,5,ETH|BTC|BSC,manual-admin,pundi-x,pundix.com,"pundi x,pundix.com,pundix",,manual,2026-08-02,true,feffe7c0e78e49740d17986f98339b693f8304d40b157bb95d369f481199748e
+Radom,psp,50,0,75,5,ETH|BTC|SOL|POLYGON,manual-admin,radom,radom.com,"radom,radom.com",,manual,2026-08-02,true,deada2cf5e8e74342d704689a2ff9b7f8255544212d88d360de316a1d1734c93
+Reddio,psp,50,0,75,5,ETH|BSC,manual-admin,reddio,reddio.com,"reddio,reddio.com",,manual,2026-08-02,true,0d4f01157c862e00ef046826e56d023de8c704321f1ad36c4936fee75bfd592b
+Rizon,psp,50,0,75,5,ETH|SOL|BASE|POLYGON,manual-admin,rizon,getrizon.com,"rizon,getrizon.com",,manual,2026-08-02,true,3502a4204a138c27f5e18913b72a3c835e393954ad1bd6123ad3ccad6b95f435
+Sarafa,psp,50,0,75,5,BTC|ETH|TRON,manual-admin,sarafa,sarafa.ss,"sarafa,sarafa.ss",,manual,2026-08-02,true,225b8497424af7018236b5044df6888b116fecb266185369cfa5f645c00be159

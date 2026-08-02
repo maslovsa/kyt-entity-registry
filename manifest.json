@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-02T09:12:38+00:00",
+  "generated_at": "2026-08-02T09:59:51+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28509,6 +28509,107 @@
       "keywords": [
         "payram",
         "payram.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "payy",
+      "category": "psp",
+      "logo_path": "logos/psp/payy.png",
+      "keywords": [
+        "payy",
+        "payy.network"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "plasbit",
+      "category": "custodian",
+      "logo_path": "logos/custodian/plasbit.png",
+      "keywords": [
+        "plasbit",
+        "plasbit.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "plasma-one",
+      "category": "psp",
+      "logo_path": "logos/psp/plasma-one.png",
+      "keywords": [
+        "plasma one",
+        "plasma.to",
+        "plasma.org"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "plutus",
+      "category": "psp",
+      "logo_path": "logos/psp/plutus.png",
+      "keywords": [
+        "plutus",
+        "plutus.it"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pundi-x",
+      "category": "psp",
+      "logo_path": "logos/psp/pundi-x.png",
+      "keywords": [
+        "pundi x",
+        "pundix.com",
+        "pundix"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "radom",
+      "category": "psp",
+      "logo_path": "logos/psp/radom.png",
+      "keywords": [
+        "radom",
+        "radom.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "reddio",
+      "category": "psp",
+      "logo_path": "logos/psp/reddio.png",
+      "keywords": [
+        "reddio",
+        "reddio.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "rizon",
+      "category": "psp",
+      "logo_path": "logos/psp/rizon.png",
+      "keywords": [
+        "rizon",
+        "getrizon.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "sarafa",
+      "category": "psp",
+      "logo_path": "logos/psp/sarafa.png",
+      "keywords": [
+        "sarafa",
+        "sarafa.ss"
       ],
       "product_aliases": [],
       "sanctioned": false
