@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-02T08:21:30+00:00",
+  "generated_at": "2026-08-02T08:32:31+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -27959,6 +27959,193 @@
       "keywords": [
         "fipto",
         "fipto.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "fizen",
+      "category": "psp",
+      "logo_path": "logos/psp/fizen.png",
+      "keywords": [
+        "fizen",
+        "fizen.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "flexa",
+      "category": "psp",
+      "logo_path": "logos/psp/flexa.png",
+      "keywords": [
+        "flexa",
+        "flexa.co"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "flipeet",
+      "category": "psp",
+      "logo_path": "logos/psp/flipeet.png",
+      "keywords": [
+        "flipeet",
+        "flipeet.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "forgingblock",
+      "category": "psp",
+      "logo_path": "logos/psp/forgingblock.png",
+      "keywords": [
+        "forgingblock",
+        "forgingblock.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "foxbit",
+      "category": "exchanges",
+      "logo_path": "logos/exchanges/foxbit.png",
+      "keywords": [
+        "foxbit",
+        "foxbit.com.br"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "fystack",
+      "category": "psp",
+      "logo_path": "logos/psp/fystack.png",
+      "keywords": [
+        "fystack",
+        "fystack.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gaian-network",
+      "category": "psp",
+      "logo_path": "logos/psp/gaian-network.png",
+      "keywords": [
+        "gaian network",
+        "gaian.network"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gemrails",
+      "category": "psp",
+      "logo_path": "logos/psp/gemrails.png",
+      "keywords": [
+        "gemrails",
+        "gemrails.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gopay",
+      "category": "psp",
+      "logo_path": "logos/psp/gopay.png",
+      "keywords": [
+        "gopay",
+        "gopay.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gourl",
+      "category": "psp",
+      "logo_path": "logos/psp/gourl.png",
+      "keywords": [
+        "gourl",
+        "gourl.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "guardarian",
+      "category": "psp",
+      "logo_path": "logos/psp/guardarian.png",
+      "keywords": [
+        "guardarian",
+        "guardarian.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hesabpay",
+      "category": "psp",
+      "logo_path": "logos/psp/hesabpay.png",
+      "keywords": [
+        "hesabpay",
+        "hesab.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ironweave",
+      "category": "psp",
+      "logo_path": "logos/psp/ironweave.png",
+      "keywords": [
+        "ironweave",
+        "ironweave.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "itez",
+      "category": "psp",
+      "logo_path": "logos/psp/itez.png",
+      "keywords": [
+        "itez",
+        "itez.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ivorypay",
+      "category": "psp",
+      "logo_path": "logos/psp/ivorypay.png",
+      "keywords": [
+        "ivorypay",
+        "ivorypay.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ivpay",
+      "category": "psp",
+      "logo_path": "logos/psp/ivpay.png",
+      "keywords": [
+        "ivpay",
+        "ivpay.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kirapay",
+      "category": "psp",
+      "logo_path": "logos/psp/kirapay.png",
+      "keywords": [
+        "kirapay",
+        "kira-pay.com"
       ],
       "product_aliases": [],
       "sanctioned": false

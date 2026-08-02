@@ -2813,3 +2813,20 @@ DYOR.io,dex,50,0,75,5,TON,manual-admin,dyor-io,dyor.io,"dyor.io,dyor.io",,manual
 Estia Payments,psp,50,0,75,5,POLYGON,manual-admin,estia-payments,estiapayments.io,"estia payments,estiapayments.io",,manual,2026-08-02,true,55d7acb81377d5d9a31325838f149cd11e751414e9cbd6568220dfa6b40a17ce
 Ezeebit,psp,50,0,75,5,ETH|BTC|TRON,manual-admin,ezeebit,ezeebit.com,"ezeebit,ezeebit.com",,manual,2026-08-02,true,ca30db0685239e83d1bdf6ade60000649e729104aefb5a132dfc5bfe5ff7f3df
 Fipto,psp,50,0,75,5,ETH|POLYGON,manual-admin,fipto,fipto.com,"fipto,fipto.com",,manual,2026-08-02,true,1292616ba3795f0cbd301fecb87af1be217075c723a37cc8debc8cb238a95a69
+Fizen,psp,50,0,75,5,ETH|BSC|TRON|SOL,manual-admin,fizen,fizen.io,"fizen,fizen.io",,manual,2026-08-02,true,8aaa584111a154945a5d227ab53debf2deb1229dbec7f4e7323918fd8defa796
+Flexa,psp,50,0,75,5,ETH,manual-admin,flexa,flexa.co,"flexa,flexa.co",,manual,2026-08-02,true,6ae857ae40101d4a10615a3ad9d4ee86d63264f30936b6af84e3751cb7acacf7
+Flipeet,psp,50,0,75,5,ETH|SOL,manual-admin,flipeet,flipeet.io,"flipeet,flipeet.io",,manual,2026-08-02,true,0831279062301bf3e16978af018480c8b837e552124732a6d048185ae1b5fd80
+ForgingBlock,psp,50,0,75,5,BTC|ETH|BCH|LTC|TRON|XMR|XTZ,manual-admin,forgingblock,forgingblock.io,"forgingblock,forgingblock.io",,manual,2026-08-02,true,2513f3106d0e2f2ec88255f16e8ea2116507c24deb782f4e258a37ba20c0dc6c
+Foxbit,exchanges,50,0,75,5,BTC|ETH,manual-admin,foxbit,foxbit.com.br,"foxbit,foxbit.com.br",,manual,2026-08-02,true,bdb9cc7e29396145544ad8b9344f68e3c4eecd5cbab2182142099b1ce759d632
+Fystack,psp,50,0,75,5,ETH|BTC|TRON|SOL,manual-admin,fystack,fystack.io,"fystack,fystack.io",,manual,2026-08-02,true,9db588f2ea2f1b7e15ab2364c2ba8312d342fb166b1830c8d2f0e228bd75dcec
+Gaian Network,psp,50,0,75,5,ETH|POLYGON|TRON,manual-admin,gaian-network,gaian.network,"gaian network,gaian.network",,manual,2026-08-02,true,3187ef8a28fefef33c1151046a42a04f51558575e916905a1b1fb52e515d7b6e
+GemRails,psp,50,0,75,5,ETH|TRON|BSC,manual-admin,gemrails,gemrails.com,"gemrails,gemrails.com",,manual,2026-08-02,true,236ca18fcf0f393b4c0d33127f1c981a3edfbedf04c84457614a90282061b08c
+GoPay,psp,50,0,75,5,BTC|ETH|TRON|SOL|LTC,manual-admin,gopay,gopay.com,"gopay,gopay.com",,manual,2026-08-02,true,51f4318d6c9829212e913afb27d93568fd6a6a7374f0c1f9ff1ecfab3a2cc68b
+GoURL,psp,50,0,75,5,BTC|ETH|LTC,manual-admin,gourl,gourl.io,"gourl,gourl.io",,manual,2026-08-02,true,33db7b734f3ca8c38b3b8c6551dbd3e2b60db3dd12cd446ff302ca02ec6a3623
+Guardarian,psp,50,0,75,5,ETH|BTC|TRON|POLYGON,manual-admin,guardarian,guardarian.com,"guardarian,guardarian.com",,manual,2026-08-02,true,d4819571cc3e697c6c0c7db8c54c6aab71bc63a48e49233c2e26a9ceca04629e
+HesabPay,psp,50,0,75,5,ALGO,manual-admin,hesabpay,hesab.com,"hesabpay,hesab.com",,manual,2026-08-02,true,0358cefd1881424bb92184a2e1ef869517b76a4095f2e10e7319c4b139034a00
+IronWeave,psp,50,0,75,5,ETH,manual-admin,ironweave,ironweave.io,"ironweave,ironweave.io",,manual,2026-08-02,true,7101a2f55b0913decaa04e6ed524c3c4e104394049a775d5fbd2e47585cf52d6
+Itez,psp,50,0,75,5,ETH|TRON,manual-admin,itez,itez.com,"itez,itez.com",,manual,2026-08-02,true,da1876db3d8e62d4f1c95b3ffd55ea94cb56f43c8bbfd6de0f5d168f9591fe00
+Ivorypay,psp,50,0,75,5,ETH|TRON|BSC,manual-admin,ivorypay,ivorypay.io,"ivorypay,ivorypay.io",,manual,2026-08-02,true,ac5e7b40641a29a1f3811ff86517610c7af8f19255c1fa73b6d97ed66ac51f3b
+IVPAY,psp,50,0,75,5,ETH|BTC|TRON,manual-admin,ivpay,ivpay.io,"ivpay,ivpay.io",,manual,2026-08-02,true,dd911335bed9764e3c6d796aed1ea9e78050d61a8c39d4a2fc7d1ca748289269
+KIRAPAY,psp,50,0,75,5,ETH|BSC|POLYGON|SOL,manual-admin,kirapay,kira-pay.com,"kirapay,kira-pay.com",,manual,2026-08-02,true,de54c5095112a42a6781c0f13e9d4b9478a3d1031d65145d66b7b2ce414701fb
