@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-02T09:59:51+00:00",
+  "generated_at": "2026-08-02T10:10:03+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28610,6 +28610,95 @@
       "keywords": [
         "sarafa",
         "sarafa.ss"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "smilepayz",
+      "category": "psp",
+      "logo_path": "logos/psp/smilepayz.png",
+      "keywords": [
+        "smilepayz",
+        "smilepayz.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "speed",
+      "category": "psp",
+      "logo_path": "logos/psp/speed.png",
+      "keywords": [
+        "speed",
+        "tryspeed.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "spend",
+      "category": "psp",
+      "logo_path": "logos/psp/spend.png",
+      "keywords": [
+        "spend",
+        "spend.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "stvble-digital",
+      "category": "psp",
+      "logo_path": "logos/psp/stvble-digital.png",
+      "keywords": [
+        "stvble digital",
+        "stvbledigital.com",
+        "stvble"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "swapper-finance",
+      "category": "psp",
+      "logo_path": "logos/psp/swapper-finance.png",
+      "keywords": [
+        "swapper finance",
+        "swapper.finance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "swaps",
+      "category": "psp",
+      "logo_path": "logos/psp/swaps.png",
+      "keywords": [
+        "swaps",
+        "swaps.app"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "swypt",
+      "category": "psp",
+      "logo_path": "logos/psp/swypt.png",
+      "keywords": [
+        "swypt",
+        "swypt.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tender",
+      "category": "psp",
+      "logo_path": "logos/psp/tender.png",
+      "keywords": [
+        "tender",
+        "tender.cash"
       ],
       "product_aliases": [],
       "sanctioned": false

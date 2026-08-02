@@ -2872,3 +2872,11 @@ Radom,psp,50,0,75,5,ETH|BTC|SOL|POLYGON,manual-admin,radom,radom.com,"radom,rado
 Reddio,psp,50,0,75,5,ETH|BSC,manual-admin,reddio,reddio.com,"reddio,reddio.com",,manual,2026-08-02,true,0d4f01157c862e00ef046826e56d023de8c704321f1ad36c4936fee75bfd592b
 Rizon,psp,50,0,75,5,ETH|SOL|BASE|POLYGON,manual-admin,rizon,getrizon.com,"rizon,getrizon.com",,manual,2026-08-02,true,3502a4204a138c27f5e18913b72a3c835e393954ad1bd6123ad3ccad6b95f435
 Sarafa,psp,50,0,75,5,BTC|ETH|TRON,manual-admin,sarafa,sarafa.ss,"sarafa,sarafa.ss",,manual,2026-08-02,true,225b8497424af7018236b5044df6888b116fecb266185369cfa5f645c00be159
+SmilePayz,psp,50,0,75,5,TRON|ETH,manual-admin,smilepayz,smilepayz.com,"smilepayz,smilepayz.com",,manual,2026-08-02,true,eeb69e2baa71d5c60a9f66a775dab79467dc0956794b434410ab45eba74a4b17
+Speed,psp,50,0,75,5,BTC|ETH|TRON,manual-admin,speed,tryspeed.com,"speed,tryspeed.com",,manual,2026-08-02,true,67567659308cbc6f24cd309e188d0fe52889abb03ddb096d6b9c14eac0d6b8d5
+Spend,psp,50,0,75,5,ETH|BASE|SOL,manual-admin,spend,spend.com,"spend,spend.com",,manual,2026-08-02,true,efd85fbf3bccb26a9805b0e69fd73b657e0ae16bd3de02617cac07ff347f1813
+Stvble Digital,psp,50,0,75,5,ETH|TRON,manual-admin,stvble-digital,stvbledigital.com,"stvble digital,stvbledigital.com,stvble",,manual,2026-08-02,true,4be2f3d7d1ce81c2c0314eb7c116ab4f4a9d8dbfdc70494381cf6f7c5281ccf0
+Swapper Finance,psp,50,0,75,5,ETH|BASE,manual-admin,swapper-finance,swapper.finance,"swapper finance,swapper.finance",,manual,2026-08-02,true,e6843966858b2ec920a4685dd679264a981e148c00a71b5cfb042d57c26c75e9
+Swaps,psp,50,0,75,5,ETH|BTC|TRON|SOL,manual-admin,swaps,swaps.app,"swaps,swaps.app",,manual,2026-08-02,true,fd795265dc2bf57c89c9408f64ff9846a92015c9a08735f5a964b9ec189dcfb4
+Swypt,psp,50,0,75,5,ETH|BASE|TRON,manual-admin,swypt,swypt.io,"swypt,swypt.io",,manual,2026-08-02,true,75e68ff1a7b6825d7f8e903cdd299784f2a47ddce4be433b1649643bc4c2cb50
+Tender,psp,50,0,75,5,BTC|ETH|SOL,manual-admin,tender,tender.cash,"tender,tender.cash",,manual,2026-08-02,true,39544eefa5ece7001041c7a289877adb4b8db942fd06b79c31ba0173c7bef9db
