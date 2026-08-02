@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-02T20:06:07+00:00",
+  "generated_at": "2026-08-02T20:14:12+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -29040,6 +29040,20 @@
         "umbrella stake gho"
       ],
       "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "zarp",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/zarp.png",
+      "keywords": [
+        "zarp",
+        "zarp stablecoin",
+        "zarpstablecoin.com"
+      ],
+      "product_aliases": [
+        "rand reserve"
+      ],
       "sanctioned": false
     }
   ]
