@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-02T19:55:41+00:00",
+  "generated_at": "2026-08-02T20:06:07+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28997,6 +28997,47 @@
         "societe generale forge",
         "sg-forge",
         "sgforge"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "theo",
+      "category": "defi",
+      "logo_path": "logos/defi/theo.png",
+      "keywords": [
+        "theo network",
+        "theo.xyz",
+        "theo network thbill",
+        "thbill"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tron-dao-reserve",
+      "category": "defi",
+      "logo_path": "logos/defi/tron-dao-reserve.png",
+      "keywords": [
+        "tron dao reserve",
+        "trondao reserve",
+        "usdd.io",
+        "usdd reserve"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "umbrella-aave",
+      "category": "defi",
+      "logo_path": "logos/defi/umbrella-aave.png",
+      "keywords": [
+        "aave umbrella",
+        "aave-umbrella",
+        "umbrella aave",
+        "umbrellabatchhelper",
+        "umbrella stake wrapped aave",
+        "umbrella stake gho"
       ],
       "product_aliases": [],
       "sanctioned": false
