@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-02T19:32:12+00:00",
+  "generated_at": "2026-08-02T19:45:01+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28940,6 +28940,41 @@
         "inverse.finance",
         "dola",
         "sdola"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "jpyc",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/jpyc.png",
+      "keywords": [
+        "jpyc",
+        "jpyc.co.jp"
+      ],
+      "product_aliases": [
+        "JPYC"
+      ],
+      "sanctioned": false
+    },
+    {
+      "slug": "openeden",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/openeden.png",
+      "keywords": [
+        "openeden",
+        "openeden.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "origin-protocol",
+      "category": "defi",
+      "logo_path": "logos/defi/origin-protocol.png",
+      "keywords": [
+        "origin protocol",
+        "originprotocol.com"
       ],
       "product_aliases": [],
       "sanctioned": false
