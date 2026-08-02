@@ -2797,3 +2797,19 @@ Coinflow,psp,50,0,75,5,ETH|SOL|POLYGON,manual-admin,coinflow,coinflow.cash,"coin
 Coinify,psp,50,0,75,5,ETH|BTC,manual-admin,coinify,coinify.com,"coinify,coinify.com",,manual,2026-08-02,true,f96f582d470f4a9f2c280bd85d7f5f2ec06bb719cc0ef5b81c2589a7807a5d1c
 Coino Live,psp,50,0,75,5,ETH|BSC|TRON,manual-admin,coino-live,coino.live,"coino live,coino.live",,manual,2026-08-02,true,6abc51645e5627857a93766020084e4d50a297aa575d2853ce6df6e333690d6b
 Coinsub,psp,50,0,75,5,ETH|SOL,manual-admin,coinsub,coinsub.io,"coinsub,coinsub.io",,manual,2026-08-02,true,10022a0eaf368cc2ec1e882cd752b15b977a81555546c94fc2da4e922e9f8468
+CPAY,psp,50,0,75,5,ETH|BSC,manual-admin,cpay,cpay.world,"cpay,cpay.world",,manual,2026-08-02,true,6e0ec1371095c9aee7ca817a7719094e80d7a29cb51fb77b29499cc928d5d246
+Crossmint,psp,50,0,75,5,ETH|POLYGON|SOL|BASE,manual-admin,crossmint,crossmint.com,"crossmint,crossmint.com",,manual,2026-08-02,true,628ed42e50c6174588e1a30a6c5fac6eb5b917c6b08fa5c8c4bfd6aca292d087
+CryPay,psp,50,0,75,5,ETH|BSC|TRON,manual-admin,crypay,crypay.com,"crypay,crypay.com",,manual,2026-08-02,true,fef6d62b847bfa0e129e4fa20d711bd4075b0e7b198815f3510fb232f30012a9
+Cryptadium,psp,50,0,75,5,ETH|BTC|TRON,manual-admin,cryptadium,cryptadium.com,"cryptadium,cryptadium.com",,manual,2026-08-02,true,9f1492dcaec5fb4b6043c4da409bc9d8e0f5ea0f06627def9e3030e5c1209721
+CryptAPI,psp,50,0,75,5,ETH|BTC|TRON|BSC,manual-admin,cryptapi,cryptapi.io,"cryptapi,cryptapi.io",,manual,2026-08-02,true,2b92359f220d2743afba71ce8499f55854c5ba37965a63277692186a809b93a7
+Cypher,psp,50,0,75,5,ETH|BASE,manual-admin,cypher,cypherhq.io,"cypher,cypherhq.io",,manual,2026-08-02,true,48b92a12dae452af5ea2b3b2f2f536e6e888d5ac27fe0486c2c1f5625a157494
+DashX,psp,50,0,75,5,ETH|SOL|ARBITRUM|POLYGON,manual-admin,dashx,dashx.xyz,"dashx,dashx.xyz",,manual,2026-08-02,true,802f19cbb1bb2db543c2f559f11ded444615b3b52bf2ea8ac16f5a4250bc24fe
+Decal,psp,50,0,75,5,SOL,manual-admin,decal,usedecal.com,"decal,usedecal.com",,manual,2026-08-02,true,2dc9bd1b16e332e0eb3f314721e0e4b10e27c1929eef359316f5fdfa569fd457
+Deus X Pay,psp,50,0,75,5,ETH|TRON,manual-admin,deus-x-pay,deusxpay.com,"deus x pay,deusxpay.com",,manual,2026-08-02,true,eaefb2412fadcd740bf75b225b91ca55cd4ecb417d069adc4368a33358c2a432
+Dexter,psp,50,0,75,5,SOL,manual-admin,dexter,dexter.cash,"dexter,dexter.cash",,manual,2026-08-02,true,9b9f32f79fa2e57c1900142a3e8d7178ac2538c45d88385307a01f7f59b300db
+Dropp,psp,50,0,75,5,ETH,manual-admin,dropp,dropp.cc,"dropp,dropp.cc",,manual,2026-08-02,true,1913b94d1495656b1353d04e277bd08330e7e48f5dbbe337e893f5280fb1a3f4
+Due,psp,50,0,75,5,ETH|TRON,manual-admin,due,opendue.com,"due,opendue.com",,manual,2026-08-02,true,4556ba06afe6c430e29235f059454a22eb4709762b4a9d1d150fb9f48f9f8e4f
+DYOR.io,dex,50,0,75,5,TON,manual-admin,dyor-io,dyor.io,"dyor.io,dyor.io",,manual,2026-08-02,true,d3ec2511f54ca914a4b5180462955a3cf7ca8dab64b5f4b1a46e7658f6d49c04
+Estia Payments,psp,50,0,75,5,POLYGON,manual-admin,estia-payments,estiapayments.io,"estia payments,estiapayments.io",,manual,2026-08-02,true,55d7acb81377d5d9a31325838f149cd11e751414e9cbd6568220dfa6b40a17ce
+Ezeebit,psp,50,0,75,5,ETH|BTC|TRON,manual-admin,ezeebit,ezeebit.com,"ezeebit,ezeebit.com",,manual,2026-08-02,true,ca30db0685239e83d1bdf6ade60000649e729104aefb5a132dfc5bfe5ff7f3df
+Fipto,psp,50,0,75,5,ETH|POLYGON,manual-admin,fipto,fipto.com,"fipto,fipto.com",,manual,2026-08-02,true,1292616ba3795f0cbd301fecb87af1be217075c723a37cc8debc8cb238a95a69

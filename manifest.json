@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-02T08:06:54+00:00",
+  "generated_at": "2026-08-02T08:21:30+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -27783,6 +27783,182 @@
       "keywords": [
         "coinsub",
         "coinsub.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cpay",
+      "category": "psp",
+      "logo_path": "logos/psp/cpay.png",
+      "keywords": [
+        "cpay",
+        "cpay.world"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "crossmint",
+      "category": "psp",
+      "logo_path": "logos/psp/crossmint.png",
+      "keywords": [
+        "crossmint",
+        "crossmint.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "crypay",
+      "category": "psp",
+      "logo_path": "logos/psp/crypay.png",
+      "keywords": [
+        "crypay",
+        "crypay.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cryptadium",
+      "category": "psp",
+      "logo_path": "logos/psp/cryptadium.png",
+      "keywords": [
+        "cryptadium",
+        "cryptadium.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cryptapi",
+      "category": "psp",
+      "logo_path": "logos/psp/cryptapi.png",
+      "keywords": [
+        "cryptapi",
+        "cryptapi.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cypher",
+      "category": "psp",
+      "logo_path": "logos/psp/cypher.png",
+      "keywords": [
+        "cypher",
+        "cypherhq.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dashx",
+      "category": "psp",
+      "logo_path": "logos/psp/dashx.png",
+      "keywords": [
+        "dashx",
+        "dashx.xyz"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "decal",
+      "category": "psp",
+      "logo_path": "logos/psp/decal.png",
+      "keywords": [
+        "decal",
+        "usedecal.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "deus-x-pay",
+      "category": "psp",
+      "logo_path": "logos/psp/deus-x-pay.png",
+      "keywords": [
+        "deus x pay",
+        "deusxpay.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dexter",
+      "category": "psp",
+      "logo_path": "logos/psp/dexter.png",
+      "keywords": [
+        "dexter",
+        "dexter.cash"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dropp",
+      "category": "psp",
+      "logo_path": "logos/psp/dropp.png",
+      "keywords": [
+        "dropp",
+        "dropp.cc"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "due",
+      "category": "psp",
+      "logo_path": "logos/psp/due.png",
+      "keywords": [
+        "due",
+        "opendue.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dyor-io",
+      "category": "dex",
+      "logo_path": "logos/dex/dyor-io.png",
+      "keywords": [
+        "dyor.io",
+        "dyor.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "estia-payments",
+      "category": "psp",
+      "logo_path": "logos/psp/estia-payments.png",
+      "keywords": [
+        "estia payments",
+        "estiapayments.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ezeebit",
+      "category": "psp",
+      "logo_path": "logos/psp/ezeebit.png",
+      "keywords": [
+        "ezeebit",
+        "ezeebit.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "fipto",
+      "category": "psp",
+      "logo_path": "logos/psp/fipto.png",
+      "keywords": [
+        "fipto",
+        "fipto.com"
       ],
       "product_aliases": [],
       "sanctioned": false
