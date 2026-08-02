@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-02T19:21:29+00:00",
+  "generated_at": "2026-08-02T19:32:12+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28904,6 +28904,42 @@
       "keywords": [
         "coinmania",
         "coinmania.exchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "darkex",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/darkex.png",
+      "keywords": [
+        "darkex",
+        "darkex.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dialectic",
+      "category": "defi",
+      "logo_path": "logos/defi/dialectic.png",
+      "keywords": [
+        "dialectic",
+        "dialectic.com",
+        "dialectic usd vault"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "inverse-finance",
+      "category": "defi",
+      "logo_path": "logos/defi/inverse-finance.png",
+      "keywords": [
+        "inverse finance",
+        "inverse.finance",
+        "dola",
+        "sdola"
       ],
       "product_aliases": [],
       "sanctioned": false
