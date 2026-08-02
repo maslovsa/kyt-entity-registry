@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-02T08:43:47+00:00",
+  "generated_at": "2026-08-02T09:12:38+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28333,6 +28333,182 @@
       "keywords": [
         "nexapay",
         "nexapay.one"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "nimiq",
+      "category": "psp",
+      "logo_path": "logos/psp/nimiq.png",
+      "keywords": [
+        "nimiq",
+        "nimiq.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "niobi",
+      "category": "psp",
+      "logo_path": "logos/psp/niobi.png",
+      "keywords": [
+        "niobi",
+        "niobi.co"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "nodex",
+      "category": "psp",
+      "logo_path": "logos/psp/nodex.png",
+      "keywords": [
+        "nodex",
+        "nodexpay.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "nuvei",
+      "category": "psp",
+      "logo_path": "logos/psp/nuvei.png",
+      "keywords": [
+        "nuvei",
+        "nuvei.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "olkypay",
+      "category": "psp",
+      "logo_path": "logos/psp/olkypay.png",
+      "keywords": [
+        "olkypay",
+        "olky.eu"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "olypay",
+      "category": "psp",
+      "logo_path": "logos/psp/olypay.png",
+      "keywords": [
+        "olypay",
+        "olypay.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "one-io",
+      "category": "psp",
+      "logo_path": "logos/psp/one-io.png",
+      "keywords": [
+        "one.io",
+        "one.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "onmeta",
+      "category": "psp",
+      "logo_path": "logos/psp/onmeta.png",
+      "keywords": [
+        "onmeta",
+        "onmeta.in"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "onramp",
+      "category": "psp",
+      "logo_path": "logos/psp/onramp.png",
+      "keywords": [
+        "onramp",
+        "onramp.ee"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "onta-network",
+      "category": "psp",
+      "logo_path": "logos/psp/onta-network.png",
+      "keywords": [
+        "onta network",
+        "onta.network"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "oobit",
+      "category": "psp",
+      "logo_path": "logos/psp/oobit.png",
+      "keywords": [
+        "oobit",
+        "oobit.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "opennode",
+      "category": "psp",
+      "logo_path": "logos/psp/opennode.png",
+      "keywords": [
+        "opennode",
+        "opennode.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "oxapay",
+      "category": "psp",
+      "logo_path": "logos/psp/oxapay.png",
+      "keywords": [
+        "oxapay",
+        "oxapay.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "paygate-to",
+      "category": "psp",
+      "logo_path": "logos/psp/paygate-to.png",
+      "keywords": [
+        "paygate.to",
+        "paygate.to"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "payhound",
+      "category": "psp",
+      "logo_path": "logos/psp/payhound.png",
+      "keywords": [
+        "payhound",
+        "payhound.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "payram",
+      "category": "psp",
+      "logo_path": "logos/psp/payram.png",
+      "keywords": [
+        "payram",
+        "payram.com"
       ],
       "product_aliases": [],
       "sanctioned": false

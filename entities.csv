@@ -2847,3 +2847,19 @@ Myaza,psp,50,0,75,5,ETH|TRON,manual-admin,myaza,myaza.co,"myaza,myaza.co",,manua
 NAKA,psp,50,0,75,5,BTC|ETH,manual-admin,naka,naka.com,"naka,naka.com",,manual,2026-08-02,true,f2a558eb448acbaafa60e53510cd2083ee157a1e8c9818bdc6612be43a6b9562
 Nevermined,psp,50,0,75,5,ETH|BASE,manual-admin,nevermined,nevermined.ai,"nevermined,nevermined.ai",,manual,2026-08-02,true,33a086552460f74b7ef429e5f6a8ba8f6632bef1d6a805c7fe425591b827f168
 NexaPay,psp,50,0,75,5,ETH|BTC,manual-admin,nexapay,nexapay.one,"nexapay,nexapay.one",,manual,2026-08-02,true,bea310079e8f6201e44bef0bab70c04dc3158ddeb34bb7b62e28da1d2b4b992d
+Nimiq,psp,50,0,75,5,NIM|BTC|ETH,manual-admin,nimiq,nimiq.com,"nimiq,nimiq.com",,manual,2026-08-02,true,0c6c52919f9531d5b4d742de679c4ee7e68f5f243e6cf98046d4ff6524f4a388
+Niobi,psp,50,0,75,5,ETH|TRON,manual-admin,niobi,niobi.co,"niobi,niobi.co",,manual,2026-08-02,true,6faab6ea2db336737b24b73a6a321ffb31f6c094b820f922b6bd010e9e195e7c
+Nodex,psp,50,0,75,5,ETH|BSC|POLYGON|TRON,manual-admin,nodex,nodexpay.com,"nodex,nodexpay.com",,manual,2026-08-02,true,96e829bd413f8bbfeea4015b0ca6d63247acd3542af272272efca7bb3b95320e
+Nuvei,psp,50,0,75,5,ETH|BTC,manual-admin,nuvei,nuvei.com,"nuvei,nuvei.com",,manual,2026-08-02,true,0a02bcf895d8799890506c2e8351309032a2afad581f6b9837a3e3d5205c6c8d
+OlkyPay,psp,50,0,75,5,ETH|POLYGON,manual-admin,olkypay,olky.eu,"olkypay,olky.eu",,manual,2026-08-02,true,353b35dabc9165b4d07f9b5e3cae7eabd0e407718c1a01a9f654e84d6f818c20
+OlyPay,psp,50,0,75,5,ETH|TRON,manual-admin,olypay,olypay.com,"olypay,olypay.com",,manual,2026-08-02,true,839e84176e2e54045cde21b75f343cce25c9fd04d1aec6018b34984b9411d15b
+ONE.io,psp,50,0,75,5,ETH|BTC,manual-admin,one-io,one.io,"one.io,one.io",,manual,2026-08-02,true,b739a4e80a90001a03db3686e3460926129127d629c001e01f0b8170b17b7e99
+OnMeta,psp,50,0,75,5,ETH|TRON|POLYGON,manual-admin,onmeta,onmeta.in,"onmeta,onmeta.in",,manual,2026-08-02,true,aed5a5ef1e56a07a236316f50caa0985178135cf5f6200eafb5ab2543986de2a
+OnRamp,psp,50,0,75,5,BTC|BCH|LTC|ETH|TRON,manual-admin,onramp,onramp.ee,"onramp,onramp.ee",,manual,2026-08-02,true,e833ab642bb88fe76f77406bee2ca474c4baa0fa7362c4f0a58b26b2ac67577d
+Onta Network,psp,50,0,75,5,ETH,manual-admin,onta-network,onta.network,"onta network,onta.network",,manual,2026-08-02,true,42b7580a1d41dcd1022a638f4c0cf4b8d8bed150bee79c52c80b677ec24dd9a9
+Oobit,psp,50,0,75,5,ETH|BTC|TRON,manual-admin,oobit,oobit.com,"oobit,oobit.com",,manual,2026-08-02,true,89d1d473ae42a42605c5a174a64054b579cbaaf00a7116b8f639e333a0da3e2e
+OpenNode,psp,50,0,75,5,BTC,manual-admin,opennode,opennode.com,"opennode,opennode.com",,manual,2026-08-02,true,444e732f453326abddef3a5231c63bf6600ef3d941ad414393ce3c257a778e93
+OxaPay,psp,50,0,75,5,ETH|BTC|TRON|BSC,manual-admin,oxapay,oxapay.com,"oxapay,oxapay.com",,manual,2026-08-02,true,442c6be724429e724586f9e107b331580610ad610ac1451bdc9e982d30fe5651
+PayGate.to,psp,50,0,75,5,BTC|SOL|ETH|TRON,manual-admin,paygate-to,paygate.to,"paygate.to,paygate.to",,manual,2026-08-02,true,607e18f31158c69e820c5646189e14f02011e620785ac7113b91f8cd34d71b9b
+Payhound,psp,50,0,75,5,ETH|BTC|SOL|TRON,manual-admin,payhound,payhound.com,"payhound,payhound.com",,manual,2026-08-02,true,7c67033648bb5535fee8f0b7a192604d54609be676af54b2e29edf8bf6e99379
+PayRam,psp,50,0,75,5,ETH|BTC|TRON,manual-admin,payram,payram.com,"payram,payram.com",,manual,2026-08-02,true,c0e85ff8cb8904b41f8e41454292027eb3940d54831a705e943c8e8b415f8d96
