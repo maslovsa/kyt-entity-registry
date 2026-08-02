@@ -2751,3 +2751,18 @@ Freedom of Russia Legion,ngo,50,1,70,5,,manual-admin,freedom-of-russia-legion,t.
 Siberian Battalion,ngo,50,1,70,5,,manual-admin,siberian-battalion,t.me/SiberianBattalion,siberian battalion,,manual,2026-07-30,true,98824ca7c810d231437f9b02fc1606ea52ea58f89094370f978e282e87f39803
 Support Ukraine UK,ngo,50,1,70,5,,manual-admin,support-ukraine-uk,supportukraine.uk,"support ukraine uk,supportukraine.uk",,manual,2026-07-31,true,69a96194ac10a9f9b307f3c2be698af84e1a823ea7ae3fc9cbb9705e7e5cbfd6
 Ezil.me,mining,90,4,90,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,arkham-intelligence,ezil-me,ezil.me,"ezil,ezil.me,ezil pool,zilliqa mining",,manual,2026-08-01,true,d8fc508dfe875b04ab223bf6eec661bf88114186a2d5b9d594ec35cb88b42147
+0xProcessing,psp,50,0,75,5,ETH|BSC|TRON|POLYGON,manual-admin,0xprocessing,0xprocessing.com,"0xprocessing,0xprocessing.com",,manual,2026-08-02,true,7e428235fc2ffceaa4846da4e56d6105f3a1866290de522ba2a2826ddf01682b
+Alchemy Pay,psp,50,0,75,5,ETH|BSC|TRON|POLYGON|ARBITRUM|OPTIMISM,manual-admin,alchemy-pay,alchemypay.org,"alchemy pay,alchemypay.org",,manual,2026-08-02,true,d7b199bcda4ffba44d4924017702d32842fadd1db437908cd31e400e7e1f2a92
+Bitpace,psp,50,0,75,5,ETH|BSC|TRON|POLYGON,manual-admin,bitpace,bitpace.com,"bitpace,bitpace.com",,manual,2026-08-02,true,6c3ee23082f88f1522a0eaf9d007e769eb0cf248d3fafb7286249d92b9c11328
+BlockBee,psp,50,0,75,5,ETH|BSC|TRON|POLYGON|BASE,manual-admin,blockbee,blockbee.io,"blockbee,blockbee.io",,manual,2026-08-02,true,deb20c2c3849892965bbcb4c11be11d360181aa6ff809e568f6b9b21417cea94
+BoomFi,psp,50,0,75,5,ETH|SOL|TRON|POLYGON,manual-admin,boomfi,boomfi.xyz,"boomfi,boomfi.xyz",,manual,2026-08-02,true,d0f137eda143c74e10f6eeb67f3ebf01ef857ee24c9d2e8d964619e9a0de398a
+BVNK,psp,50,0,75,5,ETH|TRON|POLYGON|BASE,manual-admin,bvnk,bvnk.com,"bvnk,bvnk.com",,manual,2026-08-02,true,1ffe46f32cc7acab99c95fbd1cbe465ec386f70b4366c6a0e9cb99d8be080b75
+CoinGate,psp,50,0,75,5,ETH|BTC|TRON|POLYGON|BSC,manual-admin,coingate,coingate.com,"coingate,coingate.com",,manual,2026-08-02,true,d39f08befd3320b9c89e50452b4c2615f57f32bfff7672979ba4188cc5cfe1e2
+CoinRemitter,psp,50,0,75,5,ETH|BTC|TRON|BSC,manual-admin,coinremitter,coinremitter.com,"coinremitter,coinremitter.com",,manual,2026-08-02,true,e5d552d76d39ef4f41232275113aa5de79f2e4f5a13be899de8685fafd1fc660
+Cregis,psp,50,0,75,5,ETH|TRON|BSC|POLYGON,manual-admin,cregis,cregis.com,"cregis,cregis.com",,manual,2026-08-02,true,a7248e399b9cacea8ade18228d8c18086fd9453a4f50b725f5346f274e50cfc3
+ForumPay,psp,50,0,75,5,ETH|BTC|TRON|BSC,manual-admin,forumpay,forumpay.com,"forumpay,forumpay.com",,manual,2026-08-02,true,e67e66c6dd639e256b9bf4e93052b60e3615b72acf6168435d8b5a7310b28385
+Helio,psp,50,0,75,5,SOL,manual-admin,helio,hel.io,"helio,hel.io",,manual,2026-08-02,true,160c7a4999b427fecafbb0e25e842744fa5d31a810f8d6bec338c7ecddbae063
+MaxelPay,psp,50,0,75,5,ETH|BSC|TRON|POLYGON,manual-admin,maxelpay,maxelpay.com,"maxelpay,maxelpay.com",,manual,2026-08-02,true,3b9656d163211d1ea0c8b4f0fdb1ef313bed97b8072bb2e599c39a2f8ece4334
+PassimPay,psp,50,0,75,5,ETH|BSC|TRON|POLYGON,manual-admin,passimpay,passimpay.io,"passimpay,passimpay.io",,manual,2026-08-02,true,9081f9391d5ab430f5d4276b0ae8472ae59029775e5d093639c22fc64ba42ace
+Paymento,psp,50,0,75,5,ETH|BSC|TRON|POLYGON,manual-admin,paymento,paymento.io,"paymento,paymento.io",,manual,2026-08-02,true,5ba8701eecf15161fa92d799776d01fb10247fba6f0541cacf3aaad2fe0b863a
+SpicePay,psp,50,0,75,5,ETH|BTC|BSC,manual-admin,spicepay,spicepay.com,"spicepay,spicepay.com",,manual,2026-08-02,true,49b0784d3ddafe69f1be5237f03be8e7e8ecbb5d663ab423812326bdf6638661

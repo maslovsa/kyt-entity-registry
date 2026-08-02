@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-01T20:50:34+00:00",
+  "generated_at": "2026-08-02T07:30:13+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -27277,6 +27277,171 @@
         "ezil.me",
         "ezil pool",
         "zilliqa mining"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "0xprocessing",
+      "category": "psp",
+      "logo_path": "logos/psp/0xprocessing.png",
+      "keywords": [
+        "0xprocessing",
+        "0xprocessing.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "alchemy-pay",
+      "category": "psp",
+      "logo_path": "logos/psp/alchemy-pay.png",
+      "keywords": [
+        "alchemy pay",
+        "alchemypay.org"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitpace",
+      "category": "psp",
+      "logo_path": "logos/psp/bitpace.png",
+      "keywords": [
+        "bitpace",
+        "bitpace.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "blockbee",
+      "category": "psp",
+      "logo_path": "logos/psp/blockbee.png",
+      "keywords": [
+        "blockbee",
+        "blockbee.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "boomfi",
+      "category": "psp",
+      "logo_path": "logos/psp/boomfi.png",
+      "keywords": [
+        "boomfi",
+        "boomfi.xyz"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bvnk",
+      "category": "psp",
+      "logo_path": "logos/psp/bvnk.png",
+      "keywords": [
+        "bvnk",
+        "bvnk.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coingate",
+      "category": "psp",
+      "logo_path": "logos/psp/coingate.png",
+      "keywords": [
+        "coingate",
+        "coingate.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coinremitter",
+      "category": "psp",
+      "logo_path": "logos/psp/coinremitter.png",
+      "keywords": [
+        "coinremitter",
+        "coinremitter.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cregis",
+      "category": "psp",
+      "logo_path": "logos/psp/cregis.png",
+      "keywords": [
+        "cregis",
+        "cregis.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "forumpay",
+      "category": "psp",
+      "logo_path": "logos/psp/forumpay.png",
+      "keywords": [
+        "forumpay",
+        "forumpay.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "helio",
+      "category": "psp",
+      "logo_path": "logos/psp/helio.png",
+      "keywords": [
+        "helio",
+        "hel.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "maxelpay",
+      "category": "psp",
+      "logo_path": "logos/psp/maxelpay.png",
+      "keywords": [
+        "maxelpay",
+        "maxelpay.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "passimpay",
+      "category": "psp",
+      "logo_path": "logos/psp/passimpay.png",
+      "keywords": [
+        "passimpay",
+        "passimpay.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "paymento",
+      "category": "psp",
+      "logo_path": "logos/psp/paymento.png",
+      "keywords": [
+        "paymento",
+        "paymento.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "spicepay",
+      "category": "psp",
+      "logo_path": "logos/psp/spicepay.png",
+      "keywords": [
+        "spicepay",
+        "spicepay.com"
       ],
       "product_aliases": [],
       "sanctioned": false
