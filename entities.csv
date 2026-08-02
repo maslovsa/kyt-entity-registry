@@ -2756,7 +2756,6 @@ Alchemy Pay,psp,50,0,75,5,ETH|BSC|TRON|POLYGON|ARBITRUM|OPTIMISM,manual-admin,al
 Bitpace,psp,50,0,75,5,ETH|BSC|TRON|POLYGON,manual-admin,bitpace,bitpace.com,"bitpace,bitpace.com",,manual,2026-08-02,true,6c3ee23082f88f1522a0eaf9d007e769eb0cf248d3fafb7286249d92b9c11328
 BlockBee,psp,50,0,75,5,ETH|BSC|TRON|POLYGON|BASE,manual-admin,blockbee,blockbee.io,"blockbee,blockbee.io",,manual,2026-08-02,true,deb20c2c3849892965bbcb4c11be11d360181aa6ff809e568f6b9b21417cea94
 BoomFi,psp,50,0,75,5,ETH|SOL|TRON|POLYGON,manual-admin,boomfi,boomfi.xyz,"boomfi,boomfi.xyz",,manual,2026-08-02,true,d0f137eda143c74e10f6eeb67f3ebf01ef857ee24c9d2e8d964619e9a0de398a
-BVNK,psp,50,0,75,5,ETH|TRON|POLYGON|BASE,manual-admin,bvnk,bvnk.com,"bvnk,bvnk.com",,manual,2026-08-02,true,1ffe46f32cc7acab99c95fbd1cbe465ec386f70b4366c6a0e9cb99d8be080b75
 CoinGate,psp,50,0,75,5,ETH|BTC|TRON|POLYGON|BSC,manual-admin,coingate,coingate.com,"coingate,coingate.com",,manual,2026-08-02,true,d39f08befd3320b9c89e50452b4c2615f57f32bfff7672979ba4188cc5cfe1e2
 CoinRemitter,psp,50,0,75,5,ETH|BTC|TRON|BSC,manual-admin,coinremitter,coinremitter.com,"coinremitter,coinremitter.com",,manual,2026-08-02,true,e5d552d76d39ef4f41232275113aa5de79f2e4f5a13be899de8685fafd1fc660
 Cregis,psp,50,0,75,5,ETH|TRON|BSC|POLYGON,manual-admin,cregis,cregis.com,"cregis,cregis.com",,manual,2026-08-02,true,a7248e399b9cacea8ade18228d8c18086fd9453a4f50b725f5346f274e50cfc3

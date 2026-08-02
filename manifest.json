@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-02T07:30:13+00:00",
+  "generated_at": "2026-08-02T07:35:44+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -27332,17 +27332,6 @@
       "keywords": [
         "boomfi",
         "boomfi.xyz"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "bvnk",
-      "category": "psp",
-      "logo_path": "logos/psp/bvnk.png",
-      "keywords": [
-        "bvnk",
-        "bvnk.com"
       ],
       "product_aliases": [],
       "sanctioned": false
