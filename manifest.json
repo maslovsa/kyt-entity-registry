@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-02T08:32:31+00:00",
+  "generated_at": "2026-08-02T08:43:47+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28146,6 +28146,193 @@
       "keywords": [
         "kirapay",
         "kira-pay.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kolo",
+      "category": "psp",
+      "logo_path": "logos/psp/kolo.png",
+      "keywords": [
+        "kolo",
+        "kolo.xyz"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "localpayment",
+      "category": "psp",
+      "logo_path": "logos/psp/localpayment.png",
+      "keywords": [
+        "localpayment",
+        "localpayment.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "loofta",
+      "category": "psp",
+      "logo_path": "logos/psp/loofta.png",
+      "keywords": [
+        "loofta",
+        "loofta.xyz"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "lunu",
+      "category": "psp",
+      "logo_path": "logos/psp/lunu.png",
+      "keywords": [
+        "lunu",
+        "lunu.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "lyzi",
+      "category": "psp",
+      "logo_path": "logos/psp/lyzi.png",
+      "keywords": [
+        "lyzi",
+        "lyzi.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "malum-payments",
+      "category": "psp",
+      "logo_path": "logos/psp/malum-payments.png",
+      "keywords": [
+        "malum payments",
+        "malum.to"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mercuryo",
+      "category": "psp",
+      "logo_path": "logos/psp/mercuryo.png",
+      "keywords": [
+        "mercuryo",
+        "mercuryo.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mileston",
+      "category": "psp",
+      "logo_path": "logos/psp/mileston.png",
+      "keywords": [
+        "mileston",
+        "mileston.co"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "minos-global",
+      "category": "custodian",
+      "logo_path": "logos/custodian/minos-global.png",
+      "keywords": [
+        "minos global",
+        "minos.global"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mixpay",
+      "category": "psp",
+      "logo_path": "logos/psp/mixpay.png",
+      "keywords": [
+        "mixpay",
+        "mixpay.me"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "monstre",
+      "category": "psp",
+      "logo_path": "logos/psp/monstre.png",
+      "keywords": [
+        "monstre",
+        "monstre.net"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mugglepay",
+      "category": "psp",
+      "logo_path": "logos/psp/mugglepay.png",
+      "keywords": [
+        "mugglepay",
+        "mugglepay.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "multiversx-xmoney",
+      "category": "psp",
+      "logo_path": "logos/psp/multiversx-xmoney.png",
+      "keywords": [
+        "multiversx (xmoney)",
+        "multiversx.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "myaza",
+      "category": "psp",
+      "logo_path": "logos/psp/myaza.png",
+      "keywords": [
+        "myaza",
+        "myaza.co"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "naka",
+      "category": "psp",
+      "logo_path": "logos/psp/naka.png",
+      "keywords": [
+        "naka",
+        "naka.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "nevermined",
+      "category": "psp",
+      "logo_path": "logos/psp/nevermined.png",
+      "keywords": [
+        "nevermined",
+        "nevermined.ai"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "nexapay",
+      "category": "psp",
+      "logo_path": "logos/psp/nexapay.png",
+      "keywords": [
+        "nexapay",
+        "nexapay.one"
       ],
       "product_aliases": [],
       "sanctioned": false

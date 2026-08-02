@@ -2830,3 +2830,20 @@ Itez,psp,50,0,75,5,ETH|TRON,manual-admin,itez,itez.com,"itez,itez.com",,manual,2
 Ivorypay,psp,50,0,75,5,ETH|TRON|BSC,manual-admin,ivorypay,ivorypay.io,"ivorypay,ivorypay.io",,manual,2026-08-02,true,ac5e7b40641a29a1f3811ff86517610c7af8f19255c1fa73b6d97ed66ac51f3b
 IVPAY,psp,50,0,75,5,ETH|BTC|TRON,manual-admin,ivpay,ivpay.io,"ivpay,ivpay.io",,manual,2026-08-02,true,dd911335bed9764e3c6d796aed1ea9e78050d61a8c39d4a2fc7d1ca748289269
 KIRAPAY,psp,50,0,75,5,ETH|BSC|POLYGON|SOL,manual-admin,kirapay,kira-pay.com,"kirapay,kira-pay.com",,manual,2026-08-02,true,de54c5095112a42a6781c0f13e9d4b9478a3d1031d65145d66b7b2ce414701fb
+Kolo,psp,50,0,75,5,ETH|POLYGON,manual-admin,kolo,kolo.xyz,"kolo,kolo.xyz",,manual,2026-08-02,true,21f680d30a85f4829e18e2c648895aa2bcbea93c4f399e63ce9398fdef730481
+LocalPayment,psp,50,0,75,5,ETH|TRON,manual-admin,localpayment,localpayment.com,"localpayment,localpayment.com",,manual,2026-08-02,true,2a6b30d35daf65e7b93cde6276a477727be6e0c142e2d752f94788f9dcb22c2b
+Loofta,psp,50,0,75,5,SOL|BASE|ARBITRUM|ETH,manual-admin,loofta,loofta.xyz,"loofta,loofta.xyz",,manual,2026-08-02,true,809a6bb7b0fcc89619c9bd6972c6c538a024c2d217192c85019df2da26a37f43
+Lunu,psp,50,0,75,5,BTC|ETH|TRON,manual-admin,lunu,lunu.io,"lunu,lunu.io",,manual,2026-08-02,true,e601f0f75584f51485fe9acdda0d128aa9d640d4f4b08d4fa115d4dd7b53cd81
+Lyzi,psp,50,0,75,5,ETH|POLYGON,manual-admin,lyzi,lyzi.io,"lyzi,lyzi.io",,manual,2026-08-02,true,511d0ca3b7579383d01c34145ba40c1c2903f075441b2232955ab4274ab081df
+Malum Payments,psp,50,0,75,5,BTC|ETH|TRON,manual-admin,malum-payments,malum.to,"malum payments,malum.to",,manual,2026-08-02,true,ac771e3965dfe4e32f5d35b7130212e261e86ea24fb6a83e16586a88b679cef8
+Mercuryo,psp,50,0,75,5,ETH|BTC|TRON|POLYGON,manual-admin,mercuryo,mercuryo.io,"mercuryo,mercuryo.io",,manual,2026-08-02,true,b7bf1369f56161322cad4043e86b8502446b6f2ad494da19b022f290707c7a59
+Mileston,psp,50,0,75,5,ETH|ARBITRUM|AVALANCHE|BASE,manual-admin,mileston,mileston.co,"mileston,mileston.co",,manual,2026-08-02,true,795212b74f59cd39820f719c29d02395f0721b9262a2cf1eac42518fc516b83f
+Minos Global,custodian,50,0,75,5,BTC|ETH,manual-admin,minos-global,minos.global,"minos global,minos.global",,manual,2026-08-02,true,bbcb12c9c4eee46f4817ff3df3d68baf46d18757fb381ba5947b8f344de59021
+MixPay,psp,50,0,75,5,ETH|BTC|TRON,manual-admin,mixpay,mixpay.me,"mixpay,mixpay.me",,manual,2026-08-02,true,c05762afe7b8d8b61495faa94f83ab40d6dc875097bcdcf5f2488cbd3c9d26db
+Monstre,psp,50,0,75,5,SOL,manual-admin,monstre,monstre.net,"monstre,monstre.net",,manual,2026-08-02,true,a0c716a1c097f8ec73a417205894dda05724381a0a890089ec41a6defcd3b406
+MugglePay,psp,50,0,75,5,ETH|TRON|SOL|POLYGON|BSC|BASE,manual-admin,mugglepay,mugglepay.com,"mugglepay,mugglepay.com",,manual,2026-08-02,true,cb9fa877247f707aab270888f158c92655af1f29da38bdb2038431d115e2f114
+MultiversX (xMoney),psp,50,0,75,5,ETH,manual-admin,multiversx-xmoney,multiversx.com,"multiversx (xmoney),multiversx.com",,manual,2026-08-02,true,995707dd8d2659a18e51e56755c8471dd7bc2a57e0f8cf1eeeb97105367dc7af
+Myaza,psp,50,0,75,5,ETH|TRON,manual-admin,myaza,myaza.co,"myaza,myaza.co",,manual,2026-08-02,true,4abfe719edfeef874bd48d2209bce1af0590c6bd5fdc7a5a333b05dda23d70ce
+NAKA,psp,50,0,75,5,BTC|ETH,manual-admin,naka,naka.com,"naka,naka.com",,manual,2026-08-02,true,f2a558eb448acbaafa60e53510cd2083ee157a1e8c9818bdc6612be43a6b9562
+Nevermined,psp,50,0,75,5,ETH|BASE,manual-admin,nevermined,nevermined.ai,"nevermined,nevermined.ai",,manual,2026-08-02,true,33a086552460f74b7ef429e5f6a8ba8f6632bef1d6a805c7fe425591b827f168
+NexaPay,psp,50,0,75,5,ETH|BTC,manual-admin,nexapay,nexapay.one,"nexapay,nexapay.one",,manual,2026-08-02,true,bea310079e8f6201e44bef0bab70c04dc3158ddeb34bb7b62e28da1d2b4b992d
