@@ -665,7 +665,7 @@ PancakeSwap StableSwap,dex,75,0,0,10,BSC|ARBITRUM|ETH,,pancakeswap-stableswap,pa
 Pando Leaf,defi,75,0,0,10,,,pando-leaf,pando.im,"pando leaf,pando-leaf",,arkham,2026-06-02,false,bb7b74ba956e8e4182899defa3bf2c2271456dda540a7d9237d699ba36be67ee
 Paradex Bridge,bridge,75,0,0,10,ETH,,paradex-bridge,app.paradex.trade,"paradex bridge,paradex-bridge",,arkham,2026-06-02,false,622e4c2781a9f7b85e5382c80b719a89f1917c4ab2635f02ef1f78d33dcecfac
 Pharaoh V3,dex,75,0,0,10,AVALANCHE,,pharaoh,phar.gg,pharaoh,,favicon,2026-06-02,false,d85c71828718278390eaf89bedba5cd3191a3d8b88e48e5028a3d6976492d6ce
-Piku,defi,75,0,0,10,ETH,,piku,piku.co,"piku,piku-utility-token",,defillama,2026-06-02,false,718c178cf004bfd8af227e9236883539f6f9ac5257928ef2c9b9da03dda58f25
+Piku,defi,75,0,0,10,ETH,,piku,piku.co,"piku,piku-utility-token,pikudao",,defillama,2026-06-02,false,718c178cf004bfd8af227e9236883539f6f9ac5257928ef2c9b9da03dda58f25
 Pleasing Gold,defi,75,0,0,10,,,pleasing-gold,pleasinggold.com,"pleasing gold,pleasing-gold",,defillama,2026-06-02,false,1e7efec3f9f4137788ef864010e5ad86bd2e5c8439360ea239289d8101fda369
 pNetwork,bridge,75,0,0,10,BSC|ETH|ARBITRUM|POLYGON,,pnetwork,p.network,pnetwork,,arkham,2026-06-02,false,ae7483ea4304a0f934feeeef27ff140d19e7de76e293f93b43cc46abea41d683
 Poly Network,bridge,75,0,0,10,ETH|BSC|FANTOM|ARBITRUM|POLYGON|AVALANCHE|OPTIMISM,,poly,poly.network,poly,,manual,2026-05-03,true,e20659dcdfc7958c568f2ec8808688d33ee489646bc27818507d503ee0ef83dc
@@ -2338,7 +2338,7 @@ Raastin,exchange,60,,,,TRON,,raastin-com,raastin.com,"raastin,raastin.com",,manu
 ExWallet,custodian,60,,,,TRON,,exwallet-io,exwallet.io,"exwallet,exwallet.io",,manual,2026-07-14,true,eefe579a617342c6a2a938a777b1f29e092a9341e30eb7d9d8c7765f0a37e232
 Votium,defi,100,12,90,10,ETH|ARBITRUM|AVALANCHE|BASE|BSC|OPTIMISM|POLYGON,arkham|scorechain-counterparties,votium,votium.app,"votium,votium.app,multimerklestash",,manual,2026-07-14,true,c68291246966830c6ae39441025b467c354b9c359c63c1462cc5c0be2607194c
 Bitget Wallet (Prev. Bitkeep),custodian,100,,75,5,,manual-admin,bitget-wallet,,"bitget wallet,bitkeep",,manual,2026-07-14,true,e4593e21bf01d6bb31d5a1b514d146ed03439b3ebae8aaf6c00b3ab294c5a4e2
-EUR CoinVertible,defi,100,,80,5,,manual-admin,societe-generale-forge-eurcv,,"eur coinvertible,eurcv,societe generale forge",,manual,2026-07-14,true,526dcbee3d9afc29ad59ebcfca3b95b9e86e73ddf979d310b59d8e06118e47e8
+EUR CoinVertible,defi,100,,80,5,,manual-admin,societe-generale-forge-eurcv,,"eur coinvertible,eurcv",,manual,2026-07-14,true,526dcbee3d9afc29ad59ebcfca3b95b9e86e73ddf979d310b59d8e06118e47e8
 IDAX,exchange,100,,75,5,,manual-admin,idax,,idax,,manual,2026-07-14,true,97e6611cf1037b540865e966d94687a9c1a126fe1256fa6d7ef4d3cc72cb2603
 Hermetica USDh,stablecoin_issuer,65,0,0,10,,defillama-adapters,hermetica-usdh,,"hermetica usdh,hermetica-usdh",,defillama,2026-07-15,false,8a3fd0443b906e112fe4baded9a8266f88e872c9b548c6012fe252ddf3dec206
 Plume USD,stablecoin_issuer,65,0,0,10,,defillama-adapters,plume-usd,,"plume usd,plume-usd",,defillama,2026-07-15,false,c6627f997d78cbfac3397e8fc8b6f770a6438de826859c72e6bf1aee40b0eb4c
@@ -2904,3 +2904,5 @@ Inverse Finance,defi,65,0,0,10,ETH|ARBITRUM|OPTIMISM|BASE,pharos-stablecoins|man
 JPYC,stablecoin_issuer,70,0,0,10,ETH|POLYGON|AVALANCHE|BASE,pharos-stablecoins|manual-admin,jpyc,jpyc.co.jp,"jpyc,jpyc.co.jp",JPYC,manual,2026-08-02,true,9d6d73ad71c379461d6b22e2b0e612571baebed6b02923765b94165048529766
 OpenEden,stablecoin_issuer,65,0,0,10,ETH|POLYGON|BSC|BASE|ARBITRUM|SOL,pharos-stablecoins|manual-admin,openeden,openeden.com,"openeden,openeden.com",,manual,2026-08-02,true,3ddf05246a9ec464f0b77cebbba33155b22b10b218a5373d26fd8a5f497d421a
 Origin Protocol,defi,65,0,0,10,ETH|BASE|ARBITRUM,pharos-stablecoins|manual-admin,origin-protocol,originprotocol.com,"origin protocol,originprotocol.com",,manual,2026-08-02,true,86d8b672e80cff81fd5defc22079e1d3119867e087b0b9a0bc7c6186432ebbb0
+Quantoz,stablecoin_issuer,75,11,80,5,ETH|POLYGON,coingecko-tokens|1inch-token-lists|dawsbot-eth-labels,quantoz,quantoz.com,quantoz,,manual,2026-08-02,true,6adbf02900133f78df0a552a47008c2a3b0e0a356a91c872b722efe6b8d73525
+Societe Generale Forge,stablecoin_issuer,100,14,80,5,ETH|SOL,defillama-adapters|coingecko-tokens|brianleect-labels,societe-generale-forge,sgforge.com,"societe generale forge,sg-forge,sgforge",,manual,2026-08-02,true,e16d540570c797a06bfaa33cd9b3b5b9571e394db4991f980cc32bb8117c8e20

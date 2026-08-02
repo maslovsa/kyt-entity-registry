@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-02T19:45:01+00:00",
+  "generated_at": "2026-08-02T19:55:41+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -6730,7 +6730,8 @@
       "logo_path": "logos/defi/piku.png",
       "keywords": [
         "piku",
-        "piku-utility-token"
+        "piku-utility-token",
+        "pikudao"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -22743,8 +22744,7 @@
       "logo_path": "logos/defi/societe-generale-forge-eurcv.png",
       "keywords": [
         "eur coinvertible",
-        "eurcv",
-        "societe generale forge"
+        "eurcv"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -28975,6 +28975,28 @@
       "keywords": [
         "origin protocol",
         "originprotocol.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "quantoz",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/quantoz.png",
+      "keywords": [
+        "quantoz"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "societe-generale-forge",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/societe-generale-forge.png",
+      "keywords": [
+        "societe generale forge",
+        "sg-forge",
+        "sgforge"
       ],
       "product_aliases": [],
       "sanctioned": false
