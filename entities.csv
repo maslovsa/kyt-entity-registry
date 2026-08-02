@@ -819,7 +819,7 @@ Awaken Swap,dex,65,0,0,10,,,awaken-swap,awaken.finance,"awaken swap,awaken-swap"
 AXC GIFT,defi,65,0,0,10,BSC,,axc-gift,axc.xyz,"axc gift,axc-gift",,defillama,2026-06-02,false,40ac9be7f40db1d31c6f4c89c7a73c8332265b8f4eb556d47f547659b08f6349
 Azuro,defi,65,0,0,10,POLYGON|BASE,,azuro,azuro.org,azuro,,arkham,2026-06-02,false,1c184b66e3753dbbe016eb84bb301b1778e1137c278947530a3fc06e26ce6643
 BabyDogeSwap,dex,65,0,0,10,BSC,,babydogeswap,swap.babydoge.com,babydogeswap,,arkham,2026-06-02,false,c3efcf755cd4147e3a7bbb3bc8fc7471a93ef2a6d8804067604308a4c9ce15b0
-BackedFi,defi,65,0,0,10,ETH|BASE|AVALANCHE|POLYGON|ARBITRUM|FANTOM|BSC,,backedfi,backed.fi,backedfi,,defillama,2026-06-02,false,c2f9584eff755f9e20cfd08003ef4198360cd705adcf9cbf7b9e2fcf67a119e6
+BackedFi,defi,65,0,0,10,ETH|BASE|AVALANCHE|POLYGON|ARBITRUM|FANTOM|BSC|SOL,,backedfi,backed.fi,"backedfi,backed finance,backed.fi",,defillama,2026-08-02,false,c2f9584eff755f9e20cfd08003ef4198360cd705adcf9cbf7b9e2fcf67a119e6
 Badger DAO,defi,65,0,0,10,ETH|ARBITRUM|POLYGON|BSC|FANTOM,,badger,badger.com,"badger,badger-dao",,arkham,2026-06-02,false,4772f3ab64c1d9b37ce257c87af934236e35019fd5b802ec6411568301de75cb
 BakerySwap,dex,65,0,0,10,BSC,,bakeryswap,,"bakeryswap,bakerytoken",,arkham,2026-06-02,false,0e7f29948ae469fd37689dc3dde64c0cb9b949bd7825b1d9b17d607c7d9a8f53
 Balanced Dollar,defi,65,0,0,10,,,balanced-dollar,balanced.network,"balanced dollar,balanced-dollar",,defillama,2026-06-02,false,e1e359c161a8fcf96e06329538cb9f640359e8ead1cea471e19e8acb26b6c4b0
@@ -2892,3 +2892,5 @@ Xplace,psp,50,0,75,5,SOL|BTC|ETH,manual-admin,xplace,x.place,"xplace,x.place,xpl
 Zeno Bank,psp,50,0,75,5,BTC|ETH|SOL|TRON,manual-admin,zeno-bank,zenobank.io,"zeno bank,zenobank.io",,manual,2026-08-02,true,90fc073ed7381163f82a44ec1a26b29a3e06c1b2cbcc8b8e19a1e1fba7547c5a
 Zinari,psp,50,0,75,5,BTC|ETH|TRON,manual-admin,zinari,pay.zinari.io,"zinari,pay.zinari.io,zinaripay",,manual,2026-08-02,true,868280239bdac0673306e7cd85ca5db0decd0004558b666d6d08e3880962f1ad
 Zypto,psp,50,0,75,5,BTC|ETH,manual-admin,zypto,zypto.com,"zypto,zypto.com",,manual,2026-08-02,true,5b6db860a0b61f0eab0f40e8aa49b99e871ac768b6b3a57e45aeb96a03363f98
+Abracadabra,defi,70,0,80,10,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,manual-admin,abracadabra,abracadabra.money,"abracadabra,abracadabra.money",,manual,2026-08-02,true,a491b1984b37f761e6f87317f73e168c19bbc9f7f305e9f38a94c538a457362e
+Brale,stablecoin_issuer,70,0,80,5,ARBITRUM|AVALANCHE|BASE|ETH|POLYGON|SOL,manual-admin,brale,brale.xyz,"brale,brale.xyz",,manual,2026-08-02,true,4a82666cda8308ae4e012465a2bb019ca876b62b66714d3cbf55bbb8c37613bb

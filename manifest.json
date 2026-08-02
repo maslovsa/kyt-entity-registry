@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-02T10:23:03+00:00",
+  "generated_at": "2026-08-02T18:23:59+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -8299,7 +8299,9 @@
       "category": "defi",
       "logo_path": "logos/defi/backedfi.png",
       "keywords": [
-        "backedfi"
+        "backedfi",
+        "backed finance",
+        "backed.fi"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -28835,6 +28837,28 @@
       "keywords": [
         "zypto",
         "zypto.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "abracadabra",
+      "category": "defi",
+      "logo_path": "logos/defi/abracadabra.png",
+      "keywords": [
+        "abracadabra",
+        "abracadabra.money"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "brale",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/brale.png",
+      "keywords": [
+        "brale",
+        "brale.xyz"
       ],
       "product_aliases": [],
       "sanctioned": false
