@@ -2781,3 +2781,19 @@ BitHide,psp,50,0,75,5,ETH|BSC|TRON,manual-admin,bithide,bithide.io,"bithide,bith
 Bitnovo,psp,50,0,75,5,BTC|ETH|POLYGON,manual-admin,bitnovo,bitnovo.com,"bitnovo,bitnovo.com",,manual,2026-08-02,true,f5d735f4c0d4187e73d6d95e709747b6a13e0f5be784a1e953ebaf52eebc4e4e
 Bleap,psp,50,0,75,5,ETH|POLYGON|ARBITRUM,manual-admin,bleap,bleap.finance,"bleap,bleap.finance",,manual,2026-08-02,true,829cc8ba85284165869ec5911ac979b450295df000155dbe4fda0a31cfabc6e3
 BLOX,exchanges,50,0,75,5,BTC|ETH,manual-admin,blox,weareblox.com,"blox,weareblox.com",,manual,2026-08-02,true,57298586b44ee0ad10f44356ce48c4a32056583ac513f49a76a54302ff37f705
+Braza Bank,bank,50,0,75,5,ETH|BTC,manual-admin,braza-bank,brazabank.com.br,"braza bank,brazabank.com.br",,manual,2026-08-02,true,047a33286e9e43987413b606bd7d3369311040ee52133bceb33f614b526a359d
+BTC Direct,psp,50,0,75,5,ETH|BTC|TRON|POLYGON,manual-admin,btc-direct,btcdirect.eu,"btc direct,btcdirect.eu",,manual,2026-08-02,true,07e50c8236efdd509252600b5bde7145191b7d26bd660c8338efe9f81599e3be
+BucksBus,psp,50,0,75,5,ETH|BSC|TRON|POLYGON,manual-admin,bucksbus,bucksbus.com,"bucksbus,bucksbus.com",,manual,2026-08-02,true,ad20b5858cfbd44b73bfa6145ea619327f98329525e1518c7ef49a21f1a883da
+CatalystPay,psp,50,0,75,5,BTC,manual-admin,catalystpay,catalystpay.com,"catalystpay,catalystpay.com",,manual,2026-08-02,true,5f16998714c5884545bab67845c67d98d0cef457e44e8beee604f78f7e8dfaa5
+Centi,psp,50,0,75,5,ETH,manual-admin,centi,centi.ch,"centi,centi.ch",,manual,2026-08-02,true,dc1f31278b38b62afc1ba214d612afaa103f8c323b2b7f319257a01617090767
+Chainpaye,psp,50,0,75,5,ETH|SOL,manual-admin,chainpaye,chainpaye.com,"chainpaye,chainpaye.com",,manual,2026-08-02,true,92ff64f463e01dd8e17d6b0b9c16a3948c65c32d081f18f750b9fd70cfe3eeff
+ChainRails,psp,50,0,75,5,ETH|BSC|SOL|POLYGON|ARBITRUM|BASE|AVALANCHE|OPTIMISM,manual-admin,chainrails,chainrails.io,"chainrails,chainrails.io",,manual,2026-08-02,true,aa6bcbda74f85c1008ecaa4f8d375fb60b3618bed57d2ea9aa672efac7b803dc
+CityPay.io,psp,50,0,75,5,ETH|BSC|TRON,manual-admin,citypay-io,citypay.io,"citypay.io,citypay.io",,manual,2026-08-02,true,ddb640379c666eec9502956c95aadfef61812e76b5f008881e95d274ef2b4d41
+Clarnium,psp,50,0,75,5,ETH|SOL|TON,manual-admin,clarnium,clarnium.io,"clarnium,clarnium.io",,manual,2026-08-02,true,108d45ae1997ab974dddabffd4303e2f7bee1668393a76fde99d45f3187fe7c2
+ClockPay,psp,50,0,75,5,ETH|TRON,manual-admin,clockpay,theclockchain.io,"clockpay,theclockchain.io",,manual,2026-08-02,true,e56cd3e3a72c3adc3f9b81eff0ea5dc8b7a3b9cde2fa7529e0e79721a7ce681d
+COCA,psp,50,0,75,5,ETH|POLYGON,manual-admin,coca,coca.xyz,"coca,coca.xyz",,manual,2026-08-02,true,64915ace212096a743459883ddd1b4d5a71c1efc6183fad08c3fad5e01262bbc
+CoinCorner,exchanges,50,0,75,5,BTC,manual-admin,coincorner,coincorner.com,"coincorner,coincorner.com",,manual,2026-08-02,true,c5c48a1e36beab5cac07fb4b82fd587f64984415001b22eb1f2add4d7b6b0c01
+Coinflow,psp,50,0,75,5,ETH|SOL|POLYGON,manual-admin,coinflow,coinflow.cash,"coinflow,coinflow.cash",,manual,2026-08-02,true,c84b28d9971a696c68766dae2b92d3318f4b60467e66728c9b1770e8f4d45718
+Coinify,psp,50,0,75,5,ETH|BTC,manual-admin,coinify,coinify.com,"coinify,coinify.com",,manual,2026-08-02,true,f96f582d470f4a9f2c280bd85d7f5f2ec06bb719cc0ef5b81c2589a7807a5d1c
+Coino Live,psp,50,0,75,5,ETH|BSC|TRON,manual-admin,coino-live,coino.live,"coino live,coino.live",,manual,2026-08-02,true,6abc51645e5627857a93766020084e4d50a297aa575d2853ce6df6e333690d6b
+Coinsub,psp,50,0,75,5,ETH|SOL,manual-admin,coinsub,coinsub.io,"coinsub,coinsub.io",,manual,2026-08-02,true,10022a0eaf368cc2ec1e882cd752b15b977a81555546c94fc2da4e922e9f8468

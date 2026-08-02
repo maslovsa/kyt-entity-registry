@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-02T07:51:12+00:00",
+  "generated_at": "2026-08-02T08:06:54+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -27607,6 +27607,182 @@
       "keywords": [
         "blox",
         "weareblox.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "braza-bank",
+      "category": "bank",
+      "logo_path": "logos/bank/braza-bank.png",
+      "keywords": [
+        "braza bank",
+        "brazabank.com.br"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "btc-direct",
+      "category": "psp",
+      "logo_path": "logos/psp/btc-direct.png",
+      "keywords": [
+        "btc direct",
+        "btcdirect.eu"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bucksbus",
+      "category": "psp",
+      "logo_path": "logos/psp/bucksbus.png",
+      "keywords": [
+        "bucksbus",
+        "bucksbus.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "catalystpay",
+      "category": "psp",
+      "logo_path": "logos/psp/catalystpay.png",
+      "keywords": [
+        "catalystpay",
+        "catalystpay.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "centi",
+      "category": "psp",
+      "logo_path": "logos/psp/centi.png",
+      "keywords": [
+        "centi",
+        "centi.ch"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "chainpaye",
+      "category": "psp",
+      "logo_path": "logos/psp/chainpaye.png",
+      "keywords": [
+        "chainpaye",
+        "chainpaye.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "chainrails",
+      "category": "psp",
+      "logo_path": "logos/psp/chainrails.png",
+      "keywords": [
+        "chainrails",
+        "chainrails.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "citypay-io",
+      "category": "psp",
+      "logo_path": "logos/psp/citypay-io.png",
+      "keywords": [
+        "citypay.io",
+        "citypay.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "clarnium",
+      "category": "psp",
+      "logo_path": "logos/psp/clarnium.png",
+      "keywords": [
+        "clarnium",
+        "clarnium.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "clockpay",
+      "category": "psp",
+      "logo_path": "logos/psp/clockpay.png",
+      "keywords": [
+        "clockpay",
+        "theclockchain.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coca",
+      "category": "psp",
+      "logo_path": "logos/psp/coca.png",
+      "keywords": [
+        "coca",
+        "coca.xyz"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coincorner",
+      "category": "exchanges",
+      "logo_path": "logos/exchanges/coincorner.png",
+      "keywords": [
+        "coincorner",
+        "coincorner.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coinflow",
+      "category": "psp",
+      "logo_path": "logos/psp/coinflow.png",
+      "keywords": [
+        "coinflow",
+        "coinflow.cash"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coinify",
+      "category": "psp",
+      "logo_path": "logos/psp/coinify.png",
+      "keywords": [
+        "coinify",
+        "coinify.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coino-live",
+      "category": "psp",
+      "logo_path": "logos/psp/coino-live.png",
+      "keywords": [
+        "coino live",
+        "coino.live"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coinsub",
+      "category": "psp",
+      "logo_path": "logos/psp/coinsub.png",
+      "keywords": [
+        "coinsub",
+        "coinsub.io"
       ],
       "product_aliases": [],
       "sanctioned": false
