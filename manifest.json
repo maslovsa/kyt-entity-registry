@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-02T07:35:44+00:00",
+  "generated_at": "2026-08-02T07:51:12+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -27431,6 +27431,182 @@
       "keywords": [
         "spicepay",
         "spicepay.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "0fiat",
+      "category": "psp",
+      "logo_path": "logos/psp/0fiat.png",
+      "keywords": [
+        "0fiat",
+        "0fiat.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "acctual",
+      "category": "psp",
+      "logo_path": "logos/psp/acctual.png",
+      "keywords": [
+        "acctual",
+        "acctual.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ammerpay",
+      "category": "psp",
+      "logo_path": "logos/psp/ammerpay.png",
+      "keywords": [
+        "ammerpay",
+        "ammerpay.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "apirone",
+      "category": "psp",
+      "logo_path": "logos/psp/apirone.png",
+      "keywords": [
+        "apirone",
+        "apirone.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "architec-ton",
+      "category": "psp",
+      "logo_path": "logos/psp/architec-ton.png",
+      "keywords": [
+        "architec.ton",
+        "architecton.tech"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "astrabanq",
+      "category": "psp",
+      "logo_path": "logos/psp/astrabanq.png",
+      "keywords": [
+        "astrabanq",
+        "astrabanq.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "atlos",
+      "category": "psp",
+      "logo_path": "logos/psp/atlos.png",
+      "keywords": [
+        "atlos",
+        "atlos.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "auras-pay",
+      "category": "psp",
+      "logo_path": "logos/psp/auras-pay.png",
+      "keywords": [
+        "auras pay",
+        "auraspay.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "avici",
+      "category": "psp",
+      "logo_path": "logos/psp/avici.png",
+      "keywords": [
+        "avici",
+        "avici.money"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bakkt",
+      "category": "custodian",
+      "logo_path": "logos/custodian/bakkt.png",
+      "keywords": [
+        "bakkt",
+        "bakkt.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "banxa",
+      "category": "psp",
+      "logo_path": "logos/psp/banxa.png",
+      "keywords": [
+        "banxa",
+        "banxa.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitgo",
+      "category": "custodian",
+      "logo_path": "logos/custodian/bitgo.png",
+      "keywords": [
+        "bitgo",
+        "bitgo.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bithide",
+      "category": "psp",
+      "logo_path": "logos/psp/bithide.png",
+      "keywords": [
+        "bithide",
+        "bithide.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitnovo",
+      "category": "psp",
+      "logo_path": "logos/psp/bitnovo.png",
+      "keywords": [
+        "bitnovo",
+        "bitnovo.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bleap",
+      "category": "psp",
+      "logo_path": "logos/psp/bleap.png",
+      "keywords": [
+        "bleap",
+        "bleap.finance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "blox",
+      "category": "exchanges",
+      "logo_path": "logos/exchanges/blox.png",
+      "keywords": [
+        "blox",
+        "weareblox.com"
       ],
       "product_aliases": [],
       "sanctioned": false

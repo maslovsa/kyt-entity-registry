@@ -2765,3 +2765,19 @@ MaxelPay,psp,50,0,75,5,ETH|BSC|TRON|POLYGON,manual-admin,maxelpay,maxelpay.com,"
 PassimPay,psp,50,0,75,5,ETH|BSC|TRON|POLYGON,manual-admin,passimpay,passimpay.io,"passimpay,passimpay.io",,manual,2026-08-02,true,9081f9391d5ab430f5d4276b0ae8472ae59029775e5d093639c22fc64ba42ace
 Paymento,psp,50,0,75,5,ETH|BSC|TRON|POLYGON,manual-admin,paymento,paymento.io,"paymento,paymento.io",,manual,2026-08-02,true,5ba8701eecf15161fa92d799776d01fb10247fba6f0541cacf3aaad2fe0b863a
 SpicePay,psp,50,0,75,5,ETH|BTC|BSC,manual-admin,spicepay,spicepay.com,"spicepay,spicepay.com",,manual,2026-08-02,true,49b0784d3ddafe69f1be5237f03be8e7e8ecbb5d663ab423812326bdf6638661
+0fiat,psp,50,0,75,5,ETH|BSC|TRON|POLYGON,manual-admin,0fiat,0fiat.com,"0fiat,0fiat.com",,manual,2026-08-02,true,0ad58480d1d4e11c82780de2cd2b0ea3b506cdd785b220d7273d76d8728c37b6
+Acctual,psp,50,0,75,5,ETH|POLYGON|BASE,manual-admin,acctual,acctual.com,"acctual,acctual.com",,manual,2026-08-02,true,657e757469b5e5936ffb97f8ab1c5a5559d00e12683c294cee6229f1e755aaf7
+AmmerPay,psp,50,0,75,5,ETH|BSC|SOL,manual-admin,ammerpay,ammerpay.com,"ammerpay,ammerpay.com",,manual,2026-08-02,true,dc44016ad04a0c3876ac2a8459367f2051fb445494a1e6255640f49722bf8b0f
+Apirone,psp,50,0,75,5,BTC,manual-admin,apirone,apirone.com,"apirone,apirone.com",,manual,2026-08-02,true,8f8e8825bb41f5047132d3a68a1dc705f2722d5ae570bac0d707d28244f57d82
+Architec.Ton,psp,50,0,75,5,TON|ETH|BSC|POLYGON,manual-admin,architec-ton,architecton.tech,"architec.ton,architecton.tech",,manual,2026-08-02,true,5336e6c245f4b4b35fc0188d044c64b965fcf40c9c1497dd026a336b57c133c6
+AstraBanq,psp,50,0,75,5,ETH|BSC|TRON|POLYGON,manual-admin,astrabanq,astrabanq.com,"astrabanq,astrabanq.com",,manual,2026-08-02,true,0bbae16cee24291080dc06301bd5d45d03068d14488b71b43a6bcccb83d4cc47
+ATLOS,psp,50,0,75,5,ETH|BSC|TRON|POLYGON,manual-admin,atlos,atlos.io,"atlos,atlos.io",,manual,2026-08-02,true,e4668ac4926705580ec2617588376d6f0d342d5c4937eae457ab57bd1227bdfe
+Auras Pay,psp,50,0,75,5,SOL,manual-admin,auras-pay,auraspay.com,"auras pay,auraspay.com",,manual,2026-08-02,true,7a100c296c254c6b83d9392759e1f4ea7aa0368ee4903c0206e17ff6fb2495df
+Avici,psp,50,0,75,5,ETH|POLYGON|ARBITRUM,manual-admin,avici,avici.money,"avici,avici.money",,manual,2026-08-02,true,b48addde0982db9e85333af638c297738d8b5b935294d578dc411efdc6c9f7f6
+Bakkt,custodian,50,0,75,5,BTC|ETH,manual-admin,bakkt,bakkt.com,"bakkt,bakkt.com",,manual,2026-08-02,true,fda46efeb10516bcc3fc1253311b84c70fe89bcfb548599e92117e552eb8d28f
+Banxa,psp,50,0,75,5,ETH|BSC|TRON|POLYGON,manual-admin,banxa,banxa.com,"banxa,banxa.com",,manual,2026-08-02,true,6c40f559b79bd22f5b35e60b12e54408198fa7cd964e1ff1c125ca3ad6498ce8
+BitGo,custodian,50,0,75,5,BTC|ETH|TRON|POLYGON,manual-admin,bitgo,bitgo.com,"bitgo,bitgo.com",,manual,2026-08-02,true,95020666ecda89c04c1f5014dee03f331b5eb86298b35af7074c671714e8deb8
+BitHide,psp,50,0,75,5,ETH|BSC|TRON,manual-admin,bithide,bithide.io,"bithide,bithide.io",,manual,2026-08-02,true,e412a699027248c0e20fc3d70a861be9ba38f226950d0fe6500b2fc023a1d42d
+Bitnovo,psp,50,0,75,5,BTC|ETH|POLYGON,manual-admin,bitnovo,bitnovo.com,"bitnovo,bitnovo.com",,manual,2026-08-02,true,f5d735f4c0d4187e73d6d95e709747b6a13e0f5be784a1e953ebaf52eebc4e4e
+Bleap,psp,50,0,75,5,ETH|POLYGON|ARBITRUM,manual-admin,bleap,bleap.finance,"bleap,bleap.finance",,manual,2026-08-02,true,829cc8ba85284165869ec5911ac979b450295df000155dbe4fda0a31cfabc6e3
+BLOX,exchanges,50,0,75,5,BTC|ETH,manual-admin,blox,weareblox.com,"blox,weareblox.com",,manual,2026-08-02,true,57298586b44ee0ad10f44356ce48c4a32056583ac513f49a76a54302ff37f705
