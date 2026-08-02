@@ -2880,3 +2880,15 @@ Swapper Finance,psp,50,0,75,5,ETH|BASE,manual-admin,swapper-finance,swapper.fina
 Swaps,psp,50,0,75,5,ETH|BTC|TRON|SOL,manual-admin,swaps,swaps.app,"swaps,swaps.app",,manual,2026-08-02,true,fd795265dc2bf57c89c9408f64ff9846a92015c9a08735f5a964b9ec189dcfb4
 Swypt,psp,50,0,75,5,ETH|BASE|TRON,manual-admin,swypt,swypt.io,"swypt,swypt.io",,manual,2026-08-02,true,75e68ff1a7b6825d7f8e903cdd299784f2a47ddce4be433b1649643bc4c2cb50
 Tender,psp,50,0,75,5,BTC|ETH|SOL,manual-admin,tender,tender.cash,"tender,tender.cash",,manual,2026-08-02,true,39544eefa5ece7001041c7a289877adb4b8db942fd06b79c31ba0173c7bef9db
+TransFi,psp,50,0,75,5,ETH|BTC|TRON|SOL,manual-admin,transfi,transfi.com,"transfi,transfi.com",,manual,2026-08-02,true,5673c1342527b4324fdf870938746def596117de054e8f22fc08af5556067b1a
+Tria,psp,50,0,75,5,ETH|BASE|SOL,manual-admin,tria,tria.so,"tria,tria.so",,manual,2026-08-02,true,a7dc3d4f64321d24375bef78c8585ba942fc545226c4520525db1545914ff414
+Tuyo,psp,50,0,75,5,BASE|ETH,manual-admin,tuyo,tuyo.com,"tuyo,tuyo.com",,manual,2026-08-02,true,2d968cc1392cc2b8f4a5ae94d7fafa08a927e29b0b63a226e3c0ae0cf5c5ce20
+Uniwire (Cryptochill),psp,50,0,75,5,BTC|ETH|LTC|SOL|TRON|TON,manual-admin,uniwire,uniwire.com,"uniwire,cryptochill,uniwire.com,cryptochill.com",,manual,2026-08-02,true,f54064454a84c17994ace6c0e08a8a2038bb8c6a7adf646ac8373be6754b4632
+Walapay,custodian,50,0,75,5,ETH|TRON,manual-admin,walapay,walapay.io,"walapay,walapay.io",,manual,2026-08-02,true,3b80151c27b804c398a02496cd0627450b9bd1fd71752510561de11523db1818
+Wert,psp,50,0,75,5,ETH|BTC|SOL|TRON,manual-admin,wert,wert.io,"wert,wert.io",,manual,2026-08-02,true,7562f8203df96a05137ac5f28b902fb58ef41e0954779ea0e667ef8f4805aa4c
+XAIGATE,psp,50,0,75,5,BTC|ETH|SOL|TRON,manual-admin,xaigate,xaigate.com,"xaigate,xaigate.com",,manual,2026-08-02,true,7c35049f4f098ec1c24fd5dc12eb9464c09190764dca02865b0ad3a60a5425cf
+XBO,exchanges,50,0,75,5,BTC|ETH,manual-admin,xbo,xbo.com,"xbo,xbo.com",,manual,2026-08-02,true,6b01c55075820025b32534125bdf8519be37366dab04e369d146e95cd1fb6b44
+Xplace,psp,50,0,75,5,SOL|BTC|ETH,manual-admin,xplace,x.place,"xplace,x.place,xplace.finance",,manual,2026-08-02,true,ab25cfca98335772b1dd409c909a181d03d886840bb0d326aa549d4ba612cd02
+Zeno Bank,psp,50,0,75,5,BTC|ETH|SOL|TRON,manual-admin,zeno-bank,zenobank.io,"zeno bank,zenobank.io",,manual,2026-08-02,true,90fc073ed7381163f82a44ec1a26b29a3e06c1b2cbcc8b8e19a1e1fba7547c5a
+Zinari,psp,50,0,75,5,BTC|ETH|TRON,manual-admin,zinari,pay.zinari.io,"zinari,pay.zinari.io,zinaripay",,manual,2026-08-02,true,868280239bdac0673306e7cd85ca5db0decd0004558b666d6d08e3880962f1ad
+Zypto,psp,50,0,75,5,BTC|ETH,manual-admin,zypto,zypto.com,"zypto,zypto.com",,manual,2026-08-02,true,5b6db860a0b61f0eab0f40e8aa49b99e871ac768b6b3a57e45aeb96a03363f98

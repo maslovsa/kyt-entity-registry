@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-02T10:10:03+00:00",
+  "generated_at": "2026-08-02T10:23:03+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28699,6 +28699,142 @@
       "keywords": [
         "tender",
         "tender.cash"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "transfi",
+      "category": "psp",
+      "logo_path": "logos/psp/transfi.png",
+      "keywords": [
+        "transfi",
+        "transfi.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tria",
+      "category": "psp",
+      "logo_path": "logos/psp/tria.png",
+      "keywords": [
+        "tria",
+        "tria.so"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tuyo",
+      "category": "psp",
+      "logo_path": "logos/psp/tuyo.png",
+      "keywords": [
+        "tuyo",
+        "tuyo.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "uniwire",
+      "category": "psp",
+      "logo_path": "logos/psp/uniwire.png",
+      "keywords": [
+        "uniwire",
+        "cryptochill",
+        "uniwire.com",
+        "cryptochill.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "walapay",
+      "category": "custodian",
+      "logo_path": "logos/custodian/walapay.png",
+      "keywords": [
+        "walapay",
+        "walapay.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "wert",
+      "category": "psp",
+      "logo_path": "logos/psp/wert.png",
+      "keywords": [
+        "wert",
+        "wert.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "xaigate",
+      "category": "psp",
+      "logo_path": "logos/psp/xaigate.png",
+      "keywords": [
+        "xaigate",
+        "xaigate.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "xbo",
+      "category": "exchanges",
+      "logo_path": "logos/exchanges/xbo.png",
+      "keywords": [
+        "xbo",
+        "xbo.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "xplace",
+      "category": "psp",
+      "logo_path": "logos/psp/xplace.png",
+      "keywords": [
+        "xplace",
+        "x.place",
+        "xplace.finance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "zeno-bank",
+      "category": "psp",
+      "logo_path": "logos/psp/zeno-bank.png",
+      "keywords": [
+        "zeno bank",
+        "zenobank.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "zinari",
+      "category": "psp",
+      "logo_path": "logos/psp/zinari.png",
+      "keywords": [
+        "zinari",
+        "pay.zinari.io",
+        "zinaripay"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "zypto",
+      "category": "psp",
+      "logo_path": "logos/psp/zypto.png",
+      "keywords": [
+        "zypto",
+        "zypto.com"
       ],
       "product_aliases": [],
       "sanctioned": false
