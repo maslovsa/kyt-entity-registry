@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-02T18:23:59+00:00",
+  "generated_at": "2026-08-02T18:29:04+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28859,6 +28859,18 @@
       "keywords": [
         "brale",
         "brale.xyz"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "liquidmesh",
+      "category": "dex",
+      "logo_path": "logos/dex/liquidmesh.png",
+      "keywords": [
+        "liquidmesh",
+        "liquidmesh.io",
+        "dex aggregator"
       ],
       "product_aliases": [],
       "sanctioned": false
