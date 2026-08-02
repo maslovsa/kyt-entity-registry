@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-02T18:29:04+00:00",
+  "generated_at": "2026-08-02T19:21:29+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28871,6 +28871,39 @@
         "liquidmesh",
         "liquidmesh.io",
         "dex aggregator"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cad-coin",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/cad-coin.png",
+      "keywords": [
+        "cad coin",
+        "loon.finance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "celsius-network",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/celsius-network.png",
+      "keywords": [
+        "celsius network",
+        "celsius.network"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coinmania",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/coinmania.png",
+      "keywords": [
+        "coinmania",
+        "coinmania.exchange"
       ],
       "product_aliases": [],
       "sanctioned": false
