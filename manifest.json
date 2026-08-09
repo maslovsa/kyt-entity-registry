@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-02T20:14:12+00:00",
+  "generated_at": "2026-08-09T09:25:48+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -29054,6 +29054,50 @@
       "product_aliases": [
         "rand reserve"
       ],
+      "sanctioned": false
+    },
+    {
+      "slug": "harmata-volunteers",
+      "category": "ngo",
+      "logo_path": "logos/ngo/harmata-volunteers.png",
+      "keywords": [
+        "harmata volunteers",
+        "harmata-fund"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "geniusee-charity-fund",
+      "category": "ngo",
+      "logo_path": "logos/ngo/geniusee-charity-fund.png",
+      "keywords": [
+        "geniusee charity",
+        "geniusee fund"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "help99",
+      "category": "ngo",
+      "logo_path": "logos/ngo/help99.png",
+      "keywords": [
+        "help99",
+        "69th sniffing brigade"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "vatra-ngo",
+      "category": "ngo",
+      "logo_path": "logos/ngo/vatra-ngo.png",
+      "keywords": [
+        "vatra_ua",
+        "vo_vatra"
+      ],
+      "product_aliases": [],
       "sanctioned": false
     }
   ]
