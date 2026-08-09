@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-09T09:25:48+00:00",
+  "generated_at": "2026-08-09T20:08:21+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -29096,6 +29096,19 @@
       "keywords": [
         "vatra_ua",
         "vo_vatra"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "sbi-startale",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/sbi-startale.png",
+      "keywords": [
+        "sbi startale",
+        "sbi-startale",
+        "jpysc",
+        "sbi shinsei trust bank"
       ],
       "product_aliases": [],
       "sanctioned": false
