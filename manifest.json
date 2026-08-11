@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-09T20:08:21+00:00",
+  "generated_at": "2026-08-11T20:27:59+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -29109,6 +29109,147 @@
         "sbi-startale",
         "jpysc",
         "sbi shinsei trust bank"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "porsche-web3",
+      "category": "merchant",
+      "logo_path": "logos/merchant/porsche-web3.png",
+      "keywords": [
+        "porsche",
+        "porsche web3",
+        "road2dreams"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "louis-vuitton",
+      "category": "merchant",
+      "logo_path": "logos/merchant/louis-vuitton.png",
+      "keywords": [
+        "louis vuitton",
+        "lv",
+        "via",
+        "louis vuitton malletier"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "asprey",
+      "category": "merchant",
+      "logo_path": "logos/merchant/asprey.png",
+      "keywords": [
+        "asprey",
+        "asprey studio",
+        "asprey london"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hennessy",
+      "category": "merchant",
+      "logo_path": "logos/merchant/hennessy.png",
+      "keywords": [
+        "hennessy",
+        "blockbar",
+        "hennessy cognac"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "prada",
+      "category": "merchant",
+      "logo_path": "logos/merchant/prada.png",
+      "keywords": [
+        "prada",
+        "prada timecapsule"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dolce-gabbana",
+      "category": "merchant",
+      "logo_path": "logos/merchant/dolce-gabbana.png",
+      "keywords": [
+        "dolce gabbana",
+        "d&g",
+        "dgfamily"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "supergucci",
+      "category": "merchant",
+      "logo_path": "logos/merchant/supergucci.png",
+      "keywords": [
+        "supergucci",
+        "gucci x superplastic"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tiffany",
+      "category": "merchant",
+      "logo_path": "logos/merchant/tiffany.png",
+      "keywords": [
+        "tiffany",
+        "tiffany and co",
+        "nftiff"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pepsi",
+      "category": "merchant",
+      "logo_path": "logos/merchant/pepsi.png",
+      "keywords": [
+        "pepsi",
+        "pepsi mic drop"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "adidas",
+      "category": "merchant",
+      "logo_path": "logos/merchant/adidas.png",
+      "keywords": [
+        "adidas",
+        "adidas originals"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "lacoste",
+      "category": "merchant",
+      "logo_path": "logos/merchant/lacoste.png",
+      "keywords": [
+        "lacoste",
+        "undw3",
+        "undw4",
+        "the emerge"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mugler",
+      "category": "merchant",
+      "logo_path": "logos/merchant/mugler.png",
+      "keywords": [
+        "mugler",
+        "thierry mugler"
       ],
       "product_aliases": [],
       "sanctioned": false

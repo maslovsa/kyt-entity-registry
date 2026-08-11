@@ -2915,3 +2915,15 @@ Geniusee Charity Fund,ngo,50,2,70,5,BTC|ETH,manual-admin,geniusee-charity-fund,f
 Help99 (69th Sniffing Brigade),ngo,50,5,70,5,TRON|ETH|BSC|POLYGON|SOL,manual-admin,help99,help99.co,"help99,69th sniffing brigade",,manual,2026-08-09,true,cbd5536ac134d7ed94f19bd4e7595c7dcbee3fff0e272ab0074a58b9eaa97474
 "VATRA (NGO, Ukraine)",ngo,50,0,70,5,,manual-admin,vatra-ngo,,"vatra_ua,vo_vatra",,manual,2026-08-09,true,994a2c87235f202135267252d1372915aeaaed7aad44ca0b01959005ee912929
 SBI Startale (JPYSC),stablecoin_issuer,65,0,0,10,ETH,manual-admin,sbi-startale,startale.com,"sbi startale,sbi-startale,jpysc,sbi shinsei trust bank",,manual,2026-08-09,true,c0cfadffa46e16cb91db52edfc6c1b344b1513aeb51139aa2f6d8a90f09fc644
+Porsche,merchant,100,2,75,5,ETH,manual-admin,porsche-web3,porsche.com,"porsche,porsche web3,road2dreams",,manual,2026-08-11,true,678ab96c4104c24b19fb493142239a6c4e1ff488a57a84440c90d5a1a1223ff9
+Louis Vuitton,merchant,100,1,75,5,ETH,manual-admin,louis-vuitton,louisvuitton.com,"louis vuitton,lv,via,louis vuitton malletier",,manual,2026-08-11,true,6e5494d7911563f64de69579dd2e95786bcf474a0309445a9d9e913d212150d7
+Asprey,merchant,100,1,75,5,ETH,manual-admin,asprey,asprey.com,"asprey,asprey studio,asprey london",,manual,2026-08-11,true,ca38aaf56f8af1089ea8ca425f1a585a9c341792ea9cbdb4227c1ef6b3251147
+Hennessy,merchant,100,1,75,5,ETH,manual-admin,hennessy,hennessy.com,"hennessy,blockbar,hennessy cognac",,manual,2026-08-11,true,17820f53df8cfbcd3b4a1afd98f3010e1d4725b7d18c90f1e9d8db06f977d5c5
+Prada,merchant,100,1,75,5,ETH,manual-admin,prada,prada.com,"prada,prada timecapsule",,manual,2026-08-11,true,b37e054237102eda648cbda4e5f21a4db2ce781e955b9b028201fd95a0adc709
+Dolce & Gabbana,merchant,100,3,75,5,ETH,manual-admin,dolce-gabbana,dolcegabbana.com,"dolce gabbana,d&g,dgfamily",,manual,2026-08-11,true,6f10355de5c8d04355bf069c729c616abb2a46754b946c02d3260e8bc625d657
+SuperGucci,merchant,100,1,75,5,ETH,manual-admin,supergucci,gucci.com,"supergucci,gucci x superplastic",,manual,2026-08-11,true,fa16eded3123f766d5220a0931226742efc161fa40aee51a726a5e8391cbd293
+Tiffany & Co.,merchant,100,1,75,5,ETH,manual-admin,tiffany,tiffany.com,"tiffany,tiffany and co,nftiff",,manual,2026-08-11,true,c79f1912974471e6f64f7fc38fede17847dfe2822b6d17474ad64bc0b140469d
+Pepsi,merchant,100,1,75,5,ETH,manual-admin,pepsi,pepsi.com,"pepsi,pepsi mic drop",,manual,2026-08-11,true,62f9e5ed80bac00cb8703c8b638fdd3e75a58f2f970542398e7883bf03212b8a
+adidas,merchant,100,1,75,5,ETH,manual-admin,adidas,adidas.com,"adidas,adidas originals",,manual,2026-08-11,true,a7c475046728a97f6cebbb2a7f82e4fd50dfddd53e6bfe0b696b14d2d9bbb17a
+Lacoste,merchant,100,4,75,5,ETH,manual-admin,lacoste,lacoste.com,"lacoste,undw3,undw4,the emerge",,manual,2026-08-11,true,a20f4dea5b23c9f8f4386a464be7abe595099453a18a407b1cb68856959697aa
+Mugler,merchant,100,2,75,5,ETH,manual-admin,mugler,mugler.com,"mugler,thierry mugler",,manual,2026-08-11,true,d89d4b3f8ec987f58e340c9de5ad86df7c58e91cbe46a22503d3fb3418486c26
