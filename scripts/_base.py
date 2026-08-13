@@ -75,7 +75,6 @@ CATEGORY_TO_DIR: dict[str, str] = {
     "ngo": "ngo",
     "otc_desk": "otc_desk",
     "bank": "bank",
-    "merchant": "merchant",
 }
 
 _STRIP_SUFFIXES = [
