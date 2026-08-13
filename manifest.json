@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-13T15:18:28+00:00",
+  "generated_at": "2026-08-13T15:19:43+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -29121,6 +29121,18 @@
         "zora",
         "zora.co",
         "zora network"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "elixir",
+      "category": "defi",
+      "logo_path": "logos/defi/elixir.png",
+      "keywords": [
+        "elixir",
+        "elixir network",
+        "elixir.xyz"
       ],
       "product_aliases": [],
       "sanctioned": false

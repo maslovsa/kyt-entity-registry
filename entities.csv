@@ -2916,3 +2916,4 @@ Help99 (69th Sniffing Brigade),ngo,50,5,70,5,TRON|ETH|BSC|POLYGON|SOL,manual-adm
 SBI Startale (JPYSC),stablecoin_issuer,65,0,0,10,ETH,manual-admin,sbi-startale,startale.com,"sbi startale,sbi-startale,jpysc,sbi shinsei trust bank",,manual,2026-08-09,true,c0cfadffa46e16cb91db52edfc6c1b344b1513aeb51139aa2f6d8a90f09fc644
 Arcadia Finance,defi,100,6514,80,10,BASE,manual-admin,arcadia-finance,arcadia.finance,"arcadia finance,arcadia",,manual,2026-08-13,true,8c9611855edaf2e1ecd0e5acdeaea8c9a1ad983f1485f5655823035b2e4f2a0f
 Zora,nft_marketplace,100,1,75,5,ETH,manual-admin,zora,zora.co,"zora,zora.co,zora network",,manual,2026-08-13,true,fd03f618dd38bc44f53b1f8a8843b1e8abcc28d48748f73fbefb385f001267c1
+Elixir,defi,100,7,90,10,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,manual-admin,elixir,elixir.xyz,"elixir,elixir network,elixir.xyz",,manual,2026-08-13,true,3ab1b8df6bc45b383dfa6e75fac1f191420d07d475660edd51a4a9bf72149282
