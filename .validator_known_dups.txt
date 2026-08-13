@@ -7,3 +7,9 @@
 #
 # 2026-07-10: initial 12 grandfathered entries all merged. Keep the file
 # so future ops know the mechanism if a legitimate dup arises.
+
+# 2026-08-13: cypher — "Cypher V4" (dex protocol, cyphereth.com) and
+# "Cypher" (psp, cypherhq.io) are unrelated entities that both happen to
+# use arkham_slug "cypher". Not a data error; grandfathered rather than
+# merged since merging would conflate two distinct VASPs.
+cypher

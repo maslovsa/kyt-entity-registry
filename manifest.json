@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-13T15:19:43+00:00",
+  "generated_at": "2026-08-13T15:22:05+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -2684,7 +2684,7 @@
     },
     {
       "slug": "bit-z",
-      "category": "exchanges",
+      "category": "exchange",
       "logo_path": "logos/exchanges/bit-z.png",
       "keywords": [
         "bit-z",
@@ -2697,7 +2697,7 @@
     },
     {
       "slug": "bitbase",
-      "category": "exchanges",
+      "category": "exchange",
       "logo_path": "logos/exchanges/bitbase.png",
       "keywords": [
         "bitbase",
@@ -2709,7 +2709,7 @@
     },
     {
       "slug": "bitblinx",
-      "category": "exchanges",
+      "category": "exchange",
       "logo_path": "logos/exchanges/bitblinx.png",
       "keywords": [
         "bitblinx",
@@ -2720,7 +2720,7 @@
     },
     {
       "slug": "bitci",
-      "category": "exchanges",
+      "category": "exchange",
       "logo_path": "logos/exchanges/bitci.png",
       "keywords": [
         "bitci",
@@ -2732,7 +2732,7 @@
     },
     {
       "slug": "bitebtc",
-      "category": "exchanges",
+      "category": "exchange",
       "logo_path": "logos/exchanges/bitebtc.png",
       "keywords": [
         "bitebtc",
@@ -2744,7 +2744,7 @@
     },
     {
       "slug": "bitnordex",
-      "category": "exchanges",
+      "category": "exchange",
       "logo_path": "logos/exchanges/bitnordex.png",
       "keywords": [
         "bitnordex",
@@ -2767,7 +2767,7 @@
     },
     {
       "slug": "bitstorage",
-      "category": "exchanges",
+      "category": "exchange",
       "logo_path": "logos/exchanges/bitstorage.png",
       "keywords": [
         "bitstorage",
@@ -2792,7 +2792,7 @@
     },
     {
       "slug": "blocktrades-exchange",
-      "category": "exchanges",
+      "category": "exchange",
       "logo_path": "logos/exchanges/blocktrades-exchange.png",
       "keywords": [
         "blocktrades",
@@ -2816,7 +2816,7 @@
     },
     {
       "slug": "cashierest",
-      "category": "exchanges",
+      "category": "exchange",
       "logo_path": "logos/exchanges/cashierest.png",
       "keywords": [
         "cashierest",
@@ -2827,7 +2827,7 @@
     },
     {
       "slug": "catex-exchange",
-      "category": "exchanges",
+      "category": "exchange",
       "logo_path": "logos/exchanges/catex-exchange.png",
       "keywords": [
         "catex",
@@ -26022,7 +26022,7 @@
     },
     {
       "slug": "btc-alpha",
-      "category": "exchanges",
+      "category": "exchange",
       "logo_path": "logos/exchanges/btc-alpha.png",
       "keywords": [
         "btc-alpha",
@@ -27593,7 +27593,7 @@
     },
     {
       "slug": "blox",
-      "category": "exchanges",
+      "category": "exchange",
       "logo_path": "logos/exchanges/blox.png",
       "keywords": [
         "blox",
@@ -27725,7 +27725,7 @@
     },
     {
       "slug": "coincorner",
-      "category": "exchanges",
+      "category": "exchange",
       "logo_path": "logos/exchanges/coincorner.png",
       "keywords": [
         "coincorner",
@@ -28000,7 +28000,7 @@
     },
     {
       "slug": "foxbit",
-      "category": "exchanges",
+      "category": "exchange",
       "logo_path": "logos/exchanges/foxbit.png",
       "keywords": [
         "foxbit",
@@ -28775,7 +28775,7 @@
     },
     {
       "slug": "xbo",
-      "category": "exchanges",
+      "category": "exchange",
       "logo_path": "logos/exchanges/xbo.png",
       "keywords": [
         "xbo",
@@ -28941,9 +28941,7 @@
         "jpyc",
         "jpyc.co.jp"
       ],
-      "product_aliases": [
-        "JPYC"
-      ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
