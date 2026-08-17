@@ -2788,3 +2788,4 @@ SBI Startale (JPYSC),stablecoin_issuer,65,0,0,10,ETH,manual-admin,sbi-startale,s
 Arcadia Finance,defi,100,6514,80,10,BASE,manual-admin,arcadia-finance,arcadia.finance,"arcadia finance,arcadia",,manual,2026-08-13,true,8c9611855edaf2e1ecd0e5acdeaea8c9a1ad983f1485f5655823035b2e4f2a0f
 Zora,nft_marketplace,100,1,75,5,ETH,manual-admin,zora,zora.co,"zora,zora.co,zora network",,manual,2026-08-13,true,fd03f618dd38bc44f53b1f8a8843b1e8abcc28d48748f73fbefb385f001267c1
 Elixir,defi,100,7,90,10,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,manual-admin,elixir,elixir.xyz,"elixir,elixir network,elixir.xyz",,manual,2026-08-13,true,3ab1b8df6bc45b383dfa6e75fac1f191420d07d475660edd51a4a9bf72149282
+AAX,exchange,50,,85,5,TRON,arkham-intelligence|manual-admin,aax,aax.com,aax,,manual,2026-08-17,true,4df6e2b3ad59a2a4a83bd46a307acab16259837f51e0597992551d07a1ca1df1
