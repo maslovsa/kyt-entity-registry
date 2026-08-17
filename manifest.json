@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-17T15:57:57+00:00",
+  "generated_at": "2026-08-17T17:50:58+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -2902,22 +2902,6 @@
       ],
       "product_aliases": [],
       "sanctioned": false
-    },
-    {
-      "slug": "arvix-pro",
-      "category": "sanctioned",
-      "logo_path": "logos/sanctioned/arvix-pro.png",
-      "keywords": [
-        "arvix",
-        "arvix pro",
-        "arvix llc",
-        "arvix limited",
-        "exnode",
-        "exnode pay",
-        "exnode.ru"
-      ],
-      "product_aliases": [],
-      "sanctioned": true
     },
     {
       "slug": "base-bridge",
