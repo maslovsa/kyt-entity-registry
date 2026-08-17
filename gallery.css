@@ -439,18 +439,21 @@ h1, h2, h3, h4, h5, h6 {
 .badge-status[data-status="none"]       { background: var(--destructive-soft); color: var(--destructive); }
 .badge-status[data-status="favicon"]      { background: #fef3c7; color: #92400e; }
 .badge-status[data-status="placeholder"]  { background: var(--muted); color: var(--muted-foreground); }
+.badge-status[data-status="synthetic"]    { background: #e0e7ff; color: #3730a3; }
 @media (prefers-color-scheme: dark) {
   :root:not(.light) .badge-status[data-status="arkham"]     { background: #1e3a5f; color: #93c5fd; }
   :root:not(.light) .badge-status[data-status="brandfetch"] { background: #2e1f4a; color: #c4b5fd; }
   :root:not(.light) .badge-status[data-status="defillama"]  { background: #3f2e10; color: #fcd34d; }
   :root:not(.light) .badge-status[data-status="manual"]     { background: #1a3a2a; color: #6ee7a4; }
   :root:not(.light) .badge-status[data-status="favicon"]    { background: #3d2e10; color: #fcd34d; }
+  :root:not(.light) .badge-status[data-status="synthetic"]  { background: #2a2a5c; color: #a5b4fc; }
 }
 :root.dark .badge-status[data-status="arkham"]     { background: #1e3a5f; color: #93c5fd; }
 :root.dark .badge-status[data-status="brandfetch"] { background: #2e1f4a; color: #c4b5fd; }
 :root.dark .badge-status[data-status="defillama"]  { background: #3f2e10; color: #fcd34d; }
 :root.dark .badge-status[data-status="manual"]     { background: #1a3a2a; color: #6ee7a4; }
 :root.dark .badge-status[data-status="favicon"]    { background: #3d2e10; color: #fcd34d; }
+:root.dark .badge-status[data-status="synthetic"]  { background: #2a2a5c; color: #a5b4fc; }
 .badge-lock { background: var(--destructive-soft); color: var(--destructive); }
 
 .card-sub {
@@ -661,6 +664,7 @@ mark.highlight {
 #status-chips .chip[data-status="defillama"]::before   { background: #fef9c3; border: 1px solid #ca8a04; }
 #status-chips .chip[data-status="favicon"]::before     { background: #fef3c7; border: 1px solid #d97706; }
 #status-chips .chip[data-status="manual"]::before      { background: #fde9f1; border: 1px solid var(--brand); }
+#status-chips .chip[data-status="synthetic"]::before   { background: #e0e7ff; border: 1px solid #4f46e5; }
 #status-chips .chip[data-status="placeholder"]::before { background: var(--muted); border: 1px solid var(--border); }
 #status-chips .chip[data-status="none"]::before        { background: var(--destructive-soft); border: 1px solid var(--destructive); }
 

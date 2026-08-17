@@ -373,7 +373,7 @@ function renderCategoryChips() {
   els.chips.classList.toggle('chips-has-selection', state.filter.category !== 'all');
 }
 
-const ALL_STATUSES = ['arkham', 'brandfetch', 'defillama', 'favicon', 'manual', 'placeholder', 'none'];
+const ALL_STATUSES = ['arkham', 'brandfetch', 'defillama', 'favicon', 'manual', 'synthetic', 'placeholder', 'none'];
 
 function renderStatusChips() {
   const bar = document.getElementById('status-chips');

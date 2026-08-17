@@ -88,7 +88,13 @@ REGISTRY_CSV_URL = (
 # logo-curation work.  6 pre-existing missing-PNG entries (Iranian /
 # Cambodian sanctioned exchanges using Iran-flag override) were
 # already in the manifest before this change.
-LOGO_READY = {"manual", "arkham", "brandfetch", "defillama"}
+#
+# `synthetic` added 2026-08-17 — generated text/initials marks (see
+# scripts/generate_initials_logos.py) for entities every real source
+# already missed. Included so badge detection keeps working for them;
+# unlike `manual` they still get retried by enrich.py and are
+# transparently replaced the moment a real source hits.
+LOGO_READY = {"manual", "arkham", "brandfetch", "defillama", "synthetic"}
 
 # Categories treated as sanctioned for the manifest `sanctioned` flag.
 SANCTIONED_CATEGORIES = {"sanctioned"}

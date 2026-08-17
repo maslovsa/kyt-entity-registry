@@ -95,6 +95,15 @@ sitemap.xml + robots.txt + llms.txt + og-preview.png
   real logo as soon as one appears.
 - `logo_status=none` → also always refreshable; means the
   enrichment cron has not touched the row yet.
+- `logo_status=synthetic` → also always refreshable. A generated
+  text/initials mark (`scripts/generate_initials_logos.py`) for a
+  row every real source already missed — strictly better than the
+  generic placeholder, but NOT a human-verified logo, so unlike
+  `manual` it stays eligible for auto-replacement. `manual_lock`
+  must stay `false` on these rows, and the file must live ONLY at
+  the public `logos/<cat>/<slug>.png` path, never under
+  `logos/_manual/` — that tree is the highest-priority override and
+  wins forever once a file lands there, regardless of status/lock.
 - sha256 check is the gate — if new bytes == old bytes, make NO
   commit. Otherwise ≥20 commits/night from jitter.
 
