@@ -2,13 +2,22 @@
 real logo (logo_status in {placeholder, none}) after every source in the
 C4 chain (arkham/brandfetch/defillama/favicon) has been tried and missed.
 
-This is a MANUAL curation action, not a new automated C4 source: it does
-not touch the enrichment pipeline or require an RFC update. It writes a
-one-off batch of hand-picked initials images the same way a reviewer's
-gallery-exported "suggested_logo_data_url" would via rework_from_report.py
--- to logos/_manual/<category>/<slug>.png AND the public logos/<category>/
-<slug>.png path, then flips the CSV row to logo_status=manual,
-manual_lock=true.
+This is NOT a new automated C4 source and needs no RFC update -- it's a
+one-off generation pass, run by hand. But unlike a genuine manual
+curation action (rework_from_report.py's suggested-logo apply path),
+these images are NOT human-verified final logos: they're a
+stand-in, strictly better than the generic logos/404.png, and should
+keep being replaced automatically the moment a real source is found.
+
+So this writes ONLY the public logos/<category>/<slug>.png path (never
+logos/_manual/ -- that tree is enrich.py's highest-priority override
+and, once a file lands there, is used forever regardless of any status
+or lock flag), sets logo_status=synthetic, and leaves manual_lock=false.
+scripts/enrich.py treats `synthetic` like `placeholder`/`none`: it
+bypasses the 30-day freshness gate so real sources (arkham/brandfetch/
+defillama/favicon) get retried every run, and a no-hit run leaves the
+existing synthetic mark alone instead of overwriting it with the
+generic fallback.
 
 Text selection, per entity_name:
   - Split into words on whitespace/-/_/./:/,/()/&, drop non-Latin tokens
@@ -56,7 +65,6 @@ from _base import (  # type: ignore[import-not-found]
     LOGOS_DIR,
     Row,
     logo_path_for,
-    manual_path_for,
     read_entities,
     sha256_hex,
 )
@@ -205,9 +213,8 @@ def main() -> int:
 
     applied: list[tuple[int, Row]] = []
     for i, row, text in candidates:
-        manual = manual_path_for(row.category_slug, row.slug)
         public = logo_path_for(row.category_slug, row.slug)
-        if manual is None or public is None:
+        if public is None:
             print(f"  REJECT {row.entity_name!r}: no dir mapping for "
                   f"category={row.category_slug!r} / bad slug {row.slug!r}",
                   file=sys.stderr)
@@ -223,14 +230,19 @@ def main() -> int:
               f"({len(png)} B)")
 
         if args.apply:
-            manual.parent.mkdir(parents=True, exist_ok=True)
-            manual.write_bytes(png)
+            # Public path ONLY -- never logos/_manual/. That tree is
+            # enrich.py's highest-priority override and, once a file
+            # lands there, wins forever regardless of logo_status or
+            # manual_lock (see _try_manual() in enrich.py). A synthetic
+            # mark must stay eligible for real enrichment to replace it.
             public.parent.mkdir(parents=True, exist_ok=True)
             public.write_bytes(png)
-            row.set("logo_status", "manual")
+            row.set("logo_status", "synthetic")
             row.set("logo_updated_at", today)
             row.set("logo_hash", new_hash)
-            row.set("manual_lock", "true")
+            # manual_lock stays false -- candidates are pre-filtered to
+            # exclude locked rows, and a synthetic mark must remain
+            # eligible for enrich.py to overwrite with a real logo.
             applied.append((i, row))
 
     if args.apply and applied:

@@ -88,7 +88,7 @@ removals require coordinated migration):
 | `sources`          | provider | `|`-joined source slugs |
 | `arkham_slug`      | provider | lowercase-dash, first enrichment source tries this |
 | `canonical_domain` | provider | populated when name looks domain-like |
-| `logo_status`      | **registry** | `none` / `arkham` / `brandfetch` / `defillama` / `manual` |
+| `logo_status`      | **registry** | `none` / `arkham` / `brandfetch` / `defillama` / `manual` / `synthetic` |
 | `logo_updated_at`  | **registry** | ISO date, set by enrichment cron |
 | `manual_lock`      | **registry** | `true` → enrichment never overwrites |
 | `logo_hash`        | **registry** | sha256 hex; short-circuits unchanged commits |

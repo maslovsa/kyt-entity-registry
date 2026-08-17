@@ -65,6 +65,19 @@ STATUS_DEFILLAMA = "defillama"
 STATUS_FAVICON = "favicon"
 STATUS_MANUAL = "manual"
 STATUS_PLACEHOLDER = "placeholder"
+# A generated (not human-curated) text/initials mark -- see
+# scripts/generate_initials_logos.py. Unlike STATUS_MANUAL, it's not a
+# human-verified final logo: it bypasses the freshness gate exactly
+# like placeholder/none so real sources keep getting a chance every
+# run, and a no-hit run must NOT clobber it with the generic fallback
+# (see the `if raw is None` branch below) -- it's strictly better than
+# that fallback already.
+STATUS_SYNTHETIC = "synthetic"
+
+# logo_status values that bypass the REFRESH_DAYS gate: none of these
+# represent a human-confirmed real logo, so every run should keep
+# trying real sources regardless of how recently they were touched.
+ALWAYS_REFRESH_STATUSES = (STATUS_NONE, STATUS_PLACEHOLDER, STATUS_SYNTHETIC)
 
 # DefiLlama covers tokenised protocols — dex + bridge + defi all
 # usually have a slug there. Exchange / hack / sanctioned categories
@@ -78,9 +91,10 @@ def _today() -> str:
 
 
 def _is_fresh(row: Row) -> bool:
-    # Placeholders bypass the freshness gate — we want to keep trying
-    # real sources every run. Likewise `none` is never fresh.
-    if row.logo_status in (STATUS_NONE, STATUS_PLACEHOLDER):
+    # Placeholders/synthetic marks bypass the freshness gate — we want
+    # to keep trying real sources every run. Likewise `none` is never
+    # fresh.
+    if row.logo_status in ALWAYS_REFRESH_STATUSES:
         return False
     updated = row.get("logo_updated_at")
     if not updated:
@@ -208,7 +222,7 @@ def run(
         "scanned": 0,
         "hit_manual": 0, "hit_arkham": 0, "hit_brandfetch": 0,
         "hit_defillama": 0, "hit_favicon": 0, "hit_placeholder": 0,
-        "miss": 0, "unchanged": 0, "disk_ok": 0,
+        "miss": 0, "unchanged": 0, "disk_ok": 0, "kept_synthetic": 0,
         "written": 0, "normalize_fail": 0,
     }
 
@@ -259,13 +273,14 @@ def run(
                 # source of truth — don't replace it with whatever the
                 # external CDN returns today (content can change, e.g.
                 # Arkham swaps their icon). Only skip this gate when
-                # --force is passed or the status is placeholder/none
-                # (those need a real logo, not just the existing bytes).
+                # --force is passed or the status is placeholder/none/
+                # synthetic (those need a real logo, not just the
+                # existing bytes).
                 existing_path = logo_path_for(row.category_slug, row.slug)
                 if (
                     not force
                     and row.logo_hash
-                    and row.logo_status not in (STATUS_NONE, STATUS_PLACEHOLDER)
+                    and row.logo_status not in ALWAYS_REFRESH_STATUSES
                     and existing_path is not None
                     and existing_path.exists()
                     and sha256_hex(existing_path.read_bytes()) == row.logo_hash
@@ -280,6 +295,17 @@ def run(
                     source, raw = result
 
             if raw is None:
+                if row.logo_status == STATUS_SYNTHETIC:
+                    # Already carrying a hand-generated initials mark
+                    # (scripts/generate_initials_logos.py) — strictly
+                    # better than the generic 404.png/hacker.png
+                    # fallback, so leave it alone rather than
+                    # clobbering it. Still bypassed the freshness gate
+                    # above, so a real source gets tried again next run.
+                    counters["kept_synthetic"] += 1
+                    if verbose:
+                        log(f"synthetic (kept) {row.entity_name}")
+                    continue
                 # No real source hit. Write a placeholder so consumers
                 # always see a 200 from jsDelivr instead of a 404 flash.
                 # Category-specific when available (hack → hacker glyph)
@@ -378,6 +404,7 @@ def main() -> int:
     print(f"favicon:        {c['hit_favicon']}")
     print(f"placeholder:    {c['hit_placeholder']}")
     print(f"disk-ok (skip): {c['disk_ok']}")
+    print(f"kept synthetic: {c['kept_synthetic']}")
     print(f"unchanged:      {c['unchanged']}")
     print(f"written:        {c['written']}")
     print(f"normalize fail: {c['normalize_fail']}")
