@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-17T17:50:58+00:00",
+  "generated_at": "2026-08-18T09:17:32+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -486,7 +486,8 @@
       "logo_path": "logos/dex/bancor-v3.png",
       "keywords": [
         "bancor v3",
-        "bancor-v3"
+        "bancor-v3",
+        "bancor"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -884,16 +885,6 @@
       "sanctioned": false
     },
     {
-      "slug": "cwallet",
-      "category": "wallet",
-      "logo_path": "logos/wallet/cwallet.png",
-      "keywords": [
-        "cwallet"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "daoventures",
       "category": "defi",
       "logo_path": "logos/defi/daoventures.png",
@@ -1225,16 +1216,6 @@
       "keywords": [
         "huione",
         "huione group"
-      ],
-      "product_aliases": [],
-      "sanctioned": true
-    },
-    {
-      "slug": "huionepay",
-      "category": "sanctioned",
-      "logo_path": "logos/sanctioned/huionepay.png",
-      "keywords": [
-        "huionepay"
       ],
       "product_aliases": [],
       "sanctioned": true
@@ -1777,7 +1758,8 @@
       "logo_path": "logos/defi/orange-finance.png",
       "keywords": [
         "orange finance",
-        "orange-finance"
+        "orange-finance",
+        "orange"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -5012,16 +4994,6 @@
       "logo_path": "logos/defi/avantis.png",
       "keywords": [
         "avantis"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "bancor",
-      "category": "dex",
-      "logo_path": "logos/dex/bancor.png",
-      "keywords": [
-        "bancor"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -12973,17 +12945,6 @@
       "sanctioned": false
     },
     {
-      "slug": "triv",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/triv.png",
-      "keywords": [
-        "triv",
-        "triv.co.id"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "wolf-bet",
       "category": "gambling",
       "logo_path": "logos/gambling/wolf-bet.png",
@@ -13073,17 +13034,6 @@
       "keywords": [
         "hifiswap",
         "hifi swap"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "fairdesk-com",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/fairdesk-com.png",
-      "keywords": [
-        "fairdesk",
-        "fairdesk.com"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -14498,16 +14448,6 @@
       "logo_path": "logos/exchanges/mexc.png",
       "keywords": [
         "mexc"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "wirex",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/wirex.png",
-      "keywords": [
-        "wirex"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -16243,16 +16183,6 @@
       "keywords": [
         "zoomex",
         "zoomex.com"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "cropty",
-      "category": "wallet",
-      "logo_path": "logos/wallet/cropty.png",
-      "keywords": [
-        "cropty"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -20123,17 +20053,6 @@
       "sanctioned": false
     },
     {
-      "slug": "orange",
-      "category": "defi",
-      "logo_path": "logos/defi/orange.png",
-      "keywords": [
-        "orange finance",
-        "orange"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "zunami",
       "category": "defi",
       "logo_path": "logos/defi/zunami.png",
@@ -20430,17 +20349,6 @@
       "logo_path": "logos/exchanges/matrixport-com.png",
       "keywords": [
         "matrixport"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "paribu",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/paribu.png",
-      "keywords": [
-        "paribu exchange",
-        "paribu"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -21376,16 +21284,6 @@
       "keywords": [
         "maicoin",
         "maicoin.com"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "onus",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/onus.png",
-      "keywords": [
-        "onus"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -24724,17 +24622,6 @@
       "sanctioned": false
     },
     {
-      "slug": "chainup",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/chainup.png",
-      "keywords": [
-        "chainup",
-        "chainup"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "coindelta",
       "category": "exchange",
       "logo_path": "logos/exchanges/coindelta.png",
@@ -24773,7 +24660,7 @@
       "logo_path": "logos/exchanges/fairdesk.png",
       "keywords": [
         "fairdesk",
-        "fairdesk"
+        "fairdesk.com"
       ],
       "product_aliases": [],
       "sanctioned": false
