@@ -2793,3 +2793,6 @@ Jibitex,exchange,100,1,80,5,TRON,manual-admin,jibitex-com,jibitex.co,"jibitex-co
 Exir,exchange,100,1,80,5,TRON,manual-admin,exir-io,exir.io,"exir-io,exir,exir.io",,manual,2026-08-20,true,a9d381d43128de36bbd59f788af58abffc74bbb21eb537d9d442ff3ce7d3bf29
 OK Exchange (ok-ex.io),exchange,100,1,80,5,TRON,manual-admin,ok-ex-io,ok-ex.io,"ok-ex-io,ok exchange (ok-ex.io),ok-ex.io",,manual,2026-08-20,true,75c708c5885c981df2b4890f80720ab914684c7f5b693ec4f2cb706dda3ddc85
 Bitimen,exchange,100,1,80,5,TRON,manual-admin,bitimen-com,bitimen.com,"bitimen-com,bitimen,bitimen.com",,manual,2026-08-20,true,5c4b0866829a4820c292c9e947149f6d48636e843535dbd6e9f8805ad1b5257d
+Coinnik Market,exchange,100,1,80,5,TRON,manual-admin,coinnik-market,coinnik.market,"coinnik-market,coinnik market,coinnik.market",,synthetic,2026-08-20,true,899cefab5d4fa44c615d2bcb95501fa6b35d1bf879390d5665dd9f7f7f38511c
+HDPay.ir,exchange,100,1,80,5,TRON,manual-admin,hdpay-ir,hdpay.ir,"hdpay-ir,hdpay.ir,hdpay.ir",,synthetic,2026-08-20,true,899cefab5d4fa44c615d2bcb95501fa6b35d1bf879390d5665dd9f7f7f38511c
+WMIRAN,exchange,100,1,80,5,TRON,manual-admin,pay-wmiran-com,wmiran.com,"pay-wmiran-com,wmiran,wmiran.com",,synthetic,2026-08-20,true,899cefab5d4fa44c615d2bcb95501fa6b35d1bf879390d5665dd9f7f7f38511c

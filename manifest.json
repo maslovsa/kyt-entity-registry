@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-20T12:37:40+00:00",
+  "generated_at": "2026-08-20T12:42:37+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28187,6 +28187,42 @@
         "bitimen-com",
         "bitimen",
         "bitimen.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coinnik-market",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/coinnik-market.png",
+      "keywords": [
+        "coinnik-market",
+        "coinnik market",
+        "coinnik.market"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hdpay-ir",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/hdpay-ir.png",
+      "keywords": [
+        "hdpay-ir",
+        "hdpay.ir",
+        "hdpay.ir"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pay-wmiran-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/pay-wmiran-com.png",
+      "keywords": [
+        "pay-wmiran-com",
+        "wmiran",
+        "wmiran.com"
       ],
       "product_aliases": [],
       "sanctioned": false
