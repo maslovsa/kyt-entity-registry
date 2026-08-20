@@ -2777,3 +2777,19 @@ Arcadia Finance,defi,100,6514,80,10,BASE,manual-admin,arcadia-finance,arcadia.fi
 Zora,nft_marketplace,100,1,75,5,ETH,manual-admin,zora,zora.co,"zora,zora.co,zora network",,manual,2026-08-13,true,fd03f618dd38bc44f53b1f8a8843b1e8abcc28d48748f73fbefb385f001267c1
 Elixir,defi,100,7,90,10,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,manual-admin,elixir,elixir.xyz,"elixir,elixir network,elixir.xyz",,manual,2026-08-13,true,3ab1b8df6bc45b383dfa6e75fac1f191420d07d475660edd51a4a9bf72149282
 AAX,exchange,50,,85,5,TRON,arkham-intelligence|manual-admin,aax,aax.com,aax,,manual,2026-08-17,true,4df6e2b3ad59a2a4a83bd46a307acab16259837f51e0597992551d07a1ca1df1
+Mazdax.com,exchange,100,1,80,5,TRON,manual-admin,mazdax-com,mazdax.ir,"mazdax-com,mazdax.com,mazdax.ir",,manual,2026-08-20,true,3861ba3a1d3b6ef1f61fa451e7164a360a590f618fc6c076fd0e5054704efba9
+Exchanging.app,exchange,100,1,80,5,TRON,manual-admin,exchanging-app,exchanging.app,"exchanging-app,exchanging.app,exchanging.app",,manual,2026-08-20,true,ccf07e9945e763627a8c81c6e72af2d4cf3eaf7aad3e76c8c7666195fe334979
+PAYWM (WMFA),exchange,100,1,80,5,TRON,manual-admin,paywm-net,paywm.net,"paywm-net,paywm (wmfa),paywm.net",,manual,2026-08-20,true,b4d236aeeb4d3dfdfb301083e67f8fee5e9ee51eca55c3c9bcadd24d27089e1f
+Ubitex,exchange,100,1,80,5,TRON,manual-admin,ubitex-io,ubitex.io,"ubitex-io,ubitex,ubitex.io",,manual,2026-08-20,true,e163aa611cee7333e7a27b9d8841b17a60debfff1b0019d1f1bf82d9af59e23c
+Sarmayex,exchange,100,1,80,5,TRON,manual-admin,sarmayex-com,sarmayex.com,"sarmayex-com,sarmayex,sarmayex.com",,manual,2026-08-20,true,ff924114332f4c510d18e892b33fa5cb44a1aeab4d3aedca095c08b6121f6222
+ExchangeHadi (Exhadi),exchange,100,1,80,5,TRON,manual-admin,exchangehadi-ir,exhadi.org,"exchangehadi-ir,exchangehadi (exhadi),exhadi.org",,manual,2026-08-20,true,9f5b237dbb54fc8a9a04410a4adb048ed19f331040f58b19000abfba3adfcc03
+RabinCash,exchange,100,1,80,5,TRON,manual-admin,rabincash-com,rabincash.com,"rabincash-com,rabincash,rabincash.com",,manual,2026-08-20,true,96362564b6294b2ffcd72ffe07c80db1dfeb89fc399c098514c5a422c5f129bf
+Phinix,exchange,100,1,80,5,TRON,manual-admin,phinix-ir,phinix.ir,"phinix-ir,phinix,phinix.ir",,manual,2026-08-20,true,abe3c33e9a13479c1edea5f7af12a18cba8e37a8c94a68f3f14af32aec094ea3
+Exnovin,exchange,100,1,80,5,TRON,manual-admin,exnovin-net,exnovin.net,"exnovin-net,exnovin,exnovin.net",,manual,2026-08-20,true,a22b1cb80638d67c8768cc5d56f79011f29f42f4624a180feabf944dab69ed7c
+Rabex.ir,exchange,100,1,80,5,TRON,manual-admin,rabex-ir,rabex.ir,"rabex-ir,rabex.ir,rabex.ir",,manual,2026-08-20,true,9300e4a2105dfdfc4e158f554be290836e61e1e8ab41d32bce1554f47981c313
+IraniCard.ir,psp,100,1,80,5,TRON,manual-admin,iranicard-ir,iranicard.ir,"iranicard-ir,iranicard.ir,iranicard.ir",,manual,2026-08-20,true,9ac0cea1684444dc418b8b5cf596607bffff5b696b9d34d7f12683c7989b81f4
+Farhad Exchange,exchange,100,1,80,5,TRON,manual-admin,farhad-exchange-net,efex.pro,"farhad-exchange-net,farhad exchange,efex.pro",,manual,2026-08-20,true,f065da2a20d647c6b347a13b92d1595ac1b184165795737b4976f03859058dbc
+Jibitex,exchange,100,1,80,5,TRON,manual-admin,jibitex-com,jibitex.co,"jibitex-com,jibitex,jibitex.co",,manual,2026-08-20,true,aae92bd2d3c47b138858088166ad8e6d57f164211410be1bca39c1245facd062
+Exir,exchange,100,1,80,5,TRON,manual-admin,exir-io,exir.io,"exir-io,exir,exir.io",,manual,2026-08-20,true,a9d381d43128de36bbd59f788af58abffc74bbb21eb537d9d442ff3ce7d3bf29
+OK Exchange (ok-ex.io),exchange,100,1,80,5,TRON,manual-admin,ok-ex-io,ok-ex.io,"ok-ex-io,ok exchange (ok-ex.io),ok-ex.io",,manual,2026-08-20,true,75c708c5885c981df2b4890f80720ab914684c7f5b693ec4f2cb706dda3ddc85
+Bitimen,exchange,100,1,80,5,TRON,manual-admin,bitimen-com,bitimen.com,"bitimen-com,bitimen,bitimen.com",,manual,2026-08-20,true,5c4b0866829a4820c292c9e947149f6d48636e843535dbd6e9f8805ad1b5257d

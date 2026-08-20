@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-18T09:17:32+00:00",
+  "generated_at": "2026-08-20T12:37:40+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -27995,6 +27995,198 @@
       "logo_path": "logos/exchanges/aax.png",
       "keywords": [
         "aax"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mazdax-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/mazdax-com.png",
+      "keywords": [
+        "mazdax-com",
+        "mazdax.com",
+        "mazdax.ir"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "exchanging-app",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/exchanging-app.png",
+      "keywords": [
+        "exchanging-app",
+        "exchanging.app",
+        "exchanging.app"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "paywm-net",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/paywm-net.png",
+      "keywords": [
+        "paywm-net",
+        "paywm (wmfa)",
+        "paywm.net"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ubitex-io",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/ubitex-io.png",
+      "keywords": [
+        "ubitex-io",
+        "ubitex",
+        "ubitex.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "sarmayex-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/sarmayex-com.png",
+      "keywords": [
+        "sarmayex-com",
+        "sarmayex",
+        "sarmayex.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "exchangehadi-ir",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/exchangehadi-ir.png",
+      "keywords": [
+        "exchangehadi-ir",
+        "exchangehadi (exhadi)",
+        "exhadi.org"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "rabincash-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/rabincash-com.png",
+      "keywords": [
+        "rabincash-com",
+        "rabincash",
+        "rabincash.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "phinix-ir",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/phinix-ir.png",
+      "keywords": [
+        "phinix-ir",
+        "phinix",
+        "phinix.ir"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "exnovin-net",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/exnovin-net.png",
+      "keywords": [
+        "exnovin-net",
+        "exnovin",
+        "exnovin.net"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "rabex-ir",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/rabex-ir.png",
+      "keywords": [
+        "rabex-ir",
+        "rabex.ir",
+        "rabex.ir"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "iranicard-ir",
+      "category": "psp",
+      "logo_path": "logos/psp/iranicard-ir.png",
+      "keywords": [
+        "iranicard-ir",
+        "iranicard.ir",
+        "iranicard.ir"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "farhad-exchange-net",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/farhad-exchange-net.png",
+      "keywords": [
+        "farhad-exchange-net",
+        "farhad exchange",
+        "efex.pro"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "jibitex-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/jibitex-com.png",
+      "keywords": [
+        "jibitex-com",
+        "jibitex",
+        "jibitex.co"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "exir-io",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/exir-io.png",
+      "keywords": [
+        "exir-io",
+        "exir",
+        "exir.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ok-ex-io",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/ok-ex-io.png",
+      "keywords": [
+        "ok-ex-io",
+        "ok exchange (ok-ex.io)",
+        "ok-ex.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitimen-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bitimen-com.png",
+      "keywords": [
+        "bitimen-com",
+        "bitimen",
+        "bitimen.com"
       ],
       "product_aliases": [],
       "sanctioned": false
