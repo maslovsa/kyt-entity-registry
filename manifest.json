@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-20T12:42:37+00:00",
+  "generated_at": "2026-08-21T14:05:42+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28223,6 +28223,33 @@
         "pay-wmiran-com",
         "wmiran",
         "wmiran.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "lmau",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/lmau.png",
+      "keywords": [
+        "lmau",
+        "lanTal mining",
+        "gold backed token",
+        "lmau.io",
+        "lmau.lantalmining.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "antarctic-wallet",
+      "category": "wallet",
+      "logo_path": "logos/wallet/antarctic-wallet.png",
+      "keywords": [
+        "antarctic wallet",
+        "antarctic-wallet",
+        "antarcticwallet.com",
+        "osoo antarktik vollet"
       ],
       "product_aliases": [],
       "sanctioned": false
