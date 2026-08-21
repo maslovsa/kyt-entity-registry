@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-21T14:05:42+00:00",
+  "generated_at": "2026-08-21T14:25:03+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28250,6 +28250,30 @@
         "antarctic-wallet",
         "antarcticwallet.com",
         "osoo antarktik vollet"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cryptoinvest",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/cryptoinvest.png",
+      "keywords": [
+        "cryptoinvest",
+        "cryptoinvest.am",
+        "armenia casp"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tetchange",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/tetchange.png",
+      "keywords": [
+        "tetchange",
+        "tetchange.com",
+        "armenia exchange"
       ],
       "product_aliases": [],
       "sanctioned": false
