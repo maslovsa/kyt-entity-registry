@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-22T13:55:44+00:00",
+  "generated_at": "2026-08-22T14:03:02+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28274,6 +28274,18 @@
         "tetchange",
         "tetchange.com",
         "armenia exchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gasfree-io",
+      "category": "bridge",
+      "logo_path": "logos/bridge/gasfree-io.png",
+      "keywords": [
+        "gasfree",
+        "gasfree.io",
+        "gasfree endpoint"
       ],
       "product_aliases": [],
       "sanctioned": false
