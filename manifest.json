@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-24T20:44:59+00:00",
+  "generated_at": "2026-08-24T21:01:10+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -27310,6 +27310,196 @@
       "keywords": [
         "sorare",
         "sorare.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "iconomi-com",
+      "category": "defi",
+      "logo_path": "logos/defi/iconomi-com.png",
+      "keywords": [
+        "iconomi",
+        "icn"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "musiconomi-com",
+      "category": "defi",
+      "logo_path": "logos/defi/musiconomi-com.png",
+      "keywords": [
+        "musiconomi",
+        "mci"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coindash-io",
+      "category": "defi",
+      "logo_path": "logos/defi/coindash-io.png",
+      "keywords": [
+        "coindash"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "sparkster-me",
+      "category": "defi",
+      "logo_path": "logos/defi/sparkster-me.png",
+      "keywords": [
+        "sparkster",
+        "sprk"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "digix-global",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/digix-global.png",
+      "keywords": [
+        "digix",
+        "dgd",
+        "dgx"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "savedroid-com",
+      "category": "wallet",
+      "logo_path": "logos/wallet/savedroid-com.png",
+      "keywords": [
+        "savedroid"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "imbrex-io",
+      "category": "defi",
+      "logo_path": "logos/defi/imbrex-io.png",
+      "keywords": [
+        "imbrex",
+        "rex"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mcdex-io",
+      "category": "dex",
+      "logo_path": "logos/dex/mcdex-io.png",
+      "keywords": [
+        "mcdex",
+        "mux protocol",
+        "mcb"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "blackfort-genesis-knights",
+      "category": "nft_marketplace",
+      "logo_path": "logos/nft_marketplace/blackfort-genesis-knights.png",
+      "keywords": [
+        "blackfort",
+        "genesis knights",
+        "bxn"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "singularx-com",
+      "category": "dex",
+      "logo_path": "logos/dex/singularx-com.png",
+      "keywords": [
+        "singularx",
+        "sngx",
+        "singulardtv"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "decentraland-org",
+      "category": "nft_marketplace",
+      "logo_path": "logos/nft_marketplace/decentraland-org.png",
+      "keywords": [
+        "decentraland",
+        "mana",
+        "land"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cryptopunks-app",
+      "category": "nft_marketplace",
+      "logo_path": "logos/nft_marketplace/cryptopunks-app.png",
+      "keywords": [
+        "cryptopunks",
+        "punk"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "status-im",
+      "category": "wallet",
+      "logo_path": "logos/wallet/status-im.png",
+      "keywords": [
+        "status.im",
+        "status research"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "santiment-net",
+      "category": "defi",
+      "logo_path": "logos/defi/santiment-net.png",
+      "keywords": [
+        "santiment"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "juicebox-money",
+      "category": "defi",
+      "logo_path": "logos/defi/juicebox-money.png",
+      "keywords": [
+        "juicebox",
+        "jbx"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cvault-finance",
+      "category": "defi",
+      "logo_path": "logos/defi/cvault-finance.png",
+      "keywords": [
+        "cvault",
+        "core token",
+        "cvault finance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "eclipse-xyz",
+      "category": "bridge",
+      "logo_path": "logos/bridge/eclipse-xyz.png",
+      "keywords": [
+        "eclipse",
+        "svm l2"
       ],
       "product_aliases": [],
       "sanctioned": false

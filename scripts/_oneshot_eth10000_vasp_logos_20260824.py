@@ -27,8 +27,12 @@ import build_lookup
 from normalize_png import NormalizeError, normalize
 
 TARGET_SLUGS = {
-    "etoro-com", "prime-trust-llc", "btc-markets-net", "nbx-com",
-    "netcoins-com", "quadrigacx-com",
+    "iconomi-com", "musiconomi-com", "coindash-io", "sparkster-me",
+    "digix-global", "savedroid-com", "imbrex-io", "duel-com",
+    "joinhighrise-com", "mcdex-io", "blackfort-genesis-knights",
+    "singularx-com", "india-covid-crypto-relief-fund", "decentraland-org",
+    "cryptopunks-app", "status-im", "santiment-net", "juicebox-money",
+    "cvault-finance", "eclipse-xyz",
 }
 
 _DEFILLAMA_CATEGORIES = {"defi", "dex", "bridge"}

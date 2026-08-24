@@ -2703,3 +2703,23 @@ Swell Network,defi,100,0,75,5,ETH,manual-admin,swell-network,swellnetwork.io,"sw
 stakefish,defi,100,0,75,5,ETH,manual-admin,stakefish,stake.fish,"stakefish,stake.fish",,arkham,2026-08-24,false,731f6f117aab603fcc655923ec949391552ce27b65e456664d4150c0c3c2da92
 Staked.us (Kraken),defi,100,0,75,5,ETH,manual-admin,staked-us,staked.us,"staked.us,staked inc,staked.us",,arkham,2026-08-24,false,92a7dc73ec4e4ede258fa3b9a728d9254f7f83aa0e239ae225ab3dd0109ffa8b
 Sorare,nft_marketplace,100,0,75,5,ETH,manual-admin,sorare-com,sorare.com,"sorare,sorare.com",,arkham,2026-08-24,false,336a060615765e9f1ed06d8b5aa530503abae3cf9d3eb0a04b74fab00f22bf40
+Iconomi,defi,100,0,75,5,ETH,manual-admin,iconomi-com,iconomi.com,"iconomi,icn",,arkham,2026-08-24,false,ca0cbeae27fb5d2e342be91c0b84d020d995ef4b9266f788fff2017dcbe2617d
+Musiconomi (defunct),defi,100,0,75,5,ETH,manual-admin,musiconomi-com,musiconomi.com,"musiconomi,mci",,arkham,2026-08-24,false,ec388381858a1b230de6ef65dc17ee19f50a4d805ee3438da2cf62789ba0e168
+CoinDash (defunct),defi,100,0,75,5,ETH,manual-admin,coindash-io,coindash.io,coindash,,arkham,2026-08-24,false,a470b48950e27c4cfdc174d07df9e88f8ba4fba042e592fa3e93aa56c1da6c3e
+Sparkster (defunct),defi,100,0,75,5,ETH,manual-admin,sparkster-me,sparkster.me,"sparkster,sprk",,arkham,2026-08-24,false,f80d1b7538f4265f19af18997229b609eb4cca33bb4a03b0a3ee8ab63c05fba6
+Digix (defunct),stablecoin_issuer,100,0,75,5,ETH,manual-admin,digix-global,digix.global,"digix,dgd,dgx",,arkham,2026-08-24,false,d5c667dee37dac356d307ce424489265e18c1fe5c24ca1af91b6fea0f9b8de09
+Savedroid (defunct),wallet,100,0,75,5,ETH,manual-admin,savedroid-com,savedroid.com,savedroid,,arkham,2026-08-24,false,b0aa654c78f52c1e89f8eab3496c78887cdfc0c07c10fca19e5376a8ff7f5606
+imbrex (defunct),defi,100,0,75,5,ETH,manual-admin,imbrex-io,imbrex.io,"imbrex,rex",,arkham,2026-08-24,false,d3cadd3fe08e9454763e7ade3773372c14314bdcf3b98b80f80573464a71529b
+Duel.com,gambling,100,0,75,5,ETH,manual-admin,duel-com,duel.com,"duel.com,duel originals",,favicon,2026-08-24,false,fcad2c69219e157945e74e795dea40857a2e96533bca49c370c23c52066e5bbc
+Highrise,defi,100,0,75,5,ETH,manual-admin,joinhighrise-com,joinhighrise.com,"highrise,pocket worlds",,placeholder,2026-08-25,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+MCDEX (rebranded to MUX Protocol),dex,100,0,75,5,ETH,manual-admin,mcdex-io,mux.network,"mcdex,mux protocol,mcb",,arkham,2026-08-25,false,672a29a163e5558c890f312b3eb9df22bcd43245fec1881d1c01536442f50848
+BlackFort Genesis Knights,nft_marketplace,100,0,75,5,ETH,manual-admin,blackfort-genesis-knights,blackfort.com,"blackfort,genesis knights,bxn",,arkham,2026-08-25,false,0e96796e585379d1371f6e47d6bd22fc910cb5e088d5e51ed9e6f57b804a2426
+SingularX,dex,100,0,75,5,ETH,manual-admin,singularx-com,singularx.com,"singularx,sngx,singulardtv",,arkham,2026-08-25,false,ef66f12a928977718a45e2d78655d612f01cc720441c45b090be0cadf0a06d90
+India Covid-Crypto Relief Fund,defi,100,0,75,5,ETH,manual-admin,india-covid-crypto-relief-fund,cryptorelief.in,"crypto relief,india covid",,favicon,2026-08-25,false,8c1ee0ccf7842c26281520ed14ce3f70b075ceac545e2f2fc8ee3d4aa36e6ce0
+Decentraland,nft_marketplace,100,0,75,5,ETH,manual-admin,decentraland-org,decentraland.org,"decentraland,mana,land",,arkham,2026-08-25,false,46f49ed34b2d4154393edff28bcb1ec508a9b90518aa0a95ba1d7866503ee8ef
+CryptoPunks,nft_marketplace,100,0,75,5,ETH,manual-admin,cryptopunks-app,cryptopunks.app,"cryptopunks,punk",,arkham,2026-08-25,false,eaefd27fe7e95eb3d4c98c45aa6127dfdae2e15b38eb53f32f783f271f437253
+Status,wallet,100,0,75,5,ETH,manual-admin,status-im,status.im,"status.im,status research",,arkham,2026-08-25,false,c5371f9eaa20b5ab00770c4ea217f876012f5e41c172734be32cd86464fda412
+Santiment,defi,100,0,75,5,ETH,manual-admin,santiment-net,santiment.net,santiment,,arkham,2026-08-25,false,6d3f77bcb8b73f72705144240ce5494b1f8d331ea53adddbc58c18b116aeaf4c
+Juicebox,defi,100,0,75,5,ETH,manual-admin,juicebox-money,juicebox.money,"juicebox,jbx",,arkham,2026-08-25,false,6107d4a89ade7d76eac2654a3756f44554569b25e7513c4384688c2ca7dd8bb8
+cVault Finance,defi,100,0,75,5,ETH,manual-admin,cvault-finance,cvault.finance,"cvault,core token,cvault finance",,arkham,2026-08-25,false,5b2e17f23f1472583a2f10e45bea5573932a24fdd7221f34b7563c0a63af41e6
+Eclipse,bridge,100,0,75,5,ETH,manual-admin,eclipse-xyz,eclipse.xyz,"eclipse,svm l2",,arkham,2026-08-25,false,6ada8b251dba4a59ee7013b18e1457555c885d96650a9f2383ced82f72544cf1
