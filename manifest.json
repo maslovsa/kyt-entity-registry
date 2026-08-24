@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-24T11:32:49+00:00",
+  "generated_at": "2026-08-24T20:16:13+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -604,17 +604,6 @@
       "sanctioned": false
     },
     {
-      "slug": "bitkub-cex",
-      "category": "defi",
-      "logo_path": "logos/defi/bitkub-cex.png",
-      "keywords": [
-        "bitkub-cex",
-        "bitkub cex"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "bitkub-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/bitkub-com.png",
@@ -696,16 +685,6 @@
       "sanctioned": false
     },
     {
-      "slug": "bybit",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/bybit.png",
-      "keywords": [
-        "bybit"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "bybit-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/bybit-com.png",
@@ -753,18 +732,6 @@
       "logo_path": "logos/exchanges/changehero-io.png",
       "keywords": [
         "changehero"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "changenow",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/changenow.png",
-      "keywords": [
-        "changenow",
-        "changenow.io",
-        "changenow.com"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -973,27 +940,6 @@
       "keywords": [
         "erasure v130",
         "erasure-v130"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "etherscan",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/etherscan.png",
-      "keywords": [
-        "etherscan exchange"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "etherscan-miner",
-      "category": "mining",
-      "logo_path": "logos/mining/etherscan-miner.png",
-      "keywords": [
-        "etherscan miner",
-        "etherscan-miner"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -1210,17 +1156,6 @@
       "sanctioned": true
     },
     {
-      "slug": "huione-group-fincen-pmlc-operator-2026-05-09",
-      "category": "sanctioned",
-      "logo_path": "logos/sanctioned/huione-group-fincen-pmlc-operator-2026-05-09.png",
-      "keywords": [
-        "huione",
-        "huione group"
-      ],
-      "product_aliases": [],
-      "sanctioned": true
-    },
-    {
       "slug": "hundredfinance",
       "category": "defi",
       "logo_path": "logos/defi/hundredfinance.png",
@@ -1246,16 +1181,6 @@
       "logo_path": "logos/defi/impermax.png",
       "keywords": [
         "impermax"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "indodax",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/indodax.png",
-      "keywords": [
-        "indodax"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -1343,16 +1268,6 @@
       "logo_path": "logos/exchanges/kraken-com.png",
       "keywords": [
         "kraken"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "kucoin",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/kucoin.png",
-      "keywords": [
-        "kucoin"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -1585,16 +1500,6 @@
       "sanctioned": false
     },
     {
-      "slug": "nobitex-ir-iran-irgc-exposure-operator-2026-05-09",
-      "category": "sanctioned",
-      "logo_path": "logos/sanctioned/nobitex-ir-iran-irgc-exposure-operator-2026-05-09.png",
-      "keywords": [
-        "nobitex.ir"
-      ],
-      "product_aliases": [],
-      "sanctioned": true
-    },
-    {
       "slug": "nomad-bridge-rekt",
       "category": "bridge",
       "logo_path": "logos/bridge/nomad-bridge-rekt.png",
@@ -1611,7 +1516,8 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/noones-com.png",
       "keywords": [
-        "noones"
+        "noones",
+        "noonecrypto"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -1626,16 +1532,6 @@
       ],
       "product_aliases": [],
       "sanctioned": false
-    },
-    {
-      "slug": "ofac-sdn",
-      "category": "sanctioned",
-      "logo_path": "logos/sanctioned/ofac-sdn.png",
-      "keywords": [
-        "ofac sdn"
-      ],
-      "product_aliases": [],
-      "sanctioned": true
     },
     {
       "slug": "ofac-sdn-cheil-credit-bank",
@@ -1659,16 +1555,6 @@
       ],
       "product_aliases": [],
       "sanctioned": true
-    },
-    {
-      "slug": "okex",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/okex.png",
-      "keywords": [
-        "okex"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
     },
     {
       "slug": "okx",
@@ -1841,7 +1727,8 @@
       "category": "defi",
       "logo_path": "logos/defi/pendle.png",
       "keywords": [
-        "pendle"
+        "pendle",
+        "pendle.finance"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -1852,16 +1739,6 @@
       "logo_path": "logos/defi/penpie.png",
       "keywords": [
         "penpie"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "phemex",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/phemex.png",
-      "keywords": [
-        "phemex"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -2031,16 +1908,6 @@
       "sanctioned": false
     },
     {
-      "slug": "rubic",
-      "category": "defi",
-      "logo_path": "logos/defi/rubic.png",
-      "keywords": [
-        "rubic"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "safemoon-rekt",
       "category": "defi",
       "logo_path": "logos/defi/safemoon-rekt.png",
@@ -2169,28 +2036,6 @@
       "sanctioned": false
     },
     {
-      "slug": "tornado-cash-governance-rekt",
-      "category": "defi",
-      "logo_path": "logos/defi/tornado-cash-governance-rekt.png",
-      "keywords": [
-        "tornado cash governance - rekt",
-        "tornado cash governance rekt",
-        "tornado-cash-governance-rekt"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "treasury",
-      "category": "defi",
-      "logo_path": "logos/defi/treasury.png",
-      "keywords": [
-        "treasury"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "triple-a-io",
       "category": "psp",
       "logo_path": "logos/psp/triple-a-io.png",
@@ -2211,16 +2056,6 @@
       ],
       "product_aliases": [],
       "sanctioned": false
-    },
-    {
-      "slug": "uk-ofsi",
-      "category": "sanctioned",
-      "logo_path": "logos/sanctioned/uk-ofsi.png",
-      "keywords": [
-        "uk ofsi"
-      ],
-      "product_aliases": [],
-      "sanctioned": true
     },
     {
       "slug": "unibot",
@@ -2264,9 +2099,9 @@
       "sanctioned": false
     },
     {
-      "slug": "uwulend",
+      "slug": "uwulend-second",
       "category": "defi",
-      "logo_path": "logos/defi/uwulend.png",
+      "logo_path": "logos/defi/uwulend-second.png",
       "keywords": [
         "uwulend"
       ],
@@ -2278,7 +2113,8 @@
       "category": "defi",
       "logo_path": "logos/defi/venus.png",
       "keywords": [
-        "venus"
+        "venus",
+        "venus.io"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -2389,7 +2225,8 @@
       "category": "defi",
       "logo_path": "logos/defi/yearn.png",
       "keywords": [
-        "yearn"
+        "yearn",
+        "yearn.finance"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -2864,17 +2701,6 @@
       "sanctioned": true
     },
     {
-      "slug": "anemoy-capital",
-      "category": "defi",
-      "logo_path": "logos/defi/anemoy-capital.png",
-      "keywords": [
-        "anemoy capital",
-        "anemoy-capital"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "arbitrum-bridge",
       "category": "bridge",
       "logo_path": "logos/bridge/arbitrum-bridge.png",
@@ -3041,20 +2867,6 @@
       "sanctioned": true
     },
     {
-      "slug": "nueva-cryptologia-abcex",
-      "category": "sanctioned",
-      "logo_path": "logos/sanctioned/nueva-cryptologia-abcex.png",
-      "keywords": [
-        "abcex",
-        "abcex exchange",
-        "abcex.io",
-        "nueva cryptologia",
-        "nueva cryptologia sas"
-      ],
-      "product_aliases": [],
-      "sanctioned": true
-    },
-    {
       "slug": "capital-bank-of-central-asia-kg",
       "category": "bank",
       "logo_path": "logos/bank/capital-bank-of-central-asia-kg.png",
@@ -3116,17 +2928,6 @@
       ],
       "product_aliases": [],
       "sanctioned": true
-    },
-    {
-      "slug": "ondo-yield-assets",
-      "category": "defi",
-      "logo_path": "logos/defi/ondo-yield-assets.png",
-      "keywords": [
-        "ondo yield assets",
-        "ondo-yield-assets"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
     },
     {
       "slug": "pancakeswap-amm",
@@ -3193,18 +2994,6 @@
       ],
       "product_aliases": [],
       "sanctioned": false
-    },
-    {
-      "slug": "sooty-limited",
-      "category": "sanctioned",
-      "logo_path": "logos/sanctioned/sooty-limited.png",
-      "keywords": [
-        "sooty",
-        "sooty limited",
-        "sooty ltd"
-      ],
-      "product_aliases": [],
-      "sanctioned": true
     },
     {
       "slug": "spark-savings",
@@ -3301,18 +3090,6 @@
       ],
       "product_aliases": [],
       "sanctioned": false
-    },
-    {
-      "slug": "a7a5-token",
-      "category": "sanctioned",
-      "logo_path": "logos/sanctioned/a7a5-token.png",
-      "keywords": [
-        "a7a5",
-        "a7a5 token",
-        "a7a5-token"
-      ],
-      "product_aliases": [],
-      "sanctioned": true
     },
     {
       "slug": "bitpapa-com",
@@ -3634,7 +3411,8 @@
       "category": "defi",
       "logo_path": "logos/defi/dolomite.png",
       "keywords": [
-        "dolomite"
+        "dolomite",
+        "dolomite.io"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -3939,39 +3717,6 @@
       "sanctioned": false
     },
     {
-      "slug": "jupiter-lend",
-      "category": "defi",
-      "logo_path": "logos/defi/jupiter-lend.png",
-      "keywords": [
-        "jupiter lend",
-        "jupiter-lend"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "jupiter-perpetual",
-      "category": "defi",
-      "logo_path": "logos/defi/jupiter-perpetual.png",
-      "keywords": [
-        "jupiter perpetual exchange",
-        "jupiter-perpetual"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "jupiter-staked-sol",
-      "category": "defi",
-      "logo_path": "logos/defi/jupiter-staked-sol.png",
-      "keywords": [
-        "jupiter staked sol",
-        "jupiter-staked-sol"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "kinetiq-khype",
       "category": "defi",
       "logo_path": "logos/defi/kinetiq-khype.png",
@@ -4054,17 +3799,6 @@
       "keywords": [
         "lista liquid staking",
         "lista-liquid-staking"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "lorenzo-enzobtc",
-      "category": "bridge",
-      "logo_path": "logos/bridge/lorenzo-enzobtc.png",
-      "keywords": [
-        "lorenzo enzobtc",
-        "lorenzo-enzobtc"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -4342,17 +4076,6 @@
       "sanctioned": false
     },
     {
-      "slug": "securitize-tokenized-aaa-clo-fund",
-      "category": "defi",
-      "logo_path": "logos/defi/securitize-tokenized-aaa-clo-fund.png",
-      "keywords": [
-        "securitize tokenized aaa clo fund",
-        "securitize-tokenized-aaa-clo-fund"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "solvbtc",
       "category": "bridge",
       "logo_path": "logos/bridge/solvbtc.png",
@@ -4447,17 +4170,6 @@
       "sanctioned": false
     },
     {
-      "slug": "superstate-ustb",
-      "category": "defi",
-      "logo_path": "logos/defi/superstate-ustb.png",
-      "keywords": [
-        "superstate ustb",
-        "superstate-ustb"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "tectonic",
       "category": "defi",
       "logo_path": "logos/defi/tectonic.png",
@@ -4526,18 +4238,6 @@
       "logo_path": "logos/bridge/unit.png",
       "keywords": [
         "unit"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "usual-usd0",
-      "category": "defi",
-      "logo_path": "logos/defi/usual-usd0.png",
-      "keywords": [
-        "usual usd0",
-        "usual-usd0",
-        "usual"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -4967,17 +4667,6 @@
       "sanctioned": false
     },
     {
-      "slug": "autofinance",
-      "category": "defi",
-      "logo_path": "logos/defi/autofinance.png",
-      "keywords": [
-        "autofinance",
-        "tokemak"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "avalon-superearn",
       "category": "defi",
       "logo_path": "logos/defi/avalon-superearn.png",
@@ -5005,16 +4694,6 @@
       "keywords": [
         "beets dex",
         "beets"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "belt",
-      "category": "defi",
-      "logo_path": "logos/defi/belt.png",
-      "keywords": [
-        "belt"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -6248,28 +5927,6 @@
       "sanctioned": false
     },
     {
-      "slug": "matrixdock-stbt",
-      "category": "defi",
-      "logo_path": "logos/defi/matrixdock-stbt.png",
-      "keywords": [
-        "matrixdock stbt",
-        "matrixdock-stbt"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "matrixdock-xaum",
-      "category": "defi",
-      "logo_path": "logos/defi/matrixdock-xaum.png",
-      "keywords": [
-        "matrixdock xaum",
-        "matrixdock-xaum"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "maya",
       "category": "bridge",
       "logo_path": "logos/bridge/maya.png",
@@ -6386,28 +6043,6 @@
       "keywords": [
         "metis bridge",
         "metis-bridge"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "mezo-borrow",
-      "category": "defi",
-      "logo_path": "logos/defi/mezo-borrow.png",
-      "keywords": [
-        "mezo borrow",
-        "mezo-borrow"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "mezo-bridge",
-      "category": "bridge",
-      "logo_path": "logos/bridge/mezo-bridge.png",
-      "keywords": [
-        "mezo bridge",
-        "mezo-bridge"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -6841,16 +6476,6 @@
       "sanctioned": false
     },
     {
-      "slug": "proxy",
-      "category": "bridge",
-      "logo_path": "logos/bridge/proxy.png",
-      "keywords": [
-        "proxy"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "pulsechain-bridge",
       "category": "bridge",
       "logo_path": "logos/bridge/pulsechain-bridge.png",
@@ -6927,7 +6552,8 @@
       "category": "defi",
       "logo_path": "logos/defi/reservoir.png",
       "keywords": [
-        "reservoir"
+        "reservoir",
+        "reservoir protocol"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -7292,17 +6918,6 @@
       "sanctioned": false
     },
     {
-      "slug": "standx-bridge",
-      "category": "bridge",
-      "logo_path": "logos/bridge/standx-bridge.png",
-      "keywords": [
-        "standx bridge",
-        "standx-bridge"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "starknet-btc-staking",
       "category": "mining",
       "logo_path": "logos/mining/starknet-btc-staking.png",
@@ -7359,17 +6974,6 @@
       "sanctioned": false
     },
     {
-      "slug": "strata-markets",
-      "category": "defi",
-      "logo_path": "logos/defi/strata-markets.png",
-      "keywords": [
-        "strata markets",
-        "strata-markets"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "strato",
       "category": "defi",
       "logo_path": "logos/defi/strato.png",
@@ -7385,7 +6989,8 @@
       "logo_path": "logos/defi/stusdt.png",
       "keywords": [
         "stusdt",
-        "staked-usdt"
+        "staked-usdt",
+        "stusdt.io"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -7426,7 +7031,9 @@
       "category": "defi",
       "logo_path": "logos/defi/superform.png",
       "keywords": [
-        "superform"
+        "superform",
+        "super form",
+        "super-form"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -9477,17 +9084,6 @@
       "logo_path": "logos/defi/francium.png",
       "keywords": [
         "francium"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "gate-swap",
-      "category": "dex",
-      "logo_path": "logos/dex/gate-swap.png",
-      "keywords": [
-        "gate swap",
-        "gate-swap"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -13514,16 +13110,6 @@
       "sanctioned": false
     },
     {
-      "slug": "etherscan-gambling",
-      "category": "gambling",
-      "logo_path": "logos/gambling/etherscan-gambling.png",
-      "keywords": [
-        "etherscan gambling"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "huionepay-kh",
       "category": "sanctioned",
       "logo_path": "logos/sanctioned/huionepay-kh.png",
@@ -13532,17 +13118,6 @@
       ],
       "product_aliases": [],
       "sanctioned": true
-    },
-    {
-      "slug": "chainup-com",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/chainup-com.png",
-      "keywords": [
-        "chainup.com",
-        "chainup"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
     },
     {
       "slug": "bitstarz-com",
@@ -14024,7 +13599,8 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/changenow-io.png",
       "keywords": [
-        "changenow"
+        "changenow",
+        "changenow.io"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -14086,7 +13662,8 @@
       "category": "wallet",
       "logo_path": "logos/wallet/metamask.png",
       "keywords": [
-        "metamask"
+        "metamask",
+        "metamask.io"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -14170,28 +13747,6 @@
       "logo_path": "logos/wallet/tronlink.png",
       "keywords": [
         "tronlink"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "maicoinmax-max-exchange",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/maicoinmax-max-exchange.png",
-      "keywords": [
-        "maicoinmax",
-        "max exchange"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "maicoin-max",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/maicoin-max.png",
-      "keywords": [
-        "maicoin",
-        "max exchange"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -14412,16 +13967,6 @@
       "sanctioned": false
     },
     {
-      "slug": "independent-reserve",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/independent-reserve.png",
-      "keywords": [
-        "independent reserve"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "sportsbet-io",
       "category": "gambling",
       "logo_path": "logos/gambling/sportsbet-io.png",
@@ -14448,16 +13993,6 @@
       "logo_path": "logos/exchanges/mexc.png",
       "keywords": [
         "mexc"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "bigone",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/bigone.png",
-      "keywords": [
-        "bigone"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -15506,7 +15041,8 @@
         "independentreserve.com",
         "independentreserve com",
         "independentreserve-com",
-        "independentreserve"
+        "independentreserve",
+        "independent reserve"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -15536,34 +15072,12 @@
       "sanctioned": false
     },
     {
-      "slug": "metamask-io",
-      "category": "wallet",
-      "logo_path": "logos/wallet/metamask-io.png",
-      "keywords": [
-        "metamask",
-        "metamask.io"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "n-exchange",
       "category": "exchange",
       "logo_path": "logos/exchanges/n-exchange.png",
       "keywords": [
         "n.exchange",
         "nexchange"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "pendle-finance",
-      "category": "dex",
-      "logo_path": "logos/dex/pendle-finance.png",
-      "keywords": [
-        "pendle.finance",
-        "pendle"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -15772,7 +15286,8 @@
       "logo_path": "logos/exchanges/biconomy-com.png",
       "keywords": [
         "biconomy",
-        "biconomy.com"
+        "biconomy.com",
+        "biconomy.io"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -16171,7 +15686,8 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/woox.png",
       "keywords": [
-        "woox"
+        "woox",
+        "woo x"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -16205,7 +15721,8 @@
       "keywords": [
         "big",
         "big one",
-        "big.one"
+        "big.one",
+        "bigone"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -16659,16 +16176,6 @@
       "sanctioned": false
     },
     {
-      "slug": "swissborg-com",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/swissborg-com.png",
-      "keywords": [
-        "swissborg"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "upay",
       "category": "psp",
       "logo_path": "logos/psp/upay.png",
@@ -16750,7 +16257,10 @@
       "logo_path": "logos/exchanges/aifory-pro.png",
       "keywords": [
         "aifory",
-        "aifory pro"
+        "aifory pro",
+        "sooty",
+        "sooty limited",
+        "sooty ltd"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -16855,16 +16365,6 @@
       "sanctioned": false
     },
     {
-      "slug": "deribit-com",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/deribit-com.png",
-      "keywords": [
-        "deribit"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "dtcpay-com",
       "category": "psp",
       "logo_path": "logos/psp/dtcpay-com.png",
@@ -16873,16 +16373,6 @@
         "dtcpay com",
         "dtcpay-com",
         "dtcpay"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "elliptic",
-      "category": "mixer",
-      "logo_path": "logos/mixer/elliptic.png",
-      "keywords": [
-        "elliptic"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -16918,16 +16408,6 @@
       "keywords": [
         "flow traders",
         "flow-traders"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "guarantee",
-      "category": "dex",
-      "logo_path": "logos/dex/guarantee.png",
-      "keywords": [
-        "guarantee"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -17006,17 +16486,6 @@
         "suncrypto",
         "suncrypto in",
         "suncrypto.in"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "venus-io",
-      "category": "dex",
-      "logo_path": "logos/dex/venus-io.png",
-      "keywords": [
-        "venus.io",
-        "venus"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -17123,16 +16592,6 @@
       "logo_path": "logos/bot/24crypto-bot.png",
       "keywords": [
         "24crypto"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "500casino",
-      "category": "gambling",
-      "logo_path": "logos/gambling/500casino.png",
-      "keywords": [
-        "500casino"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -17552,16 +17011,6 @@
       "sanctioned": false
     },
     {
-      "slug": "sunswap-com",
-      "category": "dex",
-      "logo_path": "logos/dex/sunswap-com.png",
-      "keywords": [
-        "sunswap"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "usdd",
       "category": "dex",
       "logo_path": "logos/dex/usdd.png",
@@ -17620,7 +17069,8 @@
       "category": "gambling",
       "logo_path": "logos/gambling/500-casino.png",
       "keywords": [
-        "500 casino"
+        "500 casino",
+        "500casino"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -18010,17 +17460,6 @@
       "sanctioned": false
     },
     {
-      "slug": "lido",
-      "category": "defi",
-      "logo_path": "logos/defi/lido.png",
-      "keywords": [
-        "lido",
-        "lido-dao"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "lido-fi",
       "category": "defi",
       "logo_path": "logos/defi/lido-fi.png",
@@ -18036,16 +17475,7 @@
       "category": "gambling",
       "logo_path": "logos/gambling/lucky-block.png",
       "keywords": [
-        "lucky block"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "luckyblock",
-      "category": "gambling",
-      "logo_path": "logos/gambling/luckyblock.png",
-      "keywords": [
+        "lucky block",
         "luckyblock"
       ],
       "product_aliases": [],
@@ -18425,17 +17855,6 @@
       "sanctioned": false
     },
     {
-      "slug": "reservoir-protocol",
-      "category": "defi",
-      "logo_path": "logos/defi/reservoir-protocol.png",
-      "keywords": [
-        "reservoir-protocol",
-        "reservoir protocol"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "60cek-org-60cek-net",
       "category": "exchange",
       "logo_path": "logos/exchanges/60cek-org-60cek-net.png",
@@ -18556,18 +17975,6 @@
       "sanctioned": false
     },
     {
-      "slug": "arvix-pro-abcex-io",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/arvix-pro-abcex-io.png",
-      "keywords": [
-        "arvix.pro",
-        "arvix-pro-abcex-io",
-        "arvix.pro - abcex.io"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "arzpaya-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/arzpaya-com.png",
@@ -18649,17 +18056,6 @@
       "keywords": [
         "betpanda",
         "betpanda.io"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "biconomy-io",
-      "category": "bridge",
-      "logo_path": "logos/bridge/biconomy-io.png",
-      "keywords": [
-        "biconomy.io",
-        "biconomy"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -19115,17 +18511,6 @@
       "sanctioned": false
     },
     {
-      "slug": "dolomite-io",
-      "category": "dex",
-      "logo_path": "logos/dex/dolomite-io.png",
-      "keywords": [
-        "dolomite.io",
-        "dolomite"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "dydx-exchange",
       "category": "dex",
       "logo_path": "logos/dex/dydx-exchange.png",
@@ -19259,18 +18644,6 @@
       "logo_path": "logos/exchanges/fmcpay.png",
       "keywords": [
         "fmcpay"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "four-meme",
-      "category": "dex",
-      "logo_path": "logos/dex/four-meme.png",
-      "keywords": [
-        "four.meme",
-        "four-meme",
-        "four meme"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -19839,28 +19212,6 @@
       "sanctioned": false
     },
     {
-      "slug": "stusdt-io",
-      "category": "dex",
-      "logo_path": "logos/dex/stusdt-io.png",
-      "keywords": [
-        "stusdt.io",
-        "stusdt"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "super-form",
-      "category": "dex",
-      "logo_path": "logos/dex/super-form.png",
-      "keywords": [
-        "super form",
-        "super-form"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "swapped-com",
       "category": "psp",
       "logo_path": "logos/psp/swapped-com.png",
@@ -19993,17 +19344,6 @@
         "whales.market",
         "whales-market",
         "whales market"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "yearn-finance",
-      "category": "dex",
-      "logo_path": "logos/dex/yearn-finance.png",
-      "keywords": [
-        "yearn.finance",
-        "yearn"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -20193,7 +19533,9 @@
       "category": "defi",
       "logo_path": "logos/defi/fourmeme.png",
       "keywords": [
-        "fourmeme"
+        "fourmeme",
+        "four.meme",
+        "four-meme"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -20235,16 +19577,6 @@
       "logo_path": "logos/gambling/shuffle-com.png",
       "keywords": [
         "shuffle"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "bunny",
-      "category": "defi",
-      "logo_path": "logos/defi/bunny.png",
-      "keywords": [
-        "bunny"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -20364,16 +19696,6 @@
       "sanctioned": false
     },
     {
-      "slug": "bingx",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/bingx.png",
-      "keywords": [
-        "bingx"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "airpuff",
       "category": "defi",
       "logo_path": "logos/defi/airpuff.png",
@@ -20434,18 +19756,6 @@
       ],
       "product_aliases": [],
       "sanctioned": false
-    },
-    {
-      "slug": "wallex-ir-iran-operator-2026-05-09",
-      "category": "sanctioned",
-      "logo_path": "logos/sanctioned/wallex-ir-iran-operator-2026-05-09.png",
-      "keywords": [
-        "wallex.ir (iran — operator 2026-05-09)",
-        "wallex ir iran operator 2026 05 09",
-        "wallex-ir-iran-operator-2026-05-09"
-      ],
-      "product_aliases": [],
-      "sanctioned": true
     },
     {
       "slug": "gysr-vsp-eth",
@@ -20580,7 +19890,9 @@
       "keywords": [
         "coindirect",
         "coindirect.com",
-        "bvnk.com - coindirect.com"
+        "bvnk.com - coindirect.com",
+        "bvnk",
+        "bvnk.com"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -20652,16 +19964,6 @@
       "sanctioned": false
     },
     {
-      "slug": "lifi",
-      "category": "defi",
-      "logo_path": "logos/defi/lifi.png",
-      "keywords": [
-        "lifi"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "poly-network-rekt",
       "category": "defi",
       "logo_path": "logos/defi/poly-network-rekt.png",
@@ -20679,16 +19981,6 @@
       "logo_path": "logos/defi/rice.png",
       "keywords": [
         "rice"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "tronscan-dice",
-      "category": "gambling",
-      "logo_path": "logos/gambling/tronscan-dice.png",
-      "keywords": [
-        "tronscan dice"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -20799,16 +20091,6 @@
       "logo_path": "logos/defi/agave.png",
       "keywords": [
         "agave"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "bitget",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/bitget.png",
-      "keywords": [
-        "bitget"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -21044,16 +20326,6 @@
       "keywords": [
         "hitbtc.com",
         "hitbtc"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "inversefinance",
-      "category": "defi",
-      "logo_path": "logos/defi/inversefinance.png",
-      "keywords": [
-        "inversefinance"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -21320,28 +20592,6 @@
       "sanctioned": false
     },
     {
-      "slug": "jucoin",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/jucoin.png",
-      "keywords": [
-        "jucoin"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "ramzinex-com-iran-operator-2026-05-09",
-      "category": "sanctioned",
-      "logo_path": "logos/sanctioned/ramzinex-com-iran-operator-2026-05-09.png",
-      "keywords": [
-        "ramzinex.com (iran — operator 2026-05-09)",
-        "ramzinex com iran operator 2026 05 09",
-        "ramzinex-com-iran-operator-2026-05-09"
-      ],
-      "product_aliases": [],
-      "sanctioned": true
-    },
-    {
       "slug": "betafinance",
       "category": "defi",
       "logo_path": "logos/defi/betafinance.png",
@@ -21363,57 +20613,12 @@
       "sanctioned": false
     },
     {
-      "slug": "woo-x",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/woo-x.png",
-      "keywords": [
-        "woo x"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "etherscan-mixing-service",
-      "category": "mixer",
-      "logo_path": "logos/mixer/etherscan-mixing-service.png",
-      "keywords": [
-        "etherscan mixing service",
-        "etherscan-mixing-service",
-        "etherscan mixing_service"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "ledger-connect-kit-hack",
       "category": "defi",
       "logo_path": "logos/defi/ledger-connect-kit-hack.png",
       "keywords": [
         "ledger connect kit hack",
         "ledger-connect-kit-hack"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "bitpin-ir-iran-operator-2026-05-09",
-      "category": "sanctioned",
-      "logo_path": "logos/sanctioned/bitpin-ir-iran-operator-2026-05-09.png",
-      "keywords": [
-        "bitpin.ir (iran — operator 2026-05-09)",
-        "bitpin ir iran operator 2026 05 09",
-        "bitpin-ir-iran-operator-2026-05-09"
-      ],
-      "product_aliases": [],
-      "sanctioned": true
-    },
-    {
-      "slug": "avalon-finance",
-      "category": "defi",
-      "logo_path": "logos/defi/avalon-finance.png",
-      "keywords": [
-        "avalon-finance",
-        "avalon finance"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -21525,16 +20730,6 @@
       "logo_path": "logos/defi/bob.png",
       "keywords": [
         "bob"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "btcturk",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/btcturk.png",
-      "keywords": [
-        "btcturk"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -21751,16 +20946,6 @@
       "logo_path": "logos/defi/unilend.png",
       "keywords": [
         "unilend"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "wazirx",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/wazirx.png",
-      "keywords": [
-        "wazirx"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -22046,16 +21231,6 @@
       "sanctioned": false
     },
     {
-      "slug": "exmo-me",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/exmo-me.png",
-      "keywords": [
-        "exmo"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "farhad-exchange-com-efex-pro",
       "category": "exchange",
       "logo_path": "logos/exchanges/farhad-exchange-com-efex-pro.png",
@@ -22063,16 +21238,6 @@
         "farhad exchange",
         "efex",
         "farhad-exchange.com"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "coindcx",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/coindcx.png",
-      "keywords": [
-        "coindcx"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -22825,55 +21990,11 @@
       "sanctioned": false
     },
     {
-      "slug": "plume-usd",
-      "category": "stablecoin_issuer",
-      "logo_path": "logos/stablecoin_issuer/plume-usd.png",
-      "keywords": [
-        "plume usd",
-        "plume-usd"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "solayer-usd",
-      "category": "stablecoin_issuer",
-      "logo_path": "logos/stablecoin_issuer/solayer-usd.png",
-      "keywords": [
-        "solayer usd",
-        "solayer-usd"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "usdh",
       "category": "stablecoin_issuer",
       "logo_path": "logos/stablecoin_issuer/usdh.png",
       "keywords": [
         "usdh"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "pleasing-usd",
-      "category": "stablecoin_issuer",
-      "logo_path": "logos/stablecoin_issuer/pleasing-usd.png",
-      "keywords": [
-        "pleasing usd",
-        "pleasing-usd"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "alto-dusd",
-      "category": "stablecoin_issuer",
-      "logo_path": "logos/stablecoin_issuer/alto-dusd.png",
-      "keywords": [
-        "alto dusd",
-        "alto-dusd"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -22957,17 +22078,6 @@
       "sanctioned": false
     },
     {
-      "slug": "standx-dusd",
-      "category": "stablecoin_issuer",
-      "logo_path": "logos/stablecoin_issuer/standx-dusd.png",
-      "keywords": [
-        "standx dusd",
-        "standx-dusd"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "us-permissionless-dollar",
       "category": "stablecoin_issuer",
       "logo_path": "logos/stablecoin_issuer/us-permissionless-dollar.png",
@@ -22985,17 +22095,6 @@
       "keywords": [
         "infinifi usd",
         "infinifi-usd"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "main-street-usd",
-      "category": "stablecoin_issuer",
-      "logo_path": "logos/stablecoin_issuer/main-street-usd.png",
-      "keywords": [
-        "main street usd",
-        "main-street-usd"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -23051,17 +22150,6 @@
       "keywords": [
         "electronic usd",
         "electronic-usd"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "mezo-usd",
-      "category": "stablecoin_issuer",
-      "logo_path": "logos/stablecoin_issuer/mezo-usd.png",
-      "keywords": [
-        "mezo usd",
-        "mezo-usd"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -23165,17 +22253,6 @@
       "sanctioned": false
     },
     {
-      "slug": "asymmetry-usdaf",
-      "category": "stablecoin_issuer",
-      "logo_path": "logos/stablecoin_issuer/asymmetry-usdaf.png",
-      "keywords": [
-        "asymmetry usdaf",
-        "asymmetry-usdaf"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "avant-usd",
       "category": "stablecoin_issuer",
       "logo_path": "logos/stablecoin_issuer/avant-usd.png",
@@ -23226,18 +22303,6 @@
       "logo_path": "logos/stablecoin_issuer/bean.png",
       "keywords": [
         "bean"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "saturn-dollar",
-      "category": "stablecoin_issuer",
-      "logo_path": "logos/stablecoin_issuer/saturn-dollar.png",
-      "keywords": [
-        "saturn dollar",
-        "saturn-dollar",
-        "usdat"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -23297,17 +22362,6 @@
         "felix feusd",
         "felix-feusd",
         "feusd"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "metronome-synth-usd",
-      "category": "stablecoin_issuer",
-      "logo_path": "logos/stablecoin_issuer/metronome-synth-usd.png",
-      "keywords": [
-        "metronome synth usd",
-        "metronome-synth-usd"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -23473,18 +22527,6 @@
       "sanctioned": false
     },
     {
-      "slug": "balanced-dollars",
-      "category": "stablecoin_issuer",
-      "logo_path": "logos/stablecoin_issuer/balanced-dollars.png",
-      "keywords": [
-        "balanced dollars",
-        "balanced-dollars",
-        "bnusd"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "usdst",
       "category": "stablecoin_issuer",
       "logo_path": "logos/stablecoin_issuer/usdst.png",
@@ -23514,17 +22556,6 @@
         "rings scusd",
         "rings-scusd",
         "scusd"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "dtrinity-usd",
-      "category": "stablecoin_issuer",
-      "logo_path": "logos/stablecoin_issuer/dtrinity-usd.png",
-      "keywords": [
-        "dtrinity usd",
-        "dtrinity-usd"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -23768,18 +22799,6 @@
       "sanctioned": false
     },
     {
-      "slug": "usual-usd",
-      "category": "stablecoin_issuer",
-      "logo_path": "logos/stablecoin_issuer/usual-usd.png",
-      "keywords": [
-        "usd0",
-        "usual usd",
-        "usual-usd"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "ylds",
       "category": "stablecoin_issuer",
       "logo_path": "logos/stablecoin_issuer/ylds.png",
@@ -23800,17 +22819,6 @@
       "sanctioned": false
     },
     {
-      "slug": "re-protocol-reusd",
-      "category": "stablecoin_issuer",
-      "logo_path": "logos/stablecoin_issuer/re-protocol-reusd.png",
-      "keywords": [
-        "re protocol reusd",
-        "re-protocol-reusd"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "satoshi-stablecoin",
       "category": "stablecoin_issuer",
       "logo_path": "logos/stablecoin_issuer/satoshi-stablecoin.png",
@@ -23818,18 +22826,6 @@
         "river stablecoin",
         "satoshi-stablecoin",
         "satusd"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "cygnus-finance-global-usd",
-      "category": "stablecoin_issuer",
-      "logo_path": "logos/stablecoin_issuer/cygnus-finance-global-usd.png",
-      "keywords": [
-        "cgusd",
-        "cygnus finance global usd",
-        "cygnus-finance-global-usd"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -24048,18 +23044,6 @@
       "sanctioned": false
     },
     {
-      "slug": "kerne-usd",
-      "category": "stablecoin_issuer",
-      "logo_path": "logos/stablecoin_issuer/kerne-usd.png",
-      "keywords": [
-        "kerne usd",
-        "kerne-usd",
-        "kusd"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "alternity-cny",
       "category": "stablecoin_issuer",
       "logo_path": "logos/stablecoin_issuer/alternity-cny.png",
@@ -24159,18 +23143,6 @@
         "veur",
         "vnx euro",
         "vnx-euro"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "stablr-euro",
-      "category": "stablecoin_issuer",
-      "logo_path": "logos/stablecoin_issuer/stablr-euro.png",
-      "keywords": [
-        "eurr",
-        "stablr euro",
-        "stablr-euro"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -24299,17 +23271,6 @@
         "celo-euro",
         "eurm",
         "mento euro"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "agora-dollar",
-      "category": "stablecoin_issuer",
-      "logo_path": "logos/stablecoin_issuer/agora-dollar.png",
-      "keywords": [
-        "agora dollar",
-        "agora-dollar"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -24497,18 +23458,6 @@
       "sanctioned": false
     },
     {
-      "slug": "ondo-us-dollar-yield",
-      "category": "stablecoin_issuer",
-      "logo_path": "logos/stablecoin_issuer/ondo-us-dollar-yield.png",
-      "keywords": [
-        "ondo us dollar yield",
-        "ondo-us-dollar-yield",
-        "usdy"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "ripple-usd",
       "category": "stablecoin_issuer",
       "logo_path": "logos/stablecoin_issuer/ripple-usd.png",
@@ -24540,17 +23489,6 @@
         "vgbp",
         "vnx british pound",
         "vnx-british-pound"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "stablr-usd",
-      "category": "stablecoin_issuer",
-      "logo_path": "logos/stablecoin_issuer/stablr-usd.png",
-      "keywords": [
-        "stablr usd",
-        "stablr-usd"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -24710,17 +23648,6 @@
       "sanctioned": false
     },
     {
-      "slug": "krrx-bot",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/krrx-bot.png",
-      "keywords": [
-        "krrx bot",
-        "krrx-bot"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "kryptono",
       "category": "exchange",
       "logo_path": "logos/exchanges/kryptono.png",
@@ -24770,17 +23697,6 @@
       "logo_path": "logos/exchanges/hwzf.png",
       "keywords": [
         "hwzf"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "bvnk-com",
-      "category": "psp",
-      "logo_path": "logos/psp/bvnk-com.png",
-      "keywords": [
-        "bvnk",
-        "bvnk.com"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -24891,20 +23807,6 @@
       "sanctioned": false
     },
     {
-      "slug": "allunity",
-      "category": "psp",
-      "logo_path": "logos/psp/allunity.png",
-      "keywords": [
-        "allunity",
-        "allunity.com",
-        "eurau",
-        "chfau",
-        "sekau"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "alpha-partner",
       "category": "psp",
       "logo_path": "logos/psp/alpha-partner.png",
@@ -24954,20 +23856,6 @@
       ],
       "product_aliases": [
         "JTRSY"
-      ],
-      "sanctioned": false
-    },
-    {
-      "slug": "anemoy-apollo",
-      "category": "psp",
-      "logo_path": "logos/psp/anemoy-apollo.png",
-      "keywords": [
-        "anemoy apollo",
-        "anemoy tokenized apollo diversified credit fund"
-      ],
-      "product_aliases": [
-        "ACRDX",
-        "deCRDX"
       ],
       "sanctioned": false
     },
@@ -25314,20 +24202,6 @@
         "forte aud",
         "forte-aud",
         "audf"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "gate",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/gate.png",
-      "keywords": [
-        "gate",
-        "gate.io",
-        "gate.com",
-        "gateio",
-        "gusd"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -26039,18 +24913,6 @@
       "keywords": [
         "whitebird",
         "white bird"
-      ],
-      "product_aliases": [],
-      "sanctioned": true
-    },
-    {
-      "slug": "noonecrypto-inc",
-      "category": "sanctioned",
-      "logo_path": "logos/sanctioned/noonecrypto-inc.png",
-      "keywords": [
-        "noonecrypto",
-        "noones",
-        "no ones"
       ],
       "product_aliases": [],
       "sanctioned": true
