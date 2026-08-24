@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-24T20:16:13+00:00",
+  "generated_at": "2026-08-24T20:42:43+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -2800,17 +2800,6 @@
       "sanctioned": false
     },
     {
-      "slug": "curve",
-      "category": "dex",
-      "logo_path": "logos/dex/curve.png",
-      "keywords": [
-        "curve dex",
-        "curve"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "hyperliquid-bridge",
       "category": "bridge",
       "logo_path": "logos/bridge/hyperliquid-bridge.png",
@@ -2924,7 +2913,8 @@
       "keywords": [
         "old vector",
         "old vector llc",
-        "old vektor"
+        "old vektor",
+        "a7a5"
       ],
       "product_aliases": [],
       "sanctioned": true
@@ -3723,17 +3713,6 @@
       "keywords": [
         "kinetiq khype",
         "kinetiq-khype"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "kraken-bitcoin",
-      "category": "bridge",
-      "logo_path": "logos/bridge/kraken-bitcoin.png",
-      "keywords": [
-        "kraken bitcoin",
-        "kraken-bitcoin"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -6785,7 +6764,8 @@
       "category": "defi",
       "logo_path": "logos/defi/silo.png",
       "keywords": [
-        "silo"
+        "silo",
+        "silo finance"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -9084,6 +9064,17 @@
       "logo_path": "logos/defi/francium.png",
       "keywords": [
         "francium"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gate-swap",
+      "category": "dex",
+      "logo_path": "logos/dex/gate-swap.png",
+      "keywords": [
+        "gate swap",
+        "gate-swap"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -12850,7 +12841,6 @@
       "category": "defi",
       "logo_path": "logos/defi/curve-vyper-rekt.png",
       "keywords": [
-        "curve",
         "vyper - rekt",
         "curve vyper rekt",
         "curve-vyper-rekt"
@@ -13114,10 +13104,22 @@
       "category": "sanctioned",
       "logo_path": "logos/sanctioned/huionepay-kh.png",
       "keywords": [
-        "huionepay"
+        "huionepay",
+        "huione group"
       ],
       "product_aliases": [],
       "sanctioned": true
+    },
+    {
+      "slug": "chainup-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/chainup-com.png",
+      "keywords": [
+        "chainup.com",
+        "chainup"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
     },
     {
       "slug": "bitstarz-com",
@@ -13125,16 +13127,6 @@
       "logo_path": "logos/gambling/bitstarz-com.png",
       "keywords": [
         "bitstarz"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "1inch-network",
-      "category": "dex",
-      "logo_path": "logos/dex/1inch-network.png",
-      "keywords": [
-        "1inch"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -13747,6 +13739,17 @@
       "logo_path": "logos/wallet/tronlink.png",
       "keywords": [
         "tronlink"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "maicoinmax-max-exchange",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/maicoinmax-max-exchange.png",
+      "keywords": [
+        "maicoinmax",
+        "max exchange"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -15444,17 +15447,6 @@
       "sanctioned": false
     },
     {
-      "slug": "paribu-exchange",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/paribu-exchange.png",
-      "keywords": [
-        "paribu",
-        "paribu exchange"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "shakepay-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/shakepay-com.png",
@@ -16887,16 +16879,6 @@
       "logo_path": "logos/exchanges/lmax-digital.png",
       "keywords": [
         "lmax digital"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "maker-dao",
-      "category": "dex",
-      "logo_path": "logos/dex/maker-dao.png",
-      "keywords": [
-        "maker"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -24662,29 +24644,6 @@
         "solayer",
         "solayer.org",
         "app.solayer.org"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "silo-finance",
-      "category": "stablecoin_issuer",
-      "logo_path": "logos/stablecoin_issuer/silo-finance.png",
-      "keywords": [
-        "silo finance",
-        "silo.finance"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "sky-stablecoin",
-      "category": "stablecoin_issuer",
-      "logo_path": "logos/stablecoin_issuer/sky-stablecoin.png",
-      "keywords": [
-        "sky.money",
-        "susds",
-        "sky savings rate"
       ],
       "product_aliases": [],
       "sanctioned": false
