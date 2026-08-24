@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-24T10:33:37+00:00",
+  "generated_at": "2026-08-24T11:32:49+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28298,6 +28298,17 @@
         "exnode",
         "exnode pay",
         "payment processor"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "basedollar",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/basedollar.png",
+      "keywords": [
+        "basedollar",
+        "base dollar"
       ],
       "product_aliases": [],
       "sanctioned": false
