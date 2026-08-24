@@ -2801,3 +2801,4 @@ Antarctic Wallet,wallet,100,0,75,15,TRON|BSC,manual-admin,antarctic-wallet,antar
 CryptoInvest,exchange,100,0,80,15,BSC,manual-admin,cryptoinvest,cryptoinvest.am,"cryptoinvest,cryptoinvest.am,armenia casp",,manual,2026-08-21,true,86c67d0a58390a8f69ccd12b4656d62718e38b73f2c2ad69b792ff9b0abe4422
 TETChange,exchange,100,0,60,35,BTC|TRON,manual-admin,tetchange,tetchange.com,"tetchange,tetchange.com,armenia exchange",,manual,2026-08-21,true,19d5ede8608145aa4779342811dc6d6e4a6deb7dbb9ccffa28745b4af7442478
 GasFree,bridge,100,0,80,15,TRON,manual-admin,gasfree-io,gasfree.io,"gasfree,gasfree.io,gasfree endpoint",,manual,2026-08-22,true,612d267cef91d3221c3583a2edb8cee596981a5974f184a1054e4f45bbd77ff6
+Exnode,psp,90,17,90,5,TRON,manual-admin,exnode,exnode.io,"exnode,exnode pay,payment processor",,manual,2026-08-24,true,8d1cbecf633f01af90046b5c291fb90c8245810f6430bdbbea0163230a653759
