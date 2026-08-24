@@ -2685,3 +2685,21 @@ TETChange,exchange,100,0,60,35,BTC|TRON,manual-admin,tetchange,tetchange.com,"te
 GasFree,bridge,100,0,80,15,TRON,manual-admin,gasfree-io,gasfree.io,"gasfree,gasfree.io,gasfree endpoint",,manual,2026-08-22,true,612d267cef91d3221c3583a2edb8cee596981a5974f184a1054e4f45bbd77ff6
 Exnode,psp,90,17,90,5,TRON,manual-admin,exnode,exnode.io,"exnode,exnode pay,payment processor",,manual,2026-08-24,true,8d1cbecf633f01af90046b5c291fb90c8245810f6430bdbbea0163230a653759
 Base Dollar,stablecoin_issuer,65,0,75,10,BASE,manual-admin,basedollar,basedollar.org,"basedollar,base dollar",,manual,2026-08-24,true,98b7457ffca27671e0e1ad4f43a45dc90fe7d6d161c9d9a33905f61f817e8aa8
+eToro,exchange,100,0,75,5,ETH,manual-admin,etoro-com,etoro.com,"eToro,etoro.com",,arkham,2026-08-24,false,f686e05c134ec0e309ad0314ffc29923fc2e231d75b8f6870bfbb698f0da521f
+Prime Trust (defunct),exchange,100,0,75,5,ETH,manual-admin,prime-trust-llc,primetrustwinddown.com,"prime trust,primetrust,primetrustwinddown.com",,placeholder,2026-08-24,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+BTC Markets,exchange,100,0,75,5,ETH,manual-admin,btc-markets-net,btcmarkets.net,"btc markets,btcmarkets,btcmarkets.net",,arkham,2026-08-24,false,dc5f94146dbd2932b5c4e1d9b270dfad48376554bd5b7a073c4c7d4cd1f0c46a
+NBX (Norwegian Block Exchange),exchange,100,0,75,5,ETH,manual-admin,nbx-com,nbx.com,"nbx,norwegian block exchange,nbx.com",,placeholder,2026-08-24,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Netcoins,exchange,100,0,75,5,ETH,manual-admin,netcoins-com,netcoins.com,"netcoins,netcoins.com",,arkham,2026-08-24,false,a00cd2331d32e0e3448bd2809a07b610359b242daacedfb8de510b0d410e141f
+QuadrigaCX (defunct),exchange,100,0,75,5,ETH,manual-admin,quadrigacx-com,quadrigacx.com,"quadrigacx,quadriga,quadrigacx.com",,arkham,2026-08-24,false,f59875cd2ad9a160b145dae1e7080613abcf5a14d17df34b8ef5c275639f874e
+Mode Network,bridge,100,0,75,5,ETH,manual-admin,mode-network,mode.network,"mode network,mode,mode.network",,arkham,2026-08-24,false,d60c1a1692a3efdd06b4fbc4df22470f0b0e37c2835d77d53da60434728e14c2
+Snowbridge,bridge,100,0,75,5,ETH,manual-admin,snowbridge-network,snowbridge.network,"snowbridge,snowbridge.network",,defillama,2026-08-24,false,b1347d8f1b6bf192365f34856b119880a800fa6cb8595b1562a5392bb20ecfd3
+zkLink Nova,bridge,100,0,75,5,ETH,manual-admin,zklink-nova,zklink.io,"zklink,zklink nova,zklink.io",,arkham,2026-08-24,false,9e1e3a4047aa8932ab51ee1a2e53bb780a6c08f54b74617018e0e6d009d1f755
+Renzo Protocol,defi,100,0,75,5,ETH,manual-admin,renzo-protocol,renzoprotocol.com,"renzo protocol,renzo,ezeth,pzeth,renzoprotocol.com",,arkham,2026-08-24,false,d0d3b81eaf16d701b7ed42ad454bb0968dcb42305fd592aa4c5bcd17f62fd72f
+Premia Finance,defi,100,0,75,5,ETH,manual-admin,premia-finance,premia.blue,"premia,premia finance,premia.blue",,arkham,2026-08-24,false,8b3e593c178934f75747032de350445080641d6bb3ceffc084907ec6d0a822fd
+Golem Network,defi,100,0,75,5,ETH,manual-admin,golem-network,golem.network,"golem,golem network,glm,golem.network",,arkham,2026-08-24,false,45fd82c4b42bc743a47bba35d1596b6190005aacc4b22d763ab4899dcb5efa54
+Privacy Pools (0xbow),defi,100,0,75,5,ETH,manual-admin,privacy-pools-0xbow,0xbow.io,"privacy pools,0xbow,0xbow.io",,placeholder,2026-08-24,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Stader Labs,defi,100,0,75,5,ETH,manual-admin,stader-labs,staderlabs.com,"stader labs,staderlabs,ethx,staderlabs.com",,arkham,2026-08-24,false,01615364d4cba131440efb0bd68245b32b6371c1b9272628b73df96c75c1f04e
+Swell Network,defi,100,0,75,5,ETH,manual-admin,swell-network,swellnetwork.io,"swell network,sweth,rsweth,swellnetwork.io",,arkham,2026-08-24,false,98d9b4a4689c0d29ee8bfd3b5c275d17ed99f3e6a155a4b9a1d38c3ea66a1d91
+stakefish,defi,100,0,75,5,ETH,manual-admin,stakefish,stake.fish,"stakefish,stake.fish",,arkham,2026-08-24,false,731f6f117aab603fcc655923ec949391552ce27b65e456664d4150c0c3c2da92
+Staked.us (Kraken),defi,100,0,75,5,ETH,manual-admin,staked-us,staked.us,"staked.us,staked inc,staked.us",,arkham,2026-08-24,false,92a7dc73ec4e4ede258fa3b9a728d9254f7f83aa0e239ae225ab3dd0109ffa8b
+Sorare,nft_marketplace,100,0,75,5,ETH,manual-admin,sorare-com,sorare.com,"sorare,sorare.com",,arkham,2026-08-24,false,336a060615765e9f1ed06d8b5aa530503abae3cf9d3eb0a04b74fab00f22bf40

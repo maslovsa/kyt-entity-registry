@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-24T20:42:43+00:00",
+  "generated_at": "2026-08-24T20:44:59+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -27130,6 +27130,186 @@
       "keywords": [
         "basedollar",
         "base dollar"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "etoro-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/etoro-com.png",
+      "keywords": [
+        "eToro",
+        "etoro.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "btc-markets-net",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/btc-markets-net.png",
+      "keywords": [
+        "btc markets",
+        "btcmarkets",
+        "btcmarkets.net"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "netcoins-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/netcoins-com.png",
+      "keywords": [
+        "netcoins",
+        "netcoins.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "quadrigacx-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/quadrigacx-com.png",
+      "keywords": [
+        "quadrigacx",
+        "quadriga",
+        "quadrigacx.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mode-network",
+      "category": "bridge",
+      "logo_path": "logos/bridge/mode-network.png",
+      "keywords": [
+        "mode network",
+        "mode",
+        "mode.network"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "snowbridge-network",
+      "category": "bridge",
+      "logo_path": "logos/bridge/snowbridge-network.png",
+      "keywords": [
+        "snowbridge",
+        "snowbridge.network"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "zklink-nova",
+      "category": "bridge",
+      "logo_path": "logos/bridge/zklink-nova.png",
+      "keywords": [
+        "zklink",
+        "zklink nova",
+        "zklink.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "renzo-protocol",
+      "category": "defi",
+      "logo_path": "logos/defi/renzo-protocol.png",
+      "keywords": [
+        "renzo protocol",
+        "renzo",
+        "ezeth",
+        "pzeth",
+        "renzoprotocol.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "premia-finance",
+      "category": "defi",
+      "logo_path": "logos/defi/premia-finance.png",
+      "keywords": [
+        "premia",
+        "premia finance",
+        "premia.blue"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "golem-network",
+      "category": "defi",
+      "logo_path": "logos/defi/golem-network.png",
+      "keywords": [
+        "golem",
+        "golem network",
+        "glm",
+        "golem.network"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "stader-labs",
+      "category": "defi",
+      "logo_path": "logos/defi/stader-labs.png",
+      "keywords": [
+        "stader labs",
+        "staderlabs",
+        "ethx",
+        "staderlabs.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "swell-network",
+      "category": "defi",
+      "logo_path": "logos/defi/swell-network.png",
+      "keywords": [
+        "swell network",
+        "sweth",
+        "rsweth",
+        "swellnetwork.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "stakefish",
+      "category": "defi",
+      "logo_path": "logos/defi/stakefish.png",
+      "keywords": [
+        "stakefish",
+        "stake.fish"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "staked-us",
+      "category": "defi",
+      "logo_path": "logos/defi/staked-us.png",
+      "keywords": [
+        "staked.us",
+        "staked inc",
+        "staked.us"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "sorare-com",
+      "category": "nft_marketplace",
+      "logo_path": "logos/nft_marketplace/sorare-com.png",
+      "keywords": [
+        "sorare",
+        "sorare.com"
       ],
       "product_aliases": [],
       "sanctioned": false
