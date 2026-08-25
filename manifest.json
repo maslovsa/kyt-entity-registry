@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-25T20:24:51+00:00",
+  "generated_at": "2026-08-25T20:39:33+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -18765,10 +18765,7 @@
         "zkspace",
         "zkbase"
       ],
-      "product_aliases": [
-        "ZKSpace",
-        "ZKBase"
-      ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
