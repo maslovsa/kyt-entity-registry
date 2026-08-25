@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-24T21:26:23+00:00",
+  "generated_at": "2026-08-25T09:59:08+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -27515,6 +27515,29 @@
         "btc-alpha",
         "btc alpha",
         "btcalpha"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "plume",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/plume.png",
+      "keywords": [
+        "plume",
+        "plume network",
+        "plume.org"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "macropod",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/macropod.png",
+      "keywords": [
+        "macropod",
+        "macropod.com"
       ],
       "product_aliases": [],
       "sanctioned": false

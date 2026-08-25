@@ -2724,3 +2724,5 @@ weex-cex,defi,40.6,58,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON|TRON
 Farhad-exchange.com - Efex.pro,exchange,40.5,54,75,5,BSC|ETH|TRON,scorechain-counterparties,farhad-exchange-com-efex-pro,,"farhad exchange,efex,farhad-exchange.com",,manual,2026-05-03,true,d16a644c11bc0ace8116ddc6416c644d5020273d53e11a9032697e0cb4fd5507
 Safe Trade,exchange,0,6,85,5,BSC|ETH|TRON,scorechain-counterparties,safe-trade,safe.trade,"safe trade,safe.trade",,arkham,2026-05-26,false,89ba5c8d782acbe3c4f1606f459891311e2d70447fb8316e1ec55093de1aefe2
 BTC-Alpha,exchange,100.0,11,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,manual-admin,btc-alpha,btc-alpha.com,"btc-alpha,btc alpha,btcalpha",,manual,2026-08-01,true,6c79beac7c3561e54b9285e14cdf1ad0ec98b62655027cb379c6eaa0c837522b
+Plume,stablecoin_issuer,100,0,0,10,ETH,pharos-watch,plume,plume.org,"plume,plume network,plume.org",,manual,2026-08-25,true,811de6798af402f15ca70bd8409e8a59f7cf49e45bc2a2dfed34b0bf289b2994
+Macropod,stablecoin_issuer,100,0,0,10,BASE|ETH|SOL,pharos-watch,macropod,macropod.com,"macropod,macropod.com",,manual,2026-08-25,true,94487702d9314b738ae0d564d4cf45414915dedd5b15a02753d8eca9c065393f
