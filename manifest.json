@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-25T09:59:08+00:00",
+  "generated_at": "2026-08-25T20:24:51+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -24262,8 +24262,8 @@
     },
     {
       "slug": "axie-infinity",
-      "category": "gambling",
-      "logo_path": "logos/gambling/axie-infinity.png",
+      "category": "nft_marketplace",
+      "logo_path": "logos/nft_marketplace/axie-infinity.png",
       "keywords": [
         "axie infinity"
       ],
