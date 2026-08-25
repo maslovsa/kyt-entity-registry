@@ -2292,7 +2292,7 @@ argent.xyz,wallet,79.7,2,85,5,ETH,scorechain-counterparties,argent-xyz,argent.xy
 ArzPaya.com,exchange,79.7,2,85,5,TRON,scorechain-counterparties,arzpaya-com,arzpaya.com,"arzpaya,arzpaya.com",,arkham,2026-05-26,false,d863614496f5e64f49640bd78cb33f00fdba3715b5faecf5e5b3a3910fd35f31
 Aster,dex,79.7,2,85,10,BSC|ETH,scorechain-counterparties,aster,,aster,,arkham,2026-05-26,false,cdb636a86c99f3ec5038566232cb0a67dc8e3a02cc08a65ccd7c9cb2cf3cca9a
 Axelar.network,bridge,79.7,2,85,15,ETH,scorechain-counterparties,axelar-network,axelar.network,"axelar.network,axelar",,arkham,2026-05-26,false,99c37f08de86ad043243406619d4e3c58b6fcd334425f763af37b757156ce2e4
-Axie Infinity,gambling,79.7,2,85,50,ETH,scorechain-counterparties,axie-infinity,,axie infinity,,arkham,2026-05-26,false,0a878c7f30a7fc97425a8d513ff36848cd2ee817625226ffe3c910519ed71b52
+Axie Infinity,nft_marketplace,79.7,2,85,5,ETH,scorechain-counterparties,axie-infinity,,axie infinity,,arkham,2026-05-26,false,0a878c7f30a7fc97425a8d513ff36848cd2ee817625226ffe3c910519ed71b52
 Banana Gun,dex,79.7,2,85,10,BSC,scorechain-counterparties,banana-gun,t.me,"banana gun,banana-gun",,arkham,2026-05-26,false,ffeb7e6a44aedec46b33baf372506fcb162db8a46bc39b5de0439ccb972a0bda
 Bella Protocol,defi,79.7,2,85,10,ETH,defillama-protocols|scorechain-counterparties,bella-protocol,,"bella,bella-protocol",,arkham,2026-05-26,false,ee3a3cbbe6980ad515bb06067417a93d49a5d38e0875b71fea49ea6d6e090237
 belt.fi,dex,79.7,2,85,10,BSC,scorechain-counterparties,belt-fi,belt.fi,"belt.fi,belt",,arkham,2026-05-26,false,5ab6850db35d64df27dae1b3a56dc5f1438551403f2c441e8af7298424123b97
