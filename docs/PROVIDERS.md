@@ -9,8 +9,9 @@ own ingest pipeline.
 
 The registry is authoritative for:
 - **slug names** (once assigned, never rename — they pin URLs)
-- **row membership** (rows never get deleted, they just go dormant
-  with `logo_status=none` + `manual_lock=true`)
+- **row membership** (rows go dormant, not deleted — `logo_status=none`
+  + `manual_lock=true`; the one exception is the archived-upstream
+  prune, see "Pruning archived rows" below)
 - **logo files** and their metadata (`logo_status`, `logo_updated_at`,
   `manual_lock`, `logo_hash`)
 
@@ -51,18 +52,44 @@ aegis-platform has `.github/workflows/export-entity-registry.yml`
      `manual_lock`, `logo_hash` from LIVE; update importance /
      claim_count / max_trust / networks / sources from CANDIDATE
    - New rows: append with `logo_status=none`, blank logo columns
-   - Removed rows: NEVER drop. Flip importance to 0, keep slug
-     stable, add `_dormant=true` marker column (migration note
-     below).
+   - Removed rows: do NOT drop as part of a re-export. Flip
+     importance to 0, keep slug stable, add `_dormant=true` marker
+     column (migration note below). Dropping a row is a separate,
+     deliberate operation — see "Pruning archived rows".
 5. Opens a PR against `maslovsa/kyt-entity-registry` titled
    `data: re-export from aegis-platform @ <sha>` with a summary
 6. Human (you) reviews: diff should be bounded, no slug renames,
    importance shifts make sense
 7. Merge → cron picks up new rows + refreshes stale logos
 
+### Pruning archived rows (the one deletion that IS allowed)
+
+A row whose upstream entity is `vasp_entities.is_archived=true` may be
+deleted outright. This is not housekeeping — a dormant row is not inert.
+
+**Why the exception exists.** 2026-08-24: an ABCex address rendered as a
+bare "NC" glyph on the Graph Lab canvas. Cause — the archived registry row
+`Nueva Cryptologia (ABCEX)` (importance 95, synthetic logo) beat the live
+`ABCex` row (importance 85) on keyword match. A dormant row still competes
+for badge/logo resolution, so leaving it in place is not the safe default
+the immutability rule assumes. 111 archived rows were pruned.
+
+**Rules for a prune PR:**
+
+- Key the prune on `arkham_slug`, **never** on a normalised or
+  suffix-stripped slug. The first attempt at this keyed on the normalised
+  slug and removed 3 LIVE rows before it was caught — normalisation is
+  lossy, and two different entities can normalise to the same string.
+- Verify each candidate is archived upstream at the moment of the prune,
+  not from a stale export.
+- Prune only; never combine a prune with edits to surviving rows in the
+  same PR, so the diff stays reviewable.
+- State the count and the criterion in the PR body.
+
 ### Never-do list for providers
 
-- Never PR a deleted row. Rows are immutable.
+- Never PR a deleted row as part of a re-export. Deletion is only ever
+  the deliberate archived-upstream prune above.
 - Never rename a `entity_name` (and thus the slug) — instead:
   - Add a new row with the new name
   - Add the old slug to the new row's `aliases` column

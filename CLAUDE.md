@@ -74,10 +74,18 @@ sitemap.xml + robots.txt + llms.txt + og-preview.png
 
 ### C1. entities.csv rows are additive
 
-- Never delete existing rows. Entities fade (exchange shuts down) —
-  the row stays, `logo_status=none`, `manual_lock=true` prevents
-  future overwrites. A consumer looking at a year-old report still
-  gets a stable lookup.
+- Never delete a row as part of ordinary work. Entities fade (exchange
+  shuts down) — the row stays, `logo_status=none`, `manual_lock=true`
+  prevents future overwrites. A consumer looking at a year-old report
+  still gets a stable lookup.
+- **One exception:** a row whose upstream entity is
+  `vasp_entities.is_archived=true` may be pruned deliberately. A dormant
+  row is not inert — it still competes for badge/logo keyword matching,
+  which is how an archived `Nueva Cryptologia (ABCEX)` row beat the live
+  `ABCex` one and painted a bare "NC" glyph on the canvas (2026-08-24,
+  111 rows pruned). Key the prune on `arkham_slug`, never on a
+  normalised slug — that mistake removed 3 live rows before it was
+  caught. Full rules: `docs/PROVIDERS.md` → "Pruning archived rows".
 - Never rename an entity's `slug` — that breaks every pinned URL
   in consumer code. If a brand rebrands, add a NEW row with
   `aliases` pointing at the old slug.
