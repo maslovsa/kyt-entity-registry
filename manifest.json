@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-26T09:02:57+00:00",
+  "generated_at": "2026-08-26T19:27:52+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -27538,6 +27538,18 @@
       ],
       "product_aliases": [],
       "sanctioned": false
+    },
+    {
+      "slug": "shelbit",
+      "category": "sanctioned",
+      "logo_path": "logos/sanctioned/shelbit.png",
+      "keywords": [
+        "shelbit",
+        "shelbit exchange",
+        "shps shelbit"
+      ],
+      "product_aliases": [],
+      "sanctioned": true
     }
   ]
 }

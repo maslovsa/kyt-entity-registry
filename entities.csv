@@ -2726,3 +2726,4 @@ Safe Trade,exchange,0,6,85,5,BSC|ETH|TRON,scorechain-counterparties,safe-trade,s
 BTC-Alpha,exchange,100.0,11,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,manual-admin,btc-alpha,btc-alpha.com,"btc-alpha,btc alpha,btcalpha",,manual,2026-08-01,true,6c79beac7c3561e54b9285e14cdf1ad0ec98b62655027cb379c6eaa0c837522b
 Plume,stablecoin_issuer,100,0,0,10,ETH,pharos-watch,plume,plume.org,"plume,plume network,plume.org",,manual,2026-08-25,true,811de6798af402f15ca70bd8409e8a59f7cf49e45bc2a2dfed34b0bf289b2994
 Macropod,stablecoin_issuer,100,0,0,10,BASE|ETH|SOL,pharos-watch,macropod,macropod.com,"macropod,macropod.com",,manual,2026-08-25,true,94487702d9314b738ae0d564d4cf45414915dedd5b15a02753d8eca9c065393f
+Shelbit,sanctioned,100,20,95,100,SOL|TRON|ETH|BTC,manual-admin,shelbit,shelbit.com,"shelbit,shelbit exchange,shps shelbit",,manual,2026-08-26,true,38d43332cf6fc927f02b4b5cf4f40513c5ef561a0fa876580436beca05ecec12
