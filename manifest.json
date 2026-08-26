@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-26T19:27:52+00:00",
+  "generated_at": "2026-08-26T19:41:54+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -27550,6 +27550,76 @@
       ],
       "product_aliases": [],
       "sanctioned": true
+    },
+    {
+      "slug": "skylabs-am",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/skylabs-am.png",
+      "keywords": [
+        "skylabs-am"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cryptoexchangearmenia",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/cryptoexchangearmenia.png",
+      "keywords": [
+        "cryptoexchangearmenia"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitcoin-am",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bitcoin-am.png",
+      "keywords": [
+        "bitcoin-am"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitcoincenter-am",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bitcoincenter-am.png",
+      "keywords": [
+        "bitcoincenter-am"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "biki-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/biki-com.png",
+      "keywords": [
+        "biki-com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coinbene",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/coinbene.png",
+      "keywords": [
+        "coinbene"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bgogo",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bgogo.png",
+      "keywords": [
+        "bgogo"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
     }
   ]
 }

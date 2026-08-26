@@ -2727,3 +2727,10 @@ BTC-Alpha,exchange,100.0,11,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGO
 Plume,stablecoin_issuer,100,0,0,10,ETH,pharos-watch,plume,plume.org,"plume,plume network,plume.org",,manual,2026-08-25,true,811de6798af402f15ca70bd8409e8a59f7cf49e45bc2a2dfed34b0bf289b2994
 Macropod,stablecoin_issuer,100,0,0,10,BASE|ETH|SOL,pharos-watch,macropod,macropod.com,"macropod,macropod.com",,manual,2026-08-25,true,94487702d9314b738ae0d564d4cf45414915dedd5b15a02753d8eca9c065393f
 Shelbit,sanctioned,100,20,95,100,SOL|TRON|ETH|BTC,manual-admin,shelbit,shelbit.com,"shelbit,shelbit exchange,shps shelbit",,manual,2026-08-26,true,38d43332cf6fc927f02b4b5cf4f40513c5ef561a0fa876580436beca05ecec12
+skylabs-am,exchange,70,0,70,10,ETH,manual-admin,skylabs-am,skylabs.world,"skylabs-am",,manual,2026-08-26,true,8a5aa6566b09f229f298882ee99fc982e4a2311ef9999c8eed79b53b86689e72
+cryptoexchangearmenia,exchange,70,0,70,10,ETH,manual-admin,cryptoexchangearmenia,cryptoexchangearmenia.am,"cryptoexchangearmenia",,manual,2026-08-26,true,94287674091eae521babe9b6995c23ca9b3d80486e148981d59179c5d34c0458
+bitcoin-am,exchange,70,0,70,10,ETH,manual-admin,bitcoin-am,bitcoin.am,"bitcoin-am",,manual,2026-08-26,true,a3f3c94d3a5946533d9490903b0df473a7c1c3de83f53bdcaac8e282ecc39075
+bitcoincenter-am,exchange,70,0,70,10,ETH,manual-admin,bitcoincenter-am,www.bitcoincenter.am,"bitcoincenter-am",,manual,2026-08-26,true,4ee0c17486fc98fdae26096fafbc77d99955bd710a578c9172163740ecf797c5
+biki-com,exchange,70,0,70,10,ETH,manual-admin,biki-com,biki.com,"biki-com",,manual,2026-08-26,true,00b75b377f923ccf8f52f0ed50f72e05ad1187ebe7fb133001838f6b3abc5f58
+coinbene,exchange,70,0,70,10,ETH,manual-admin,coinbene,,"coinbene",,manual,2026-08-26,true,b784495173bf05ef7aadcfa3cc0cffdc6ed9aa30e1141204c7aeb6db396f37a6
+bgogo,exchange,70,0,70,10,ETH,manual-admin,bgogo,,"bgogo",,manual,2026-08-26,true,eecde64aa1b9a52942e8d712e095a3b432c072cbf995a2874b0bb4c0f2327de7
