@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-26T19:41:54+00:00",
+  "generated_at": "2026-08-26T19:57:13+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -27617,6 +27617,126 @@
       "logo_path": "logos/exchanges/bgogo.png",
       "keywords": [
         "bgogo"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "phoneix-trading",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/phoneix-trading.png",
+      "keywords": [
+        "phoneix-trading"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "jubi",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/jubi.png",
+      "keywords": [
+        "jubi"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bidesk",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bidesk.png",
+      "keywords": [
+        "bidesk"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coss-exchange",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/coss-exchange.png",
+      "keywords": [
+        "coss-exchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "folgory-exchange",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/folgory-exchange.png",
+      "keywords": [
+        "folgory-exchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "buytex",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/buytex.png",
+      "keywords": [
+        "buytex"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitun-io",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bitun-io.png",
+      "keywords": [
+        "bitun-io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "nexbit-pro",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/nexbit-pro.png",
+      "keywords": [
+        "nexbit-pro"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coindhan",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/coindhan.png",
+      "keywords": [
+        "coindhan"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coinexchange-am",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/coinexchange-am.png",
+      "keywords": [
+        "coinexchange-am"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "panda-exchange",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/panda-exchange.png",
+      "keywords": [
+        "panda-exchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "c2cx",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/c2cx.png",
+      "keywords": [
+        "c2cx"
       ],
       "product_aliases": [],
       "sanctioned": false
