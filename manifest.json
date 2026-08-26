@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-26T09:02:57+00:00",
+  "generated_at": "2026-08-26T18:49:01+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -3719,6 +3719,17 @@
       "keywords": [
         "eclipse",
         "svm l2"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "main-street",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/main-street.png",
+      "keywords": [
+        "main street",
+        "main-street"
       ],
       "product_aliases": [],
       "sanctioned": false
