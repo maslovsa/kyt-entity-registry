@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-26T19:57:13+00:00",
+  "generated_at": "2026-08-27T15:38:20+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -27737,6 +27737,17 @@
       "logo_path": "logos/exchanges/c2cx.png",
       "keywords": [
         "c2cx"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tyt-cash",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/tyt-cash.png",
+      "keywords": [
+        "tyt.cash",
+        "tyt cash"
       ],
       "product_aliases": [],
       "sanctioned": false

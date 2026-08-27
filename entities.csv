@@ -2746,3 +2746,4 @@ coindhan,exchange,70,0,70,10,ETH,manual-admin,coindhan,coindhan.com,"coindhan",,
 coinexchange-am,exchange,70,0,70,10,ETH,manual-admin,coinexchange-am,coinexchange.am,"coinexchange-am",,manual,2026-08-26,true,899cba87414fc439d481ec045937308d37b82e9e45200f195179a1e7cff4ffb0
 panda-exchange,exchange,70,0,70,10,ETH,manual-admin,panda-exchange,panda.exchange,"panda-exchange",,manual,2026-08-26,true,c6a4d6c6cce372a1d44ed3e8ccc5a507aa7a158203c9910c17695da9d1f8f8fe
 c2cx,exchange,70,0,70,10,ETH,manual-admin,c2cx,c2cx.com,"c2cx",,manual,2026-08-26,true,861ab17b48dca8eb302ec8122b3c0ef086fffb90a524d457bb36f8e70ff7bb40
+Tyt.cash,exchange,75,4,75,50,TRON,manual-admin,tyt-cash,tyt.cash,"tyt.cash,tyt cash",,manual,2026-08-27,true,17cdf3b83d71f9dc3a99225a348e03d364a9b20f2e341925826129ecda738982
