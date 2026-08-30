@@ -2747,3 +2747,4 @@ coinexchange-am,exchange,70,0,70,10,ETH,manual-admin,coinexchange-am,coinexchang
 panda-exchange,exchange,70,0,70,10,ETH,manual-admin,panda-exchange,panda.exchange,"panda-exchange",,manual,2026-08-26,true,c6a4d6c6cce372a1d44ed3e8ccc5a507aa7a158203c9910c17695da9d1f8f8fe
 c2cx,exchange,70,0,70,10,ETH,manual-admin,c2cx,c2cx.com,"c2cx",,manual,2026-08-26,true,861ab17b48dca8eb302ec8122b3c0ef086fffb90a524d457bb36f8e70ff7bb40
 Tyt.cash,exchange,75,4,75,50,TRON,manual-admin,tyt-cash,tyt.cash,"tyt.cash,tyt cash",,manual,2026-08-27,true,17cdf3b83d71f9dc3a99225a348e03d364a9b20f2e341925826129ecda738982
+Keine-Exchange.com,otc_desk,60.0,2,95,5,ETH,manual-admin,keine-exchange-com,keine-exchange.com,"keine-exchange,keine-exchange.com,keine exchange",,manual,2026-08-30,true,da3494ffb7458330a8df2845c8198302b3f2a1b582a0ebedd61de9b3a5366d83

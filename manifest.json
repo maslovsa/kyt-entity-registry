@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-27T15:38:20+00:00",
+  "generated_at": "2026-08-30T09:55:06+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -27748,6 +27748,18 @@
       "keywords": [
         "tyt.cash",
         "tyt cash"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "keine-exchange-com",
+      "category": "otc_desk",
+      "logo_path": "logos/otc_desk/keine-exchange-com.png",
+      "keywords": [
+        "keine-exchange",
+        "keine-exchange.com",
+        "keine exchange"
       ],
       "product_aliases": [],
       "sanctioned": false
