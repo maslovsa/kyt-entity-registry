@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-30T10:24:51+00:00",
+  "generated_at": "2026-08-30T10:31:15+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -27832,6 +27832,29 @@
         "liqi",
         "liqi.com.br",
         "liqi digital assets"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "garanti-bbva-crypto",
+      "category": "bank",
+      "logo_path": "logos/bank/garanti-bbva-crypto.png",
+      "keywords": [
+        "garanti bbva crypto",
+        "garanti bbva kripto"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coinmart-nl",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/coinmart-nl.png",
+      "keywords": [
+        "coinmart",
+        "coinmart.nl",
+        "coin mart"
       ],
       "product_aliases": [],
       "sanctioned": false
