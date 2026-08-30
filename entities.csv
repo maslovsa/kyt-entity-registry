@@ -2748,3 +2748,7 @@ panda-exchange,exchange,70,0,70,10,ETH,manual-admin,panda-exchange,panda.exchang
 c2cx,exchange,70,0,70,10,ETH,manual-admin,c2cx,c2cx.com,"c2cx",,manual,2026-08-26,true,861ab17b48dca8eb302ec8122b3c0ef086fffb90a524d457bb36f8e70ff7bb40
 Tyt.cash,exchange,75,4,75,50,TRON,manual-admin,tyt-cash,tyt.cash,"tyt.cash,tyt cash",,manual,2026-08-27,true,17cdf3b83d71f9dc3a99225a348e03d364a9b20f2e341925826129ecda738982
 Keine-Exchange.com,otc_desk,60.0,2,95,5,ETH,manual-admin,keine-exchange-com,keine-exchange.com,"keine-exchange,keine-exchange.com,keine exchange",,manual,2026-08-30,true,da3494ffb7458330a8df2845c8198302b3f2a1b582a0ebedd61de9b3a5366d83
+Coinpay.cr,psp,55.0,14850,85,10,BTC|ETH|TRON,chainalysis-reactor-cluster-export,coinpay-cr,coinpay.cr,"coinpay,coinpay.cr,coin pay",,manual,2026-08-30,true,a6880247af66d1414fa96a1342df45e61b876c78891444b067af7c701e5c029a
+DuckDice.io,gambling,60.0,551,85,10,ETH,chainalysis-reactor-cluster-export,duckdice-io,duckdice.io,"duckdice,duckdice.io,duck dice",,manual,2026-08-30,true,f324a91ee24c39f6c61582edb2136b9c39fe44d3a88278834bda4561f0cf9afa
+VirgoCX.ca,exchange,62.0,1382,85,5,BTC|ETH|TRON,chainalysis-reactor-cluster-export,virgocx-ca,virgocx.ca,"virgocx,virgocx.ca,virgo cx",,manual,2026-08-30,true,bd3c4c7f5d58465dd0a0ef571315518578dfc9b3b76b14787467cc0e69fb03a9
+Planetofbets.com,gambling,58.0,965,85,10,ETH,chainalysis-reactor-cluster-export,planetofbets-com,planetofbets.com,"planetofbets,planetofbets.com,planet of bets",,manual,2026-08-30,true,38f8ccc083067fd4f6f0b51c1fabdac59df2f6b2fc4b4240b306ac3b95631a65

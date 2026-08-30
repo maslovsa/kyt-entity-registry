@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-30T09:55:06+00:00",
+  "generated_at": "2026-08-30T10:06:54+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -27760,6 +27760,54 @@
         "keine-exchange",
         "keine-exchange.com",
         "keine exchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coinpay-cr",
+      "category": "psp",
+      "logo_path": "logos/psp/coinpay-cr.png",
+      "keywords": [
+        "coinpay",
+        "coinpay.cr",
+        "coin pay"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "duckdice-io",
+      "category": "gambling",
+      "logo_path": "logos/gambling/duckdice-io.png",
+      "keywords": [
+        "duckdice",
+        "duckdice.io",
+        "duck dice"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "virgocx-ca",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/virgocx-ca.png",
+      "keywords": [
+        "virgocx",
+        "virgocx.ca",
+        "virgo cx"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "planetofbets-com",
+      "category": "gambling",
+      "logo_path": "logos/gambling/planetofbets-com.png",
+      "keywords": [
+        "planetofbets",
+        "planetofbets.com",
+        "planet of bets"
       ],
       "product_aliases": [],
       "sanctioned": false
