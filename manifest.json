@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-30T10:31:15+00:00",
+  "generated_at": "2026-08-30T11:00:47+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -27855,6 +27855,303 @@
         "coinmart",
         "coinmart.nl",
         "coin mart"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "4coins-pl",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/4coins-pl.png",
+      "keywords": [
+        "4coins pl",
+        "4coins.pl"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "aqdigital-exchange",
+      "category": "psp",
+      "logo_path": "logos/psp/aqdigital-exchange.png",
+      "keywords": [
+        "aqdigital exchange",
+        "aqdigital.exchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "birake-com",
+      "category": "dex",
+      "logo_path": "logos/dex/birake-com.png",
+      "keywords": [
+        "birake com",
+        "birake.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitlocus-com",
+      "category": "psp",
+      "logo_path": "logos/psp/bitlocus-com.png",
+      "keywords": [
+        "bitlocus com",
+        "bitlocus.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bsdex-de",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bsdex-de.png",
+      "keywords": [
+        "bsdex de",
+        "bsdex.de"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "chainex-io",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/chainex-io.png",
+      "keywords": [
+        "chainex io",
+        "chainex.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coinestate-co-jp",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/coinestate-co-jp.png",
+      "keywords": [
+        "coinestate co jp",
+        "coinestate.co.jp"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "criptohub-com-br",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/criptohub-com-br.png",
+      "keywords": [
+        "criptohub com br",
+        "criptohub.com.br"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ecd-rs",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/ecd-rs.png",
+      "keywords": [
+        "ecd rs",
+        "ecd.rs"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "exchange-elegro-eu",
+      "category": "psp",
+      "logo_path": "logos/psp/exchange-elegro-eu.png",
+      "keywords": [
+        "exchange elegro eu",
+        "exchange.elegro.eu"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "koinbx-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/koinbx-com.png",
+      "keywords": [
+        "koinbx com",
+        "koinbx.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "lukki-io",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/lukki-io.png",
+      "keywords": [
+        "lukki io",
+        "lukki.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "margex-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/margex-com.png",
+      "keywords": [
+        "margex com",
+        "margex.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "money24-com-ua",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/money24-com-ua.png",
+      "keywords": [
+        "money24 com ua",
+        "money24.com.ua"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mtpelerin-com",
+      "category": "psp",
+      "logo_path": "logos/psp/mtpelerin-com.png",
+      "keywords": [
+        "mtpelerin com",
+        "mtpelerin.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mxglobal-com-my",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/mxglobal-com-my.png",
+      "keywords": [
+        "mxglobal com my",
+        "mxglobal.com.my"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mybtc-ca",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/mybtc-ca.png",
+      "keywords": [
+        "mybtc ca",
+        "mybtc.ca"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "myfxchoice-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/myfxchoice-com.png",
+      "keywords": [
+        "myfxchoice com",
+        "myfxchoice.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ooobtc-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/ooobtc-com.png",
+      "keywords": [
+        "ooobtc com",
+        "ooobtc.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "payexchanger-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/payexchanger-com.png",
+      "keywords": [
+        "payexchanger com",
+        "payexchanger.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "rocketbit-io",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/rocketbit-io.png",
+      "keywords": [
+        "rocketbit io",
+        "rocketbit.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "sdce-com-au",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/sdce-com-au.png",
+      "keywords": [
+        "sdce com au",
+        "sdce.com.au"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "sfox-com",
+      "category": "otc_desk",
+      "logo_path": "logos/otc_desk/sfox-com.png",
+      "keywords": [
+        "sfox com",
+        "sfox.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "simplecoin-eu",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/simplecoin-eu.png",
+      "keywords": [
+        "simplecoin eu",
+        "simplecoin.eu"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "solidi-co",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/solidi-co.png",
+      "keywords": [
+        "solidi co",
+        "solidi.co"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "trakx-io",
+      "category": "custodian",
+      "logo_path": "logos/custodian/trakx-io.png",
+      "keywords": [
+        "trakx io",
+        "trakx.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "woo-org",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/woo-org.png",
+      "keywords": [
+        "woo org",
+        "woo.org"
       ],
       "product_aliases": [],
       "sanctioned": false
