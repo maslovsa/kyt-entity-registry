@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-30T10:06:54+00:00",
+  "generated_at": "2026-08-30T10:24:51+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -27808,6 +27808,30 @@
         "planetofbets",
         "planetofbets.com",
         "planet of bets"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitkong-com",
+      "category": "gambling",
+      "logo_path": "logos/gambling/bitkong-com.png",
+      "keywords": [
+        "bitkong",
+        "bitkong.com",
+        "bit kong"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "liqi-com-br",
+      "category": "otc_desk",
+      "logo_path": "logos/otc_desk/liqi-com-br.png",
+      "keywords": [
+        "liqi",
+        "liqi.com.br",
+        "liqi digital assets"
       ],
       "product_aliases": [],
       "sanctioned": false
