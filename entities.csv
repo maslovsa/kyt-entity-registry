@@ -2784,3 +2784,4 @@ Solidi.co,exchange,50.0,1,85,5,ETH,chainalysis-reactor-cluster-export,solidi-co,
 Trakx.io,custodian,50.0,3,85,5,ETH,chainalysis-reactor-cluster-export,trakx-io,trakx.io,"trakx io,trakx.io",,manual,2026-08-30,true,49e6306fffae8395d635f1d3b4242dfe3d2ec4bff3ef93dbc3a4a0045421aa4d
 WOO.org,exchange,50.0,2,85,5,TRON,chainalysis-reactor-cluster-export,woo-org,woo.org,"woo org,woo.org",,manual,2026-08-30,true,690cf1694b3137916d7a8ecbe86dcf34163dc826afc638ddc7400fba2b053a58
 CCE.Cash,exchange,60,2,75,50,TRON|ETH,manual-admin,cce-cash,cce.cash,"cce.cash,cce cash,cce-cash,cce chainswap",,manual,2026-08-30,true,8ac74f695183eac4786aae459adc275377b3e59e755e5b2bd246a68d0a9ed4b8
+Verdient Financial,psp,100,38,75,5,TRON|ETH,manual-admin,verdient-financial,verdient.financial,"verdient,verdient financial,verdient.financial",,manual,2026-08-30,true,f403551501038d9afc0b21f3b0f50fd1a1b8c764335778cc447b1133c1fbd2ce

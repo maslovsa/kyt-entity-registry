@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-30T19:19:59+00:00",
+  "generated_at": "2026-08-30T20:20:20+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28165,6 +28165,18 @@
         "cce cash",
         "cce-cash",
         "cce chainswap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "verdient-financial",
+      "category": "psp",
+      "logo_path": "logos/psp/verdient-financial.png",
+      "keywords": [
+        "verdient",
+        "verdient financial",
+        "verdient.financial"
       ],
       "product_aliases": [],
       "sanctioned": false
