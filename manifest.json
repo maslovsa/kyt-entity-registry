@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-30T11:00:47+00:00",
+  "generated_at": "2026-08-30T19:19:59+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28152,6 +28152,19 @@
       "keywords": [
         "woo org",
         "woo.org"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cce-cash",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/cce-cash.png",
+      "keywords": [
+        "cce.cash",
+        "cce cash",
+        "cce-cash",
+        "cce chainswap"
       ],
       "product_aliases": [],
       "sanctioned": false
