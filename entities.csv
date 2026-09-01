@@ -2798,3 +2798,8 @@ PonyBit.ru,exchange,100,1,75,5,ETH,manual-admin,ponybit-ru,ponybit.ru,"ponybit,p
 Pursa.co,exchange,100,1,75,5,ETH,manual-admin,pursa-co,pursa.co,"pursa,pursa.co,pursa-co",,manual,2026-09-01,true,41178edaaf32e4f9764d44599a558de097135d6dd9f78db104471b6a397b19bc
 Swop.is,exchange,100,3,75,78,ETH|LTC,"manual-admin,chainalysis-reactor-cluster-export",swop-is,swop.is,"swop.is,swop-is",,manual,2026-09-01,true,53e3c7e175bf6ea46fb0a18b8336d490dc660a57be4f402c978951e608bd853a
 Metka.cc,exchange,100,2,75,78,ETH|LTC,"manual-admin,chainalysis-reactor-cluster-export",metka-cc,metka.cc,"metka.cc,metka-cc",,manual,2026-09-01,true,2467318a3634f1d256e4a1f517b1189701baf308f68878d8e1a4030b57cb576e
+ExchangeIndeed.com,exchange,100,1,75,70,ETH,manual-admin,exchangeindeed-com,exchangeindeed.com,"exchangeindeed,exchangeindeed.com",,manual,2026-09-01,true,cd34a9a7c7bfc5d1aade55760a46654698e6a968526252739dd4f17eef362ce5
+ExchangeInstant.com,exchange,100,1,75,82,ETH,manual-admin,exchangeinstant-com,exchangeinstant.com,"exchangeinstant,exchangeinstant.com",,manual,2026-09-01,true,85225273953ecfd266d49c3814104f459c8e7f52b19d17d8725041db87198188
+ItuGlobalFX.com.ng,exchange,100,1,75,72,ETH,manual-admin,ituglobalfx-com-ng,ituglobalfx.com.ng,"ituglobalfx,ituglobalfx.com.ng",,manual,2026-09-01,true,4f97ee1cb34a14c0366b8c9bfbd51ac105e89adb238bdb25e4fb998deac47498
+MFXPartner.com,exchange,100,1,75,85,ETH,manual-admin,mfxpartner-com,mfxpartner.com,"mfxpartner,mfxpartner.com",,none,2026-09-01,true,
+MarChanger.com,exchange,100,1,75,80,ETH,manual-admin,marchanger-com,marchanger.com,"marchanger,marchanger.com",,manual,2026-09-01,true,1eebd7d675263d2632e531d27090b476ea89a02e56370023db2c5be1c686eb60

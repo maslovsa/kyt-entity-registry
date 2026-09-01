@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-01T12:22:30+00:00",
+  "generated_at": "2026-09-01T12:23:48+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28324,6 +28324,50 @@
       "keywords": [
         "metka.cc",
         "metka-cc"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "exchangeindeed-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/exchangeindeed-com.png",
+      "keywords": [
+        "exchangeindeed",
+        "exchangeindeed.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "exchangeinstant-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/exchangeinstant-com.png",
+      "keywords": [
+        "exchangeinstant",
+        "exchangeinstant.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ituglobalfx-com-ng",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/ituglobalfx-com-ng.png",
+      "keywords": [
+        "ituglobalfx",
+        "ituglobalfx.com.ng"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "marchanger-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/marchanger-com.png",
+      "keywords": [
+        "marchanger",
+        "marchanger.com"
       ],
       "product_aliases": [],
       "sanctioned": false
