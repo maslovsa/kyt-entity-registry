@@ -2794,3 +2794,5 @@ BitcoinUA.exchange,exchange,100,1,75,65,ETH,manual-admin,bitcoinua-exchange,bitc
 CriptHub.ru,exchange,100,1,75,65,ETH,manual-admin,cripthub-ru,cripthub.ru,"cripthub,cripthub.ru",,manual,2026-09-01,true,e3bb8c6426b01112c092d2637e3f5b3fc08c0b42914638c9effcdbb4b95a5113
 100BTC.kiev.ua,exchange,100,22,75,65,ETH|TRON,"manual-admin,chainalysis-reactor-cluster-export",100btc-kiev-ua,100btc.kiev.ua,"100btc.kiev.ua,100btc-kiev-ua,100btc",,manual,2026-09-01,true,9fb7acc036c46758ad671f82b2bdbfa0d1c46c1960f47553f2badeea79f28508
 NordChange.com,exchange,100,12,75,65,ETH,"manual-admin,chainalysis-reactor-cluster-export",nordchange-com,nordchange.com,"nordchange.com,nordchange-com,nordchange",,manual,2026-09-01,true,e27ecbb19a48a9c70474f457e538d217364be4ffb813afeaa953aaebe6e979e1
+PonyBit.ru,exchange,100,1,75,5,ETH,manual-admin,ponybit-ru,ponybit.ru,"ponybit,ponybit.ru,ponybit-ru",,manual,2026-09-01,true,9ce7aef125f1ba08a9669fc459b682564d66726c02537069f862b45fb3cda121
+Pursa.co,exchange,100,1,75,5,ETH,manual-admin,pursa-co,pursa.co,"pursa,pursa.co,pursa-co",,manual,2026-09-01,true,41178edaaf32e4f9764d44599a558de097135d6dd9f78db104471b6a397b19bc

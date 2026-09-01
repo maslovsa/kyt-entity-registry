@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-01T12:19:35+00:00",
+  "generated_at": "2026-09-01T12:21:01+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28278,6 +28278,30 @@
         "nordchange.com",
         "nordchange-com",
         "nordchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ponybit-ru",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/ponybit-ru.png",
+      "keywords": [
+        "ponybit",
+        "ponybit.ru",
+        "ponybit-ru"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pursa-co",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/pursa-co.png",
+      "keywords": [
+        "pursa",
+        "pursa.co",
+        "pursa-co"
       ],
       "product_aliases": [],
       "sanctioned": false
