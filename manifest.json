@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-01T12:19:03+00:00",
+  "generated_at": "2026-09-01T12:19:35+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28221,6 +28221,63 @@
       "keywords": [
         "exbase io",
         "exbase.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "4esnok-cc",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/4esnok-cc.png",
+      "keywords": [
+        "4esnok",
+        "4esnok.cc"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitcoinua-exchange",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bitcoinua-exchange.png",
+      "keywords": [
+        "bitcoinua",
+        "bitcoinua.exchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cripthub-ru",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/cripthub-ru.png",
+      "keywords": [
+        "cripthub",
+        "cripthub.ru"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "100btc-kiev-ua",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/100btc-kiev-ua.png",
+      "keywords": [
+        "100btc.kiev.ua",
+        "100btc-kiev-ua",
+        "100btc"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "nordchange-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/nordchange-com.png",
+      "keywords": [
+        "nordchange.com",
+        "nordchange-com",
+        "nordchange"
       ],
       "product_aliases": [],
       "sanctioned": false
