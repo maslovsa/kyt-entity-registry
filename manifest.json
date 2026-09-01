@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-30T20:20:20+00:00",
+  "generated_at": "2026-09-01T12:19:03+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28177,6 +28177,50 @@
         "verdient",
         "verdient financial",
         "verdient.financial"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "9jacash-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/9jacash-com.png",
+      "keywords": [
+        "9jacash com",
+        "9jacash.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cryptofiat-finance",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/cryptofiat-finance.png",
+      "keywords": [
+        "cryptofiat finance",
+        "cryptofiat.finance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "naira4dollar-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/naira4dollar-com.png",
+      "keywords": [
+        "naira4dollar com",
+        "naira4dollar.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "exbase-io",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/exbase-io.png",
+      "keywords": [
+        "exbase io",
+        "exbase.io"
       ],
       "product_aliases": [],
       "sanctioned": false
