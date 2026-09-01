@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-01T12:23:48+00:00",
+  "generated_at": "2026-09-01T12:24:51+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28368,6 +28368,51 @@
       "keywords": [
         "marchanger",
         "marchanger.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "exbit-cc",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/exbit-cc.png",
+      "keywords": [
+        "exbit.cc",
+        "exbit-cc"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "traiderideal-ru",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/traiderideal-ru.png",
+      "keywords": [
+        "traiderideal.ru",
+        "traiderideal-ru"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "wolfstreet-cash",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/wolfstreet-cash.png",
+      "keywords": [
+        "wolfstreet.cash",
+        "wolfstreet-cash"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ideypay-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/ideypay-com.png",
+      "keywords": [
+        "ideypay",
+        "ideypay.com",
+        "ideypay-com"
       ],
       "product_aliases": [],
       "sanctioned": false
