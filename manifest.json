@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-01T12:21:01+00:00",
+  "generated_at": "2026-09-01T12:22:30+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28302,6 +28302,28 @@
         "pursa",
         "pursa.co",
         "pursa-co"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "swop-is",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/swop-is.png",
+      "keywords": [
+        "swop.is",
+        "swop-is"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "metka-cc",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/metka-cc.png",
+      "keywords": [
+        "metka.cc",
+        "metka-cc"
       ],
       "product_aliases": [],
       "sanctioned": false
