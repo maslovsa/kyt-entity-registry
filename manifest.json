@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-05T21:33:37+00:00",
+  "generated_at": "2026-09-05T21:44:26+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -26788,6 +26788,18 @@
       "logo_path": "logos/defi/sashimiswap.png",
       "keywords": [
         "sashimiswap"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "breetapp-com",
+      "category": "psp",
+      "logo_path": "logos/psp/breetapp-com.png",
+      "keywords": [
+        "breetapp.com",
+        "breetapp",
+        "breetapp-com"
       ],
       "product_aliases": [],
       "sanctioned": false
