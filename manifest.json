@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-01T12:24:51+00:00",
+  "generated_at": "2026-09-05T07:43:27+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28413,6 +28413,18 @@
         "ideypay",
         "ideypay.com",
         "ideypay-com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "crypto-office-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/crypto-office-com.png",
+      "keywords": [
+        "crypto office",
+        "crypto-office",
+        "crypto-office.com"
       ],
       "product_aliases": [],
       "sanctioned": false
