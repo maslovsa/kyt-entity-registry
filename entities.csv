@@ -7,7 +7,7 @@ iTRX.io,defi,500,0,80,10,TRON,manual-admin,itrx-io,itrx.io,"itrx.io,itrx-io",,ma
 Profeex,defi,500,0,80,10,TRON,manual-admin,profeex,profeex.io,"profeex,profeex.io,profeex.com",,manual,2026-05-25,true,5b9d33f23dc7b4f992c12005124105d99c328a196df334398d834cc2f0b863f0
 RentTron,defi,500,3,100,10,TRON,manual-admin,renttron,renttron.io,"renttron,renttron.io,rent tron",,manual,2026-05-25,true,5128bcd892c690422f6813e0c5f5c91316a8bfdcbb7f40391c4e80c9ee9caff8
 StashTRX,defi,500,0,80,10,TRON,manual-research,stashtrx,stash-trx.com,"stashtrx,stash-trx,stash trx,stashcrypto",,manual,2026-05-25,true,00923f40c8ae8d4fccd1ae3111a70935d39a91a5220567a78114cf092adfc336
-TR.ENERGY,defi,500,0,80,10,TRON,manual-admin,tr-energy,tr.energy,"tr.energy,tr-energy,tr energy",,manual,2026-05-25,true,f2250e5e7893771986eebf00648baa60cfe15ddadc439312072380549ccc6c67
+TR.ENERGY,defi,500,0,80,10,TRON,manual-admin,tr-energy,tr.energy,"tr.energy,tr-energy,tr energy",,manual,2026-09-05,true,c79c69871b1652035a3b29705b26595a0dac740709a40ec20af922e80aa40b09
 TronBid,defi,500,0,80,10,TRON,manual-admin,tronbid,tronbid.com,"tronbid,tronbid.com,tronbid.energy",,manual,2026-05-25,true,5e68b3ddc49e6a278100240b81bc6bae369191f3203ff611b529c0664e643e61
 TronEnergy.io,defi,500,3,80,10,TRON,tronscan-tags,tronenergy-io,tronenergy.io,"tronenergy,tronenergy.io,tronenergyio,tronenergymarket,tronenergyioborrow,tronenergy market,tronenergy.market",,manual,2026-05-25,true,2064d0173c71f2227ddfce14f08d86af2a0aeed141a49fd430404300988beca1
 TronExchange,defi,500,1,80,10,TRON,"manual-admin,tronscan-tags",tronexchange,,"tronexchange,tron exchange",,synthetic,2026-08-17,false,102220c65b610af59943973f2816fb407fc05a73dba7da9fc442af6b5f9b9ec7
