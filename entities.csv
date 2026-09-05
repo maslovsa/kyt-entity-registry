@@ -2809,3 +2809,7 @@ Wolfstreet.cash,exchange,100,1,75,78,ETH,"manual-admin,chainalysis-reactor-clust
 iDeyPay.com,exchange,100,1,75,78,ETH,"manual-admin,chainalysis-reactor-cluster-export",ideypay-com,ideypay.com,"ideypay,ideypay.com,ideypay-com",,manual,2026-09-01,true,011471c40dba96e0a1f7d88d7337b1449877feb41903439caa701f70bfe3944f
 Crypto Office,exchange,100,0,74,49,TRON|ETH|BSC,manual-admin,crypto-office-com,crypto-office.com,"crypto office,crypto-office,crypto-office.com",,manual,2026-09-05,true,960da1c835b02f06a54c6ee08c1af9a0d6feddb3df3c9dcbe90185ec0f6fe13f
 TokenSpot,exchange,100,445,80,40,TRON,manual-admin,tokenspot-com,tokenspot.com,"tokenspot,tokenspot.com,tokenspot-com",,manual,2026-09-05,true,fee7ca1e2b893efb5a10c044c6a281a315c20731f5bc34deb829807afa06bd7f
+Tron Discount,defi,100,1,75,5,TRON,manual-admin,tron-discount,tron.discount,"tron discount,tron.discount,tronDiscount",,manual,2026-09-06,true,86e82891de02d356ea44c7344b595e99e0a61b39a54e3a5538fad5a91385a8f6
+eopen.io,defi,100,1,75,5,TRON,manual-admin,eopen-io,eopen.io,"eopen,eopen.io",,manual,2026-09-06,true,a0ca32876079e2fcfed2cb6b3db30c2d897b04b4aed9de6bf0b4800fa4fbc274
+TronPulse,defi,100,1,75,5,TRON,manual-admin,tronpulse,tronpulse.io,"tronpulse,tronpulse.io",,manual,2026-09-06,true,af3817a4e3ce96f5b853cd49023f5ebecc2b7972d34c297fc44268c29a40cb0a
+TronMax,defi,100,1,75,5,TRON,manual-admin,tronmax,tronmax.io,"tronmax,tronmax.io",,manual,2026-09-06,true,8ed9d9872db2c0ccf32490a1d047777590f9308175b8b76148998083a2643151

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-05T14:06:02+00:00",
+  "generated_at": "2026-09-05T21:33:37+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28449,6 +28449,51 @@
         "tokenspot",
         "tokenspot.com",
         "tokenspot-com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tron-discount",
+      "category": "defi",
+      "logo_path": "logos/defi/tron-discount.png",
+      "keywords": [
+        "tron discount",
+        "tron.discount",
+        "tronDiscount"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "eopen-io",
+      "category": "defi",
+      "logo_path": "logos/defi/eopen-io.png",
+      "keywords": [
+        "eopen",
+        "eopen.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tronpulse",
+      "category": "defi",
+      "logo_path": "logos/defi/tronpulse.png",
+      "keywords": [
+        "tronpulse",
+        "tronpulse.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tronmax",
+      "category": "defi",
+      "logo_path": "logos/defi/tronmax.png",
+      "keywords": [
+        "tronmax",
+        "tronmax.io"
       ],
       "product_aliases": [],
       "sanctioned": false
