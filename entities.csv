@@ -286,7 +286,7 @@ Zedcex,sanctioned,100,10,100,100,TRON,ofac-sdn,zedcex,zedcex.com,"zedcex,zedcex 
 Chatex,sanctioned,100,47,100,100,ETH|TRON,ofac-sdn,chatex,chatex.com,"chatex,chatex.com",,manual,2026-07-16,true,0643726455eee57678d96d1aedd4befd8bc95385eeb7a1b3b6809f9c0c7adc5d
 Verse DEX,dex,100,8,90,10,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,arkham-intelligence,verse-dex,verse.bitcoin.com,"verse dex,verse exchange,verse-x,verse.bitcoin.com",,manual,2026-07-22,true,549a2f7e7acc1e2b50651107f57be1589cf0d88268bb4ab132723f64c882eaea
 Exodus,stablecoin_issuer,100,0,0,10,SOL,pharos-watch,exodus,exodus.com,"exodus,exodus movement,xo cash,xocash,xousd",,manual,2026-07-22,true,aefb2192055ee6b7fe2191873ec5f6a45355a48326a1e5512b8cebac9eaca309
-Gold Dollar,psp,100,0,85,15,ETH,manual-admin,gold-dollar,usdkg.com,"gold dollar,gold-dollar,usdkg",,none,2026-07-22,true,
+Gold Dollar,stablecoin_issuer,100,6,85,15,ETH|TRON,manual-admin,gold-dollar,usdkg.com,"gold dollar,gold-dollar,usdkg",,manual,2026-09-05,true,d7cf0356f75465b1df99fcff90aed3790caf10f12ee6fcaf67b4b7175b574942
 Transfero,psp,100,9,75,5,ETH|BSC|POLYGON|BASE|OPTIMISM|AVALANCHE|ARBITRUM|SOL,pharos-stablecoins,transfero,transfero.com,"transfero,transfero.com,brz,brz stablecoin",,manual,2026-07-22,true,dd6eadcf435415675dcbab8749cb71e4a60bd41b79d123009427569437c18119
 WhiteBird,sanctioned,100,0,75,100,,eu-sanctions-2026-1849,whitebird-io,whitebird.io,"whitebird,white bird",,manual,2026-07-30,true,ae9dc58d9a156a42e5a6c9e73183fbf7a32dd7156aef9055c1e9ec45455377fb
 Tradex,sanctioned,100,0,75,100,,eu-sanctions-2026-1849,tradex-by,tradex.by,"tradex,brightum",,manual,2026-07-25,true,9252ab93237e17c92202280ef7d5daec4acf454e26e98dd9534ea91edfdf5c27
@@ -2808,3 +2808,4 @@ TraiderIdeal.ru,exchange,100,2,75,78,ETH,"manual-admin,chainalysis-reactor-clust
 Wolfstreet.cash,exchange,100,1,75,78,ETH,"manual-admin,chainalysis-reactor-cluster-export",wolfstreet-cash,wolfstreet.cash,"wolfstreet.cash,wolfstreet-cash",,manual,2026-09-01,true,66a047ab8d3258a32d3d69803247cdc984def41780738d335a64318953887190
 iDeyPay.com,exchange,100,1,75,78,ETH,"manual-admin,chainalysis-reactor-cluster-export",ideypay-com,ideypay.com,"ideypay,ideypay.com,ideypay-com",,manual,2026-09-01,true,011471c40dba96e0a1f7d88d7337b1449877feb41903439caa701f70bfe3944f
 Crypto Office,exchange,100,0,74,49,TRON|ETH|BSC,manual-admin,crypto-office-com,crypto-office.com,"crypto office,crypto-office,crypto-office.com",,manual,2026-09-05,true,960da1c835b02f06a54c6ee08c1af9a0d6feddb3df3c9dcbe90185ec0f6fe13f
+TokenSpot,exchange,100,445,80,40,TRON,manual-admin,tokenspot-com,tokenspot.com,"tokenspot,tokenspot.com,tokenspot-com",,manual,2026-09-05,true,fee7ca1e2b893efb5a10c044c6a281a315c20731f5bc34deb829807afa06bd7f

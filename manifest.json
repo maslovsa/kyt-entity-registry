@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-05T07:43:27+00:00",
+  "generated_at": "2026-09-05T14:06:02+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -2917,6 +2917,18 @@
         "xo cash",
         "xocash",
         "xousd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gold-dollar",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/gold-dollar.png",
+      "keywords": [
+        "gold dollar",
+        "gold-dollar",
+        "usdkg"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -28425,6 +28437,18 @@
         "crypto office",
         "crypto-office",
         "crypto-office.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tokenspot-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/tokenspot-com.png",
+      "keywords": [
+        "tokenspot",
+        "tokenspot.com",
+        "tokenspot-com"
       ],
       "product_aliases": [],
       "sanctioned": false
