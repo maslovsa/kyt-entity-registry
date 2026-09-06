@@ -111,9 +111,17 @@ SANCTIONED_SLUG_OVERRIDES = {
     "promsvyazbank-ru",            # UK OFSI
     "capital-bank-of-central-asia-kg",  # UK OFSI
     "esb-kg",                      # UK OFSI
-    "htx-com-huobi-com",           # UK OFSI (RUS3619) — kept category='exchange' (still-operating
-                                    # business, richer claim_count/importance than the duplicate
-                                    # 'sanctioned' row merged away 2026-07-15 registry dedup)
+    "htx-com-huobi-com",           # UK OFSI (RUS3619) + EU 2026/1849 — kept category='exchange'
+                                    # (still-operating business, richer claim_count/importance than
+                                    # the duplicate 'sanctioned' row merged away 2026-07-15 dedup).
+                                    # 2026-09-06: display name set to the current brand "HTX" and
+                                    # the last two same-entity rows ('htx' from arkham-intelligence,
+                                    # 'huobi' from defillama-adapters) merged in — both carried the
+                                    # SAME keywords as this row but sanctioned=False, so whichever
+                                    # sorted first decided whether HTX rendered a sanctioned badge.
+                                    # Slug deliberately NOT renamed to 'htx': it is the key this
+                                    # override, vasp_entities.registry_slug and the logo path all
+                                    # use.
 }
 
 # Map category_slug → on-disk directory name under logos/.  Mirrors

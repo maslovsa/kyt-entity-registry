@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-06T09:12:40+00:00",
+  "generated_at": "2026-09-06T11:18:37+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -25760,16 +25760,6 @@
       "sanctioned": false
     },
     {
-      "slug": "htx",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/htx.png",
-      "keywords": [
-        "htx"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "hopelend",
       "category": "defi",
       "logo_path": "logos/defi/hopelend.png",
@@ -26425,16 +26415,6 @@
       "logo_path": "logos/defi/corkprotocol.png",
       "keywords": [
         "corkprotocol"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "huobi",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/huobi.png",
-      "keywords": [
-        "huobi"
       ],
       "product_aliases": [],
       "sanctioned": false
