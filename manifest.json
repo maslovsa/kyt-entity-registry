@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-06T11:18:37+00:00",
+  "generated_at": "2026-09-06T20:46:57+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28497,6 +28497,17 @@
       "keywords": [
         "mellstroy casino",
         "mellstroy.game"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "stormgain-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/stormgain-com.png",
+      "keywords": [
+        "stormgain",
+        "stormgain.com"
       ],
       "product_aliases": [],
       "sanctioned": false
