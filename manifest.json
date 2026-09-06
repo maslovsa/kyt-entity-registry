@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-06T07:48:30+00:00",
+  "generated_at": "2026-09-06T09:12:40+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28515,10 +28515,8 @@
       "category": "gambling",
       "logo_path": "logos/gambling/mellstroy-game.png",
       "keywords": [
-        "mellstroy",
         "mellstroy casino",
-        "mellstroy.game",
-        "andrey burim"
+        "mellstroy.game"
       ],
       "product_aliases": [],
       "sanctioned": false
