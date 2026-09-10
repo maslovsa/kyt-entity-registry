@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-10T15:49:14+00:00",
+  "generated_at": "2026-09-10T16:07:31+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -29659,6 +29659,29 @@
       "keywords": [
         "ginero",
         "ginero.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "firefoxotc-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/firefoxotc-com.png",
+      "keywords": [
+        "firefoxotc",
+        "firefox otc",
+        "huhuli"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "eth-mixer-com",
+      "category": "mixer",
+      "logo_path": "logos/mixer/eth-mixer-com.png",
+      "keywords": [
+        "eth mixer",
+        "ethereum mixer"
       ],
       "product_aliases": [],
       "sanctioned": false
