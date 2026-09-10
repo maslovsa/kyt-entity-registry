@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-10T13:53:56+00:00",
+  "generated_at": "2026-09-10T15:19:24+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -29514,6 +29514,62 @@
       "keywords": [
         "ramzbank",
         "رمز‌بانک"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "consensys-net",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/consensys-net.png",
+      "keywords": [
+        "consensys",
+        "metamask",
+        "infura"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "vhcex-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/vhcex-com.png",
+      "keywords": [
+        "vhcex",
+        "vhcex.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coolcoin-best",
+      "category": "p2p",
+      "logo_path": "logos/p2p/coolcoin-best.png",
+      "keywords": [
+        "coolcoin",
+        "coolcoin.best"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pandpay-net",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/pandpay-net.png",
+      "keywords": [
+        "pandpay",
+        "pandpay.net"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bityard-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bityard-com.png",
+      "keywords": [
+        "bityard",
+        "bityard.com"
       ],
       "product_aliases": [],
       "sanctioned": false

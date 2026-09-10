@@ -2902,3 +2902,8 @@ D-Obmen,exchange,100,1,25,3,LTC,manual-admin,d-obmen,d-obmen.cc,"d-obmen,d obmen
 Rand4Dollar.com,exchange,100,1,55,6,ETH,manual-admin,rand4dollar-com,rand4dollar.com,"rand4dollar,rand4dollar.com",,manual,2026-09-10,true,2c3c97a366c158f61571a92532fe53c01ff0729d06b3af9a04c4845d57a25336
 BasiChange.com,exchange,100,1,30,3,ETH,manual-admin,basichange-com,basichange.com,"basichange,basichange.com",,manual,2026-09-10,true,14ab23e9873dcc04e90c02251dc78e0ad9f635bb4fe86e0fbd67cc7408fb2942
 Ramzbank.com,exchange,100,1,30,3,ETH,manual-admin,ramzbank-com,ramzbank.com,"ramzbank,رمز‌بانک",,manual,2026-09-10,true,607e4333030884274ec9c6c2089788f309163bd1878651426edb297cbbaf549a
+Consensys.net,exchange,100,1,10,1,ETH,manual-admin,consensys-net,consensys.net,"consensys,metamask,infura",,manual,2026-09-10,true,feb00cce723508bd8c20541f6de154ac5520ac86c5a30f3a769badb74c2c6cf6
+VHCEx.com,exchange,100,1,40,4,ETH,manual-admin,vhcex-com,vhcex.com,"vhcex,vhcex.com",,manual,2026-09-10,true,856ad28e600e4bdafbc580343359a78f378cfda37237b5fae7178c3a875866dc
+CoolCoin.best,p2p,100,1,25,3,BSC,manual-admin,coolcoin-best,coolcoin.best,"coolcoin,coolcoin.best",,manual,2026-09-10,true,c977d2ac44be545bfababda6afdeba0c598804f1b6200063bbd98c5b3776aef5
+PandPay.net,exchange,100,1,45,5,BTC,manual-admin,pandpay-net,pandpay.net,"pandpay,pandpay.net",,manual,2026-09-10,true,5de170b4d47199ac36a99879a3847932cc035e336a15d57160fcf05490830eb0
+Bityard.com,exchange,100,1,55,6,ETH,manual-admin,bityard-com,bityard.com,"bityard,bityard.com",,manual,2026-09-10,true,62b9e738e25945354c8d100f080dfa590e0d66da2c52a3f5d1fa7c2c542c6f15
