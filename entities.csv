@@ -2892,3 +2892,11 @@ Obmin24 / X-Change,exchange,100,2,45,5,ETH|LTC,manual-admin,obmin24-x-change,x-c
 Dollar on Chain,stablecoin_issuer,100,2,15,2,ARBITRUM|ETH,manual-admin,dollar-on-chain,moneyonchain.com,"dollar on chain,doc,money on chain",,manual,2026-09-10,true,508abac3555903b6e2868c3136e7b6374e743bddd87f08732ad8aaecc24269b8
 CryptoRefills.com,p2p,100,2,25,3,BTC|ETH,manual-admin,cryptorefills-com,cryptorefills.com,"cryptorefills,crypto refills",,manual,2026-09-10,true,3f94d70f2436141b0e3939e7995bec2b1b2ff02eb9ed3311b6986b7c3e570107
 JPY Coin,stablecoin_issuer,100,2,10,1,ETH|POLYGON,manual-admin,jpy-coin,jpyc.co.jp,"jpy coin,jpyc,jpyc inc",,manual,2026-09-10,true,20a6a0d27adea14b884530f1def31290381055169fbf45f8707ceb78c315673c
+Astherus,stablecoin_issuer,100,1,10,1,BSC,manual-admin,astherus,astherus.finance,"astherus,asusdf,usdf,aster",,manual,2026-09-10,true,a3a3e1939004e47902e922f05f7e2fbb988349b9ad7c7b3e4a655bdaf9c5ebaf
+pmUSD,stablecoin_issuer,100,1,20,2,ETH,manual-admin,pmusd,pmusd.raac.io,"pmusd,precious metals usd,raac",,manual,2026-09-10,true,2c7ffb85e9d0b78d21f9e7e5709847dec6bedb0cf41a2752df675bd41f9421c2
+Startale USD,stablecoin_issuer,100,1,10,1,ETH,manual-admin,startale-usd,usd.startale.com,"startale usd,usdsc,startale",,manual,2026-09-10,true,465da4f66ba41c7ecdef23d9447ac68ecdea2bf4fb0acd2793c6c0590cd6e4be
+Rai Reflex Index,stablecoin_issuer,100,1,15,2,ETH,manual-admin,rai-reflex-index,reflexer.finance,"rai,rai reflex index,reflexer",,manual,2026-09-10,true,137b37cb08dc4a9343daf72cfe6ec784d3ea87e4189383fb0d0a70c5ed0ef628
+Satoshiat.com,exchange,100,1,20,2,ETH,manual-admin,satoshiat-com,satoshiat.com,"satoshiat,ساتوشيات",,manual,2026-09-10,true,f49ff0d0d4bbb105266e60481da38b239220021e58b7f4b6ce82f4981c61eedc
+Obmennik.ws (historical),exchange,100,1,25,3,TRON,manual-admin,obmennik-ws,obmennik.ws,"obmennik.ws,обменник ws",,manual,2026-09-10,true,b9d5190a280a5ff8acd34714ab8ce4987c592f2781984b173a666c5231af5c12
+D-Obmen,exchange,100,1,25,3,LTC,manual-admin,d-obmen,d-obmen.cc,"d-obmen,d obmen",,manual,2026-09-10,true,2e39796dcc3b037b16118e16154e398bff831f3b08ed5de84db4f4bf8ff7214f
+Rand4Dollar.com,exchange,100,1,55,6,ETH,manual-admin,rand4dollar-com,rand4dollar.com,"rand4dollar,rand4dollar.com",,manual,2026-09-10,true,2c3c97a366c158f61571a92532fe53c01ff0729d06b3af9a04c4845d57a25336

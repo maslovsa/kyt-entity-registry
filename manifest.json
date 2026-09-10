@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-10T13:41:00+00:00",
+  "generated_at": "2026-09-10T13:48:27+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -29399,6 +29399,99 @@
         "jpy coin",
         "jpyc",
         "jpyc inc"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "astherus",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/astherus.png",
+      "keywords": [
+        "astherus",
+        "asusdf",
+        "usdf",
+        "aster"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pmusd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/pmusd.png",
+      "keywords": [
+        "pmusd",
+        "precious metals usd",
+        "raac"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "startale-usd",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/startale-usd.png",
+      "keywords": [
+        "startale usd",
+        "usdsc",
+        "startale"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "rai-reflex-index",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/rai-reflex-index.png",
+      "keywords": [
+        "rai",
+        "rai reflex index",
+        "reflexer"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "satoshiat-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/satoshiat-com.png",
+      "keywords": [
+        "satoshiat",
+        "ساتوشيات"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "obmennik-ws",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/obmennik-ws.png",
+      "keywords": [
+        "obmennik.ws",
+        "обменник ws"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "d-obmen",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/d-obmen.png",
+      "keywords": [
+        "d-obmen",
+        "d obmen"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "rand4dollar-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/rand4dollar-com.png",
+      "keywords": [
+        "rand4dollar",
+        "rand4dollar.com"
       ],
       "product_aliases": [],
       "sanctioned": false
