@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-10T10:48:05+00:00",
+  "generated_at": "2026-09-10T11:08:42+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28620,6 +28620,157 @@
         "trueusd",
         "tusd",
         "tusd.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitmine-immersion",
+      "category": "defi",
+      "logo_path": "logos/defi/bitmine-immersion.png",
+      "keywords": [
+        "bitmine",
+        "bitmine immersion",
+        "bmnr"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mercatox",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/mercatox.png",
+      "keywords": [
+        "mercatox"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "faucetpay",
+      "category": "custodian",
+      "logo_path": "logos/custodian/faucetpay.png",
+      "keywords": [
+        "faucetpay",
+        "faucetpay.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dexe-network",
+      "category": "defi",
+      "logo_path": "logos/defi/dexe-network.png",
+      "keywords": [
+        "dexe",
+        "dexe network",
+        "dexe protocol",
+        "dexe dao"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "usd-ai",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/usd-ai.png",
+      "keywords": [
+        "usd.ai",
+        "usdai"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "royal-cash",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/royal-cash.png",
+      "keywords": [
+        "royal.cash"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coin-trade-cc",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/coin-trade-cc.png",
+      "keywords": [
+        "coin-trade.cc",
+        "coin-trade-cc"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "blablachange-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/blablachange-com.png",
+      "keywords": [
+        "blablachange.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "exhub-io",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/exhub-io.png",
+      "keywords": [
+        "exhub.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "nicechange-net",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/nicechange-net.png",
+      "keywords": [
+        "nicechange.net"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bcbitcoin-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bcbitcoin-com.png",
+      "keywords": [
+        "bcbitcoin.com",
+        "bcbitcoin-com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cryptovoucher-io",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/cryptovoucher-io.png",
+      "keywords": [
+        "cryptovoucher.io",
+        "cryptovoucher-io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "multichange-net",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/multichange-net.png",
+      "keywords": [
+        "app.multichange.net",
+        "multichange.net"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "crypto-hk",
+      "category": "psp",
+      "logo_path": "logos/psp/crypto-hk.png",
+      "keywords": [
+        "crypto hk"
       ],
       "product_aliases": [],
       "sanctioned": false
