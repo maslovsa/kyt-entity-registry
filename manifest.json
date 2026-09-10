@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-10T16:34:17+00:00",
+  "generated_at": "2026-09-10T16:41:00+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -29704,6 +29704,72 @@
       "keywords": [
         "ym change",
         "ymchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "moneymate-best",
+      "category": "p2p",
+      "logo_path": "logos/p2p/moneymate-best.png",
+      "keywords": [
+        "moneymate",
+        "money mate"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "exchangekey-org",
+      "category": "p2p",
+      "logo_path": "logos/p2p/exchangekey-org.png",
+      "keywords": [
+        "exchangekey",
+        "exchange key"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dotsatoshi-com",
+      "category": "p2p",
+      "logo_path": "logos/p2p/dotsatoshi-com.png",
+      "keywords": [
+        "dotsatoshi",
+        "dot satoshi"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "vimba-co",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/vimba-co.png",
+      "keywords": [
+        "vimba",
+        "vimba.co"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bbod-io",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bbod-io.png",
+      "keywords": [
+        "bbod",
+        "blockchain board of derivatives"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coredax-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/coredax-com.png",
+      "keywords": [
+        "coredax",
+        "core dax"
       ],
       "product_aliases": [],
       "sanctioned": false
