@@ -2917,3 +2917,5 @@ HomeCoin,stablecoin_issuer,100,1,10,1,,manual-admin,homecoin,homecoin.finance,"h
 Ginero.io,p2p,100,1,10,1,,manual-admin,ginero-io,ginero.io,"ginero,ginero.io",,manual,2026-09-10,true,ae16dc53e746f3b47ddd9f7fd4650b7b07bd6b739ff982e8c34f5133c7c2d63b
 FirefoxOTC.com,exchange,100,1,10,1,,manual-admin,firefoxotc-com,firefoxotc.com,"firefoxotc,firefox otc,huhuli",,manual,2026-09-10,true,2e7755489df6f614d521a5a2354c90ceb6c82f1c22f9dd98ae4573f7aafd2fb0
 ETH-Mixer.com,mixer,100,1,10,1,ETH,manual-admin,eth-mixer-com,eth-mixer.com,"eth mixer,ethereum mixer",,manual,2026-09-10,true,20c2b39bee4925e2a04917cc2f65e630335a580a35b80cbe6173672a843ca869
+BestObmen.su,exchange,100,1,10,1,,manual-admin,bestobmen-su,bestobmen.su,"bestobmen,best obmen",,manual,2026-09-10,true,08f8cab32499019c81734dd75f9391cab70772e14c76b0907bb11feeb9420310
+YM-Change.com,exchange,100,1,10,1,,manual-admin,ym-change-com,ym-change.com,"ym change,ymchange",,manual,2026-09-10,true,ad70d6879685bdab8424debe1f723672aa1f63197d8a7299e1505d77a594f996
