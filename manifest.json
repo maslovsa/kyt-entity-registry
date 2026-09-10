@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-10T13:38:32+00:00",
+  "generated_at": "2026-09-10T13:41:00+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28632,16 +28632,6 @@
         "bitmine",
         "bitmine immersion",
         "bmnr"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "mercatox",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/mercatox.png",
-      "keywords": [
-        "mercatox"
       ],
       "product_aliases": [],
       "sanctioned": false

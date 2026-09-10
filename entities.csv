@@ -2824,7 +2824,6 @@ Tauros.io,exchange,100,973,65,5,ETH|BTC|LTC,manual-admin,tauros-io,tauros.io,"ta
 CheckSig,custodian,100,247,24,5,BTC,manual-admin,checksig-com,checksig.com,"checksig,checksig.com",,manual,2026-09-10,true,b809207a3b6224b6e27cd7be724f3e4639839187e1b91b5e0531f7d39530aa47
 TrueUSD,stablecoin_issuer,100,9,,,ETH|BSC|TRON|POLYGON|AVALANCHE|ARBITRUM|OPTIMISM|FANTOM,manual-admin,true-usd,tusd.io,"trueusd,tusd,tusd.io",,manual,2026-09-10,true,f6ded42e58debec123c8e97a90344bade73f9393e34a60ab04e2ea4a90444619
 BitMine Immersion Technologies,defi,100,114,24,3,ETH,manual-admin,bitmine-immersion,bitminetech.io,"bitmine,bitmine immersion,bmnr",,manual,2026-09-10,true,874d31428fd77042118f9a507c4e8dcbd840da48f55e58e6030116280d390262
-Mercatox,exchange,100,84,74,5,ARBITRUM|AVALANCHE|BASE|BSC|BTC|ETH|LTC|OPTIMISM|POLYGON|TRON,manual-admin,mercatox,mercatox.com,"mercatox",,manual,2026-09-10,true,abafe403a72522055d7e52bcd5906c601a4cabd540a14edc055eacb710f1e80a
 Faucetpay.io,custodian,100,10,45,4,BSC|BTC|LTC|TRON,manual-admin,faucetpay,faucetpay.io,"faucetpay,faucetpay.io",,manual,2026-09-10,true,2699482bad6928d2d9cba9eef17b6aeb9ae6b4a1b925d39c0fbb2b9ee16aab1c
 DeXe Network,defi,100,6,15,3,BSC|ETH,manual-admin,dexe-network,,"dexe,dexe network,dexe protocol,dexe dao",,manual,2026-09-10,true,31f50c5839f6208403883592a854ed9988e1236fd0917cb92df5ca8182563a8c
 USD.AI,stablecoin_issuer,100,6,50,4,ARBITRUM|BASE|ETH,manual-admin,usd-ai,usd.ai,"usd.ai,usdai",,manual,2026-09-10,true,e64a025fcbb3628092e1bb6cdb9343f6f20f7df7ed8fd42dfd687467bc844cea
