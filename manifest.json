@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-10T11:08:42+00:00",
+  "generated_at": "2026-09-10T11:13:15+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28771,6 +28771,94 @@
       "logo_path": "logos/psp/crypto-hk.png",
       "keywords": [
         "crypto hk"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "sinegy-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/sinegy-com.png",
+      "keywords": [
+        "sinegy.com",
+        "sinegy-com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "aladdin25-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/aladdin25-com.png",
+      "keywords": [
+        "aladdin25.com",
+        "aladdin25-com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitcoin-store-hr",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bitcoin-store-hr.png",
+      "keywords": [
+        "bitcoin-store.hr",
+        "bitcoin-store-hr"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dvchain-co",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/dvchain-co.png",
+      "keywords": [
+        "dvchain.co",
+        "dvchain-co"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "exness-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/exness-com.png",
+      "keywords": [
+        "exness.com",
+        "exness-com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "billance-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/billance-com.png",
+      "keywords": [
+        "billance.com",
+        "billance-com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "octafx-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/octafx-com.png",
+      "keywords": [
+        "octafx.com",
+        "octafx-com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "zitcexchange-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/zitcexchange-com.png",
+      "keywords": [
+        "zitcexchange.com",
+        "zitcexchange-com"
       ],
       "product_aliases": [],
       "sanctioned": false
