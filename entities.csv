@@ -2908,3 +2908,8 @@ CoolCoin.best,p2p,100,1,25,3,BSC,manual-admin,coolcoin-best,coolcoin.best,"coolc
 PandPay.net,exchange,100,1,45,5,BTC,manual-admin,pandpay-net,pandpay.net,"pandpay,pandpay.net",,manual,2026-09-10,true,5de170b4d47199ac36a99879a3847932cc035e336a15d57160fcf05490830eb0
 Bityard.com,exchange,100,1,55,6,ETH,manual-admin,bityard-com,bityard.com,"bityard,bityard.com",,manual,2026-09-10,true,62b9e738e25945354c8d100f080dfa590e0d66da2c52a3f5d1fa7c2c542c6f15
 USAT,stablecoin_issuer,100,1,10,1,ETH,manual-admin,usat,usat.io,"usat,usa-t,dollars that move",,manual,2026-09-10,true,e1ac46f75dd89c6557d8690c9c262cb4c1751f430e00580b8dd1da97bb4552d1
+Biex.com,exchange,100,1,10,1,,manual-admin,biex-com,biex.com,"biex,biex.com",,manual,2026-09-10,true,e8e94e1356f2d00b812ee6d7409af075445c67248decee48857098be02b54b85
+OmniTrade.io,exchange,100,1,10,1,,manual-admin,omnitrade-io,omnitrade.io,"omnitrade,omni trade",,manual,2026-09-10,true,9edafe33088c31c3fcfeca2e035df45986e6f84f51a4e2a090229b4a9e826cde
+AmplifyExchange.com,exchange,100,1,10,1,,manual-admin,amplifyexchange-com,amplifyexchange.com,"amplify exchange,amplifyexchange",,manual,2026-09-10,true,b112fcfdaaa4d8d65c624dabab3e2cb0165d3b13665694d2e1cb9cbfbc9260ed
+Swipelux.com,psp,100,1,10,1,,manual-admin,swipelux-com,swipelux.com,"swipelux,swipe lux",,manual,2026-09-10,true,8ff3028b55dbf40dd6ec0c3a20d289e83532dd5b7e92d1d18a08b9fd8fd45cd1
+DMarket,nft_marketplace,100,1,10,1,,manual-admin,dmarket,dmarket.com,"dmarket,d market",,manual,2026-09-10,true,0ab8a2c009e79cf0109fb4aac67d364ddead176e90f8beaaa2e10e7d987ace27

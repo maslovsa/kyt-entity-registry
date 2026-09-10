@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-10T15:23:00+00:00",
+  "generated_at": "2026-09-10T15:42:59+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -29582,6 +29582,61 @@
         "usat",
         "usa-t",
         "dollars that move"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "biex-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/biex-com.png",
+      "keywords": [
+        "biex",
+        "biex.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "omnitrade-io",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/omnitrade-io.png",
+      "keywords": [
+        "omnitrade",
+        "omni trade"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "amplifyexchange-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/amplifyexchange-com.png",
+      "keywords": [
+        "amplify exchange",
+        "amplifyexchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "swipelux-com",
+      "category": "psp",
+      "logo_path": "logos/psp/swipelux-com.png",
+      "keywords": [
+        "swipelux",
+        "swipe lux"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dmarket",
+      "category": "nft_marketplace",
+      "logo_path": "logos/nft_marketplace/dmarket.png",
+      "keywords": [
+        "dmarket",
+        "d market"
       ],
       "product_aliases": [],
       "sanctioned": false
