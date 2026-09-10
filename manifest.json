@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-10T12:22:15+00:00",
+  "generated_at": "2026-09-10T12:34:52+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -29143,6 +29143,64 @@
         "localcryptos",
         "local cryptos",
         "localethereum"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitcoinsov",
+      "category": "defi",
+      "logo_path": "logos/defi/bitcoinsov.png",
+      "keywords": [
+        "bitcoinsov",
+        "bsov",
+        "bsov token"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "izzy",
+      "category": "defi",
+      "logo_path": "logos/defi/izzy.png",
+      "keywords": [
+        "izzy",
+        "izzy coin"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "flata-exchange",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/flata-exchange.png",
+      "keywords": [
+        "flata exchange",
+        "flata",
+        "플랫타 익스체인지"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "nft-trade",
+      "category": "dex",
+      "logo_path": "logos/dex/nft-trade.png",
+      "keywords": [
+        "nftrade",
+        "nft trade"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "e-dollar-ng",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/e-dollar-ng.png",
+      "keywords": [
+        "e-dollar",
+        "e-dollar.ng",
+        "e-dollar.com.ng"
       ],
       "product_aliases": [],
       "sanctioned": false
