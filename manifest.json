@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-10T16:41:00+00:00",
+  "generated_at": "2026-09-10T16:43:40+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -29770,6 +29770,17 @@
       "keywords": [
         "coredax",
         "core dax"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "crypto-store-cc",
+      "category": "p2p",
+      "logo_path": "logos/p2p/crypto-store-cc.png",
+      "keywords": [
+        "crypto store",
+        "cryptostore"
       ],
       "product_aliases": [],
       "sanctioned": false
