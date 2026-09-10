@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-10T09:18:17+00:00",
+  "generated_at": "2026-09-10T10:12:59+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28542,6 +28542,17 @@
       "keywords": [
         "etorox",
         "etorox.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mbaex-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/mbaex-com.png",
+      "keywords": [
+        "mbaex",
+        "mbaex.com"
       ],
       "product_aliases": [],
       "sanctioned": false
