@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-10T16:43:40+00:00",
+  "generated_at": "2026-09-10T16:58:32+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -29781,6 +29781,28 @@
       "keywords": [
         "crypto store",
         "cryptostore"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "x-pay-cc",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/x-pay-cc.png",
+      "keywords": [
+        "x-pay",
+        "xpay"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "lvl-co",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/lvl-co.png",
+      "keywords": [
+        "lvl",
+        "lvl.co"
       ],
       "product_aliases": [],
       "sanctioned": false
