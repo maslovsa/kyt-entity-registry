@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-10T11:13:15+00:00",
+  "generated_at": "2026-09-10T11:38:57+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28859,6 +28859,90 @@
       "keywords": [
         "zitcexchange.com",
         "zitcexchange-com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kanga-exchange",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/kanga-exchange.png",
+      "keywords": [
+        "kanga.exchange",
+        "kanga-exchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kikitrade-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/kikitrade-com.png",
+      "keywords": [
+        "kikitrade.com",
+        "kikitrade-com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "alfachange-net",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/alfachange-net.png",
+      "keywords": [
+        "alfachange.net"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "exwhite-io",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/exwhite-io.png",
+      "keywords": [
+        "exwhite.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "monetkin-me",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/monetkin-me.png",
+      "keywords": [
+        "monetkin.me"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "prostocash-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/prostocash-com.png",
+      "keywords": [
+        "prostocash.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "btctenge-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/btctenge-com.png",
+      "keywords": [
+        "btctenge.com",
+        "btctenge-com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bonkypay-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bonkypay-com.png",
+      "keywords": [
+        "bonkypay.com",
+        "bonkypay-com"
       ],
       "product_aliases": [],
       "sanctioned": false
