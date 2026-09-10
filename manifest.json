@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-10T15:19:24+00:00",
+  "generated_at": "2026-09-10T15:23:00+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -29570,6 +29570,18 @@
       "keywords": [
         "bityard",
         "bityard.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "usat",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/usat.png",
+      "keywords": [
+        "usat",
+        "usa-t",
+        "dollars that move"
       ],
       "product_aliases": [],
       "sanctioned": false

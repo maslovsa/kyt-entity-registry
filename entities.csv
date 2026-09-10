@@ -2907,3 +2907,4 @@ VHCEx.com,exchange,100,1,40,4,ETH,manual-admin,vhcex-com,vhcex.com,"vhcex,vhcex.
 CoolCoin.best,p2p,100,1,25,3,BSC,manual-admin,coolcoin-best,coolcoin.best,"coolcoin,coolcoin.best",,manual,2026-09-10,true,c977d2ac44be545bfababda6afdeba0c598804f1b6200063bbd98c5b3776aef5
 PandPay.net,exchange,100,1,45,5,BTC,manual-admin,pandpay-net,pandpay.net,"pandpay,pandpay.net",,manual,2026-09-10,true,5de170b4d47199ac36a99879a3847932cc035e336a15d57160fcf05490830eb0
 Bityard.com,exchange,100,1,55,6,ETH,manual-admin,bityard-com,bityard.com,"bityard,bityard.com",,manual,2026-09-10,true,62b9e738e25945354c8d100f080dfa590e0d66da2c52a3f5d1fa7c2c542c6f15
+USAT,stablecoin_issuer,100,1,10,1,ETH,manual-admin,usat,usat.io,"usat,usa-t,dollars that move",,manual,2026-09-10,true,e1ac46f75dd89c6557d8690c9c262cb4c1751f430e00580b8dd1da97bb4552d1
