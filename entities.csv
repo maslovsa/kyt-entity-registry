@@ -2879,3 +2879,10 @@ Fei Protocol,defi,100,150,20,2,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,
 Antanta Travel,psp,100,2,20,2,BTC|TRON,manual-admin,antanta-travel,antantatravel.com,"antanta travel,antanta,антанта тревел",,manual,2026-09-10,true,3e3f1877eee5e5fb32c613b03311a9bc847d30b6ac6b75544e1d9a991f3b2315
 Hi.com,exchange,100,2,40,4,BTC|ETH,manual-admin,hi-com,hi.com,"hi.com,hi,hi neobank",,manual,2026-09-10,true,2cc1f12d17c4524585d1b3e7204e4445a6d7e79f76d9b5c5aa8036b0b7bfc89b
 FidelityDigitalAssets.com,custodian,100,2,10,1,ETH,manual-admin,fidelitydigitalassets-com,fidelitydigitalassets.com,"fidelity digital assets,fidelity crypto,fidelity",,manual,2026-09-10,true,c482e1284cbb0c358783581773e2cd96eda1886d4bb2711801d4c986a34dfdae
+Wyre,psp,100,2,20,2,BTC|ETH,manual-admin,wyre,sendwyre.com,"wyre,sendwyre,rockwallet",,manual,2026-09-10,true,c061733e7b7bfbc1c1b6b306e5d21c1f3eb4132864dabbe9523e141a68fc87d2
+AuraeLifestyle.com,exchange,100,2,20,2,BTC|ETH,manual-admin,auraelifestyle-com,auraelifestyle.com,"aurae lifestyle,auraelifestyle",,manual,2026-09-10,true,3ad0b5a5cc6e6aa7e4fad31f0d4131787345e3e480852496d9ad572f5eb6a2d0
+Bitcoin-mjenjacnica.hr,exchange,100,2,40,4,BTC|ETH,manual-admin,bitcoin-mjenjacnica-hr,bitcoin-mjenjacnica.hr,"bitcoin mjenjacnica,bitcoin-mjenjacnica.hr",,manual,2026-09-10,true,8022cf2999e965c77d7fcfad3e45c7ddb0c89de1ed049a6ea709d19652b0db06
+Matrix.co,exchange,100,2,20,2,ETH|LTC,manual-admin,matrix-co,matrix.co,"matrix.co,matrix crypto gateway",,manual,2026-09-10,true,a196829c28e4be00e8e168522acb5375dd0229edbe3659b5fd16f924e90311ed
+OK-BIT.com,exchange,100,2,55,6,ETH,manual-admin,ok-bit-com,ok-bit.com,"okbit,ok-bit,ok-bit.com",,manual,2026-09-10,true,ac1d5bc81b051cd47cdb421d77ea4da42027251deeacbac094517c11f03dec81
+JostPay.com,exchange,100,2,55,6,ETH,manual-admin,jostpay-com,jostpay.com,"jostpay,jostpay.com",,manual,2026-09-10,true,e5f139b59f18ddb16778312dfab860dcbc50c0ff874521af38f9987ab18525df
+Volabit.com,exchange,100,2,40,4,BTC|ETH,manual-admin,volabit-com,volabit.com,"volabit,volabit.com",,manual,2026-09-10,true,4a9014bbf88aaf68456695105332b3ac875305fa99a73a281cdbeb22a0d67a16

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-10T12:43:59+00:00",
+  "generated_at": "2026-09-10T12:49:54+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -29249,6 +29249,85 @@
         "fidelity digital assets",
         "fidelity crypto",
         "fidelity"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "wyre",
+      "category": "psp",
+      "logo_path": "logos/psp/wyre.png",
+      "keywords": [
+        "wyre",
+        "sendwyre",
+        "rockwallet"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "auraelifestyle-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/auraelifestyle-com.png",
+      "keywords": [
+        "aurae lifestyle",
+        "auraelifestyle"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitcoin-mjenjacnica-hr",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bitcoin-mjenjacnica-hr.png",
+      "keywords": [
+        "bitcoin mjenjacnica",
+        "bitcoin-mjenjacnica.hr"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "matrix-co",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/matrix-co.png",
+      "keywords": [
+        "matrix.co",
+        "matrix crypto gateway"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ok-bit-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/ok-bit-com.png",
+      "keywords": [
+        "okbit",
+        "ok-bit",
+        "ok-bit.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "jostpay-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/jostpay-com.png",
+      "keywords": [
+        "jostpay",
+        "jostpay.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "volabit-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/volabit-com.png",
+      "keywords": [
+        "volabit",
+        "volabit.com"
       ],
       "product_aliases": [],
       "sanctioned": false
