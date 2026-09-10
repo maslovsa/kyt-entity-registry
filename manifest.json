@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-10T10:18:17+00:00",
+  "generated_at": "2026-09-10T10:44:39+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28586,6 +28586,17 @@
       "keywords": [
         "tokenize xchange",
         "tokenizemalaysia.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tauros-io",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/tauros-io.png",
+      "keywords": [
+        "tauros",
+        "tauros.io"
       ],
       "product_aliases": [],
       "sanctioned": false
