@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-10T15:42:59+00:00",
+  "generated_at": "2026-09-10T15:49:14+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -29637,6 +29637,28 @@
       "keywords": [
         "dmarket",
         "d market"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "homecoin",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/homecoin.png",
+      "keywords": [
+        "homecoin",
+        "home coin"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ginero-io",
+      "category": "p2p",
+      "logo_path": "logos/p2p/ginero-io.png",
+      "keywords": [
+        "ginero",
+        "ginero.io"
       ],
       "product_aliases": [],
       "sanctioned": false
