@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-10T16:58:32+00:00",
+  "generated_at": "2026-09-10T17:02:59+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -29803,6 +29803,17 @@
       "keywords": [
         "lvl",
         "lvl.co"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitkonan-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bitkonan-com.png",
+      "keywords": [
+        "bitkonan",
+        "bit konan"
       ],
       "product_aliases": [],
       "sanctioned": false
