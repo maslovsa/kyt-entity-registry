@@ -2929,3 +2929,7 @@ Crypto-Store.cc,p2p,100,1,10,1,,manual-admin,crypto-store-cc,crypto-store.cc,"cr
 X-Pay.cc,exchange,100,1,10,1,,manual-admin,x-pay-cc,x-pay.cc,"x-pay,xpay",,manual,2026-09-10,true,d229b0b5e9c2ea6b47415ddd10be2db73df447772079c58c5e1d80a828d5b58f
 LVL,exchange,100,1,10,1,,manual-admin,lvl-co,lvl.co,"lvl,lvl.co",,manual,2026-09-10,true,413913a66980ba7a80d05db7ac65f99334647e06135daff089f5e2118ce8866e
 BitKonan,exchange,100,1,10,1,,manual-admin,bitkonan-com,bitkonan.com,"bitkonan,bit konan",,manual,2026-09-10,true,defafc2719b293284413d244963fc9925dab4df3222ca78dc37f448745f0bcab
+Rarebits.io,nft_marketplace,100,1,10,1,,manual-admin,rarebits-io,,"rarebits,rare bits",,synthetic,2026-09-10,false,3eeb39025e8cc0837d6af80c1a35d2ba6d7f877a6adfff2d35e9cbc524698444
+PoloniDEX,dex,100,1,10,1,TRX,manual-admin,polonidex,polonidex.com,"polonidex,trxmarket",,synthetic,2026-09-10,false,cf552c15d18a46d4befa6cbd7e0e5a09d79fe1ce3d7706d42c50a512ada6ce8f
+EMX.com,exchange,100,1,10,1,,manual-admin,emx-com,emx.com,"emx,evermarkets",,synthetic,2026-09-10,false,f9089cd9104e519f1f4768b4c3cffc3735530347ad0f63d9f6f88a7dea3d9c0f
+Quickbit.com,psp,100,1,10,1,,manual-admin,quickbit-com,quickbit.com,"quickbit,quick bit",,synthetic,2026-09-10,false,3f977364cd071082bcc186dd4577133b43bcae0c9d131bdf5ee50dc97151b46f

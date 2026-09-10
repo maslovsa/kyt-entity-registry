@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-10T17:02:59+00:00",
+  "generated_at": "2026-09-10T17:22:37+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -29814,6 +29814,50 @@
       "keywords": [
         "bitkonan",
         "bit konan"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "rarebits-io",
+      "category": "nft_marketplace",
+      "logo_path": "logos/nft_marketplace/rarebits-io.png",
+      "keywords": [
+        "rarebits",
+        "rare bits"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "polonidex",
+      "category": "dex",
+      "logo_path": "logos/dex/polonidex.png",
+      "keywords": [
+        "polonidex",
+        "trxmarket"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "emx-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/emx-com.png",
+      "keywords": [
+        "emx",
+        "evermarkets"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "quickbit-com",
+      "category": "psp",
+      "logo_path": "logos/psp/quickbit-com.png",
+      "keywords": [
+        "quickbit",
+        "quick bit"
       ],
       "product_aliases": [],
       "sanctioned": false
