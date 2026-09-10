@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-10T17:22:37+00:00",
+  "generated_at": "2026-09-10T17:30:47+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -29858,6 +29858,17 @@
       "keywords": [
         "quickbit",
         "quick bit"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "nexus",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/nexus.png",
+      "keywords": [
+        "nexus nex stablecoin",
+        "nexus algorithmic usd"
       ],
       "product_aliases": [],
       "sanctioned": false
