@@ -2886,3 +2886,10 @@ Matrix.co,exchange,100,2,20,2,ETH|LTC,manual-admin,matrix-co,matrix.co,"matrix.c
 OK-BIT.com,exchange,100,2,55,6,ETH,manual-admin,ok-bit-com,ok-bit.com,"okbit,ok-bit,ok-bit.com",,manual,2026-09-10,true,ac1d5bc81b051cd47cdb421d77ea4da42027251deeacbac094517c11f03dec81
 JostPay.com,exchange,100,2,55,6,ETH,manual-admin,jostpay-com,jostpay.com,"jostpay,jostpay.com",,manual,2026-09-10,true,e5f139b59f18ddb16778312dfab860dcbc50c0ff874521af38f9987ab18525df
 Volabit.com,exchange,100,2,40,4,BTC|ETH,manual-admin,volabit-com,volabit.com,"volabit,volabit.com",,manual,2026-09-10,true,4a9014bbf88aaf68456695105332b3ac875305fa99a73a281cdbeb22a0d67a16
+CryptiaExchange.com,exchange,100,2,20,2,ETH,manual-admin,cryptiaexchange-com,cryptiaexchange.com,"cryptia exchange,cryptiaexchange.com",,manual,2026-09-10,true,6b605a4288229ecc67d38f5a7cbc03bd66c6f313b7c092689e054f47b12266fe
+TetherLand.com,exchange,100,2,40,4,BTC|ETH,manual-admin,tetherland-com,tetherland.com,"tetherland,تترلند",,manual,2026-09-10,true,bac1ea47ac21f1183c24b85d7580a9ec02e3c6c289be3f40f6707013cad7ba4a
+Anchored Coins AEUR,stablecoin_issuer,100,2,10,1,BSC|ETH,manual-admin,anchored-coins-aeur,anchoredcoins.com,"anchored coins,aeur,anchored coins ag",,manual,2026-09-10,true,102d08e1ff5823d6d715fe54e164d119e86e43b7dccaacb002115331ee058222
+Obmin24 / X-Change,exchange,100,2,45,5,ETH|LTC,manual-admin,obmin24-x-change,x-change.com.ua,"obmin24,x-change,x-change.com.ua",,manual,2026-09-10,true,c3e60cd9961a86a1bd96c8cc348c24c298fbbf8bce8b7d2d237e5d7730c3912e
+Dollar on Chain,stablecoin_issuer,100,2,15,2,ARBITRUM|ETH,manual-admin,dollar-on-chain,moneyonchain.com,"dollar on chain,doc,money on chain",,manual,2026-09-10,true,508abac3555903b6e2868c3136e7b6374e743bddd87f08732ad8aaecc24269b8
+CryptoRefills.com,p2p,100,2,25,3,BTC|ETH,manual-admin,cryptorefills-com,cryptorefills.com,"cryptorefills,crypto refills",,manual,2026-09-10,true,3f94d70f2436141b0e3939e7995bec2b1b2ff02eb9ed3311b6986b7c3e570107
+JPY Coin,stablecoin_issuer,100,2,10,1,ETH|POLYGON,manual-admin,jpy-coin,jpyc.co.jp,"jpy coin,jpyc,jpyc inc",,manual,2026-09-10,true,20a6a0d27adea14b884530f1def31290381055169fbf45f8707ceb78c315673c

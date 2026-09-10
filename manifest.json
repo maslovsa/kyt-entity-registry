@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-10T12:49:54+00:00",
+  "generated_at": "2026-09-10T13:11:55+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -29328,6 +29328,87 @@
       "keywords": [
         "volabit",
         "volabit.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cryptiaexchange-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/cryptiaexchange-com.png",
+      "keywords": [
+        "cryptia exchange",
+        "cryptiaexchange.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tetherland-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/tetherland-com.png",
+      "keywords": [
+        "tetherland",
+        "تترلند"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "anchored-coins-aeur",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/anchored-coins-aeur.png",
+      "keywords": [
+        "anchored coins",
+        "aeur",
+        "anchored coins ag"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "obmin24-x-change",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/obmin24-x-change.png",
+      "keywords": [
+        "obmin24",
+        "x-change",
+        "x-change.com.ua"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dollar-on-chain",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/dollar-on-chain.png",
+      "keywords": [
+        "dollar on chain",
+        "doc",
+        "money on chain"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cryptorefills-com",
+      "category": "p2p",
+      "logo_path": "logos/p2p/cryptorefills-com.png",
+      "keywords": [
+        "cryptorefills",
+        "crypto refills"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "jpy-coin",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/jpy-coin.png",
+      "keywords": [
+        "jpy coin",
+        "jpyc",
+        "jpyc inc"
       ],
       "product_aliases": [],
       "sanctioned": false
