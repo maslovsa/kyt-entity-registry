@@ -2822,3 +2822,4 @@ Lykke.com,exchange,100,5186,74,5,ETH,manual-admin,lykke-com,lykke.com,"lykke,lyk
 TokenizeMalaysia.com,exchange,100,3705,15,5,ETH|BTC,manual-admin,tokenizemalaysia-com,tokenizemalaysia.com,"tokenize xchange,tokenizemalaysia.com",,manual,2026-09-10,true,e6e116401921feaf04b45e7c1959a991c8ac2c1362e67fea157dd8fb40d6fc57
 Tauros.io,exchange,100,973,65,5,ETH|BTC|LTC,manual-admin,tauros-io,tauros.io,"tauros,tauros.io",,manual,2026-09-10,true,7b41efa01db8a85fc18f0aa7bb4f3936e515d5509843f952ef61e876dc5447bd
 CheckSig,custodian,100,247,24,5,BTC,manual-admin,checksig-com,checksig.com,"checksig,checksig.com",,manual,2026-09-10,true,b809207a3b6224b6e27cd7be724f3e4639839187e1b91b5e0531f7d39530aa47
+TrueUSD,stablecoin_issuer,100,9,,,ETH|BSC|TRON|POLYGON|AVALANCHE|ARBITRUM|OPTIMISM|FANTOM,manual-admin,true-usd,tusd.io,"trueusd,tusd,tusd.io",,manual,2026-09-10,true,f6ded42e58debec123c8e97a90344bade73f9393e34a60ab04e2ea4a90444619
