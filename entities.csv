@@ -2893,3 +2893,4 @@ Obmin24 / X-Change,exchange,100,2,45,5,ETH|LTC,manual-admin,obmin24-x-change,x-c
 Dollar on Chain,stablecoin_issuer,100,2,15,2,ARBITRUM|ETH,manual-admin,dollar-on-chain,moneyonchain.com,"dollar on chain,doc,money on chain",,manual,2026-09-10,true,508abac3555903b6e2868c3136e7b6374e743bddd87f08732ad8aaecc24269b8
 CryptoRefills.com,p2p,100,2,25,3,BTC|ETH,manual-admin,cryptorefills-com,cryptorefills.com,"cryptorefills,crypto refills",,manual,2026-09-10,true,3f94d70f2436141b0e3939e7995bec2b1b2ff02eb9ed3311b6986b7c3e570107
 JPY Coin,stablecoin_issuer,100,2,10,1,ETH|POLYGON,manual-admin,jpy-coin,jpyc.co.jp,"jpy coin,jpyc,jpyc inc",,manual,2026-09-10,true,20a6a0d27adea14b884530f1def31290381055169fbf45f8707ceb78c315673c
+Arbuz,exchange,100,1,40,4,BTC,manual-admin,arbuz-io,arbuz.io,"arbuz,arbuz.io,арбуз обменник",,manual,2026-09-10,true,13413e4485de6beb5eea552aa3c03c5999e23e49f9675ea7a619af600819e483

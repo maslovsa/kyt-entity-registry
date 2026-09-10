@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-10T13:11:55+00:00",
+  "generated_at": "2026-09-10T13:37:26+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -29409,6 +29409,18 @@
         "jpy coin",
         "jpyc",
         "jpyc inc"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "arbuz-io",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/arbuz-io.png",
+      "keywords": [
+        "arbuz",
+        "arbuz.io",
+        "арбуз обменник"
       ],
       "product_aliases": [],
       "sanctioned": false
