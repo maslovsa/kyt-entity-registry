@@ -2934,3 +2934,4 @@ PoloniDEX,dex,100,1,10,1,TRX,manual-admin,polonidex,polonidex.com,"polonidex,trx
 EMX.com,exchange,100,1,10,1,,manual-admin,emx-com,emx.com,"emx,evermarkets",,synthetic,2026-09-10,false,f9089cd9104e519f1f4768b4c3cffc3735530347ad0f63d9f6f88a7dea3d9c0f
 Quickbit.com,psp,100,1,10,1,,manual-admin,quickbit-com,quickbit.com,"quickbit,quick bit",,synthetic,2026-09-10,false,3f977364cd071082bcc186dd4577133b43bcae0c9d131bdf5ee50dc97151b46f
 Nexus,stablecoin_issuer,100,1,10,1,,manual-admin,nexus,zdex.tech,"nexus nex stablecoin,nexus algorithmic usd",,synthetic,2026-09-10,false,1ebaf0f339e469d054e9b991cc9893ae18b8295223152e64f707cc5298bb3928
+Bybis.com,exchange,100,1,10,1,,manual-admin,bybis-com,bybis.com,"bybis",,synthetic,2026-09-10,false,41e8f13a3d207c32f8b5754b58638c3589fd11d5c337cb9dcc4c832a5dd38ea1
