@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-10T09:13:11+00:00",
+  "generated_at": "2026-09-10T09:15:58+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28521,6 +28521,16 @@
         "fortresstrust.com",
         "fortress trust",
         "elemental financial technologies"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "exch-cx",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/exch-cx.png",
+      "keywords": [
+        "exch.cx"
       ],
       "product_aliases": [],
       "sanctioned": false
