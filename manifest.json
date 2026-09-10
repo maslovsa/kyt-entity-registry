@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-10T10:14:35+00:00",
+  "generated_at": "2026-09-10T10:15:40+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28564,6 +28564,17 @@
       "keywords": [
         "bitpoint",
         "bitpoint.co.jp"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "lykke-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/lykke-com.png",
+      "keywords": [
+        "lykke",
+        "lykke.com"
       ],
       "product_aliases": [],
       "sanctioned": false
