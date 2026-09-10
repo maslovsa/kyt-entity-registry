@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-10T18:14:59+00:00",
+  "generated_at": "2026-09-10T18:19:56+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -29879,6 +29879,28 @@
       "logo_path": "logos/exchanges/bybis-com.png",
       "keywords": [
         "bybis"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "chainx-kr",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/chainx-kr.png",
+      "keywords": [
+        "chainx.kr",
+        "chainx exchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "instabit",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/instabit.png",
+      "keywords": [
+        "instabit",
+        "instabit.pro"
       ],
       "product_aliases": [],
       "sanctioned": false
