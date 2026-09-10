@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-10T18:19:56+00:00",
+  "generated_at": "2026-09-10T18:53:24+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -29901,6 +29901,29 @@
       "keywords": [
         "instabit",
         "instabit.pro"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "nge-ng",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/nge-ng.png",
+      "keywords": [
+        "nge",
+        "nigeria gold exchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "maxx-markets",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/maxx-markets.png",
+      "keywords": [
+        "maxx markets",
+        "maxxmarkets",
+        "maxxchain"
       ],
       "product_aliases": [],
       "sanctioned": false

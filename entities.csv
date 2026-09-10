@@ -2937,3 +2937,5 @@ Nexus,stablecoin_issuer,100,1,10,1,,manual-admin,nexus,zdex.tech,"nexus nex stab
 Bybis.com,exchange,100,1,10,1,,manual-admin,bybis-com,bybis.com,"bybis",,synthetic,2026-09-10,false,41e8f13a3d207c32f8b5754b58638c3589fd11d5c337cb9dcc4c832a5dd38ea1
 ChainX.kr,exchange,100,1,10,1,,manual-admin,chainx-kr,chainx.kr,"chainx.kr,chainx exchange",,manual,2026-09-10,true,02e3d7c5914e4ea17e088d47c58292893c617d12320fc083060615f4e60dff15
 Instabit,exchange,100,1,10,1,TRX,manual-admin,instabit,instabit.pro,"instabit,instabit.pro",,manual,2026-09-10,true,2d62e929d78f92bf2a8980e294c53bff2bad31f87a18518b26698ecad4a20cd1
+NGE.ng,exchange,100,1,10,1,,manual-admin,nge-ng,nigeriagoldexchange.ng,"nge,nigeria gold exchange",,manual,2026-09-10,true,60e3b4d2bda50b3dcc80f9db19dc40c408b7518c4befd02dcc91ab1db43b2abc
+Maxx Markets,exchange,100,1,10,1,,manual-admin,maxx-markets,maxx.exchange,"maxx markets,maxxmarkets,maxxchain",,manual,2026-09-10,true,afcf4bebfe589bc4d6791b405c31f5981ecb46dabb2152d93a4ef4a1ea2e100b
