@@ -2875,3 +2875,4 @@ Izzy,defi,100,7,25,3,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,manual-adm
 Flata.Exchange,exchange,100,7,40,4,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,manual-admin,flata-exchange,flata.exchange,"flata exchange,flata,플랫타 익스체인지",,manual,2026-09-10,true,fc6e5174020a4d49cbf9eedf8b16e8503c887bb264411b2cb8f991f09828e55e
 NFT trade,dex,100,4,20,2,ETH,manual-admin,nft-trade,nftrade.com,"nftrade,nft trade",,manual,2026-09-10,true,efb680690c39c9edb884735debb18e103cf657d401e0ceb9032ed2c23b62398a
 E-Dollar.ng,exchange,100,3,55,6,BTC|ETH,manual-admin,e-dollar-ng,e-dollar.com.ng,"e-dollar,e-dollar.ng,e-dollar.com.ng",,manual,2026-09-10,true,f5b8c80741e48eeca2c0934bda12da64f6c29a37bbe1caca1ae27be8337b54f2
+Fei Protocol,defi,100,150,20,2,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,manual-admin,fei-protocol,fei.money,"fei protocol,fei,tribe dao",,manual,2026-09-10,true,d23cb2d8247019a97692bd37c9a459471a9a85749217185e756ecb1569a89b39

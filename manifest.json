@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-10T12:34:52+00:00",
+  "generated_at": "2026-09-10T12:36:45+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -29201,6 +29201,18 @@
         "e-dollar",
         "e-dollar.ng",
         "e-dollar.com.ng"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "fei-protocol",
+      "category": "defi",
+      "logo_path": "logos/defi/fei-protocol.png",
+      "keywords": [
+        "fei protocol",
+        "fei",
+        "tribe dao"
       ],
       "product_aliases": [],
       "sanctioned": false
