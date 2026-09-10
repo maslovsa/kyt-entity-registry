@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-10T10:44:39+00:00",
+  "generated_at": "2026-09-10T10:45:53+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28597,6 +28597,17 @@
       "keywords": [
         "tauros",
         "tauros.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "checksig-com",
+      "category": "custodian",
+      "logo_path": "logos/custodian/checksig-com.png",
+      "keywords": [
+        "checksig",
+        "checksig.com"
       ],
       "product_aliases": [],
       "sanctioned": false
