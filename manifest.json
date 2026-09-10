@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-10T13:48:27+00:00",
+  "generated_at": "2026-09-10T13:53:56+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -29492,6 +29492,28 @@
       "keywords": [
         "rand4dollar",
         "rand4dollar.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "basichange-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/basichange-com.png",
+      "keywords": [
+        "basichange",
+        "basichange.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ramzbank-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/ramzbank-com.png",
+      "keywords": [
+        "ramzbank",
+        "رمز‌بانک"
       ],
       "product_aliases": [],
       "sanctioned": false
