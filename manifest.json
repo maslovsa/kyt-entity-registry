@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-10T11:38:57+00:00",
+  "generated_at": "2026-09-10T12:08:14+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28943,6 +28943,134 @@
       "keywords": [
         "bonkypay.com",
         "bonkypay-com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tron-network",
+      "category": "staking_provider",
+      "logo_path": "logos/staking_provider/tron-network.png",
+      "keywords": [
+        "tron",
+        "tron network",
+        "trondao",
+        "trx"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "speciewallet-io",
+      "category": "custodian",
+      "logo_path": "logos/custodian/speciewallet-io.png",
+      "keywords": [
+        "specie wallet",
+        "speciewallet",
+        "speciewallet.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "orbital-pay",
+      "category": "psp",
+      "logo_path": "logos/psp/orbital-pay.png",
+      "keywords": [
+        "orbital",
+        "orbital pay",
+        "pay perform limited",
+        "getorbital"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "nexus-mutual",
+      "category": "defi",
+      "logo_path": "logos/defi/nexus-mutual.png",
+      "keywords": [
+        "nexus mutual",
+        "nxm"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "sableclub-com",
+      "category": "custodian",
+      "logo_path": "logos/custodian/sableclub-com.png",
+      "keywords": [
+        "sable club",
+        "sable club holdings"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "f2pool",
+      "category": "mining",
+      "logo_path": "logos/mining/f2pool.png",
+      "keywords": [
+        "f2pool",
+        "f2pool.com",
+        "discus fish"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ethpool",
+      "category": "mining",
+      "logo_path": "logos/mining/ethpool.png",
+      "keywords": [
+        "ethpool",
+        "ethpool.org"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "babel-finance",
+      "category": "custodian",
+      "logo_path": "logos/custodian/babel-finance.png",
+      "keywords": [
+        "babel finance",
+        "babel.finance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "geco-one",
+      "category": "defi",
+      "logo_path": "logos/defi/geco-one.png",
+      "keywords": [
+        "geco",
+        "geco.one",
+        "geco one"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "genesis-mining",
+      "category": "mining",
+      "logo_path": "logos/mining/genesis-mining.png",
+      "keywords": [
+        "genesis mining",
+        "genesis-mining.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "digipools",
+      "category": "mining",
+      "logo_path": "logos/mining/digipools.png",
+      "keywords": [
+        "digipools",
+        "digipools.org"
       ],
       "product_aliases": [],
       "sanctioned": false
