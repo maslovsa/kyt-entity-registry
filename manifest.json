@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-06T20:46:57+00:00",
+  "generated_at": "2026-09-10T09:13:11+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -28508,6 +28508,19 @@
       "keywords": [
         "stormgain",
         "stormgain.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "fortresstrust-com",
+      "category": "custodian",
+      "logo_path": "logos/custodian/fortresstrust-com.png",
+      "keywords": [
+        "fortresstrust",
+        "fortresstrust.com",
+        "fortress trust",
+        "elemental financial technologies"
       ],
       "product_aliases": [],
       "sanctioned": false
