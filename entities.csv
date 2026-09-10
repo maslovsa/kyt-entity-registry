@@ -2876,3 +2876,6 @@ Flata.Exchange,exchange,100,7,40,4,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLY
 NFT trade,dex,100,4,20,2,ETH,manual-admin,nft-trade,nftrade.com,"nftrade,nft trade",,manual,2026-09-10,true,efb680690c39c9edb884735debb18e103cf657d401e0ceb9032ed2c23b62398a
 E-Dollar.ng,exchange,100,3,55,6,BTC|ETH,manual-admin,e-dollar-ng,e-dollar.com.ng,"e-dollar,e-dollar.ng,e-dollar.com.ng",,manual,2026-09-10,true,f5b8c80741e48eeca2c0934bda12da64f6c29a37bbe1caca1ae27be8337b54f2
 Fei Protocol,defi,100,150,20,2,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,manual-admin,fei-protocol,fei.money,"fei protocol,fei,tribe dao",,manual,2026-09-10,true,d23cb2d8247019a97692bd37c9a459471a9a85749217185e756ecb1569a89b39
+Antanta Travel,psp,100,2,20,2,BTC|TRON,manual-admin,antanta-travel,antantatravel.com,"antanta travel,antanta,антанта тревел",,manual,2026-09-10,true,3e3f1877eee5e5fb32c613b03311a9bc847d30b6ac6b75544e1d9a991f3b2315
+Hi.com,exchange,100,2,40,4,BTC|ETH,manual-admin,hi-com,hi.com,"hi.com,hi,hi neobank",,manual,2026-09-10,true,2cc1f12d17c4524585d1b3e7204e4445a6d7e79f76d9b5c5aa8036b0b7bfc89b
+FidelityDigitalAssets.com,custodian,100,2,10,1,ETH,manual-admin,fidelitydigitalassets-com,fidelitydigitalassets.com,"fidelity digital assets,fidelity crypto,fidelity",,manual,2026-09-10,true,c482e1284cbb0c358783581773e2cd96eda1886d4bb2711801d4c986a34dfdae

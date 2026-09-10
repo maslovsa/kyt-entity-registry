@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-10T12:36:45+00:00",
+  "generated_at": "2026-09-10T12:43:59+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -29213,6 +29213,42 @@
         "fei protocol",
         "fei",
         "tribe dao"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "antanta-travel",
+      "category": "psp",
+      "logo_path": "logos/psp/antanta-travel.png",
+      "keywords": [
+        "antanta travel",
+        "antanta",
+        "антанта тревел"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hi-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/hi-com.png",
+      "keywords": [
+        "hi.com",
+        "hi",
+        "hi neobank"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "fidelitydigitalassets-com",
+      "category": "custodian",
+      "logo_path": "logos/custodian/fidelitydigitalassets-com.png",
+      "keywords": [
+        "fidelity digital assets",
+        "fidelity crypto",
+        "fidelity"
       ],
       "product_aliases": [],
       "sanctioned": false
