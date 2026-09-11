@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-10T18:53:24+00:00",
+  "generated_at": "2026-09-11T07:16:33+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -29924,6 +29924,28 @@
         "maxx markets",
         "maxxmarkets",
         "maxxchain"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitcoin-suisse-com",
+      "category": "otc_desk",
+      "logo_path": "logos/otc_desk/bitcoin-suisse-com.png",
+      "keywords": [
+        "bitcoin suisse",
+        "bitcoinsuisse"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "lucky-fun-casino",
+      "category": "gambling",
+      "logo_path": "logos/gambling/lucky-fun-casino.png",
+      "keywords": [
+        "lucky.fun",
+        "luckyfun"
       ],
       "product_aliases": [],
       "sanctioned": false

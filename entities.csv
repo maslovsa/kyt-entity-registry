@@ -2939,3 +2939,5 @@ ChainX.kr,exchange,100,1,10,1,,manual-admin,chainx-kr,chainx.kr,"chainx.kr,chain
 Instabit,exchange,100,1,10,1,TRX,manual-admin,instabit,instabit.pro,"instabit,instabit.pro",,manual,2026-09-10,true,2d62e929d78f92bf2a8980e294c53bff2bad31f87a18518b26698ecad4a20cd1
 NGE.ng,exchange,100,1,10,1,,manual-admin,nge-ng,nigeriagoldexchange.ng,"nge,nigeria gold exchange",,manual,2026-09-10,true,60e3b4d2bda50b3dcc80f9db19dc40c408b7518c4befd02dcc91ab1db43b2abc
 Maxx Markets,exchange,100,1,10,1,,manual-admin,maxx-markets,maxx.exchange,"maxx markets,maxxmarkets,maxxchain",,manual,2026-09-10,true,afcf4bebfe589bc4d6791b405c31f5981ecb46dabb2152d93a4ef4a1ea2e100b
+Bitcoin Suisse,otc_desk,80,8,80,3,ETH|ARBITRUM|BSC|BASE|AVALANCHE|OPTIMISM|POLYGON,manual-admin,bitcoin-suisse-com,bitcoinsuisse.com,"bitcoin suisse,bitcoinsuisse",,manual,2026-09-11,true,d1ea56fdc6f9f9ba83ff7cbd14a94c8a0844e5a179da9d12309e7916acc168aa
+Lucky.fun,gambling,60,6,80,3,TRON,manual-admin,lucky-fun-casino,lucky.fun,"lucky.fun,luckyfun",,manual,2026-09-11,true,be277398afc5044395be7bca3a51d06ba8d6340dd008b4fc8b5ef5a4c2e64e33
