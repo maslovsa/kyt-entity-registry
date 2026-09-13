@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-13T10:07:27+00:00",
+  "generated_at": "2026-09-13T10:25:12+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -30145,6 +30145,122 @@
         "xbt.kg",
         "my o",
         "baisanar"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "888tron-com",
+      "category": "gambling",
+      "logo_path": "logos/gambling/888tron-com.png",
+      "keywords": [
+        "888tron",
+        "888 tron"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "avalpardakht-com",
+      "category": "psp",
+      "logo_path": "logos/psp/avalpardakht-com.png",
+      "keywords": [
+        "avalpardakht"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "candyland-casino",
+      "category": "gambling",
+      "logo_path": "logos/gambling/candyland-casino.png",
+      "keywords": [
+        "candyland",
+        "candyland casino"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "capybara-kg",
+      "category": "p2p",
+      "logo_path": "logos/p2p/capybara-kg.png",
+      "keywords": [
+        "capybara",
+        "capybara.kg"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "earnbet-io",
+      "category": "gambling",
+      "logo_path": "logos/gambling/earnbet-io.png",
+      "keywords": [
+        "earnbet",
+        "earnbet.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gtcfx-com",
+      "category": "otc_desk",
+      "logo_path": "logos/otc_desk/gtcfx-com.png",
+      "keywords": [
+        "gtcfx"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "luckygames-io",
+      "category": "gambling",
+      "logo_path": "logos/gambling/luckygames-io.png",
+      "keywords": [
+        "luckygames",
+        "lucky games"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "rahakott-io",
+      "category": "mixer",
+      "logo_path": "logos/mixer/rahakott-io.png",
+      "keywords": [
+        "rahakott"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "vavada-com",
+      "category": "gambling",
+      "logo_path": "logos/gambling/vavada-com.png",
+      "keywords": [
+        "vavada"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "windice-io",
+      "category": "gambling",
+      "logo_path": "logos/gambling/windice-io.png",
+      "keywords": [
+        "windice",
+        "win dice"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "zota-com",
+      "category": "psp",
+      "logo_path": "logos/psp/zota-com.png",
+      "keywords": [
+        "zota"
       ],
       "product_aliases": [],
       "sanctioned": false

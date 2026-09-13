@@ -2959,3 +2959,14 @@ Trustee Plus,wallet,70,0,60,10,,manual-admin,trustee-plus,trustee.io,"trustee pl
 Trustee Wallet,wallet,70,0,60,10,,manual-admin,trustee-wallet,trustee.io,"trustee wallet,trustee",,manual,2026-09-13,true,74f6711c149d13b94973070fb272e2d571550c9f7a554a95015e671ed4f5bdde
 Whitepay,psp,70,0,60,10,,manual-admin,whitepay,whitepay.com,"whitepay",,manual,2026-09-13,true,ae045efd8d3a82facc98f9ec72d53b2bda1277616ef63508bfefdf4346d50ee6
 XBT.kg / My O! (Baisanar),exchange,70,0,60,10,,manual-admin,xbt-kg,xbt.kg,"xbt.kg,my o,baisanar",,manual,2026-09-13,true,e086afe2d37da3a2c92a582ad7e2f1ff298fcfc6b57cf2a5ff1f24bb45e36d52
+888Tron.com,gambling,70,0,60,10,TRON,manual-admin,888tron-com,888tron.com,"888tron,888 tron",,manual,2026-09-13,true,e3bbf66e7deacfa1e86c4cca72cb4865d612b51c12c787746a6377491a0dc2f7
+Avalpardakht.com,psp,70,0,60,10,TRON,manual-admin,avalpardakht-com,avalpardakht.com,"avalpardakht",,manual,2026-09-13,true,bcec7b8acbafa69f8e32c25ce38ac2db1cff1606a8d8c8b5b1e43ca7c62f49d7
+Candyland.Casino,gambling,70,0,60,10,BTC|LTC,manual-admin,candyland-casino,candyland.casino,"candyland,candyland casino",,manual,2026-09-13,true,b3256fef48ea530187376f4a8c60db89828dcd6947580ed1d294f54e2d473095
+Capybara.kg,p2p,70,0,60,10,TRON,manual-admin,capybara-kg,capybara.kg,"capybara,capybara.kg",,manual,2026-09-13,true,5bf588d58a8e2b0cd6d683fe4a137b3856f4c531a8f015681e2178ebb317cd8d
+EarnBet.io,gambling,70,0,60,10,BTC|ETH|LTC,manual-admin,earnbet-io,earnbet.io,"earnbet,earnbet.io",,manual,2026-09-13,true,156f8d15154d4a1a440a10df859b2447c87029f391e897f94f79f9da9e545b8e
+GTCFX.com,otc_desk,70,0,60,10,TRON,manual-admin,gtcfx-com,gtcfx.com,"gtcfx",,manual,2026-09-13,true,87beb619f05f8ef037cef95477489ca5f97573668d196b771d54927004cf36ab
+Luckygames.io,gambling,70,0,60,10,BTC|ETH|LTC,manual-admin,luckygames-io,luckygames.io,"luckygames,lucky games",,manual,2026-09-13,true,17439e9d1a70bd45b42071e5bb1410c92f42018ceaa71215ee7f76035264e052
+Rahakott.io,mixer,70,0,60,10,BTC|LTC,manual-admin,rahakott-io,rahakott.io,"rahakott",,manual,2026-09-13,true,0f013d6f3a652c45bcd23042ddb8dc483dfc72b7b9f5c0d0457a903944f435d2
+Vavada.com,gambling,70,0,60,10,BTC|LTC,manual-admin,vavada-com,vavada.com,"vavada",,manual,2026-09-13,true,43f6a6f2b143b689c86c5a8779e42ea89cb66642dacf0785b6963421250eb475
+WinDice.io,gambling,70,0,60,10,BTC|ETH|LTC,manual-admin,windice-io,windice.io,"windice,win dice",,manual,2026-09-13,true,1411773f686e003b74c31a1762a93dc88ae3811ca7e5459da340f207fa4665f9
+Zota.com,psp,70,0,60,10,TRON,manual-admin,zota-com,zota.com,"zota",,manual,2026-09-13,true,360fc86154a450781d54675f8228996222504477ff3bee8d7a76fbcc205ea873
