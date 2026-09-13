@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-11T07:16:33+00:00",
+  "generated_at": "2026-09-13T07:45:08+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -29949,6 +29949,19 @@
       ],
       "product_aliases": [],
       "sanctioned": false
+    },
+    {
+      "slug": "lazarus-group",
+      "category": "sanctioned",
+      "logo_path": "logos/sanctioned/lazarus-group.png",
+      "keywords": [
+        "lazarus",
+        "lazarus group",
+        "apt38",
+        "north korea hacking group"
+      ],
+      "product_aliases": [],
+      "sanctioned": true
     }
   ]
 }
