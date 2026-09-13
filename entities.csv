@@ -225,7 +225,7 @@ Umaproject,defi,100,291,70,5,ETH,ethereum-lists-contracts,umaproject,,,,syntheti
 UniBot,defi,100,168,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,unibot,,unibot,,arkham,2026-05-11,false,f3734b0f90a39e1f0075c8c93e4991f7112c8af02de59e92651f7c0f4a97bcf2
 Uniswap,dex,100,4279,90,10,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,arkham-intelligence|ethereum-lists-contracts|vasp-entity-defaults,uniswap,,uniswap,,arkham,2026-05-11,false,b924f21ac93e25331075d473882ace524510cf57667322584e04a276b6b383cf
 Uniswap V2,defi,100,52703,70,5,ETH,ethereum-lists-contracts,uniswap-v2,,"uniswap v2,uniswap-v2",,arkham,2026-06-19,false,b924f21ac93e25331075d473882ace524510cf57667322584e04a276b6b383cf
-Unlock,defi,100,337,70,5,ETH|POLYGON,ethereum-lists-contracts,unlock,,unlock,,arkham,2026-06-19,false,ba5fd3e23bace733d0474b5bbc5ef22cd2d13d83b4e8f85d31eaf9ab368814c3
+Unlock,defi,100,337,70,5,ETH|POLYGON,ethereum-lists-contracts,unlock,,unlock protocol,,arkham,2026-06-19,false,ba5fd3e23bace733d0474b5bbc5ef22cd2d13d83b4e8f85d31eaf9ab368814c3
 UwuLend First,defi,100,160,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,uwulend-first,,,,synthetic,2026-08-17,false,4294bd0351a09ee4035e8e236ebf4abb9573a7e9205994650607748e36da1285
 UwuLend Second,defi,100,112,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,uwulend-second,,uwulend,,synthetic,2026-08-17,false,487582a1d04e5c3bc1cdf42b20ae19e2a191bbc3ff70edc4e88e335333f5439c
 Venus,defi,100,515,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,ethereum-lists-contracts|vasp-entity-defaults,venus,,"venus,venus.io",,arkham,2026-05-26,false,5921ae4863fcf5d784b1fc66503552846226dbe67b4208e1f018839af703f6dc

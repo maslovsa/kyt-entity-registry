@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-13T10:30:53+00:00",
+  "generated_at": "2026-09-13T18:14:12+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -2215,7 +2215,7 @@
       "category": "defi",
       "logo_path": "logos/defi/unlock.png",
       "keywords": [
-        "unlock"
+        "unlock protocol"
       ],
       "product_aliases": [],
       "sanctioned": false
