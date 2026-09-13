@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-13T09:57:05+00:00",
+  "generated_at": "2026-09-13T10:07:27+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -29982,6 +29982,169 @@
         "csgoempire",
         "csgoempire.com",
         "csgo empire"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "amlbot",
+      "category": "defi",
+      "logo_path": "logos/defi/amlbot.png",
+      "keywords": [
+        "amlbot",
+        "aml bot"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "arbuz-io",
+      "category": "p2p",
+      "logo_path": "logos/p2p/arbuz-io.png",
+      "keywords": [
+        "arbuz",
+        "arbuz.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bigone-eurasia",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bigone-eurasia.png",
+      "keywords": [
+        "bigone eurasia"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitok-kg",
+      "category": "p2p",
+      "logo_path": "logos/p2p/bitok-kg.png",
+      "keywords": [
+        "bitok",
+        "bitok.kg"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "collect-exchange",
+      "category": "psp",
+      "logo_path": "logos/psp/collect-exchange.png",
+      "keywords": [
+        "collect exchange",
+        "collectnexchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "delta-da",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/delta-da.png",
+      "keywords": [
+        "delta da",
+        "deltada"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "elcrypto-kg",
+      "category": "otc_desk",
+      "logo_path": "logos/otc_desk/elcrypto-kg.png",
+      "keywords": [
+        "elcrypto",
+        "vys trade",
+        "bitbanker"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "korex-acquiring",
+      "category": "psp",
+      "logo_path": "logos/psp/korex-acquiring.png",
+      "keywords": [
+        "corex",
+        "korex acquiring"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "metawin-com",
+      "category": "gambling",
+      "logo_path": "logos/gambling/metawin-com.png",
+      "keywords": [
+        "metawin",
+        "metawin.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mex-kg",
+      "category": "p2p",
+      "logo_path": "logos/p2p/mex-kg.png",
+      "keywords": [
+        "mex.kg"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tewkenaire",
+      "category": "gambling",
+      "logo_path": "logos/gambling/tewkenaire.png",
+      "keywords": [
+        "tewkenaire"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "trustee-plus",
+      "category": "wallet",
+      "logo_path": "logos/wallet/trustee-plus.png",
+      "keywords": [
+        "trustee plus",
+        "trustee"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "trustee-wallet",
+      "category": "wallet",
+      "logo_path": "logos/wallet/trustee-wallet.png",
+      "keywords": [
+        "trustee wallet",
+        "trustee"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "whitepay",
+      "category": "psp",
+      "logo_path": "logos/psp/whitepay.png",
+      "keywords": [
+        "whitepay"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "xbt-kg",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/xbt-kg.png",
+      "keywords": [
+        "xbt.kg",
+        "my o",
+        "baisanar"
       ],
       "product_aliases": [],
       "sanctioned": false
