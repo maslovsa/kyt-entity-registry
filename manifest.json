@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-13T07:45:08+00:00",
+  "generated_at": "2026-09-13T09:57:05+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -29962,6 +29962,29 @@
       ],
       "product_aliases": [],
       "sanctioned": true
+    },
+    {
+      "slug": "1xbit-com",
+      "category": "gambling",
+      "logo_path": "logos/gambling/1xbit-com.png",
+      "keywords": [
+        "1xbit",
+        "1xbit.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "csgoempire-com",
+      "category": "gambling",
+      "logo_path": "logos/gambling/csgoempire-com.png",
+      "keywords": [
+        "csgoempire",
+        "csgoempire.com",
+        "csgo empire"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
     }
   ]
 }

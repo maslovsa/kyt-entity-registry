@@ -2942,3 +2942,5 @@ Maxx Markets,exchange,100,1,10,1,,manual-admin,maxx-markets,maxx.exchange,"maxx 
 Bitcoin Suisse,otc_desk,80,8,80,3,ETH|ARBITRUM|BSC|BASE|AVALANCHE|OPTIMISM|POLYGON,manual-admin,bitcoin-suisse-com,bitcoinsuisse.com,"bitcoin suisse,bitcoinsuisse",,manual,2026-09-11,true,d1ea56fdc6f9f9ba83ff7cbd14a94c8a0844e5a179da9d12309e7916acc168aa
 Lucky.fun,gambling,60,6,80,3,TRON,manual-admin,lucky-fun-casino,lucky.fun,"lucky.fun,luckyfun",,manual,2026-09-11,true,be277398afc5044395be7bca3a51d06ba8d6340dd008b4fc8b5ef5a4c2e64e33
 Lazarus Group,sanctioned,90,0,100,100,ETH|TRON|BTC|BSC,manual-admin,lazarus-group,,"lazarus,lazarus group,apt38,north korea hacking group",,manual,2026-09-13,true,16748ede698c8906692a24aaa10eff226a6f9c7e0948e12fd3fe677ce3502878
+1xBit.com,gambling,100,737670,75,5,BTC|ETH|LTC,manual-admin,1xbit-com,1xbit.com,"1xbit,1xbit.com",,manual,2026-09-13,true,c12224eb2aab386b7c33b567106f43d9b50cdebb4d641319a0e995f8c7760168
+CSGOEmpire.com,gambling,100,184175,75,5,BTC|LTC,manual-admin,csgoempire-com,csgoempire.com,"csgoempire,csgoempire.com,csgo empire",,manual,2026-09-13,true,0a05bb1a742c927f433c7e60c4aacae92ef8f9677d7df7d9d65e1e5c59603c3e
