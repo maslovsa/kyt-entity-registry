@@ -2946,58 +2946,59 @@ Lazarus Group,sanctioned,90,0,100,100,ETH|TRON|BTC|BSC,manual-admin,lazarus-grou
 CSGOEmpire.com,gambling,100,184175,75,5,BTC|LTC,manual-admin,csgoempire-com,csgoempire.com,"csgoempire,csgoempire.com,csgo empire",,manual,2026-09-13,true,0a05bb1a742c927f433c7e60c4aacae92ef8f9677d7df7d9d65e1e5c59603c3e
 AMLBot,defi,70,0,60,10,,manual-admin,amlbot,amlbot.com,"amlbot,aml bot",,manual,2026-09-13,true,039c0a29c3c343e1023b748529abb4b802d800445d58d3ecd93592df1906ce62
 Arbuz,p2p,70,0,60,10,BTC,manual-admin,arbuz-io,arbuz.io,"arbuz,arbuz.io",,manual,2026-09-13,true,b94cac38165ad652a82b0cc7884f06f8016af37095725db8c45d6d14b8c6dcef
-BigONE Eurasia,exchange,70,0,60,10,,manual-admin,bigone-eurasia,bigoneeurasia.ladesk.com,"bigone eurasia",,manual,2026-09-13,true,9fdc2d9335795394980bd87365427ce8e0eb6f8cf2792bc466f963b58fae3a31
+BigONE Eurasia,exchange,70,0,60,10,,manual-admin,bigone-eurasia,bigoneeurasia.ladesk.com,bigone eurasia,,manual,2026-09-13,true,9fdc2d9335795394980bd87365427ce8e0eb6f8cf2792bc466f963b58fae3a31
 Bitok.kg,p2p,70,0,60,10,,manual-admin,bitok-kg,bitok.kg,"bitok,bitok.kg",,manual,2026-09-13,true,a43d74f09d713b34bd3ae4af0da21ca062120bb57e11e6d8e6d96a991c8471b1
 Collect & Exchange,psp,70,0,60,10,,manual-admin,collect-exchange,usdt.collectnexchange.com,"collect exchange,collectnexchange",,manual,2026-09-13,true,a418aa98e2ddc9723f6fa10f3d65c08f87b8f71acdfeac6003d66f115e46e151
 Delta DA,exchange,70,0,60,10,,manual-admin,delta-da,deltada.kz,"delta da,deltada",,manual,2026-09-13,true,b50c3b08960407c6dac76f2c8dc535586645e2a9025f75c9cbab9bcb5d4e10b1
 ElCrypto / Vys Trade (Bitbanker.kg),otc_desk,70,0,60,10,,manual-admin,elcrypto-kg,elcrypto.kg,"elcrypto,vys trade,bitbanker",,manual,2026-09-13,true,b1ae7faffad9c6f61a9037067e135aa0781ba309d3b30857323c635c75098391
 Corex Acquiring,psp,70,0,60,10,,manual-admin,korex-acquiring,pay.korex.kg,"corex,korex acquiring",,manual,2026-09-13,true,d858c70253e971a100a972c125361316cf9ceeff0abb128c0b826318c8a49a57
 MetaWin,gambling,70,0,60,10,BASE|BSC|ETH|OPTIMISM|POLYGON|TRON,manual-admin,metawin-com,metawin.com,"metawin,metawin.com",,manual,2026-09-13,true,fcf0da4f0fc54da3d04c50f7e8ba095e4d0dece46e49a6db650cddc290e6025f
-MEX.KG,p2p,70,0,60,10,,manual-admin,mex-kg,mex.kg,"mex.kg",,manual,2026-09-13,true,6f3970faa0deca420e0d2b8ce41d2f517680a51f3cea6530ba5e2b928fccfaf2
-Tewkenaire,gambling,70,0,60,10,TRON,manual-admin,tewkenaire,tewkenaire.com,"tewkenaire",,manual,2026-09-13,true,a02e93d221a52267e98f1e51a5a50e12d3f38f806c4261c8d987f82ab14fbe18
+MEX.KG,p2p,70,0,60,10,,manual-admin,mex-kg,mex.kg,mex.kg,,manual,2026-09-13,true,6f3970faa0deca420e0d2b8ce41d2f517680a51f3cea6530ba5e2b928fccfaf2
+Tewkenaire,gambling,70,0,60,10,TRON,manual-admin,tewkenaire,tewkenaire.com,tewkenaire,,manual,2026-09-13,true,a02e93d221a52267e98f1e51a5a50e12d3f38f806c4261c8d987f82ab14fbe18
 Trustee Plus,wallet,70,0,60,10,,manual-admin,trustee-plus,trustee.io,"trustee plus,trustee",,manual,2026-09-13,true,74f6711c149d13b94973070fb272e2d571550c9f7a554a95015e671ed4f5bdde
 Trustee Wallet,wallet,70,0,60,10,,manual-admin,trustee-wallet,trustee.io,"trustee wallet,trustee",,manual,2026-09-13,true,74f6711c149d13b94973070fb272e2d571550c9f7a554a95015e671ed4f5bdde
-Whitepay,psp,70,0,60,10,,manual-admin,whitepay,whitepay.com,"whitepay",,manual,2026-09-13,true,ae045efd8d3a82facc98f9ec72d53b2bda1277616ef63508bfefdf4346d50ee6
+Whitepay,psp,70,0,60,10,,manual-admin,whitepay,whitepay.com,whitepay,,manual,2026-09-13,true,ae045efd8d3a82facc98f9ec72d53b2bda1277616ef63508bfefdf4346d50ee6
 XBT.kg / My O! (Baisanar),exchange,70,0,60,10,,manual-admin,xbt-kg,xbt.kg,"xbt.kg,my o,baisanar",,manual,2026-09-13,true,e086afe2d37da3a2c92a582ad7e2f1ff298fcfc6b57cf2a5ff1f24bb45e36d52
 888Tron.com,gambling,70,0,60,10,TRON,manual-admin,888tron-com,888tron.com,"888tron,888 tron",,manual,2026-09-13,true,e3bbf66e7deacfa1e86c4cca72cb4865d612b51c12c787746a6377491a0dc2f7
-Avalpardakht.com,psp,70,0,60,10,TRON,manual-admin,avalpardakht-com,avalpardakht.com,"avalpardakht",,manual,2026-09-13,true,bcec7b8acbafa69f8e32c25ce38ac2db1cff1606a8d8c8b5b1e43ca7c62f49d7
+Avalpardakht.com,psp,70,0,60,10,TRON,manual-admin,avalpardakht-com,avalpardakht.com,avalpardakht,,manual,2026-09-13,true,bcec7b8acbafa69f8e32c25ce38ac2db1cff1606a8d8c8b5b1e43ca7c62f49d7
 Candyland.Casino,gambling,70,0,60,10,BTC|LTC,manual-admin,candyland-casino,candyland.casino,"candyland,candyland casino",,manual,2026-09-13,true,b3256fef48ea530187376f4a8c60db89828dcd6947580ed1d294f54e2d473095
 Capybara.kg,p2p,70,0,60,10,TRON,manual-admin,capybara-kg,capybara.kg,"capybara,capybara.kg",,manual,2026-09-13,true,5bf588d58a8e2b0cd6d683fe4a137b3856f4c531a8f015681e2178ebb317cd8d
 EarnBet.io,gambling,70,0,60,10,BTC|ETH|LTC,manual-admin,earnbet-io,earnbet.io,"earnbet,earnbet.io",,manual,2026-09-13,true,156f8d15154d4a1a440a10df859b2447c87029f391e897f94f79f9da9e545b8e
-GTCFX.com,otc_desk,70,0,60,10,TRON,manual-admin,gtcfx-com,gtcfx.com,"gtcfx",,manual,2026-09-13,true,87beb619f05f8ef037cef95477489ca5f97573668d196b771d54927004cf36ab
+GTCFX.com,otc_desk,70,0,60,10,TRON,manual-admin,gtcfx-com,gtcfx.com,gtcfx,,manual,2026-09-13,true,87beb619f05f8ef037cef95477489ca5f97573668d196b771d54927004cf36ab
 Luckygames.io,gambling,70,0,60,10,BTC|ETH|LTC,manual-admin,luckygames-io,luckygames.io,"luckygames,lucky games",,manual,2026-09-13,true,17439e9d1a70bd45b42071e5bb1410c92f42018ceaa71215ee7f76035264e052
-Rahakott.io,mixer,70,0,60,10,BTC|LTC,manual-admin,rahakott-io,rahakott.io,"rahakott",,manual,2026-09-13,true,0f013d6f3a652c45bcd23042ddb8dc483dfc72b7b9f5c0d0457a903944f435d2
-Vavada.com,gambling,70,0,60,10,BTC|LTC,manual-admin,vavada-com,vavada.com,"vavada",,manual,2026-09-13,true,43f6a6f2b143b689c86c5a8779e42ea89cb66642dacf0785b6963421250eb475
+Rahakott.io,mixer,70,0,60,10,BTC|LTC,manual-admin,rahakott-io,rahakott.io,rahakott,,manual,2026-09-13,true,0f013d6f3a652c45bcd23042ddb8dc483dfc72b7b9f5c0d0457a903944f435d2
+Vavada.com,gambling,70,0,60,10,BTC|LTC,manual-admin,vavada-com,vavada.com,vavada,,manual,2026-09-13,true,43f6a6f2b143b689c86c5a8779e42ea89cb66642dacf0785b6963421250eb475
 WinDice.io,gambling,70,0,60,10,BTC|ETH|LTC,manual-admin,windice-io,windice.io,"windice,win dice",,manual,2026-09-13,true,1411773f686e003b74c31a1762a93dc88ae3811ca7e5459da340f207fa4665f9
-Zota.com,psp,70,0,60,10,TRON,manual-admin,zota-com,zota.com,"zota",,manual,2026-09-13,true,360fc86154a450781d54675f8228996222504477ff3bee8d7a76fbcc205ea873
-BitDice.me,gambling,70,0,60,10,BTC|LTC,manual-admin,bitdice-me,bitdice.me,"bitdice",,manual,2026-09-13,true,5724600c26fdec5252e5a51a611966988d0d54671ec19b2a4e205ed05571d20b
-Bitvest.io,gambling,70,0,60,10,BTC|ETH|LTC,manual-admin,bitvest-io,bitvest.io,"bitvest",,manual,2026-09-13,true,24c32efe80cf373e6dcc2b260fcbcbd47369d22bd80fe108594b95e44d4538c6
+Zota.com,psp,70,0,60,10,TRON,manual-admin,zota-com,zota.com,zota,,manual,2026-09-13,true,360fc86154a450781d54675f8228996222504477ff3bee8d7a76fbcc205ea873
+BitDice.me,gambling,70,0,60,10,BTC|LTC,manual-admin,bitdice-me,bitdice.me,bitdice,,manual,2026-09-13,true,5724600c26fdec5252e5a51a611966988d0d54671ec19b2a4e205ed05571d20b
+Bitvest.io,gambling,70,0,60,10,BTC|ETH|LTC,manual-admin,bitvest-io,bitvest.io,bitvest,,manual,2026-09-13,true,24c32efe80cf373e6dcc2b260fcbcbd47369d22bd80fe108594b95e44d4538c6
 Chips.gg,gambling,70,0,60,10,BTC|ETH|LTC,manual-admin,chips-gg,chips.gg,"chips.gg,chips gg",,manual,2026-09-13,true,33a3f1aa826372515b2db4757106c5c0440e84255419868652e8993fb81f9d68
 Crypto-Games.net,gambling,70,0,60,10,BTC|ETH|LTC,manual-admin,crypto-games-net,crypto-games.net,"crypto-games,crypto games",,manual,2026-09-13,true,50fccbf64f66df05f4fa65cad887edf067745c6c56bc55f00e60c4ba857a4c1f
-CryptoSlots.com,gambling,70,0,60,10,BTC|LTC,manual-admin,cryptoslots-com,cryptoslots.com,"cryptoslots",,manual,2026-09-13,true,c37f5c9b2739b85d1c7784c32221d0aecb8b86797f29566a07af3a2eb1f9710f
-Degens.com,gambling,70,0,60,10,ETH,manual-admin,degens-com,degens.com,"degens",,manual,2026-09-13,true,85615bb41591486b5d7fa8d4088e58c5f5b37d860d13375e34be10a225824d45
-Inmerion.com,gambling,70,0,60,10,ETH|LTC,manual-admin,inmerion-com,inmerion.com,"inmerion",,manual,2026-09-13,true,b817b89fbac783ddd1b75bbe9d6cc9a4a07155fa812f60cef6317e2f9f4a1d3e
-PrimeDice.com,gambling,70,0,60,10,BTC|ETH|LTC,manual-admin,primedice-com,primedice.com,"primedice",,manual,2026-09-13,true,2b4a33ef0d72e1e382a78b532bf584206cc84384104dcbca3510e6d7d9b05f00
-RuneChat.com,gambling,70,0,60,10,BTC|ETH,manual-admin,runechat-com,runechat.com,"runechat",,manual,2026-09-13,true,85dcf0e3265ad387ba7672260b290e25d451ca45ee3eb18aeab4a8d8b5244193
-AnyExchange.best,p2p,70,0,60,10,,manual-admin,anyexchange-best,anyexchange.best,"anyexchange",,manual,2026-09-13,true,15c76faf19d601ceb9da84ccf9bac9d3dc7108733fcb3378aa9ca7bd75c6f972
-Baksmany,p2p,70,0,60,10,BSC|BTC,manual-admin,baksmany-com,baksmany.com,"baksmany",,manual,2026-09-13,true,0acddc756c225dadf511a82f09b44022339035382806c5e0bbac667f0f3c4dac
-SpectrumChange.com,p2p,70,0,60,10,ETH,manual-admin,spectrumchange-com,spectrumchange.com,"spectrumchange",,manual,2026-09-13,true,36bf0b33f3c2c561beebf6d9efde06ce6805bc3dd8856d10bd8a0503bd066a0e
-Axi.com,otc_desk,70,0,60,10,TRON,manual-admin,axi-com,axi.com,"axi",,manual,2026-09-13,true,6fda8df716dd6bcaeb64f37a22e33d3bf4c93102b49bbf8ca4e2dde02b79a701
-Bitbse.com,exchange,70,0,60,10,ETH,manual-admin,bitbse-com,bitbse.com,"bitbse",,manual,2026-09-13,true,b0ef8560d564ad06d7108076d8a71187e783ea25bb3ae39585346e8e64e8bdcd
-BitMarket.net,exchange,70,0,60,10,BTC|ETH|LTC,manual-admin,bitmarket-net,bitmarket.net,"bitmarket",,manual,2026-09-13,true,99608bd2dd59b9747bcae6923371d2b460178584d0cd617c87d7f31da9267cde
-Exonyx.org,exchange,70,0,60,10,TRON,manual-admin,exonyx-org,exonyx.org,"exonyx",,manual,2026-09-13,true,44ec7dbfac0cdfa3c645d585fbc546193308f5df4939c9a0fa2edae5a885b925
-Felixo.com,exchange,70,0,60,10,BTC|ETH|LTC,manual-admin,felixo-com,felixo.com,"felixo",,manual,2026-09-13,true,ad530e0eebb8148ef14f2554990353b125fe4fade1f2784f4c91e8707cad34cd
-Kapytal.io,exchange,70,0,60,10,ETH,manual-admin,kapytal-io,kapytal.io,"kapytal",,manual,2026-09-13,true,0afcf24c2dfc7285e9e1db73aaf15699bcc867924b8d242f3c660e37dfb176cb
-Swep.io,exchange,70,0,60,10,ETH,manual-admin,swep-io,swep.io,"swep",,manual,2026-09-13,true,1ac754dd78a4a484a011452ea471fbd9e3f47f993a27d5d643ade037bbbfac52
-Wallbit.io,exchange,70,0,60,10,TRON,manual-admin,wallbit-io,wallbit.io,"wallbit",,manual,2026-09-13,true,e4c875da79c514cfac221bd0da82fc6c1e282fbecf35d9462694081b2ebcb402
-ChainPal,psp,70,0,60,10,,manual-admin,chainpal,chainpal.io,"chainpal",,manual,2026-09-13,true,d48b454d3f47c75e4080976c3c8ba12a8e28e83bd553cf085baeb81e3097bf8f
-Cryptobuyer.io,psp,70,0,60,10,ETH|LTC,manual-admin,cryptobuyer-io,cryptobuyer.io,"cryptobuyer",,manual,2026-09-13,true,f2d39a652d3ff6c435d53905091f6323371b618c8163f673d2045cf43e39c4b6
-FidduPay,psp,70,0,60,10,,manual-admin,fiddupay,fiddupay.com,"fiddupay",,manual,2026-09-13,true,dd1ed547f6c12eb52daea65b89fa6e1d3b1185099f7b574f8cf252f09366baa1
-MCPay,psp,70,0,60,10,,manual-admin,mcpay,mcpay.tech,"mcpay",,manual,2026-09-13,true,e72a1f6294e86f9097aa8d63084bbf6b55b7d12b136101f550619f9ba8fca8f6
+CryptoSlots.com,gambling,70,0,60,10,BTC|LTC,manual-admin,cryptoslots-com,cryptoslots.com,cryptoslots,,manual,2026-09-13,true,c37f5c9b2739b85d1c7784c32221d0aecb8b86797f29566a07af3a2eb1f9710f
+Degens.com,gambling,70,0,60,10,ETH,manual-admin,degens-com,degens.com,degens,,manual,2026-09-13,true,85615bb41591486b5d7fa8d4088e58c5f5b37d860d13375e34be10a225824d45
+Inmerion.com,gambling,70,0,60,10,ETH|LTC,manual-admin,inmerion-com,inmerion.com,inmerion,,manual,2026-09-13,true,b817b89fbac783ddd1b75bbe9d6cc9a4a07155fa812f60cef6317e2f9f4a1d3e
+PrimeDice.com,gambling,70,0,60,10,BTC|ETH|LTC,manual-admin,primedice-com,primedice.com,primedice,,manual,2026-09-13,true,2b4a33ef0d72e1e382a78b532bf584206cc84384104dcbca3510e6d7d9b05f00
+RuneChat.com,gambling,70,0,60,10,BTC|ETH,manual-admin,runechat-com,runechat.com,runechat,,manual,2026-09-13,true,85dcf0e3265ad387ba7672260b290e25d451ca45ee3eb18aeab4a8d8b5244193
+AnyExchange.best,p2p,70,0,60,10,,manual-admin,anyexchange-best,anyexchange.best,anyexchange,,manual,2026-09-13,true,15c76faf19d601ceb9da84ccf9bac9d3dc7108733fcb3378aa9ca7bd75c6f972
+Baksmany,p2p,70,0,60,10,BSC|BTC,manual-admin,baksmany-com,baksmany.com,baksmany,,manual,2026-09-13,true,0acddc756c225dadf511a82f09b44022339035382806c5e0bbac667f0f3c4dac
+SpectrumChange.com,p2p,70,0,60,10,ETH,manual-admin,spectrumchange-com,spectrumchange.com,spectrumchange,,manual,2026-09-13,true,36bf0b33f3c2c561beebf6d9efde06ce6805bc3dd8856d10bd8a0503bd066a0e
+Axi.com,otc_desk,70,0,60,10,TRON,manual-admin,axi-com,axi.com,axi,,manual,2026-09-13,true,6fda8df716dd6bcaeb64f37a22e33d3bf4c93102b49bbf8ca4e2dde02b79a701
+Bitbse.com,exchange,70,0,60,10,ETH,manual-admin,bitbse-com,bitbse.com,bitbse,,manual,2026-09-13,true,b0ef8560d564ad06d7108076d8a71187e783ea25bb3ae39585346e8e64e8bdcd
+BitMarket.net,exchange,70,0,60,10,BTC|ETH|LTC,manual-admin,bitmarket-net,bitmarket.net,bitmarket,,manual,2026-09-13,true,99608bd2dd59b9747bcae6923371d2b460178584d0cd617c87d7f31da9267cde
+Exonyx.org,exchange,70,0,60,10,TRON,manual-admin,exonyx-org,exonyx.org,exonyx,,manual,2026-09-13,true,44ec7dbfac0cdfa3c645d585fbc546193308f5df4939c9a0fa2edae5a885b925
+Felixo.com,exchange,70,0,60,10,BTC|ETH|LTC,manual-admin,felixo-com,felixo.com,felixo,,manual,2026-09-13,true,ad530e0eebb8148ef14f2554990353b125fe4fade1f2784f4c91e8707cad34cd
+Kapytal.io,exchange,70,0,60,10,ETH,manual-admin,kapytal-io,kapytal.io,kapytal,,manual,2026-09-13,true,0afcf24c2dfc7285e9e1db73aaf15699bcc867924b8d242f3c660e37dfb176cb
+Swep.io,exchange,70,0,60,10,ETH,manual-admin,swep-io,swep.io,swep,,manual,2026-09-13,true,1ac754dd78a4a484a011452ea471fbd9e3f47f993a27d5d643ade037bbbfac52
+Wallbit.io,exchange,70,0,60,10,TRON,manual-admin,wallbit-io,wallbit.io,wallbit,,manual,2026-09-13,true,e4c875da79c514cfac221bd0da82fc6c1e282fbecf35d9462694081b2ebcb402
+ChainPal,psp,70,0,60,10,,manual-admin,chainpal,chainpal.io,chainpal,,manual,2026-09-13,true,d48b454d3f47c75e4080976c3c8ba12a8e28e83bd553cf085baeb81e3097bf8f
+Cryptobuyer.io,psp,70,0,60,10,ETH|LTC,manual-admin,cryptobuyer-io,cryptobuyer.io,cryptobuyer,,manual,2026-09-13,true,f2d39a652d3ff6c435d53905091f6323371b618c8163f673d2045cf43e39c4b6
+FidduPay,psp,70,0,60,10,,manual-admin,fiddupay,fiddupay.com,fiddupay,,manual,2026-09-13,true,dd1ed547f6c12eb52daea65b89fa6e1d3b1185099f7b574f8cf252f09366baa1
+MCPay,psp,70,0,60,10,,manual-admin,mcpay,mcpay.tech,mcpay,,manual,2026-09-13,true,e72a1f6294e86f9097aa8d63084bbf6b55b7d12b136101f550619f9ba8fca8f6
 Membrane Finance,psp,70,0,60,10,ARBITRUM|AVALANCHE|ETH|OPTIMISM|POLYGON|SOL,manual-admin,membrane,membrane.fi,"membrane,membrane finance,euroe",,manual,2026-09-13,true,03663e34afb9f32ae2a10239e42d0bd633dfccdc93ca9fc89482d6f7b6f5b059
-Now Open App,psp,70,0,60,10,,manual-admin,now-open-app,nowopen.app,"now open",,manual,2026-09-13,true,0fc08c1f1c93722fa2b88db39870ea95a33b890f683e17190989b03c1d67bcff
-Pyypl Kazakhstan,psp,70,0,60,10,,manual-admin,pyypl-kazakhstan,pyypl.com,"pyypl",,manual,2026-09-13,true,200315cd9716c65214a723bb8b9e68157d01277c20f238ba111bbf9174a89318
-Southpay,psp,70,0,60,10,,manual-admin,southpay,southpay.io,"southpay",,manual,2026-09-13,true,b212519a09e5b2c4988257e6ff6bacd6f7309184929475d05563ee306658bd5d
-TreebuCapital.com,psp,70,0,60,10,ETH|TRON,manual-admin,treebucapital-com,treebucapital.com,"treebucapital",,manual,2026-09-13,true,eeeebba986c62911df9ba7b3caae2f68357c4be52b992848e176965dfa773967
-Trocador,psp,70,0,60,10,,manual-admin,trocador,trocador.app,"trocador",,manual,2026-09-13,true,ce77cdf6b804268a0e5074d68a02f96585da6f71ec757c5dcdf5e5acd7422a51
+Now Open App,psp,70,0,60,10,,manual-admin,now-open-app,nowopen.app,now open,,manual,2026-09-13,true,0fc08c1f1c93722fa2b88db39870ea95a33b890f683e17190989b03c1d67bcff
+Pyypl Kazakhstan,psp,70,0,60,10,,manual-admin,pyypl-kazakhstan,pyypl.com,pyypl,,manual,2026-09-13,true,200315cd9716c65214a723bb8b9e68157d01277c20f238ba111bbf9174a89318
+Southpay,psp,70,0,60,10,,manual-admin,southpay,southpay.io,southpay,,manual,2026-09-13,true,b212519a09e5b2c4988257e6ff6bacd6f7309184929475d05563ee306658bd5d
+TreebuCapital.com,psp,70,0,60,10,ETH|TRON,manual-admin,treebucapital-com,treebucapital.com,treebucapital,,manual,2026-09-13,true,eeeebba986c62911df9ba7b3caae2f68357c4be52b992848e176965dfa773967
+Trocador,psp,70,0,60,10,,manual-admin,trocador,trocador.app,trocador,,manual,2026-09-13,true,ce77cdf6b804268a0e5074d68a02f96585da6f71ec757c5dcdf5e5acd7422a51
 Buy Cash,sanctioned,70,0,60,10,BTC|TRON,manual-admin,buy-cash,buy-cash.net,"buy cash,buycash",,manual,2026-09-13,true,53b243287751cafb990ec860ceb35de9500c902d06936c3ec8faf07d920fc0d4
+Onebit,otc_desk,90,9,90,10,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,arkham-intelligence,onebit,onebit.com,"onebit,onebit.com,onebit digital",,manual,2026-09-14,true,6d86278c71068f9031da43785f141f3aea0ed968848f39a6ff9cf47e117312e3

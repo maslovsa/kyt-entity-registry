@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-13T20:40:43+00:00",
+  "generated_at": "2026-09-14T10:21:21+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -30579,6 +30579,18 @@
       ],
       "product_aliases": [],
       "sanctioned": true
+    },
+    {
+      "slug": "onebit",
+      "category": "otc_desk",
+      "logo_path": "logos/otc_desk/onebit.png",
+      "keywords": [
+        "onebit",
+        "onebit.com",
+        "onebit digital"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
     }
   ]
 }
