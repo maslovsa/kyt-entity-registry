@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-14T10:21:21+00:00",
+  "generated_at": "2026-09-17T11:28:35+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -30588,6 +30588,16 @@
         "onebit",
         "onebit.com",
         "onebit digital"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "razed",
+      "category": "gambling",
+      "logo_path": "logos/gambling/razed.png",
+      "keywords": [
+        "razed"
       ],
       "product_aliases": [],
       "sanctioned": false
