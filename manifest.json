@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-17T11:28:35+00:00",
+  "generated_at": "2026-09-18T13:08:42+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -30598,6 +30598,18 @@
       "logo_path": "logos/gambling/razed.png",
       "keywords": [
         "razed"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "payard-io",
+      "category": "psp",
+      "logo_path": "logos/psp/payard-io.png",
+      "keywords": [
+        "payard",
+        "payard.io",
+        "payard pay platform"
       ],
       "product_aliases": [],
       "sanctioned": false
