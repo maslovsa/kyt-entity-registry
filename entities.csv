@@ -3004,3 +3004,4 @@ Buy Cash,sanctioned,70,0,60,10,BTC|TRON,manual-admin,buy-cash,buy-cash.net,"buy 
 Onebit,otc_desk,90,9,90,10,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,arkham-intelligence,onebit,onebit.com,"onebit,onebit.com,onebit digital",,manual,2026-09-14,true,6d86278c71068f9031da43785f141f3aea0ed968848f39a6ff9cf47e117312e3
 Razed,gambling,100,2,90,60,TRON,"arkham-intelligence|misttrack-live-verdicts|manual-admin",razed,razed.com,razed,,manual,2026-09-17,true,1085249e0033339a6198180641f16dac19eb004eb9475e1cb82d4ba3a8e9ce7e
 PaYard,psp,100,131,75,15,TRON,manual-admin,payard-io,payard.io,"payard,payard.io,payard pay platform",,manual,2026-09-18,true,e80deffdcb458b7dff3683c0c2a2201314058a7b9c77fd55c2d60e680ef1f429
+Tsunami Cash Wallet,mixer,95,478,75,5,TRON,manual-admin,tsunami-cash,tsunami.cash,"tsunami cash,tsunami,tsunami.cash,tsunami cash wallet",Tsunami Wallet,manual,2026-09-18,true,d2ee3fae41fff60324df257e64680483b435c097a85438b1d60a8544b5699272

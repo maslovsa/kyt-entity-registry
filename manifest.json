@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-18T13:08:42+00:00",
+  "generated_at": "2026-09-18T14:04:40+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -30612,6 +30612,21 @@
         "payard pay platform"
       ],
       "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tsunami-cash",
+      "category": "mixer",
+      "logo_path": "logos/mixer/tsunami-cash.png",
+      "keywords": [
+        "tsunami cash",
+        "tsunami",
+        "tsunami.cash",
+        "tsunami cash wallet"
+      ],
+      "product_aliases": [
+        "Tsunami Wallet"
+      ],
       "sanctioned": false
     }
   ]
