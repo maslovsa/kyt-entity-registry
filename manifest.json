@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-18T14:04:40+00:00",
+  "generated_at": "2026-09-19T17:01:23+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -30627,6 +30627,17 @@
       "product_aliases": [
         "Tsunami Wallet"
       ],
+      "sanctioned": false
+    },
+    {
+      "slug": "babulyaexchange",
+      "category": "otc_desk",
+      "logo_path": "logos/otc_desk/babulyaexchange.png",
+      "keywords": [
+        "babulyaexchange",
+        "babulyaexchannel"
+      ],
+      "product_aliases": [],
       "sanctioned": false
     }
   ]
