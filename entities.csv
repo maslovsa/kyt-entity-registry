@@ -3006,3 +3006,16 @@ Razed,gambling,100,2,90,60,TRON,"arkham-intelligence|misttrack-live-verdicts|man
 PaYard,psp,100,131,75,15,TRON,manual-admin,payard-io,payard.io,"payard,payard.io,payard pay platform",,manual,2026-09-18,true,e80deffdcb458b7dff3683c0c2a2201314058a7b9c77fd55c2d60e680ef1f429
 Tsunami Cash Wallet,mixer,95,478,75,5,TRON,manual-admin,tsunami-cash,tsunami.cash,"tsunami cash,tsunami,tsunami.cash,tsunami cash wallet",Tsunami Wallet,manual,2026-09-18,true,d2ee3fae41fff60324df257e64680483b435c097a85438b1d60a8544b5699272
 Babulyaexchange,otc_desk,60,3,75,10,TRON,manual-admin,babulyaexchange,,"babulyaexchange,babulyaexchannel",,manual,2026-09-19,true,227b9afc077e5676ecceb77d04239650c4c2b191f132f192385e6a485656ba73
+Bitzlato,exchange,60,1,100,90,POLYGON,manual-admin,bitzlato,bitzlato.com,"bitzlato",,none,2026-09-21,true,
+PlusToken Ponzi,exchange,60,1,100,90,POLYGON,manual-admin,plustoken-ponzi,,"plustoken ponzi",,none,2026-09-21,true,
+FCoin,exchange,60,1,100,90,BTC,manual-admin,fcoin,fcoin.com,"fcoin",,none,2026-09-21,true,
+WEX,exchange,60,1,100,90,BTC,manual-admin,wex-nz,wex.nz,"wex",,none,2026-09-21,true,
+HashOcean,mining,60,1,100,90,BTC,manual-admin,hashocean,hashocean.com,"hashocean",,manual,2026-09-21,true,cc582a61064f824b0e307a0d073f8066233a7515545c20957503bdc572c1acc2
+Cryptonit.net,exchange,60,1,100,90,BTC,manual-admin,cryptonit-net,cryptonit.net,"cryptonit.net",,manual,2026-09-21,true,e765aba7d08fa86a8c13d3f396db9190882615665bd2a19bc8d72876fb5ba7c7
+Coin.mx,exchange,60,1,100,90,BTC,manual-admin,coin-mx,coin.mx,"coin.mx",,manual,2026-09-21,true,1ac754dd78a4a484a011452ea471fbd9e3f47f993a27d5d643ade037bbbfac52
+Livecoin.net,exchange,60,1,100,90,BTC,manual-admin,livecoin-net,livecoin.net,"livecoin.net",,none,2026-09-21,true,
+Mt. Gox,exchange,60,1,100,90,BTC,manual-admin,mtgox-com,mtgox.com,"mt. gox",,none,2026-09-21,true,
+Bitcoinica,exchange,60,1,100,90,BTC,manual-admin,bitcoinica,bitcoinica.com,"bitcoinica",,none,2026-09-21,true,
+Cubits,exchange,60,1,100,90,BTC,manual-admin,cubits-com,cubits.com,"cubits",,manual,2026-09-21,true,8548eade36fc75ddaf8dceb427e03187a5d182783a5d0026d861f9644e8c454a
+Liqui Exchange,exchange,60,1,100,90,BTC,manual-admin,liqui-io,liqui.io,"liqui exchange",,manual,2026-09-21,true,5a371326047b4820047545d77d9defe2ec30ec04df4ed59dee3d78a7ead61680
+Mirror Trading International Ponzi,exchange,60,1,100,90,BTC,manual-admin,mirror-trading-international-ponzi,mtiforex.com,"mirror trading international ponzi",,none,2026-09-21,true,

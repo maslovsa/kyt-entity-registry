@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-19T17:21:48+00:00",
+  "generated_at": "2026-09-20T20:25:13+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -30653,6 +30653,56 @@
       "keywords": [
         "babulyaexchange",
         "babulyaexchannel"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hashocean",
+      "category": "mining",
+      "logo_path": "logos/mining/hashocean.png",
+      "keywords": [
+        "hashocean"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cryptonit-net",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/cryptonit-net.png",
+      "keywords": [
+        "cryptonit.net"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coin-mx",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/coin-mx.png",
+      "keywords": [
+        "coin.mx"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cubits-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/cubits-com.png",
+      "keywords": [
+        "cubits"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "liqui-io",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/liqui-io.png",
+      "keywords": [
+        "liqui exchange"
       ],
       "product_aliases": [],
       "sanctioned": false
