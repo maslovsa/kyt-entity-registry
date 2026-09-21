@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-21T07:09:38+00:00",
+  "generated_at": "2026-09-21T09:49:28+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -31193,6 +31193,20 @@
       "logo_path": "logos/gambling/everydice-com.png",
       "keywords": [
         "everydice.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "general-svr",
+      "category": "media",
+      "logo_path": "logos/media/general-svr.png",
+      "keywords": [
+        "генерал свр",
+        "general svr",
+        "generalsvr",
+        "general-svr",
+        "t.me/generalsvr"
       ],
       "product_aliases": [],
       "sanctioned": false
