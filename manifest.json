@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-20T20:32:30+00:00",
+  "generated_at": "2026-09-21T06:15:04+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -30693,6 +30693,86 @@
       "logo_path": "logos/exchanges/cubits-com.png",
       "keywords": [
         "cubits"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bovada-lv",
+      "category": "gambling",
+      "logo_path": "logos/gambling/bovada-lv.png",
+      "keywords": [
+        "bovada"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "nitrogen-sports",
+      "category": "gambling",
+      "logo_path": "logos/gambling/nitrogen-sports.png",
+      "keywords": [
+        "nitrogen sports"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "csgo-empire",
+      "category": "gambling",
+      "logo_path": "logos/gambling/csgo-empire.png",
+      "keywords": [
+        "csgo empire"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitcoin-de",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bitcoin-de.png",
+      "keywords": [
+        "bitcoin.de (bitcoin group se)"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "btc38-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/btc38-com.png",
+      "keywords": [
+        "btc38"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gamba-io",
+      "category": "gambling",
+      "logo_path": "logos/gambling/gamba-io.png",
+      "keywords": [
+        "gamba"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "sx-bet",
+      "category": "gambling",
+      "logo_path": "logos/gambling/sx-bet.png",
+      "keywords": [
+        "sx network"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "yeet-com",
+      "category": "gambling",
+      "logo_path": "logos/gambling/yeet-com.png",
+      "keywords": [
+        "yeet.com"
       ],
       "product_aliases": [],
       "sanctioned": false
