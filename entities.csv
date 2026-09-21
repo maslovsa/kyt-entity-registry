@@ -3067,3 +3067,18 @@ Housebets,gambling,60,1,100,90,BTC,manual-admin,housebets-com,housebets.com,"hou
 CoinCasino,gambling,60,1,100,90,POLYGON,manual-admin,coincasino-us,coincasino.us.com,"coincasino",,manual,2026-09-21,true,c6b59e50a17cfec87248b67643d45bfe4cfda7644adb597fe06510216ab3891f
 Qzino,gambling,60,1,100,90,TRON,manual-admin,qzino-ai,qzino.ai,"qzino",,manual,2026-09-21,true,3c0ebcbb89adb277af6a1d99c74af4257bf4d9b3f0a3677c0f46c2fb46f7eb04
 Thrill.com,gambling,60,1,100,90,SOL,manual-admin,thrill-com,thrill.com,"thrill.com",,manual,2026-09-21,true,4f1a20a2e831d19c044680851d3301ee056ff988e0275257d228c4775ae6af43
+BtcTrade,exchange,60,1,100,90,BTC,manual-admin,btctrade-com,,"btctrade",,none,2026-09-21,true,
+Urdubit.com,exchange,60,1,100,90,BTC,manual-admin,urdubit-com,urdubit.com,"urdubit.com",,none,2026-09-21,true,
+NAGAX,exchange,60,1,100,90,BTC,manual-admin,nagax-com,nagax.com,"nagax",,manual,2026-09-21,true,0963703c58779768e22cc2a2434cd09743378a516c45f074c2d3aefc76c119c0
+SurBitcoin.com,exchange,60,1,100,90,BTC,manual-admin,surbitcoin-com,surbitcoin.com,"surbitcoin.com",,none,2026-09-21,true,
+BitBays,exchange,60,1,100,90,BTC,manual-admin,bitbays-com,,"bitbays",,none,2026-09-21,true,
+Coinarch,exchange,60,1,100,90,BTC,manual-admin,coinarch-com,coinarch.com,"coinarch",,none,2026-09-21,true,
+Bitmake,exchange,60,1,100,90,BTC,manual-admin,bitmake-com,bitmake.com,"bitmake",,none,2026-09-21,true,
+Bitfoliex,exchange,60,1,100,90,BTC,manual-admin,bitfoliex-com,bitfoliex.com,"bitfoliex",,manual,2026-09-21,true,7c04f8bde7de0de73623c22ef922a559cbf12ede54e1b115e66394f3e033e5f8
+CoinCafe,exchange,60,1,100,90,BTC,manual-admin,coincafe-com,coincafe.com,"coincafe",,manual,2026-09-21,true,347c98f567733daa0f94c6a2782630210ded0bccb324457b7c3bda03ac9f7b1d
+WEWE Global,exchange,60,1,100,90,BTC,manual-admin,wewe-global,wewe.global,"wewe global",,none,2026-09-21,true,
+Bitmymoney.com,exchange,60,1,100,90,BTC,manual-admin,bitmymoney-com,bitmymoney.com,"bitmymoney.com",,manual,2026-09-21,true,3316bba54f58634cf9dc4d08790bafd228e700f9b7f5010020b3535b3dd20e26
+Coinsenda,exchange,60,1,100,90,BTC,manual-admin,coinsenda-com,coinsenda.com,"coinsenda",,manual,2026-09-21,true,9715f813ba0d61fda3b4138b2caf04987fb39e91fbe1c06b3786456829d6b0e1
+Belqi.net,exchange,60,1,100,90,BTC,manual-admin,belqi-net,belqi.net,"belqi.net",,manual,2026-09-21,true,06122865da87f50f8e22d662c682554e9a87262620e217e2ecdf548777787f1f
+GSTrade,exchange,60,1,100,90,BTC,manual-admin,gstrade-exchange,gstrade.exchange,"gstrade",,manual,2026-09-21,true,29651878b3da8b9babd25e13ad078620d36f1f7acbc5651e140bf950a5e04b4e
+MyCoins (eMoney),exchange,60,1,100,90,BTC,manual-admin,mycoins-ge,mycoins.ge,"mycoins (emoney)",,manual,2026-09-21,true,6ce6fef9506cc8695d26cbabaf636d06a4c6dae62587124d51c817182f55d991

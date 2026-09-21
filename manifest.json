@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-21T06:49:19+00:00",
+  "generated_at": "2026-09-21T06:59:28+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -31043,6 +31043,86 @@
       "logo_path": "logos/gambling/thrill-com.png",
       "keywords": [
         "thrill.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "nagax-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/nagax-com.png",
+      "keywords": [
+        "nagax"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitfoliex-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bitfoliex-com.png",
+      "keywords": [
+        "bitfoliex"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coincafe-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/coincafe-com.png",
+      "keywords": [
+        "coincafe"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitmymoney-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bitmymoney-com.png",
+      "keywords": [
+        "bitmymoney.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coinsenda-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/coinsenda-com.png",
+      "keywords": [
+        "coinsenda"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "belqi-net",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/belqi-net.png",
+      "keywords": [
+        "belqi.net"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gstrade-exchange",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/gstrade-exchange.png",
+      "keywords": [
+        "gstrade"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mycoins-ge",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/mycoins-ge.png",
+      "keywords": [
+        "mycoins (emoney)"
       ],
       "product_aliases": [],
       "sanctioned": false
