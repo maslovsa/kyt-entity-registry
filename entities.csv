@@ -3082,3 +3082,14 @@ Coinsenda,exchange,60,1,100,90,BTC,manual-admin,coinsenda-com,coinsenda.com,"coi
 Belqi.net,exchange,60,1,100,90,BTC,manual-admin,belqi-net,belqi.net,"belqi.net",,manual,2026-09-21,true,06122865da87f50f8e22d662c682554e9a87262620e217e2ecdf548777787f1f
 GSTrade,exchange,60,1,100,90,BTC,manual-admin,gstrade-exchange,gstrade.exchange,"gstrade",,manual,2026-09-21,true,29651878b3da8b9babd25e13ad078620d36f1f7acbc5651e140bf950a5e04b4e
 MyCoins (eMoney),exchange,60,1,100,90,BTC,manual-admin,mycoins-ge,mycoins.ge,"mycoins (emoney)",,manual,2026-09-21,true,6ce6fef9506cc8695d26cbabaf636d06a4c6dae62587124d51c817182f55d991
+Stake.us,gambling,60,1,100,90,SOL,manual-admin,stake-us,stake.us,"stake.us",,manual,2026-09-21,true,3ca860781a55bda99b5e48d8a89ebdc168f24f14cb4350aa2a161c092f453527
+Vilcov.com,exchange,60,1,100,90,BTC,manual-admin,vilcov-com,vilcov.com,"vilcov.com",,manual,2026-09-21,true,928d0ec8b25993dc82e7e47c72f09749f268c3d9eafbdf1448cf57773003e09b
+Telbet,gambling,60,1,100,90,AVALANCHE,manual-admin,telbet-com,telbet.com,"telbet",,manual,2026-09-21,true,4fa73bb8167c7b174483fe9bf8e00d82979ff1bd8786882d2ba8d34c271a7fd2
+Acebet,gambling,60,1,100,90,AVALANCHE,manual-admin,acebet-com,acebet.com,"acebet",,manual,2026-09-21,true,50def4b4db8afec4debcf7a338d5ee8cf49242fa7432569447c11dfec83cdb53
+Dicey,gambling,60,1,100,90,SOL,manual-admin,dicey-poker,dicey.poker,"dicey",,manual,2026-09-21,true,bf4e042f386265c16fea409861973c277372d22328de3f7d517dde25b4d439ee
+Winna,gambling,60,1,100,90,SOL,manual-admin,winna-com,winna.com,"winna",,manual,2026-09-21,true,a405995e1cff19ab02d5bcc5eaa61ffdae3bbf0a9b7b4a55708282f1b602a4dc
+BetcoinDice.tm,gambling,60,1,100,90,BTC,manual-admin,betcoindice-tm,,"betcoindice.tm",,none,2026-09-21,true,
+EveryDice.com,gambling,60,1,100,90,BTC,manual-admin,everydice-com,everydice.com,"everydice.com",,manual,2026-09-21,true,42320fec81121a09d78441952e24ab0c991931d8747ae34147d27efae83f3683
+BitcoinVideoCasino,gambling,60,1,100,90,BTC,manual-admin,bitcoinvideocasino-com,bitcoinvideocasino.com,"bitcoinvideocasino",,none,2026-09-21,true,
+Luck.io,gambling,60,1,100,90,SOL,manual-admin,luck-io,luck.io,"luck.io",,none,2026-09-21,true,
+SecondsTrade,gambling,60,1,100,90,BTC,manual-admin,secondstrade-com,,"secondstrade",,none,2026-09-21,true,

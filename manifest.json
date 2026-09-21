@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-21T06:59:28+00:00",
+  "generated_at": "2026-09-21T07:09:38+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -31123,6 +31123,76 @@
       "logo_path": "logos/exchanges/mycoins-ge.png",
       "keywords": [
         "mycoins (emoney)"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "stake-us",
+      "category": "gambling",
+      "logo_path": "logos/gambling/stake-us.png",
+      "keywords": [
+        "stake.us"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "vilcov-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/vilcov-com.png",
+      "keywords": [
+        "vilcov.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "telbet-com",
+      "category": "gambling",
+      "logo_path": "logos/gambling/telbet-com.png",
+      "keywords": [
+        "telbet"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "acebet-com",
+      "category": "gambling",
+      "logo_path": "logos/gambling/acebet-com.png",
+      "keywords": [
+        "acebet"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dicey-poker",
+      "category": "gambling",
+      "logo_path": "logos/gambling/dicey-poker.png",
+      "keywords": [
+        "dicey"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "winna-com",
+      "category": "gambling",
+      "logo_path": "logos/gambling/winna-com.png",
+      "keywords": [
+        "winna"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "everydice-com",
+      "category": "gambling",
+      "logo_path": "logos/gambling/everydice-com.png",
+      "keywords": [
+        "everydice.com"
       ],
       "product_aliases": [],
       "sanctioned": false
