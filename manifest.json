@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-21T06:36:22+00:00",
+  "generated_at": "2026-09-21T06:49:19+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -30933,6 +30933,116 @@
       "logo_path": "logos/gambling/bluff-com.png",
       "keywords": [
         "bluff"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitaroo-com-au",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bitaroo-com-au.png",
+      "keywords": [
+        "bitaroo"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "solcasino-io",
+      "category": "gambling",
+      "logo_path": "logos/gambling/solcasino-io.png",
+      "keywords": [
+        "solcasino.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "wsm-casino",
+      "category": "gambling",
+      "logo_path": "logos/gambling/wsm-casino.png",
+      "keywords": [
+        "wsm casino"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dzengi-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/dzengi-com.png",
+      "keywords": [
+        "dzengi.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "fairmillions-com",
+      "category": "gambling",
+      "logo_path": "logos/gambling/fairmillions-com.png",
+      "keywords": [
+        "fairmillions.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "whale-io",
+      "category": "gambling",
+      "logo_path": "logos/gambling/whale-io.png",
+      "keywords": [
+        "whale.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "degen-coin-flip",
+      "category": "gambling",
+      "logo_path": "logos/gambling/degen-coin-flip.png",
+      "keywords": [
+        "degen coin flip"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "housebets-com",
+      "category": "gambling",
+      "logo_path": "logos/gambling/housebets-com.png",
+      "keywords": [
+        "housebets"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coincasino-us",
+      "category": "gambling",
+      "logo_path": "logos/gambling/coincasino-us.png",
+      "keywords": [
+        "coincasino"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "qzino-ai",
+      "category": "gambling",
+      "logo_path": "logos/gambling/qzino-ai.png",
+      "keywords": [
+        "qzino"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "thrill-com",
+      "category": "gambling",
+      "logo_path": "logos/gambling/thrill-com.png",
+      "keywords": [
+        "thrill.com"
       ],
       "product_aliases": [],
       "sanctioned": false
