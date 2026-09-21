@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-21T06:26:16+00:00",
+  "generated_at": "2026-09-21T06:36:22+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -30823,6 +30823,116 @@
       "logo_path": "logos/gambling/betswirl.png",
       "keywords": [
         "betswirl"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mintdice-com",
+      "category": "gambling",
+      "logo_path": "logos/gambling/mintdice-com.png",
+      "keywords": [
+        "mintdice"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "wager-com",
+      "category": "gambling",
+      "logo_path": "logos/gambling/wager-com.png",
+      "keywords": [
+        "wager.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "betfin-io",
+      "category": "gambling",
+      "logo_path": "logos/gambling/betfin-io.png",
+      "keywords": [
+        "betfin"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "flush-com",
+      "category": "gambling",
+      "logo_path": "logos/gambling/flush-com.png",
+      "keywords": [
+        "flush.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hunnyplay-io",
+      "category": "gambling",
+      "logo_path": "logos/gambling/hunnyplay-io.png",
+      "keywords": [
+        "hunny play"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "jackpot-bet",
+      "category": "gambling",
+      "logo_path": "logos/gambling/jackpot-bet.png",
+      "keywords": [
+        "jackpot.bet"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "toshi-bet",
+      "category": "gambling",
+      "logo_path": "logos/gambling/toshi-bet.png",
+      "keywords": [
+        "toshibet (toshi.bet)"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cybet-com",
+      "category": "gambling",
+      "logo_path": "logos/gambling/cybet-com.png",
+      "keywords": [
+        "cybet"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coinroyale-com",
+      "category": "gambling",
+      "logo_path": "logos/gambling/coinroyale-com.png",
+      "keywords": [
+        "coinroyale"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pocketdice-io",
+      "category": "gambling",
+      "logo_path": "logos/gambling/pocketdice-io.png",
+      "keywords": [
+        "pocketdice.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bluff-com",
+      "category": "gambling",
+      "logo_path": "logos/gambling/bluff-com.png",
+      "keywords": [
+        "bluff"
       ],
       "product_aliases": [],
       "sanctioned": false

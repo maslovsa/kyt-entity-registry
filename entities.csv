@@ -3039,3 +3039,17 @@ Bitlish,exchange,60,1,100,90,BTC,manual-admin,bitlish,bitlish.com,"bitlish",,non
 Bixin,exchange,60,1,100,90,BTC,manual-admin,bixin,bixin.com,"bixin",,manual,2026-09-21,true,e9c56d609e0479e8df7394728fe961fc8a4d209a8c2c9390cb873b75080f1630
 Betswirl,gambling,60,1,100,90,AVALANCHE,manual-admin,betswirl,betswirl.com,"betswirl",,manual,2026-09-21,true,5d5f3e6498f2da040e06fbc59b1bc6d0c7bfdaa36ab7f3dd0da4aff1075cc06f
 Kine Protocol,defi,60,1,100,90,BSC,manual-admin,kine-protocol,kine.trade,"kine protocol",,none,2026-09-21,true,
+MintDice,gambling,60,1,100,90,AVALANCHE,manual-admin,mintdice-com,mintdice.com,"mintdice",,manual,2026-09-21,true,9e2104470f799d7f72415f09fa11791b485e12502898559f9bc8cfe848fa07a8
+Wager.com,gambling,60,1,100,90,ARBITRUM,manual-admin,wager-com,wager.com,"wager.com",,manual,2026-09-21,true,e4106f43f18fa90c501e95ab2d718496fb43d863aa3ab90a08991c0197e56a8f
+BETFIN,gambling,60,1,100,90,ARBITRUM,manual-admin,betfin-io,betfin.io,"betfin",,manual,2026-09-21,true,c722a964a8be9885179280fca46b95cd5a333f212e60127be6efe9223d4999c7
+Flush.com,gambling,60,1,100,90,ARBITRUM,manual-admin,flush-com,flush.com,"flush.com",,manual,2026-09-21,true,23f93d5da097985c6e6fc551838688c53d9c9ccc3e457c315fc2ea76a38b57f9
+Hunny Play,gambling,60,1,100,90,BSC,manual-admin,hunnyplay-io,hunnyplay.io,"hunny play",,manual,2026-09-21,true,060402026144d7ce2fb6b2d29f21a38ea1f3d38d5de5a831315bf5ff68c4ce5f
+Jackpot.bet,gambling,60,1,100,90,BSC,manual-admin,jackpot-bet,jackpot.bet,"jackpot.bet",,manual,2026-09-21,true,c776085f1f0e65cf6aea05cb4f4ae964f214619c4fc022373d3fc225cf05d6b5
+Toshibet (Toshi.bet),gambling,60,1,100,90,SOL,manual-admin,toshi-bet,toshi.bet,"toshibet (toshi.bet)",,manual,2026-09-21,true,4b30dbe5313a62377394b7787e544015129ebd69ac22eff652cc25e79c2566e1
+RocketGame,gambling,60,1,100,90,TRON,manual-admin,rocketgame,,"rocketgame",,none,2026-09-21,true,
+cybet,gambling,60,1,100,90,TRON,manual-admin,cybet-com,cybet.com,"cybet",,manual,2026-09-21,true,12c9f7a4d2956a38efcfafd8ee218d7d9a4f48b7dcc1cc0714b0f434e6e59267
+CoinRoyale,gambling,60,1,100,90,BTC,manual-admin,coinroyale-com,coinroyale.com,"coinroyale",,manual,2026-09-21,true,650aa0b578cb64dc9a52460111b2d1367a935874993dd35b6cce522d2f202260
+Anonibet,gambling,60,1,100,90,BTC,manual-admin,anonibet-com,anonibet.com,"anonibet",,none,2026-09-21,true,
+Wagon Bet,gambling,60,1,100,90,BTC,manual-admin,wagonbet-com,wagonbet.com,"wagon bet",,none,2026-09-21,true,
+Pocketdice.io,gambling,60,1,100,90,BTC,manual-admin,pocketdice-io,pocketdice.io,"pocketdice.io",,manual,2026-09-21,true,c3ab268e8f28b431d7a93b808f5deda06eef768853cbef009b4eeea97dd78d9e
+Bluff,gambling,60,1,100,90,SOL,manual-admin,bluff-com,bluff.com,"bluff",,manual,2026-09-21,true,193fcd5453cf2d25b609cdae953890bae40903f80833d0674fc9755dcc2c5c3e
