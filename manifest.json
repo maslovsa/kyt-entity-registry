@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-21T06:15:04+00:00",
+  "generated_at": "2026-09-21T06:26:16+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -30773,6 +30773,56 @@
       "logo_path": "logos/gambling/yeet-com.png",
       "keywords": [
         "yeet.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "swcpoker",
+      "category": "gambling",
+      "logo_path": "logos/gambling/swcpoker.png",
+      "keywords": [
+        "swcpoker (seals with clubs)"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "red-stag",
+      "category": "gambling",
+      "logo_path": "logos/gambling/red-stag.png",
+      "keywords": [
+        "red stag"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitzino",
+      "category": "gambling",
+      "logo_path": "logos/gambling/bitzino.png",
+      "keywords": [
+        "bitzino"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bixin",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bixin.png",
+      "keywords": [
+        "bixin"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "betswirl",
+      "category": "gambling",
+      "logo_path": "logos/gambling/betswirl.png",
+      "keywords": [
+        "betswirl"
       ],
       "product_aliases": [],
       "sanctioned": false
