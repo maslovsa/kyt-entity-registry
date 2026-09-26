@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-26T15:04:39+00:00",
+  "generated_at": "2026-09-26T15:06:23+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -1561,16 +1561,6 @@
       "sanctioned": false
     },
     {
-      "slug": "mooniswap",
-      "category": "defi",
-      "logo_path": "logos/defi/mooniswap.png",
-      "keywords": [
-        "mooniswap"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "moonwell",
       "category": "defi",
       "logo_path": "logos/defi/moonwell.png",
@@ -2922,18 +2912,6 @@
       "sanctioned": false
     },
     {
-      "slug": "gold-dollar",
-      "category": "stablecoin_issuer",
-      "logo_path": "logos/stablecoin_issuer/gold-dollar.png",
-      "keywords": [
-        "gold dollar",
-        "gold-dollar",
-        "usdkg"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "transfero",
       "category": "psp",
       "logo_path": "logos/psp/transfero.png",
@@ -3839,28 +3817,6 @@
       "sanctioned": false
     },
     {
-      "slug": "binance-bitcoin",
-      "category": "bridge",
-      "logo_path": "logos/bridge/binance-bitcoin.png",
-      "keywords": [
-        "binance bitcoin",
-        "binance-bitcoin"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "binance-staked-eth",
-      "category": "defi",
-      "logo_path": "logos/defi/binance-staked-eth.png",
-      "keywords": [
-        "binance staked eth",
-        "binance-staked-eth"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "blackrock-buidl",
       "category": "defi",
       "logo_path": "logos/defi/blackrock-buidl.png",
@@ -4018,19 +3974,6 @@
         "usdkg",
         "usdkg.com",
         "ojsc virtual assets issuer"
-      ],
-      "product_aliases": [],
-      "sanctioned": true
-    },
-    {
-      "slug": "old-vector-llc-kg",
-      "category": "sanctioned",
-      "logo_path": "logos/sanctioned/old-vector-llc-kg.png",
-      "keywords": [
-        "old vector",
-        "old vector llc",
-        "old vektor",
-        "a7a5"
       ],
       "product_aliases": [],
       "sanctioned": true
@@ -4509,17 +4452,6 @@
       "sanctioned": false
     },
     {
-      "slug": "bybit-staked-sol",
-      "category": "defi",
-      "logo_path": "logos/defi/bybit-staked-sol.png",
-      "keywords": [
-        "bybit staked sol",
-        "bybit-staked-sol"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "cap",
       "category": "defi",
       "logo_path": "logos/defi/cap.png",
@@ -4748,28 +4680,6 @@
       "keywords": [
         "fluid dex",
         "fluid"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "fluid-lending",
-      "category": "defi",
-      "logo_path": "logos/defi/fluid-lending.png",
-      "keywords": [
-        "fluid lending",
-        "fluid-lending"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "fluid-lite",
-      "category": "defi",
-      "logo_path": "logos/defi/fluid-lite.png",
-      "keywords": [
-        "fluid lite",
-        "fluid-lite"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -6485,17 +6395,6 @@
       "keywords": [
         "frax swap",
         "frax-swap"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "frax-usd",
-      "category": "defi",
-      "logo_path": "logos/defi/frax-usd.png",
-      "keywords": [
-        "frax usd",
-        "frax-usd"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -14748,17 +14647,6 @@
       "sanctioned": false
     },
     {
-      "slug": "metamask-usd",
-      "category": "stablecoin_issuer",
-      "logo_path": "logos/stablecoin_issuer/metamask-usd.png",
-      "keywords": [
-        "metamask usd",
-        "metamask-usd"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "electronic-usd",
       "category": "stablecoin_issuer",
       "logo_path": "logos/stablecoin_issuer/electronic-usd.png",
@@ -14898,16 +14786,6 @@
       "keywords": [
         "sperax usd",
         "sperax-usd"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "jupusd",
-      "category": "stablecoin_issuer",
-      "logo_path": "logos/stablecoin_issuer/jupusd.png",
-      "keywords": [
-        "jupusd"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -15399,16 +15277,6 @@
         "global dollar",
         "global-dollar",
         "usdg"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "megausd",
-      "category": "stablecoin_issuer",
-      "logo_path": "logos/stablecoin_issuer/megausd.png",
-      "keywords": [
-        "megausd"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -15945,18 +15813,6 @@
         "uusd",
         "youves uusd",
         "youves-uusd"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "yuzu-usd",
-      "category": "stablecoin_issuer",
-      "logo_path": "logos/stablecoin_issuer/yuzu-usd.png",
-      "keywords": [
-        "yuzu usd",
-        "yuzu-usd",
-        "yzusd"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -21650,18 +21506,6 @@
       "sanctioned": false
     },
     {
-      "slug": "bungee-exchange",
-      "category": "dex",
-      "logo_path": "logos/dex/bungee-exchange.png",
-      "keywords": [
-        "bungee exchange",
-        "bungee-exchange",
-        "bungee"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "bydfi-com-bityard-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/bydfi-com-bityard-com.png",
@@ -22657,17 +22501,6 @@
       "sanctioned": false
     },
     {
-      "slug": "crypto-exchanger-bot",
-      "category": "bot",
-      "logo_path": "logos/bot/crypto-exchanger-bot.png",
-      "keywords": [
-        "crypto exchanger bot",
-        "crypto-exchanger-bot"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "depay-com",
       "category": "psp",
       "logo_path": "logos/psp/depay-com.png",
@@ -22896,16 +22729,6 @@
       "logo_path": "logos/exchanges/kuna-io.png",
       "keywords": [
         "kuna"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "24crypto-bot",
-      "category": "bot",
-      "logo_path": "logos/bot/24crypto-bot.png",
-      "keywords": [
-        "24crypto"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -24037,16 +23860,6 @@
       "keywords": [
         "shibaswap.com",
         "shibaswap"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "squid",
-      "category": "dex",
-      "logo_path": "logos/dex/squid.png",
-      "keywords": [
-        "squid"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -26032,16 +25845,6 @@
       "sanctioned": false
     },
     {
-      "slug": "specie-wallet",
-      "category": "wallet",
-      "logo_path": "logos/wallet/specie-wallet.png",
-      "keywords": [
-        "specie wallet"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "88mph",
       "category": "defi",
       "logo_path": "logos/defi/88mph.png",
@@ -26187,18 +25990,6 @@
         "bvnk.com - coindirect.com",
         "bvnk",
         "bvnk.com"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "coinone-co-kr",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/coinone-co-kr.png",
-      "keywords": [
-        "coinone",
-        "coinone co kr",
-        "coinone.co.kr"
       ],
       "product_aliases": [],
       "sanctioned": false
