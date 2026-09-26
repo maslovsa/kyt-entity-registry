@@ -859,7 +859,7 @@ Apollo Securitize,psp,70,0,0,10,ETH|AVALANCHE|POLYGON|SOL,pharos-stablecoins,apo
 Asymmetry,psp,70,0,0,10,ETH,pharos-stablecoins,asymmetry,asymmetry.finance,"asymmetry,asymmetry.finance","USDaf,ampUSD",manual,2026-07-22,true,4045244150dde38172e7a0324142e237bf2403f9b31301d0cac95ee2c5d51f91
 Bima,psp,70,0,0,35,ETH,pharos-stablecoins,bima,bima.money,"bima,bima.money,bima labs",USBD,manual,2026-07-22,true,626c3d63d1bd70a18a8f9a94090fcbdfe61b08b8e9cc49e9db5c56301711495f
 Brix,psp,70,0,0,60,ETH,pharos-stablecoins,brix,brix.money,"brix,brix.money,itry,witry",,manual,2026-07-22,true,b12599576fb83fce5cf37761ecde4f4ababda5e16bb174b958baadb86ed345b3
-Brl1,psp,70,0,0,15,POLYGON,pharos-stablecoins,brl1,brl1.io,"brl1,brl1.io",,synthetic,2026-08-17,false,d7fc588e4abfc5641da594b4a8ab1c7eb559b2b8e11e1fa3bc1876588683b6c2
+Brl1,psp,70,0,0,15,POLYGON,pharos-stablecoins,brl1,brl1.io,"brl1,brl1.io",,manual,2026-09-26,true,a18740521e6b8796318193b0cce8490af269e177c0f99a3f83dfee94ec99f75a
 Celo,psp,70,0,0,10,ETH|POLYGON|SOL,pharos-stablecoins,celo,celo.org,"celo,celo.org,mento,mento protocol,celo foundation,cusd,ceur",,arkham,2026-08-17,false,192abf90bfbc3ccf6e597b03c63e314ccf61a21134df80048eca9f3b7c07eeae
 Compliant Naira,stablecoin_issuer,70,6,70,30,ETH|BSC|POLYGON,pharos-stablecoins|coingecko-tokens,compliant-naira,cngn.co,"compliant naira,cngn.co,wrappedcbdc,consortium naira",CNGN,manual,2026-07-22,true,38c20d8a611ea105a7a68feb44e2188ee800bc4a741ac6fb95bb80ba0a008700
 Crown,stablecoin_issuer,70,2,70,12,ETH,pharos-stablecoins|coingecko-tokens,crown-brlv,crown-brlv.com,"crown brlv,crown-brlv.com,brl.xyz",BRLV,manual,2026-07-22,true,c81796ad9de41c42db04a53b685ab68aa8774c905da8387e42984533b7e71f59
