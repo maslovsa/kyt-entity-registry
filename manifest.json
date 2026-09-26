@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-21T09:59:12+00:00",
+  "generated_at": "2026-09-26T15:03:32+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -3731,6 +3731,30 @@
       "keywords": [
         "eclipse",
         "svm l2"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "main-street",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/main-street.png",
+      "keywords": [
+        "mainstreet.finance",
+        "mainstreet finance",
+        "msusd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "us-nerite-dollar",
+      "category": "stablecoin_issuer",
+      "logo_path": "logos/stablecoin_issuer/us-nerite-dollar.png",
+      "keywords": [
+        "nerite",
+        "nerite.org",
+        "usnd"
       ],
       "product_aliases": [],
       "sanctioned": false
