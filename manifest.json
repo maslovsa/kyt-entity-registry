@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-26T15:03:32+00:00",
+  "generated_at": "2026-09-26T15:04:39+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -2909,8 +2909,8 @@
     },
     {
       "slug": "exodus",
-      "category": "stablecoin_issuer",
-      "logo_path": "logos/stablecoin_issuer/exodus.png",
+      "category": "wallet",
+      "logo_path": "logos/wallet/exodus.png",
       "keywords": [
         "exodus",
         "exodus movement",
@@ -4743,8 +4743,8 @@
     },
     {
       "slug": "fluid",
-      "category": "dex",
-      "logo_path": "logos/dex/fluid.png",
+      "category": "defi",
+      "logo_path": "logos/defi/fluid.png",
       "keywords": [
         "fluid dex",
         "fluid"
@@ -5155,8 +5155,8 @@
     },
     {
       "slug": "phantom-sol",
-      "category": "defi",
-      "logo_path": "logos/defi/phantom-sol.png",
+      "category": "wallet",
+      "logo_path": "logos/wallet/phantom-sol.png",
       "keywords": [
         "phantom sol",
         "phantom-sol"
@@ -5635,8 +5635,8 @@
     },
     {
       "slug": "ember",
-      "category": "stablecoin_issuer",
-      "logo_path": "logos/stablecoin_issuer/ember.png",
+      "category": "defi",
+      "logo_path": "logos/defi/ember.png",
       "keywords": [
         "ember",
         "ember protocol",
@@ -9323,8 +9323,8 @@
     },
     {
       "slug": "jupiter",
-      "category": "psp",
-      "logo_path": "logos/psp/jupiter.png",
+      "category": "dex",
+      "logo_path": "logos/dex/jupiter.png",
       "keywords": [
         "jupiter",
         "jup.ag",
@@ -16606,8 +16606,8 @@
     },
     {
       "slug": "novatti",
-      "category": "stablecoin_issuer",
-      "logo_path": "logos/stablecoin_issuer/novatti.png",
+      "category": "psp",
+      "logo_path": "logos/psp/novatti.png",
       "keywords": [
         "novatti",
         "novatti group",
@@ -23295,8 +23295,8 @@
     },
     {
       "slug": "spark",
-      "category": "mining",
-      "logo_path": "logos/mining/spark.png",
+      "category": "defi",
+      "logo_path": "logos/defi/spark.png",
       "keywords": [
         "spark"
       ],
@@ -24870,8 +24870,8 @@
     },
     {
       "slug": "ethena-fi",
-      "category": "dex",
-      "logo_path": "logos/dex/ethena-fi.png",
+      "category": "defi",
+      "logo_path": "logos/defi/ethena-fi.png",
       "keywords": [
         "ethena.fi",
         "ethena"
