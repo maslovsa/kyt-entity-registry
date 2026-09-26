@@ -2999,7 +2999,7 @@ SatoshiDICE,gambling,60,1,100,90,BTC,manual-admin,satoshidice-com,satoshidice.co
 Nitrogen Sports,gambling,60,1,100,90,BTC,manual-admin,nitrogen-sports,nitrogensports.eu,nitrogen sports,,manual,2026-09-21,true,3c119274a50323f5980597eea288b3c97eb8534ed748e37d4545a27a2f25805e
 CSGO Empire,gambling,60,1,100,90,BTC,manual-admin,csgo-empire,csgoempire.com,csgo empire,,manual,2026-09-21,true,90649c7ee960b5d95b0210c10cfb453c75d674d1be9bdbff3515d02a12682c9d
 TradeOgre,exchange,60,1,100,90,POLYGON,manual-admin,tradeogre-com,tradeogre.com,tradeogre,,none,2026-09-21,true,
-Bitcoin.de (Bitcoin Group SE),exchange,60,1,100,90,BTC,manual-admin,bitcoin-de,bitcoin.de,bitcoin.de (bitcoin group se),,manual,2026-09-21,true,2237fa1400256b69179a59cf70b3a8ba5ef83240561e0c23881666c7d4072b50
+Bitcoin.de (Bitcoin Group SE),exchange,60,1,100,90,BTC,manual-admin,bitcoin-de,bitcoin.de,"bitcoin.de,bitcoin group se",,manual,2026-09-21,true,2237fa1400256b69179a59cf70b3a8ba5ef83240561e0c23881666c7d4072b50
 Btc38,exchange,60,1,100,90,BTC,manual-admin,btc38-com,btc38.com,btc38,,manual,2026-09-21,true,a1a8b0d3c7da9ae6ebc927db134b9c063c4a3d3a4bb9bfc937369627669ff7e8
 Coinroll,gambling,60,1,100,90,BTC,manual-admin,coinroll-com,coinroll.com,coinroll,,none,2026-09-21,true,
 Gamba,gambling,60,1,100,90,SOL,manual-admin,gamba-io,gamba.io,gamba,,manual,2026-09-21,true,1ac754dd78a4a484a011452ea471fbd9e3f47f993a27d5d643ade037bbbfac52
@@ -3007,7 +3007,7 @@ SX Network,gambling,60,1,100,90,ARBITRUM,manual-admin,sx-bet,sx.bet,sx network,,
 Braziliex,exchange,60,1,100,90,BTC,manual-admin,braziliex-com,braziliex.com,braziliex,,none,2026-09-21,true,
 Yeet.com,gambling,60,1,100,90,AVALANCHE,manual-admin,yeet-com,yeet.com,yeet.com,,manual,2026-09-21,true,b89f57389f844283bd512d4b555a05502d635a09e7473e4cadf577d352c8860a
 InvestmentDouble,exchange,60,1,100,90,BTC,manual-admin,investmentdouble,,investmentdouble,,none,2026-09-21,true,
-SWCPoker (Seals With Clubs),gambling,60,1,100,90,BTC,manual-admin,swcpoker,swcpoker.eu,swcpoker (seals with clubs),,manual,2026-09-21,true,1c428303f7de94bb8f1d16444a8f868970cb12ee562be2328188d7d9b4f850a6
+SWCPoker (Seals With Clubs),gambling,60,1,100,90,BTC,manual-admin,swcpoker,swcpoker.eu,"swcpoker,swcpoker.eu,seals with clubs",,manual,2026-09-21,true,1c428303f7de94bb8f1d16444a8f868970cb12ee562be2328188d7d9b4f850a6
 Red Stag,gambling,60,1,100,90,BTC,manual-admin,red-stag,redstagcasino.eu,red stag,,manual,2026-09-21,true,2d07f1be9eee4e9eec1b3ad3cd5c485ecf894572e5983a269dc17e549938f610
 Superslots,gambling,60,1,100,90,BTC,manual-admin,superslots,superslots.com,superslots,,none,2026-09-21,true,
 BitZino,gambling,60,1,100,90,BTC,manual-admin,bitzino,bitzino.com,bitzino,,manual,2026-09-21,true,1bd42ce54d71defcd83e9876ae52e58f3be87f6af48d64f56d5837e5c9bcbf7d
@@ -3038,7 +3038,7 @@ Satoshibet,gambling,60,1,100,90,BTC,manual-admin,satoshibet-com,satoshibet.com,s
 Playtin,gambling,60,1,100,90,BTC,manual-admin,playtin-com,,playtin,,none,2026-09-21,true,
 Fairmillions.com,gambling,60,1,100,90,BTC,manual-admin,fairmillions-com,fairmillions.com,fairmillions.com,,manual,2026-09-21,true,ab907fc99ea485d1571a2716e7572c20642cb4bb7ae7f0149a4a18110ff12e71
 Whale.io,gambling,60,1,100,90,SOL,manual-admin,whale-io,whale.io,whale.io,,manual,2026-09-21,true,f4e8fc949f1df4d570e3c18529c967f076d13b5e3c4dd3a5312c1bce82bd2d08
-Degen Coin Flip,gambling,60,1,100,90,SOL,manual-admin,degen-coin-flip,degencoinflip.com,degen coin flip,,manual,2026-09-21,true,58e4ec6ae127ec7348d98bedbf85e4f034ff744db54e96c69b88622817484e51
+Degen Coin Flip,gambling,60,1,100,90,SOL,manual-admin,degen-coin-flip,degencoinflip.com,"degen coin flip,degencoinflip.com",,manual,2026-09-21,true,58e4ec6ae127ec7348d98bedbf85e4f034ff744db54e96c69b88622817484e51
 Housebets,gambling,60,1,100,90,BTC,manual-admin,housebets-com,housebets.com,housebets,,manual,2026-09-21,true,d1faebf44b255eb89e0333b66669999641b444fe3c77118e51a0d6e24e887092
 CoinCasino,gambling,60,1,100,90,POLYGON,manual-admin,coincasino-us,coincasino.us.com,coincasino,,manual,2026-09-21,true,c6b59e50a17cfec87248b67643d45bfe4cfda7644adb597fe06510216ab3891f
 Qzino,gambling,60,1,100,90,TRON,manual-admin,qzino-ai,qzino.ai,qzino,,manual,2026-09-21,true,3c0ebcbb89adb277af6a1d99c74af4257bf4d9b3f0a3677c0f46c2fb46f7eb04

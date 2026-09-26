@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-26T15:06:23+00:00",
+  "generated_at": "2026-09-26T15:09:55+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -30547,7 +30547,8 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/bitcoin-de.png",
       "keywords": [
-        "bitcoin.de (bitcoin group se)"
+        "bitcoin.de",
+        "bitcoin group se"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -30597,7 +30598,9 @@
       "category": "gambling",
       "logo_path": "logos/gambling/swcpoker.png",
       "keywords": [
-        "swcpoker (seals with clubs)"
+        "swcpoker",
+        "swcpoker.eu",
+        "seals with clubs"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -30817,7 +30820,8 @@
       "category": "gambling",
       "logo_path": "logos/gambling/degen-coin-flip.png",
       "keywords": [
-        "degen coin flip"
+        "degen coin flip",
+        "degencoinflip.com"
       ],
       "product_aliases": [],
       "sanctioned": false
