@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T13:01:22+00:00",
+  "generated_at": "2026-09-27T13:05:36+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -6108,6 +6108,17 @@
       "sanctioned": false
     },
     {
+      "slug": "crypto-pro-llc",
+      "category": "sanctioned",
+      "logo_path": "logos/sanctioned/crypto-pro-llc.png",
+      "keywords": [
+        "cryptopro llc",
+        "ooo cryptopro"
+      ],
+      "product_aliases": [],
+      "sanctioned": true
+    },
+    {
       "slug": "aerodrome-slipstream",
       "category": "dex",
       "logo_path": "logos/dex/aerodrome-slipstream.png",
@@ -10572,6 +10583,17 @@
         "tabdeal",
         "tabdeal.org",
         "tabdeal exchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "cryptonator",
+      "category": "custodian",
+      "logo_path": "logos/custodian/cryptonator.png",
+      "keywords": [
+        "cryptonator",
+        "cryptonator.com"
       ],
       "product_aliases": [],
       "sanctioned": false

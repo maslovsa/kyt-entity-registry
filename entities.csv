@@ -579,6 +579,11 @@ SecondEye Solution,sanctioned,90,17,90,100,BTC|ETH|LTC,manual-admin,secondeye-so
 Bolai Entertainment City,sanctioned,90,,90,100,,manual-admin,bolai-entertainment-city,,"bolai entertainment city,bolai casino",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 NFT Home DMCC,sanctioned,90,,90,100,,manual-admin,nft-home-dmcc,,"nft home dmcc,nft home",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Novo Blockchain Consultoria LDA,sanctioned,90,,90,100,,manual-admin,novo-blockchain-consultoria,,"novo blockchain consultoria,novo blockchain consultoria lda",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+A71 LLC,sanctioned,90,,90,100,,manual-admin,a71-llc,,"a71 llc,a71 payment",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Crypto Explorer DMCC (AWEX / Bankoff),sanctioned,90,,90,100,,manual-admin,crypto-explorer-dmcc,,"crypto explorer dmcc,awex crypto,bankoff",,none,2026-09-27,true,
+B-Crypto,sanctioned,90,,90,100,,manual-admin,b-crypto,,"b-crypto payment,bcrypto",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+OOO CryptoPro,sanctioned,90,,90,100,,manual-admin,crypto-pro-llc,cryptopro.ru,"cryptopro llc,ooo cryptopro",,manual,2026-09-27,true,2c7bafd1e666951e747d7ce456b81cbca48494e9aa1c65f2f4a47c99a60ff2df
+Titan Exchange (Titan Land Petrochemicals Trading L.L.C),sanctioned,90,,90,100,,manual-admin,titan-exchange-dubai,,"titan land petrochemicals trading,titan exchange dubai",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Aerodrome Slipstream,dex,85,0,0,10,BASE,,aerodrome-slipstream,aerodrome.finance,"aerodrome slipstream,aerodrome-slipstream",,defillama,2026-05-11,false,c2df3403e59f93fee81e7934096aaa03fe1d85f8ba70d8b2f93bcee402482e4c
 Aerodrome V1,dex,85,0,0,10,BASE,,aerodrome,aerodrome.finance,aerodrome,,arkham,2026-05-11,false,cdcf6701a3b6496953385bd9eb1b2bb084efc89ef7fe393e8ea07dee70f0f268
 AFI Protocol,defi,85,0,0,10,BASE|ETH,,afi,afiprotocol.xyz,afi,,defillama,2026-05-11,false,a78c091013568742f29a283adc437cc82c45841fb36bbf503e2ec2a2f8128633
@@ -1024,6 +1029,7 @@ Exbito,exchange,75,,80,65,,manual-admin,exbito,exbito.com,"exbito,exbito.com,exb
 Pingi,exchange,75,,80,65,,manual-admin,pingi-ir,pingi.ir,"pingi.ir,pingi iran exchange",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 QvaPay,psp,75,,80,65,,manual-admin,qvapay,qvapay.com,"qvapay,qvapay.com",,favicon,2026-09-27,false,ec8a93f0adf538503ac542d73359e513d2d341d921210366acf2a6882bbce8f3
 BitRemesas,psp,75,,80,65,,manual-admin,bitremesas,bitremesas.com,"bitremesas,bitremesas.com",,favicon,2026-09-27,false,c66a3d3b608aa0d5766e57ba6307f3b7e3e2e03e33543c7375f0febdb84c585a
+Cryptonator,custodian,75,,80,65,,manual-admin,cryptonator,,"cryptonator,cryptonator.com",,arkham,2026-09-27,false,0f75dd197f3cf3468c397def0ac1e88df87a33b01f72acd8062a747aedfb12ba
 Cruxpool,mining,70,10,75,5,ETH|AVAX,manual-admin,cruxpool,cruxpool.com,"cruxpool,cruxpool.com,cruxpool mining",,manual,2026-07-09,true,8525a62d7528e872a6e9e461dc1aca621a0a0579e7fddad3b4254f48f2943178
 DeFinity,defi,70,5,75,5,ETH|ARBITRUM|AVAX,manual-admin,definity,definity.network,"definity,definity.network,definity exchange",,manual,2026-07-09,true,511039db095a880d2a7c4904f8ffe667142fb6359c6a5a1d163931b717bbe9e5
 DwarfPool,mining,70,15,75,5,ETH,manual-admin,dwarfpool,dwarfpool.com,"dwarfpool,dwarfpool.com,dwarf pool mining",,manual,2026-07-09,true,c0fc6bcdc508d2f22c49a1ae64af2819869ef7f0760b2ea4fc8ccf4382f1a7ed
