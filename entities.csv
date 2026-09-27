@@ -578,6 +578,7 @@ Funnull Technology,sanctioned,90,2,90,100,ETH|TRON,manual-admin,funnull-technolo
 SecondEye Solution,sanctioned,90,17,90,100,BTC|ETH|LTC,manual-admin,secondeye-solution,,"secondeye solution,secondeye hosting",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Bolai Entertainment City,sanctioned,90,,90,100,,manual-admin,bolai-entertainment-city,,"bolai entertainment city,bolai casino",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 NFT Home DMCC,sanctioned,90,,90,100,,manual-admin,nft-home-dmcc,,"nft home dmcc,nft home",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Novo Blockchain Consultoria LDA,sanctioned,90,,90,100,,manual-admin,novo-blockchain-consultoria,,"novo blockchain consultoria,novo blockchain consultoria lda",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Aerodrome Slipstream,dex,85,0,0,10,BASE,,aerodrome-slipstream,aerodrome.finance,"aerodrome slipstream,aerodrome-slipstream",,defillama,2026-05-11,false,c2df3403e59f93fee81e7934096aaa03fe1d85f8ba70d8b2f93bcee402482e4c
 Aerodrome V1,dex,85,0,0,10,BASE,,aerodrome,aerodrome.finance,aerodrome,,arkham,2026-05-11,false,cdcf6701a3b6496953385bd9eb1b2bb084efc89ef7fe393e8ea07dee70f0f268
 AFI Protocol,defi,85,0,0,10,BASE|ETH,,afi,afiprotocol.xyz,afi,,defillama,2026-05-11,false,a78c091013568742f29a283adc437cc82c45841fb36bbf503e2ec2a2f8128633
@@ -1019,6 +1020,10 @@ Arzypto,exchange,75,,80,65,,manual-admin,arzypto,arzypto.com,"arzypto,arzypto.co
 Bidarz,exchange,75,,80,65,,manual-admin,bidarz,bidarz.ir,"bidarz,bidarz.ir,bidarz p2p exchange",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Pooleno,otc_desk,75,,80,65,,manual-admin,pooleno,pooleno.ir,"pooleno,pooleno.ir,pooleno otc",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Tabdeal,exchange,75,,80,65,,manual-admin,tabdeal,tabdeal.org,"tabdeal,tabdeal.org,tabdeal exchange",,arkham,2026-09-27,false,3b99f919e2be999deb1a6e2c4d4c09942885360b55fabeeb4f2232ea3b07f076
+Exbito,exchange,75,,80,65,,manual-admin,exbito,exbito.com,"exbito,exbito.com,exbito exchange",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Pingi,exchange,75,,80,65,,manual-admin,pingi-ir,pingi.ir,"pingi.ir,pingi iran exchange",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+QvaPay,psp,75,,80,65,,manual-admin,qvapay,qvapay.com,"qvapay,qvapay.com",,favicon,2026-09-27,false,ec8a93f0adf538503ac542d73359e513d2d341d921210366acf2a6882bbce8f3
+BitRemesas,psp,75,,80,65,,manual-admin,bitremesas,bitremesas.com,"bitremesas,bitremesas.com",,favicon,2026-09-27,false,c66a3d3b608aa0d5766e57ba6307f3b7e3e2e03e33543c7375f0febdb84c585a
 Cruxpool,mining,70,10,75,5,ETH|AVAX,manual-admin,cruxpool,cruxpool.com,"cruxpool,cruxpool.com,cruxpool mining",,manual,2026-07-09,true,8525a62d7528e872a6e9e461dc1aca621a0a0579e7fddad3b4254f48f2943178
 DeFinity,defi,70,5,75,5,ETH|ARBITRUM|AVAX,manual-admin,definity,definity.network,"definity,definity.network,definity exchange",,manual,2026-07-09,true,511039db095a880d2a7c4904f8ffe667142fb6359c6a5a1d163931b717bbe9e5
 DwarfPool,mining,70,15,75,5,ETH,manual-admin,dwarfpool,dwarfpool.com,"dwarfpool,dwarfpool.com,dwarf pool mining",,manual,2026-07-09,true,c0fc6bcdc508d2f22c49a1ae64af2819869ef7f0760b2ea4fc8ccf4382f1a7ed
@@ -1794,9 +1799,9 @@ Wintermute,defi,60,1,75,5,ETH|BSC|SOL,manual-admin,wintermute,wintermute.com,win
 Onion Market,exchange,60,3,75,50,TRON,manual-admin,onion-market,t.me/onionmarket_bot,"onion market,onionmarket",,manual,2026-07-09,true,dd939afeec0f17f38987c6178485884b78b93eac1e38c8385bde6581829e65b1
 Raastin,exchange,60,,,,TRON,,raastin-com,raastin.com,"raastin,raastin.com",,manual,2026-07-14,true,7d7da9cb9ad339f0ce43bb70a86ffb05c40ed6248a9b2e03dfd25b32b5054ce5
 ExWallet,custodian,60,,,,TRON,,exwallet-io,exwallet.io,"exwallet,exwallet.io",,manual,2026-07-14,true,eefe579a617342c6a2a938a777b1f29e092a9341e30eb7d9d8c7765f0a37e232
-3A Dao,psp,60,0,0,15,ETH,pharos-stablecoins,3a-dao,3adao.org,"3a dao,3adao,3adao.org,euro3",A3A,synthetic,2026-08-17,false,c15b89c69f65fd458fb7ccef30cc65d17fea82d2ffdae7b02481d4a1c64c1f78
+3A Dao,psp,60,0,0,15,ETH,pharos-stablecoins,3a-dao,3adao.org,"3a dao,3adao,3adao.org,euro3",A3A,arkham,2026-09-27,false,41e518da3283264ed1324a99dbc36244c6163d3b8cc06d8f14a9ff8de7d3b922
 3Jane,psp,60,0,0,45,ETH,pharos-stablecoins,3jane,3jane.xyz,"3jane,3jane.xyz","USD3,sUSD3",manual,2026-07-22,true,1e4f92b0b1d8446d0d0a01ec408b461ce736c99deb8f1bac58ad2c17ba179bd4
-Alpha Partner,psp,60,1,0,60,BSC,pharos-stablecoins,alpha-partner,alphapartner.vip,"alpha partner,alphapartner.vip,ap ucard,usda",,synthetic,2026-08-17,false,a95c12ba63051c0404708d89b477d5c867cc06c072be352db9acad81b60d3dfb
+Alpha Partner,psp,60,1,0,60,BSC,pharos-stablecoins,alpha-partner,alphapartner.vip,"alpha partner,alphapartner.vip,ap ucard,usda",,arkham,2026-09-27,false,bc9f2a48d77636e238ad5ddaaf9bbc48599ca9539e5d9c421af3b7f23118c7bb
 Alto,psp,60,1,0,25,ETH,pharos-stablecoins,alto,altofoundation.org,"alto,altofoundation.org,alto.money,dusd",,manual,2026-07-22,true,8b5ae3bbe72c64e991094d1c46adef362115767178371f9a01b36844cf1feb75
 Apyx,psp,60,0,0,35,ETH|BASE,pharos-stablecoins,apyx,apyx.fi,"apyx,apyx.fi","apxUSD,apyUSD",manual,2026-07-22,true,737c64d253f41c7a41c558665cb0336301b2e7306cd09ff9d38ca8adc547164a
 Argentine Peso,psp,60,0,0,15,ETH|BASE,pharos-stablecoins,argentine-peso,ripio.com,"argentine peso,ripio.com,wars,ripio",,synthetic,2026-08-17,false,a95c12ba63051c0404708d89b477d5c867cc06c072be352db9acad81b60d3dfb
@@ -1804,8 +1809,8 @@ Aussie Dollar Token,psp,60,0,0,15,ETH|POLYGON,pharos-stablecoins,aussie-dollar-t
 Auto Finance,psp,60,0,0,35,ETH,pharos-stablecoins,auto-finance,auto.finance,"auto finance,auto.finance,tokemak","AUTO,TOKE,autoUSD",manual,2026-07-22,true,6b79a1e53f3440811d9b52ab450a17458d4165b2858ca0bdb948cea17ae70aa6
 Avant Protocol,defi,60,0,0,10,AVALANCHE,,avant,avantprotocol.com,"avant,avant protocol,avantprotocol.com",,manual,2026-07-22,true,f673c0d418f1167df36be577bb27ff074581b5f81d7e5e2ae7f5111964416d65
 BRLA Digital,stablecoin_issuer,60,2,70,10,POLYGON,coingecko-tokens|manual-admin,brla-digital,brla.digital,"brla,brla digital,brla token,brla.digital",avenia,manual,2026-07-22,true,d75e0d24f4bcc5334f18118faae0c480735ed8fb340572e115f7044bc32724e9
-Cod3X,psp,60,0,0,40,BASE,pharos-stablecoins,cod3x,cod3x.org,"cod3x,cod3x.org,cod3x lend,cod3x facilitators,cdxusd",,synthetic,2026-08-17,false,40a1d772bac2f1699fd4e526947e3d50f4f38b885429c321c095bb9df2a5328d
-Cygnus Finance,psp,60,0,0,20,BASE|ETH|POLYGON|AVALANCHE,pharos-stablecoins,cygnus-finance,cygnus.finance,"cygnus finance,cygnus.finance,cgusd,wcgusd",,synthetic,2026-08-17,false,a08f3fea097b16e763c1d3e845f163f88b39b88b482f31e4151b9e35bf15a5b0
+Cod3X,psp,60,0,0,40,BASE,pharos-stablecoins,cod3x,cod3x.org,"cod3x,cod3x.org,cod3x lend,cod3x facilitators,cdxusd",,arkham,2026-09-27,false,74f333c5b92f96f3f57fd7bf45c5bb424f906c8cf63342fccde2888521d9298a
+Cygnus Finance,psp,60,0,0,20,BASE|ETH|POLYGON|AVALANCHE,pharos-stablecoins,cygnus-finance,cygnus.finance,"cygnus finance,cygnus.finance,cgusd,wcgusd",,arkham,2026-09-27,false,c014c337460cee432c006c12ef18de42dcf23ee4e8eeb15b3aba8ae2a8dceaa1
 Hedgecore,defi,60,0,60,10,BSC|POLYGON,manual-admin,hedgecore,hedgecore.io,"hedgecore,hedgecore.io",,manual,2026-07-22,true,1d53a3b5cf8c2b2c6bb223e542abb8ed1830f1b90d7714d3593fc3c178e2e499
 Neutrl,defi,60,1,75,10,ETH,pharos-watch,neutrl,neutrl.finance,"neutrl,neutrl.finance,nusd,neutrl finance",,manual,2026-07-22,true,fe6fdc982cbb16a834de19b8dd6c8a91f142a75d62217fbade213af4e903df55
 Novatti,psp,60,0,0,5,,,novatti,novatti.com,"novatti,novatti group,novatti.com,audd",,synthetic,2026-08-17,false,e747e15534600db1dc6276e9cda446c5413cf164c1a835d0c97ad540e8574a64
@@ -1914,6 +1919,9 @@ Haihua Guarantee,sanctioned,60,,70,70,,manual-admin,haihua-guarantee,,"haihua gu
 Jiuding Guarantee,sanctioned,60,,70,70,,manual-admin,jiuding-guarantee,,"jiuding guarantee,jiuding",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 XVIP Wallet,custodian,60,,70,70,,manual-admin,xvip-wallet,,"xvip wallet,xvip",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Alhimik Shop,sanctioned,60,,70,70,,manual-admin,alhimik-shop,,"alhimik shop,alhimik",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Solaris (darknet market),sanctioned,60,,70,70,,manual-admin,solaris-darknet-market,,"solaris darknet market,solaris market",,none,2026-09-27,true,
+Kifpool,exchange,60,,70,70,,manual-admin,kifpool,kifpool.me,"kifpool,kifpool.me",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Sarafi Bahmani,otc_desk,60,,70,70,,manual-admin,sarafi-bahmani,,"sarafi bahmani,sarafi bahmani exchange",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 HKD.com,exchange,58,,,,TRON|ETH|BTC,,hkd-com,hkd.com,"hkd,hkd.com",,favicon,2026-09-27,false,f2e8d76fc8274c95e766d8079a2946cdcc328bea2db6c52e47d25c7f94be8a9c
 Tudou Danbao,exchange,55,,,,TRON,,tudou-danbao,,"tudou danbao,tudou,danbao",土豆担保,synthetic,2026-08-17,false,aa894562e13fba96e469a6f174107f3670baa4e330e1d1babebb29027df53b0e
 CAD Digital,stablecoin_issuer,55,2,70,8,ETH,coingecko-tokens|manual-admin,cad-digital,tetradg.com,"cad digital,cadd,tetra digital group,tetra trust company",,none,2026-07-22,true,
