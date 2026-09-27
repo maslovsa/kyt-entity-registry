@@ -571,6 +571,13 @@ Exnode,psp,90,17,90,5,TRON,manual-admin,exnode,exnode.io,"exnode,exnode pay,paym
 Lazarus Group,sanctioned,90,0,100,100,ETH|TRON|BTC|BSC,manual-admin,lazarus-group,,"lazarus,lazarus group,apt38,north korea hacking group",,manual,2026-09-13,true,16748ede698c8906692a24aaa10eff226a6f9c7e0948e12fd3fe677ce3502878
 Onebit,otc_desk,90,9,90,10,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,arkham-intelligence,onebit,onebit.com,"onebit,onebit.com,onebit digital",,manual,2026-09-14,true,6d86278c71068f9031da43785f141f3aea0ed968848f39a6ff9cf47e117312e3
 Sinbad.io,sanctioned,90,2,90,100,BTC,manual-admin,sinbad-io,,"sinbad.io,sinbad mixer",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Aeza Group LLC,sanctioned,90,1,90,100,TRON,manual-admin,aeza-group,,"aeza group,aeza international,aeza hosting",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+ZServers,sanctioned,90,3,90,100,BTC,manual-admin,zservers,,"zservers,z servers bulletproof hosting",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+First VPN Service,sanctioned,90,5,90,100,LTC|TRON|BTC|ETH,manual-admin,first-vpn-service,,"first vpn service,first vpn",,none,2026-09-27,true,
+Funnull Technology,sanctioned,90,2,90,100,ETH|TRON,manual-admin,funnull-technology,,"funnull technology,funnull cdn",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+SecondEye Solution,sanctioned,90,17,90,100,BTC|ETH|LTC,manual-admin,secondeye-solution,,"secondeye solution,secondeye hosting",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Bolai Entertainment City,sanctioned,90,,90,100,,manual-admin,bolai-entertainment-city,,"bolai entertainment city,bolai casino",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+NFT Home DMCC,sanctioned,90,,90,100,,manual-admin,nft-home-dmcc,,"nft home dmcc,nft home",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Aerodrome Slipstream,dex,85,0,0,10,BASE,,aerodrome-slipstream,aerodrome.finance,"aerodrome slipstream,aerodrome-slipstream",,defillama,2026-05-11,false,c2df3403e59f93fee81e7934096aaa03fe1d85f8ba70d8b2f93bcee402482e4c
 Aerodrome V1,dex,85,0,0,10,BASE,,aerodrome,aerodrome.finance,aerodrome,,arkham,2026-05-11,false,cdcf6701a3b6496953385bd9eb1b2bb084efc89ef7fe393e8ea07dee70f0f268
 AFI Protocol,defi,85,0,0,10,BASE|ETH,,afi,afiprotocol.xyz,afi,,defillama,2026-05-11,false,a78c091013568742f29a283adc437cc82c45841fb36bbf503e2ec2a2f8128633
