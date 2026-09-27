@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T13:05:36+00:00",
+  "generated_at": "2026-09-27T13:09:47+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -6114,6 +6114,28 @@
       "keywords": [
         "cryptopro llc",
         "ooo cryptopro"
+      ],
+      "product_aliases": [],
+      "sanctioned": true
+    },
+    {
+      "slug": "hamas",
+      "category": "sanctioned",
+      "logo_path": "logos/sanctioned/hamas.png",
+      "keywords": [
+        "hamas",
+        "islamic resistance movement"
+      ],
+      "product_aliases": [],
+      "sanctioned": true
+    },
+    {
+      "slug": "gaza-now",
+      "category": "sanctioned",
+      "logo_path": "logos/sanctioned/gaza-now.png",
+      "keywords": [
+        "gaza now",
+        "gaza now media"
       ],
       "product_aliases": [],
       "sanctioned": true
