@@ -359,6 +359,166 @@ cVault Finance,defi,100,0,75,5,ETH,manual-admin,cvault-finance,cvault.finance,"c
 Eclipse,bridge,100,0,75,5,ETH,manual-admin,eclipse-xyz,eclipse.xyz,"eclipse,svm l2",,arkham,2026-08-25,false,6ada8b251dba4a59ee7013b18e1457555c885d96650a9f2383ced82f72544cf1
 Main Street,stablecoin_issuer,100,2,70,10,ETH,manual-admin,main-street,mainstreet.finance,"mainstreet.finance,mainstreet finance,msusd",,manual,2026-09-26,true,5a8ca89732d0376fd2002e767327e4f0778f6fc9c9b30178a4394b1a3882e3c9
 Nerite USND,stablecoin_issuer,100,1,70,10,ARBITRUM,manual-admin,us-nerite-dollar,nerite.org,"nerite,nerite.org,usnd",,manual,2026-09-26,true,2e704f129810701f66d9f0c2a2126065750555c39a5f155ca60dd3edc2b9bb8a
+Plume,stablecoin_issuer,100,0,0,10,ETH,pharos-watch,plume,plume.org,"plume,plume network,plume.org",,manual,2026-08-25,true,811de6798af402f15ca70bd8409e8a59f7cf49e45bc2a2dfed34b0bf289b2994
+Macropod,stablecoin_issuer,100,0,0,10,BASE|ETH|SOL,pharos-watch,macropod,macropod.com,"macropod,macropod.com",,manual,2026-08-25,true,94487702d9314b738ae0d564d4cf45414915dedd5b15a02753d8eca9c065393f
+Shelbit,sanctioned,100,20,95,100,SOL|TRON|ETH|BTC,manual-admin,shelbit,shelbit.com,"shelbit,shelbit exchange,shps shelbit",,manual,2026-08-26,true,38d43332cf6fc927f02b4b5cf4f40513c5ef561a0fa876580436beca05ecec12
+Verdient Financial,psp,100,38,75,5,TRON|ETH,manual-admin,verdient-financial,verdient.financial,"verdient,verdient financial,verdient.financial",,manual,2026-08-30,true,f403551501038d9afc0b21f3b0f50fd1a1b8c764335778cc447b1133c1fbd2ce
+4Esnok.cc,exchange,100,1,75,65,ETH,manual-admin,4esnok-cc,4esnok.cc,"4esnok,4esnok.cc",,manual,2026-09-01,true,56e90c20a0f9738fb8e783b514ba877fc797584b26576e02354417bc72e2e503
+BitcoinUA.exchange,exchange,100,1,75,65,ETH,manual-admin,bitcoinua-exchange,bitcoinua.exchange,"bitcoinua,bitcoinua.exchange",,manual,2026-09-01,true,099ceb533a86458679e5a7790f0ed40df8ba91796c42f3c67e8a44398671af2a
+CriptHub.ru,exchange,100,1,75,65,ETH,manual-admin,cripthub-ru,cripthub.ru,"cripthub,cripthub.ru",,manual,2026-09-01,true,e3bb8c6426b01112c092d2637e3f5b3fc08c0b42914638c9effcdbb4b95a5113
+100BTC.kiev.ua,exchange,100,22,75,65,ETH|TRON,"manual-admin,chainalysis-reactor-cluster-export",100btc-kiev-ua,100btc.kiev.ua,"100btc.kiev.ua,100btc-kiev-ua,100btc",,manual,2026-09-01,true,9fb7acc036c46758ad671f82b2bdbfa0d1c46c1960f47553f2badeea79f28508
+NordChange.com,exchange,100,12,75,65,ETH,"manual-admin,chainalysis-reactor-cluster-export",nordchange-com,nordchange.com,"nordchange.com,nordchange-com,nordchange",,manual,2026-09-01,true,e27ecbb19a48a9c70474f457e538d217364be4ffb813afeaa953aaebe6e979e1
+PonyBit.ru,exchange,100,1,75,5,ETH,manual-admin,ponybit-ru,ponybit.ru,"ponybit,ponybit.ru,ponybit-ru",,manual,2026-09-01,true,9ce7aef125f1ba08a9669fc459b682564d66726c02537069f862b45fb3cda121
+Pursa.co,exchange,100,1,75,5,ETH,manual-admin,pursa-co,pursa.co,"pursa,pursa.co,pursa-co",,manual,2026-09-01,true,41178edaaf32e4f9764d44599a558de097135d6dd9f78db104471b6a397b19bc
+Swop.is,exchange,100,3,75,78,ETH|LTC,"manual-admin,chainalysis-reactor-cluster-export",swop-is,swop.is,"swop.is,swop-is",,manual,2026-09-01,true,53e3c7e175bf6ea46fb0a18b8336d490dc660a57be4f402c978951e608bd853a
+Metka.cc,exchange,100,2,75,78,ETH|LTC,"manual-admin,chainalysis-reactor-cluster-export",metka-cc,metka.cc,"metka.cc,metka-cc",,manual,2026-09-01,true,2467318a3634f1d256e4a1f517b1189701baf308f68878d8e1a4030b57cb576e
+ExchangeIndeed.com,exchange,100,1,75,70,ETH,manual-admin,exchangeindeed-com,exchangeindeed.com,"exchangeindeed,exchangeindeed.com",,manual,2026-09-01,true,cd34a9a7c7bfc5d1aade55760a46654698e6a968526252739dd4f17eef362ce5
+ExchangeInstant.com,exchange,100,1,75,82,ETH,manual-admin,exchangeinstant-com,exchangeinstant.com,"exchangeinstant,exchangeinstant.com",,manual,2026-09-01,true,85225273953ecfd266d49c3814104f459c8e7f52b19d17d8725041db87198188
+ItuGlobalFX.com.ng,exchange,100,1,75,72,ETH,manual-admin,ituglobalfx-com-ng,ituglobalfx.com.ng,"ituglobalfx,ituglobalfx.com.ng",,manual,2026-09-01,true,4f97ee1cb34a14c0366b8c9bfbd51ac105e89adb238bdb25e4fb998deac47498
+MFXPartner.com,exchange,100,1,75,85,ETH,manual-admin,mfxpartner-com,mfxpartner.com,"mfxpartner,mfxpartner.com",,none,2026-09-01,true,
+MarChanger.com,exchange,100,1,75,80,ETH,manual-admin,marchanger-com,marchanger.com,"marchanger,marchanger.com",,manual,2026-09-01,true,1eebd7d675263d2632e531d27090b476ea89a02e56370023db2c5be1c686eb60
+ExBit.cc,exchange,100,2,75,78,ETH,"manual-admin,chainalysis-reactor-cluster-export",exbit-cc,exbit.cc,"exbit.cc,exbit-cc",,manual,2026-09-01,true,ee3a450f25301cead1aab520bc5b16d6791ad4ce1b1141dfc1e3fde074151b62
+TraiderIdeal.ru,exchange,100,2,75,78,ETH,"manual-admin,chainalysis-reactor-cluster-export",traiderideal-ru,traiderideal.ru,"traiderideal.ru,traiderideal-ru",,manual,2026-09-01,true,c749120b11d2e3b290f5e2e5a77bd0a16d9ed2c4fd49f26ab7d6e09b442c97ae
+Wolfstreet.cash,exchange,100,1,75,78,ETH,"manual-admin,chainalysis-reactor-cluster-export",wolfstreet-cash,wolfstreet.cash,"wolfstreet.cash,wolfstreet-cash",,manual,2026-09-01,true,66a047ab8d3258a32d3d69803247cdc984def41780738d335a64318953887190
+iDeyPay.com,exchange,100,1,75,78,ETH,"manual-admin,chainalysis-reactor-cluster-export",ideypay-com,ideypay.com,"ideypay,ideypay.com,ideypay-com",,manual,2026-09-01,true,011471c40dba96e0a1f7d88d7337b1449877feb41903439caa701f70bfe3944f
+Crypto Office,exchange,100,0,74,49,TRON|ETH|BSC,manual-admin,crypto-office-com,crypto-office.com,"crypto office,crypto-office,crypto-office.com",,manual,2026-09-05,true,960da1c835b02f06a54c6ee08c1af9a0d6feddb3df3c9dcbe90185ec0f6fe13f
+TokenSpot,exchange,100,445,80,40,TRON,manual-admin,tokenspot-com,tokenspot.com,"tokenspot,tokenspot.com,tokenspot-com",,manual,2026-09-05,true,fee7ca1e2b893efb5a10c044c6a281a315c20731f5bc34deb829807afa06bd7f
+Tron Discount,defi,100,1,75,5,TRON,manual-admin,tron-discount,tron.discount,"tron discount,tron.discount,tronDiscount",,manual,2026-09-06,true,86e82891de02d356ea44c7344b595e99e0a61b39a54e3a5538fad5a91385a8f6
+eopen.io,defi,100,1,75,5,TRON,manual-admin,eopen-io,eopen.io,"eopen,eopen.io",,manual,2026-09-06,true,a0ca32876079e2fcfed2cb6b3db30c2d897b04b4aed9de6bf0b4800fa4fbc274
+TronPulse,defi,100,1,75,5,TRON,manual-admin,tronpulse,tronpulse.io,"tronpulse,tronpulse.io",,manual,2026-09-06,true,af3817a4e3ce96f5b853cd49023f5ebecc2b7972d34c297fc44268c29a40cb0a
+TronMax,defi,100,1,75,5,TRON,manual-admin,tronmax,tronmax.io,"tronmax,tronmax.io",,manual,2026-09-06,true,8ed9d9872db2c0ccf32490a1d047777590f9308175b8b76148998083a2643151
+Mellstroy Casino,gambling,100,1,75,65,TRON,manual-admin,mellstroy-game,mellstroy.game,"mellstroy casino,mellstroy.game",,manual,2026-09-06,true,9a359e9bffea9c72e273fc22147374f1fdf689de9f2ec9a5935b8607a8c08816
+StormGain,exchange,100,1,88,5,ETH,manual-admin,stormgain-com,stormgain.com,"stormgain,stormgain.com",,manual,2026-09-06,true,d5087a7e2ddb8a0e3c26d5f814fbd8a5a473fefcca6541ea378f5460c1f62520
+FortressTrust.com,custodian,100,9072,74,5,ETH,manual-admin,fortresstrust-com,fortresstrust.com,"fortresstrust,fortresstrust.com,fortress trust,elemental financial technologies",,manual,2026-09-10,true,07cd29869bc04bb82f8be3607555e95fff05c1099210ba589771f3c71ad5ccaf
+eXch.cx,exchange,100,29687,74,5,ETH|BTC,manual-admin,exch-cx,exch.cx,exch.cx,,manual,2026-09-10,true,cce4b11a3182bd8aafe31e50a42c91897eca43f7e738f34a0c88ffd41e642b88
+eToroX.com,exchange,100,11549,20,5,ETH,manual-admin,etorox-com,etorox.com,"etorox,etorox.com",,manual,2026-09-10,true,c0fd777d60535dbe8fe4f8941c86c20e43032144f34a15524d2e217a4f1be842
+MBAex.com,exchange,100,9163,74,5,ETH|BTC,manual-admin,mbaex-com,mbaex.com,"mbaex,mbaex.com",,manual,2026-09-10,true,1a4ac692275649677c2de7aec2a1f7871623bb387b47c53acdcd20f8a93e448b
+BITPoint.co.jp,exchange,100,6027,15,5,ETH,manual-admin,bitpoint-co-jp,bitpoint.co.jp,"bitpoint,bitpoint.co.jp",,manual,2026-09-10,true,7215b95b03e230e5d4c0695c453024b1b022f88185cb26c6158658626700b59b
+Lykke.com,exchange,100,5186,74,5,ETH,manual-admin,lykke-com,lykke.com,"lykke,lykke.com",,manual,2026-09-10,true,10efd03a432ab408d602ac003db06ead1d0cccae6db56b1e28dee54403982e09
+TokenizeMalaysia.com,exchange,100,3705,15,5,ETH|BTC,manual-admin,tokenizemalaysia-com,tokenizemalaysia.com,"tokenize xchange,tokenizemalaysia.com",,manual,2026-09-10,true,e6e116401921feaf04b45e7c1959a991c8ac2c1362e67fea157dd8fb40d6fc57
+Tauros.io,exchange,100,973,65,5,ETH|BTC|LTC,manual-admin,tauros-io,tauros.io,"tauros,tauros.io",,manual,2026-09-10,true,7b41efa01db8a85fc18f0aa7bb4f3936e515d5509843f952ef61e876dc5447bd
+CheckSig,custodian,100,247,24,5,BTC,manual-admin,checksig-com,checksig.com,"checksig,checksig.com",,manual,2026-09-10,true,b809207a3b6224b6e27cd7be724f3e4639839187e1b91b5e0531f7d39530aa47
+TrueUSD,stablecoin_issuer,100,9,,,ETH|BSC|TRON|POLYGON|AVALANCHE|ARBITRUM|OPTIMISM|FANTOM,manual-admin,true-usd,tusd.io,"trueusd,tusd,tusd.io",,manual,2026-09-10,true,f6ded42e58debec123c8e97a90344bade73f9393e34a60ab04e2ea4a90444619
+BitMine Immersion Technologies,defi,100,114,24,3,ETH,manual-admin,bitmine-immersion,bitminetech.io,"bitmine,bitmine immersion,bmnr",,manual,2026-09-10,true,874d31428fd77042118f9a507c4e8dcbd840da48f55e58e6030116280d390262
+Faucetpay.io,custodian,100,10,45,4,BSC|BTC|LTC|TRON,manual-admin,faucetpay,faucetpay.io,"faucetpay,faucetpay.io",,manual,2026-09-10,true,2699482bad6928d2d9cba9eef17b6aeb9ae6b4a1b925d39c0fbb2b9ee16aab1c
+DeXe Network,defi,100,6,15,3,BSC|ETH,manual-admin,dexe-network,,"dexe,dexe network,dexe protocol,dexe dao",,manual,2026-09-10,true,31f50c5839f6208403883592a854ed9988e1236fd0917cb92df5ca8182563a8c
+USD.AI,stablecoin_issuer,100,6,50,4,ARBITRUM|BASE|ETH,manual-admin,usd-ai,usd.ai,"usd.ai,usdai",,manual,2026-09-10,true,e64a025fcbb3628092e1bb6cdb9343f6f20f7df7ed8fd42dfd687467bc844cea
+Royal.cash,exchange,100,5,15,3,BSC|BTC,manual-admin,royal-cash,royal.cash,royal.cash,,manual,2026-09-10,true,37cf73150e61dcc880029a2bcd39e8d6f8138838c8b0c4aac8b1d0eef6a2eea2
+Coin-Trade.cc,exchange,100,5,15,3,BTC|ETH|LTC,manual-admin,coin-trade-cc,coin-trade.cc,"coin-trade.cc,coin-trade-cc",,manual,2026-09-10,true,0aa160aa95d8e6aee183a251e5580ec20c29395ee7e762ba379ce00b71f3b572
+BlaBlaChange,exchange,100,4,15,3,BSC|BTC,manual-admin,blablachange-com,blablachange.com,blablachange.com,,manual,2026-09-10,true,ffefdd279e355a33fba347d88442aa898805cacaea35e7466475f8df93de38b6
+ExHub,exchange,100,4,15,3,BSC|BTC,manual-admin,exhub-io,exhub.io,exhub.io,,manual,2026-09-10,true,d34ef33778ee9295af163508ed152c4b5ffe71fb871e4ae7a546dba9716f0d45
+NiceChange,exchange,100,4,15,3,BSC|BTC,manual-admin,nicechange-net,nicechange.net,nicechange.net,,manual,2026-09-10,true,c6f64633d96c32f70877ffb5728ac62bfca1343305b99d8a1e8bf0e3628a9bec
+BCBitcoin.com,exchange,100,4,24,3,BTC|ETH|LTC,manual-admin,bcbitcoin-com,bcbitcoin.com,"bcbitcoin.com,bcbitcoin-com",,manual,2026-09-10,true,7b2631819df6382e8f8235e753646e2b6b93a4314a4dc7032b8a899a00572882
+CryptoVoucher.io,exchange,100,4,49,4,BTC|ETH|LTC,manual-admin,cryptovoucher-io,cryptovoucher.io,"cryptovoucher.io,cryptovoucher-io",,manual,2026-09-10,true,9f8fcca820ea25cd52b937973844e6a7b288857d06696e4bcfc7a582a1b724c6
+MultiChange,exchange,100,3,45,4,BSC|BTC,manual-admin,multichange-net,app.multichange.net,"app.multichange.net,multichange.net",,manual,2026-09-10,true,fd0e1a1abbd3d117660045e722eb2b5e4edc78d1e6e7f7754f1b2726c5454c67
+Crypto HK,psp,100,3,50,5,TRON,manual-admin,crypto-hk,cryptocurrencyhongkong.com,crypto hk,,manual,2026-09-10,true,e7c047578322b83ee84c5572df9b26f6ff6727dcaffbfe0f628e4386acc33a21
+Sinegy.com,exchange,100,3,40,4,BTC|ETH,manual-admin,sinegy-com,sinegy.com,"sinegy.com,sinegy-com",,manual,2026-09-10,true,1a723a2d6887341baca2d3514d3fb1afd5093b82b294410aa592f142cd4de7c1
+Aladdin25.com,exchange,100,3,65,4,ETH,manual-admin,aladdin25-com,aladdin25.com,"aladdin25.com,aladdin25-com",,manual,2026-09-10,true,29266736e5aca1223b65769c1030b40a64112d2e83e99223453b28839e6e3118
+Bitcoin-Store.hr,exchange,100,3,20,3,BTC|ETH,manual-admin,bitcoin-store-hr,bitcoin-store.hr,"bitcoin-store.hr,bitcoin-store-hr",,manual,2026-09-10,true,b7311a360c7b7f0264afd8ca25982a30f9bbc2a2194a81c1a3b4935a3ef87583
+DVchain.co,exchange,100,3,20,3,BTC|ETH,manual-admin,dvchain-co,dvchain.co,"dvchain.co,dvchain-co",,manual,2026-09-10,true,68e0adaf6a5cf48c5a57c2c9201a5030ef051468f124df92fa58036ceb199197
+Exness.com,exchange,100,3,15,3,BTC|ETH,manual-admin,exness-com,exness.com,"exness.com,exness-com",,manual,2026-09-10,true,132e0cf03a2318b2c79c72980fc5eca0dfb32fcfdf1ebc27f23919f47f9ee048
+Billance.com,exchange,100,3,45,4,BTC|ETH|LTC,manual-admin,billance-com,billance.com,"billance.com,billance-com",,manual,2026-09-10,true,0368223d609a269295d89a99ebe4e777bdb57aa643cf8889feb57d24b2ee5941
+OctaFX.com,exchange,100,3,40,4,BTC|ETH,manual-admin,octafx-com,octafx.com,"octafx.com,octafx-com",,manual,2026-09-10,true,918992f58e7b638006015041bc6575deab67ff3e9f7fb691c594fab79e0dceb2
+ZitcExchange.com,exchange,100,3,74,5,ETH|LTC|TRON,manual-admin,zitcexchange-com,zitcexchange.com,"zitcexchange.com,zitcexchange-com",,manual,2026-09-10,true,d137b91d7a591808845a6f86a4d376c56411d55c0a3531381321047b6f3790f0
+Kanga.exchange,exchange,100,3,49,4,BTC|ETH|LTC,manual-admin,kanga-exchange,kanga.exchange,"kanga.exchange,kanga-exchange",,manual,2026-09-10,true,f7aeeed1115c7853efffebcaa71a907ea92d237ed0bf3247b2397df519a0a05c
+KikiTrade.com,exchange,100,3,24,3,BSC|ETH,manual-admin,kikitrade-com,kikitrade.com,"kikitrade.com,kikitrade-com",,manual,2026-09-10,true,616c49a59323beaa508c8cc76b44bee55a5845326d5015e69666acf3ef721278
+AlfaChange,exchange,100,2,15,3,BSC|BTC,manual-admin,alfachange-net,alfachange.net,alfachange.net,,manual,2026-09-10,true,12883f9062cee51a43b75856dfd9438a23ab9526df8cfda528cf4ff3c56c12f5
+ExWhite,exchange,100,2,15,3,BSC|BTC,manual-admin,exwhite-io,exwhite.io,exwhite.io,,manual,2026-09-10,true,a7c0e5e95af406da85bb8c347ba08ffda8a231fc2928191bcba46289e1b0ad03
+Monetkin,exchange,100,2,15,3,BSC|BTC,manual-admin,monetkin-me,monetkin.me,monetkin.me,,manual,2026-09-10,true,68a517eb27d99122782ab999b199da976b87d9a20c1c4a9b53e405a932c77570
+Prostocash,exchange,100,2,15,3,BTC,manual-admin,prostocash-com,prostocash.com,prostocash.com,,manual,2026-09-10,true,35a4d4d80e4ac9095d55e041927f53c3ee8c890cc70b551a01ee50b0fe2950ef
+BTCtenge.com,exchange,100,2,74,5,ETH,manual-admin,btctenge-com,btctenge.com,"btctenge.com,btctenge-com",,manual,2026-09-10,true,966901d507ba670bac54dd72d1a805036501bd7a432c55d4ff9e08f99f253c5c
+BonkyPay.com,exchange,100,2,74,5,ETH,manual-admin,bonkypay-com,bonkypay.com,"bonkypay.com,bonkypay-com",,manual,2026-09-10,true,c8433872a8d3ed1c2be4e0df87eac787cc9177139b4a1492f00d49fc8d758df9
+TRON Network,staking_provider,100,438,15,2,TRON,manual-admin,tron-network,trondao.org,"tron,tron network,trondao,trx",,manual,2026-09-10,true,06c487c7a5dacd4c86ee6f788f36b1486893e3ef85bb919aaaf91523a86ff6cc
+Specie Wallet,custodian,100,142,45,4,ETH|TRON,manual-admin,speciewallet-io,speciewallet.io,"specie wallet,speciewallet,speciewallet.io",,manual,2026-09-10,true,f47b957227a012c3dfb67f37a3b49331fd7be8a71c839c808c1271037c428c58
+Orbital (Pay Perform Limited),psp,100,99,20,2,TRON,manual-admin,orbital-pay,getorbital.com,"orbital,orbital pay,pay perform limited,getorbital",,manual,2026-09-10,true,4946192e022bbd099eee91a98dbad1d9a41dc24f9da3e250df66d93a6dbb3ed7
+Nexus Mutual,defi,100,72,20,2,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,manual-admin,nexus-mutual,nexusmutual.io,"nexus mutual,nxm",,manual,2026-09-10,true,5fba5a434637e43a0648e5d713bb8434586f70ab4b42fd64c3e031b53b97c50f
+Sable Club,custodian,100,67,50,4,TRON,manual-admin,sableclub-com,sableclub.com,"sable club,sable club holdings",,manual,2026-09-10,true,da1cf7b2477f02f84d19384bfbc40007ef73bd35bf35a78981ba2ca3e055a6f2
+F2Pool,mining,100,25,15,2,ARBITRUM|AVALANCHE|BASE|BSC|BTC|ETH|LTC|OPTIMISM|POLYGON,manual-admin,f2pool,f2pool.com,"f2pool,f2pool.com,discus fish",,manual,2026-09-10,true,2c3cdeaedde536ca5a356132315ad6b689c311d4cf9aea015101f1d4953744ce
+Ethpool,mining,100,21,15,2,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,manual-admin,ethpool,ethpool.org,"ethpool,ethpool.org",,manual,2026-09-10,true,37fe0974299f5137c255db82f5cd45cf92468105717233a38794b61ed98b662d
+Babel Finance,custodian,100,10,55,6,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,manual-admin,babel-finance,babel.finance,"babel finance,babel.finance",,manual,2026-09-10,true,86560f90ee3970c29cbf6ff07b69e760063356c82aed13a0e986a4d72c1a6239
+Geco.one,defi,100,10,25,3,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,manual-admin,geco-one,geco.one,"geco,geco.one,geco one",,manual,2026-09-10,true,c3a6512334b2ad2bd74a8a544c6dc567e246fca8edfa506d1cce017113f9cc7f
+Genesis Mining,mining,100,9,15,2,ARBITRUM|AVALANCHE|BASE|BSC|BTC|ETH|LTC|OPTIMISM|POLYGON,manual-admin,genesis-mining,genesis-mining.com,"genesis mining,genesis-mining.com",,manual,2026-09-10,true,43c17b8cdc254f83e32f8967695e326d7b6a70eefc5d3cf5bc6fa16d0e5e0661
+DigiPools,mining,100,7,15,2,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,manual-admin,digipools,digipools.org,"digipools,digipools.org",,manual,2026-09-10,true,438341d4e05e3831dce41526f500ffb1d93b67018b545fcfe27541ed332f5c25
+AnubiDigital.com,exchange,100,3,20,2,ETH,manual-admin,anubidigital-com,anubidigital.com,"anubi digital,anubidigital.com,anubidigital",,manual,2026-09-10,true,32ad05894a11a3cfc4e65424a955ac85293f3ff19f6fc95a62710a5f9c4de2c5
+Orbitos.io,custodian,100,5,20,2,BTC|ETH,manual-admin,orbitos-io,orbitos.io,"orbitos,orbitos.io,orbitos crypto custody",,manual,2026-09-10,true,f03f8f279c0e5914d77e15a306e07b40b5f612831d04872d19727e0d2db15a45
+Monerium EUR emoney,stablecoin_issuer,100,4,15,2,ARBITRUM|BASE|ETH|POLYGON,manual-admin,monerium-eur-emoney,monerium.com,"monerium,monerium eur,eure",,manual,2026-09-10,true,d7bab93da8c192eb24960008d610cc08bcc91411388da02917e1b08950adf58d
+World Liberty Financial USD,stablecoin_issuer,100,4,20,2,BSC|ETH|SOL|TRON,manual-admin,world-liberty-financial-usd,worldlibertyfinancial.com,"world liberty financial,wlfi,usd1",,manual,2026-09-10,true,7307e7b055366d9a3c27f84258bcbde72e8921e0c61c7bb226d6fce20c7afef8
+Stasis Euro,stablecoin_issuer,100,3,15,2,ARBITRUM|ETH|POLYGON,manual-admin,stasis-euro,stasis.net,"stasis,stasis euro,eurs",,manual,2026-09-10,true,6ae5e347971d97f24060e4ba2af29821546dad69cb6b74f8d04ed32663625494
+LocalCryptos.com,p2p,100,4,25,3,BTC|ETH,manual-admin,localcryptos-com,localcryptos.com,"localcryptos,local cryptos,localethereum",,manual,2026-09-10,true,e31734734129aff25dc5c7398042f8f946950978b1beb31471504eb027060a90
+BitcoinSoV,defi,100,7,20,2,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,manual-admin,bitcoinsov,bsovtoken.com,"bitcoinsov,bsov,bsov token",,manual,2026-09-10,true,c03dceb3487cff74b97f93f7c63c3fafddef5834e2315933f9b40097d9a05d31
+Izzy,defi,100,7,25,3,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,manual-admin,izzy,izzy-coin.vip,"izzy,izzy coin",,manual,2026-09-10,true,24af5615388bfcbf04e933503fdf54a6535d66de17486c33ae0a99534b2135d8
+Flata.Exchange,exchange,100,7,40,4,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,manual-admin,flata-exchange,flata.exchange,"flata exchange,flata,플랫타 익스체인지",,manual,2026-09-10,true,fc6e5174020a4d49cbf9eedf8b16e8503c887bb264411b2cb8f991f09828e55e
+NFT trade,dex,100,4,20,2,ETH,manual-admin,nft-trade,nftrade.com,"nftrade,nft trade",,manual,2026-09-10,true,efb680690c39c9edb884735debb18e103cf657d401e0ceb9032ed2c23b62398a
+E-Dollar.ng,exchange,100,3,55,6,BTC|ETH,manual-admin,e-dollar-ng,e-dollar.com.ng,"e-dollar,e-dollar.ng,e-dollar.com.ng",,manual,2026-09-10,true,f5b8c80741e48eeca2c0934bda12da64f6c29a37bbe1caca1ae27be8337b54f2
+Fei Protocol,defi,100,150,20,2,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,manual-admin,fei-protocol,fei.money,"fei protocol,fei,tribe dao",,manual,2026-09-10,true,d23cb2d8247019a97692bd37c9a459471a9a85749217185e756ecb1569a89b39
+Antanta Travel,psp,100,2,20,2,BTC|TRON,manual-admin,antanta-travel,antantatravel.com,"antanta travel,antanta,антанта тревел",,manual,2026-09-10,true,3e3f1877eee5e5fb32c613b03311a9bc847d30b6ac6b75544e1d9a991f3b2315
+Hi.com,exchange,100,2,40,4,BTC|ETH,manual-admin,hi-com,hi.com,"hi.com,hi,hi neobank",,manual,2026-09-10,true,2cc1f12d17c4524585d1b3e7204e4445a6d7e79f76d9b5c5aa8036b0b7bfc89b
+FidelityDigitalAssets.com,custodian,100,2,10,1,ETH,manual-admin,fidelitydigitalassets-com,fidelitydigitalassets.com,"fidelity digital assets,fidelity crypto,fidelity",,manual,2026-09-10,true,c482e1284cbb0c358783581773e2cd96eda1886d4bb2711801d4c986a34dfdae
+Wyre,psp,100,2,20,2,BTC|ETH,manual-admin,wyre,sendwyre.com,"wyre,sendwyre,rockwallet",,manual,2026-09-10,true,c061733e7b7bfbc1c1b6b306e5d21c1f3eb4132864dabbe9523e141a68fc87d2
+AuraeLifestyle.com,exchange,100,2,20,2,BTC|ETH,manual-admin,auraelifestyle-com,auraelifestyle.com,"aurae lifestyle,auraelifestyle",,manual,2026-09-10,true,3ad0b5a5cc6e6aa7e4fad31f0d4131787345e3e480852496d9ad572f5eb6a2d0
+Bitcoin-mjenjacnica.hr,exchange,100,2,40,4,BTC|ETH,manual-admin,bitcoin-mjenjacnica-hr,bitcoin-mjenjacnica.hr,"bitcoin mjenjacnica,bitcoin-mjenjacnica.hr",,manual,2026-09-10,true,8022cf2999e965c77d7fcfad3e45c7ddb0c89de1ed049a6ea709d19652b0db06
+Matrix.co,exchange,100,2,20,2,ETH|LTC,manual-admin,matrix-co,matrix.co,"matrix.co,matrix crypto gateway",,manual,2026-09-10,true,a196829c28e4be00e8e168522acb5375dd0229edbe3659b5fd16f924e90311ed
+OK-BIT.com,exchange,100,2,55,6,ETH,manual-admin,ok-bit-com,ok-bit.com,"okbit,ok-bit,ok-bit.com",,manual,2026-09-10,true,ac1d5bc81b051cd47cdb421d77ea4da42027251deeacbac094517c11f03dec81
+JostPay.com,exchange,100,2,55,6,ETH,manual-admin,jostpay-com,jostpay.com,"jostpay,jostpay.com",,manual,2026-09-10,true,e5f139b59f18ddb16778312dfab860dcbc50c0ff874521af38f9987ab18525df
+Volabit.com,exchange,100,2,40,4,BTC|ETH,manual-admin,volabit-com,volabit.com,"volabit,volabit.com",,manual,2026-09-10,true,4a9014bbf88aaf68456695105332b3ac875305fa99a73a281cdbeb22a0d67a16
+CryptiaExchange.com,exchange,100,2,20,2,ETH,manual-admin,cryptiaexchange-com,cryptiaexchange.com,"cryptia exchange,cryptiaexchange.com",,manual,2026-09-10,true,6b605a4288229ecc67d38f5a7cbc03bd66c6f313b7c092689e054f47b12266fe
+TetherLand.com,exchange,100,2,40,4,BTC|ETH,manual-admin,tetherland-com,tetherland.com,"tetherland,تترلند",,manual,2026-09-10,true,bac1ea47ac21f1183c24b85d7580a9ec02e3c6c289be3f40f6707013cad7ba4a
+Anchored Coins AEUR,stablecoin_issuer,100,2,10,1,BSC|ETH,manual-admin,anchored-coins-aeur,anchoredcoins.com,"anchored coins,aeur,anchored coins ag",,manual,2026-09-10,true,102d08e1ff5823d6d715fe54e164d119e86e43b7dccaacb002115331ee058222
+Obmin24 / X-Change,exchange,100,2,45,5,ETH|LTC,manual-admin,obmin24-x-change,x-change.com.ua,"obmin24,x-change,x-change.com.ua",,manual,2026-09-10,true,c3e60cd9961a86a1bd96c8cc348c24c298fbbf8bce8b7d2d237e5d7730c3912e
+Dollar on Chain,stablecoin_issuer,100,2,15,2,ARBITRUM|ETH,manual-admin,dollar-on-chain,moneyonchain.com,"dollar on chain,doc,money on chain",,manual,2026-09-10,true,508abac3555903b6e2868c3136e7b6374e743bddd87f08732ad8aaecc24269b8
+CryptoRefills.com,p2p,100,2,25,3,BTC|ETH,manual-admin,cryptorefills-com,cryptorefills.com,"cryptorefills,crypto refills",,manual,2026-09-10,true,3f94d70f2436141b0e3939e7995bec2b1b2ff02eb9ed3311b6986b7c3e570107
+JPY Coin,stablecoin_issuer,100,2,10,1,ETH|POLYGON,manual-admin,jpy-coin,jpyc.co.jp,"jpy coin,jpyc,jpyc inc",,manual,2026-09-10,true,20a6a0d27adea14b884530f1def31290381055169fbf45f8707ceb78c315673c
+Astherus,stablecoin_issuer,100,1,10,1,BSC,manual-admin,astherus,astherus.finance,"astherus,asusdf,usdf,aster",,manual,2026-09-10,true,a3a3e1939004e47902e922f05f7e2fbb988349b9ad7c7b3e4a655bdaf9c5ebaf
+pmUSD,stablecoin_issuer,100,1,20,2,ETH,manual-admin,pmusd,pmusd.raac.io,"pmusd,precious metals usd,raac",,manual,2026-09-10,true,2c7ffb85e9d0b78d21f9e7e5709847dec6bedb0cf41a2752df675bd41f9421c2
+Startale USD,stablecoin_issuer,100,1,10,1,ETH,manual-admin,startale-usd,usd.startale.com,"startale usd,usdsc,startale",,manual,2026-09-10,true,465da4f66ba41c7ecdef23d9447ac68ecdea2bf4fb0acd2793c6c0590cd6e4be
+Rai Reflex Index,stablecoin_issuer,100,1,15,2,ETH,manual-admin,rai-reflex-index,reflexer.finance,"rai,rai reflex index,reflexer",,manual,2026-09-10,true,137b37cb08dc4a9343daf72cfe6ec784d3ea87e4189383fb0d0a70c5ed0ef628
+Satoshiat.com,exchange,100,1,20,2,ETH,manual-admin,satoshiat-com,satoshiat.com,"satoshiat,ساتوشيات",,manual,2026-09-10,true,f49ff0d0d4bbb105266e60481da38b239220021e58b7f4b6ce82f4981c61eedc
+Obmennik.ws (historical),exchange,100,1,25,3,TRON,manual-admin,obmennik-ws,obmennik.ws,"obmennik.ws,обменник ws",,manual,2026-09-10,true,b9d5190a280a5ff8acd34714ab8ce4987c592f2781984b173a666c5231af5c12
+D-Obmen,exchange,100,1,25,3,LTC,manual-admin,d-obmen,d-obmen.cc,"d-obmen,d obmen",,manual,2026-09-10,true,2e39796dcc3b037b16118e16154e398bff831f3b08ed5de84db4f4bf8ff7214f
+Rand4Dollar.com,exchange,100,1,55,6,ETH,manual-admin,rand4dollar-com,rand4dollar.com,"rand4dollar,rand4dollar.com",,manual,2026-09-10,true,2c3c97a366c158f61571a92532fe53c01ff0729d06b3af9a04c4845d57a25336
+BasiChange.com,exchange,100,1,30,3,ETH,manual-admin,basichange-com,basichange.com,"basichange,basichange.com",,manual,2026-09-10,true,14ab23e9873dcc04e90c02251dc78e0ad9f635bb4fe86e0fbd67cc7408fb2942
+Ramzbank.com,exchange,100,1,30,3,ETH,manual-admin,ramzbank-com,ramzbank.com,"ramzbank,رمز‌بانک",,manual,2026-09-10,true,607e4333030884274ec9c6c2089788f309163bd1878651426edb297cbbaf549a
+Consensys.net,exchange,100,1,10,1,ETH,manual-admin,consensys-net,consensys.net,"consensys,metamask,infura",,manual,2026-09-10,true,feb00cce723508bd8c20541f6de154ac5520ac86c5a30f3a769badb74c2c6cf6
+VHCEx.com,exchange,100,1,40,4,ETH,manual-admin,vhcex-com,vhcex.com,"vhcex,vhcex.com",,manual,2026-09-10,true,856ad28e600e4bdafbc580343359a78f378cfda37237b5fae7178c3a875866dc
+CoolCoin.best,p2p,100,1,25,3,BSC,manual-admin,coolcoin-best,coolcoin.best,"coolcoin,coolcoin.best",,manual,2026-09-10,true,c977d2ac44be545bfababda6afdeba0c598804f1b6200063bbd98c5b3776aef5
+PandPay.net,exchange,100,1,45,5,BTC,manual-admin,pandpay-net,pandpay.net,"pandpay,pandpay.net",,manual,2026-09-10,true,5de170b4d47199ac36a99879a3847932cc035e336a15d57160fcf05490830eb0
+Bityard.com,exchange,100,1,55,6,ETH,manual-admin,bityard-com,bityard.com,"bityard,bityard.com",,manual,2026-09-10,true,62b9e738e25945354c8d100f080dfa590e0d66da2c52a3f5d1fa7c2c542c6f15
+USAT,stablecoin_issuer,100,1,10,1,ETH,manual-admin,usat,usat.io,"usat,usa-t,dollars that move",,manual,2026-09-10,true,e1ac46f75dd89c6557d8690c9c262cb4c1751f430e00580b8dd1da97bb4552d1
+Biex.com,exchange,100,1,10,1,,manual-admin,biex-com,biex.com,"biex,biex.com",,manual,2026-09-10,true,e8e94e1356f2d00b812ee6d7409af075445c67248decee48857098be02b54b85
+OmniTrade.io,exchange,100,1,10,1,,manual-admin,omnitrade-io,omnitrade.io,"omnitrade,omni trade",,manual,2026-09-10,true,9edafe33088c31c3fcfeca2e035df45986e6f84f51a4e2a090229b4a9e826cde
+AmplifyExchange.com,exchange,100,1,10,1,,manual-admin,amplifyexchange-com,amplifyexchange.com,"amplify exchange,amplifyexchange",,manual,2026-09-10,true,b112fcfdaaa4d8d65c624dabab3e2cb0165d3b13665694d2e1cb9cbfbc9260ed
+Swipelux.com,psp,100,1,10,1,,manual-admin,swipelux-com,swipelux.com,"swipelux,swipe lux",,manual,2026-09-10,true,8ff3028b55dbf40dd6ec0c3a20d289e83532dd5b7e92d1d18a08b9fd8fd45cd1
+DMarket,nft_marketplace,100,1,10,1,,manual-admin,dmarket,dmarket.com,"dmarket,d market",,manual,2026-09-10,true,0ab8a2c009e79cf0109fb4aac67d364ddead176e90f8beaaa2e10e7d987ace27
+HomeCoin,stablecoin_issuer,100,1,10,1,,manual-admin,homecoin,homecoin.finance,"homecoin,home coin",,manual,2026-09-10,true,d4c09f08487970243066df3f0909b3a749f817ea30fd856c6f9cae830c3d74dd
+Ginero.io,p2p,100,1,10,1,,manual-admin,ginero-io,ginero.io,"ginero,ginero.io",,manual,2026-09-10,true,ae16dc53e746f3b47ddd9f7fd4650b7b07bd6b739ff982e8c34f5133c7c2d63b
+FirefoxOTC.com,exchange,100,1,10,1,,manual-admin,firefoxotc-com,firefoxotc.com,"firefoxotc,firefox otc,huhuli",,manual,2026-09-10,true,2e7755489df6f614d521a5a2354c90ceb6c82f1c22f9dd98ae4573f7aafd2fb0
+ETH-Mixer.com,mixer,100,1,10,1,ETH,manual-admin,eth-mixer-com,eth-mixer.com,"eth mixer,ethereum mixer",,manual,2026-09-10,true,20c2b39bee4925e2a04917cc2f65e630335a580a35b80cbe6173672a843ca869
+BestObmen.su,exchange,100,1,10,1,,manual-admin,bestobmen-su,bestobmen.su,"bestobmen,best obmen",,manual,2026-09-10,true,08f8cab32499019c81734dd75f9391cab70772e14c76b0907bb11feeb9420310
+YM-Change.com,exchange,100,1,10,1,,manual-admin,ym-change-com,ym-change.com,"ym change,ymchange",,manual,2026-09-10,true,ad70d6879685bdab8424debe1f723672aa1f63197d8a7299e1505d77a594f996
+MoneyMate.best,p2p,100,1,10,1,,manual-admin,moneymate-best,moneymate.best,"moneymate,money mate",,manual,2026-09-10,true,649110f28b90bea230c73f4625127ab9ae50d55a0389d8c3b3febbf551eaeb70
+ExchangeKey.org,p2p,100,1,10,1,,manual-admin,exchangekey-org,exchangekey.org,"exchangekey,exchange key",,manual,2026-09-10,true,47af3c2ae2b27b130ce8ba06fb57046e9bba64adf6ffa7cc25b6f58f5863dcf4
+DotSatoshi.com,p2p,100,1,10,1,,manual-admin,dotsatoshi-com,dotsatoshi.com,"dotsatoshi,dot satoshi",,manual,2026-09-10,true,268cc292f665ccd2bf44af501f32bd688da9f2d021eee0390f5928a4027bd8b5
+Vimba.co,exchange,100,1,10,1,,manual-admin,vimba-co,vimba.co,"vimba,vimba.co",,manual,2026-09-10,true,2fa76f71126713a6bf04bdec033fd7aed5eb79e3c288ddab53523b3c2e3a028b
+BBOD.io,exchange,100,1,10,1,,manual-admin,bbod-io,bbod.io,"bbod,blockchain board of derivatives",,manual,2026-09-10,true,edac95022acc218d687dffaa256a67f40e06feaa1ee4050cc6cc33a5cff65007
+CoreDAX,exchange,100,1,10,1,,manual-admin,coredax-com,coredax.com,"coredax,core dax",,manual,2026-09-10,true,2b62ad6272beae5847742e9b24481e7f7a1ed95c23a95f29a84cedb6ae2d853c
+Crypto-Store.cc,p2p,100,1,10,1,,manual-admin,crypto-store-cc,crypto-store.cc,"crypto store,cryptostore",,manual,2026-09-10,true,171c8617567a2560b22f4559ef7a1d9ec2b7ec32f62456e8628e0b94d5f75680
+X-Pay.cc,exchange,100,1,10,1,,manual-admin,x-pay-cc,x-pay.cc,"x-pay,xpay",,manual,2026-09-10,true,d229b0b5e9c2ea6b47415ddd10be2db73df447772079c58c5e1d80a828d5b58f
+LVL,exchange,100,1,10,1,,manual-admin,lvl-co,lvl.co,"lvl,lvl.co",,manual,2026-09-10,true,413913a66980ba7a80d05db7ac65f99334647e06135daff089f5e2118ce8866e
+BitKonan,exchange,100,1,10,1,,manual-admin,bitkonan-com,bitkonan.com,"bitkonan,bit konan",,manual,2026-09-10,true,defafc2719b293284413d244963fc9925dab4df3222ca78dc37f448745f0bcab
+Rarebits.io,nft_marketplace,100,1,10,1,,manual-admin,rarebits-io,,"rarebits,rare bits",,synthetic,2026-09-10,false,3eeb39025e8cc0837d6af80c1a35d2ba6d7f877a6adfff2d35e9cbc524698444
+PoloniDEX,dex,100,1,10,1,TRX,manual-admin,polonidex,polonidex.com,"polonidex,trxmarket",,synthetic,2026-09-10,false,cf552c15d18a46d4befa6cbd7e0e5a09d79fe1ce3d7706d42c50a512ada6ce8f
+EMX.com,exchange,100,1,10,1,,manual-admin,emx-com,emx.com,"emx,evermarkets",,synthetic,2026-09-10,false,f9089cd9104e519f1f4768b4c3cffc3735530347ad0f63d9f6f88a7dea3d9c0f
+Quickbit.com,psp,100,1,10,1,,manual-admin,quickbit-com,quickbit.com,"quickbit,quick bit",,synthetic,2026-09-10,false,3f977364cd071082bcc186dd4577133b43bcae0c9d131bdf5ee50dc97151b46f
+Nexus,stablecoin_issuer,100,1,10,1,,manual-admin,nexus,zdex.tech,"nexus nex stablecoin,nexus algorithmic usd",,synthetic,2026-09-10,false,1ebaf0f339e469d054e9b991cc9893ae18b8295223152e64f707cc5298bb3928
+Bybis.com,exchange,100,1,10,1,,manual-admin,bybis-com,bybis.com,bybis,,synthetic,2026-09-10,false,41e8f13a3d207c32f8b5754b58638c3589fd11d5c337cb9dcc4c832a5dd38ea1
+ChainX.kr,exchange,100,1,10,1,,manual-admin,chainx-kr,chainx.kr,"chainx.kr,chainx exchange",,manual,2026-09-10,true,02e3d7c5914e4ea17e088d47c58292893c617d12320fc083060615f4e60dff15
+Instabit,exchange,100,1,10,1,TRX,manual-admin,instabit,instabit.pro,"instabit,instabit.pro",,manual,2026-09-10,true,2d62e929d78f92bf2a8980e294c53bff2bad31f87a18518b26698ecad4a20cd1
+NGE.ng,exchange,100,1,10,1,,manual-admin,nge-ng,nigeriagoldexchange.ng,"nge,nigeria gold exchange",,manual,2026-09-10,true,60e3b4d2bda50b3dcc80f9db19dc40c408b7518c4befd02dcc91ab1db43b2abc
+Maxx Markets,exchange,100,1,10,1,,manual-admin,maxx-markets,maxx.exchange,"maxx markets,maxxmarkets,maxxchain",,manual,2026-09-10,true,afcf4bebfe589bc4d6791b405c31f5981ecb46dabb2152d93a4ef4a1ea2e100b
+1xBit.com,gambling,100,737670,75,5,BTC|ETH|LTC,manual-admin,1xbit-com,1xbit.com,"1xbit,1xbit.com",,manual,2026-09-13,true,c12224eb2aab386b7c33b567106f43d9b50cdebb4d641319a0e995f8c7760168
+CSGOEmpire.com,gambling,100,184175,75,5,BTC|LTC,manual-admin,csgoempire-com,csgoempire.com,"csgoempire,csgoempire.com,csgo empire",,manual,2026-09-13,true,0a05bb1a742c927f433c7e60c4aacae92ef8f9677d7df7d9d65e1e5c59603c3e
+Razed,gambling,100,2,90,60,TRON,arkham-intelligence|misttrack-live-verdicts|manual-admin,razed,razed.com,razed,,manual,2026-09-17,true,1085249e0033339a6198180641f16dac19eb004eb9475e1cb82d4ba3a8e9ce7e
+PaYard,psp,100,131,75,15,TRON,manual-admin,payard-io,payard.io,"payard,payard.io,payard pay platform",,manual,2026-09-18,true,e80deffdcb458b7dff3683c0c2a2201314058a7b9c77fd55c2d60e680ef1f429
 A7 LLC,sanctioned,95,0,100,100,BTC|ETH|TRON,uk-ofsi-sanctions,a7-llc-ru,,"a7,a7 llc,a7 limited,a7 limited liability company,obshchestvo s ogranichennoi otvetstvennostyu a7",,manual,2026-07-14,true,3537d981fb907a49d0f23be386eb762447336aaa116d607f898bf9b122c2deab
 Alistera Limited,sanctioned,95,0,100,100,BTC|ETH|TRON,uk-ofsi-sanctions,alistera-ru,alistera.ru,"alistera,alistera limited,alistera ltd,alistair limited,alistair ltd",,synthetic,2026-08-17,false,1a65806238c99e39e9e53134467cf0783e796cc52dbd1297c65db9ae9fea74ef
 Altair Holding SA,sanctioned,95,0,100,100,BTC|ETH|TRON,uk-ofsi-sanctions,altair-holding-sa-lu,altair-holding.com,"altair holding,altair holding sa,altair-holding.com",,arkham,2026-05-26,false,34825a46917a686da8b89ecfa2b162733c818445e25d5b942b72ae9dad6515bb
@@ -396,6 +556,7 @@ USDT0,bridge,95,0,0,10,ETH,,usdt0,usdt0.to,"usdt0,UsdtOFT",,arkham,2026-05-11,fa
 Venus Core Pool,defi,95,0,0,10,BSC|ETH|ARBITRUM|BASE|OPTIMISM,,venus-core-pool,app.venus.io,"venus core pool,venus-core-pool",,arkham,2026-05-11,false,5921ae4863fcf5d784b1fc66503552846226dbe67b4208e1f018839af703f6dc
 WBTC,bridge,95,0,0,10,BTC,,wbtc,btc.network,wbtc,,defillama,2026-05-11,false,fcf70a72cc11dd5814d186bcd86a3e0a5794c2c4426f2705d7a721181c0603aa
 Tornado.Cash,mixer,95,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE,manual-admin,tornado-cash,tornadocash.eth,"tornado cash,tornado,tornado.cash",,manual,2026-07-09,true,48f1f138140f1fe4de4cc741364f15595b28e7b666fda60c074d966cd91dcb93
+Tsunami Cash Wallet,mixer,95,478,75,5,TRON,manual-admin,tsunami-cash,tsunami.cash,"tsunami cash,tsunami,tsunami.cash,tsunami cash wallet",Tsunami Wallet,manual,2026-09-18,true,d2ee3fae41fff60324df257e64680483b435c097a85438b1d60a8544b5699272
 Wirex,exchange,94,21,85,5,BSC|ETH|TRON,scorechain-counterparties,wirex-com,wirex.com,wirex,,manual,2026-04-29,true,0a2f6d75f4047da3ef12f162a7cee66a7a4b1464811ffa8d43744172c164aaf9
 Bitpapa,sanctioned,90,33,85,90,BTC|ETH|TRON,scorechain-counterparties,bitpapa-com,bitpapa.com,bitpapa,,arkham,2026-06-10,false,68e1fd9b3f8cff097066815202b38962ab5bcc5e5d5d72b468cb226e1b08095a
 Cryptex.net,sanctioned,90,,,,ETH|TRON|BSC|ARBITRUM|AVALANCHE|BASE|OPTIMISM|POLYGON,,cryptex-net,exchange.cryptex.net,"cryptex,cryptex.net,cryptex exchange",,arkham,2026-07-09,true,69c84f6322bb561a86ca73aa30021829b4fdb886224920fd11941b1361be5c51
@@ -407,6 +568,8 @@ FalconX MEV Capital,stablecoin_issuer,90,0,60,10,ETH,pharos-watch,,falconx.io,"f
 UAHg,stablecoin_issuer,90,3,75,15,ETH|BSC|TRON,manual-admin,uahg,uahg.io,"uahg,uahg.io,hryvnia stablecoin,ukrainian hryvnia stablecoin",,manual,2026-07-30,true,7939bfb52a5bd5bdb90a3807b3d3f69dcf651667d3a71d55a5aee95175eb907b
 Ezil.me,mining,90,4,90,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,arkham-intelligence,ezil-me,ezil.me,"ezil,ezil.me,ezil pool,zilliqa mining",,manual,2026-08-01,true,d8fc508dfe875b04ab223bf6eec661bf88114186a2d5b9d594ec35cb88b42147
 Exnode,psp,90,17,90,5,TRON,manual-admin,exnode,exnode.io,"exnode,exnode pay,payment processor",,manual,2026-08-24,true,8d1cbecf633f01af90046b5c291fb90c8245810f6430bdbbea0163230a653759
+Lazarus Group,sanctioned,90,0,100,100,ETH|TRON|BTC|BSC,manual-admin,lazarus-group,,"lazarus,lazarus group,apt38,north korea hacking group",,manual,2026-09-13,true,16748ede698c8906692a24aaa10eff226a6f9c7e0948e12fd3fe677ce3502878
+Onebit,otc_desk,90,9,90,10,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,arkham-intelligence,onebit,onebit.com,"onebit,onebit.com,onebit digital",,manual,2026-09-14,true,6d86278c71068f9031da43785f141f3aea0ed968848f39a6ff9cf47e117312e3
 Aerodrome Slipstream,dex,85,0,0,10,BASE,,aerodrome-slipstream,aerodrome.finance,"aerodrome slipstream,aerodrome-slipstream",,defillama,2026-05-11,false,c2df3403e59f93fee81e7934096aaa03fe1d85f8ba70d8b2f93bcee402482e4c
 Aerodrome V1,dex,85,0,0,10,BASE,,aerodrome,aerodrome.finance,aerodrome,,arkham,2026-05-11,false,cdcf6701a3b6496953385bd9eb1b2bb084efc89ef7fe393e8ea07dee70f0f268
 AFI Protocol,defi,85,0,0,10,BASE|ETH,,afi,afiprotocol.xyz,afi,,defillama,2026-05-11,false,a78c091013568742f29a283adc437cc82c45841fb36bbf503e2ec2a2f8128633
@@ -522,6 +685,7 @@ zkSync Era txBridge,bridge,85,0,0,10,ETH,,zksync-era-txbridge,,"zksync era txbri
 ABCex,exchange,85,7,85,100,BTC|ETH|TRON,manual-admin|uk-ofsi-sanctions,abcex-io,abcex.io,"abcex,abcex.io,abcex-io","nueva cryptologia,nueva cryptologia sas",manual,2026-06-21,false,f7b138c37db2934e38eab3c1cf3a3a7ee7473ab083f639b17e9929739fc4a5dd
 @HWZF,exchange,85,0,70,85,TRON,manual-admin,hwzf,,hwzf,,synthetic,2026-08-17,false,d58a37dc5a591bb8e673b7bc51024b5ebe81ad3552a1c09fff2ad6dfcf0254f1
 Securitize,defi,85,0,0,10,ETH|SOL|AVALANCHE|POLYGON|ARBITRUM|OPTIMISM|BASE,pharos-stablecoins,securitize,securitize.io,"securitize inc,securitize holdings",,manual,2026-07-22,true,c765fad456659bf73bdd6301ce505b9eddf6462c46cd633a5091e36c34da92f9
+Fulilai Guarantee,sanctioned,85,,90,95,,manual-admin,fulilai-guarantee,,"fulilai guarantee,fulilai,fulilai wallet",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 BlockFi,exchange,82,,,,ETH|BTC|SOL|POLYGON,,blockfi-com,blockfi.com,blockfi,,arkham,2026-06-02,false,57a17ce9924de2b6ca303d6cfb9ddbcb2672c1d91485eb994174ea7a0675d6e0
 blender.io,mixer,80,45,80,95,BTC,graphsense-tagpacks,blenderio-io,blender.io,"blenderio,blenderio,blenderio",,synthetic,2026-08-17,false,7f5d3e4a1e0d230fc3c17ed151036ec81f25972226340afdb20cf210d2eb4693
 Cobinhood,exchange,80,5,75,5,ETH,manual-admin,cobinhood,cobinhood.com,"cobinhood,cobinhood exchange,cobinhood.com",,manual,2026-07-09,true,be79c8dbe79385e23837652e31f47d3b56cc2d4649464159c59c0a0101fc8bab
@@ -533,6 +697,7 @@ Sky (MakerDAO),defi,80,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE,m
 TFL (Terraform Labs),defi,80,1,75,5,ETH|BSC|POLYGON|OPTIMISM|ARBITRUM|BASE|AVALANCHE|TRON,manual-admin,tfl,tfl.org,"tfl (terraform labs),terraform labs",,manual,2026-07-09,true,92124cd85dbf05ceeec04fffb381f929ac941fd7b5bab309b73ee31f69453bf6
 Ember,defi,80,0,0,10,ETH,pharos-watch,ember,ember.so,"ember,ember protocol,ember.so,ember earn,eearn",,manual,2026-07-22,true,2afe57851dcf8c24c657a067f11bbe770ccccfd9952f2c3d6462d43966923bce
 Western Union,psp,80,0,90,5,SOLANA,manual-admin,western-union,westernunion.com,"western union,westernunion,usdpt",,manual,2026-07-22,true,3fe4c6eff0312aa2ac9c7d99b721f99c4c0cbc42d0801d0d2eaeecb97df9a35c
+Bitcoin Suisse,otc_desk,80,8,80,3,ETH|ARBITRUM|BSC|BASE|AVALANCHE|OPTIMISM|POLYGON,manual-admin,bitcoin-suisse-com,bitcoinsuisse.com,"bitcoin suisse,bitcoinsuisse",,manual,2026-09-11,true,d1ea56fdc6f9f9ba83ff7cbd14a94c8a0844e5a179da9d12309e7916acc168aa
 40 Acres,defi,75,0,0,10,BASE|OPTIMISM|AVALANCHE,,40-acres,40acres.finance,"40 acres,40-acres",,arkham,2026-05-11,false,309c7d2dba4274070fde4daf6e603b13a0c0a4639a57e0409c489b2df7a44028
 Adrastea Validator,mining,75,0,0,10,SOL,,adrastea-validator,adrastea.fi,"adrastea validator,adrastea-validator",,defillama,2026-05-27,false,77cbed08f68fc72a258eb2d9d0b3e4d6522934af741b6c6c8328a212c5f7378c
 Aevo Perps,defi,75,0,0,10,ETH|BASE|ARBITRUM|OPTIMISM,,aevo-perps,app.aevo.xyz,"aevo perps,aevo-perps",,defillama,2026-05-11,false,3c046e922095e1fa2aebbb0fadbc82af9f65790684323c9f8389384fab609168
@@ -832,6 +997,7 @@ Zoo Finance,defi,75,0,0,10,BSC|ARBITRUM|BASE,,zoo,zoofi.io,zoo,,arkham,2026-06-0
 F-Change,exchange,75,20,75,5,"TRON,ETH",manual-admin,f-change-biz,f-change.cc,"f-change,f-change.biz,f-change.cc",,manual,2026-07-01,true,2a84ff9cdfc0e8676192db5531b8820bacca6858c02525ac1e9bf70b1809905b
 Telcoin,psp,75,0,0,8,ETH|POLYGON,pharos-stablecoins,telcoin,telcoin.org,"telcoin,telcoin.org,telco.in,eusd,emxn,telcoin digital asset bank",,manual,2026-07-22,true,a991916ef07da73afffac84750fdf922acd7dd074d5a442ece7c1beb95fab8d9
 Quantoz,stablecoin_issuer,75,11,80,5,ETH|POLYGON,coingecko-tokens|1inch-token-lists|dawsbot-eth-labels,quantoz,quantoz.com,quantoz,,manual,2026-08-02,true,6adbf02900133f78df0a552a47008c2a3b0e0a356a91c872b722efe6b8d73525
+Tyt.cash,exchange,75,4,75,50,TRON,manual-admin,tyt-cash,tyt.cash,"tyt.cash,tyt cash",,manual,2026-08-27,true,17cdf3b83d71f9dc3a99225a348e03d364a9b20f2e341925826129ecda738982
 Cruxpool,mining,70,10,75,5,ETH|AVAX,manual-admin,cruxpool,cruxpool.com,"cruxpool,cruxpool.com,cruxpool mining",,manual,2026-07-09,true,8525a62d7528e872a6e9e461dc1aca621a0a0579e7fddad3b4254f48f2943178
 DeFinity,defi,70,5,75,5,ETH|ARBITRUM|AVAX,manual-admin,definity,definity.network,"definity,definity.network,definity exchange",,manual,2026-07-09,true,511039db095a880d2a7c4904f8ffe667142fb6359c6a5a1d163931b717bbe9e5
 DwarfPool,mining,70,15,75,5,ETH,manual-admin,dwarfpool,dwarfpool.com,"dwarfpool,dwarfpool.com,dwarf pool mining",,manual,2026-07-09,true,c0fc6bcdc508d2f22c49a1ae64af2819869ef7f0760b2ea4fc8ccf4382f1a7ed
@@ -898,6 +1064,82 @@ Brale,stablecoin_issuer,70,0,80,5,ARBITRUM|AVALANCHE|BASE|ETH|POLYGON|SOL,manual
 Cad Coin,stablecoin_issuer,70,6,80,5,ARBITRUM|BASE|ETH|POLYGON|SOL,coingecko-uniswap-list|brianleect-labels|1inch-token-lists|pharos-watch,cad-coin,loon.finance,"cad coin,loon.finance",,manual,2026-08-02,true,46148c4a017249f29cf3289b568fee50e4edf6c83acd00186afceee1371dcdd2
 Coinmania,exchange,70,5,100,5,BTC|ETH|TRON,arkham-intelligence|manual-admin,coinmania,coinmania.exchange,"coinmania,coinmania.exchange",,manual,2026-08-02,true,dd9ead086cf5a8d5a1f2aacb16447e193c8ecc9ee20f7e211abe83e9a326eb4e
 JPYC,stablecoin_issuer,70,0,0,10,ETH|POLYGON|AVALANCHE|BASE,pharos-stablecoins|manual-admin,jpyc,jpyc.co.jp,"jpyc,jpyc.co.jp",,manual,2026-08-02,true,9d6d73ad71c379461d6b22e2b0e612571baebed6b02923765b94165048529766
+skylabs-am,exchange,70,0,70,10,ETH,manual-admin,skylabs-am,skylabs.world,skylabs-am,,manual,2026-08-26,true,8a5aa6566b09f229f298882ee99fc982e4a2311ef9999c8eed79b53b86689e72
+cryptoexchangearmenia,exchange,70,0,70,10,ETH,manual-admin,cryptoexchangearmenia,cryptoexchangearmenia.am,cryptoexchangearmenia,,manual,2026-08-26,true,94287674091eae521babe9b6995c23ca9b3d80486e148981d59179c5d34c0458
+bitcoin-am,exchange,70,0,70,10,ETH,manual-admin,bitcoin-am,bitcoin.am,bitcoin-am,,manual,2026-08-26,true,a3f3c94d3a5946533d9490903b0df473a7c1c3de83f53bdcaac8e282ecc39075
+bitcoincenter-am,exchange,70,0,70,10,ETH,manual-admin,bitcoincenter-am,www.bitcoincenter.am,bitcoincenter-am,,manual,2026-08-26,true,4ee0c17486fc98fdae26096fafbc77d99955bd710a578c9172163740ecf797c5
+biki-com,exchange,70,0,70,10,ETH,manual-admin,biki-com,biki.com,biki-com,,manual,2026-08-26,true,00b75b377f923ccf8f52f0ed50f72e05ad1187ebe7fb133001838f6b3abc5f58
+coinbene,exchange,70,0,70,10,ETH,manual-admin,coinbene,,coinbene,,manual,2026-08-26,true,b784495173bf05ef7aadcfa3cc0cffdc6ed9aa30e1141204c7aeb6db396f37a6
+bgogo,exchange,70,0,70,10,ETH,manual-admin,bgogo,,bgogo,,manual,2026-08-26,true,eecde64aa1b9a52942e8d712e095a3b432c072cbf995a2874b0bb4c0f2327de7
+phoneix-trading,exchange,70,0,70,10,ETH,manual-admin,phoneix-trading,phoneixtrading.com,phoneix-trading,,manual,2026-08-26,true,9a686dc1127eef73cf29fa8595c8c87bd50d2f916a29908271d90173872f9021
+jubi,exchange,70,0,70,10,ETH,manual-admin,jubi,ju.com,jubi,,manual,2026-08-26,true,212007e437e28245fea0d5366247a717b32a43d832b4a1fb4c4ab78e6e76e82a
+bidesk,exchange,70,0,70,10,ETH,manual-admin,bidesk,bidesk.com,bidesk,,manual,2026-08-26,true,989345c208c46c0353cabfd9acb809e7bd09dbd6e2edbfc34cf40128a13ba4f9
+coss-exchange,exchange,70,0,70,10,ETH,manual-admin,coss-exchange,coss.io,coss-exchange,,manual,2026-08-26,true,059b5378d36267d5ed87d86ab0fa9fbe641751c89f7e4733e2867254e027e5a6
+folgory-exchange,exchange,70,0,70,10,ETH,manual-admin,folgory-exchange,folgory.com,folgory-exchange,,manual,2026-08-26,true,0b80c23eed24f26666d638dc2f5c812740a4334a01d3801eadcbf3d6c6464ba7
+buytex,exchange,70,0,70,10,ETH,manual-admin,buytex,buytex.io,buytex,,manual,2026-08-26,true,ec12705f27fa75f80b6ebc312829fd542eb6cf265d7eb2e24efd911ba79292be
+bitun-io,exchange,70,0,70,10,ETH,manual-admin,bitun-io,bitun.io,bitun-io,,manual,2026-08-26,true,6fd60b30d9ab56e1bb371d82f8067fe61664259f575cf014c3a88c52221ef603
+nexbit-pro,exchange,70,0,70,10,ETH,manual-admin,nexbit-pro,nexbit.pro,nexbit-pro,,manual,2026-08-26,true,9e09425a435f31d88ece0530dd23cc1191c1a021b47cd947f68228f60d49687a
+coindhan,exchange,70,0,70,10,ETH,manual-admin,coindhan,coindhan.com,coindhan,,manual,2026-08-26,true,f60048618bc483e5f38bbabb5e1ebfb7a561674622800ff137e6c6348c4a1a21
+coinexchange-am,exchange,70,0,70,10,ETH,manual-admin,coinexchange-am,coinexchange.am,coinexchange-am,,manual,2026-08-26,true,899cba87414fc439d481ec045937308d37b82e9e45200f195179a1e7cff4ffb0
+panda-exchange,exchange,70,0,70,10,ETH,manual-admin,panda-exchange,panda.exchange,panda-exchange,,manual,2026-08-26,true,c6a4d6c6cce372a1d44ed3e8ccc5a507aa7a158203c9910c17695da9d1f8f8fe
+c2cx,exchange,70,0,70,10,ETH,manual-admin,c2cx,c2cx.com,c2cx,,manual,2026-08-26,true,861ab17b48dca8eb302ec8122b3c0ef086fffb90a524d457bb36f8e70ff7bb40
+AMLBot,defi,70,0,60,10,,manual-admin,amlbot,amlbot.com,"amlbot,aml bot",,manual,2026-09-13,true,039c0a29c3c343e1023b748529abb4b802d800445d58d3ecd93592df1906ce62
+Arbuz,p2p,70,0,60,10,BTC,manual-admin,arbuz-io,arbuz.io,"arbuz,arbuz.io",,manual,2026-09-13,true,b94cac38165ad652a82b0cc7884f06f8016af37095725db8c45d6d14b8c6dcef
+BigONE Eurasia,exchange,70,0,60,10,,manual-admin,bigone-eurasia,bigoneeurasia.ladesk.com,bigone eurasia,,manual,2026-09-13,true,9fdc2d9335795394980bd87365427ce8e0eb6f8cf2792bc466f963b58fae3a31
+Bitok.kg,p2p,70,0,60,10,,manual-admin,bitok-kg,bitok.kg,"bitok,bitok.kg",,manual,2026-09-13,true,a43d74f09d713b34bd3ae4af0da21ca062120bb57e11e6d8e6d96a991c8471b1
+Collect & Exchange,psp,70,0,60,10,,manual-admin,collect-exchange,usdt.collectnexchange.com,"collect exchange,collectnexchange",,manual,2026-09-13,true,a418aa98e2ddc9723f6fa10f3d65c08f87b8f71acdfeac6003d66f115e46e151
+Delta DA,exchange,70,0,60,10,,manual-admin,delta-da,deltada.kz,"delta da,deltada",,manual,2026-09-13,true,b50c3b08960407c6dac76f2c8dc535586645e2a9025f75c9cbab9bcb5d4e10b1
+ElCrypto / Vys Trade (Bitbanker.kg),otc_desk,70,0,60,10,,manual-admin,elcrypto-kg,elcrypto.kg,"elcrypto,vys trade,bitbanker",,manual,2026-09-13,true,b1ae7faffad9c6f61a9037067e135aa0781ba309d3b30857323c635c75098391
+Corex Acquiring,psp,70,0,60,10,,manual-admin,korex-acquiring,pay.korex.kg,"corex,korex acquiring",,manual,2026-09-13,true,d858c70253e971a100a972c125361316cf9ceeff0abb128c0b826318c8a49a57
+MetaWin,gambling,70,0,60,10,BASE|BSC|ETH|OPTIMISM|POLYGON|TRON,manual-admin,metawin-com,metawin.com,"metawin,metawin.com",,manual,2026-09-13,true,fcf0da4f0fc54da3d04c50f7e8ba095e4d0dece46e49a6db650cddc290e6025f
+MEX.KG,p2p,70,0,60,10,,manual-admin,mex-kg,mex.kg,mex.kg,,manual,2026-09-13,true,6f3970faa0deca420e0d2b8ce41d2f517680a51f3cea6530ba5e2b928fccfaf2
+Tewkenaire,gambling,70,0,60,10,TRON,manual-admin,tewkenaire,tewkenaire.com,tewkenaire,,manual,2026-09-13,true,a02e93d221a52267e98f1e51a5a50e12d3f38f806c4261c8d987f82ab14fbe18
+Trustee Plus,wallet,70,0,60,10,,manual-admin,trustee-plus,trustee.io,"trustee plus,trustee",,manual,2026-09-13,true,74f6711c149d13b94973070fb272e2d571550c9f7a554a95015e671ed4f5bdde
+Trustee Wallet,wallet,70,0,60,10,,manual-admin,trustee-wallet,trustee.io,"trustee wallet,trustee",,manual,2026-09-13,true,74f6711c149d13b94973070fb272e2d571550c9f7a554a95015e671ed4f5bdde
+Whitepay,psp,70,0,60,10,,manual-admin,whitepay,whitepay.com,whitepay,,manual,2026-09-13,true,ae045efd8d3a82facc98f9ec72d53b2bda1277616ef63508bfefdf4346d50ee6
+XBT.kg / My O! (Baisanar),exchange,70,0,60,10,,manual-admin,xbt-kg,xbt.kg,"xbt.kg,my o,baisanar",,manual,2026-09-13,true,e086afe2d37da3a2c92a582ad7e2f1ff298fcfc6b57cf2a5ff1f24bb45e36d52
+888Tron.com,gambling,70,0,60,10,TRON,manual-admin,888tron-com,888tron.com,"888tron,888 tron",,manual,2026-09-13,true,e3bbf66e7deacfa1e86c4cca72cb4865d612b51c12c787746a6377491a0dc2f7
+Avalpardakht.com,psp,70,0,60,10,TRON,manual-admin,avalpardakht-com,avalpardakht.com,avalpardakht,,manual,2026-09-13,true,bcec7b8acbafa69f8e32c25ce38ac2db1cff1606a8d8c8b5b1e43ca7c62f49d7
+Candyland.Casino,gambling,70,0,60,10,BTC|LTC,manual-admin,candyland-casino,candyland.casino,"candyland,candyland casino",,manual,2026-09-13,true,b3256fef48ea530187376f4a8c60db89828dcd6947580ed1d294f54e2d473095
+Capybara.kg,p2p,70,0,60,10,TRON,manual-admin,capybara-kg,capybara.kg,"capybara,capybara.kg",,manual,2026-09-13,true,5bf588d58a8e2b0cd6d683fe4a137b3856f4c531a8f015681e2178ebb317cd8d
+EarnBet.io,gambling,70,0,60,10,BTC|ETH|LTC,manual-admin,earnbet-io,earnbet.io,"earnbet,earnbet.io",,manual,2026-09-13,true,156f8d15154d4a1a440a10df859b2447c87029f391e897f94f79f9da9e545b8e
+GTCFX.com,otc_desk,70,0,60,10,TRON,manual-admin,gtcfx-com,gtcfx.com,gtcfx,,manual,2026-09-13,true,87beb619f05f8ef037cef95477489ca5f97573668d196b771d54927004cf36ab
+Luckygames.io,gambling,70,0,60,10,BTC|ETH|LTC,manual-admin,luckygames-io,luckygames.io,"luckygames,lucky games",,manual,2026-09-13,true,17439e9d1a70bd45b42071e5bb1410c92f42018ceaa71215ee7f76035264e052
+Rahakott.io,mixer,70,0,60,10,BTC|LTC,manual-admin,rahakott-io,rahakott.io,rahakott,,manual,2026-09-13,true,0f013d6f3a652c45bcd23042ddb8dc483dfc72b7b9f5c0d0457a903944f435d2
+Vavada.com,gambling,70,0,60,10,BTC|LTC,manual-admin,vavada-com,vavada.com,vavada,,manual,2026-09-13,true,43f6a6f2b143b689c86c5a8779e42ea89cb66642dacf0785b6963421250eb475
+WinDice.io,gambling,70,0,60,10,BTC|ETH|LTC,manual-admin,windice-io,windice.io,"windice,win dice",,manual,2026-09-13,true,1411773f686e003b74c31a1762a93dc88ae3811ca7e5459da340f207fa4665f9
+Zota.com,psp,70,0,60,10,TRON,manual-admin,zota-com,zota.com,zota,,manual,2026-09-13,true,360fc86154a450781d54675f8228996222504477ff3bee8d7a76fbcc205ea873
+BitDice.me,gambling,70,0,60,10,BTC|LTC,manual-admin,bitdice-me,bitdice.me,bitdice,,manual,2026-09-13,true,5724600c26fdec5252e5a51a611966988d0d54671ec19b2a4e205ed05571d20b
+Bitvest.io,gambling,70,0,60,10,BTC|ETH|LTC,manual-admin,bitvest-io,bitvest.io,bitvest,,manual,2026-09-13,true,24c32efe80cf373e6dcc2b260fcbcbd47369d22bd80fe108594b95e44d4538c6
+Chips.gg,gambling,70,0,60,10,BTC|ETH|LTC,manual-admin,chips-gg,chips.gg,"chips.gg,chips gg",,manual,2026-09-13,true,33a3f1aa826372515b2db4757106c5c0440e84255419868652e8993fb81f9d68
+Crypto-Games.net,gambling,70,0,60,10,BTC|ETH|LTC,manual-admin,crypto-games-net,crypto-games.net,"crypto-games,crypto games",,manual,2026-09-13,true,50fccbf64f66df05f4fa65cad887edf067745c6c56bc55f00e60c4ba857a4c1f
+CryptoSlots.com,gambling,70,0,60,10,BTC|LTC,manual-admin,cryptoslots-com,cryptoslots.com,cryptoslots,,manual,2026-09-13,true,c37f5c9b2739b85d1c7784c32221d0aecb8b86797f29566a07af3a2eb1f9710f
+Degens.com,gambling,70,0,60,10,ETH,manual-admin,degens-com,degens.com,degens,,manual,2026-09-13,true,85615bb41591486b5d7fa8d4088e58c5f5b37d860d13375e34be10a225824d45
+Inmerion.com,gambling,70,0,60,10,ETH|LTC,manual-admin,inmerion-com,inmerion.com,inmerion,,manual,2026-09-13,true,b817b89fbac783ddd1b75bbe9d6cc9a4a07155fa812f60cef6317e2f9f4a1d3e
+PrimeDice.com,gambling,70,0,60,10,BTC|ETH|LTC,manual-admin,primedice-com,primedice.com,primedice,,manual,2026-09-13,true,2b4a33ef0d72e1e382a78b532bf584206cc84384104dcbca3510e6d7d9b05f00
+RuneChat.com,gambling,70,0,60,10,BTC|ETH,manual-admin,runechat-com,runechat.com,runechat,,manual,2026-09-13,true,85dcf0e3265ad387ba7672260b290e25d451ca45ee3eb18aeab4a8d8b5244193
+AnyExchange.best,p2p,70,0,60,10,,manual-admin,anyexchange-best,anyexchange.best,anyexchange,,manual,2026-09-13,true,15c76faf19d601ceb9da84ccf9bac9d3dc7108733fcb3378aa9ca7bd75c6f972
+Baksmany,p2p,70,0,60,10,BSC|BTC,manual-admin,baksmany-com,baksmany.com,baksmany,,manual,2026-09-13,true,0acddc756c225dadf511a82f09b44022339035382806c5e0bbac667f0f3c4dac
+SpectrumChange.com,p2p,70,0,60,10,ETH,manual-admin,spectrumchange-com,spectrumchange.com,spectrumchange,,manual,2026-09-13,true,36bf0b33f3c2c561beebf6d9efde06ce6805bc3dd8856d10bd8a0503bd066a0e
+Axi.com,otc_desk,70,0,60,10,TRON,manual-admin,axi-com,axi.com,axi,,manual,2026-09-13,true,6fda8df716dd6bcaeb64f37a22e33d3bf4c93102b49bbf8ca4e2dde02b79a701
+Bitbse.com,exchange,70,0,60,10,ETH,manual-admin,bitbse-com,bitbse.com,bitbse,,manual,2026-09-13,true,b0ef8560d564ad06d7108076d8a71187e783ea25bb3ae39585346e8e64e8bdcd
+BitMarket.net,exchange,70,0,60,10,BTC|ETH|LTC,manual-admin,bitmarket-net,bitmarket.net,bitmarket,,manual,2026-09-13,true,99608bd2dd59b9747bcae6923371d2b460178584d0cd617c87d7f31da9267cde
+Exonyx.org,exchange,70,0,60,10,TRON,manual-admin,exonyx-org,exonyx.org,exonyx,,manual,2026-09-13,true,44ec7dbfac0cdfa3c645d585fbc546193308f5df4939c9a0fa2edae5a885b925
+Felixo.com,exchange,70,0,60,10,BTC|ETH|LTC,manual-admin,felixo-com,felixo.com,felixo,,manual,2026-09-13,true,ad530e0eebb8148ef14f2554990353b125fe4fade1f2784f4c91e8707cad34cd
+Kapytal.io,exchange,70,0,60,10,ETH,manual-admin,kapytal-io,kapytal.io,kapytal,,manual,2026-09-13,true,0afcf24c2dfc7285e9e1db73aaf15699bcc867924b8d242f3c660e37dfb176cb
+Swep.io,exchange,70,0,60,10,ETH,manual-admin,swep-io,swep.io,swep,,manual,2026-09-13,true,1ac754dd78a4a484a011452ea471fbd9e3f47f993a27d5d643ade037bbbfac52
+Wallbit.io,exchange,70,0,60,10,TRON,manual-admin,wallbit-io,wallbit.io,wallbit,,manual,2026-09-13,true,e4c875da79c514cfac221bd0da82fc6c1e282fbecf35d9462694081b2ebcb402
+ChainPal,psp,70,0,60,10,,manual-admin,chainpal,chainpal.io,chainpal,,manual,2026-09-13,true,d48b454d3f47c75e4080976c3c8ba12a8e28e83bd553cf085baeb81e3097bf8f
+Cryptobuyer.io,psp,70,0,60,10,ETH|LTC,manual-admin,cryptobuyer-io,cryptobuyer.io,cryptobuyer,,manual,2026-09-13,true,f2d39a652d3ff6c435d53905091f6323371b618c8163f673d2045cf43e39c4b6
+FidduPay,psp,70,0,60,10,,manual-admin,fiddupay,fiddupay.com,fiddupay,,manual,2026-09-13,true,dd1ed547f6c12eb52daea65b89fa6e1d3b1185099f7b574f8cf252f09366baa1
+MCPay,psp,70,0,60,10,,manual-admin,mcpay,mcpay.tech,mcpay,,manual,2026-09-13,true,e72a1f6294e86f9097aa8d63084bbf6b55b7d12b136101f550619f9ba8fca8f6
+Membrane Finance,psp,70,0,60,10,ARBITRUM|AVALANCHE|ETH|OPTIMISM|POLYGON|SOL,manual-admin,membrane,membrane.fi,"membrane,membrane finance,euroe",,manual,2026-09-13,true,03663e34afb9f32ae2a10239e42d0bd633dfccdc93ca9fc89482d6f7b6f5b059
+Now Open App,psp,70,0,60,10,,manual-admin,now-open-app,nowopen.app,now open,,manual,2026-09-13,true,0fc08c1f1c93722fa2b88db39870ea95a33b890f683e17190989b03c1d67bcff
+Pyypl Kazakhstan,psp,70,0,60,10,,manual-admin,pyypl-kazakhstan,pyypl.com,pyypl,,manual,2026-09-13,true,200315cd9716c65214a723bb8b9e68157d01277c20f238ba111bbf9174a89318
+Southpay,psp,70,0,60,10,,manual-admin,southpay,southpay.io,southpay,,manual,2026-09-13,true,b212519a09e5b2c4988257e6ff6bacd6f7309184929475d05563ee306658bd5d
+TreebuCapital.com,psp,70,0,60,10,ETH|TRON,manual-admin,treebucapital-com,treebucapital.com,treebucapital,,manual,2026-09-13,true,eeeebba986c62911df9ba7b3caae2f68357c4be52b992848e176965dfa773967
+Trocador,psp,70,0,60,10,,manual-admin,trocador,trocador.app,trocador,,manual,2026-09-13,true,ce77cdf6b804268a0e5074d68a02f96585da6f71ec757c5dcdf5e5acd7422a51
+Buy Cash,sanctioned,70,0,60,10,BTC|TRON,manual-admin,buy-cash,buy-cash.net,"buy cash,buycash",,manual,2026-09-13,true,53b243287751cafb990ec860ceb35de9500c902d06936c3ec8faf07d920fc0d4
 1sec,bridge,65,0,0,10,ETH|BASE|ARBITRUM,,1sec,1sec.to,1sec,,defillama,2026-06-02,false,68803db25b5697230c19f47265e2ccc30f9d4751f47128080347ca15bd08b256
 9mm V3,dex,65,0,0,10,BASE,,9mm,dex.9mm.pro,9mm,,defillama,2026-06-02,false,ed163d554539b0c756fc57835060647b5b7c0533fae92320a43a7e014b8497bc
 Aave Aptos,defi,65,0,0,10,,,aave-aptos,aave.com,"aave aptos,aave-aptos",,arkham,2026-06-02,false,d9a9ff2a4f99c442175d31511e7b9cb20365a211bae9f15a7fd4ea1d2a0a4542
@@ -1557,6 +1799,99 @@ Usdu Finance,defi,60,1,60,5,ETH,pharos-stablecoins,usdu-finance,usdu.finance,"us
 PaySido,psp,60,1,100,3,TRON,manual-admin,paysido-com,paysido.com,"paysido,paysido payment,paysido psp",,manual,2026-07-24,true,d95ecb537ebe9cda14d463e3c2f6cc95b540a4d971f26554da64584d508f9812
 Darkex,exchange,60,0,0,50,BTC|ETH|BSC|TRON,manual-admin,darkex,darkex.com,"darkex,darkex.com",,manual,2026-08-02,true,986d42af7c4d881e1a1968eeb5c5d06eea9c80ca8a2fdbaf8e77589ef9d987f1
 Dialectic,defi,60,0,0,10,ETH,pharos-stablecoins|manual-admin,dialectic,dialectic.com,"dialectic,dialectic.com,dialectic usd vault",,manual,2026-08-02,true,6bc9506bbf908d38ebae41827d68f38c18153939c9d2a43e1394e33c90eaaf55
+CCE.Cash,exchange,60,2,75,50,TRON|ETH,manual-admin,cce-cash,cce.cash,"cce.cash,cce cash,cce-cash,cce chainswap",,manual,2026-08-30,true,8ac74f695183eac4786aae459adc275377b3e59e755e5b2bd246a68d0a9ed4b8
+Lucky.fun,gambling,60,6,80,3,TRON,manual-admin,lucky-fun-casino,lucky.fun,"lucky.fun,luckyfun",,manual,2026-09-11,true,be277398afc5044395be7bca3a51d06ba8d6340dd008b4fc8b5ef5a4c2e64e33
+Babulyaexchange,otc_desk,60,3,75,10,TRON,manual-admin,babulyaexchange,,"babulyaexchange,babulyaexchannel",,manual,2026-09-19,true,227b9afc077e5676ecceb77d04239650c4c2b191f132f192385e6a485656ba73
+Bitzlato,exchange,60,1,100,90,POLYGON,manual-admin,bitzlato,bitzlato.com,bitzlato,,none,2026-09-21,true,
+PlusToken Ponzi,exchange,60,1,100,90,POLYGON,manual-admin,plustoken-ponzi,,plustoken ponzi,,none,2026-09-21,true,
+FCoin,exchange,60,1,100,90,BTC,manual-admin,fcoin,fcoin.com,fcoin,,none,2026-09-21,true,
+WEX,exchange,60,1,100,90,BTC,manual-admin,wex-nz,wex.nz,wex,,none,2026-09-21,true,
+HashOcean,mining,60,1,100,90,BTC,manual-admin,hashocean,hashocean.com,hashocean,,manual,2026-09-21,true,cc582a61064f824b0e307a0d073f8066233a7515545c20957503bdc572c1acc2
+Cryptonit.net,exchange,60,1,100,90,BTC,manual-admin,cryptonit-net,cryptonit.net,cryptonit.net,,manual,2026-09-21,true,e765aba7d08fa86a8c13d3f396db9190882615665bd2a19bc8d72876fb5ba7c7
+Coin.mx,exchange,60,1,100,90,BTC,manual-admin,coin-mx,coin.mx,coin.mx,,manual,2026-09-21,true,1ac754dd78a4a484a011452ea471fbd9e3f47f993a27d5d643ade037bbbfac52
+Livecoin.net,exchange,60,1,100,90,BTC,manual-admin,livecoin-net,livecoin.net,livecoin.net,,none,2026-09-21,true,
+Mt. Gox,exchange,60,1,100,90,BTC,manual-admin,mtgox-com,mtgox.com,mt. gox,,none,2026-09-21,true,
+Bitcoinica,exchange,60,1,100,90,BTC,manual-admin,bitcoinica,bitcoinica.com,bitcoinica,,none,2026-09-21,true,
+Cubits,exchange,60,1,100,90,BTC,manual-admin,cubits-com,cubits.com,cubits,,manual,2026-09-21,true,8548eade36fc75ddaf8dceb427e03187a5d182783a5d0026d861f9644e8c454a
+Mirror Trading International Ponzi,exchange,60,1,100,90,BTC,manual-admin,mirror-trading-international-ponzi,mtiforex.com,mirror trading international ponzi,,none,2026-09-21,true,
+Bovada,gambling,60,1,100,90,BTC,manual-admin,bovada-lv,bovada.lv,bovada,,manual,2026-09-21,true,3311042b88099d07e3894cad8321cf870b7ce553b3441943ceb6bc74b7d23e6f
+SatoshiDICE,gambling,60,1,100,90,BTC,manual-admin,satoshidice-com,satoshidice.com,satoshidice,,none,2026-09-21,true,
+Nitrogen Sports,gambling,60,1,100,90,BTC,manual-admin,nitrogen-sports,nitrogensports.eu,nitrogen sports,,manual,2026-09-21,true,3c119274a50323f5980597eea288b3c97eb8534ed748e37d4545a27a2f25805e
+CSGO Empire,gambling,60,1,100,90,BTC,manual-admin,csgo-empire,csgoempire.com,csgo empire,,manual,2026-09-21,true,90649c7ee960b5d95b0210c10cfb453c75d674d1be9bdbff3515d02a12682c9d
+TradeOgre,exchange,60,1,100,90,POLYGON,manual-admin,tradeogre-com,tradeogre.com,tradeogre,,none,2026-09-21,true,
+Bitcoin.de (Bitcoin Group SE),exchange,60,1,100,90,BTC,manual-admin,bitcoin-de,bitcoin.de,"bitcoin.de,bitcoin group se",,manual,2026-09-21,true,2237fa1400256b69179a59cf70b3a8ba5ef83240561e0c23881666c7d4072b50
+Btc38,exchange,60,1,100,90,BTC,manual-admin,btc38-com,btc38.com,btc38,,manual,2026-09-21,true,a1a8b0d3c7da9ae6ebc927db134b9c063c4a3d3a4bb9bfc937369627669ff7e8
+Coinroll,gambling,60,1,100,90,BTC,manual-admin,coinroll-com,coinroll.com,coinroll,,none,2026-09-21,true,
+Gamba,gambling,60,1,100,90,SOL,manual-admin,gamba-io,gamba.io,gamba,,manual,2026-09-21,true,1ac754dd78a4a484a011452ea471fbd9e3f47f993a27d5d643ade037bbbfac52
+SX Network,gambling,60,1,100,90,ARBITRUM,manual-admin,sx-bet,sx.bet,sx network,,manual,2026-09-21,true,f26a9fac084b4c64bc9de6136e6b6d4cd80d3659f48516fec2105dc6e9be903a
+Braziliex,exchange,60,1,100,90,BTC,manual-admin,braziliex-com,braziliex.com,braziliex,,none,2026-09-21,true,
+Yeet.com,gambling,60,1,100,90,AVALANCHE,manual-admin,yeet-com,yeet.com,yeet.com,,manual,2026-09-21,true,b89f57389f844283bd512d4b555a05502d635a09e7473e4cadf577d352c8860a
+InvestmentDouble,exchange,60,1,100,90,BTC,manual-admin,investmentdouble,,investmentdouble,,none,2026-09-21,true,
+SWCPoker (Seals With Clubs),gambling,60,1,100,90,BTC,manual-admin,swcpoker,swcpoker.eu,"swcpoker,swcpoker.eu,seals with clubs",,manual,2026-09-21,true,1c428303f7de94bb8f1d16444a8f868970cb12ee562be2328188d7d9b4f850a6
+Red Stag,gambling,60,1,100,90,BTC,manual-admin,red-stag,redstagcasino.eu,red stag,,manual,2026-09-21,true,2d07f1be9eee4e9eec1b3ad3cd5c485ecf894572e5983a269dc17e549938f610
+Superslots,gambling,60,1,100,90,BTC,manual-admin,superslots,superslots.com,superslots,,none,2026-09-21,true,
+BitZino,gambling,60,1,100,90,BTC,manual-admin,bitzino,bitzino.com,bitzino,,manual,2026-09-21,true,1bd42ce54d71defcd83e9876ae52e58f3be87f6af48d64f56d5837e5c9bcbf7d
+Bitlish,exchange,60,1,100,90,BTC,manual-admin,bitlish,bitlish.com,bitlish,,none,2026-09-21,true,
+Bixin,exchange,60,1,100,90,BTC,manual-admin,bixin,bixin.com,bixin,,manual,2026-09-21,true,e9c56d609e0479e8df7394728fe961fc8a4d209a8c2c9390cb873b75080f1630
+Betswirl,gambling,60,1,100,90,AVALANCHE,manual-admin,betswirl,betswirl.com,betswirl,,manual,2026-09-21,true,5d5f3e6498f2da040e06fbc59b1bc6d0c7bfdaa36ab7f3dd0da4aff1075cc06f
+Kine Protocol,defi,60,1,100,90,BSC,manual-admin,kine-protocol,kine.trade,kine protocol,,none,2026-09-21,true,
+MintDice,gambling,60,1,100,90,AVALANCHE,manual-admin,mintdice-com,mintdice.com,mintdice,,manual,2026-09-21,true,9e2104470f799d7f72415f09fa11791b485e12502898559f9bc8cfe848fa07a8
+Wager.com,gambling,60,1,100,90,ARBITRUM,manual-admin,wager-com,wager.com,wager.com,,manual,2026-09-21,true,e4106f43f18fa90c501e95ab2d718496fb43d863aa3ab90a08991c0197e56a8f
+BETFIN,gambling,60,1,100,90,ARBITRUM,manual-admin,betfin-io,betfin.io,betfin,,manual,2026-09-21,true,c722a964a8be9885179280fca46b95cd5a333f212e60127be6efe9223d4999c7
+Flush.com,gambling,60,1,100,90,ARBITRUM,manual-admin,flush-com,flush.com,flush.com,,manual,2026-09-21,true,23f93d5da097985c6e6fc551838688c53d9c9ccc3e457c315fc2ea76a38b57f9
+Hunny Play,gambling,60,1,100,90,BSC,manual-admin,hunnyplay-io,hunnyplay.io,hunny play,,manual,2026-09-21,true,060402026144d7ce2fb6b2d29f21a38ea1f3d38d5de5a831315bf5ff68c4ce5f
+Jackpot.bet,gambling,60,1,100,90,BSC,manual-admin,jackpot-bet,jackpot.bet,jackpot.bet,,manual,2026-09-21,true,c776085f1f0e65cf6aea05cb4f4ae964f214619c4fc022373d3fc225cf05d6b5
+Toshibet (Toshi.bet),gambling,60,1,100,90,SOL,manual-admin,toshi-bet,toshi.bet,toshibet (toshi.bet),,manual,2026-09-21,true,4b30dbe5313a62377394b7787e544015129ebd69ac22eff652cc25e79c2566e1
+RocketGame,gambling,60,1,100,90,TRON,manual-admin,rocketgame,,rocketgame,,none,2026-09-21,true,
+cybet,gambling,60,1,100,90,TRON,manual-admin,cybet-com,cybet.com,cybet,,manual,2026-09-21,true,12c9f7a4d2956a38efcfafd8ee218d7d9a4f48b7dcc1cc0714b0f434e6e59267
+CoinRoyale,gambling,60,1,100,90,BTC,manual-admin,coinroyale-com,coinroyale.com,coinroyale,,manual,2026-09-21,true,650aa0b578cb64dc9a52460111b2d1367a935874993dd35b6cce522d2f202260
+Anonibet,gambling,60,1,100,90,BTC,manual-admin,anonibet-com,anonibet.com,anonibet,,none,2026-09-21,true,
+Wagon Bet,gambling,60,1,100,90,BTC,manual-admin,wagonbet-com,wagonbet.com,wagon bet,,none,2026-09-21,true,
+Pocketdice.io,gambling,60,1,100,90,BTC,manual-admin,pocketdice-io,pocketdice.io,pocketdice.io,,manual,2026-09-21,true,c3ab268e8f28b431d7a93b808f5deda06eef768853cbef009b4eeea97dd78d9e
+Bluff,gambling,60,1,100,90,SOL,manual-admin,bluff-com,bluff.com,bluff,,manual,2026-09-21,true,193fcd5453cf2d25b609cdae953890bae40903f80833d0674fc9755dcc2c5c3e
+Bitaroo,exchange,60,1,100,90,BTC,manual-admin,bitaroo-com-au,bitaroo.com.au,bitaroo,,manual,2026-09-21,true,feecf0afab6288b3a1d8100518117078842df0c16127bd929a752e7e70c8139e
+Solcasino.io,gambling,60,1,100,90,SOL,manual-admin,solcasino-io,solcasino.io,solcasino.io,,manual,2026-09-21,true,725c532784b4b846490967a35072a46d165291f5cf27aed1066fde8c3c8ecf2b
+WSM Casino,gambling,60,1,100,90,SOL,manual-admin,wsm-casino,wsmcasino.com,wsm casino,,manual,2026-09-21,true,0c4b65a7f570d436d97e545e1d7b5de505c2c04c528a0367b074a38cf04f7613
+Dzengi.com,exchange,60,1,100,90,BTC,manual-admin,dzengi-com,dzengi.com,dzengi.com,,manual,2026-09-21,true,1c6f0809af024466acc458255f75a807c8a588e996f081975c8ceda2678139fa
+796.com,exchange,60,1,100,90,BTC,manual-admin,796-exchange,,796.com,,none,2026-09-21,true,
+Satoshibet,gambling,60,1,100,90,BTC,manual-admin,satoshibet-com,satoshibet.com,satoshibet,,none,2026-09-21,true,
+Playtin,gambling,60,1,100,90,BTC,manual-admin,playtin-com,,playtin,,none,2026-09-21,true,
+Fairmillions.com,gambling,60,1,100,90,BTC,manual-admin,fairmillions-com,fairmillions.com,fairmillions.com,,manual,2026-09-21,true,ab907fc99ea485d1571a2716e7572c20642cb4bb7ae7f0149a4a18110ff12e71
+Whale.io,gambling,60,1,100,90,SOL,manual-admin,whale-io,whale.io,whale.io,,manual,2026-09-21,true,f4e8fc949f1df4d570e3c18529c967f076d13b5e3c4dd3a5312c1bce82bd2d08
+Degen Coin Flip,gambling,60,1,100,90,SOL,manual-admin,degen-coin-flip,degencoinflip.com,"degen coin flip,degencoinflip.com",,manual,2026-09-21,true,58e4ec6ae127ec7348d98bedbf85e4f034ff744db54e96c69b88622817484e51
+Housebets,gambling,60,1,100,90,BTC,manual-admin,housebets-com,housebets.com,housebets,,manual,2026-09-21,true,d1faebf44b255eb89e0333b66669999641b444fe3c77118e51a0d6e24e887092
+CoinCasino,gambling,60,1,100,90,POLYGON,manual-admin,coincasino-us,coincasino.us.com,coincasino,,manual,2026-09-21,true,c6b59e50a17cfec87248b67643d45bfe4cfda7644adb597fe06510216ab3891f
+Qzino,gambling,60,1,100,90,TRON,manual-admin,qzino-ai,qzino.ai,qzino,,manual,2026-09-21,true,3c0ebcbb89adb277af6a1d99c74af4257bf4d9b3f0a3677c0f46c2fb46f7eb04
+Thrill.com,gambling,60,1,100,90,SOL,manual-admin,thrill-com,thrill.com,thrill.com,,manual,2026-09-21,true,4f1a20a2e831d19c044680851d3301ee056ff988e0275257d228c4775ae6af43
+BtcTrade,exchange,60,1,100,90,BTC,manual-admin,btctrade-com,,btctrade,,none,2026-09-21,true,
+Urdubit.com,exchange,60,1,100,90,BTC,manual-admin,urdubit-com,urdubit.com,urdubit.com,,none,2026-09-21,true,
+NAGAX,exchange,60,1,100,90,BTC,manual-admin,nagax-com,nagax.com,nagax,,manual,2026-09-21,true,0963703c58779768e22cc2a2434cd09743378a516c45f074c2d3aefc76c119c0
+SurBitcoin.com,exchange,60,1,100,90,BTC,manual-admin,surbitcoin-com,surbitcoin.com,surbitcoin.com,,none,2026-09-21,true,
+BitBays,exchange,60,1,100,90,BTC,manual-admin,bitbays-com,,bitbays,,none,2026-09-21,true,
+Coinarch,exchange,60,1,100,90,BTC,manual-admin,coinarch-com,coinarch.com,coinarch,,none,2026-09-21,true,
+Bitmake,exchange,60,1,100,90,BTC,manual-admin,bitmake-com,bitmake.com,bitmake,,none,2026-09-21,true,
+Bitfoliex,exchange,60,1,100,90,BTC,manual-admin,bitfoliex-com,bitfoliex.com,bitfoliex,,manual,2026-09-21,true,7c04f8bde7de0de73623c22ef922a559cbf12ede54e1b115e66394f3e033e5f8
+CoinCafe,exchange,60,1,100,90,BTC,manual-admin,coincafe-com,coincafe.com,coincafe,,manual,2026-09-21,true,347c98f567733daa0f94c6a2782630210ded0bccb324457b7c3bda03ac9f7b1d
+WEWE Global,exchange,60,1,100,90,BTC,manual-admin,wewe-global,wewe.global,wewe global,,none,2026-09-21,true,
+Bitmymoney.com,exchange,60,1,100,90,BTC,manual-admin,bitmymoney-com,bitmymoney.com,bitmymoney.com,,manual,2026-09-21,true,3316bba54f58634cf9dc4d08790bafd228e700f9b7f5010020b3535b3dd20e26
+Coinsenda,exchange,60,1,100,90,BTC,manual-admin,coinsenda-com,coinsenda.com,coinsenda,,manual,2026-09-21,true,9715f813ba0d61fda3b4138b2caf04987fb39e91fbe1c06b3786456829d6b0e1
+Belqi.net,exchange,60,1,100,90,BTC,manual-admin,belqi-net,belqi.net,belqi.net,,manual,2026-09-21,true,06122865da87f50f8e22d662c682554e9a87262620e217e2ecdf548777787f1f
+GSTrade,exchange,60,1,100,90,BTC,manual-admin,gstrade-exchange,gstrade.exchange,gstrade,,manual,2026-09-21,true,29651878b3da8b9babd25e13ad078620d36f1f7acbc5651e140bf950a5e04b4e
+MyCoins (eMoney),exchange,60,1,100,90,BTC,manual-admin,mycoins-ge,mycoins.ge,mycoins (emoney),,manual,2026-09-21,true,6ce6fef9506cc8695d26cbabaf636d06a4c6dae62587124d51c817182f55d991
+Stake.us,gambling,60,1,100,90,SOL,manual-admin,stake-us,stake.us,stake.us,,manual,2026-09-21,true,3ca860781a55bda99b5e48d8a89ebdc168f24f14cb4350aa2a161c092f453527
+Vilcov.com,exchange,60,1,100,90,BTC,manual-admin,vilcov-com,vilcov.com,vilcov.com,,manual,2026-09-21,true,928d0ec8b25993dc82e7e47c72f09749f268c3d9eafbdf1448cf57773003e09b
+Telbet,gambling,60,1,100,90,AVALANCHE,manual-admin,telbet-com,telbet.com,telbet,,manual,2026-09-21,true,4fa73bb8167c7b174483fe9bf8e00d82979ff1bd8786882d2ba8d34c271a7fd2
+Acebet,gambling,60,1,100,90,AVALANCHE,manual-admin,acebet-com,acebet.com,acebet,,manual,2026-09-21,true,50def4b4db8afec4debcf7a338d5ee8cf49242fa7432569447c11dfec83cdb53
+Dicey,gambling,60,1,100,90,SOL,manual-admin,dicey-poker,dicey.poker,dicey,,manual,2026-09-21,true,bf4e042f386265c16fea409861973c277372d22328de3f7d517dde25b4d439ee
+Winna,gambling,60,1,100,90,SOL,manual-admin,winna-com,winna.com,winna,,manual,2026-09-21,true,a405995e1cff19ab02d5bcc5eaa61ffdae3bbf0a9b7b4a55708282f1b602a4dc
+BetcoinDice.tm,gambling,60,1,100,90,BTC,manual-admin,betcoindice-tm,,betcoindice.tm,,none,2026-09-21,true,
+EveryDice.com,gambling,60,1,100,90,BTC,manual-admin,everydice-com,everydice.com,everydice.com,,manual,2026-09-21,true,42320fec81121a09d78441952e24ab0c991931d8747ae34147d27efae83f3683
+BitcoinVideoCasino,gambling,60,1,100,90,BTC,manual-admin,bitcoinvideocasino-com,bitcoinvideocasino.com,bitcoinvideocasino,,none,2026-09-21,true,
+Luck.io,gambling,60,1,100,90,SOL,manual-admin,luck-io,luck.io,luck.io,,none,2026-09-21,true,
+SecondsTrade,gambling,60,1,100,90,BTC,manual-admin,secondstrade-com,,secondstrade,,none,2026-09-21,true,
+Haihua Guarantee,sanctioned,60,,70,70,,manual-admin,haihua-guarantee,,"haihua guarantee,haihua",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Jiuding Guarantee,sanctioned,60,,70,70,,manual-admin,jiuding-guarantee,,"jiuding guarantee,jiuding",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+XVIP Wallet,custodian,60,,70,70,,manual-admin,xvip-wallet,,"xvip wallet,xvip",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 HKD.com,exchange,58,,,,TRON|ETH|BTC,,hkd-com,hkd.com,"hkd,hkd.com",,manual,2026-06-02,false,a883f2c4429ecd9a09420353f30371da14fc68589f1e93a50a59b362c92557d7
 Tudou Danbao,exchange,55,,,,TRON,,tudou-danbao,,"tudou danbao,tudou,danbao",土豆担保,synthetic,2026-08-17,false,aa894562e13fba96e469a6f174107f3670baa4e330e1d1babebb29027df53b0e
 CAD Digital,stablecoin_issuer,55,2,70,8,ETH,coingecko-tokens|manual-admin,cad-digital,tetradg.com,"cad digital,cadd,tetra digital group,tetra trust company",,none,2026-07-22,true,
@@ -2698,29 +3033,6 @@ weex-cex,defi,40.6,58,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON|TRON
 Farhad-exchange.com - Efex.pro,exchange,40.5,54,75,5,BSC|ETH|TRON,scorechain-counterparties,farhad-exchange-com-efex-pro,,"farhad exchange,efex,farhad-exchange.com",,manual,2026-05-03,true,d16a644c11bc0ace8116ddc6416c644d5020273d53e11a9032697e0cb4fd5507
 Safe Trade,exchange,0,6,85,5,BSC|ETH|TRON,scorechain-counterparties,safe-trade,safe.trade,"safe trade,safe.trade",,arkham,2026-05-26,false,89ba5c8d782acbe3c4f1606f459891311e2d70447fb8316e1ec55093de1aefe2
 BTC-Alpha,exchange,100.0,11,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,manual-admin,btc-alpha,btc-alpha.com,"btc-alpha,btc alpha,btcalpha",,manual,2026-08-01,true,6c79beac7c3561e54b9285e14cdf1ad0ec98b62655027cb379c6eaa0c837522b
-Plume,stablecoin_issuer,100,0,0,10,ETH,pharos-watch,plume,plume.org,"plume,plume network,plume.org",,manual,2026-08-25,true,811de6798af402f15ca70bd8409e8a59f7cf49e45bc2a2dfed34b0bf289b2994
-Macropod,stablecoin_issuer,100,0,0,10,BASE|ETH|SOL,pharos-watch,macropod,macropod.com,"macropod,macropod.com",,manual,2026-08-25,true,94487702d9314b738ae0d564d4cf45414915dedd5b15a02753d8eca9c065393f
-Shelbit,sanctioned,100,20,95,100,SOL|TRON|ETH|BTC,manual-admin,shelbit,shelbit.com,"shelbit,shelbit exchange,shps shelbit",,manual,2026-08-26,true,38d43332cf6fc927f02b4b5cf4f40513c5ef561a0fa876580436beca05ecec12
-skylabs-am,exchange,70,0,70,10,ETH,manual-admin,skylabs-am,skylabs.world,skylabs-am,,manual,2026-08-26,true,8a5aa6566b09f229f298882ee99fc982e4a2311ef9999c8eed79b53b86689e72
-cryptoexchangearmenia,exchange,70,0,70,10,ETH,manual-admin,cryptoexchangearmenia,cryptoexchangearmenia.am,cryptoexchangearmenia,,manual,2026-08-26,true,94287674091eae521babe9b6995c23ca9b3d80486e148981d59179c5d34c0458
-bitcoin-am,exchange,70,0,70,10,ETH,manual-admin,bitcoin-am,bitcoin.am,bitcoin-am,,manual,2026-08-26,true,a3f3c94d3a5946533d9490903b0df473a7c1c3de83f53bdcaac8e282ecc39075
-bitcoincenter-am,exchange,70,0,70,10,ETH,manual-admin,bitcoincenter-am,www.bitcoincenter.am,bitcoincenter-am,,manual,2026-08-26,true,4ee0c17486fc98fdae26096fafbc77d99955bd710a578c9172163740ecf797c5
-biki-com,exchange,70,0,70,10,ETH,manual-admin,biki-com,biki.com,biki-com,,manual,2026-08-26,true,00b75b377f923ccf8f52f0ed50f72e05ad1187ebe7fb133001838f6b3abc5f58
-coinbene,exchange,70,0,70,10,ETH,manual-admin,coinbene,,coinbene,,manual,2026-08-26,true,b784495173bf05ef7aadcfa3cc0cffdc6ed9aa30e1141204c7aeb6db396f37a6
-bgogo,exchange,70,0,70,10,ETH,manual-admin,bgogo,,bgogo,,manual,2026-08-26,true,eecde64aa1b9a52942e8d712e095a3b432c072cbf995a2874b0bb4c0f2327de7
-phoneix-trading,exchange,70,0,70,10,ETH,manual-admin,phoneix-trading,phoneixtrading.com,phoneix-trading,,manual,2026-08-26,true,9a686dc1127eef73cf29fa8595c8c87bd50d2f916a29908271d90173872f9021
-jubi,exchange,70,0,70,10,ETH,manual-admin,jubi,ju.com,jubi,,manual,2026-08-26,true,212007e437e28245fea0d5366247a717b32a43d832b4a1fb4c4ab78e6e76e82a
-bidesk,exchange,70,0,70,10,ETH,manual-admin,bidesk,bidesk.com,bidesk,,manual,2026-08-26,true,989345c208c46c0353cabfd9acb809e7bd09dbd6e2edbfc34cf40128a13ba4f9
-coss-exchange,exchange,70,0,70,10,ETH,manual-admin,coss-exchange,coss.io,coss-exchange,,manual,2026-08-26,true,059b5378d36267d5ed87d86ab0fa9fbe641751c89f7e4733e2867254e027e5a6
-folgory-exchange,exchange,70,0,70,10,ETH,manual-admin,folgory-exchange,folgory.com,folgory-exchange,,manual,2026-08-26,true,0b80c23eed24f26666d638dc2f5c812740a4334a01d3801eadcbf3d6c6464ba7
-buytex,exchange,70,0,70,10,ETH,manual-admin,buytex,buytex.io,buytex,,manual,2026-08-26,true,ec12705f27fa75f80b6ebc312829fd542eb6cf265d7eb2e24efd911ba79292be
-bitun-io,exchange,70,0,70,10,ETH,manual-admin,bitun-io,bitun.io,bitun-io,,manual,2026-08-26,true,6fd60b30d9ab56e1bb371d82f8067fe61664259f575cf014c3a88c52221ef603
-nexbit-pro,exchange,70,0,70,10,ETH,manual-admin,nexbit-pro,nexbit.pro,nexbit-pro,,manual,2026-08-26,true,9e09425a435f31d88ece0530dd23cc1191c1a021b47cd947f68228f60d49687a
-coindhan,exchange,70,0,70,10,ETH,manual-admin,coindhan,coindhan.com,coindhan,,manual,2026-08-26,true,f60048618bc483e5f38bbabb5e1ebfb7a561674622800ff137e6c6348c4a1a21
-coinexchange-am,exchange,70,0,70,10,ETH,manual-admin,coinexchange-am,coinexchange.am,coinexchange-am,,manual,2026-08-26,true,899cba87414fc439d481ec045937308d37b82e9e45200f195179a1e7cff4ffb0
-panda-exchange,exchange,70,0,70,10,ETH,manual-admin,panda-exchange,panda.exchange,panda-exchange,,manual,2026-08-26,true,c6a4d6c6cce372a1d44ed3e8ccc5a507aa7a158203c9910c17695da9d1f8f8fe
-c2cx,exchange,70,0,70,10,ETH,manual-admin,c2cx,c2cx.com,c2cx,,manual,2026-08-26,true,861ab17b48dca8eb302ec8122b3c0ef086fffb90a524d457bb36f8e70ff7bb40
-Tyt.cash,exchange,75,4,75,50,TRON,manual-admin,tyt-cash,tyt.cash,"tyt.cash,tyt cash",,manual,2026-08-27,true,17cdf3b83d71f9dc3a99225a348e03d364a9b20f2e341925826129ecda738982
 Keine-Exchange.com,otc_desk,60.0,2,95,5,ETH,manual-admin,keine-exchange-com,keine-exchange.com,"keine-exchange,keine-exchange.com,keine exchange",,manual,2026-08-30,true,da3494ffb7458330a8df2845c8198302b3f2a1b582a0ebedd61de9b3a5366d83
 Coinpay.cr,psp,55.0,14850,85,10,BTC|ETH|TRON,chainalysis-reactor-cluster-export,coinpay-cr,coinpay.cr,"coinpay,coinpay.cr,coin pay",,manual,2026-08-30,true,a6880247af66d1414fa96a1342df45e61b876c78891444b067af7c701e5c029a
 DuckDice.io,gambling,60.0,551,85,10,ETH,chainalysis-reactor-cluster-export,duckdice-io,duckdice.io,"duckdice,duckdice.io,duck dice",,manual,2026-08-30,true,f324a91ee24c39f6c61582edb2136b9c39fe44d3a88278834bda4561f0cf9afa
@@ -2757,315 +3069,7 @@ Simplecoin.eu,exchange,50.0,3,85,5,BTC|ETH,chainalysis-reactor-cluster-export,si
 Solidi.co,exchange,50.0,1,85,5,ETH,chainalysis-reactor-cluster-export,solidi-co,solidi.co,"solidi co,solidi.co",,manual,2026-08-30,true,97048c1c7689af6df8ef2aa9816386ec6120107d3407253f40a96ed779ae721b
 Trakx.io,custodian,50.0,3,85,5,ETH,chainalysis-reactor-cluster-export,trakx-io,trakx.io,"trakx io,trakx.io",,manual,2026-08-30,true,49e6306fffae8395d635f1d3b4242dfe3d2ec4bff3ef93dbc3a4a0045421aa4d
 WOO.org,exchange,50.0,2,85,5,TRON,chainalysis-reactor-cluster-export,woo-org,woo.org,"woo org,woo.org",,manual,2026-08-30,true,690cf1694b3137916d7a8ecbe86dcf34163dc826afc638ddc7400fba2b053a58
-CCE.Cash,exchange,60,2,75,50,TRON|ETH,manual-admin,cce-cash,cce.cash,"cce.cash,cce cash,cce-cash,cce chainswap",,manual,2026-08-30,true,8ac74f695183eac4786aae459adc275377b3e59e755e5b2bd246a68d0a9ed4b8
-Verdient Financial,psp,100,38,75,5,TRON|ETH,manual-admin,verdient-financial,verdient.financial,"verdient,verdient financial,verdient.financial",,manual,2026-08-30,true,f403551501038d9afc0b21f3b0f50fd1a1b8c764335778cc447b1133c1fbd2ce
 9jaCash.com,exchange,50.0,2,85,5,BTC|ETH,chainalysis-reactor-cluster-export,9jacash-com,9jacash.com,"9jacash com,9jacash.com",,manual,2026-09-01,true,aaad9ee35a95c6c13dd5afb8063dfdba73f8452009e3ff600a09df012324e979
 CryptoFiat.finance,exchange,50.0,2,85,5,TRON|ETH,chainalysis-reactor-cluster-export,cryptofiat-finance,cryptofiat.finance,"cryptofiat finance,cryptofiat.finance",,manual,2026-09-01,true,2fbeb67973d7fb6483c5a5a1c9ed945cd63e4d96a828d5690cd00ae3a239cda7
 Naira4Dollar.com,exchange,50.0,2,85,5,BTC|ETH,chainalysis-reactor-cluster-export,naira4dollar-com,naira4dollar.com,"naira4dollar com,naira4dollar.com",,manual,2026-09-01,true,229a884fccfb078254b8d336ef959dd920f892caffc01f814e5fed5c5a2b3bbb
 ExBase.io,exchange,50.0,2,85,5,LTC|ETH,chainalysis-reactor-cluster-export,exbase-io,exbase.io,"exbase io,exbase.io",,manual,2026-09-01,true,7062d004b5f42eadf40a091985a1b5e06f979f705e59b5dd2109e9865b2eaeb6
-4Esnok.cc,exchange,100,1,75,65,ETH,manual-admin,4esnok-cc,4esnok.cc,"4esnok,4esnok.cc",,manual,2026-09-01,true,56e90c20a0f9738fb8e783b514ba877fc797584b26576e02354417bc72e2e503
-BitcoinUA.exchange,exchange,100,1,75,65,ETH,manual-admin,bitcoinua-exchange,bitcoinua.exchange,"bitcoinua,bitcoinua.exchange",,manual,2026-09-01,true,099ceb533a86458679e5a7790f0ed40df8ba91796c42f3c67e8a44398671af2a
-CriptHub.ru,exchange,100,1,75,65,ETH,manual-admin,cripthub-ru,cripthub.ru,"cripthub,cripthub.ru",,manual,2026-09-01,true,e3bb8c6426b01112c092d2637e3f5b3fc08c0b42914638c9effcdbb4b95a5113
-100BTC.kiev.ua,exchange,100,22,75,65,ETH|TRON,"manual-admin,chainalysis-reactor-cluster-export",100btc-kiev-ua,100btc.kiev.ua,"100btc.kiev.ua,100btc-kiev-ua,100btc",,manual,2026-09-01,true,9fb7acc036c46758ad671f82b2bdbfa0d1c46c1960f47553f2badeea79f28508
-NordChange.com,exchange,100,12,75,65,ETH,"manual-admin,chainalysis-reactor-cluster-export",nordchange-com,nordchange.com,"nordchange.com,nordchange-com,nordchange",,manual,2026-09-01,true,e27ecbb19a48a9c70474f457e538d217364be4ffb813afeaa953aaebe6e979e1
-PonyBit.ru,exchange,100,1,75,5,ETH,manual-admin,ponybit-ru,ponybit.ru,"ponybit,ponybit.ru,ponybit-ru",,manual,2026-09-01,true,9ce7aef125f1ba08a9669fc459b682564d66726c02537069f862b45fb3cda121
-Pursa.co,exchange,100,1,75,5,ETH,manual-admin,pursa-co,pursa.co,"pursa,pursa.co,pursa-co",,manual,2026-09-01,true,41178edaaf32e4f9764d44599a558de097135d6dd9f78db104471b6a397b19bc
-Swop.is,exchange,100,3,75,78,ETH|LTC,"manual-admin,chainalysis-reactor-cluster-export",swop-is,swop.is,"swop.is,swop-is",,manual,2026-09-01,true,53e3c7e175bf6ea46fb0a18b8336d490dc660a57be4f402c978951e608bd853a
-Metka.cc,exchange,100,2,75,78,ETH|LTC,"manual-admin,chainalysis-reactor-cluster-export",metka-cc,metka.cc,"metka.cc,metka-cc",,manual,2026-09-01,true,2467318a3634f1d256e4a1f517b1189701baf308f68878d8e1a4030b57cb576e
-ExchangeIndeed.com,exchange,100,1,75,70,ETH,manual-admin,exchangeindeed-com,exchangeindeed.com,"exchangeindeed,exchangeindeed.com",,manual,2026-09-01,true,cd34a9a7c7bfc5d1aade55760a46654698e6a968526252739dd4f17eef362ce5
-ExchangeInstant.com,exchange,100,1,75,82,ETH,manual-admin,exchangeinstant-com,exchangeinstant.com,"exchangeinstant,exchangeinstant.com",,manual,2026-09-01,true,85225273953ecfd266d49c3814104f459c8e7f52b19d17d8725041db87198188
-ItuGlobalFX.com.ng,exchange,100,1,75,72,ETH,manual-admin,ituglobalfx-com-ng,ituglobalfx.com.ng,"ituglobalfx,ituglobalfx.com.ng",,manual,2026-09-01,true,4f97ee1cb34a14c0366b8c9bfbd51ac105e89adb238bdb25e4fb998deac47498
-MFXPartner.com,exchange,100,1,75,85,ETH,manual-admin,mfxpartner-com,mfxpartner.com,"mfxpartner,mfxpartner.com",,none,2026-09-01,true,
-MarChanger.com,exchange,100,1,75,80,ETH,manual-admin,marchanger-com,marchanger.com,"marchanger,marchanger.com",,manual,2026-09-01,true,1eebd7d675263d2632e531d27090b476ea89a02e56370023db2c5be1c686eb60
-ExBit.cc,exchange,100,2,75,78,ETH,"manual-admin,chainalysis-reactor-cluster-export",exbit-cc,exbit.cc,"exbit.cc,exbit-cc",,manual,2026-09-01,true,ee3a450f25301cead1aab520bc5b16d6791ad4ce1b1141dfc1e3fde074151b62
-TraiderIdeal.ru,exchange,100,2,75,78,ETH,"manual-admin,chainalysis-reactor-cluster-export",traiderideal-ru,traiderideal.ru,"traiderideal.ru,traiderideal-ru",,manual,2026-09-01,true,c749120b11d2e3b290f5e2e5a77bd0a16d9ed2c4fd49f26ab7d6e09b442c97ae
-Wolfstreet.cash,exchange,100,1,75,78,ETH,"manual-admin,chainalysis-reactor-cluster-export",wolfstreet-cash,wolfstreet.cash,"wolfstreet.cash,wolfstreet-cash",,manual,2026-09-01,true,66a047ab8d3258a32d3d69803247cdc984def41780738d335a64318953887190
-iDeyPay.com,exchange,100,1,75,78,ETH,"manual-admin,chainalysis-reactor-cluster-export",ideypay-com,ideypay.com,"ideypay,ideypay.com,ideypay-com",,manual,2026-09-01,true,011471c40dba96e0a1f7d88d7337b1449877feb41903439caa701f70bfe3944f
-Crypto Office,exchange,100,0,74,49,TRON|ETH|BSC,manual-admin,crypto-office-com,crypto-office.com,"crypto office,crypto-office,crypto-office.com",,manual,2026-09-05,true,960da1c835b02f06a54c6ee08c1af9a0d6feddb3df3c9dcbe90185ec0f6fe13f
-TokenSpot,exchange,100,445,80,40,TRON,manual-admin,tokenspot-com,tokenspot.com,"tokenspot,tokenspot.com,tokenspot-com",,manual,2026-09-05,true,fee7ca1e2b893efb5a10c044c6a281a315c20731f5bc34deb829807afa06bd7f
-Tron Discount,defi,100,1,75,5,TRON,manual-admin,tron-discount,tron.discount,"tron discount,tron.discount,tronDiscount",,manual,2026-09-06,true,86e82891de02d356ea44c7344b595e99e0a61b39a54e3a5538fad5a91385a8f6
-eopen.io,defi,100,1,75,5,TRON,manual-admin,eopen-io,eopen.io,"eopen,eopen.io",,manual,2026-09-06,true,a0ca32876079e2fcfed2cb6b3db30c2d897b04b4aed9de6bf0b4800fa4fbc274
-TronPulse,defi,100,1,75,5,TRON,manual-admin,tronpulse,tronpulse.io,"tronpulse,tronpulse.io",,manual,2026-09-06,true,af3817a4e3ce96f5b853cd49023f5ebecc2b7972d34c297fc44268c29a40cb0a
-TronMax,defi,100,1,75,5,TRON,manual-admin,tronmax,tronmax.io,"tronmax,tronmax.io",,manual,2026-09-06,true,8ed9d9872db2c0ccf32490a1d047777590f9308175b8b76148998083a2643151
-Mellstroy Casino,gambling,100,1,75,65,TRON,manual-admin,mellstroy-game,mellstroy.game,"mellstroy casino,mellstroy.game",,manual,2026-09-06,true,9a359e9bffea9c72e273fc22147374f1fdf689de9f2ec9a5935b8607a8c08816
-StormGain,exchange,100,1,88,5,ETH,manual-admin,stormgain-com,stormgain.com,"stormgain,stormgain.com",,manual,2026-09-06,true,d5087a7e2ddb8a0e3c26d5f814fbd8a5a473fefcca6541ea378f5460c1f62520
-FortressTrust.com,custodian,100,9072,74,5,ETH,manual-admin,fortresstrust-com,fortresstrust.com,"fortresstrust,fortresstrust.com,fortress trust,elemental financial technologies",,manual,2026-09-10,true,07cd29869bc04bb82f8be3607555e95fff05c1099210ba589771f3c71ad5ccaf
-eXch.cx,exchange,100,29687,74,5,ETH|BTC,manual-admin,exch-cx,exch.cx,exch.cx,,manual,2026-09-10,true,cce4b11a3182bd8aafe31e50a42c91897eca43f7e738f34a0c88ffd41e642b88
-eToroX.com,exchange,100,11549,20,5,ETH,manual-admin,etorox-com,etorox.com,"etorox,etorox.com",,manual,2026-09-10,true,c0fd777d60535dbe8fe4f8941c86c20e43032144f34a15524d2e217a4f1be842
-MBAex.com,exchange,100,9163,74,5,ETH|BTC,manual-admin,mbaex-com,mbaex.com,"mbaex,mbaex.com",,manual,2026-09-10,true,1a4ac692275649677c2de7aec2a1f7871623bb387b47c53acdcd20f8a93e448b
-BITPoint.co.jp,exchange,100,6027,15,5,ETH,manual-admin,bitpoint-co-jp,bitpoint.co.jp,"bitpoint,bitpoint.co.jp",,manual,2026-09-10,true,7215b95b03e230e5d4c0695c453024b1b022f88185cb26c6158658626700b59b
-Lykke.com,exchange,100,5186,74,5,ETH,manual-admin,lykke-com,lykke.com,"lykke,lykke.com",,manual,2026-09-10,true,10efd03a432ab408d602ac003db06ead1d0cccae6db56b1e28dee54403982e09
-TokenizeMalaysia.com,exchange,100,3705,15,5,ETH|BTC,manual-admin,tokenizemalaysia-com,tokenizemalaysia.com,"tokenize xchange,tokenizemalaysia.com",,manual,2026-09-10,true,e6e116401921feaf04b45e7c1959a991c8ac2c1362e67fea157dd8fb40d6fc57
-Tauros.io,exchange,100,973,65,5,ETH|BTC|LTC,manual-admin,tauros-io,tauros.io,"tauros,tauros.io",,manual,2026-09-10,true,7b41efa01db8a85fc18f0aa7bb4f3936e515d5509843f952ef61e876dc5447bd
-CheckSig,custodian,100,247,24,5,BTC,manual-admin,checksig-com,checksig.com,"checksig,checksig.com",,manual,2026-09-10,true,b809207a3b6224b6e27cd7be724f3e4639839187e1b91b5e0531f7d39530aa47
-TrueUSD,stablecoin_issuer,100,9,,,ETH|BSC|TRON|POLYGON|AVALANCHE|ARBITRUM|OPTIMISM|FANTOM,manual-admin,true-usd,tusd.io,"trueusd,tusd,tusd.io",,manual,2026-09-10,true,f6ded42e58debec123c8e97a90344bade73f9393e34a60ab04e2ea4a90444619
-BitMine Immersion Technologies,defi,100,114,24,3,ETH,manual-admin,bitmine-immersion,bitminetech.io,"bitmine,bitmine immersion,bmnr",,manual,2026-09-10,true,874d31428fd77042118f9a507c4e8dcbd840da48f55e58e6030116280d390262
-Faucetpay.io,custodian,100,10,45,4,BSC|BTC|LTC|TRON,manual-admin,faucetpay,faucetpay.io,"faucetpay,faucetpay.io",,manual,2026-09-10,true,2699482bad6928d2d9cba9eef17b6aeb9ae6b4a1b925d39c0fbb2b9ee16aab1c
-DeXe Network,defi,100,6,15,3,BSC|ETH,manual-admin,dexe-network,,"dexe,dexe network,dexe protocol,dexe dao",,manual,2026-09-10,true,31f50c5839f6208403883592a854ed9988e1236fd0917cb92df5ca8182563a8c
-USD.AI,stablecoin_issuer,100,6,50,4,ARBITRUM|BASE|ETH,manual-admin,usd-ai,usd.ai,"usd.ai,usdai",,manual,2026-09-10,true,e64a025fcbb3628092e1bb6cdb9343f6f20f7df7ed8fd42dfd687467bc844cea
-Royal.cash,exchange,100,5,15,3,BSC|BTC,manual-admin,royal-cash,royal.cash,royal.cash,,manual,2026-09-10,true,37cf73150e61dcc880029a2bcd39e8d6f8138838c8b0c4aac8b1d0eef6a2eea2
-Coin-Trade.cc,exchange,100,5,15,3,BTC|ETH|LTC,manual-admin,coin-trade-cc,coin-trade.cc,"coin-trade.cc,coin-trade-cc",,manual,2026-09-10,true,0aa160aa95d8e6aee183a251e5580ec20c29395ee7e762ba379ce00b71f3b572
-BlaBlaChange,exchange,100,4,15,3,BSC|BTC,manual-admin,blablachange-com,blablachange.com,blablachange.com,,manual,2026-09-10,true,ffefdd279e355a33fba347d88442aa898805cacaea35e7466475f8df93de38b6
-ExHub,exchange,100,4,15,3,BSC|BTC,manual-admin,exhub-io,exhub.io,exhub.io,,manual,2026-09-10,true,d34ef33778ee9295af163508ed152c4b5ffe71fb871e4ae7a546dba9716f0d45
-NiceChange,exchange,100,4,15,3,BSC|BTC,manual-admin,nicechange-net,nicechange.net,nicechange.net,,manual,2026-09-10,true,c6f64633d96c32f70877ffb5728ac62bfca1343305b99d8a1e8bf0e3628a9bec
-BCBitcoin.com,exchange,100,4,24,3,BTC|ETH|LTC,manual-admin,bcbitcoin-com,bcbitcoin.com,"bcbitcoin.com,bcbitcoin-com",,manual,2026-09-10,true,7b2631819df6382e8f8235e753646e2b6b93a4314a4dc7032b8a899a00572882
-CryptoVoucher.io,exchange,100,4,49,4,BTC|ETH|LTC,manual-admin,cryptovoucher-io,cryptovoucher.io,"cryptovoucher.io,cryptovoucher-io",,manual,2026-09-10,true,9f8fcca820ea25cd52b937973844e6a7b288857d06696e4bcfc7a582a1b724c6
-MultiChange,exchange,100,3,45,4,BSC|BTC,manual-admin,multichange-net,app.multichange.net,"app.multichange.net,multichange.net",,manual,2026-09-10,true,fd0e1a1abbd3d117660045e722eb2b5e4edc78d1e6e7f7754f1b2726c5454c67
-Crypto HK,psp,100,3,50,5,TRON,manual-admin,crypto-hk,cryptocurrencyhongkong.com,crypto hk,,manual,2026-09-10,true,e7c047578322b83ee84c5572df9b26f6ff6727dcaffbfe0f628e4386acc33a21
-Sinegy.com,exchange,100,3,40,4,BTC|ETH,manual-admin,sinegy-com,sinegy.com,"sinegy.com,sinegy-com",,manual,2026-09-10,true,1a723a2d6887341baca2d3514d3fb1afd5093b82b294410aa592f142cd4de7c1
-Aladdin25.com,exchange,100,3,65,4,ETH,manual-admin,aladdin25-com,aladdin25.com,"aladdin25.com,aladdin25-com",,manual,2026-09-10,true,29266736e5aca1223b65769c1030b40a64112d2e83e99223453b28839e6e3118
-Bitcoin-Store.hr,exchange,100,3,20,3,BTC|ETH,manual-admin,bitcoin-store-hr,bitcoin-store.hr,"bitcoin-store.hr,bitcoin-store-hr",,manual,2026-09-10,true,b7311a360c7b7f0264afd8ca25982a30f9bbc2a2194a81c1a3b4935a3ef87583
-DVchain.co,exchange,100,3,20,3,BTC|ETH,manual-admin,dvchain-co,dvchain.co,"dvchain.co,dvchain-co",,manual,2026-09-10,true,68e0adaf6a5cf48c5a57c2c9201a5030ef051468f124df92fa58036ceb199197
-Exness.com,exchange,100,3,15,3,BTC|ETH,manual-admin,exness-com,exness.com,"exness.com,exness-com",,manual,2026-09-10,true,132e0cf03a2318b2c79c72980fc5eca0dfb32fcfdf1ebc27f23919f47f9ee048
-Billance.com,exchange,100,3,45,4,BTC|ETH|LTC,manual-admin,billance-com,billance.com,"billance.com,billance-com",,manual,2026-09-10,true,0368223d609a269295d89a99ebe4e777bdb57aa643cf8889feb57d24b2ee5941
-OctaFX.com,exchange,100,3,40,4,BTC|ETH,manual-admin,octafx-com,octafx.com,"octafx.com,octafx-com",,manual,2026-09-10,true,918992f58e7b638006015041bc6575deab67ff3e9f7fb691c594fab79e0dceb2
-ZitcExchange.com,exchange,100,3,74,5,ETH|LTC|TRON,manual-admin,zitcexchange-com,zitcexchange.com,"zitcexchange.com,zitcexchange-com",,manual,2026-09-10,true,d137b91d7a591808845a6f86a4d376c56411d55c0a3531381321047b6f3790f0
-Kanga.exchange,exchange,100,3,49,4,BTC|ETH|LTC,manual-admin,kanga-exchange,kanga.exchange,"kanga.exchange,kanga-exchange",,manual,2026-09-10,true,f7aeeed1115c7853efffebcaa71a907ea92d237ed0bf3247b2397df519a0a05c
-KikiTrade.com,exchange,100,3,24,3,BSC|ETH,manual-admin,kikitrade-com,kikitrade.com,"kikitrade.com,kikitrade-com",,manual,2026-09-10,true,616c49a59323beaa508c8cc76b44bee55a5845326d5015e69666acf3ef721278
-AlfaChange,exchange,100,2,15,3,BSC|BTC,manual-admin,alfachange-net,alfachange.net,alfachange.net,,manual,2026-09-10,true,12883f9062cee51a43b75856dfd9438a23ab9526df8cfda528cf4ff3c56c12f5
-ExWhite,exchange,100,2,15,3,BSC|BTC,manual-admin,exwhite-io,exwhite.io,exwhite.io,,manual,2026-09-10,true,a7c0e5e95af406da85bb8c347ba08ffda8a231fc2928191bcba46289e1b0ad03
-Monetkin,exchange,100,2,15,3,BSC|BTC,manual-admin,monetkin-me,monetkin.me,monetkin.me,,manual,2026-09-10,true,68a517eb27d99122782ab999b199da976b87d9a20c1c4a9b53e405a932c77570
-Prostocash,exchange,100,2,15,3,BTC,manual-admin,prostocash-com,prostocash.com,prostocash.com,,manual,2026-09-10,true,35a4d4d80e4ac9095d55e041927f53c3ee8c890cc70b551a01ee50b0fe2950ef
-BTCtenge.com,exchange,100,2,74,5,ETH,manual-admin,btctenge-com,btctenge.com,"btctenge.com,btctenge-com",,manual,2026-09-10,true,966901d507ba670bac54dd72d1a805036501bd7a432c55d4ff9e08f99f253c5c
-BonkyPay.com,exchange,100,2,74,5,ETH,manual-admin,bonkypay-com,bonkypay.com,"bonkypay.com,bonkypay-com",,manual,2026-09-10,true,c8433872a8d3ed1c2be4e0df87eac787cc9177139b4a1492f00d49fc8d758df9
-TRON Network,staking_provider,100,438,15,2,TRON,manual-admin,tron-network,trondao.org,"tron,tron network,trondao,trx",,manual,2026-09-10,true,06c487c7a5dacd4c86ee6f788f36b1486893e3ef85bb919aaaf91523a86ff6cc
-Specie Wallet,custodian,100,142,45,4,ETH|TRON,manual-admin,speciewallet-io,speciewallet.io,"specie wallet,speciewallet,speciewallet.io",,manual,2026-09-10,true,f47b957227a012c3dfb67f37a3b49331fd7be8a71c839c808c1271037c428c58
-Orbital (Pay Perform Limited),psp,100,99,20,2,TRON,manual-admin,orbital-pay,getorbital.com,"orbital,orbital pay,pay perform limited,getorbital",,manual,2026-09-10,true,4946192e022bbd099eee91a98dbad1d9a41dc24f9da3e250df66d93a6dbb3ed7
-Nexus Mutual,defi,100,72,20,2,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,manual-admin,nexus-mutual,nexusmutual.io,"nexus mutual,nxm",,manual,2026-09-10,true,5fba5a434637e43a0648e5d713bb8434586f70ab4b42fd64c3e031b53b97c50f
-Sable Club,custodian,100,67,50,4,TRON,manual-admin,sableclub-com,sableclub.com,"sable club,sable club holdings",,manual,2026-09-10,true,da1cf7b2477f02f84d19384bfbc40007ef73bd35bf35a78981ba2ca3e055a6f2
-F2Pool,mining,100,25,15,2,ARBITRUM|AVALANCHE|BASE|BSC|BTC|ETH|LTC|OPTIMISM|POLYGON,manual-admin,f2pool,f2pool.com,"f2pool,f2pool.com,discus fish",,manual,2026-09-10,true,2c3cdeaedde536ca5a356132315ad6b689c311d4cf9aea015101f1d4953744ce
-Ethpool,mining,100,21,15,2,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,manual-admin,ethpool,ethpool.org,"ethpool,ethpool.org",,manual,2026-09-10,true,37fe0974299f5137c255db82f5cd45cf92468105717233a38794b61ed98b662d
-Babel Finance,custodian,100,10,55,6,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,manual-admin,babel-finance,babel.finance,"babel finance,babel.finance",,manual,2026-09-10,true,86560f90ee3970c29cbf6ff07b69e760063356c82aed13a0e986a4d72c1a6239
-Geco.one,defi,100,10,25,3,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,manual-admin,geco-one,geco.one,"geco,geco.one,geco one",,manual,2026-09-10,true,c3a6512334b2ad2bd74a8a544c6dc567e246fca8edfa506d1cce017113f9cc7f
-Genesis Mining,mining,100,9,15,2,ARBITRUM|AVALANCHE|BASE|BSC|BTC|ETH|LTC|OPTIMISM|POLYGON,manual-admin,genesis-mining,genesis-mining.com,"genesis mining,genesis-mining.com",,manual,2026-09-10,true,43c17b8cdc254f83e32f8967695e326d7b6a70eefc5d3cf5bc6fa16d0e5e0661
-DigiPools,mining,100,7,15,2,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,manual-admin,digipools,digipools.org,"digipools,digipools.org",,manual,2026-09-10,true,438341d4e05e3831dce41526f500ffb1d93b67018b545fcfe27541ed332f5c25
-AnubiDigital.com,exchange,100,3,20,2,ETH,manual-admin,anubidigital-com,anubidigital.com,"anubi digital,anubidigital.com,anubidigital",,manual,2026-09-10,true,32ad05894a11a3cfc4e65424a955ac85293f3ff19f6fc95a62710a5f9c4de2c5
-Orbitos.io,custodian,100,5,20,2,BTC|ETH,manual-admin,orbitos-io,orbitos.io,"orbitos,orbitos.io,orbitos crypto custody",,manual,2026-09-10,true,f03f8f279c0e5914d77e15a306e07b40b5f612831d04872d19727e0d2db15a45
-Monerium EUR emoney,stablecoin_issuer,100,4,15,2,ARBITRUM|BASE|ETH|POLYGON,manual-admin,monerium-eur-emoney,monerium.com,"monerium,monerium eur,eure",,manual,2026-09-10,true,d7bab93da8c192eb24960008d610cc08bcc91411388da02917e1b08950adf58d
-World Liberty Financial USD,stablecoin_issuer,100,4,20,2,BSC|ETH|SOL|TRON,manual-admin,world-liberty-financial-usd,worldlibertyfinancial.com,"world liberty financial,wlfi,usd1",,manual,2026-09-10,true,7307e7b055366d9a3c27f84258bcbde72e8921e0c61c7bb226d6fce20c7afef8
-Stasis Euro,stablecoin_issuer,100,3,15,2,ARBITRUM|ETH|POLYGON,manual-admin,stasis-euro,stasis.net,"stasis,stasis euro,eurs",,manual,2026-09-10,true,6ae5e347971d97f24060e4ba2af29821546dad69cb6b74f8d04ed32663625494
-LocalCryptos.com,p2p,100,4,25,3,BTC|ETH,manual-admin,localcryptos-com,localcryptos.com,"localcryptos,local cryptos,localethereum",,manual,2026-09-10,true,e31734734129aff25dc5c7398042f8f946950978b1beb31471504eb027060a90
-BitcoinSoV,defi,100,7,20,2,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,manual-admin,bitcoinsov,bsovtoken.com,"bitcoinsov,bsov,bsov token",,manual,2026-09-10,true,c03dceb3487cff74b97f93f7c63c3fafddef5834e2315933f9b40097d9a05d31
-Izzy,defi,100,7,25,3,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,manual-admin,izzy,izzy-coin.vip,"izzy,izzy coin",,manual,2026-09-10,true,24af5615388bfcbf04e933503fdf54a6535d66de17486c33ae0a99534b2135d8
-Flata.Exchange,exchange,100,7,40,4,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,manual-admin,flata-exchange,flata.exchange,"flata exchange,flata,플랫타 익스체인지",,manual,2026-09-10,true,fc6e5174020a4d49cbf9eedf8b16e8503c887bb264411b2cb8f991f09828e55e
-NFT trade,dex,100,4,20,2,ETH,manual-admin,nft-trade,nftrade.com,"nftrade,nft trade",,manual,2026-09-10,true,efb680690c39c9edb884735debb18e103cf657d401e0ceb9032ed2c23b62398a
-E-Dollar.ng,exchange,100,3,55,6,BTC|ETH,manual-admin,e-dollar-ng,e-dollar.com.ng,"e-dollar,e-dollar.ng,e-dollar.com.ng",,manual,2026-09-10,true,f5b8c80741e48eeca2c0934bda12da64f6c29a37bbe1caca1ae27be8337b54f2
-Fei Protocol,defi,100,150,20,2,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,manual-admin,fei-protocol,fei.money,"fei protocol,fei,tribe dao",,manual,2026-09-10,true,d23cb2d8247019a97692bd37c9a459471a9a85749217185e756ecb1569a89b39
-Antanta Travel,psp,100,2,20,2,BTC|TRON,manual-admin,antanta-travel,antantatravel.com,"antanta travel,antanta,антанта тревел",,manual,2026-09-10,true,3e3f1877eee5e5fb32c613b03311a9bc847d30b6ac6b75544e1d9a991f3b2315
-Hi.com,exchange,100,2,40,4,BTC|ETH,manual-admin,hi-com,hi.com,"hi.com,hi,hi neobank",,manual,2026-09-10,true,2cc1f12d17c4524585d1b3e7204e4445a6d7e79f76d9b5c5aa8036b0b7bfc89b
-FidelityDigitalAssets.com,custodian,100,2,10,1,ETH,manual-admin,fidelitydigitalassets-com,fidelitydigitalassets.com,"fidelity digital assets,fidelity crypto,fidelity",,manual,2026-09-10,true,c482e1284cbb0c358783581773e2cd96eda1886d4bb2711801d4c986a34dfdae
-Wyre,psp,100,2,20,2,BTC|ETH,manual-admin,wyre,sendwyre.com,"wyre,sendwyre,rockwallet",,manual,2026-09-10,true,c061733e7b7bfbc1c1b6b306e5d21c1f3eb4132864dabbe9523e141a68fc87d2
-AuraeLifestyle.com,exchange,100,2,20,2,BTC|ETH,manual-admin,auraelifestyle-com,auraelifestyle.com,"aurae lifestyle,auraelifestyle",,manual,2026-09-10,true,3ad0b5a5cc6e6aa7e4fad31f0d4131787345e3e480852496d9ad572f5eb6a2d0
-Bitcoin-mjenjacnica.hr,exchange,100,2,40,4,BTC|ETH,manual-admin,bitcoin-mjenjacnica-hr,bitcoin-mjenjacnica.hr,"bitcoin mjenjacnica,bitcoin-mjenjacnica.hr",,manual,2026-09-10,true,8022cf2999e965c77d7fcfad3e45c7ddb0c89de1ed049a6ea709d19652b0db06
-Matrix.co,exchange,100,2,20,2,ETH|LTC,manual-admin,matrix-co,matrix.co,"matrix.co,matrix crypto gateway",,manual,2026-09-10,true,a196829c28e4be00e8e168522acb5375dd0229edbe3659b5fd16f924e90311ed
-OK-BIT.com,exchange,100,2,55,6,ETH,manual-admin,ok-bit-com,ok-bit.com,"okbit,ok-bit,ok-bit.com",,manual,2026-09-10,true,ac1d5bc81b051cd47cdb421d77ea4da42027251deeacbac094517c11f03dec81
-JostPay.com,exchange,100,2,55,6,ETH,manual-admin,jostpay-com,jostpay.com,"jostpay,jostpay.com",,manual,2026-09-10,true,e5f139b59f18ddb16778312dfab860dcbc50c0ff874521af38f9987ab18525df
-Volabit.com,exchange,100,2,40,4,BTC|ETH,manual-admin,volabit-com,volabit.com,"volabit,volabit.com",,manual,2026-09-10,true,4a9014bbf88aaf68456695105332b3ac875305fa99a73a281cdbeb22a0d67a16
-CryptiaExchange.com,exchange,100,2,20,2,ETH,manual-admin,cryptiaexchange-com,cryptiaexchange.com,"cryptia exchange,cryptiaexchange.com",,manual,2026-09-10,true,6b605a4288229ecc67d38f5a7cbc03bd66c6f313b7c092689e054f47b12266fe
-TetherLand.com,exchange,100,2,40,4,BTC|ETH,manual-admin,tetherland-com,tetherland.com,"tetherland,تترلند",,manual,2026-09-10,true,bac1ea47ac21f1183c24b85d7580a9ec02e3c6c289be3f40f6707013cad7ba4a
-Anchored Coins AEUR,stablecoin_issuer,100,2,10,1,BSC|ETH,manual-admin,anchored-coins-aeur,anchoredcoins.com,"anchored coins,aeur,anchored coins ag",,manual,2026-09-10,true,102d08e1ff5823d6d715fe54e164d119e86e43b7dccaacb002115331ee058222
-Obmin24 / X-Change,exchange,100,2,45,5,ETH|LTC,manual-admin,obmin24-x-change,x-change.com.ua,"obmin24,x-change,x-change.com.ua",,manual,2026-09-10,true,c3e60cd9961a86a1bd96c8cc348c24c298fbbf8bce8b7d2d237e5d7730c3912e
-Dollar on Chain,stablecoin_issuer,100,2,15,2,ARBITRUM|ETH,manual-admin,dollar-on-chain,moneyonchain.com,"dollar on chain,doc,money on chain",,manual,2026-09-10,true,508abac3555903b6e2868c3136e7b6374e743bddd87f08732ad8aaecc24269b8
-CryptoRefills.com,p2p,100,2,25,3,BTC|ETH,manual-admin,cryptorefills-com,cryptorefills.com,"cryptorefills,crypto refills",,manual,2026-09-10,true,3f94d70f2436141b0e3939e7995bec2b1b2ff02eb9ed3311b6986b7c3e570107
-JPY Coin,stablecoin_issuer,100,2,10,1,ETH|POLYGON,manual-admin,jpy-coin,jpyc.co.jp,"jpy coin,jpyc,jpyc inc",,manual,2026-09-10,true,20a6a0d27adea14b884530f1def31290381055169fbf45f8707ceb78c315673c
-Astherus,stablecoin_issuer,100,1,10,1,BSC,manual-admin,astherus,astherus.finance,"astherus,asusdf,usdf,aster",,manual,2026-09-10,true,a3a3e1939004e47902e922f05f7e2fbb988349b9ad7c7b3e4a655bdaf9c5ebaf
-pmUSD,stablecoin_issuer,100,1,20,2,ETH,manual-admin,pmusd,pmusd.raac.io,"pmusd,precious metals usd,raac",,manual,2026-09-10,true,2c7ffb85e9d0b78d21f9e7e5709847dec6bedb0cf41a2752df675bd41f9421c2
-Startale USD,stablecoin_issuer,100,1,10,1,ETH,manual-admin,startale-usd,usd.startale.com,"startale usd,usdsc,startale",,manual,2026-09-10,true,465da4f66ba41c7ecdef23d9447ac68ecdea2bf4fb0acd2793c6c0590cd6e4be
-Rai Reflex Index,stablecoin_issuer,100,1,15,2,ETH,manual-admin,rai-reflex-index,reflexer.finance,"rai,rai reflex index,reflexer",,manual,2026-09-10,true,137b37cb08dc4a9343daf72cfe6ec784d3ea87e4189383fb0d0a70c5ed0ef628
-Satoshiat.com,exchange,100,1,20,2,ETH,manual-admin,satoshiat-com,satoshiat.com,"satoshiat,ساتوشيات",,manual,2026-09-10,true,f49ff0d0d4bbb105266e60481da38b239220021e58b7f4b6ce82f4981c61eedc
-Obmennik.ws (historical),exchange,100,1,25,3,TRON,manual-admin,obmennik-ws,obmennik.ws,"obmennik.ws,обменник ws",,manual,2026-09-10,true,b9d5190a280a5ff8acd34714ab8ce4987c592f2781984b173a666c5231af5c12
-D-Obmen,exchange,100,1,25,3,LTC,manual-admin,d-obmen,d-obmen.cc,"d-obmen,d obmen",,manual,2026-09-10,true,2e39796dcc3b037b16118e16154e398bff831f3b08ed5de84db4f4bf8ff7214f
-Rand4Dollar.com,exchange,100,1,55,6,ETH,manual-admin,rand4dollar-com,rand4dollar.com,"rand4dollar,rand4dollar.com",,manual,2026-09-10,true,2c3c97a366c158f61571a92532fe53c01ff0729d06b3af9a04c4845d57a25336
-BasiChange.com,exchange,100,1,30,3,ETH,manual-admin,basichange-com,basichange.com,"basichange,basichange.com",,manual,2026-09-10,true,14ab23e9873dcc04e90c02251dc78e0ad9f635bb4fe86e0fbd67cc7408fb2942
-Ramzbank.com,exchange,100,1,30,3,ETH,manual-admin,ramzbank-com,ramzbank.com,"ramzbank,رمز‌بانک",,manual,2026-09-10,true,607e4333030884274ec9c6c2089788f309163bd1878651426edb297cbbaf549a
-Consensys.net,exchange,100,1,10,1,ETH,manual-admin,consensys-net,consensys.net,"consensys,metamask,infura",,manual,2026-09-10,true,feb00cce723508bd8c20541f6de154ac5520ac86c5a30f3a769badb74c2c6cf6
-VHCEx.com,exchange,100,1,40,4,ETH,manual-admin,vhcex-com,vhcex.com,"vhcex,vhcex.com",,manual,2026-09-10,true,856ad28e600e4bdafbc580343359a78f378cfda37237b5fae7178c3a875866dc
-CoolCoin.best,p2p,100,1,25,3,BSC,manual-admin,coolcoin-best,coolcoin.best,"coolcoin,coolcoin.best",,manual,2026-09-10,true,c977d2ac44be545bfababda6afdeba0c598804f1b6200063bbd98c5b3776aef5
-PandPay.net,exchange,100,1,45,5,BTC,manual-admin,pandpay-net,pandpay.net,"pandpay,pandpay.net",,manual,2026-09-10,true,5de170b4d47199ac36a99879a3847932cc035e336a15d57160fcf05490830eb0
-Bityard.com,exchange,100,1,55,6,ETH,manual-admin,bityard-com,bityard.com,"bityard,bityard.com",,manual,2026-09-10,true,62b9e738e25945354c8d100f080dfa590e0d66da2c52a3f5d1fa7c2c542c6f15
-USAT,stablecoin_issuer,100,1,10,1,ETH,manual-admin,usat,usat.io,"usat,usa-t,dollars that move",,manual,2026-09-10,true,e1ac46f75dd89c6557d8690c9c262cb4c1751f430e00580b8dd1da97bb4552d1
-Biex.com,exchange,100,1,10,1,,manual-admin,biex-com,biex.com,"biex,biex.com",,manual,2026-09-10,true,e8e94e1356f2d00b812ee6d7409af075445c67248decee48857098be02b54b85
-OmniTrade.io,exchange,100,1,10,1,,manual-admin,omnitrade-io,omnitrade.io,"omnitrade,omni trade",,manual,2026-09-10,true,9edafe33088c31c3fcfeca2e035df45986e6f84f51a4e2a090229b4a9e826cde
-AmplifyExchange.com,exchange,100,1,10,1,,manual-admin,amplifyexchange-com,amplifyexchange.com,"amplify exchange,amplifyexchange",,manual,2026-09-10,true,b112fcfdaaa4d8d65c624dabab3e2cb0165d3b13665694d2e1cb9cbfbc9260ed
-Swipelux.com,psp,100,1,10,1,,manual-admin,swipelux-com,swipelux.com,"swipelux,swipe lux",,manual,2026-09-10,true,8ff3028b55dbf40dd6ec0c3a20d289e83532dd5b7e92d1d18a08b9fd8fd45cd1
-DMarket,nft_marketplace,100,1,10,1,,manual-admin,dmarket,dmarket.com,"dmarket,d market",,manual,2026-09-10,true,0ab8a2c009e79cf0109fb4aac67d364ddead176e90f8beaaa2e10e7d987ace27
-HomeCoin,stablecoin_issuer,100,1,10,1,,manual-admin,homecoin,homecoin.finance,"homecoin,home coin",,manual,2026-09-10,true,d4c09f08487970243066df3f0909b3a749f817ea30fd856c6f9cae830c3d74dd
-Ginero.io,p2p,100,1,10,1,,manual-admin,ginero-io,ginero.io,"ginero,ginero.io",,manual,2026-09-10,true,ae16dc53e746f3b47ddd9f7fd4650b7b07bd6b739ff982e8c34f5133c7c2d63b
-FirefoxOTC.com,exchange,100,1,10,1,,manual-admin,firefoxotc-com,firefoxotc.com,"firefoxotc,firefox otc,huhuli",,manual,2026-09-10,true,2e7755489df6f614d521a5a2354c90ceb6c82f1c22f9dd98ae4573f7aafd2fb0
-ETH-Mixer.com,mixer,100,1,10,1,ETH,manual-admin,eth-mixer-com,eth-mixer.com,"eth mixer,ethereum mixer",,manual,2026-09-10,true,20c2b39bee4925e2a04917cc2f65e630335a580a35b80cbe6173672a843ca869
-BestObmen.su,exchange,100,1,10,1,,manual-admin,bestobmen-su,bestobmen.su,"bestobmen,best obmen",,manual,2026-09-10,true,08f8cab32499019c81734dd75f9391cab70772e14c76b0907bb11feeb9420310
-YM-Change.com,exchange,100,1,10,1,,manual-admin,ym-change-com,ym-change.com,"ym change,ymchange",,manual,2026-09-10,true,ad70d6879685bdab8424debe1f723672aa1f63197d8a7299e1505d77a594f996
-MoneyMate.best,p2p,100,1,10,1,,manual-admin,moneymate-best,moneymate.best,"moneymate,money mate",,manual,2026-09-10,true,649110f28b90bea230c73f4625127ab9ae50d55a0389d8c3b3febbf551eaeb70
-ExchangeKey.org,p2p,100,1,10,1,,manual-admin,exchangekey-org,exchangekey.org,"exchangekey,exchange key",,manual,2026-09-10,true,47af3c2ae2b27b130ce8ba06fb57046e9bba64adf6ffa7cc25b6f58f5863dcf4
-DotSatoshi.com,p2p,100,1,10,1,,manual-admin,dotsatoshi-com,dotsatoshi.com,"dotsatoshi,dot satoshi",,manual,2026-09-10,true,268cc292f665ccd2bf44af501f32bd688da9f2d021eee0390f5928a4027bd8b5
-Vimba.co,exchange,100,1,10,1,,manual-admin,vimba-co,vimba.co,"vimba,vimba.co",,manual,2026-09-10,true,2fa76f71126713a6bf04bdec033fd7aed5eb79e3c288ddab53523b3c2e3a028b
-BBOD.io,exchange,100,1,10,1,,manual-admin,bbod-io,bbod.io,"bbod,blockchain board of derivatives",,manual,2026-09-10,true,edac95022acc218d687dffaa256a67f40e06feaa1ee4050cc6cc33a5cff65007
-CoreDAX,exchange,100,1,10,1,,manual-admin,coredax-com,coredax.com,"coredax,core dax",,manual,2026-09-10,true,2b62ad6272beae5847742e9b24481e7f7a1ed95c23a95f29a84cedb6ae2d853c
-Crypto-Store.cc,p2p,100,1,10,1,,manual-admin,crypto-store-cc,crypto-store.cc,"crypto store,cryptostore",,manual,2026-09-10,true,171c8617567a2560b22f4559ef7a1d9ec2b7ec32f62456e8628e0b94d5f75680
-X-Pay.cc,exchange,100,1,10,1,,manual-admin,x-pay-cc,x-pay.cc,"x-pay,xpay",,manual,2026-09-10,true,d229b0b5e9c2ea6b47415ddd10be2db73df447772079c58c5e1d80a828d5b58f
-LVL,exchange,100,1,10,1,,manual-admin,lvl-co,lvl.co,"lvl,lvl.co",,manual,2026-09-10,true,413913a66980ba7a80d05db7ac65f99334647e06135daff089f5e2118ce8866e
-BitKonan,exchange,100,1,10,1,,manual-admin,bitkonan-com,bitkonan.com,"bitkonan,bit konan",,manual,2026-09-10,true,defafc2719b293284413d244963fc9925dab4df3222ca78dc37f448745f0bcab
-Rarebits.io,nft_marketplace,100,1,10,1,,manual-admin,rarebits-io,,"rarebits,rare bits",,synthetic,2026-09-10,false,3eeb39025e8cc0837d6af80c1a35d2ba6d7f877a6adfff2d35e9cbc524698444
-PoloniDEX,dex,100,1,10,1,TRX,manual-admin,polonidex,polonidex.com,"polonidex,trxmarket",,synthetic,2026-09-10,false,cf552c15d18a46d4befa6cbd7e0e5a09d79fe1ce3d7706d42c50a512ada6ce8f
-EMX.com,exchange,100,1,10,1,,manual-admin,emx-com,emx.com,"emx,evermarkets",,synthetic,2026-09-10,false,f9089cd9104e519f1f4768b4c3cffc3735530347ad0f63d9f6f88a7dea3d9c0f
-Quickbit.com,psp,100,1,10,1,,manual-admin,quickbit-com,quickbit.com,"quickbit,quick bit",,synthetic,2026-09-10,false,3f977364cd071082bcc186dd4577133b43bcae0c9d131bdf5ee50dc97151b46f
-Nexus,stablecoin_issuer,100,1,10,1,,manual-admin,nexus,zdex.tech,"nexus nex stablecoin,nexus algorithmic usd",,synthetic,2026-09-10,false,1ebaf0f339e469d054e9b991cc9893ae18b8295223152e64f707cc5298bb3928
-Bybis.com,exchange,100,1,10,1,,manual-admin,bybis-com,bybis.com,bybis,,synthetic,2026-09-10,false,41e8f13a3d207c32f8b5754b58638c3589fd11d5c337cb9dcc4c832a5dd38ea1
-ChainX.kr,exchange,100,1,10,1,,manual-admin,chainx-kr,chainx.kr,"chainx.kr,chainx exchange",,manual,2026-09-10,true,02e3d7c5914e4ea17e088d47c58292893c617d12320fc083060615f4e60dff15
-Instabit,exchange,100,1,10,1,TRX,manual-admin,instabit,instabit.pro,"instabit,instabit.pro",,manual,2026-09-10,true,2d62e929d78f92bf2a8980e294c53bff2bad31f87a18518b26698ecad4a20cd1
-NGE.ng,exchange,100,1,10,1,,manual-admin,nge-ng,nigeriagoldexchange.ng,"nge,nigeria gold exchange",,manual,2026-09-10,true,60e3b4d2bda50b3dcc80f9db19dc40c408b7518c4befd02dcc91ab1db43b2abc
-Maxx Markets,exchange,100,1,10,1,,manual-admin,maxx-markets,maxx.exchange,"maxx markets,maxxmarkets,maxxchain",,manual,2026-09-10,true,afcf4bebfe589bc4d6791b405c31f5981ecb46dabb2152d93a4ef4a1ea2e100b
-Bitcoin Suisse,otc_desk,80,8,80,3,ETH|ARBITRUM|BSC|BASE|AVALANCHE|OPTIMISM|POLYGON,manual-admin,bitcoin-suisse-com,bitcoinsuisse.com,"bitcoin suisse,bitcoinsuisse",,manual,2026-09-11,true,d1ea56fdc6f9f9ba83ff7cbd14a94c8a0844e5a179da9d12309e7916acc168aa
-Lucky.fun,gambling,60,6,80,3,TRON,manual-admin,lucky-fun-casino,lucky.fun,"lucky.fun,luckyfun",,manual,2026-09-11,true,be277398afc5044395be7bca3a51d06ba8d6340dd008b4fc8b5ef5a4c2e64e33
-Lazarus Group,sanctioned,90,0,100,100,ETH|TRON|BTC|BSC,manual-admin,lazarus-group,,"lazarus,lazarus group,apt38,north korea hacking group",,manual,2026-09-13,true,16748ede698c8906692a24aaa10eff226a6f9c7e0948e12fd3fe677ce3502878
-1xBit.com,gambling,100,737670,75,5,BTC|ETH|LTC,manual-admin,1xbit-com,1xbit.com,"1xbit,1xbit.com",,manual,2026-09-13,true,c12224eb2aab386b7c33b567106f43d9b50cdebb4d641319a0e995f8c7760168
-CSGOEmpire.com,gambling,100,184175,75,5,BTC|LTC,manual-admin,csgoempire-com,csgoempire.com,"csgoempire,csgoempire.com,csgo empire",,manual,2026-09-13,true,0a05bb1a742c927f433c7e60c4aacae92ef8f9677d7df7d9d65e1e5c59603c3e
-AMLBot,defi,70,0,60,10,,manual-admin,amlbot,amlbot.com,"amlbot,aml bot",,manual,2026-09-13,true,039c0a29c3c343e1023b748529abb4b802d800445d58d3ecd93592df1906ce62
-Arbuz,p2p,70,0,60,10,BTC,manual-admin,arbuz-io,arbuz.io,"arbuz,arbuz.io",,manual,2026-09-13,true,b94cac38165ad652a82b0cc7884f06f8016af37095725db8c45d6d14b8c6dcef
-BigONE Eurasia,exchange,70,0,60,10,,manual-admin,bigone-eurasia,bigoneeurasia.ladesk.com,bigone eurasia,,manual,2026-09-13,true,9fdc2d9335795394980bd87365427ce8e0eb6f8cf2792bc466f963b58fae3a31
-Bitok.kg,p2p,70,0,60,10,,manual-admin,bitok-kg,bitok.kg,"bitok,bitok.kg",,manual,2026-09-13,true,a43d74f09d713b34bd3ae4af0da21ca062120bb57e11e6d8e6d96a991c8471b1
-Collect & Exchange,psp,70,0,60,10,,manual-admin,collect-exchange,usdt.collectnexchange.com,"collect exchange,collectnexchange",,manual,2026-09-13,true,a418aa98e2ddc9723f6fa10f3d65c08f87b8f71acdfeac6003d66f115e46e151
-Delta DA,exchange,70,0,60,10,,manual-admin,delta-da,deltada.kz,"delta da,deltada",,manual,2026-09-13,true,b50c3b08960407c6dac76f2c8dc535586645e2a9025f75c9cbab9bcb5d4e10b1
-ElCrypto / Vys Trade (Bitbanker.kg),otc_desk,70,0,60,10,,manual-admin,elcrypto-kg,elcrypto.kg,"elcrypto,vys trade,bitbanker",,manual,2026-09-13,true,b1ae7faffad9c6f61a9037067e135aa0781ba309d3b30857323c635c75098391
-Corex Acquiring,psp,70,0,60,10,,manual-admin,korex-acquiring,pay.korex.kg,"corex,korex acquiring",,manual,2026-09-13,true,d858c70253e971a100a972c125361316cf9ceeff0abb128c0b826318c8a49a57
-MetaWin,gambling,70,0,60,10,BASE|BSC|ETH|OPTIMISM|POLYGON|TRON,manual-admin,metawin-com,metawin.com,"metawin,metawin.com",,manual,2026-09-13,true,fcf0da4f0fc54da3d04c50f7e8ba095e4d0dece46e49a6db650cddc290e6025f
-MEX.KG,p2p,70,0,60,10,,manual-admin,mex-kg,mex.kg,mex.kg,,manual,2026-09-13,true,6f3970faa0deca420e0d2b8ce41d2f517680a51f3cea6530ba5e2b928fccfaf2
-Tewkenaire,gambling,70,0,60,10,TRON,manual-admin,tewkenaire,tewkenaire.com,tewkenaire,,manual,2026-09-13,true,a02e93d221a52267e98f1e51a5a50e12d3f38f806c4261c8d987f82ab14fbe18
-Trustee Plus,wallet,70,0,60,10,,manual-admin,trustee-plus,trustee.io,"trustee plus,trustee",,manual,2026-09-13,true,74f6711c149d13b94973070fb272e2d571550c9f7a554a95015e671ed4f5bdde
-Trustee Wallet,wallet,70,0,60,10,,manual-admin,trustee-wallet,trustee.io,"trustee wallet,trustee",,manual,2026-09-13,true,74f6711c149d13b94973070fb272e2d571550c9f7a554a95015e671ed4f5bdde
-Whitepay,psp,70,0,60,10,,manual-admin,whitepay,whitepay.com,whitepay,,manual,2026-09-13,true,ae045efd8d3a82facc98f9ec72d53b2bda1277616ef63508bfefdf4346d50ee6
-XBT.kg / My O! (Baisanar),exchange,70,0,60,10,,manual-admin,xbt-kg,xbt.kg,"xbt.kg,my o,baisanar",,manual,2026-09-13,true,e086afe2d37da3a2c92a582ad7e2f1ff298fcfc6b57cf2a5ff1f24bb45e36d52
-888Tron.com,gambling,70,0,60,10,TRON,manual-admin,888tron-com,888tron.com,"888tron,888 tron",,manual,2026-09-13,true,e3bbf66e7deacfa1e86c4cca72cb4865d612b51c12c787746a6377491a0dc2f7
-Avalpardakht.com,psp,70,0,60,10,TRON,manual-admin,avalpardakht-com,avalpardakht.com,avalpardakht,,manual,2026-09-13,true,bcec7b8acbafa69f8e32c25ce38ac2db1cff1606a8d8c8b5b1e43ca7c62f49d7
-Candyland.Casino,gambling,70,0,60,10,BTC|LTC,manual-admin,candyland-casino,candyland.casino,"candyland,candyland casino",,manual,2026-09-13,true,b3256fef48ea530187376f4a8c60db89828dcd6947580ed1d294f54e2d473095
-Capybara.kg,p2p,70,0,60,10,TRON,manual-admin,capybara-kg,capybara.kg,"capybara,capybara.kg",,manual,2026-09-13,true,5bf588d58a8e2b0cd6d683fe4a137b3856f4c531a8f015681e2178ebb317cd8d
-EarnBet.io,gambling,70,0,60,10,BTC|ETH|LTC,manual-admin,earnbet-io,earnbet.io,"earnbet,earnbet.io",,manual,2026-09-13,true,156f8d15154d4a1a440a10df859b2447c87029f391e897f94f79f9da9e545b8e
-GTCFX.com,otc_desk,70,0,60,10,TRON,manual-admin,gtcfx-com,gtcfx.com,gtcfx,,manual,2026-09-13,true,87beb619f05f8ef037cef95477489ca5f97573668d196b771d54927004cf36ab
-Luckygames.io,gambling,70,0,60,10,BTC|ETH|LTC,manual-admin,luckygames-io,luckygames.io,"luckygames,lucky games",,manual,2026-09-13,true,17439e9d1a70bd45b42071e5bb1410c92f42018ceaa71215ee7f76035264e052
-Rahakott.io,mixer,70,0,60,10,BTC|LTC,manual-admin,rahakott-io,rahakott.io,rahakott,,manual,2026-09-13,true,0f013d6f3a652c45bcd23042ddb8dc483dfc72b7b9f5c0d0457a903944f435d2
-Vavada.com,gambling,70,0,60,10,BTC|LTC,manual-admin,vavada-com,vavada.com,vavada,,manual,2026-09-13,true,43f6a6f2b143b689c86c5a8779e42ea89cb66642dacf0785b6963421250eb475
-WinDice.io,gambling,70,0,60,10,BTC|ETH|LTC,manual-admin,windice-io,windice.io,"windice,win dice",,manual,2026-09-13,true,1411773f686e003b74c31a1762a93dc88ae3811ca7e5459da340f207fa4665f9
-Zota.com,psp,70,0,60,10,TRON,manual-admin,zota-com,zota.com,zota,,manual,2026-09-13,true,360fc86154a450781d54675f8228996222504477ff3bee8d7a76fbcc205ea873
-BitDice.me,gambling,70,0,60,10,BTC|LTC,manual-admin,bitdice-me,bitdice.me,bitdice,,manual,2026-09-13,true,5724600c26fdec5252e5a51a611966988d0d54671ec19b2a4e205ed05571d20b
-Bitvest.io,gambling,70,0,60,10,BTC|ETH|LTC,manual-admin,bitvest-io,bitvest.io,bitvest,,manual,2026-09-13,true,24c32efe80cf373e6dcc2b260fcbcbd47369d22bd80fe108594b95e44d4538c6
-Chips.gg,gambling,70,0,60,10,BTC|ETH|LTC,manual-admin,chips-gg,chips.gg,"chips.gg,chips gg",,manual,2026-09-13,true,33a3f1aa826372515b2db4757106c5c0440e84255419868652e8993fb81f9d68
-Crypto-Games.net,gambling,70,0,60,10,BTC|ETH|LTC,manual-admin,crypto-games-net,crypto-games.net,"crypto-games,crypto games",,manual,2026-09-13,true,50fccbf64f66df05f4fa65cad887edf067745c6c56bc55f00e60c4ba857a4c1f
-CryptoSlots.com,gambling,70,0,60,10,BTC|LTC,manual-admin,cryptoslots-com,cryptoslots.com,cryptoslots,,manual,2026-09-13,true,c37f5c9b2739b85d1c7784c32221d0aecb8b86797f29566a07af3a2eb1f9710f
-Degens.com,gambling,70,0,60,10,ETH,manual-admin,degens-com,degens.com,degens,,manual,2026-09-13,true,85615bb41591486b5d7fa8d4088e58c5f5b37d860d13375e34be10a225824d45
-Inmerion.com,gambling,70,0,60,10,ETH|LTC,manual-admin,inmerion-com,inmerion.com,inmerion,,manual,2026-09-13,true,b817b89fbac783ddd1b75bbe9d6cc9a4a07155fa812f60cef6317e2f9f4a1d3e
-PrimeDice.com,gambling,70,0,60,10,BTC|ETH|LTC,manual-admin,primedice-com,primedice.com,primedice,,manual,2026-09-13,true,2b4a33ef0d72e1e382a78b532bf584206cc84384104dcbca3510e6d7d9b05f00
-RuneChat.com,gambling,70,0,60,10,BTC|ETH,manual-admin,runechat-com,runechat.com,runechat,,manual,2026-09-13,true,85dcf0e3265ad387ba7672260b290e25d451ca45ee3eb18aeab4a8d8b5244193
-AnyExchange.best,p2p,70,0,60,10,,manual-admin,anyexchange-best,anyexchange.best,anyexchange,,manual,2026-09-13,true,15c76faf19d601ceb9da84ccf9bac9d3dc7108733fcb3378aa9ca7bd75c6f972
-Baksmany,p2p,70,0,60,10,BSC|BTC,manual-admin,baksmany-com,baksmany.com,baksmany,,manual,2026-09-13,true,0acddc756c225dadf511a82f09b44022339035382806c5e0bbac667f0f3c4dac
-SpectrumChange.com,p2p,70,0,60,10,ETH,manual-admin,spectrumchange-com,spectrumchange.com,spectrumchange,,manual,2026-09-13,true,36bf0b33f3c2c561beebf6d9efde06ce6805bc3dd8856d10bd8a0503bd066a0e
-Axi.com,otc_desk,70,0,60,10,TRON,manual-admin,axi-com,axi.com,axi,,manual,2026-09-13,true,6fda8df716dd6bcaeb64f37a22e33d3bf4c93102b49bbf8ca4e2dde02b79a701
-Bitbse.com,exchange,70,0,60,10,ETH,manual-admin,bitbse-com,bitbse.com,bitbse,,manual,2026-09-13,true,b0ef8560d564ad06d7108076d8a71187e783ea25bb3ae39585346e8e64e8bdcd
-BitMarket.net,exchange,70,0,60,10,BTC|ETH|LTC,manual-admin,bitmarket-net,bitmarket.net,bitmarket,,manual,2026-09-13,true,99608bd2dd59b9747bcae6923371d2b460178584d0cd617c87d7f31da9267cde
-Exonyx.org,exchange,70,0,60,10,TRON,manual-admin,exonyx-org,exonyx.org,exonyx,,manual,2026-09-13,true,44ec7dbfac0cdfa3c645d585fbc546193308f5df4939c9a0fa2edae5a885b925
-Felixo.com,exchange,70,0,60,10,BTC|ETH|LTC,manual-admin,felixo-com,felixo.com,felixo,,manual,2026-09-13,true,ad530e0eebb8148ef14f2554990353b125fe4fade1f2784f4c91e8707cad34cd
-Kapytal.io,exchange,70,0,60,10,ETH,manual-admin,kapytal-io,kapytal.io,kapytal,,manual,2026-09-13,true,0afcf24c2dfc7285e9e1db73aaf15699bcc867924b8d242f3c660e37dfb176cb
-Swep.io,exchange,70,0,60,10,ETH,manual-admin,swep-io,swep.io,swep,,manual,2026-09-13,true,1ac754dd78a4a484a011452ea471fbd9e3f47f993a27d5d643ade037bbbfac52
-Wallbit.io,exchange,70,0,60,10,TRON,manual-admin,wallbit-io,wallbit.io,wallbit,,manual,2026-09-13,true,e4c875da79c514cfac221bd0da82fc6c1e282fbecf35d9462694081b2ebcb402
-ChainPal,psp,70,0,60,10,,manual-admin,chainpal,chainpal.io,chainpal,,manual,2026-09-13,true,d48b454d3f47c75e4080976c3c8ba12a8e28e83bd553cf085baeb81e3097bf8f
-Cryptobuyer.io,psp,70,0,60,10,ETH|LTC,manual-admin,cryptobuyer-io,cryptobuyer.io,cryptobuyer,,manual,2026-09-13,true,f2d39a652d3ff6c435d53905091f6323371b618c8163f673d2045cf43e39c4b6
-FidduPay,psp,70,0,60,10,,manual-admin,fiddupay,fiddupay.com,fiddupay,,manual,2026-09-13,true,dd1ed547f6c12eb52daea65b89fa6e1d3b1185099f7b574f8cf252f09366baa1
-MCPay,psp,70,0,60,10,,manual-admin,mcpay,mcpay.tech,mcpay,,manual,2026-09-13,true,e72a1f6294e86f9097aa8d63084bbf6b55b7d12b136101f550619f9ba8fca8f6
-Membrane Finance,psp,70,0,60,10,ARBITRUM|AVALANCHE|ETH|OPTIMISM|POLYGON|SOL,manual-admin,membrane,membrane.fi,"membrane,membrane finance,euroe",,manual,2026-09-13,true,03663e34afb9f32ae2a10239e42d0bd633dfccdc93ca9fc89482d6f7b6f5b059
-Now Open App,psp,70,0,60,10,,manual-admin,now-open-app,nowopen.app,now open,,manual,2026-09-13,true,0fc08c1f1c93722fa2b88db39870ea95a33b890f683e17190989b03c1d67bcff
-Pyypl Kazakhstan,psp,70,0,60,10,,manual-admin,pyypl-kazakhstan,pyypl.com,pyypl,,manual,2026-09-13,true,200315cd9716c65214a723bb8b9e68157d01277c20f238ba111bbf9174a89318
-Southpay,psp,70,0,60,10,,manual-admin,southpay,southpay.io,southpay,,manual,2026-09-13,true,b212519a09e5b2c4988257e6ff6bacd6f7309184929475d05563ee306658bd5d
-TreebuCapital.com,psp,70,0,60,10,ETH|TRON,manual-admin,treebucapital-com,treebucapital.com,treebucapital,,manual,2026-09-13,true,eeeebba986c62911df9ba7b3caae2f68357c4be52b992848e176965dfa773967
-Trocador,psp,70,0,60,10,,manual-admin,trocador,trocador.app,trocador,,manual,2026-09-13,true,ce77cdf6b804268a0e5074d68a02f96585da6f71ec757c5dcdf5e5acd7422a51
-Buy Cash,sanctioned,70,0,60,10,BTC|TRON,manual-admin,buy-cash,buy-cash.net,"buy cash,buycash",,manual,2026-09-13,true,53b243287751cafb990ec860ceb35de9500c902d06936c3ec8faf07d920fc0d4
-Onebit,otc_desk,90,9,90,10,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,arkham-intelligence,onebit,onebit.com,"onebit,onebit.com,onebit digital",,manual,2026-09-14,true,6d86278c71068f9031da43785f141f3aea0ed968848f39a6ff9cf47e117312e3
-Razed,gambling,100,2,90,60,TRON,arkham-intelligence|misttrack-live-verdicts|manual-admin,razed,razed.com,razed,,manual,2026-09-17,true,1085249e0033339a6198180641f16dac19eb004eb9475e1cb82d4ba3a8e9ce7e
-PaYard,psp,100,131,75,15,TRON,manual-admin,payard-io,payard.io,"payard,payard.io,payard pay platform",,manual,2026-09-18,true,e80deffdcb458b7dff3683c0c2a2201314058a7b9c77fd55c2d60e680ef1f429
-Tsunami Cash Wallet,mixer,95,478,75,5,TRON,manual-admin,tsunami-cash,tsunami.cash,"tsunami cash,tsunami,tsunami.cash,tsunami cash wallet",Tsunami Wallet,manual,2026-09-18,true,d2ee3fae41fff60324df257e64680483b435c097a85438b1d60a8544b5699272
-Babulyaexchange,otc_desk,60,3,75,10,TRON,manual-admin,babulyaexchange,,"babulyaexchange,babulyaexchannel",,manual,2026-09-19,true,227b9afc077e5676ecceb77d04239650c4c2b191f132f192385e6a485656ba73
-Bitzlato,exchange,60,1,100,90,POLYGON,manual-admin,bitzlato,bitzlato.com,bitzlato,,none,2026-09-21,true,
-PlusToken Ponzi,exchange,60,1,100,90,POLYGON,manual-admin,plustoken-ponzi,,plustoken ponzi,,none,2026-09-21,true,
-FCoin,exchange,60,1,100,90,BTC,manual-admin,fcoin,fcoin.com,fcoin,,none,2026-09-21,true,
-WEX,exchange,60,1,100,90,BTC,manual-admin,wex-nz,wex.nz,wex,,none,2026-09-21,true,
-HashOcean,mining,60,1,100,90,BTC,manual-admin,hashocean,hashocean.com,hashocean,,manual,2026-09-21,true,cc582a61064f824b0e307a0d073f8066233a7515545c20957503bdc572c1acc2
-Cryptonit.net,exchange,60,1,100,90,BTC,manual-admin,cryptonit-net,cryptonit.net,cryptonit.net,,manual,2026-09-21,true,e765aba7d08fa86a8c13d3f396db9190882615665bd2a19bc8d72876fb5ba7c7
-Coin.mx,exchange,60,1,100,90,BTC,manual-admin,coin-mx,coin.mx,coin.mx,,manual,2026-09-21,true,1ac754dd78a4a484a011452ea471fbd9e3f47f993a27d5d643ade037bbbfac52
-Livecoin.net,exchange,60,1,100,90,BTC,manual-admin,livecoin-net,livecoin.net,livecoin.net,,none,2026-09-21,true,
-Mt. Gox,exchange,60,1,100,90,BTC,manual-admin,mtgox-com,mtgox.com,mt. gox,,none,2026-09-21,true,
-Bitcoinica,exchange,60,1,100,90,BTC,manual-admin,bitcoinica,bitcoinica.com,bitcoinica,,none,2026-09-21,true,
-Cubits,exchange,60,1,100,90,BTC,manual-admin,cubits-com,cubits.com,cubits,,manual,2026-09-21,true,8548eade36fc75ddaf8dceb427e03187a5d182783a5d0026d861f9644e8c454a
-Mirror Trading International Ponzi,exchange,60,1,100,90,BTC,manual-admin,mirror-trading-international-ponzi,mtiforex.com,mirror trading international ponzi,,none,2026-09-21,true,
-Bovada,gambling,60,1,100,90,BTC,manual-admin,bovada-lv,bovada.lv,bovada,,manual,2026-09-21,true,3311042b88099d07e3894cad8321cf870b7ce553b3441943ceb6bc74b7d23e6f
-SatoshiDICE,gambling,60,1,100,90,BTC,manual-admin,satoshidice-com,satoshidice.com,satoshidice,,none,2026-09-21,true,
-Nitrogen Sports,gambling,60,1,100,90,BTC,manual-admin,nitrogen-sports,nitrogensports.eu,nitrogen sports,,manual,2026-09-21,true,3c119274a50323f5980597eea288b3c97eb8534ed748e37d4545a27a2f25805e
-CSGO Empire,gambling,60,1,100,90,BTC,manual-admin,csgo-empire,csgoempire.com,csgo empire,,manual,2026-09-21,true,90649c7ee960b5d95b0210c10cfb453c75d674d1be9bdbff3515d02a12682c9d
-TradeOgre,exchange,60,1,100,90,POLYGON,manual-admin,tradeogre-com,tradeogre.com,tradeogre,,none,2026-09-21,true,
-Bitcoin.de (Bitcoin Group SE),exchange,60,1,100,90,BTC,manual-admin,bitcoin-de,bitcoin.de,"bitcoin.de,bitcoin group se",,manual,2026-09-21,true,2237fa1400256b69179a59cf70b3a8ba5ef83240561e0c23881666c7d4072b50
-Btc38,exchange,60,1,100,90,BTC,manual-admin,btc38-com,btc38.com,btc38,,manual,2026-09-21,true,a1a8b0d3c7da9ae6ebc927db134b9c063c4a3d3a4bb9bfc937369627669ff7e8
-Coinroll,gambling,60,1,100,90,BTC,manual-admin,coinroll-com,coinroll.com,coinroll,,none,2026-09-21,true,
-Gamba,gambling,60,1,100,90,SOL,manual-admin,gamba-io,gamba.io,gamba,,manual,2026-09-21,true,1ac754dd78a4a484a011452ea471fbd9e3f47f993a27d5d643ade037bbbfac52
-SX Network,gambling,60,1,100,90,ARBITRUM,manual-admin,sx-bet,sx.bet,sx network,,manual,2026-09-21,true,f26a9fac084b4c64bc9de6136e6b6d4cd80d3659f48516fec2105dc6e9be903a
-Braziliex,exchange,60,1,100,90,BTC,manual-admin,braziliex-com,braziliex.com,braziliex,,none,2026-09-21,true,
-Yeet.com,gambling,60,1,100,90,AVALANCHE,manual-admin,yeet-com,yeet.com,yeet.com,,manual,2026-09-21,true,b89f57389f844283bd512d4b555a05502d635a09e7473e4cadf577d352c8860a
-InvestmentDouble,exchange,60,1,100,90,BTC,manual-admin,investmentdouble,,investmentdouble,,none,2026-09-21,true,
-SWCPoker (Seals With Clubs),gambling,60,1,100,90,BTC,manual-admin,swcpoker,swcpoker.eu,"swcpoker,swcpoker.eu,seals with clubs",,manual,2026-09-21,true,1c428303f7de94bb8f1d16444a8f868970cb12ee562be2328188d7d9b4f850a6
-Red Stag,gambling,60,1,100,90,BTC,manual-admin,red-stag,redstagcasino.eu,red stag,,manual,2026-09-21,true,2d07f1be9eee4e9eec1b3ad3cd5c485ecf894572e5983a269dc17e549938f610
-Superslots,gambling,60,1,100,90,BTC,manual-admin,superslots,superslots.com,superslots,,none,2026-09-21,true,
-BitZino,gambling,60,1,100,90,BTC,manual-admin,bitzino,bitzino.com,bitzino,,manual,2026-09-21,true,1bd42ce54d71defcd83e9876ae52e58f3be87f6af48d64f56d5837e5c9bcbf7d
-Bitlish,exchange,60,1,100,90,BTC,manual-admin,bitlish,bitlish.com,bitlish,,none,2026-09-21,true,
-Bixin,exchange,60,1,100,90,BTC,manual-admin,bixin,bixin.com,bixin,,manual,2026-09-21,true,e9c56d609e0479e8df7394728fe961fc8a4d209a8c2c9390cb873b75080f1630
-Betswirl,gambling,60,1,100,90,AVALANCHE,manual-admin,betswirl,betswirl.com,betswirl,,manual,2026-09-21,true,5d5f3e6498f2da040e06fbc59b1bc6d0c7bfdaa36ab7f3dd0da4aff1075cc06f
-Kine Protocol,defi,60,1,100,90,BSC,manual-admin,kine-protocol,kine.trade,kine protocol,,none,2026-09-21,true,
-MintDice,gambling,60,1,100,90,AVALANCHE,manual-admin,mintdice-com,mintdice.com,mintdice,,manual,2026-09-21,true,9e2104470f799d7f72415f09fa11791b485e12502898559f9bc8cfe848fa07a8
-Wager.com,gambling,60,1,100,90,ARBITRUM,manual-admin,wager-com,wager.com,wager.com,,manual,2026-09-21,true,e4106f43f18fa90c501e95ab2d718496fb43d863aa3ab90a08991c0197e56a8f
-BETFIN,gambling,60,1,100,90,ARBITRUM,manual-admin,betfin-io,betfin.io,betfin,,manual,2026-09-21,true,c722a964a8be9885179280fca46b95cd5a333f212e60127be6efe9223d4999c7
-Flush.com,gambling,60,1,100,90,ARBITRUM,manual-admin,flush-com,flush.com,flush.com,,manual,2026-09-21,true,23f93d5da097985c6e6fc551838688c53d9c9ccc3e457c315fc2ea76a38b57f9
-Hunny Play,gambling,60,1,100,90,BSC,manual-admin,hunnyplay-io,hunnyplay.io,hunny play,,manual,2026-09-21,true,060402026144d7ce2fb6b2d29f21a38ea1f3d38d5de5a831315bf5ff68c4ce5f
-Jackpot.bet,gambling,60,1,100,90,BSC,manual-admin,jackpot-bet,jackpot.bet,jackpot.bet,,manual,2026-09-21,true,c776085f1f0e65cf6aea05cb4f4ae964f214619c4fc022373d3fc225cf05d6b5
-Toshibet (Toshi.bet),gambling,60,1,100,90,SOL,manual-admin,toshi-bet,toshi.bet,toshibet (toshi.bet),,manual,2026-09-21,true,4b30dbe5313a62377394b7787e544015129ebd69ac22eff652cc25e79c2566e1
-RocketGame,gambling,60,1,100,90,TRON,manual-admin,rocketgame,,rocketgame,,none,2026-09-21,true,
-cybet,gambling,60,1,100,90,TRON,manual-admin,cybet-com,cybet.com,cybet,,manual,2026-09-21,true,12c9f7a4d2956a38efcfafd8ee218d7d9a4f48b7dcc1cc0714b0f434e6e59267
-CoinRoyale,gambling,60,1,100,90,BTC,manual-admin,coinroyale-com,coinroyale.com,coinroyale,,manual,2026-09-21,true,650aa0b578cb64dc9a52460111b2d1367a935874993dd35b6cce522d2f202260
-Anonibet,gambling,60,1,100,90,BTC,manual-admin,anonibet-com,anonibet.com,anonibet,,none,2026-09-21,true,
-Wagon Bet,gambling,60,1,100,90,BTC,manual-admin,wagonbet-com,wagonbet.com,wagon bet,,none,2026-09-21,true,
-Pocketdice.io,gambling,60,1,100,90,BTC,manual-admin,pocketdice-io,pocketdice.io,pocketdice.io,,manual,2026-09-21,true,c3ab268e8f28b431d7a93b808f5deda06eef768853cbef009b4eeea97dd78d9e
-Bluff,gambling,60,1,100,90,SOL,manual-admin,bluff-com,bluff.com,bluff,,manual,2026-09-21,true,193fcd5453cf2d25b609cdae953890bae40903f80833d0674fc9755dcc2c5c3e
-Bitaroo,exchange,60,1,100,90,BTC,manual-admin,bitaroo-com-au,bitaroo.com.au,bitaroo,,manual,2026-09-21,true,feecf0afab6288b3a1d8100518117078842df0c16127bd929a752e7e70c8139e
-Solcasino.io,gambling,60,1,100,90,SOL,manual-admin,solcasino-io,solcasino.io,solcasino.io,,manual,2026-09-21,true,725c532784b4b846490967a35072a46d165291f5cf27aed1066fde8c3c8ecf2b
-WSM Casino,gambling,60,1,100,90,SOL,manual-admin,wsm-casino,wsmcasino.com,wsm casino,,manual,2026-09-21,true,0c4b65a7f570d436d97e545e1d7b5de505c2c04c528a0367b074a38cf04f7613
-Dzengi.com,exchange,60,1,100,90,BTC,manual-admin,dzengi-com,dzengi.com,dzengi.com,,manual,2026-09-21,true,1c6f0809af024466acc458255f75a807c8a588e996f081975c8ceda2678139fa
-796.com,exchange,60,1,100,90,BTC,manual-admin,796-exchange,,796.com,,none,2026-09-21,true,
-Satoshibet,gambling,60,1,100,90,BTC,manual-admin,satoshibet-com,satoshibet.com,satoshibet,,none,2026-09-21,true,
-Playtin,gambling,60,1,100,90,BTC,manual-admin,playtin-com,,playtin,,none,2026-09-21,true,
-Fairmillions.com,gambling,60,1,100,90,BTC,manual-admin,fairmillions-com,fairmillions.com,fairmillions.com,,manual,2026-09-21,true,ab907fc99ea485d1571a2716e7572c20642cb4bb7ae7f0149a4a18110ff12e71
-Whale.io,gambling,60,1,100,90,SOL,manual-admin,whale-io,whale.io,whale.io,,manual,2026-09-21,true,f4e8fc949f1df4d570e3c18529c967f076d13b5e3c4dd3a5312c1bce82bd2d08
-Degen Coin Flip,gambling,60,1,100,90,SOL,manual-admin,degen-coin-flip,degencoinflip.com,"degen coin flip,degencoinflip.com",,manual,2026-09-21,true,58e4ec6ae127ec7348d98bedbf85e4f034ff744db54e96c69b88622817484e51
-Housebets,gambling,60,1,100,90,BTC,manual-admin,housebets-com,housebets.com,housebets,,manual,2026-09-21,true,d1faebf44b255eb89e0333b66669999641b444fe3c77118e51a0d6e24e887092
-CoinCasino,gambling,60,1,100,90,POLYGON,manual-admin,coincasino-us,coincasino.us.com,coincasino,,manual,2026-09-21,true,c6b59e50a17cfec87248b67643d45bfe4cfda7644adb597fe06510216ab3891f
-Qzino,gambling,60,1,100,90,TRON,manual-admin,qzino-ai,qzino.ai,qzino,,manual,2026-09-21,true,3c0ebcbb89adb277af6a1d99c74af4257bf4d9b3f0a3677c0f46c2fb46f7eb04
-Thrill.com,gambling,60,1,100,90,SOL,manual-admin,thrill-com,thrill.com,thrill.com,,manual,2026-09-21,true,4f1a20a2e831d19c044680851d3301ee056ff988e0275257d228c4775ae6af43
-BtcTrade,exchange,60,1,100,90,BTC,manual-admin,btctrade-com,,btctrade,,none,2026-09-21,true,
-Urdubit.com,exchange,60,1,100,90,BTC,manual-admin,urdubit-com,urdubit.com,urdubit.com,,none,2026-09-21,true,
-NAGAX,exchange,60,1,100,90,BTC,manual-admin,nagax-com,nagax.com,nagax,,manual,2026-09-21,true,0963703c58779768e22cc2a2434cd09743378a516c45f074c2d3aefc76c119c0
-SurBitcoin.com,exchange,60,1,100,90,BTC,manual-admin,surbitcoin-com,surbitcoin.com,surbitcoin.com,,none,2026-09-21,true,
-BitBays,exchange,60,1,100,90,BTC,manual-admin,bitbays-com,,bitbays,,none,2026-09-21,true,
-Coinarch,exchange,60,1,100,90,BTC,manual-admin,coinarch-com,coinarch.com,coinarch,,none,2026-09-21,true,
-Bitmake,exchange,60,1,100,90,BTC,manual-admin,bitmake-com,bitmake.com,bitmake,,none,2026-09-21,true,
-Bitfoliex,exchange,60,1,100,90,BTC,manual-admin,bitfoliex-com,bitfoliex.com,bitfoliex,,manual,2026-09-21,true,7c04f8bde7de0de73623c22ef922a559cbf12ede54e1b115e66394f3e033e5f8
-CoinCafe,exchange,60,1,100,90,BTC,manual-admin,coincafe-com,coincafe.com,coincafe,,manual,2026-09-21,true,347c98f567733daa0f94c6a2782630210ded0bccb324457b7c3bda03ac9f7b1d
-WEWE Global,exchange,60,1,100,90,BTC,manual-admin,wewe-global,wewe.global,wewe global,,none,2026-09-21,true,
-Bitmymoney.com,exchange,60,1,100,90,BTC,manual-admin,bitmymoney-com,bitmymoney.com,bitmymoney.com,,manual,2026-09-21,true,3316bba54f58634cf9dc4d08790bafd228e700f9b7f5010020b3535b3dd20e26
-Coinsenda,exchange,60,1,100,90,BTC,manual-admin,coinsenda-com,coinsenda.com,coinsenda,,manual,2026-09-21,true,9715f813ba0d61fda3b4138b2caf04987fb39e91fbe1c06b3786456829d6b0e1
-Belqi.net,exchange,60,1,100,90,BTC,manual-admin,belqi-net,belqi.net,belqi.net,,manual,2026-09-21,true,06122865da87f50f8e22d662c682554e9a87262620e217e2ecdf548777787f1f
-GSTrade,exchange,60,1,100,90,BTC,manual-admin,gstrade-exchange,gstrade.exchange,gstrade,,manual,2026-09-21,true,29651878b3da8b9babd25e13ad078620d36f1f7acbc5651e140bf950a5e04b4e
-MyCoins (eMoney),exchange,60,1,100,90,BTC,manual-admin,mycoins-ge,mycoins.ge,mycoins (emoney),,manual,2026-09-21,true,6ce6fef9506cc8695d26cbabaf636d06a4c6dae62587124d51c817182f55d991
-Stake.us,gambling,60,1,100,90,SOL,manual-admin,stake-us,stake.us,stake.us,,manual,2026-09-21,true,3ca860781a55bda99b5e48d8a89ebdc168f24f14cb4350aa2a161c092f453527
-Vilcov.com,exchange,60,1,100,90,BTC,manual-admin,vilcov-com,vilcov.com,vilcov.com,,manual,2026-09-21,true,928d0ec8b25993dc82e7e47c72f09749f268c3d9eafbdf1448cf57773003e09b
-Telbet,gambling,60,1,100,90,AVALANCHE,manual-admin,telbet-com,telbet.com,telbet,,manual,2026-09-21,true,4fa73bb8167c7b174483fe9bf8e00d82979ff1bd8786882d2ba8d34c271a7fd2
-Acebet,gambling,60,1,100,90,AVALANCHE,manual-admin,acebet-com,acebet.com,acebet,,manual,2026-09-21,true,50def4b4db8afec4debcf7a338d5ee8cf49242fa7432569447c11dfec83cdb53
-Dicey,gambling,60,1,100,90,SOL,manual-admin,dicey-poker,dicey.poker,dicey,,manual,2026-09-21,true,bf4e042f386265c16fea409861973c277372d22328de3f7d517dde25b4d439ee
-Winna,gambling,60,1,100,90,SOL,manual-admin,winna-com,winna.com,winna,,manual,2026-09-21,true,a405995e1cff19ab02d5bcc5eaa61ffdae3bbf0a9b7b4a55708282f1b602a4dc
-BetcoinDice.tm,gambling,60,1,100,90,BTC,manual-admin,betcoindice-tm,,betcoindice.tm,,none,2026-09-21,true,
-EveryDice.com,gambling,60,1,100,90,BTC,manual-admin,everydice-com,everydice.com,everydice.com,,manual,2026-09-21,true,42320fec81121a09d78441952e24ab0c991931d8747ae34147d27efae83f3683
-BitcoinVideoCasino,gambling,60,1,100,90,BTC,manual-admin,bitcoinvideocasino-com,bitcoinvideocasino.com,bitcoinvideocasino,,none,2026-09-21,true,
-Luck.io,gambling,60,1,100,90,SOL,manual-admin,luck-io,luck.io,luck.io,,none,2026-09-21,true,
-SecondsTrade,gambling,60,1,100,90,BTC,manual-admin,secondstrade-com,,secondstrade,,none,2026-09-21,true,
