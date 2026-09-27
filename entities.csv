@@ -683,7 +683,7 @@ Sanctum Infinity,dex,85,0,0,10,SOL,,sanctum-infinity,sanctum.so,"sanctum infinit
 SolvBTC,bridge,85,0,0,10,BTC|ETH|SOL|BSC|BASE|ARBITRUM|POLYGON|AVALANCHE,,solvbtc,app.solv.finance,solvbtc,,defillama,2026-05-11,false,749e03e438e9f5318aabb1caa07983a76d496f394b02d16b7f8b9067614bc252
 Stacks sBTC,bridge,85,0,0,10,BTC,,stacks-sbtc,docs.stacks.co,"stacks sbtc,stacks-sbtc",,arkham,2026-05-11,false,a7d5bf58514e4c01a1d41d5f725716d3636ef0d1322196e879cab20404e7a98a
 Stader,defi,85,0,0,10,ETH|BSC|FANTOM,,stader,staderlabs.com,stader,,defillama,2026-05-11,false,8acad71a036e4c0d5228b4527434b29b94d686b9274f3f3c95d875b361b7086c
-Stake DAO,defi,85,0,0,10,ETH|BASE|ARBITRUM|POLYGON|AVALANCHE|OPTIMISM,,stake,stakedao.org,"stake,stake-dao",,arkham,2026-05-11,false,52ba5b9c42cf699f319c4c123b3f9bb4d518ba453f3efa47bf40ae9fc3b701ad
+Stake DAO,defi,85,0,0,10,ETH|BASE|ARBITRUM|POLYGON|AVALANCHE|OPTIMISM,,stake,stakedao.org,"stake,stake-dao",,arkham,2026-09-27,false,3f8da3dca6bc98a7bae5358ac1e69779c3de2f917b2759a49626d0f666e51089
 StakeWise V2,defi,85,0,0,10,ETH,,stakewise,stakewise.io,stakewise,,arkham,2026-05-11,false,7875dcf22db36271a5372172ba5b8172fe9f198471b021beafb0a4eed9d8f2b6
 Starknet Bridge,bridge,85,0,0,10,ETH,,starknet-bridge,starkgate.starknet.io,"starknet bridge,starknet-bridge,starknet",,arkham,2026-05-11,false,3b16d36fb2971476a6aaa8da15d8a9c9bdf5caf6da03cefe5a688bb595838b9a
 stHYPE,defi,85,0,0,10,,,sthype,app.valantis.xyz,sthype,,defillama,2026-05-11,false,9114c7fa474e04b0c8a773dbaa3116796995a09378034f7815f1e63c2af0655c

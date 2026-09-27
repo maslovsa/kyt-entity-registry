@@ -84,6 +84,82 @@ ALWAYS_REFRESH_STATUSES = (STATUS_NONE, STATUS_PLACEHOLDER, STATUS_SYNTHETIC)
 # don't, so skip them to stay polite and avoid false matches.
 _DEFILLAMA_CATEGORIES = frozenset({"defi", "dex", "bridge"})
 
+# Categories where an entity is, by definition, its own standalone
+# actor — never a legitimate sub-product/version/chain-variant of some
+# other already-tracked business. Used to scope the Arkham guessed-slug
+# collision guard (see _deny_slugs_for below): a row in one of these
+# that happens to share a word with an unrelated business is the exact
+# failure mode that produced the 2026-09-27 "kraken-darknet-market" ->
+# real Kraken exchange logo incident. This alone doesn't cover every
+# case — see the canonical_domain-root check below it, which caught a
+# second, live instance (Stake DAO / Stake.com) outside any of these
+# categories.
+HIGH_RISK_CATEGORIES = frozenset({"sanctioned", "mixer", "hack"})
+
+
+def _domain_root(domain: str | None) -> str | None:
+    """Second-to-last dot-label of a domain, ignoring subdomains and
+    the TLD: "portal.arbitrum.io" -> "arbitrum", "stakedao.org" ->
+    "stakedao". Doesn't handle compound TLDs (co.uk) — none appear in
+    this registry's canonical_domain column."""
+    domain = (domain or "").strip().lower()
+    if not domain:
+        return None
+    domain = domain.split("://")[-1].split("/")[0]
+    labels = [l for l in domain.split(".") if l]
+    if not labels:
+        return None
+    return labels[-2] if len(labels) >= 2 else labels[0]
+
+
+def _build_deny_slugs_fn(rows: list[Row]) -> Callable[[Row], frozenset[str]]:
+    """Build the per-row Arkham guessed-slug denylist function used by
+    _try_auto. Two independent triggers, either arms the guard:
+
+    1. HIGH_RISK_CATEGORIES: the row is a standalone-by-nature entity
+       (sanctioned/mixer/hack) — deny every slug owned by a normal
+       business. Catches "kraken-darknet-market" -> "kraken".
+    2. canonical_domain-root mismatch: the row has its OWN home domain
+       on file, and some OTHER row also has its own (different) home
+       domain — two independently curated, differing domains is
+       evidence enough that they're not the same brand, regardless of
+       category. Catches "stake" (Stake DAO, stakedao.org) ->
+       "stake-com" (Stake.com, stake.com) — neither row is in
+       HIGH_RISK_CATEGORIES, so trigger 1 alone would have missed it.
+
+    A row with no canonical_domain of its own and outside
+    HIGH_RISK_CATEGORIES gets an empty denylist — unguarded, since a
+    shared word there overwhelmingly means "same brand family, no
+    domain info yet" (Balancer -> "Balancer V2", "betterbank" ->
+    "betterbank-io"), not a coincidental collision.
+    """
+    non_risky_slugs = frozenset(
+        r.arkham_slug.strip().lower()
+        for r in rows
+        if r.arkham_slug and r.category_slug not in HIGH_RISK_CATEGORIES
+    )
+    # First row to register each slug + its domain-root (or None).
+    slug_domain_root: dict[str, str | None] = {}
+    for r in rows:
+        s = r.arkham_slug.strip().lower() if r.arkham_slug else ""
+        if s and s not in slug_domain_root:
+            slug_domain_root[s] = _domain_root(r.canonical_domain)
+
+    def deny_slugs_for(row: Row) -> frozenset[str]:
+        my_slug = row.arkham_slug.strip().lower() if row.arkham_slug else ""
+        deny: set[str] = set()
+        if row.category_slug in HIGH_RISK_CATEGORIES:
+            deny |= non_risky_slugs
+        my_root = _domain_root(row.canonical_domain)
+        if my_root is not None:
+            for slug, root in slug_domain_root.items():
+                if slug != my_slug and root is not None and root != my_root:
+                    deny.add(slug)
+        deny.discard(my_slug)
+        return frozenset(deny)
+
+    return deny_slugs_for
+
 
 def _today() -> str:
     # dt.timezone.utc works on 3.8+; dt.UTC is a 3.11+ alias.
@@ -113,10 +189,13 @@ def _try_manual(row: Row) -> bytes | None:
     return None
 
 
-def _try_auto(row: Row, client: httpx.Client) -> tuple[str, bytes] | None:
+def _try_auto(
+    row: Row, client: httpx.Client, deny_slugs: frozenset[str],
+) -> tuple[str, bytes] | None:
     """Return (source_label, bytes) or None. First hit wins."""
     if row.arkham_slug:
-        data = enrich_from_arkham.fetch(row.arkham_slug, client=client)
+        data = enrich_from_arkham.fetch(
+            row.arkham_slug, client=client, known_slugs=deny_slugs)
         if data:
             return STATUS_ARKHAM, data
 
@@ -216,6 +295,8 @@ def run(
     rows = read_entities()
     rows.sort(key=lambda r: r.importance, reverse=True)
 
+    deny_slugs_for = _build_deny_slugs_fn(rows)
+
     counters = {
         "total": 0, "candidates": 0,
         "skipped_lock": 0, "skipped_fresh": 0,
@@ -290,7 +371,7 @@ def run(
                         log(f"disk-ok {row.entity_name}")
                     continue
 
-                result = _try_auto(row, client)
+                result = _try_auto(row, client, deny_slugs_for(row))
                 if result is not None:
                     source, raw = result
 

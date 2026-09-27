@@ -37,10 +37,29 @@ TARGET_SLUGS = {
 
 _DEFILLAMA_CATEGORIES = {"defi", "dex", "bridge"}
 
+# See enrich.py's HIGH_RISK_CATEGORIES / _domain_root / _deny_slugs_for
+# — same guard, kept in sync here so this one-off walker can't
+# reintroduce the 2026-09-27 "kraken-darknet-market" (category guard)
+# or "stake" -> "stake-com" / Stake DAO vs Stake.com (domain-root
+# guard) false-logo-attribution bugs.
+_HIGH_RISK_CATEGORIES = {"sanctioned", "mixer", "hack"}
 
-def _try_auto(row: Row, client: httpx.Client):
+
+def _domain_root(domain: str | None) -> str | None:
+    domain = (domain or "").strip().lower()
+    if not domain:
+        return None
+    domain = domain.split("://")[-1].split("/")[0]
+    labels = [l for l in domain.split(".") if l]
+    if not labels:
+        return None
+    return labels[-2] if len(labels) >= 2 else labels[0]
+
+
+def _try_auto(row: Row, client: httpx.Client, deny_slugs: frozenset[str]):
     if row.arkham_slug:
-        data = enrich_from_arkham.fetch(row.arkham_slug, client=client)
+        data = enrich_from_arkham.fetch(
+            row.arkham_slug, client=client, known_slugs=deny_slugs)
         if data:
             return "arkham", data
     if row.canonical_domain:
@@ -62,6 +81,29 @@ def main() -> int:
     rows = read_entities()
     targets = [r for r in rows if r.slug in TARGET_SLUGS]
     print(f"[start] {len(targets)}/{len(TARGET_SLUGS)} target rows found in CSV")
+    non_risky_slugs = frozenset(
+        r.arkham_slug.strip().lower()
+        for r in rows
+        if r.arkham_slug and r.category_slug not in _HIGH_RISK_CATEGORIES
+    )
+    slug_domain_root: dict[str, str | None] = {}
+    for r in rows:
+        s = r.arkham_slug.strip().lower() if r.arkham_slug else ""
+        if s and s not in slug_domain_root:
+            slug_domain_root[s] = _domain_root(r.canonical_domain)
+
+    def _deny_slugs_for(row: Row) -> frozenset[str]:
+        my_slug = row.arkham_slug.strip().lower() if row.arkham_slug else ""
+        deny: set[str] = set()
+        if row.category_slug in _HIGH_RISK_CATEGORIES:
+            deny |= non_risky_slugs
+        my_root = _domain_root(row.canonical_domain)
+        if my_root is not None:
+            for slug, root in slug_domain_root.items():
+                if slug != my_slug and root is not None and root != my_root:
+                    deny.add(slug)
+        deny.discard(my_slug)
+        return frozenset(deny)
 
     default_placeholder = FALLBACK_PNG.read_bytes() if FALLBACK_PNG.exists() else None
 
@@ -69,7 +111,7 @@ def main() -> int:
     placeholders = 0
     with httpx.Client(timeout=httpx.Timeout(10.0, connect=5.0), follow_redirects=True) as client:
         for row in targets:
-            result = _try_auto(row, client)
+            result = _try_auto(row, client, _deny_slugs_for(row))
             if result is None:
                 path = logo_path_for(row.category_slug, row.slug)
                 if path is None:
