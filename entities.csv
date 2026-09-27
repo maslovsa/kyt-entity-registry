@@ -570,6 +570,7 @@ Ezil.me,mining,90,4,90,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,arkham
 Exnode,psp,90,17,90,5,TRON,manual-admin,exnode,exnode.io,"exnode,exnode pay,payment processor",,manual,2026-08-24,true,8d1cbecf633f01af90046b5c291fb90c8245810f6430bdbbea0163230a653759
 Lazarus Group,sanctioned,90,0,100,100,ETH|TRON|BTC|BSC,manual-admin,lazarus-group,,"lazarus,lazarus group,apt38,north korea hacking group",,manual,2026-09-13,true,16748ede698c8906692a24aaa10eff226a6f9c7e0948e12fd3fe677ce3502878
 Onebit,otc_desk,90,9,90,10,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,arkham-intelligence,onebit,onebit.com,"onebit,onebit.com,onebit digital",,manual,2026-09-14,true,6d86278c71068f9031da43785f141f3aea0ed968848f39a6ff9cf47e117312e3
+Sinbad.io,sanctioned,90,2,90,100,BTC,manual-admin,sinbad-io,,"sinbad.io,sinbad mixer",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Aerodrome Slipstream,dex,85,0,0,10,BASE,,aerodrome-slipstream,aerodrome.finance,"aerodrome slipstream,aerodrome-slipstream",,defillama,2026-05-11,false,c2df3403e59f93fee81e7934096aaa03fe1d85f8ba70d8b2f93bcee402482e4c
 Aerodrome V1,dex,85,0,0,10,BASE,,aerodrome,aerodrome.finance,aerodrome,,arkham,2026-05-11,false,cdcf6701a3b6496953385bd9eb1b2bb084efc89ef7fe393e8ea07dee70f0f268
 AFI Protocol,defi,85,0,0,10,BASE|ETH,,afi,afiprotocol.xyz,afi,,defillama,2026-05-11,false,a78c091013568742f29a283adc437cc82c45841fb36bbf503e2ec2a2f8128633
@@ -686,6 +687,13 @@ ABCex,exchange,85,7,85,100,BTC|ETH|TRON,manual-admin|uk-ofsi-sanctions,abcex-io,
 @HWZF,exchange,85,0,70,85,TRON,manual-admin,hwzf,,hwzf,,synthetic,2026-08-17,false,d58a37dc5a591bb8e673b7bc51024b5ebe81ad3552a1c09fff2ad6dfcf0254f1
 Securitize,defi,85,0,0,10,ETH|SOL|AVALANCHE|POLYGON|ARBITRUM|OPTIMISM|BASE,pharos-stablecoins,securitize,securitize.io,"securitize inc,securitize holdings",,manual,2026-07-22,true,c765fad456659bf73bdd6301ce505b9eddf6462c46cd633a5091e36c34da92f9
 Fulilai Guarantee,sanctioned,85,,90,95,,manual-admin,fulilai-guarantee,,"fulilai guarantee,fulilai,fulilai wallet",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Abacus Market,sanctioned,85,,90,95,,manual-admin,abacus-market,,"abacus market,abacus darknet market",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+BlackSprut,sanctioned,85,,90,95,,manual-admin,blacksprut,,"blacksprut,black sprut",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+OMGOMG,sanctioned,85,,90,95,,manual-admin,omgomg,,"omgomg,omg omg market,hydra successor market",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Kraken Darknet Market,sanctioned,85,,90,95,,manual-admin,kraken-darknet-market,,"kraken darknet market,kraken market darknet",,none,2026-09-27,true,
+Bitcoin Fog,mixer,85,,90,95,,manual-admin,bitcoin-fog,,"bitcoin fog,bitcoinfog",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+ChipMixer,mixer,85,,90,95,,manual-admin,chipmixer,,"chipmixer,chip mixer",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Helix (Bitcoin mixer),mixer,85,,90,95,,manual-admin,helix-mixer,,"helix bitcoin mixer,helix mixer grams",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 BlockFi,exchange,82,,,,ETH|BTC|SOL|POLYGON,,blockfi-com,blockfi.com,blockfi,,arkham,2026-06-02,false,57a17ce9924de2b6ca303d6cfb9ddbcb2672c1d91485eb994174ea7a0675d6e0
 blender.io,mixer,80,45,80,95,BTC,graphsense-tagpacks,blenderio-io,blender.io,"blenderio,blenderio,blenderio",,synthetic,2026-08-17,false,7f5d3e4a1e0d230fc3c17ed151036ec81f25972226340afdb20cf210d2eb4693
 Cobinhood,exchange,80,5,75,5,ETH,manual-admin,cobinhood,cobinhood.com,"cobinhood,cobinhood exchange,cobinhood.com",,manual,2026-07-09,true,be79c8dbe79385e23837652e31f47d3b56cc2d4649464159c59c0a0101fc8bab
@@ -1892,6 +1900,7 @@ SecondsTrade,gambling,60,1,100,90,BTC,manual-admin,secondstrade-com,,secondstrad
 Haihua Guarantee,sanctioned,60,,70,70,,manual-admin,haihua-guarantee,,"haihua guarantee,haihua",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Jiuding Guarantee,sanctioned,60,,70,70,,manual-admin,jiuding-guarantee,,"jiuding guarantee,jiuding",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 XVIP Wallet,custodian,60,,70,70,,manual-admin,xvip-wallet,,"xvip wallet,xvip",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Alhimik Shop,sanctioned,60,,70,70,,manual-admin,alhimik-shop,,"alhimik shop,alhimik",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 HKD.com,exchange,58,,,,TRON|ETH|BTC,,hkd-com,hkd.com,"hkd,hkd.com",,manual,2026-06-02,false,a883f2c4429ecd9a09420353f30371da14fc68589f1e93a50a59b362c92557d7
 Tudou Danbao,exchange,55,,,,TRON,,tudou-danbao,,"tudou danbao,tudou,danbao",土豆担保,synthetic,2026-08-17,false,aa894562e13fba96e469a6f174107f3670baa4e330e1d1babebb29027df53b0e
 CAD Digital,stablecoin_issuer,55,2,70,8,ETH,coingecko-tokens|manual-admin,cad-digital,tetradg.com,"cad digital,cadd,tetra digital group,tetra trust company",,none,2026-07-22,true,
