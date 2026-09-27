@@ -1013,6 +1013,12 @@ F-Change,exchange,75,20,75,5,"TRON,ETH",manual-admin,f-change-biz,f-change.cc,"f
 Telcoin,psp,75,0,0,8,ETH|POLYGON,pharos-stablecoins,telcoin,telcoin.org,"telcoin,telcoin.org,telco.in,eusd,emxn,telcoin digital asset bank",,manual,2026-07-22,true,a991916ef07da73afffac84750fdf922acd7dd074d5a442ece7c1beb95fab8d9
 Quantoz,stablecoin_issuer,75,11,80,5,ETH|POLYGON,coingecko-tokens|1inch-token-lists|dawsbot-eth-labels,quantoz,quantoz.com,quantoz,,manual,2026-08-02,true,6adbf02900133f78df0a552a47008c2a3b0e0a356a91c872b722efe6b8d73525
 Tyt.cash,exchange,75,4,75,50,TRON,manual-admin,tyt-cash,tyt.cash,"tyt.cash,tyt cash",,manual,2026-08-27,true,17cdf3b83d71f9dc3a99225a348e03d364a9b20f2e341925826129ecda738982
+Arzinja,exchange,75,,80,65,,manual-admin,arzinja,arzinja.info,"arzinja,arzinja.info,arzinja exchange",,favicon,2026-09-27,false,c2eb20d84c86be2d4035c44550c4cd7385132836b20a7f66698a837718714f72
+Arzplus,exchange,75,,80,65,,manual-admin,arzplus,arzplus.net,"arzplus,arzplus.net,arzplus exchange",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Arzypto,exchange,75,,80,65,,manual-admin,arzypto,arzypto.com,"arzypto,arzypto.com,arzypto exchange",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Bidarz,exchange,75,,80,65,,manual-admin,bidarz,bidarz.ir,"bidarz,bidarz.ir,bidarz p2p exchange",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Pooleno,otc_desk,75,,80,65,,manual-admin,pooleno,pooleno.ir,"pooleno,pooleno.ir,pooleno otc",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Tabdeal,exchange,75,,80,65,,manual-admin,tabdeal,tabdeal.org,"tabdeal,tabdeal.org,tabdeal exchange",,arkham,2026-09-27,false,3b99f919e2be999deb1a6e2c4d4c09942885360b55fabeeb4f2232ea3b07f076
 Cruxpool,mining,70,10,75,5,ETH|AVAX,manual-admin,cruxpool,cruxpool.com,"cruxpool,cruxpool.com,cruxpool mining",,manual,2026-07-09,true,8525a62d7528e872a6e9e461dc1aca621a0a0579e7fddad3b4254f48f2943178
 DeFinity,defi,70,5,75,5,ETH|ARBITRUM|AVAX,manual-admin,definity,definity.network,"definity,definity.network,definity exchange",,manual,2026-07-09,true,511039db095a880d2a7c4904f8ffe667142fb6359c6a5a1d163931b717bbe9e5
 DwarfPool,mining,70,15,75,5,ETH,manual-admin,dwarfpool,dwarfpool.com,"dwarfpool,dwarfpool.com,dwarf pool mining",,manual,2026-07-09,true,c0fc6bcdc508d2f22c49a1ae64af2819869ef7f0760b2ea4fc8ccf4382f1a7ed
@@ -1908,7 +1914,7 @@ Haihua Guarantee,sanctioned,60,,70,70,,manual-admin,haihua-guarantee,,"haihua gu
 Jiuding Guarantee,sanctioned,60,,70,70,,manual-admin,jiuding-guarantee,,"jiuding guarantee,jiuding",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 XVIP Wallet,custodian,60,,70,70,,manual-admin,xvip-wallet,,"xvip wallet,xvip",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Alhimik Shop,sanctioned,60,,70,70,,manual-admin,alhimik-shop,,"alhimik shop,alhimik",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
-HKD.com,exchange,58,,,,TRON|ETH|BTC,,hkd-com,hkd.com,"hkd,hkd.com",,manual,2026-06-02,false,a883f2c4429ecd9a09420353f30371da14fc68589f1e93a50a59b362c92557d7
+HKD.com,exchange,58,,,,TRON|ETH|BTC,,hkd-com,hkd.com,"hkd,hkd.com",,favicon,2026-09-27,false,f2e8d76fc8274c95e766d8079a2946cdcc328bea2db6c52e47d25c7f94be8a9c
 Tudou Danbao,exchange,55,,,,TRON,,tudou-danbao,,"tudou danbao,tudou,danbao",土豆担保,synthetic,2026-08-17,false,aa894562e13fba96e469a6f174107f3670baa4e330e1d1babebb29027df53b0e
 CAD Digital,stablecoin_issuer,55,2,70,8,ETH,coingecko-tokens|manual-admin,cad-digital,tetradg.com,"cad digital,cadd,tetra digital group,tetra trust company",,none,2026-07-22,true,
 Tradeogre.com,exchange,52,,,,ETH|BTC,,tradeogre-com,tradeogre.com,"tradeogre,tradeogre.com",,arkham,2026-06-02,false,e90048bb436c9f2cb8346e786ec0f4bcf471cfa2eeea83134ee17c9a5e70bf34

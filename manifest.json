@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T12:41:10+00:00",
+  "generated_at": "2026-09-27T12:48:48+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -10565,6 +10565,18 @@
       "sanctioned": false
     },
     {
+      "slug": "tabdeal",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/tabdeal.png",
+      "keywords": [
+        "tabdeal",
+        "tabdeal.org",
+        "tabdeal exchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "cruxpool",
       "category": "mining",
       "logo_path": "logos/mining/cruxpool.png",
@@ -19806,17 +19818,6 @@
       "logo_path": "logos/gambling/everydice-com.png",
       "keywords": [
         "everydice.com"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "hkd-com",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/hkd-com.png",
-      "keywords": [
-        "hkd",
-        "hkd.com"
       ],
       "product_aliases": [],
       "sanctioned": false
