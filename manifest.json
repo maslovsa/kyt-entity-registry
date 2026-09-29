@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-27T17:32:37+00:00",
+  "generated_at": "2026-09-29T09:22:33+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -31057,6 +31057,50 @@
       "keywords": [
         "exbase io",
         "exbase.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "trxfee",
+      "category": "defi",
+      "logo_path": "logos/defi/trxfee.png",
+      "keywords": [
+        "trxfee",
+        "trxfee.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "trxyes",
+      "category": "defi",
+      "logo_path": "logos/defi/trxyes.png",
+      "keywords": [
+        "trxyes",
+        "trxyes.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tron-energy-market",
+      "category": "defi",
+      "logo_path": "logos/defi/tron-energy-market.png",
+      "keywords": [
+        "tronenergy.market",
+        "tron energy market"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "brutus-finance",
+      "category": "defi",
+      "logo_path": "logos/defi/brutus-finance.png",
+      "keywords": [
+        "brutus.finance",
+        "brutus finance"
       ],
       "product_aliases": [],
       "sanctioned": false
