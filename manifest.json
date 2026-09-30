@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-09-29T09:22:33+00:00",
+  "generated_at": "2026-09-30T11:37:42+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -31101,6 +31101,17 @@
       "keywords": [
         "brutus.finance",
         "brutus finance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ivanpay",
+      "category": "psp",
+      "logo_path": "logos/psp/ivanpay.png",
+      "keywords": [
+        "ivanpay",
+        "ivanpay.com"
       ],
       "product_aliases": [],
       "sanctioned": false

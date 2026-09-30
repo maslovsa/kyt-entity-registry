@@ -3120,3 +3120,4 @@ TRXfee,defi,500,0,80,10,TRON,manual-admin,trxfee,trxfee.io,"trxfee,trxfee.io",,m
 TRXYes,defi,500,0,80,10,TRON,manual-admin,trxyes,trxyes.com,"trxyes,trxyes.com",,manual,2026-09-29,true,83859f79379055ec81c4d1286cc9626c36d99e75432f964122c97405bee247cf
 Tron Energy Market,defi,500,0,80,10,TRON,manual-admin,tron-energy-market,tronenergy.market,"tronenergy.market,tron energy market",,manual,2026-09-29,true,6370d4046c9391185a14fc8aa27ab210bd7e57671d459c596782988cdd134b73
 Brutus,defi,500,0,80,10,TRON,manual-admin,brutus-finance,brutus.finance,"brutus.finance,brutus finance",,manual,2026-09-29,true,4fb4fb4ba199c9698ce0cbb6f69572d5bc5aefba660dd4e2c8807855eec571e8
+IvanPay,psp,100,1,75,5,TRON,manual-admin,ivanpay,ivanpay.com,"ivanpay,ivanpay.com",,manual,2026-09-30,true,55efa1a17967e0d05b0fb0bd38419a466a36c42c24765551d18ceb9780b323fd
