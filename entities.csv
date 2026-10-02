@@ -3124,3 +3124,6 @@ IvanPay,psp,100,1,75,5,TRON,manual-admin,ivanpay,ivanpay.com,"ivanpay,ivanpay.co
 1Tab,otc_desk,80,1,50,5,TRON,manual-admin,1tab,1tab.co,"1tab,1tab.co",,manual,2026-09-30,true,4974d68ef89201fe76feafa833de58c9818c84982127cb5747a60a25bd9306fe
 Savo,wallet,100,0,70,50,TRON,manual-admin,savo-xyz,savo.xyz,"savo,savo.xyz",,manual,2026-10-02,true,e252d46fe8a83cea27be00c8e9e09e303139dae301451d9aec12375b66c523de
 HuangGuan Guarantee,exchange,50,,,,TRON,manual-admin,huangguan-guarantee,,"huangguan guarantee,huangguan,皇冠担保",皇冠担保,synthetic,2026-10-02,false,c3a1e436e02ded7702fab50add2cebc38465a079bbcad14ade354c801dd88f64
+MAX Exchange,exchange,100,0,70,20,ETH|BSC,manual-admin,max-maicoin-com,max.maicoin.com,"max exchange,maicoin max,max.maicoin.com",,synthetic,2026-10-02,false,4736b630a3e76a7a5c72157c8e681c1e156fcdd56842200b7a02002f9550ca0d
+BlockFi,exchange,100,0,70,24,ETH|BSC,manual-admin,blockfi-com,blockfi.com,"blockfi",,synthetic,2026-10-02,false,9d0753dd5360e1224bab7b160f7d6a7348d69ed6093f4d43f01669417a55da44
+Bilaxy,exchange,100,0,60,45,ETH,manual-admin,bilaxy-com,bilaxy.com,"bilaxy,bilaxy.com",,manual,2026-10-02,true,7998be3dc6c8e05fa662af2b2135a61eb12ea2675a6603789523d00666184b3a

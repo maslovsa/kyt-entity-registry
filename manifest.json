@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-02T09:20:40+00:00",
+  "generated_at": "2026-10-02T09:27:52+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -31150,6 +31150,39 @@
       "product_aliases": [
         "皇冠担保"
       ],
+      "sanctioned": false
+    },
+    {
+      "slug": "max-maicoin-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/max-maicoin-com.png",
+      "keywords": [
+        "max exchange",
+        "maicoin max",
+        "max.maicoin.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "blockfi-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/blockfi-com.png",
+      "keywords": [
+        "blockfi"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bilaxy-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bilaxy-com.png",
+      "keywords": [
+        "bilaxy",
+        "bilaxy.com"
+      ],
+      "product_aliases": [],
       "sanctioned": false
     }
   ]
