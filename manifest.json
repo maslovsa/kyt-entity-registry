@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-02T09:39:12+00:00",
+  "generated_at": "2026-10-02T09:50:58+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -31185,6 +31185,28 @@
       "product_aliases": [
         "安银"
       ],
+      "sanctioned": false
+    },
+    {
+      "slug": "mipay-ai",
+      "category": "psp",
+      "logo_path": "logos/psp/mipay-ai.png",
+      "keywords": [
+        "mipay",
+        "mipay.ai"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coineal-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/coineal-com.png",
+      "keywords": [
+        "coineal",
+        "coineal.com"
+      ],
+      "product_aliases": [],
       "sanctioned": false
     }
   ]
