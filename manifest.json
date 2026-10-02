@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-02T09:28:12+00:00",
+  "generated_at": "2026-10-02T09:39:12+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -31161,6 +31161,30 @@
         "bilaxy.com"
       ],
       "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "fameex-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/fameex-com.png",
+      "keywords": [
+        "fameex",
+        "fameex.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "aex-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/aex-com.png",
+      "keywords": [
+        "aex.com",
+        "aex exchange"
+      ],
+      "product_aliases": [
+        "安银"
+      ],
       "sanctioned": false
     }
   ]

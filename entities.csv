@@ -3125,3 +3125,5 @@ IvanPay,psp,100,1,75,5,TRON,manual-admin,ivanpay,ivanpay.com,"ivanpay,ivanpay.co
 Savo,wallet,100,0,70,50,TRON,manual-admin,savo-xyz,savo.xyz,"savo,savo.xyz",,manual,2026-10-02,true,e252d46fe8a83cea27be00c8e9e09e303139dae301451d9aec12375b66c523de
 HuangGuan Guarantee,exchange,50,,,,TRON,manual-admin,huangguan-guarantee,,"huangguan guarantee,huangguan,皇冠担保",皇冠担保,synthetic,2026-10-02,false,c3a1e436e02ded7702fab50add2cebc38465a079bbcad14ade354c801dd88f64
 Bilaxy,exchange,100,0,60,45,ETH,manual-admin,bilaxy-com,bilaxy.com,"bilaxy,bilaxy.com",,manual,2026-10-02,true,7998be3dc6c8e05fa662af2b2135a61eb12ea2675a6603789523d00666184b3a
+FameEX,exchange,100,0,60,55,TRON,manual-admin,fameex-com,fameex.com,"fameex,fameex.com",,synthetic,2026-10-02,false,fa9d37cbf9495db03f4a9aa53794558f89d43cf114e2d71da3604a911aa2b687
+AEX,exchange,100,0,60,65,ETH,manual-admin,aex-com,aex.com,"aex.com,aex exchange",安银,synthetic,2026-10-02,false,e9371c0881b10e6f28bac15ada5a1000d3a452b040a37d6eddd44850ddec4203
