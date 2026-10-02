@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-02T09:04:37+00:00",
+  "generated_at": "2026-10-02T09:20:40+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -31136,6 +31136,20 @@
         "savo.xyz"
       ],
       "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "huangguan-guarantee",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/huangguan-guarantee.png",
+      "keywords": [
+        "huangguan guarantee",
+        "huangguan",
+        "皇冠担保"
+      ],
+      "product_aliases": [
+        "皇冠担保"
+      ],
       "sanctioned": false
     }
   ]
