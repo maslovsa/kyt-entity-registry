@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-02T09:20:40+00:00",
+  "generated_at": "2026-10-02T09:28:12+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -31150,6 +31150,17 @@
       "product_aliases": [
         "皇冠担保"
       ],
+      "sanctioned": false
+    },
+    {
+      "slug": "bilaxy-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bilaxy-com.png",
+      "keywords": [
+        "bilaxy",
+        "bilaxy.com"
+      ],
+      "product_aliases": [],
       "sanctioned": false
     }
   ]
