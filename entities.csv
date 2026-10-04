@@ -3129,3 +3129,4 @@ FameEX,exchange,100,0,60,55,TRON,manual-admin,fameex-com,fameex.com,"fameex,fame
 AEX,exchange,100,0,60,65,ETH,manual-admin,aex-com,aex.com,"aex.com,aex exchange",安银,synthetic,2026-10-02,false,e9371c0881b10e6f28bac15ada5a1000d3a452b040a37d6eddd44850ddec4203
 MiPay,psp,100,0,60,60,TRON,manual-admin,mipay-ai,mipay.ai,"mipay,mipay.ai",,manual,2026-10-02,true,56f9960248e7ca8c251d796b5ad143a0f0ebf174d5a82b27a277d041c71fe877
 Coineal,exchange,100,0,60,65,ETH,manual-admin,coineal-com,coineal.com,"coineal,coineal.com",,synthetic,2026-10-02,false,aab86302d43aab8352580abe20dd5085e01a8e1f88c422fdff0373c038f738f6
+Nucleus Market,darknet_market,85,391,90,75,BTC,manual-admin,nucleusmarket,,"nucleus market,nucleusmarket,nucleus marketplace",,none,2026-10-04,true,

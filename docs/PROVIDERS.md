@@ -145,6 +145,7 @@ Full map:
 | nft_marketplace  | logos/nft_marketplace/ | |
 | mixer            | logos/mixer/ | |
 | hack             | logos/hack/ | by incident name |
+| darknet_market   | logos/darknet_market/ | darknet markets with NO sanctions designation (e.g. defunct Nucleus Market); manifest `sanctioned` flag stays false — use `sanctioned` only for OFAC/UK/EU-designated entities |
 | sanctioned       | logos/sanctioned/ | sanctioning bodies (OFAC, UK OFSI, …) |
 | bank             | logos/bank/ | traditional/state banks (incl. sanctioned banks reclassified out of `sanctioned` so registry_category reflects business type, not designation status) |
 | otc_desk         | logos/otc_desk/ | institutional OTC/liquidity-provider desks (B2C2, Cumberland, GSR, Flow Traders, etc.) — not a retail order-book exchange |
