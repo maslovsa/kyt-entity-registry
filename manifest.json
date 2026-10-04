@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-02T09:50:58+00:00",
+  "generated_at": "2026-10-04T09:46:31+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -31205,6 +31205,16 @@
       "keywords": [
         "coineal",
         "coineal.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "turret",
+      "category": "defi",
+      "logo_path": "logos/defi/turret.png",
+      "keywords": [
+        "turret"
       ],
       "product_aliases": [],
       "sanctioned": false
