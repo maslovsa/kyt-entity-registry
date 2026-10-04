@@ -707,10 +707,10 @@ ABCex,exchange,85,7,85,100,BTC|ETH|TRON,manual-admin|uk-ofsi-sanctions,abcex-io,
 @HWZF,exchange,85,0,70,85,TRON,manual-admin,hwzf,,hwzf,,synthetic,2026-08-17,false,d58a37dc5a591bb8e673b7bc51024b5ebe81ad3552a1c09fff2ad6dfcf0254f1
 Securitize,defi,85,0,0,10,ETH|SOL|AVALANCHE|POLYGON|ARBITRUM|OPTIMISM|BASE,pharos-stablecoins,securitize,securitize.io,"securitize inc,securitize holdings",,manual,2026-07-22,true,c765fad456659bf73bdd6301ce505b9eddf6462c46cd633a5091e36c34da92f9
 Fulilai Guarantee,sanctioned,85,,90,95,,manual-admin,fulilai-guarantee,,"fulilai guarantee,fulilai,fulilai wallet",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
-Abacus Market,sanctioned,85,,90,95,,manual-admin,abacus-market,,"abacus market,abacus darknet market",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Abacus Market,darknet_market,85,,90,95,,manual-admin,abacus-market,,"abacus market,abacus darknet market",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 BlackSprut,sanctioned,85,,90,95,,manual-admin,blacksprut,,"blacksprut,black sprut",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 OMGOMG,sanctioned,85,,90,95,,manual-admin,omgomg,,"omgomg,omg omg market,hydra successor market",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
-Kraken Darknet Market,sanctioned,85,,90,95,,manual-admin,kraken-darknet-market,,"kraken darknet market,kraken market darknet",,none,2026-09-27,true,
+Kraken Darknet Market,darknet_market,85,,90,95,,manual-admin,kraken-darknet-market,,"kraken darknet market,kraken market darknet",,none,2026-09-27,true,
 Bitcoin Fog,mixer,85,,90,95,,manual-admin,bitcoin-fog,,"bitcoin fog,bitcoinfog",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 ChipMixer,mixer,85,,90,95,,manual-admin,chipmixer,,"chipmixer,chip mixer",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Helix (Bitcoin mixer),mixer,85,,90,95,,manual-admin,helix-mixer,,"helix bitcoin mixer,helix mixer grams",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
@@ -1932,7 +1932,7 @@ Haihua Guarantee,sanctioned,60,,70,70,,manual-admin,haihua-guarantee,,"haihua gu
 Jiuding Guarantee,sanctioned,60,,70,70,,manual-admin,jiuding-guarantee,,"jiuding guarantee,jiuding",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 XVIP Wallet,custodian,60,,70,70,,manual-admin,xvip-wallet,,"xvip wallet,xvip",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Alhimik Shop,sanctioned,60,,70,70,,manual-admin,alhimik-shop,,"alhimik shop,alhimik",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
-Solaris (darknet market),sanctioned,60,,70,70,,manual-admin,solaris-darknet-market,,"solaris darknet market,solaris market",,none,2026-09-27,true,
+Solaris (darknet market),darknet_market,60,,70,70,,manual-admin,solaris-darknet-market,,"solaris darknet market,solaris market",,none,2026-09-27,true,
 Kifpool,exchange,60,,70,70,,manual-admin,kifpool,kifpool.me,"kifpool,kifpool.me",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Sarafi Bahmani,otc_desk,60,,70,70,,manual-admin,sarafi-bahmani,,"sarafi bahmani,sarafi bahmani exchange",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 HKD.com,exchange,58,,,,TRON|ETH|BTC,,hkd-com,hkd.com,"hkd,hkd.com",,favicon,2026-09-27,false,f2e8d76fc8274c95e766d8079a2946cdcc328bea2db6c52e47d25c7f94be8a9c
