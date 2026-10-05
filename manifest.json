@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-04T15:34:00+00:00",
+  "generated_at": "2026-10-05T15:25:02+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -31205,6 +31205,18 @@
       "keywords": [
         "coineal",
         "coineal.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "swapspace-co",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/swapspace-co.png",
+      "keywords": [
+        "swapspace",
+        "swapspace.co",
+        "swapspace-co"
       ],
       "product_aliases": [],
       "sanctioned": false
