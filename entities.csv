@@ -3131,3 +3131,28 @@ MiPay,psp,100,0,60,60,TRON,manual-admin,mipay-ai,mipay.ai,"mipay,mipay.ai",,manu
 Coineal,exchange,100,0,60,65,ETH,manual-admin,coineal-com,coineal.com,"coineal,coineal.com",,synthetic,2026-10-02,false,aab86302d43aab8352580abe20dd5085e01a8e1f88c422fdff0373c038f738f6
 Nucleus Market,darknet_market,85,391,90,75,BTC,manual-admin,nucleusmarket,,"nucleus market,nucleusmarket,nucleus marketplace",,none,2026-10-04,true,
 SwapSpace,exchange,100,26,75,30,ETH|BSC,manual-admin,swapspace-co,swapspace.co,"swapspace,swapspace.co,swapspace-co",,manual,2026-10-05,true,24502e41fcec9bb269a219f63a755e78916d45e336f897e3133ce694df301df6
+OTCBTC,exchange,100,11,75,30,BSC|ETH,manual-admin,otcbtc-com,otcbtc.com,"otcbtc,otcbtc-com,otcbtc.com",,manual,2026-10-07,true,eb9f2b30161b7aabcb0896c0da1d5201a19e0dfa8fb76e04d9447a1ba3a5cb1f
+CoinEgg,exchange,100,9,75,30,ETH,manual-admin,coinegg,coinegg.com,"coinegg,coinegg.com",,none,2026-10-07,true,
+WBF Exchange,exchange,100,4,75,30,ETH,manual-admin,wbf-exchange,wbfex.com,"wbf exchange,wbf-exchange,wbfex.com",,none,2026-10-07,true,
+Coinmetro,exchange,100,6,75,30,BSC|ETH,manual-admin,coinmetro,coinmetro.com,"coinmetro,coinmetro.com",,manual,2026-10-07,true,944adb3e1f04debe562ee14d9caf47477b633ea0ab42bae3f0ad42cf8b7426dc
+ZT Exchange,exchange,100,3,75,30,TRON,manual-admin,zt-com,zt.com,"zt exchange,zt-com,zt.com",,none,2026-10-07,true,
+GOPAX,exchange,100,4,75,10,BSC|ETH,manual-admin,gopax,gopax.co.kr,"gopax,gopax.co.kr",,none,2026-10-07,true,
+Tap (Tap Global),psp,100,6,75,10,ETH,manual-admin,tap-global,tap.global,"tap (tap global),tap-global,tap.global",,none,2026-10-07,true,
+STEX (Stocks.Exchange),exchange,100,4,75,30,BSC|ETH,manual-admin,stex-com,stex.com,"stex (stocks.exchange),stex-com,stex.com",,none,2026-10-07,true,
+UEX (legacy exchange),exchange,100,5,75,30,BSC|ETH,manual-admin,uex-exchange,,"uex (legacy exchange),uex-exchange",,none,2026-10-07,true,
+Spartans,gambling,100,2,75,30,BSC|ETH,manual-admin,spartans-com,spartans.com,"spartans,spartans-com,spartans.com",,manual,2026-10-07,true,98c7abcb5afda6cadf95a520ffdd243c96202c86bf61ecaefa97c8e1369d942a
+Alfacash,exchange,100,1,75,30,ETH,manual-admin,alfa-cash,alfa.cash,"alfa-cash,alfa.cash,alfacash",,manual,2026-10-07,true,24e1ffd5fedfbd41c98f09c52802d5ed57b1038878ffdee0878cb06a99b49d21
+AMINA Bank,bank,100,2,75,10,BSC|ETH,manual-admin,amina-bank,aminagroup.com,"amina bank,amina-bank,aminagroup.com",,manual,2026-10-07,true,0ac919d40ab1e8430d8cdefebfb6216c26a5feed3b54cafff39fa7f4b09daa25
+BaltEX,exchange,100,1,75,55,ETH,manual-admin,baltex-io,baltex.io,"baltex,baltex-io,baltex.io",,none,2026-10-07,true,
+Bity,otc_desk,100,1,75,10,BSC,manual-admin,bity-com,bity.com,"bity,bity-com,bity.com",,manual,2026-10-07,true,2d9f2f1ae4402ef1714eff09b7c3f2af57f07b28e7577da84bc93826e5eae54a
+Haru Invest,exchange,100,3,75,55,ETH,manual-admin,haru-invest,haruinvest.com,"haru invest,haru-invest,haruinvest.com",,manual,2026-10-07,true,4cc68adcff3dc276670f2ec732fed8ea98444a93364b254d110d79eeb14f5d5f
+LCX,exchange,100,3,75,30,BSC|ETH,manual-admin,lcx-com,lcx.com,"lcx,lcx-com,lcx.com",,manual,2026-10-07,true,bb224f0dee538c9f9b97f7591f9b9bbe2d205cc53266dccdb4ae9af8d5268462
+SBI VC Trade,exchange,100,1,75,10,ETH,manual-admin,sbi-vc-trade,sbivc.co.jp,"sbi vc trade,sbi-vc-trade,sbivc.co.jp",,manual,2026-10-07,true,2413a4e9f6134cc37c4c24fcc0f5627d65fc17a2d3b59905e0d06e2593ba8a06
+Deblock,exchange,100,2,75,10,BSC|ETH,manual-admin,deblock,deblock.com,"deblock,deblock.com",,manual,2026-10-07,true,82bdaf3ec58d0252861dc0ef688bec9a92b1f3928c2c177166498f6e716fd4d3
+Ledn,custodian,100,4,75,10,BSC|BTC|ETH,manual-admin,ledn,ledn.io,"ledn,ledn.io",,none,2026-10-07,true,
+trxus.com,exchange,100,1,75,55,TRON,manual-admin,trxus-com,trxus.com,"trxus-com,trxus.com",,manual,2026-10-07,true,e8b1a691309288bb4f9f40fb237f4f996c0f2660438c8d61edc86795b6b9575b
+XS2 Exchange,exchange,100,2,75,30,BSC|ETH,manual-admin,xs2-exchange,xs2.exchange,"xs2 exchange,xs2-exchange,xs2.exchange",,none,2026-10-07,true,
+ZG.com,exchange,100,1,75,30,TRON,manual-admin,zg-com,zg.com,"zg-com,zg.com",,none,2026-10-07,true,
+RenrenBit,exchange,100,5,75,30,ETH|TRON,manual-admin,renrenbit,renrenbit.com,"renrenbit,renrenbit.com",,none,2026-10-07,true,
+VIR8,exchange,100,13,75,30,TRON,manual-admin,vir8,,vir8,,none,2026-10-07,true,
+Loex,exchange,100,1,75,30,ETH,manual-admin,loex-io,loex.io,"loex,loex-io,loex.io",,none,2026-10-07,true,

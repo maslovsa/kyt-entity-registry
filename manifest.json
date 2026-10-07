@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-05T15:25:02+00:00",
+  "generated_at": "2026-10-07T10:42:04+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -31217,6 +31217,135 @@
         "swapspace",
         "swapspace.co",
         "swapspace-co"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "otcbtc-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/otcbtc-com.png",
+      "keywords": [
+        "otcbtc",
+        "otcbtc-com",
+        "otcbtc.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coinmetro",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/coinmetro.png",
+      "keywords": [
+        "coinmetro",
+        "coinmetro.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "spartans-com",
+      "category": "gambling",
+      "logo_path": "logos/gambling/spartans-com.png",
+      "keywords": [
+        "spartans",
+        "spartans-com",
+        "spartans.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "alfa-cash",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/alfa-cash.png",
+      "keywords": [
+        "alfa-cash",
+        "alfa.cash",
+        "alfacash"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "amina-bank",
+      "category": "bank",
+      "logo_path": "logos/bank/amina-bank.png",
+      "keywords": [
+        "amina bank",
+        "amina-bank",
+        "aminagroup.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bity-com",
+      "category": "otc_desk",
+      "logo_path": "logos/otc_desk/bity-com.png",
+      "keywords": [
+        "bity",
+        "bity-com",
+        "bity.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "haru-invest",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/haru-invest.png",
+      "keywords": [
+        "haru invest",
+        "haru-invest",
+        "haruinvest.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "lcx-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/lcx-com.png",
+      "keywords": [
+        "lcx",
+        "lcx-com",
+        "lcx.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "sbi-vc-trade",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/sbi-vc-trade.png",
+      "keywords": [
+        "sbi vc trade",
+        "sbi-vc-trade",
+        "sbivc.co.jp"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "deblock",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/deblock.png",
+      "keywords": [
+        "deblock",
+        "deblock.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "trxus-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/trxus-com.png",
+      "keywords": [
+        "trxus-com",
+        "trxus.com"
       ],
       "product_aliases": [],
       "sanctioned": false
