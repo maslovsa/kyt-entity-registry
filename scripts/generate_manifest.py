@@ -146,6 +146,7 @@ CATEGORY_DIR_MAP = {
     "bank": "bank",
     "otc_desk": "otc_desk",
     "darknet_market": "darknet_market",  # NOT sanctioned: no designation (2026-10-04 NucleusMarket)
+    "scam": "scam",  # Ponzi/HYIP/doubler/MLM-matrix schemes, NOT sanctioned (2026-10-07 GH #1867)
     "sanctioned": "sanctioned",
 }
 

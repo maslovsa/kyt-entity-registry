@@ -146,6 +146,7 @@ Full map:
 | mixer            | logos/mixer/ | |
 | hack             | logos/hack/ | by incident name |
 | darknet_market   | logos/darknet_market/ | darknet markets with NO sanctions designation (e.g. defunct Nucleus Market); manifest `sanctioned` flag stays false — use `sanctioned` only for OFAC/UK/EU-designated entities |
+| scam             | logos/scam/           | Ponzi / HYIP / ETH doubler / MLM-matrix schemes (e.g. PlusToken, Forsage) — vendor consensus "Scam" (Elliptic "Ponzi Scheme"); NOT sanctioned unless designated, then use `sanctioned` |
 | sanctioned       | logos/sanctioned/ | sanctioning bodies (OFAC, UK OFSI, …) |
 | bank             | logos/bank/ | traditional/state banks (incl. sanctioned banks reclassified out of `sanctioned` so registry_category reflects business type, not designation status) |
 | otc_desk         | logos/otc_desk/ | institutional OTC/liquidity-provider desks (B2C2, Cumberland, GSR, Flow Traders, etc.) — not a retail order-book exchange |
