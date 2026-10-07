@@ -3132,62 +3132,62 @@ Coineal,exchange,100,0,60,65,ETH,manual-admin,coineal-com,coineal.com,"coineal,c
 Nucleus Market,darknet_market,85,391,90,75,BTC,manual-admin,nucleusmarket,,"nucleus market,nucleusmarket,nucleus marketplace",,none,2026-10-04,true,
 SwapSpace,exchange,100,26,75,30,ETH|BSC,manual-admin,swapspace-co,swapspace.co,"swapspace,swapspace.co,swapspace-co",,manual,2026-10-05,true,24502e41fcec9bb269a219f63a755e78916d45e336f897e3133ce694df301df6
 OTCBTC,exchange,100,11,75,30,BSC|ETH,manual-admin,otcbtc-com,otcbtc.com,"otcbtc,otcbtc-com,otcbtc.com",,manual,2026-10-07,true,eb9f2b30161b7aabcb0896c0da1d5201a19e0dfa8fb76e04d9447a1ba3a5cb1f
-CoinEgg,exchange,100,9,75,30,ETH,manual-admin,coinegg,coinegg.com,"coinegg,coinegg.com",,none,2026-10-07,true,
-WBF Exchange,exchange,100,4,75,30,ETH,manual-admin,wbf-exchange,wbfex.com,"wbf exchange,wbf-exchange,wbfex.com",,none,2026-10-07,true,
+CoinEgg,exchange,100,9,75,30,ETH,manual-admin,coinegg,coinegg.com,"coinegg,coinegg.com",,arkham,2026-10-08,false,2803bed64182f59b3feb7f40485a1b098035f9e82df8785733dbecb4ae582be2
+WBF Exchange,exchange,100,4,75,30,ETH,manual-admin,wbf-exchange,wbfex.com,"wbf exchange,wbf-exchange,wbfex.com",,arkham,2026-10-08,false,780ec01fb01e3ff35cd47b22c226dd775f86a93cab4eaca0dee5b849d1ccc81f
 Coinmetro,exchange,100,6,75,30,BSC|ETH,manual-admin,coinmetro,coinmetro.com,"coinmetro,coinmetro.com",,manual,2026-10-07,true,944adb3e1f04debe562ee14d9caf47477b633ea0ab42bae3f0ad42cf8b7426dc
-ZT Exchange,exchange,100,3,75,30,TRON,manual-admin,zt-com,zt.com,"zt exchange,zt-com,zt.com",,none,2026-10-07,true,
-GOPAX,exchange,100,4,75,10,BSC|ETH,manual-admin,gopax,gopax.co.kr,"gopax,gopax.co.kr",,none,2026-10-07,true,
-Tap (Tap Global),psp,100,6,75,10,ETH,manual-admin,tap-global,tap.global,"tap (tap global),tap-global,tap.global",,none,2026-10-07,true,
-STEX (Stocks.Exchange),exchange,100,4,75,30,BSC|ETH,manual-admin,stex-com,stex.com,"stex (stocks.exchange),stex-com,stex.com",,none,2026-10-07,true,
-UEX (legacy exchange),exchange,100,5,75,30,BSC|ETH,manual-admin,uex-exchange,,"uex (legacy exchange),uex-exchange",,none,2026-10-07,true,
+ZT Exchange,exchange,100,3,75,30,TRON,manual-admin,zt-com,zt.com,"zt exchange,zt-com,zt.com",,arkham,2026-10-08,false,93fe1abb78796ef9075c4764d72f1824de1cf2f4dfca9ad041da0a077b943570
+GOPAX,exchange,100,4,75,10,BSC|ETH,manual-admin,gopax,gopax.co.kr,"gopax,gopax.co.kr",,arkham,2026-10-08,false,07debdc024aa5cee9b28511981f8e1722f9133e8a435448cd2747e2bc6e656e7
+Tap (Tap Global),psp,100,6,75,10,ETH,manual-admin,tap-global,tap.global,"tap (tap global),tap-global,tap.global",,arkham,2026-10-08,false,f17a7762eb9cf672abdd0c5fdf22429d7633d0f6bf53060e602b4a65e9975ea3
+STEX (Stocks.Exchange),exchange,100,4,75,30,BSC|ETH,manual-admin,stex-com,stex.com,"stex (stocks.exchange),stex-com,stex.com",,none,2026-10-07,false,
+UEX (legacy exchange),exchange,100,5,75,30,BSC|ETH,manual-admin,uex-exchange,,"uex (legacy exchange),uex-exchange",,none,2026-10-07,false,
 Spartans,gambling,100,2,75,30,BSC|ETH,manual-admin,spartans-com,spartans.com,"spartans,spartans-com,spartans.com",,manual,2026-10-07,true,98c7abcb5afda6cadf95a520ffdd243c96202c86bf61ecaefa97c8e1369d942a
 Alfacash,exchange,100,1,75,30,ETH,manual-admin,alfa-cash,alfa.cash,"alfa-cash,alfa.cash,alfacash",,manual,2026-10-07,true,24e1ffd5fedfbd41c98f09c52802d5ed57b1038878ffdee0878cb06a99b49d21
 AMINA Bank,bank,100,2,75,10,BSC|ETH,manual-admin,amina-bank,aminagroup.com,"amina bank,amina-bank,aminagroup.com",,manual,2026-10-07,true,0ac919d40ab1e8430d8cdefebfb6216c26a5feed3b54cafff39fa7f4b09daa25
-BaltEX,exchange,100,1,75,55,ETH,manual-admin,baltex-io,baltex.io,"baltex,baltex-io,baltex.io",,none,2026-10-07,true,
+BaltEX,exchange,100,1,75,55,ETH,manual-admin,baltex-io,baltex.io,"baltex,baltex-io,baltex.io",,arkham,2026-10-08,false,9579663a77fbce015fe336d08944f1bfc189ae2234a4c65016a5255229952951
 Bity,otc_desk,100,1,75,10,BSC,manual-admin,bity-com,bity.com,"bity,bity-com,bity.com",,manual,2026-10-07,true,2d9f2f1ae4402ef1714eff09b7c3f2af57f07b28e7577da84bc93826e5eae54a
 Haru Invest,exchange,100,3,75,55,ETH,manual-admin,haru-invest,haruinvest.com,"haru invest,haru-invest,haruinvest.com",,manual,2026-10-07,true,4cc68adcff3dc276670f2ec732fed8ea98444a93364b254d110d79eeb14f5d5f
 LCX,exchange,100,3,75,30,BSC|ETH,manual-admin,lcx-com,lcx.com,"lcx,lcx-com,lcx.com",,manual,2026-10-07,true,bb224f0dee538c9f9b97f7591f9b9bbe2d205cc53266dccdb4ae9af8d5268462
 SBI VC Trade,exchange,100,1,75,10,ETH,manual-admin,sbi-vc-trade,sbivc.co.jp,"sbi vc trade,sbi-vc-trade,sbivc.co.jp",,manual,2026-10-07,true,2413a4e9f6134cc37c4c24fcc0f5627d65fc17a2d3b59905e0d06e2593ba8a06
 Deblock,exchange,100,2,75,10,BSC|ETH,manual-admin,deblock,deblock.com,"deblock,deblock.com",,manual,2026-10-07,true,82bdaf3ec58d0252861dc0ef688bec9a92b1f3928c2c177166498f6e716fd4d3
-Ledn,custodian,100,4,75,10,BSC|BTC|ETH,manual-admin,ledn,ledn.io,"ledn,ledn.io",,none,2026-10-07,true,
+Ledn,custodian,100,4,75,10,BSC|BTC|ETH,manual-admin,ledn,ledn.io,"ledn,ledn.io",,arkham,2026-10-08,false,588ef25bc7f3227fcbe088d4a94f15adbba7a43c903cdcb9aa9c3241b8d3181a
 trxus.com,exchange,100,1,75,55,TRON,manual-admin,trxus-com,trxus.com,"trxus-com,trxus.com",,manual,2026-10-07,true,e8b1a691309288bb4f9f40fb237f4f996c0f2660438c8d61edc86795b6b9575b
-XS2 Exchange,exchange,100,2,75,30,BSC|ETH,manual-admin,xs2-exchange,xs2.exchange,"xs2 exchange,xs2-exchange,xs2.exchange",,none,2026-10-07,true,
-ZG.com,exchange,100,1,75,30,TRON,manual-admin,zg-com,zg.com,"zg-com,zg.com",,none,2026-10-07,true,
-RenrenBit,exchange,100,5,75,30,ETH|TRON,manual-admin,renrenbit,renrenbit.com,"renrenbit,renrenbit.com",,none,2026-10-07,true,
-VIR8,exchange,100,13,75,30,TRON,manual-admin,vir8,,vir8,,none,2026-10-07,true,
-Loex,exchange,100,1,75,30,ETH,manual-admin,loex-io,loex.io,"loex,loex-io,loex.io",,none,2026-10-07,true,
-BiFinance,exchanges,100,1,75,55,TRON,manual-admin,bifinance-com,bifinance.com,"bifinance,bifinance-com,bifinance.com",,none,2026-10-07,true,
-BankCEX,exchanges,100,2,75,55,TRON,manual-admin,bankcex,bankcex.com,"bankcex,bankcex.com",,none,2026-10-07,true,
-Picol,exchanges,100,1,75,30,TRON,manual-admin,picol,picol.com,"picol,picol.com",,none,2026-10-07,true,
-BitcoinWallet.com,custodian,100,1,75,10,BTC,manual-admin,bitcoinwallet-com,bitcoinwallet.com,"bitcoinwallet-com,bitcoinwallet.com",,none,2026-10-07,true,
-777Coin,gambling,100,1,75,30,BTC,manual-admin,777coin,777coin.com,"777coin,777coin.com",,none,2026-10-07,true,
-Pepperstone,exchanges,100,2,75,10,BSC|ETH,manual-admin,pepperstone,pepperstone.com,"pepperstone,pepperstone.com",,none,2026-10-07,true,
-HeroFX,exchanges,100,1,75,55,ETH,manual-admin,herofx,herofx.co,"herofx,herofx.co",,none,2026-10-07,true,
-10xBitco.in,gambling,100,1,75,30,BTC,manual-admin,10xbitco-in,10xbitco.in,"10xbitco-in,10xbitco.in",,none,2026-10-07,true,
-BetMoose.com,gambling,100,1,75,30,BTC,manual-admin,betmoose-com,betmoose.com,"betmoose-com,betmoose.com",,none,2026-10-07,true,
-BetsOfBitco.in,gambling,100,1,75,30,BTC,manual-admin,betsofbitco-in,betsofbitco.in,"betsofbitco-in,betsofbitco.in",,none,2026-10-07,true,
-DiceBitco.in,gambling,100,1,75,30,BTC,manual-admin,dicebitco-in,dicebitco.in,"dicebitco-in,dicebitco.in",,none,2026-10-07,true,
-Just-Dice.com,gambling,100,1,75,30,BTC,manual-admin,just-dice-com,just-dice.com,"just-dice-com,just-dice.com",,none,2026-10-07,true,
-Etherdice.io,gambling,100,1,75,30,ETH,manual-admin,etherdice-io,etherdice.io,"etherdice-io,etherdice.io",,none,2026-10-07,true,
-Hashelot.com,gambling,100,1,75,30,ETH,manual-admin,hashelot-com,hashelot.com,"hashelot-com,hashelot.com",,none,2026-10-07,true,
-SafeDice.com,gambling,100,1,75,30,BTC,manual-admin,safedice-com,safedice.com,"safedice-com,safedice.com",,none,2026-10-07,true,
-SatoshiCircle.com,gambling,100,1,75,30,BTC,manual-admin,satoshicircle-com,satoshicircle.com,"satoshicircle-com,satoshicircle.com",,none,2026-10-07,true,
-Rollin.io,gambling,100,1,75,30,BTC,manual-admin,rollin-io,rollin.io,"rollin-io,rollin.io",,none,2026-10-07,true,
-CryptoChance.io,gambling,100,1,75,30,ETH,manual-admin,cryptochance-io,cryptochance.io,"cryptochance-io,cryptochance.io",,none,2026-10-07,true,
-Cryptslot.io,gambling,100,1,75,30,ETH,manual-admin,cryptslot-io,cryptslot.io,"cryptslot-io,cryptslot.io",,none,2026-10-07,true,
-Huixingpool.com,mining,100,1,75,10,ETH,manual-admin,huixingpool-com,huixingpool.com,"huixingpool-com,huixingpool.com",,none,2026-10-07,true,
-ICanMining.ru,mining,100,1,75,10,ETH,manual-admin,icanmining-ru,icanmining.ru,"icanmining-ru,icanmining.ru",,none,2026-10-07,true,
-myminers.org,mining,100,1,75,10,ETH,manual-admin,myminers-org,myminers.org,"myminers-org,myminers.org",,none,2026-10-07,true,
-SoloPool.org,mining,100,1,75,10,ETH,manual-admin,solopool-org,solopool.org,"solopool-org,solopool.org",,none,2026-10-07,true,
-Crimenetwork,darknet_market,100,1,75,75,BTC,manual-admin,crimenetwork,crimenetwork.co,"crimenetwork,crimenetwork.co",,none,2026-10-07,true,
-YABTCL.com,gambling,100,1,75,30,BTC,manual-admin,yabtcl-com,yabtcl.com,"yabtcl,yabtcl.com",,none,2026-10-07,true,
-Eth2x.com,gambling,100,1,75,30,ETH,manual-admin,eth2x-com,eth2x.com,"eth2x,eth2x.com",,none,2026-10-07,true,
-FindTheRabbit.me,gambling,100,1,75,30,ETH,manual-admin,findtherabbit-me,findtherabbit.me,"findtherabbit,findtherabbit.me",,none,2026-10-07,true,
-Forsage,scam,100,2,75,90,ETH|BSC,manual-admin,forsage-io,forsage.io,"forsage,forsage-io,forsage.io",,none,2026-10-07,true,
-Doubleway.io / CryptoHands,scam,100,1,75,75,ETH,manual-admin,doubleway-cryptohands,doubleway.io,"doubleway-cryptohands,doubleway.io,doubleway.io / cryptohands",,none,2026-10-07,true,
-mmm3eth.io,scam,100,1,75,75,ETH,manual-admin,mmm3eth-io,mmm3eth.io,"mmm3eth-io,mmm3eth.io",,none,2026-10-07,true,
-bestmultiplier.biz,scam,100,1,75,75,ETH,manual-admin,bestmultiplier-biz,bestmultiplier.biz,"bestmultiplier-biz,bestmultiplier.biz",,none,2026-10-07,true,
-Gradual.pro,scam,100,1,75,75,ETH,manual-admin,gradual-pro,gradual.pro,"gradual-pro,gradual.pro",,none,2026-10-07,true,
-Max150.com,scam,100,1,75,75,ETH,manual-admin,max150-com,max150.com,"max150-com,max150.com",,none,2026-10-07,true,
-Smart-blockchain.pro,scam,100,1,75,75,ETH,manual-admin,smart-blockchain-pro,smart-blockchain.pro,"smart-blockchain-pro,smart-blockchain.pro",,none,2026-10-07,true,
-Ethermagic.net,scam,100,1,75,75,ETH,manual-admin,ethermagic-net,ethermagic.net,"ethermagic-net,ethermagic.net",,none,2026-10-07,true,
+XS2 Exchange,exchange,100,2,75,30,BSC|ETH,manual-admin,xs2-exchange,xs2.exchange,"xs2 exchange,xs2-exchange,xs2.exchange",,arkham,2026-10-08,false,ff3bf8bd8b9ea1956218979788922054609293e39eeeef685500cf08a5083154
+ZG.com,exchange,100,1,75,30,TRON,manual-admin,zg-com,zg.com,"zg-com,zg.com",,arkham,2026-10-08,false,760e0e1c242fe647800aa791ea5c561b683aa305b772fc5d5815367689cdceb0
+RenrenBit,exchange,100,5,75,30,ETH|TRON,manual-admin,renrenbit,renrenbit.com,"renrenbit,renrenbit.com",,arkham,2026-10-08,false,4e522e5a73d07e650bef23d0bba86ec7854a15292597e479594bafcf312ef0fd
+VIR8,exchange,100,13,75,30,TRON,manual-admin,vir8,,vir8,,none,2026-10-07,false,
+Loex,exchange,100,1,75,30,ETH,manual-admin,loex-io,loex.io,"loex,loex-io,loex.io",,none,2026-10-07,false,
+BiFinance,exchanges,100,1,75,55,TRON,manual-admin,bifinance-com,bifinance.com,"bifinance,bifinance-com,bifinance.com",,favicon,2026-10-08,false,181a8ed8a07e47c0929b83029d26306ef5aa81ac5c69c0cae26561df605b821a
+BankCEX,exchanges,100,2,75,55,TRON,manual-admin,bankcex,bankcex.com,"bankcex,bankcex.com",,none,2026-10-07,false,
+Picol,exchanges,100,1,75,30,TRON,manual-admin,picol,picol.com,"picol,picol.com",,favicon,2026-10-08,false,9fa8f0f33ad0d75c0cc0397bf5e8eba561a844f57775ed5e7fcea206690724e4
+BitcoinWallet.com,custodian,100,1,75,10,BTC,manual-admin,bitcoinwallet-com,bitcoinwallet.com,"bitcoinwallet-com,bitcoinwallet.com",,none,2026-10-07,false,
+777Coin,gambling,100,1,75,30,BTC,manual-admin,777coin,777coin.com,"777coin,777coin.com",,none,2026-10-07,false,
+Pepperstone,exchanges,100,2,75,10,BSC|ETH,manual-admin,pepperstone,pepperstone.com,"pepperstone,pepperstone.com",,arkham,2026-10-08,false,f4d48fc9a10abd05c7ad613f60c32c7de59090b3134c83bf8f7c28d56b4a51dc
+HeroFX,exchanges,100,1,75,55,ETH,manual-admin,herofx,herofx.co,"herofx,herofx.co",,arkham,2026-10-08,false,6c768126176690bf0f27b9d86caa09d7312b7970e2a0d86b9fcfd136c1a4c4b7
+10xBitco.in,gambling,100,1,75,30,BTC,manual-admin,10xbitco-in,10xbitco.in,"10xbitco-in,10xbitco.in",,none,2026-10-07,false,
+BetMoose.com,gambling,100,1,75,30,BTC,manual-admin,betmoose-com,betmoose.com,"betmoose-com,betmoose.com",,none,2026-10-07,false,
+BetsOfBitco.in,gambling,100,1,75,30,BTC,manual-admin,betsofbitco-in,betsofbitco.in,"betsofbitco-in,betsofbitco.in",,none,2026-10-07,false,
+DiceBitco.in,gambling,100,1,75,30,BTC,manual-admin,dicebitco-in,dicebitco.in,"dicebitco-in,dicebitco.in",,none,2026-10-07,false,
+Just-Dice.com,gambling,100,1,75,30,BTC,manual-admin,just-dice-com,just-dice.com,"just-dice-com,just-dice.com",,arkham,2026-10-08,false,88b3f986d1c05f77afe7c9a3331ca9c6cdce14517f64f32892a2f49a054e2f40
+Etherdice.io,gambling,100,1,75,30,ETH,manual-admin,etherdice-io,etherdice.io,"etherdice-io,etherdice.io",,none,2026-10-07,false,
+Hashelot.com,gambling,100,1,75,30,ETH,manual-admin,hashelot-com,hashelot.com,"hashelot-com,hashelot.com",,none,2026-10-07,false,
+SafeDice.com,gambling,100,1,75,30,BTC,manual-admin,safedice-com,safedice.com,"safedice-com,safedice.com",,none,2026-10-07,false,
+SatoshiCircle.com,gambling,100,1,75,30,BTC,manual-admin,satoshicircle-com,satoshicircle.com,"satoshicircle-com,satoshicircle.com",,none,2026-10-07,false,
+Rollin.io,gambling,100,1,75,30,BTC,manual-admin,rollin-io,rollin.io,"rollin-io,rollin.io",,none,2026-10-07,false,
+CryptoChance.io,gambling,100,1,75,30,ETH,manual-admin,cryptochance-io,cryptochance.io,"cryptochance-io,cryptochance.io",,none,2026-10-07,false,
+Cryptslot.io,gambling,100,1,75,30,ETH,manual-admin,cryptslot-io,cryptslot.io,"cryptslot-io,cryptslot.io",,none,2026-10-07,false,
+Huixingpool.com,mining,100,1,75,10,ETH,manual-admin,huixingpool-com,huixingpool.com,"huixingpool-com,huixingpool.com",,none,2026-10-07,false,
+ICanMining.ru,mining,100,1,75,10,ETH,manual-admin,icanmining-ru,icanmining.ru,"icanmining-ru,icanmining.ru",,favicon,2026-10-08,false,1075bf9c80be5305d30aa00e132167f28285bffc2bdec8a2ea83d28045e45d33
+myminers.org,mining,100,1,75,10,ETH,manual-admin,myminers-org,myminers.org,"myminers-org,myminers.org",,none,2026-10-07,false,
+SoloPool.org,mining,100,1,75,10,ETH,manual-admin,solopool-org,solopool.org,"solopool-org,solopool.org",,favicon,2026-10-08,false,0ada7caf34d615436211f2269b8c39fa8d861442405435ef06432895c78b0286
+Crimenetwork,darknet_market,100,1,75,75,BTC,manual-admin,crimenetwork,crimenetwork.co,"crimenetwork,crimenetwork.co",,none,2026-10-07,false,
+YABTCL.com,gambling,100,1,75,30,BTC,manual-admin,yabtcl-com,yabtcl.com,"yabtcl,yabtcl.com",,none,2026-10-07,false,
+Eth2x.com,gambling,100,1,75,30,ETH,manual-admin,eth2x-com,eth2x.com,"eth2x,eth2x.com",,none,2026-10-07,false,
+FindTheRabbit.me,gambling,100,1,75,30,ETH,manual-admin,findtherabbit-me,findtherabbit.me,"findtherabbit,findtherabbit.me",,none,2026-10-07,false,
+Forsage,scam,100,2,75,90,ETH|BSC,manual-admin,forsage-io,forsage.io,"forsage,forsage-io,forsage.io",,arkham,2026-10-08,false,22421fd2f22f80bc13434388c6ca9a5a7a2864aa29bb7b220b7d29ea49c5822e
+Doubleway.io / CryptoHands,scam,100,1,75,75,ETH,manual-admin,doubleway-cryptohands,doubleway.io,"doubleway-cryptohands,doubleway.io,doubleway.io / cryptohands",,arkham,2026-10-08,false,fa3bfda836d80caf169b8b47bcc9aaf6b5c4a0af9ca8ba078550f93024be4da0
+mmm3eth.io,scam,100,1,75,75,ETH,manual-admin,mmm3eth-io,mmm3eth.io,"mmm3eth-io,mmm3eth.io",,none,2026-10-07,false,
+bestmultiplier.biz,scam,100,1,75,75,ETH,manual-admin,bestmultiplier-biz,bestmultiplier.biz,"bestmultiplier-biz,bestmultiplier.biz",,none,2026-10-07,false,
+Gradual.pro,scam,100,1,75,75,ETH,manual-admin,gradual-pro,gradual.pro,"gradual-pro,gradual.pro",,favicon,2026-10-08,false,54551e1c64a34313c32f7582cb2f226dc51cad6b17e3cfb82b66846183936dd0
+Max150.com,scam,100,1,75,75,ETH,manual-admin,max150-com,max150.com,"max150-com,max150.com",,none,2026-10-07,false,
+Smart-blockchain.pro,scam,100,1,75,75,ETH,manual-admin,smart-blockchain-pro,smart-blockchain.pro,"smart-blockchain-pro,smart-blockchain.pro",,arkham,2026-10-08,false,93e2fbe7719093bf49566d50b9e6754990b3da69adaf7a4112e3ca49a7e72540
+Ethermagic.net,scam,100,1,75,75,ETH,manual-admin,ethermagic-net,ethermagic.net,"ethermagic-net,ethermagic.net",,none,2026-10-07,false,

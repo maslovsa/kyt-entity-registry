@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-07T15:55:24+00:00",
+  "generated_at": "2026-10-07T16:43:07+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -31234,12 +31234,70 @@
       "sanctioned": false
     },
     {
+      "slug": "coinegg",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/coinegg.png",
+      "keywords": [
+        "coinegg",
+        "coinegg.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "wbf-exchange",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/wbf-exchange.png",
+      "keywords": [
+        "wbf exchange",
+        "wbf-exchange",
+        "wbfex.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "coinmetro",
       "category": "exchange",
       "logo_path": "logos/exchanges/coinmetro.png",
       "keywords": [
         "coinmetro",
         "coinmetro.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "zt-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/zt-com.png",
+      "keywords": [
+        "zt exchange",
+        "zt-com",
+        "zt.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gopax",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/gopax.png",
+      "keywords": [
+        "gopax",
+        "gopax.co.kr"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tap-global",
+      "category": "psp",
+      "logo_path": "logos/psp/tap-global.png",
+      "keywords": [
+        "tap (tap global)",
+        "tap-global",
+        "tap.global"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -31276,6 +31334,18 @@
         "amina bank",
         "amina-bank",
         "aminagroup.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "baltex-io",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/baltex-io.png",
+      "keywords": [
+        "baltex",
+        "baltex-io",
+        "baltex.io"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -31340,12 +31410,125 @@
       "sanctioned": false
     },
     {
+      "slug": "ledn",
+      "category": "custodian",
+      "logo_path": "logos/custodian/ledn.png",
+      "keywords": [
+        "ledn",
+        "ledn.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "trxus-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/trxus-com.png",
       "keywords": [
         "trxus-com",
         "trxus.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "xs2-exchange",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/xs2-exchange.png",
+      "keywords": [
+        "xs2 exchange",
+        "xs2-exchange",
+        "xs2.exchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "zg-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/zg-com.png",
+      "keywords": [
+        "zg-com",
+        "zg.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "renrenbit",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/renrenbit.png",
+      "keywords": [
+        "renrenbit",
+        "renrenbit.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pepperstone",
+      "category": "exchanges",
+      "logo_path": "logos/exchanges/pepperstone.png",
+      "keywords": [
+        "pepperstone",
+        "pepperstone.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "herofx",
+      "category": "exchanges",
+      "logo_path": "logos/exchanges/herofx.png",
+      "keywords": [
+        "herofx",
+        "herofx.co"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "just-dice-com",
+      "category": "gambling",
+      "logo_path": "logos/gambling/just-dice-com.png",
+      "keywords": [
+        "just-dice-com",
+        "just-dice.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "forsage-io",
+      "category": "scam",
+      "logo_path": "logos/scam/forsage-io.png",
+      "keywords": [
+        "forsage",
+        "forsage-io",
+        "forsage.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "doubleway-cryptohands",
+      "category": "scam",
+      "logo_path": "logos/scam/doubleway-cryptohands.png",
+      "keywords": [
+        "doubleway-cryptohands",
+        "doubleway.io",
+        "doubleway.io / cryptohands"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "smart-blockchain-pro",
+      "category": "scam",
+      "logo_path": "logos/scam/smart-blockchain-pro.png",
+      "keywords": [
+        "smart-blockchain-pro",
+        "smart-blockchain.pro"
       ],
       "product_aliases": [],
       "sanctioned": false
