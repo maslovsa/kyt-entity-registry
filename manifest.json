@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-08T07:30:41+00:00",
+  "generated_at": "2026-10-08T08:03:48+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -31529,6 +31529,39 @@
       "keywords": [
         "smart-blockchain-pro",
         "smart-blockchain.pro"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "btc-e",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/btc-e.png",
+      "keywords": [
+        "btc-e",
+        "btc-e.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bw-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bw-com.png",
+      "keywords": [
+        "bw-com",
+        "bw.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "flexpool-io",
+      "category": "mining",
+      "logo_path": "logos/mining/flexpool-io.png",
+      "keywords": [
+        "flexpool-io",
+        "flexpool.io"
       ],
       "product_aliases": [],
       "sanctioned": false
