@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-08T08:03:48+00:00",
+  "generated_at": "2026-10-09T09:15:29+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -31562,6 +31562,18 @@
       "keywords": [
         "flexpool-io",
         "flexpool.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "envoys-vision",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/envoys-vision.png",
+      "keywords": [
+        "envoys vision",
+        "envoys.vision",
+        "evde"
       ],
       "product_aliases": [],
       "sanctioned": false
