@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-09T11:27:30+00:00",
+  "generated_at": "2026-10-09T11:47:08+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -31586,6 +31586,17 @@
         "kit group",
         "kitgroup.ua",
         "kytgroup.ua"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "zebpay",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/zebpay.png",
+      "keywords": [
+        "zebpay",
+        "zebpay.com"
       ],
       "product_aliases": [],
       "sanctioned": false
