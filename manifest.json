@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-09T09:15:29+00:00",
+  "generated_at": "2026-10-09T11:27:30+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -31574,6 +31574,18 @@
         "envoys vision",
         "envoys.vision",
         "evde"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kit-group",
+      "category": "otc_desk",
+      "logo_path": "logos/otc_desk/kit-group.png",
+      "keywords": [
+        "kit group",
+        "kitgroup.ua",
+        "kytgroup.ua"
       ],
       "product_aliases": [],
       "sanctioned": false
