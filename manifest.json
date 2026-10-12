@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-09T11:47:08+00:00",
+  "generated_at": "2026-10-12T11:20:05+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -31597,6 +31597,17 @@
       "keywords": [
         "zebpay",
         "zebpay.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "marketcoin-io",
+      "category": "otc_desk",
+      "logo_path": "logos/otc_desk/marketcoin-io.png",
+      "keywords": [
+        "marketcoin.io",
+        "marketcoin"
       ],
       "product_aliases": [],
       "sanctioned": false
