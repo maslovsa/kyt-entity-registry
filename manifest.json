@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-12T11:20:05+00:00",
+  "generated_at": "2026-10-13T09:52:53+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -31608,6 +31608,17 @@
       "keywords": [
         "marketcoin.io",
         "marketcoin"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "trxres",
+      "category": "defi",
+      "logo_path": "logos/defi/trxres.png",
+      "keywords": [
+        "trxres",
+        "trxres.com"
       ],
       "product_aliases": [],
       "sanctioned": false

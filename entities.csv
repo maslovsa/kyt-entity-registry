@@ -3201,3 +3201,4 @@ Envoys Vision,exchange,100,0,50,20,,manual-admin,envoys-vision,envoys.vision,"en
 KIT Group,otc_desk,100,3,75,5,TRON,manual-admin,kit-group,kytgroup.ua,"kit group,kitgroup.ua,kytgroup.ua",,manual,2026-10-09,true,2a781c3423a56ea8c4da5391acc0799891e70ef4876f4a82ea11dea381614c29
 ZebPay,exchange,65,0,0,5,TRON,manual-admin,zebpay,zebpay.com,"zebpay,zebpay.com",,manual,2026-10-09,false,7aab1f6285fffdae565bd9a650dc3eb472fd583bb9f655d0c45a7d0777308eaf
 MarketCoin.io,otc_desk,100,0,75,5,,manual-admin,marketcoin-io,marketcoin.io,"marketcoin.io,marketcoin",,manual,2026-10-12,true,f5a594628bea08c97360fe3d28544e2029118360a7557a9f06d8a079a4c2c8bb
+TRXRes,defi,500,1,80,10,TRON,scorechain-counterparties,trxres,trxres.com,"trxres,trxres.com",,manual,2026-10-13,true,3d68226cb3b0e600123b543943843e768c6bc0633091583d890a86308df5f02e
