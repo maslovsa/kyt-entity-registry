@@ -3202,3 +3202,4 @@ KIT Group,otc_desk,100,3,75,5,TRON,manual-admin,kit-group,kytgroup.ua,"kit group
 ZebPay,exchange,65,0,0,5,TRON,manual-admin,zebpay,zebpay.com,"zebpay,zebpay.com",,manual,2026-10-09,false,7aab1f6285fffdae565bd9a650dc3eb472fd583bb9f655d0c45a7d0777308eaf
 MarketCoin.io,otc_desk,100,0,75,5,,manual-admin,marketcoin-io,marketcoin.io,"marketcoin.io,marketcoin",,manual,2026-10-12,true,f5a594628bea08c97360fe3d28544e2029118360a7557a9f06d8a079a4c2c8bb
 TRXRes,defi,500,1,80,10,TRON,scorechain-counterparties,trxres,trxres.com,"trxres,trxres.com",,manual,2026-10-13,true,3d68226cb3b0e600123b543943843e768c6bc0633091583d890a86308df5f02e
+Xgram,exchange,100,0,75,5,,manual-admin,xgram-io,xgram.io,"xgram,xgram.io",,manual,2026-10-13,true,5f1b2d5e4b1cf03417193371626d2cdc68333d55b13859bdef2c8d13e928762d

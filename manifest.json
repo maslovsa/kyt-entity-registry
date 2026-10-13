@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-13T09:52:53+00:00",
+  "generated_at": "2026-10-13T14:51:43+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -31619,6 +31619,17 @@
       "keywords": [
         "trxres",
         "trxres.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "xgram-io",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/xgram-io.png",
+      "keywords": [
+        "xgram",
+        "xgram.io"
       ],
       "product_aliases": [],
       "sanctioned": false
