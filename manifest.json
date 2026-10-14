@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-14T13:44:33+00:00",
+  "generated_at": "2026-10-14T13:51:05+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -10858,7 +10858,8 @@
         "deuro",
         "deuro.com",
         "decentralized euro",
-        "d-euro"
+        "d-euro",
+        "decentralized-euro"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -12901,17 +12902,6 @@
       "keywords": [
         "dango bridge",
         "dango-bridge"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "decentralized-euro",
-      "category": "defi",
-      "logo_path": "logos/defi/decentralized-euro.png",
-      "keywords": [
-        "decentralized euro",
-        "decentralized-euro"
       ],
       "product_aliases": [],
       "sanctioned": false

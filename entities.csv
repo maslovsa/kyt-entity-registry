@@ -1052,7 +1052,7 @@ Celo,psp,70,0,0,10,ETH|POLYGON|SOL,pharos-stablecoins,celo,celo.org,"celo,celo.o
 Compliant Naira,stablecoin_issuer,70,6,70,30,ETH|BSC|POLYGON,pharos-stablecoins|coingecko-tokens,compliant-naira,cngn.co,"compliant naira,cngn.co,wrappedcbdc,consortium naira",CNGN,manual,2026-07-22,true,38c20d8a611ea105a7a68feb44e2188ee800bc4a741ac6fb95bb80ba0a008700
 Crown,stablecoin_issuer,70,2,70,12,ETH,pharos-stablecoins|coingecko-tokens,crown-brlv,crown-brlv.com,"crown brlv,crown-brlv.com,brl.xyz",BRLV,manual,2026-07-22,true,c81796ad9de41c42db04a53b685ab68aa8774c905da8387e42984533b7e71f59
 Dephaser,stablecoin_issuer,70,0,0,30,OPTIMISM|BASE,pharos-stablecoins,dephaser,dephaser.com,"dephaser,dephaser.com,jpyt,dephaser jpy",,manual,2026-07-22,true,c6971ed834fb0de2696ffe696872107b5c1b986cd16a9d2e3ea9637f3cf7d3d5
-Deuro,stablecoin_issuer,70,11,70,15,ETH|POLYGON|ARBITRUM|OPTIMISM|BASE,pharos-stablecoins|coingecko-tokens,deuro,deuro.com,"deuro,deuro.com,decentralized euro,d-euro",,manual,2026-07-22,true,b4764cad68300098d00a0ae4051f1fc1a886045b3fac08c92cc5e440e2b36d4c
+Deuro,stablecoin_issuer,70,11,70,15,ETH|POLYGON|ARBITRUM|OPTIMISM|BASE,pharos-stablecoins|coingecko-tokens,deuro,deuro.com,"deuro,deuro.com,decentralized euro,d-euro,decentralized-euro",,manual,2026-07-22,true,b4764cad68300098d00a0ae4051f1fc1a886045b3fac08c92cc5e440e2b36d4c
 Dtrinity,stablecoin_issuer,70,18,70,35,ETH,pharos-stablecoins|coingecko-tokens,dtrinity,dtrinity.org,"dtrinity,dtrinity.org,sdusd,trinity foundation",,manual,2026-07-22,true,8ec8ed03e3a2f00bffd47ec940ed5421891c4abeccfa412b44c4848e0266e938
 FinChain,stablecoin_issuer,70,0,60,10,AVALANCHE|ETH,pharos-watch,,finchain.global,"finchain,fosun wealth,fusd","FUSD,Fosun Wealth Holdings",manual,2026-07-22,true,a57c5c1ba47a7251b30bf9a9f473cd4655643d66c18e840b5a35610566e03920
 Gold Token Sa,stablecoin_issuer,70,0,0,10,ETH,pharos-stablecoins,gold-token-sa,dgld.ch,"gold token sa,dgld,gold-token-sa",,manual,2026-07-22,true,eb960d7da43ebd78ef1b222f2d269f7a91d405ce8815407dce8c6666b32d4c0b
@@ -1244,7 +1244,6 @@ CRETH2,defi,65,0,0,10,ETH,,creth2,classic.cream.finance,"creth2,cream-eth2",,def
 Cyclone,defi,65,0,0,10,ETH|BSC|POLYGON,,cyclone,cyclone.xyz,"cyclone,cyclone-protocol",,arkham,2026-06-02,false,5e554e300b37d2da7a54489ce399b4217b1c94edeabcc8c9442b584ab7214f91
 Cypher V4,dex,65,0,0,10,ETH,,cypher,cyphereth.com,cypher,,defillama,2026-06-02,false,99e1ef09b03332475f0280ca5ec3bd50d6cd903a5c3ee661cf7244ee8478b5ba
 Dango Bridge,bridge,65,0,0,10,ETH,,dango-bridge,dango.exchange,"dango bridge,dango-bridge",,defillama,2026-06-02,false,0480cf303a97e25491a820811b7e6c48a46690ff04e321def420265e5a795ff2
-Decentralized Euro,defi,65,0,0,10,ETH,,decentralized-euro,deuro.com,"decentralized euro,decentralized-euro",,arkham,2026-06-02,false,73c52c6e7e6a7254e2eb5be34b3c17327cde956c6f7675f86dfff9f62f4b136e
 DeDust,dex,65,0,0,10,,,dedust,dedust.io,"dedust,scaleton",,arkham,2026-06-02,false,b315e91d2ec2fa2cee37fd77f308c6f908a4ca08a40fe688690c4409d2c9a094
 Defa By InvoiceMate,defi,65,0,0,10,,,defa-by-invoicemate,imdefa.com,"defa by invoicemate,defa-by-invoicemate",,defillama,2026-06-02,false,6fa5046ddfc6fd09ed3220ecc235a5f29f9f027667e706d8c213851eb2d43b99
 DefiChain DEX,dex,65,0,0,10,,,defichain,defichain.com,"defichain dex,defichain",,arkham,2026-06-02,false,b952e5f05091a741979ab09a07656475fe3ff08d2980fa73cbc75296cdf7b2a7
