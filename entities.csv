@@ -1058,7 +1058,7 @@ FinChain,stablecoin_issuer,70,0,60,10,AVALANCHE|ETH,pharos-watch,,finchain.globa
 Gold Token Sa,stablecoin_issuer,70,0,0,10,ETH,pharos-stablecoins,gold-token-sa,dgld.ch,"gold token sa,dgld,gold-token-sa",,manual,2026-07-22,true,eb960d7da43ebd78ef1b222f2d269f7a91d405ce8815407dce8c6666b32d4c0b
 Goldfish Gold,stablecoin_issuer,70,0,0,10,ETH,pharos-stablecoins,goldfish-gold,goldfishgold.com,"goldfish gold,ggbr,goldfish-gold",,manual,2026-07-22,true,c007704ed0a92bd11021c2963a1e5e1db037757e04f88af7cb06c2bcd122abbb
 Hamilton Lane,stablecoin_issuer,70,0,0,10,ETH|POLYGON,pharos-stablecoins,hamilton-lane,hamiltonlane.com,"hamilton lane,hlscope,hamilton-lane",,manual,2026-07-22,true,e5944cc2ef29d9c45e3567956155e20103b247cd6deb979287d463b7506fa13a
-Hylo,stablecoin_issuer,70,0,0,30,SOL,pharos-stablecoins,hylo,hylo.so,"hylo,hylo.so,hyusd,xsol",,manual,2026-07-22,true,0831279062301bf3e16978af018480c8b837e552124732a6d048185ae1b5fd80
+Hylo,stablecoin_issuer,70,0,0,30,SOL,pharos-stablecoins,hylo,hylo.so,"hylo,hylo.so,hyusd,xsol",,arkham,2026-10-14,false,c376d7aa5445bb1e5a844a8e794ffcceeb8623ffdfbdcb70b2ed50768f8c1442
 IDRX,stablecoin_issuer,70,0,0,15,POLYGON|BSC|BASE|SOL,pharos-stablecoins,idrx,idrx.co,"idrx,idrx.co,indonesian rupiah stablecoin,rupiah token",IDRX Rupiah Token,manual,2026-07-22,true,7485c54b302791ebb5a98e29ddaff651b06216e4edd6fa7e5a58ef80dd73dd2b
 IQ,stablecoin_issuer,70,0,0,18,BASE|POLYGON|SOL,pharos-stablecoins,iq,iqai.com,"iq,iqai.com,krwq,korean won stablecoin,iq ai",,manual,2026-07-22,true,544ac8e12cbdcec64628c0b43ca05eac719dc5bb827fe72a64feddda8e197bec
 Juno,psp,70,0,0,15,ETH|ARBITRUM|AVALANCHE,pharos-stablecoins,juno,mxnb.mx,"juno,mxnb.mx,juno finance mxn",MXNB,manual,2026-07-22,true,7f1f4cb36de535e4f792f9b97b5e55e820e612e423ec5ae6beca6353658502d0
@@ -1145,7 +1145,7 @@ BitMarket.net,exchange,70,0,60,10,BTC|ETH|LTC,manual-admin,bitmarket-net,bitmark
 Exonyx.org,exchange,70,0,60,10,TRON,manual-admin,exonyx-org,exonyx.org,exonyx,,manual,2026-09-13,true,44ec7dbfac0cdfa3c645d585fbc546193308f5df4939c9a0fa2edae5a885b925
 Felixo.com,exchange,70,0,60,10,BTC|ETH|LTC,manual-admin,felixo-com,felixo.com,felixo,,manual,2026-09-13,true,ad530e0eebb8148ef14f2554990353b125fe4fade1f2784f4c91e8707cad34cd
 Kapytal.io,exchange,70,0,60,10,ETH,manual-admin,kapytal-io,kapytal.io,kapytal,,manual,2026-09-13,true,0afcf24c2dfc7285e9e1db73aaf15699bcc867924b8d242f3c660e37dfb176cb
-Swep.io,exchange,70,0,60,10,ETH,manual-admin,swep-io,swep.io,swep,,manual,2026-09-13,true,1ac754dd78a4a484a011452ea471fbd9e3f47f993a27d5d643ade037bbbfac52
+Swep.io,exchange,70,0,60,10,ETH,manual-admin,swep-io,swep.io,swep,,synthetic,2026-10-14,false,82f2d9de8e6c61c4f6982134b1184217a906d36004b15f353cc4d1893a0dc982
 Wallbit.io,exchange,70,0,60,10,TRON,manual-admin,wallbit-io,wallbit.io,wallbit,,manual,2026-09-13,true,e4c875da79c514cfac221bd0da82fc6c1e282fbecf35d9462694081b2ebcb402
 ChainPal,psp,70,0,60,10,,manual-admin,chainpal,chainpal.io,chainpal,,manual,2026-09-13,true,d48b454d3f47c75e4080976c3c8ba12a8e28e83bd553cf085baeb81e3097bf8f
 Cryptobuyer.io,psp,70,0,60,10,ETH|LTC,manual-admin,cryptobuyer-io,cryptobuyer.io,cryptobuyer,,manual,2026-09-13,true,f2d39a652d3ff6c435d53905091f6323371b618c8163f673d2045cf43e39c4b6
@@ -1811,7 +1811,7 @@ FCoin,exchange,60,1,100,90,BTC,manual-admin,fcoin,fcoin.com,fcoin,,none,2026-09-
 WEX,exchange,60,1,100,90,BTC,manual-admin,wex-nz,wex.nz,wex,,none,2026-09-21,true,
 HashOcean,mining,60,1,100,90,BTC,manual-admin,hashocean,hashocean.com,hashocean,,manual,2026-09-21,true,cc582a61064f824b0e307a0d073f8066233a7515545c20957503bdc572c1acc2
 Cryptonit.net,exchange,60,1,100,90,BTC,manual-admin,cryptonit-net,cryptonit.net,cryptonit.net,,manual,2026-09-21,true,e765aba7d08fa86a8c13d3f396db9190882615665bd2a19bc8d72876fb5ba7c7
-Coin.mx,exchange,60,1,100,90,BTC,manual-admin,coin-mx,coin.mx,coin.mx,,manual,2026-09-21,true,1ac754dd78a4a484a011452ea471fbd9e3f47f993a27d5d643ade037bbbfac52
+Coin.mx,exchange,60,1,100,90,BTC,manual-admin,coin-mx,coin.mx,coin.mx,,synthetic,2026-10-14,false,a5c8378f9cd5a6bd82788d38a50fad2adaefb6ad2cefe66783d785eb949c63b8
 Livecoin.net,exchange,60,1,100,90,BTC,manual-admin,livecoin-net,livecoin.net,livecoin.net,,none,2026-09-21,true,
 Mt. Gox,exchange,60,1,100,90,BTC,manual-admin,mtgox-com,mtgox.com,mt. gox,,none,2026-09-21,true,
 Bitcoinica,exchange,60,1,100,90,BTC,manual-admin,bitcoinica,bitcoinica.com,bitcoinica,,none,2026-09-21,true,
@@ -1824,7 +1824,7 @@ TradeOgre,exchange,60,1,100,90,POLYGON|ETH|BTC,manual-admin,tradeogre-com,tradeo
 Bitcoin.de (Bitcoin Group SE),exchange,60,1,100,90,BTC,manual-admin,bitcoin-de,bitcoin.de,"bitcoin.de,bitcoin group se",,manual,2026-09-21,true,2237fa1400256b69179a59cf70b3a8ba5ef83240561e0c23881666c7d4072b50
 Btc38,exchange,60,1,100,90,BTC,manual-admin,btc38-com,btc38.com,btc38,,manual,2026-09-21,true,a1a8b0d3c7da9ae6ebc927db134b9c063c4a3d3a4bb9bfc937369627669ff7e8
 Coinroll,gambling,60,1,100,90,BTC,manual-admin,coinroll-com,coinroll.com,coinroll,,none,2026-09-21,true,
-Gamba,gambling,60,1,100,90,SOL,manual-admin,gamba-io,gamba.io,gamba,,manual,2026-09-21,true,1ac754dd78a4a484a011452ea471fbd9e3f47f993a27d5d643ade037bbbfac52
+Gamba,gambling,60,1,100,90,SOL,manual-admin,gamba-io,gamba.io,gamba,,arkham,2026-10-14,false,2a0a2661ae80b9e8e34720eb4ba7460d595c5c41e7480e94ebd23e6af057d91c
 SX Network,gambling,60,1,100,90,ARBITRUM,manual-admin,sx-bet,sx.bet,sx network,,manual,2026-09-21,true,f26a9fac084b4c64bc9de6136e6b6d4cd80d3659f48516fec2105dc6e9be903a
 Braziliex,exchange,60,1,100,90,BTC,manual-admin,braziliex-com,braziliex.com,braziliex,,none,2026-09-21,true,
 Yeet.com,gambling,60,1,100,90,AVALANCHE,manual-admin,yeet-com,yeet.com,yeet.com,,manual,2026-09-21,true,b89f57389f844283bd512d4b555a05502d635a09e7473e4cadf577d352c8860a
@@ -2006,7 +2006,7 @@ Ezeebit,psp,50,0,75,5,ETH|BTC|TRON,manual-admin,ezeebit,ezeebit.com,"ezeebit,eze
 Fipto,psp,50,0,75,5,ETH|POLYGON,manual-admin,fipto,fipto.com,"fipto,fipto.com",,manual,2026-08-02,true,1292616ba3795f0cbd301fecb87af1be217075c723a37cc8debc8cb238a95a69
 Fizen,psp,50,0,75,5,ETH|BSC|TRON|SOL,manual-admin,fizen,fizen.io,"fizen,fizen.io",,manual,2026-08-02,true,8aaa584111a154945a5d227ab53debf2deb1229dbec7f4e7323918fd8defa796
 Flexa,psp,50,0,75,5,ETH,manual-admin,flexa,flexa.co,"flexa,flexa.co",,manual,2026-08-02,true,6ae857ae40101d4a10615a3ad9d4ee86d63264f30936b6af84e3751cb7acacf7
-Flipeet,psp,50,0,75,5,ETH|SOL,manual-admin,flipeet,flipeet.io,"flipeet,flipeet.io",,manual,2026-08-02,true,0831279062301bf3e16978af018480c8b837e552124732a6d048185ae1b5fd80
+Flipeet,psp,50,0,75,5,ETH|SOL,manual-admin,flipeet,flipeet.io,"flipeet,flipeet.io",,manual,2026-10-14,true,920eda5bc688657df54f452833ac25cf2b9f9116b422cc0288ea6eb54fac39db
 ForgingBlock,psp,50,0,75,5,BTC|ETH|BCH|LTC|TRON|XMR|XTZ,manual-admin,forgingblock,forgingblock.io,"forgingblock,forgingblock.io",,manual,2026-08-02,true,2513f3106d0e2f2ec88255f16e8ea2116507c24deb782f4e258a37ba20c0dc6c
 Foxbit,exchange,50,0,75,5,BTC|ETH,manual-admin,foxbit,foxbit.com.br,"foxbit,foxbit.com.br",,manual,2026-08-02,true,bdb9cc7e29396145544ad8b9344f68e3c4eecd5cbab2182142099b1ce759d632
 Fystack,psp,50,0,75,5,ETH|BTC|TRON|SOL,manual-admin,fystack,fystack.io,"fystack,fystack.io",,manual,2026-08-02,true,9db588f2ea2f1b7e15ab2364c2ba8312d342fb166b1830c8d2f0e228bd75dcec
