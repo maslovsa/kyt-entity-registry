@@ -29,12 +29,16 @@ def test_same_brand_same_image_share_grp_and_others_do_not():
     assert "synth" not in entries
 
 
-def test_lowtrust_categories_drop_generic_name_tokens_but_keep_the_brand():
-    """p2p/scam/darknet_market/staking_provider rows are '<word><word>.best' style names:
-    their name-split tokens ('best', 'coin', 'cool') must not become lookup keywords."""
-    low = build_lookup._keywords(_row("CoolCoin.best", "coolcoin-best", "coolcoin.best", "d" * 64, cat="p2p"))
-    assert "coolcoin" in low
-    assert not ({"best", "coin", "cool"} & set(low))
-    # a normal category keeps its split tokens (behaviour unchanged for 2800+ entities)
-    normal = build_lookup._keywords(_row("CoolCoin.best", "coolcoin-best", "coolcoin.best", "d" * 64, cat="exchange"))
-    assert {"cool", "coin", "best"} <= set(normal)
+def test_lowtrust_entries_list_generic_keywords_and_keep_all_tokens():
+    """Long-tail p2p/scam/... entries keep every name-split keyword (the brand's own label must
+    still match) and list the plain-word ones in "gen"; resolvers refuse a one-generic-word match."""
+    rows = [
+        _row("CoolCoin.best", "coolcoin-best", "coolcoin.best", "d" * 64, cat="p2p"),
+        _row("Forsage", "forsage", "forsage.io", "f" * 64, cat="scam"),
+        _row("CoolCoin Exchange", "coolcoin-ex", "coolcoin.ex", "e" * 64, cat="exchange"),
+    ]
+    entries = {e["slug"]: e for e in build_lookup.build(rows)["entries"]}
+    assert {"cool", "coin", "best"} <= set(entries["coolcoin-best"]["kw"])
+    assert {"best", "coin", "cool"} <= set(entries["coolcoin-best"]["gen"])
+    assert "gen" not in entries["forsage"]            # distinctive brand: nothing generic to guard
+    assert "gen" not in entries["coolcoin-ex"]        # normal categories unchanged

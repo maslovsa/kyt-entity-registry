@@ -37,6 +37,8 @@ interface Entry {
   kw: string[]
   imp: number
   real: boolean
+  /** generic keywords of a long-tail (p2p/scam/...) entry; a match on one of them alone is ignored */
+  gen?: string[]
 }
 interface Index {
   version: number
@@ -111,6 +113,8 @@ function resolve(
     let score = 0
     for (const k of e.kw) if (tokens.has(k)) score++
     if (score === 0) continue
+    // 'gen' = the entry's generic keywords: one generic-word-only match must not claim a label
+    if (score === 1 && e.gen && e.kw.every(k => !tokens.has(k) || e.gen!.includes(k))) continue
     const eff = score + (preferReal && e.real ? 0.5 : 0)
     if (eff > bestScore) {
       best = e

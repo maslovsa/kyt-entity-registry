@@ -147,18 +147,15 @@ def _keywords(row: Row) -> list[str]:
     if row.canonical_domain:
         consider(row.canonical_domain.split(".", 1)[0])
 
-    # Low-trust / long-tail categories were added to CATEGORY_TO_DIR on 2026-10-14
-    # (p2p, scam, darknet_market, staking_provider). Their rows are mostly
-    # "<word><word>.best/.pro/.cc" names, so the name-split tokens are plain English
-    # words ("best", "crypto", "coin", "pro", "any", "store") that would badge any label
-    # containing them with a scam/p2p entity's logo. Keep only the distinctive,
-    # brand-specific tokens for them (compact brand names like "coolcoin" survive).
-    if row.category_slug in _LOW_TRUST_CATEGORIES:
-        distinctive = {k for k in kws if k not in _GENERIC_TOKENS}
-        kws = distinctive or kws
     return sorted(kws)
 
 
+# Long-tail categories added to CATEGORY_TO_DIR on 2026-10-14. Their rows are mostly
+# "<word><word>.best/.pro/.cc" names, so some name-split keywords are plain words ("best",
+# "crypto", "coin", "pro"). Each such entry lists them in "gen"; resolvers (lookup.js, MCP py/ts,
+# aegis-platform lookup.ts) then refuse a match that rests on ONE generic keyword alone — the
+# brand's own label matches several tokens or a distinctive one ("forsage", "cryptohands").
+# Consumers that do not know "gen" keep the old any-token behaviour.
 _LOW_TRUST_CATEGORIES = frozenset({"p2p", "scam", "darknet_market", "staking_provider"})
 _GENERIC_TOKENS = frozenset({
     "best", "coin", "cool", "crypto", "cryptos", "local", "money", "mate", "key", "dot",
@@ -188,6 +185,10 @@ def build(rows: list[Row]) -> dict:
             "imp":  r.importance,
             "real": True,
         })
+        if r.category_slug in _LOW_TRUST_CATEGORIES:
+            gen = [k for k in entries[-1]["kw"] if k in _GENERIC_TOKENS]
+            if gen:
+                entries[-1]["gen"] = gen
     # Optional additive field "grp": entries that belong to ONE brand and
     # carry the very same image (same canonical-domain root + same logo_hash,
     # e.g. "Hatom Lending" / "Hatom Liquid Staking") share a key. The landing

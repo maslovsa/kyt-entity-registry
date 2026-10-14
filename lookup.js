@@ -140,6 +140,9 @@ export function makeResolver(index) {
       let score = 0;
       for (const k of e.kw) if (tokens.has(k)) score++;
       if (score === 0) continue;
+      // 'gen' lists an entry's generic keywords (long-tail p2p/scam/... entries): a match
+      // resting on ONE generic word alone must not claim a label.
+      if (score === 1 && e.gen && e.kw.every(k => !tokens.has(k) || e.gen.includes(k))) continue;
 
       // Entries are already sorted by (imp desc, name asc) in the
       // index, so the FIRST entry with a given score wins the

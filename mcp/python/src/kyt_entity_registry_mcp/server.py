@@ -156,6 +156,10 @@ def _resolve(index: Index, label: str, category: str | None,
         score = sum(1 for k in e["kw"] if k in tokens)
         if score == 0:
             continue
+        # "gen" = entry's generic keywords: one generic-word-only match must not claim a label
+        gen = e.get("gen")
+        if score == 1 and gen and all((k not in tokens) or (k in gen) for k in e["kw"]):
+            continue
         real_boost = 0.5 if prefer_real and e["real"] else 0.0
         eff = score + real_boost
         if eff > best_score:
