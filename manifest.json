@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-14T20:28:57+00:00",
+  "generated_at": "2026-10-14T20:33:15+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -31775,6 +31775,61 @@
       "keywords": [
         "avanchange",
         "avanchange.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mrmoney-cc",
+      "category": "p2p",
+      "logo_path": "logos/p2p/mrmoney-cc.png",
+      "keywords": [
+        "mrmoney",
+        "mrmoney.cc",
+        "mrmoney exchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coinfy-cc",
+      "category": "p2p",
+      "logo_path": "logos/p2p/coinfy-cc.png",
+      "keywords": [
+        "coinfy.cc"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "millpay-io",
+      "category": "psp",
+      "logo_path": "logos/psp/millpay-io.png",
+      "keywords": [
+        "millpay",
+        "millpay.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "electrocoin",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/electrocoin.png",
+      "keywords": [
+        "electrocoin",
+        "electrocoin ltd"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mountain-wolf",
+      "category": "psp",
+      "logo_path": "logos/psp/mountain-wolf.png",
+      "keywords": [
+        "mountain wolf",
+        "mountainwolf.com"
       ],
       "product_aliases": [],
       "sanctioned": false

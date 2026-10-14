@@ -3136,3 +3136,8 @@ EasySwap,p2p,100,1,75,5,TRON,manual-admin,easyswap-me,easyswap.me,"easyswap,easy
 Ecorpay,psp,100,1,72,5,TON,manual-admin,ecorpay,ecorpay.com,"ecorpay,ecorpay.com,ecrpay.com",,manual,2026-10-14,true,061c14c518258573b0db8edf80a9e1b6fd0038a690a0537b1e2cb4255e5daf06
 TOMOKO OTC,otc_desk,100,3,75,5,TRON,manual-admin,tomoko-otc,,"tomoko otc",,synthetic,2026-10-15,false,18ae289c13954386b5a05a0f57105118de79ef57aec4c145fca209b62cd934ce
 AvanChange,exchange,100,7,72,5,TON,ton-labels,avanchange-com,avanchange.com,"avanchange,avanchange.com",,manual,2026-10-14,true,ee3c4f4187a2da1173d405447e2d8157f47790e5a89c57571a85a17652b68dc2
+MrMoney,p2p,100,1,75,5,TRON,manual-admin,mrmoney-cc,mrmoney.cc,"mrmoney,mrmoney.cc,mrmoney exchange",,manual,2026-10-15,true,4774519dcb9e16a76ea5cbecea3c613c5a7212ac0990512061acea3754828d7c
+Coinfy,p2p,100,1,75,5,TRON,manual-admin,coinfy-cc,coinfy.cc,"coinfy.cc",,manual,2026-10-15,true,6cd0341d186f75bb0a562048869221d558a08e6aa5c94a6005cbaca1cfd209d9
+millpay,psp,100,1,75,5,TRON,manual-admin,millpay-io,millpay.io,"millpay,millpay.io",,synthetic,2026-10-15,false,2f47205ac9b09058f0794908d3380f3323dde4eb5849a564483e806fd385b9a4
+Electrocoin,exchange,100,1,75,5,TRON,manual-admin,electrocoin,,"electrocoin,electrocoin ltd",,synthetic,2026-10-15,false,cff0c0dc0564021ce8d0762bc58c1c3cb81f198828303fe609350f0ef25f7fd1
+Mountain Wolf,psp,100,1,75,5,TRON,manual-admin,mountain-wolf,mountainwolf.com,"mountain wolf,mountainwolf.com",,manual,2026-10-15,true,f563b9e9b70bffbc9777be578e5f24c062014ee6fe8211660db1adb497fb5112
