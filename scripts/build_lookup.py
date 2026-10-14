@@ -147,7 +147,24 @@ def _keywords(row: Row) -> list[str]:
     if row.canonical_domain:
         consider(row.canonical_domain.split(".", 1)[0])
 
+    # Low-trust / long-tail categories were added to CATEGORY_TO_DIR on 2026-10-14
+    # (p2p, scam, darknet_market, staking_provider). Their rows are mostly
+    # "<word><word>.best/.pro/.cc" names, so the name-split tokens are plain English
+    # words ("best", "crypto", "coin", "pro", "any", "store") that would badge any label
+    # containing them with a scam/p2p entity's logo. Keep only the distinctive,
+    # brand-specific tokens for them (compact brand names like "coolcoin" survive).
+    if row.category_slug in _LOW_TRUST_CATEGORIES:
+        distinctive = {k for k in kws if k not in _GENERIC_TOKENS}
+        kws = distinctive or kws
     return sorted(kws)
+
+
+_LOW_TRUST_CATEGORIES = frozenset({"p2p", "scam", "darknet_market", "staking_provider"})
+_GENERIC_TOKENS = frozenset({
+    "best", "coin", "cool", "crypto", "cryptos", "local", "money", "mate", "key", "dot",
+    "store", "hands", "smart", "blockchain", "pro", "any", "change", "satoshi", "refills",
+    "market", "shop", "pay", "swap", "cash", "fast", "easy", "top", "one", "net",
+})
 
 
 def build(rows: list[Row]) -> dict:
