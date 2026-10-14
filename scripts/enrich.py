@@ -195,7 +195,8 @@ def _try_manual(row: Row) -> bytes | None:
 # "logo" on KaoyaSwap / Moola Market / Sigma Money (2026-10-14) and, being
 # status=arkham, it would be re-fetched every night. Treat as a miss.
 _NOT_A_LOGO_HASHES = frozenset({
-    "643bc26618878f5d6b3280221901558cf23e5ca7b230820bb2457643615f8900",  # Arkham default-avatar silhouette
+    "643bc26618878f5d6b3280221901558cf23e5ca7b230820bb2457643615f8900",  # Arkham default-avatar silhouette (dark grey)
+    "ee19beea44730797c78d2ec60d7e9bf610d519f0b314e38db98f709f6dbc3ab0",  # same avatar, light-blue variant (re-served for sigma-money/moola-market/kaoyaswap 2026-10-14)
 })
 
 
