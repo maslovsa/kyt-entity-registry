@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-14T13:20:48+00:00",
+  "generated_at": "2026-10-14T13:31:53+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -449,16 +449,6 @@
       "sanctioned": false
     },
     {
-      "slug": "aevo",
-      "category": "defi",
-      "logo_path": "logos/defi/aevo.png",
-      "keywords": [
-        "aevo"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "alphafi",
       "category": "defi",
       "logo_path": "logos/defi/alphafi.png",
@@ -716,7 +706,10 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/btcturk-com.png",
       "keywords": [
-        "btcturk"
+        "btcturk",
+        "token teknoloji",
+        "token teknoloji a.s.",
+        "eurot"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -899,7 +892,8 @@
       "category": "defi",
       "logo_path": "logos/defi/dforce.png",
       "keywords": [
-        "dforce"
+        "dforce",
+        "dforce.network"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -1346,7 +1340,8 @@
       "logo_path": "logos/exchanges/lemon-me.png",
       "keywords": [
         "lemon.me",
-        "lemon"
+        "lemon",
+        "lemon cash"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -2503,7 +2498,9 @@
       "keywords": [
         "bitbase",
         "bitbase.com.es",
-        "bitbase exchange"
+        "bitbase exchange",
+        "bitbase es",
+        "bitbase.es"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -3058,7 +3055,9 @@
       "keywords": [
         "farhad-exchange-net",
         "farhad exchange",
-        "efex.pro"
+        "efex.pro",
+        "efex",
+        "farhad-exchange.com"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -3217,18 +3216,6 @@
       "keywords": [
         "eToro",
         "etoro.com"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "btc-markets-net",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/btc-markets-net.png",
-      "keywords": [
-        "btc markets",
-        "btcmarkets",
-        "btcmarkets.net"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -4821,7 +4808,8 @@
       "keywords": [
         "jpy coin",
         "jpyc",
-        "jpyc inc"
+        "jpyc inc",
+        "jpyc.co.jp"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -7309,7 +7297,10 @@
       "logo_path": "logos/otc_desk/bitcoin-suisse-com.png",
       "keywords": [
         "bitcoin suisse",
-        "bitcoinsuisse"
+        "bitcoinsuisse",
+        "bitcoinsuisse.com",
+        "bitcoinsuisse com",
+        "bitcoinsuisse-com"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -7810,17 +7801,6 @@
       "keywords": [
         "chainflip amm",
         "chainflip-amm"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "chainge",
-      "category": "dex",
-      "logo_path": "logos/dex/chainge.png",
-      "keywords": [
-        "chainge",
-        "chainge-finance"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -9327,16 +9307,6 @@
       "logo_path": "logos/bridge/pnetwork.png",
       "keywords": [
         "pnetwork"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "poly",
-      "category": "bridge",
-      "logo_path": "logos/bridge/poly.png",
-      "keywords": [
-        "poly"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -11246,19 +11216,6 @@
       "sanctioned": false
     },
     {
-      "slug": "token-teknoloji",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/token-teknoloji.png",
-      "keywords": [
-        "token teknoloji",
-        "token teknoloji a.s.",
-        "btcturk",
-        "eurot"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "abracadabra",
       "category": "defi",
       "logo_path": "logos/defi/abracadabra.png",
@@ -11298,17 +11255,6 @@
       "keywords": [
         "coinmania",
         "coinmania.exchange"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "jpyc",
-      "category": "stablecoin_issuer",
-      "logo_path": "logos/stablecoin_issuer/jpyc.png",
-      "keywords": [
-        "jpyc",
-        "jpyc.co.jp"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -19079,16 +19025,6 @@
       "sanctioned": false
     },
     {
-      "slug": "csgo-empire",
-      "category": "gambling",
-      "logo_path": "logos/gambling/csgo-empire.png",
-      "keywords": [
-        "csgo empire"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "tradeogre-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/tradeogre-com.png",
@@ -19759,18 +19695,6 @@
       "logo_path": "logos/custodian/klever.png",
       "keywords": [
         "klever"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "lemon-cash",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/lemon-cash.png",
-      "keywords": [
-        "lemon cash",
-        "lemon.me",
-        "argentina"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -22774,18 +22698,6 @@
       "sanctioned": false
     },
     {
-      "slug": "pintu-co-id",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/pintu-co-id.png",
-      "keywords": [
-        "pintu",
-        "pintu co id",
-        "pintu.co.id"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "themis",
       "category": "defi",
       "logo_path": "logos/defi/themis.png",
@@ -22827,17 +22739,6 @@
       ],
       "product_aliases": [],
       "sanctioned": true
-    },
-    {
-      "slug": "coins-ph",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/coins-ph.png",
-      "keywords": [
-        "coins.ph",
-        "coins philippines"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
     },
     {
       "slug": "ccpayment-com",
@@ -22915,7 +22816,9 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/pintu-id.png",
       "keywords": [
-        "pintu"
+        "pintu",
+        "pintu co id",
+        "pintu.co.id"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -22935,7 +22838,9 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/korbit-kr.png",
       "keywords": [
-        "korbit"
+        "korbit",
+        "korbit co kr",
+        "korbit.co.kr"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -23029,17 +22934,6 @@
       "keywords": [
         "math wallet",
         "mathwallet"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "mercado-bitcoin",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/mercado-bitcoin.png",
-      "keywords": [
-        "mercado bitcoin",
-        "mercadobitcoin"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -23367,7 +23261,8 @@
       "logo_path": "logos/defi/cork-protocol.png",
       "keywords": [
         "cork protocol",
-        "cork-protocol"
+        "cork-protocol",
+        "corkprotocol"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -24044,17 +23939,6 @@
       "sanctioned": false
     },
     {
-      "slug": "multichain-anyswap",
-      "category": "bridge",
-      "logo_path": "logos/bridge/multichain-anyswap.png",
-      "keywords": [
-        "multichain",
-        "multichain-anyswap"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "orbiter-finance",
       "category": "bridge",
       "logo_path": "logos/bridge/orbiter-finance.png",
@@ -24314,7 +24198,9 @@
       "keywords": [
         "mercadobitcoin.com.br",
         "mercadobitcoin com br",
-        "mercadobitcoin-com-br"
+        "mercadobitcoin-com-br",
+        "mercado bitcoin",
+        "mercadobitcoin"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -24391,17 +24277,6 @@
         "biconomy",
         "biconomy.com",
         "biconomy.io"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "biswap-org",
-      "category": "dex",
-      "logo_path": "logos/dex/biswap-org.png",
-      "keywords": [
-        "biswap.org",
-        "biswap"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -24975,7 +24850,8 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/coins-philippines.png",
       "keywords": [
-        "coins philippines"
+        "coins philippines",
+        "coins.ph"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -25680,16 +25556,6 @@
       "sanctioned": false
     },
     {
-      "slug": "barnbridge-dao",
-      "category": "dex",
-      "logo_path": "logos/dex/barnbridge-dao.png",
-      "keywords": [
-        "barnbridge"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "bitoasis-net",
       "category": "exchange",
       "logo_path": "logos/exchanges/bitoasis-net.png",
@@ -25720,7 +25586,8 @@
         "btcmarkets.net",
         "btcmarkets net",
         "btcmarkets-net",
-        "btcmarkets"
+        "btcmarkets",
+        "btc markets"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -25946,7 +25813,8 @@
       "category": "defi",
       "logo_path": "logos/defi/multichain.png",
       "keywords": [
-        "multichain"
+        "multichain",
+        "multichain-anyswap"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -26384,17 +26252,6 @@
       "sanctioned": false
     },
     {
-      "slug": "gamma-xyz",
-      "category": "dex",
-      "logo_path": "logos/dex/gamma-xyz.png",
-      "keywords": [
-        "gamma.xyz",
-        "gamma"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "gitcoin",
       "category": "dex",
       "logo_path": "logos/dex/gitcoin.png",
@@ -26485,18 +26342,6 @@
       "logo_path": "logos/dex/kinza-finance.png",
       "keywords": [
         "kinza"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "korbit-co-kr",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/korbit-co-kr.png",
-      "keywords": [
-        "korbit",
-        "korbit co kr",
-        "korbit.co.kr"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -26695,7 +26540,8 @@
       "category": "bridge",
       "logo_path": "logos/bridge/polynetwork.png",
       "keywords": [
-        "polynetwork"
+        "polynetwork",
+        "poly"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -26785,7 +26631,8 @@
       "logo_path": "logos/defi/syrup-fi.png",
       "keywords": [
         "syrup.fi",
-        "syrup"
+        "syrup",
+        "syrup-finance"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -27134,31 +26981,6 @@
       "keywords": [
         "bit2me",
         "bit2me.com"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "bitbase-es",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/bitbase-es.png",
-      "keywords": [
-        "bitbase",
-        "bitbase es",
-        "bitbase.es"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "bitcoinsuisse-com",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/bitcoinsuisse-com.png",
-      "keywords": [
-        "bitcoinsuisse.com",
-        "bitcoinsuisse com",
-        "bitcoinsuisse-com",
-        "bitcoinsuisse"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -27519,17 +27341,6 @@
       "logo_path": "logos/dex/crowdswap.png",
       "keywords": [
         "crowdswap"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "dforce-network",
-      "category": "dex",
-      "logo_path": "logos/dex/dforce-network.png",
-      "keywords": [
-        "dforce.network",
-        "dforce"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -28258,17 +28069,6 @@
       "sanctioned": false
     },
     {
-      "slug": "syrup",
-      "category": "defi",
-      "logo_path": "logos/defi/syrup.png",
-      "keywords": [
-        "syrup",
-        "syrup-finance"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "ultrayield",
       "category": "defi",
       "logo_path": "logos/defi/ultrayield.png",
@@ -28505,7 +28305,9 @@
       "category": "defi",
       "logo_path": "logos/defi/chaingefinance.png",
       "keywords": [
-        "chaingefinance"
+        "chaingefinance",
+        "chainge",
+        "chainge-finance"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -28560,16 +28362,6 @@
       "logo_path": "logos/defi/pancakebunny.png",
       "keywords": [
         "pancakebunny"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "cointr-pro",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/cointr-pro.png",
-      "keywords": [
-        "cointr"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -29149,16 +28941,6 @@
       "sanctioned": false
     },
     {
-      "slug": "corkprotocol",
-      "category": "defi",
-      "logo_path": "logos/defi/corkprotocol.png",
-      "keywords": [
-        "corkprotocol"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "hotcoin-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/hotcoin-com.png",
@@ -29709,7 +29491,8 @@
       "category": "defi",
       "logo_path": "logos/defi/biswap.png",
       "keywords": [
-        "biswap"
+        "biswap",
+        "biswap.org"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -30170,7 +29953,8 @@
       "category": "defi",
       "logo_path": "logos/defi/gamma.png",
       "keywords": [
-        "gamma"
+        "gamma",
+        "gamma.xyz"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -30182,18 +29966,6 @@
       "keywords": [
         "weex-cex",
         "weex cex"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "farhad-exchange-com-efex-pro",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/farhad-exchange-com-efex-pro.png",
-      "keywords": [
-        "farhad exchange",
-        "efex",
-        "farhad-exchange.com"
       ],
       "product_aliases": [],
       "sanctioned": false
