@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-14T19:39:23+00:00",
+  "generated_at": "2026-10-14T19:42:40+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -31742,6 +31742,18 @@
         "easyswap",
         "easyswap.me",
         "easyswap.biz"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ecorpay",
+      "category": "psp",
+      "logo_path": "logos/psp/ecorpay.png",
+      "keywords": [
+        "ecorpay",
+        "ecorpay.com",
+        "ecrpay.com"
       ],
       "product_aliases": [],
       "sanctioned": false
