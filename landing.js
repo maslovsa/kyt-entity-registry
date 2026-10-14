@@ -171,6 +171,12 @@ function renderQuilt() {
   root.innerHTML = '';
   const frag = document.createDocumentFragment();
   const idx = state.index;
+  // Same-brand + same-image siblings (entry.grp, see scripts/build_lookup.py)
+  // collapse to ONE tile with a "+N" badge; the rest stay in the DOM so
+  // search / category filters still find them (CSS un-hides them then).
+  const grpSize = {};
+  for (const e of idx.entries) if (e.grp) grpSize[e.grp] = (grpSize[e.grp] || 0) + 1;
+  const grpSeen = new Set();
   for (const e of idx.entries) {
     const tile = document.createElement('a');
     tile.className = 'tile';
@@ -190,6 +196,22 @@ function renderQuilt() {
     img.alt = e.name;
     img.src = tile.href;
     tile.appendChild(img);
+    if (e.grp) {
+      tile.dataset.grp = e.grp;
+      if (grpSeen.has(e.grp)) {
+        tile.classList.add('tile-sib');
+      } else {
+        grpSeen.add(e.grp);
+        const n = grpSize[e.grp] - 1;
+        tile.dataset.gn = String(n);
+        const badge = document.createElement('span');
+        badge.className = 'tile-grp';
+        badge.textContent = `+${n}`;
+        badge.setAttribute('aria-hidden', 'true');
+        tile.appendChild(badge);
+        tile.title = `${e.name} (+${n} more with the same logo — search to see them)`;
+      }
+    }
     frag.appendChild(tile);
   }
   root.appendChild(frag);

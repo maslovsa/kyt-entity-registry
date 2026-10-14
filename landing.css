@@ -442,6 +442,26 @@ section.band {
 .tile.tile-hidden {
   display: none;
 }
+/* Same-brand siblings with an identical logo collapse into one tile with a
+ * "+N" badge. While a search / category filter is active they are shown
+ * again (and the filter's own .tile-hidden decides which ones). */
+.tile.tile-sib { display: none; }
+#quilt[data-filter-active] .tile.tile-sib { display: block; }
+/* ...but a sibling the filter rejects must stay hidden (the rule above has
+ * higher specificity than .tile.tile-hidden, so restate it explicitly). */
+#quilt[data-filter-active] .tile.tile-sib.tile-hidden { display: none; }
+#quilt[data-filter-active] .tile-grp { display: none; }
+.tile-grp {
+  position: absolute;
+  right: 1px;
+  bottom: 1px;
+  padding: 0 3px;
+  font: 600 9px/14px var(--font-mono, ui-monospace, monospace);
+  color: #fff;
+  background: var(--brand);
+  border-radius: 6px;
+  pointer-events: none;
+}
 /* Tile stagger-in after filter/search recalculation. */
 @keyframes tileIn {
   from { opacity: 0; transform: scale(0.82); }
