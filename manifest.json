@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-14T17:43:12+00:00",
+  "generated_at": "2026-10-14T19:19:02+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -31717,6 +31717,19 @@
       "keywords": [
         "exbase io",
         "exbase.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "webmoney",
+      "category": "psp",
+      "logo_path": "logos/psp/webmoney.png",
+      "keywords": [
+        "webmoney",
+        "webmoney.ru",
+        "wmtransfer.com",
+        "wm transfer"
       ],
       "product_aliases": [],
       "sanctioned": false
