@@ -75,6 +75,16 @@ CATEGORY_TO_DIR: dict[str, str] = {
     "ngo": "ngo",
     "otc_desk": "otc_desk",
     "bank": "bank",
+    # Added 2026-10-14: these four had logos/<dir>/ directories and CSV rows (30
+    # entities) but were absent from the map, so they were silently missing from
+    # logos/_lookup.json and generate_initials_logos rejected them
+    # ("no dir mapping"). Consumers read category_to_dir from _lookup.json, so
+    # this is additive for them; hard-coded copies (docs/CONSUMERS.md snippets,
+    # aegis-platform apps/ui/src/lib/entities/logo-url.ts) must add the same keys.
+    "p2p": "p2p",
+    "scam": "scam",
+    "darknet_market": "darknet_market",
+    "staking_provider": "staking_provider",
 }
 
 _STRIP_SUFFIXES = [

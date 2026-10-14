@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-14T14:53:55+00:00",
+  "generated_at": "2026-10-14T15:00:19+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -6142,6 +6142,17 @@
       "sanctioned": false
     },
     {
+      "slug": "crimenetwork",
+      "category": "darknet_market",
+      "logo_path": "logos/darknet_market/crimenetwork.png",
+      "keywords": [
+        "crimenetwork",
+        "crimenetwork.co"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "yabtcl-com",
       "category": "gambling",
       "logo_path": "logos/gambling/yabtcl-com.png",
@@ -6199,12 +6210,56 @@
       "sanctioned": false
     },
     {
+      "slug": "mmm3eth-io",
+      "category": "scam",
+      "logo_path": "logos/scam/mmm3eth-io.png",
+      "keywords": [
+        "mmm3eth-io",
+        "mmm3eth.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bestmultiplier-biz",
+      "category": "scam",
+      "logo_path": "logos/scam/bestmultiplier-biz.png",
+      "keywords": [
+        "bestmultiplier-biz",
+        "bestmultiplier.biz"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "max150-com",
+      "category": "scam",
+      "logo_path": "logos/scam/max150-com.png",
+      "keywords": [
+        "max150-com",
+        "max150.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "smart-blockchain-pro",
       "category": "scam",
       "logo_path": "logos/scam/smart-blockchain-pro.png",
       "keywords": [
         "smart-blockchain-pro",
         "smart-blockchain.pro"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ethermagic-net",
+      "category": "scam",
+      "logo_path": "logos/scam/ethermagic-net.png",
+      "keywords": [
+        "ethermagic-net",
+        "ethermagic.net"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -8285,6 +8340,17 @@
       ],
       "product_aliases": [],
       "sanctioned": true
+    },
+    {
+      "slug": "abacus-market",
+      "category": "darknet_market",
+      "logo_path": "logos/darknet_market/abacus-market.png",
+      "keywords": [
+        "abacus market",
+        "abacus darknet market"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
     },
     {
       "slug": "blacksprut",

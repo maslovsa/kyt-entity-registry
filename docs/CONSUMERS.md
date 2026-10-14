@@ -65,6 +65,13 @@ const CATEGORY_TO_DIR: Record<string, string> = {
   sanctioned:       'sanctioned',
   custodian:        'custodian',
   stablecoin_issuer: 'stablecoin_issuer',
+  ngo:              'ngo',
+  otc_desk:         'otc_desk',
+  bank:             'bank',
+  p2p:              'p2p',
+  scam:             'scam',
+  darknet_market:   'darknet_market',
+  staking_provider: 'staking_provider',
 }
 
 const SUFFIX_STRIP = [
@@ -193,6 +200,13 @@ _CATEGORY_TO_DIR = {
     "sanctioned":      "sanctioned",
     "custodian":       "custodian",
     "stablecoin_issuer": "stablecoin_issuer",
+    "ngo":             "ngo",
+    "otc_desk":        "otc_desk",
+    "bank":            "bank",
+    "p2p":             "p2p",
+    "scam":            "scam",
+    "darknet_market":  "darknet_market",
+    "staking_provider": "staking_provider",
 }
 
 _STRIP_SUFFIXES = [

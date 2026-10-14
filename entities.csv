@@ -574,18 +574,18 @@ Huixingpool.com,mining,100,1,75,10,ETH,manual-admin,huixingpool-com,huixingpool.
 ICanMining.ru,mining,100,1,75,10,ETH,manual-admin,icanmining-ru,icanmining.ru,"icanmining-ru,icanmining.ru",,favicon,2026-10-08,false,1075bf9c80be5305d30aa00e132167f28285bffc2bdec8a2ea83d28045e45d33
 myminers.org,mining,100,1,75,10,ETH,manual-admin,myminers-org,myminers.org,"myminers-org,myminers.org",,synthetic,2026-10-14,false,22b4bb32b84dc17622bec0bcb4a2b2ec4ff60f5a72d463570015127032d339a8
 SoloPool.org,mining,100,1,75,10,ETH,manual-admin,solopool-org,solopool.org,"solopool-org,solopool.org",,favicon,2026-10-08,false,0ada7caf34d615436211f2269b8c39fa8d861442405435ef06432895c78b0286
-Crimenetwork,darknet_market,100,1,75,75,BTC,manual-admin,crimenetwork,crimenetwork.co,"crimenetwork,crimenetwork.co",,none,2026-10-07,false,
+Crimenetwork,darknet_market,100,1,75,75,BTC,manual-admin,crimenetwork,crimenetwork.co,"crimenetwork,crimenetwork.co",,synthetic,2026-10-14,false,02f0e2de69a232aa39ac39e9f156a81b464d257d669d9eb7e1ec1d91a20cca68
 YABTCL.com,gambling,100,1,75,30,BTC,manual-admin,yabtcl-com,yabtcl.com,"yabtcl,yabtcl.com",,synthetic,2026-10-14,false,2deae53f22584d05abec28f546f0d3c268b1dfdab0c4c7c76ca520570f252718
 Eth2x.com,gambling,100,1,75,30,ETH,manual-admin,eth2x-com,eth2x.com,"eth2x,eth2x.com",,synthetic,2026-10-14,false,0bd7056439c9aa8d0cbd0d18cc9b12ca20167f2cc6d10cda8fe46a71efeadf7c
 FindTheRabbit.me,gambling,100,1,75,30,ETH,manual-admin,findtherabbit-me,findtherabbit.me,"findtherabbit,findtherabbit.me",,synthetic,2026-10-14,false,d04cb41d992198ecd6415efaf9024d97bc74902f669cccdba196cd7560cb7907
 Forsage,scam,100,2,75,90,ETH|BSC,manual-admin,forsage-io,forsage.io,"forsage,forsage-io,forsage.io",,arkham,2026-10-08,false,22421fd2f22f80bc13434388c6ca9a5a7a2864aa29bb7b220b7d29ea49c5822e
 Doubleway.io / CryptoHands,scam,100,1,75,75,ETH,manual-admin,doubleway-cryptohands,doubleway.io,"doubleway-cryptohands,doubleway.io,doubleway.io / cryptohands",,arkham,2026-10-08,false,fa3bfda836d80caf169b8b47bcc9aaf6b5c4a0af9ca8ba078550f93024be4da0
-mmm3eth.io,scam,100,1,75,75,ETH,manual-admin,mmm3eth-io,mmm3eth.io,"mmm3eth-io,mmm3eth.io",,none,2026-10-07,false,
-bestmultiplier.biz,scam,100,1,75,75,ETH,manual-admin,bestmultiplier-biz,bestmultiplier.biz,"bestmultiplier-biz,bestmultiplier.biz",,none,2026-10-07,false,
+mmm3eth.io,scam,100,1,75,75,ETH,manual-admin,mmm3eth-io,mmm3eth.io,"mmm3eth-io,mmm3eth.io",,synthetic,2026-10-14,false,f30c98f3a7f87cff6523f5b69450a637a6a79cac68ae841f1ae9523ff94f2710
+bestmultiplier.biz,scam,100,1,75,75,ETH,manual-admin,bestmultiplier-biz,bestmultiplier.biz,"bestmultiplier-biz,bestmultiplier.biz",,synthetic,2026-10-14,false,8350027d3a64df11501d9e4a3ef3994489c0c12cac7455ad8b33cd22e6210585
 Gradual.pro,scam,100,1,75,75,ETH,manual-admin,gradual-pro,gradual.pro,"gradual-pro,gradual.pro",,favicon,2026-10-08,false,54551e1c64a34313c32f7582cb2f226dc51cad6b17e3cfb82b66846183936dd0
-Max150.com,scam,100,1,75,75,ETH,manual-admin,max150-com,max150.com,"max150-com,max150.com",,none,2026-10-07,false,
+Max150.com,scam,100,1,75,75,ETH,manual-admin,max150-com,max150.com,"max150-com,max150.com",,synthetic,2026-10-14,false,d5fc04a43783ab40f2332b9a391cb75388fcdb1eac8a6bb72bb1f262f832d1d2
 Smart-blockchain.pro,scam,100,1,75,75,ETH,manual-admin,smart-blockchain-pro,smart-blockchain.pro,"smart-blockchain-pro,smart-blockchain.pro",,arkham,2026-10-08,false,93e2fbe7719093bf49566d50b9e6754990b3da69adaf7a4112e3ca49a7e72540
-Ethermagic.net,scam,100,1,75,75,ETH,manual-admin,ethermagic-net,ethermagic.net,"ethermagic-net,ethermagic.net",,none,2026-10-07,false,
+Ethermagic.net,scam,100,1,75,75,ETH,manual-admin,ethermagic-net,ethermagic.net,"ethermagic-net,ethermagic.net",,synthetic,2026-10-14,false,20deba08d5c9c85a5620e5d92be1624c02ded48a920fbf2f97e84ce107d6f2d2
 BTC-e,exchange,100,2,75,55,BTC,manual-admin,btc-e,btc-e.com,"btc-e,btc-e.com",,arkham,2026-10-08,false,d341fd7a39a4bc219664be4d8ed913ef3682709ffd54cc86894322578fde5db5
 BW.com,exchange,100,1,75,30,ETH,manual-admin,bw-com,bw.com,"bw-com,bw.com",,arkham,2026-10-08,false,c0faa9dcd388e5e9e2110170de967925ec9a96ecc1d4b2ab15b470ea5f7fe2e2
 Flexpool.io,mining,100,1,75,10,ETH,manual-admin,flexpool-io,flexpool.io,"flexpool-io,flexpool.io",,arkham,2026-10-08,false,ab9b89d412286e393d3d49ebdfa1a4f77785e223f715333a03dc8c16b0cc621b
@@ -785,7 +785,7 @@ ABCex,exchange,85,7,85,100,BTC|ETH|TRON,manual-admin|uk-ofsi-sanctions,abcex-io,
 @HWZF,exchange,85,0,70,85,TRON,manual-admin,hwzf,,hwzf,,synthetic,2026-08-17,false,d58a37dc5a591bb8e673b7bc51024b5ebe81ad3552a1c09fff2ad6dfcf0254f1
 Securitize,defi,85,0,0,10,ETH|SOL|AVALANCHE|POLYGON|ARBITRUM|OPTIMISM|BASE,pharos-stablecoins,securitize,securitize.io,"securitize inc,securitize holdings",,manual,2026-07-22,true,c765fad456659bf73bdd6301ce505b9eddf6462c46cd633a5091e36c34da92f9
 Fulilai Guarantee,sanctioned,85,,90,95,,manual-admin,fulilai-guarantee,,"fulilai guarantee,fulilai,fulilai wallet",,synthetic,2026-10-14,false,7ae78f883c907ef4a25572b8e74e47d346491e8adf38375121d78b9f9d1c85a8
-Abacus Market,darknet_market,85,,90,95,,manual-admin,abacus-market,,"abacus market,abacus darknet market",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Abacus Market,darknet_market,85,,90,95,,manual-admin,abacus-market,,"abacus market,abacus darknet market",,synthetic,2026-10-14,false,1b9066133a919ee64900c8959cd7e3f491d7611ec72c7e88acb98c7a4b409606
 BlackSprut,sanctioned,85,,90,95,,manual-admin,blacksprut,,"blacksprut,black sprut",,synthetic,2026-10-14,false,81b9bd93217297801d6aa060eb716f6a4169e899d187b1eca2faeb7b5e213145
 OMGOMG,sanctioned,85,,90,95,,manual-admin,omgomg,,"omgomg,omg omg market,hydra successor market",,synthetic,2026-10-14,false,35a3a35ef0606d0301bb8b221020e17d96282c184a4f6e0cb2a7c35a905c079e
 Kraken Darknet Market,darknet_market,85,,90,95,,manual-admin,kraken-darknet-market,,"kraken darknet market,kraken market darknet",,none,2026-09-27,true,
