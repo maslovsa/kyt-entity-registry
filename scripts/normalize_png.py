@@ -92,7 +92,10 @@ def _encode(img: Image.Image) -> bytes:
 
     # Quantize preserving alpha (PIL keeps transparency in P mode when
     # the source is RGBA).
-    q = img.quantize(colors=256, method=Image.Quantize.FASTOCTREE)
+    # Convert back to RGBA before saving: a palette ("P") PNG breaks the C3
+    # shape (160x160 RGBA) for consumers that assume 4 channels, and the
+    # 256-colour RGBA still deflates ~40% smaller than the original.
+    q = img.quantize(colors=256, method=Image.Quantize.FASTOCTREE).convert("RGBA")
     buf = io.BytesIO()
     q.save(buf, format="PNG", optimize=True)
     return buf.getvalue()
