@@ -3135,3 +3135,4 @@ WebMoney,psp,100,2,70,5,TON,manual-admin,webmoney,webmoney.ru,"webmoney,webmoney
 EasySwap,p2p,100,1,75,5,TRON,manual-admin,easyswap-me,easyswap.me,"easyswap,easyswap.me,easyswap.biz",,manual,2026-10-14,true,ad2a162d4516f6f8ac3d0599775163c0b47a39919d18d0cef7592c3959e93ed1
 Ecorpay,psp,100,1,72,5,TON,manual-admin,ecorpay,ecorpay.com,"ecorpay,ecorpay.com,ecrpay.com",,manual,2026-10-14,true,061c14c518258573b0db8edf80a9e1b6fd0038a690a0537b1e2cb4255e5daf06
 TOMOKO OTC,otc_desk,100,3,75,5,TRON,manual-admin,tomoko-otc,,"tomoko otc",,synthetic,2026-10-15,false,18ae289c13954386b5a05a0f57105118de79ef57aec4c145fca209b62cd934ce
+AvanChange,exchange,100,7,72,5,TON,ton-labels,avanchange-com,avanchange.com,"avanchange,avanchange.com",,manual,2026-10-14,true,ee3c4f4187a2da1173d405447e2d8157f47790e5a89c57571a85a17652b68dc2

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-14T20:26:58+00:00",
+  "generated_at": "2026-10-14T20:28:57+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -31764,6 +31764,17 @@
       "logo_path": "logos/otc_desk/tomoko-otc.png",
       "keywords": [
         "tomoko otc"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "avanchange-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/avanchange-com.png",
+      "keywords": [
+        "avanchange",
+        "avanchange.com"
       ],
       "product_aliases": [],
       "sanctioned": false
