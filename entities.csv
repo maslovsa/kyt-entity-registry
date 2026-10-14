@@ -1,6 +1,5 @@
 entity_name,category_slug,importance,claim_count,max_trust,severity,networks,sources,arkham_slug,canonical_domain,keywords,product_aliases,logo_status,logo_updated_at,manual_lock,logo_hash
 CatFee,defi,500,9,70,10,TRON,defillama-adapters,catfee,catfee.io,"catfee,catfee.io",,manual,2026-05-25,true,7e48148a95fb7a032d21ba0568c649627042ca3cef0cd6c5f4993f58097f3fd3
-Circle,psp,500,3,85,5,ETH|BSC|POLYGON|BASE,scorechain-counterparties|brianleect-labels|dawsbot-eth-labels,circle,circle.com,"circle,circle.com","circle usyc,circle-usyc,circle usdc",arkham,2026-07-09,true,0fe307b5da0f6d6f088c9bb52366b889c54a84747a9d98679f1b4e52fe190811
 EnergyTRX,defi,500,0,80,10,TRON,manual-admin,energytrx,energy-trx.com,"energytrx,energy-trx,energy-trx.com",,manual,2026-05-25,true,415c198da409692a11777058d4ec645fb9d2f21476ded4623641af8c762e077c
 FeeSaver,defi,500,3,90,10,TRON,"scorechain-counterparties,tronscan-tags,tron-super-reps",feesaver,feesaver.com,"feesaver,fee saver",,manual,2026-05-25,true,b9f33e5d6bc02f7a662a97d57e634a01a1858393fc6aa19270624456afb699d5
 iTRX.io,defi,500,0,80,10,TRON,manual-admin,itrx-io,itrx.io,"itrx.io,itrx-io",,manual,2026-05-25,true,d62988bb46b0361409f4afdcb9763217fdff7c6e4f449e6c2e23795b23a58ae8
@@ -183,8 +182,7 @@ Poloniex.com,exchange,100,206,75,5,BSC|ETH|TRON,scorechain-counterparties,poloni
 PrismaFi - REKT,defi,100,32,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,prismafi-rekt,,"prismafi - rekt,prismafi rekt,prismafi-rekt",,manual,2026-05-03,true,35a48c21ee5d71b9caddeda0bb0533912a99d771351f3785718eff33a797a154
 qidao,defi,100,151,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,defillama-adapters|ethereum-lists-contracts|vasp-entity-defaults,qidao,,qidao,,defillama,2026-05-11,false,8b77598f605761569a757603fe43b36924502725cbfe03c9816070396a882d6d
 RabbyWallet SwapRouter,defi,100,256,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,rabbywallet-swaprouter,,,,synthetic,2026-08-17,false,22cfa24d4e67d91bd80ba43458b663f79ece8ee0fd61decef9d0797fa5be2bd9
-rapira,sanctioned,100,158,88,95,ETH|TRON,misttrack-verdicts,rapira,,rapira,,arkham,2026-06-19,false,27b6f53ce7f3b4642e75793b3f84728153dc49230a477f22bd4285d90a1ff524
-Rapira.net,exchange,100,241,75,5,BSC|ETH|TRON,scorechain-counterparties,rapira-net,rapira.net,"rapira.net,rapira",,manual,2026-04-29,true,27b6f53ce7f3b4642e75793b3f84728153dc49230a477f22bd4285d90a1ff524
+Rapira.net,sanctioned,100,399,88,95,BSC|ETH|TRON,scorechain-counterparties|misttrack-verdicts,rapira-net,rapira.net,"rapira.net,rapira",,manual,2026-04-29,true,27b6f53ce7f3b4642e75793b3f84728153dc49230a477f22bd4285d90a1ff524
 Rari Capital,defi,100,480,70,5,ETH,ethereum-lists-contracts,rari-capital,,"rari capital,rari-capital,rari-governance-token",,arkham,2026-07-09,false,cdd7fb9ecdd3e8f29dd57602446c7912364efc19a89c9b713e724c6317153033
 Rarible,nft_marketplace,100,312,70,10,ETH,ethereum-lists-contracts,rarible,,rarible,,arkham,2026-06-02,false,caaef02080e13d675e430697a85a4d84223aaf77861132fddcd09dc0d3067bbc
 Rarible V1,defi,100,4464,70,5,ETH,ethereum-lists-contracts,rarible-v1,,"rarible v1,rarible-v1",,arkham,2026-06-19,false,caaef02080e13d675e430697a85a4d84223aaf77861132fddcd09dc0d3067bbc
@@ -1742,7 +1740,7 @@ Fidelity Digital Dollar,stablecoin_issuer,65,0,0,10,,defillama-adapters,fidelity
 Mento Euro,stablecoin_issuer,65,0,0,10,,defillama-adapters,celo-euro,,"celo-euro,eurm,mento euro",,defillama,2026-07-15,false,6fe9ac554d4203a056d7ece004675270f4393bd39519271e65798017ff9694ae
 AllUnity EUR,stablecoin_issuer,65,0,0,10,,defillama-adapters,allunity-eur,,"allunity eur,allunity-eur,eurau",,defillama,2026-07-15,false,462844ec26c2a1bbc167927a5332ca906f64922b45daf837a0b14b91d7ecdcb5
 Ethena Labs,stablecoin_issuer,65,0,0,10,,defillama-adapters,ethena-usde,,"ethena,susde",,defillama,2026-07-15,false,ede610584d1d2ff981dd56caeea54cd4ebed8cb2a7a51d983d34f6c03d4a65e4
-Circle,stablecoin_issuer,65,0,0,10,,defillama-adapters,usd-coin,,"circle,usd coin,usd-coin",,defillama,2026-07-15,false,eb874115af98a367538d97320af98d539201ccfed8015c6cb9787004dc3bce4c
+Circle,stablecoin_issuer,500,3,85,10,ETH|BSC|POLYGON|BASE,defillama-adapters|scorechain-counterparties|brianleect-labels|dawsbot-eth-labels,usd-coin,circle.com,"circle,usd coin,usd-coin,circle.com","circle usyc,circle-usyc,circle usdc",arkham,2026-07-09,true,0fe307b5da0f6d6f088c9bb52366b889c54a84747a9d98679f1b4e52fe190811
 Iron Bank EURO,stablecoin_issuer,65,0,0,10,,defillama-adapters,iron-bank-euro,,"ibeur,iron bank euro,iron-bank-euro",,defillama,2026-07-15,false,987f9d913455f9b06a4682b0138d459e61003d6a2a0a33724bb33e63bee9e1fa
 Youves uUSD,stablecoin_issuer,65,0,0,10,,defillama-adapters,youves-uusd,,"uusd,youves uusd,youves-uusd",,defillama,2026-07-15,false,1aac4926c35eb663934ab978d4a39aaff2a61f56295423ca54522dcba5761483
 Glo Dollar,stablecoin_issuer,65,0,0,10,,defillama-adapters,glo-dollar,,"glo dollar,glo-dollar,usdglo",,defillama,2026-07-15,false,b86c3930213fbd203371eb2c98dc8aca8dd0d7e92bbe145aa08e7a9689156331

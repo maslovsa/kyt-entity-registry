@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-14T12:50:13+00:00",
+  "generated_at": "2026-10-14T13:20:48+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -11,21 +11,6 @@
         "catfee.io"
       ],
       "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "circle",
-      "category": "psp",
-      "logo_path": "logos/psp/circle.png",
-      "keywords": [
-        "circle",
-        "circle.com"
-      ],
-      "product_aliases": [
-        "circle usyc",
-        "circle-usyc",
-        "circle usdc"
-      ],
       "sanctioned": false
     },
     {
@@ -1838,25 +1823,15 @@
       "sanctioned": false
     },
     {
-      "slug": "rapira",
-      "category": "sanctioned",
-      "logo_path": "logos/sanctioned/rapira.png",
-      "keywords": [
-        "rapira"
-      ],
-      "product_aliases": [],
-      "sanctioned": true
-    },
-    {
       "slug": "rapira-net",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/rapira-net.png",
+      "category": "sanctioned",
+      "logo_path": "logos/sanctioned/rapira-net.png",
       "keywords": [
         "rapira.net",
         "rapira"
       ],
       "product_aliases": [],
-      "sanctioned": false
+      "sanctioned": true
     },
     {
       "slug": "rari-capital",
@@ -18197,9 +18172,14 @@
       "keywords": [
         "circle",
         "usd coin",
-        "usd-coin"
+        "usd-coin",
+        "circle.com"
       ],
-      "product_aliases": [],
+      "product_aliases": [
+        "circle usyc",
+        "circle-usyc",
+        "circle usdc"
+      ],
       "sanctioned": false
     },
     {
