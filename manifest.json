@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-14T19:42:40+00:00",
+  "generated_at": "2026-10-14T20:26:58+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -31754,6 +31754,16 @@
         "ecorpay",
         "ecorpay.com",
         "ecrpay.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tomoko-otc",
+      "category": "otc_desk",
+      "logo_path": "logos/otc_desk/tomoko-otc.png",
+      "keywords": [
+        "tomoko otc"
       ],
       "product_aliases": [],
       "sanctioned": false
