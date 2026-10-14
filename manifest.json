@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-14T11:31:46+00:00",
+  "generated_at": "2026-10-14T12:40:31+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -14192,16 +14192,6 @@
       "sanctioned": false
     },
     {
-      "slug": "kaoyaswap",
-      "category": "dex",
-      "logo_path": "logos/dex/kaoyaswap.png",
-      "keywords": [
-        "kaoyaswap"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "kaskad",
       "category": "defi",
       "logo_path": "logos/defi/kaskad.png",
@@ -14775,17 +14765,6 @@
       "keywords": [
         "momentum",
         "momentum-3"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "moola-market",
-      "category": "defi",
-      "logo_path": "logos/defi/moola-market.png",
-      "keywords": [
-        "moola market",
-        "moola-market"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -15680,18 +15659,6 @@
       "logo_path": "logos/defi/sicx.png",
       "keywords": [
         "sicx"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "sigma-money",
-      "category": "defi",
-      "logo_path": "logos/defi/sigma-money.png",
-      "keywords": [
-        "sigma money",
-        "sigma-money",
-        "sigmadotmoney"
       ],
       "product_aliases": [],
       "sanctioned": false

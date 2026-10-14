@@ -189,6 +189,23 @@ def _try_manual(row: Row) -> bytes | None:
     return None
 
 
+# sha256 of the NORMALIZED png for images that are a source's "no logo"
+# stand-in rather than a brand mark. Arkham serves its grey default-avatar
+# silhouette for entities it has no art for; accepting it painted a fake
+# "logo" on KaoyaSwap / Moola Market / Sigma Money (2026-10-14) and, being
+# status=arkham, it would be re-fetched every night. Treat as a miss.
+_NOT_A_LOGO_HASHES = frozenset({
+    "643bc26618878f5d6b3280221901558cf23e5ca7b230820bb2457643615f8900",  # Arkham default-avatar silhouette
+})
+
+
+def _is_not_a_logo(raw: bytes) -> bool:
+    try:
+        return sha256_hex(normalize(raw)) in _NOT_A_LOGO_HASHES
+    except NormalizeError:
+        return False
+
+
 def _try_auto(
     row: Row, client: httpx.Client, deny_slugs: frozenset[str],
 ) -> tuple[str, bytes] | None:
@@ -196,12 +213,12 @@ def _try_auto(
     if row.arkham_slug:
         data = enrich_from_arkham.fetch(
             row.arkham_slug, client=client, known_slugs=deny_slugs)
-        if data:
+        if data and not _is_not_a_logo(data):
             return STATUS_ARKHAM, data
 
     if row.canonical_domain:
         data = enrich_from_brandfetch.fetch(row.canonical_domain, client=client)
-        if data:
+        if data and not _is_not_a_logo(data):
             return STATUS_BRANDFETCH, data
 
     # DefiLlama: defi + dex + bridge. Most DeFi protocols are there

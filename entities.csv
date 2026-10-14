@@ -1,21 +1,21 @@
 entity_name,category_slug,importance,claim_count,max_trust,severity,networks,sources,arkham_slug,canonical_domain,keywords,product_aliases,logo_status,logo_updated_at,manual_lock,logo_hash
 CatFee,defi,500,9,70,10,TRON,defillama-adapters,catfee,catfee.io,"catfee,catfee.io",,manual,2026-05-25,true,7e48148a95fb7a032d21ba0568c649627042ca3cef0cd6c5f4993f58097f3fd3
-Circle,psp,500,3,85,5,ETH|BSC|POLYGON|BASE,scorechain-counterparties|brianleect-labels|dawsbot-eth-labels,circle,circle.com,"circle,circle.com","circle usyc,circle-usyc,circle usdc",arkham,2026-07-09,true,d5850fcee1fbe0fae694d91a73c70d7bbc031f9f45d8170d4924891f762f0870
-EnergyTRX,defi,500,0,80,10,TRON,manual-admin,energytrx,energy-trx.com,"energytrx,energy-trx,energy-trx.com",,manual,2026-05-25,true,8afedbc6c6392baa735705da06c48c64b625c494917d47c53efee46ca2e297e4
+Circle,psp,500,3,85,5,ETH|BSC|POLYGON|BASE,scorechain-counterparties|brianleect-labels|dawsbot-eth-labels,circle,circle.com,"circle,circle.com","circle usyc,circle-usyc,circle usdc",arkham,2026-07-09,true,0fe307b5da0f6d6f088c9bb52366b889c54a84747a9d98679f1b4e52fe190811
+EnergyTRX,defi,500,0,80,10,TRON,manual-admin,energytrx,energy-trx.com,"energytrx,energy-trx,energy-trx.com",,manual,2026-05-25,true,415c198da409692a11777058d4ec645fb9d2f21476ded4623641af8c762e077c
 FeeSaver,defi,500,3,90,10,TRON,"scorechain-counterparties,tronscan-tags,tron-super-reps",feesaver,feesaver.com,"feesaver,fee saver",,manual,2026-05-25,true,b9f33e5d6bc02f7a662a97d57e634a01a1858393fc6aa19270624456afb699d5
 iTRX.io,defi,500,0,80,10,TRON,manual-admin,itrx-io,itrx.io,"itrx.io,itrx-io",,manual,2026-05-25,true,d62988bb46b0361409f4afdcb9763217fdff7c6e4f449e6c2e23795b23a58ae8
 Profeex,defi,500,0,80,10,TRON,manual-admin,profeex,profeex.io,"profeex,profeex.io,profeex.com",,manual,2026-05-25,true,5b9d33f23dc7b4f992c12005124105d99c328a196df334398d834cc2f0b863f0
 RentTron,defi,500,3,100,10,TRON,manual-admin,renttron,renttron.io,"renttron,renttron.io,rent tron",,manual,2026-05-25,true,5128bcd892c690422f6813e0c5f5c91316a8bfdcbb7f40391c4e80c9ee9caff8
-StashTRX,defi,500,0,80,10,TRON,manual-research,stashtrx,stash-trx.com,"stashtrx,stash-trx,stash trx,stashcrypto",,manual,2026-05-25,true,00923f40c8ae8d4fccd1ae3111a70935d39a91a5220567a78114cf092adfc336
+StashTRX,defi,500,0,80,10,TRON,manual-research,stashtrx,stash-trx.com,"stashtrx,stash-trx,stash trx,stashcrypto",,manual,2026-05-25,true,89718c89b155e41ca543f94b740e8cd5336c50b0c3522ec8f135626ce0155261
 TR.ENERGY,defi,500,0,80,10,TRON,manual-admin,tr-energy,tr.energy,"tr.energy,tr-energy,tr energy",,manual,2026-09-06,true,c79c69871b1652035a3b29705b26595a0dac740709a40ec20af922e80aa40b09
 TronBid,defi,500,0,80,10,TRON,manual-admin,tronbid,tronbid.com,"tronbid,tronbid.com,tronbid.energy",,manual,2026-05-25,true,5e68b3ddc49e6a278100240b81bc6bae369191f3203ff611b529c0664e643e61
 TronEnergy.io,defi,500,3,80,10,TRON,tronscan-tags,tronenergy-io,tronenergy.io,"tronenergy,tronenergy.io,tronenergyio,tronenergymarket,tronenergyioborrow,tronenergy market,tronenergy.market",,manual,2026-05-25,true,2064d0173c71f2227ddfce14f08d86af2a0aeed141a49fd430404300988beca1
 TronExchange,defi,500,1,80,10,TRON,"manual-admin,tronscan-tags",tronexchange,,"tronexchange,tron exchange",,synthetic,2026-08-17,false,102220c65b610af59943973f2816fb407fc05a73dba7da9fc442af6b5f9b9ec7
 Tronify,defi,500,2,85,10,TRON,scorechain-counterparties,tronify,tronify.io,"tronify,buy.tronify",,manual,2026-05-25,true,ee0df6e06deca0f4f41ed75abb25c1ae9baca8ea84c23f5151343685e90cea2d
-TronPool,defi,500,1,80,10,TRON,"manual-admin,tronscan-tags",tronpool,,"tronpool,tron pool",,manual,2026-05-25,true,33ea544f57ac190887a520eb2986e23e1008bbdcdb8f339a7cb2660f3b994893
+TronPool,defi,500,1,80,10,TRON,"manual-admin,tronscan-tags",tronpool,,"tronpool,tron pool",,manual,2026-05-25,true,6c9907d35beab2a5bcc252ae37005f5bc530acd4e6f68705fcf84e331855c60d
 TronPoolEnergy,defi,500,0,80,10,TRON,manual-admin,tronpoolenergy,tronpoolenergy.com,"tronpoolenergy,tronpoolenergy.com,tronpool energy",,manual,2026-05-25,true,614a90247702d8f59c47f177083b48294fc96b83aad7097d9c072443cd1d5590
 TronSave,defi,500,2,85,10,TRON,"scorechain-counterparties,tronscan-tags",tronsave,tronsave.io,"tronsave,tronsave.io,tronsaver",,manual,2026-05-25,true,083b926d91585b451e4d3ca6c60776e1c8f1a522b0672370206e4e940944bf87
-TronX Energy,defi,500,0,80,10,TRON,manual-admin,tronxenergy,tronxenergy.com,"tronxenergy,tronxenergy.com,tronx energy,tronex",,manual,2026-05-25,true,0de386984cf95659c88e3af42f59ddd76161907e5f393a7abcbcbdfbffff16e7
+TronX Energy,defi,500,0,80,10,TRON,manual-admin,tronxenergy,tronxenergy.com,"tronxenergy,tronxenergy.com,tronx energy,tronex",,manual,2026-05-25,true,6e9629a1ba2300a1f37b0c35e28a2ebd2fbc034a07278dc0aa756153c007f84f
 TronZap,defi,500,1,100,10,TRON,manual-admin,tronzap,tronzap.com,"tronzap,tronzap.com",,manual,2026-05-25,true,1dba8f0ff2546a9b39fb611e7c7a4c1b81c91d9cda71b8a54ee4f78514d45f3d
 Tether,psp,500,8412,90,5,ETH|TRON|BSC|POLYGON|AVALANCHE|ARBITRUM,manual-admin,tether,tether.to,"tether,tether.to,tetherusd","USDT,USDt",manual,2026-07-10,true,ee494110c05491d4b2d849941126c229e782501d9ca47585f7f1fde47b340763
 Theo,defi,500,4,80,10,ARBITRUM|ETH|SOL,manual-admin,theo,theo.xyz,"theo network,theo.xyz,theo network thbill,thbill",,manual,2026-08-02,true,5bbd6305739e0162573d9c1add9d1dc49dd811e4f858889788699a5b64b9c8ab
@@ -24,11 +24,11 @@ Umbrella Aave,defi,500,7,80,10,ETH,manual-admin,umbrella-aave,aave.com,"aave umb
 ZARP Stablecoin,stablecoin_issuer,500,10,80,5,ETH|POLYGON|BASE|SOL,manual-admin|coingecko-tokens|1inch-token-lists|pharos-watch,zarp,zarpstablecoin.com,"zarp,zarp stablecoin,zarpstablecoin.com",rand reserve,manual,2026-08-02,true,d1c60cbaee0c1980d0a244d82e387c97d787c2065f0ef2f2b18169b2337db859
 Gas Station,defi,300,2,100,10,TRON,manual-admin,gasstation-ai,gasstation.ai,"gasstation,gasstation.ai,gas station",,manual,2026-05-26,true,0f60e6e8ea7c287ac0621c7947a0433f57cba4831b3843f73488bbc7754e47f9
 Netts,defi,300,1,100,10,TRON,manual-admin,netts,netts.io,"netts,netts.io",,manual,2026-05-26,true,1edf9130e5facff413cb69d7579bf26d527d6ae159eb2c9501e5b47830b9ea8b
-Samourai Wallet,wallet,300,0,95,95,BTC,manual-admin,samourai-wallet,samouraiwallet.com,"samourai,samourai wallet,samouraiwallet",,manual,2026-06-29,true,e4966686c387a44aac1a51927accc558b0fd52dc51aeaf42674c1b2528111c69
+Samourai Wallet,wallet,300,0,95,95,BTC,manual-admin,samourai-wallet,samouraiwallet.com,"samourai,samourai wallet,samouraiwallet",,manual,2026-06-29,true,c6f5db4e7dbd3c254675dfea8dc85b2809a2de95aa3a84266a1f92b2a51ef026
 Seedify,defi,200,17,88,5,BSC|ETH,misttrack-verdicts,seedify,seedify.fund,"seedify,seedify.fund",,arkham,2026-06-19,false,fb9ccaea724c566e288f1a0871de236404312652eefadca039d7bd02bc241109
 spookyswap,dex,200,2,88,5,FANTOM,misttrack-verdicts,spookyswap,spooky.fi,"spookyswap,spooky",,arkham,2026-06-19,false,e006cb106cb1ed57da5e2de245d2ec86c7c616558baf304703bf4041ac2a46a3
-Sher888.com,exchange,200,7,85,65,TRON,"manual-admin,bitok-verdicts,scorechain-counterparties",sher888-com,sher888.com,"sher888,sher888.com",,manual,2026-06-29,true,de41c4ff1b4a0606294a0e284db77c13c7437c3f3564226fa8f1d0c0b9c4ba93
-ACE Exchange,exchange,200,1,85,85,TRON,manual-admin,ace-io,ace.io,"ace exchange,ace.io,ace-ex",,manual,2026-06-29,true,44e433be9581037d02837413b0a649987ba297ab5031fea10fc3b0603625aa8d
+Sher888.com,exchange,200,7,85,65,TRON,"manual-admin,bitok-verdicts,scorechain-counterparties",sher888-com,sher888.com,"sher888,sher888.com",,manual,2026-06-29,true,38f5187f21de979e3fa435af2a194d9e6d5d61cd1aacb7d1fdf8ecfef42e2eb3
+ACE Exchange,exchange,200,1,85,85,TRON,manual-admin,ace-io,ace.io,"ace exchange,ace.io,ace-ex",,manual,2026-06-29,true,71b12c75777a2027aec19f64fa0b7a77ca399080828d06b1f91d882f18526982
 Metronome,defi,200,16,90,10,ETH|POLYGON|OPTIMISM|BASE,dawsbot-eth-labels|coingecko-tokens|brianleect-labels|arkham-intelligence|defillama-protocols,metronome,metronome.io,"metronome,metronome.io,msusd,metronome synth",,manual,2026-07-22,false,e57fa1471ac5d980ec0ffd078a37acd95ac5db024292834295bc211a670c2b55
 Mezo,defi,200,7,90,10,ETH|BASE,dawsbot-eth-labels|coingecko-tokens|coingecko-uniswap-list|defillama-adapters|arkham-intelligence|scorechain-counterparties|defillama-protocols,mezo,mezo.org,"mezo,mezo.org,musd,mezo usd",,manual,2026-07-22,false,403b8b8e343099fd31c9742a4d0b9715f3992cfef1e46236113472344b3fa96c
 Ring Protocol,defi,200,16,90,10,ETH|BSC|BASE|OPTIMISM|POLYGON|ARBITRUM|AVALANCHE,dawsbot-eth-labels|arkham-intelligence|scorechain-counterparties,,ring.exchange,"ring protocol,ring.exchange,rusd,usdr",,manual,2026-07-22,true,b4144db277de456e6bbbb25bcbf4569900609082dd28dd8a15d4c533a26aa12f
@@ -135,7 +135,7 @@ LavaLending,defi,100,216,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|PO
 Lbank.com,exchange,100,390,90,5,BSC|ETH|TRON|ARBITRUM|AVALANCHE|BASE|OPTIMISM|POLYGON,scorechain-counterparties|arkham-intelligence,lbank-com,lbank.com,lbank,,arkham,2026-05-11,false,92b1a33d96e796175552154cff04f3d428e5c648b7b92f661b9c15667a69d255
 Lemon.me,exchange,100,159,75,5,BSC|ETH|TRON,scorechain-counterparties,lemon-me,lemon.me,"lemon.me,lemon",,manual,2026-05-26,false,ec2314012038a6f285a4314431d7875990322f0701b902d3b46c2a2f7017e202
 Lodestar,defi,100,170,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,defillama-adapters|vasp-entity-defaults,lodestar,,lodestar,,arkham,2026-05-11,false,9cdee528ea10753a99a0e4eae3f9a1dc89c7a880df6b0051eecb11cb5e20f04e
-m2.com,exchange,100,1,88,5,ETH,misttrack-verdicts,m2-com,m2.com,m2.com,,arkham,2026-07-09,false,be37bdafbe7c240a488ac4e92a5d61dc3b64b3cb24f13a58e943e4799cbd0314
+m2.com,exchange,100,1,88,5,ETH,misttrack-verdicts,m2-com,m2.com,m2.com,,arkham,2026-07-09,false,9cd751df7117851d48279b5c47bae0822622779b4de6e9322d767aa65a88b364
 MakerDAO,dex,100,471,70,10,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,makerdao,,makerdao,,arkham,2026-06-19,false,631f57b89d3f8f14d3754bf88c38aebd45e714d868e1513088358d72cfc27f04
 Makina,defi,100,152,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,makina,,makina,,manual,2026-05-13,true,0226e4f52742125fab016edd28ea4f4c6730d1f34e94ca494f6d3445b8068a83
 MaskEX.com,exchange,100,298,75,5,BSC|ETH|TRON,scorechain-counterparties,maskex-com,maskex.com,maskex,,arkham,2026-05-11,false,9641fcf4741c99b8d1b659039a0ed84554c10a17139bd6c865bbe06fd1a746ad
@@ -168,7 +168,7 @@ OpenSea.io,nft_marketplace,100,5110,75,10,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMI
 Optimism,bridge,100,144,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,optimism,,optimism,,arkham,2026-05-26,false,09459f10cbbcea1639163669365ed4934f5f33421d6c0f4d7fa2970b91219619
 Orange Finance,defi,100,224,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions|vasp-entity-defaults,orange-finance,,"orange finance,orange-finance,orange",,arkham,2026-05-11,false,11ddc3e5c82b23fd636c7d791eac4916b8e64a71839dca862b73635d9f1b347c
 osl-hk,defi,100,490,70,5,AVALANCHE|BSC|ETH|POLYGON|TRON,defillama-adapters,osl-hk,,"osl-hk,osl hk",,arkham,2026-05-11,false,ac3d38d38c656c578f28353ad57e4435bff10011c2499f924d042f0c1288e86e
-p2pb2b.com,exchange,100,1,88,5,TRON,misttrack-verdicts,p2pb2b-com,p2pb2b.com,"p2pb2b,p2pb2b.com",,arkham,2026-07-09,false,13fd25ac55f6aa27ea71cf8975aaabd4fa625111db3a2da043d3634c4e31ed54
+p2pb2b.com,exchange,100,1,88,5,TRON,misttrack-verdicts,p2pb2b-com,p2pb2b.com,"p2pb2b,p2pb2b.com",,arkham,2026-07-09,false,5cf94666aa8c14d7948832190cb1a9051a43ffdc517f09f6bf538af6af4b1e99
 PancakeSwap,dex,100,169,90,10,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM|POLYGON,arkham-intelligence|ethereum-lists-contracts|scorechain-counterparties|vasp-entity-defaults,pancakeswap,,pancakeswap,,arkham,2026-05-26,false,1d923abbd9891b2cafb8df364425fc1946a4280c13b0155ed0bc245b25b8dbfc
 Paribu.com,exchange,100,273,75,5,BSC|ETH|TRON,scorechain-counterparties,paribu-com,paribu.com,paribu,,arkham,2026-05-26,false,fd72917569d1bc23e4288da7759689519d02ba2072203659f28915c93975ed43
 Partydao,defi,100,175,70,5,ETH,ethereum-lists-contracts,partydao,,partydao,,arkham,2026-06-19,false,ba688c7181f99fed6c55c0bb38d8d6ef412faadd4dec6527c8f43a46ff1a1319
@@ -186,7 +186,7 @@ qidao,defi,100,151,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,
 RabbyWallet SwapRouter,defi,100,256,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,rabbywallet-swaprouter,,,,synthetic,2026-08-17,false,22cfa24d4e67d91bd80ba43458b663f79ece8ee0fd61decef9d0797fa5be2bd9
 rapira,sanctioned,100,158,88,95,ETH|TRON,misttrack-verdicts,rapira,,rapira,,arkham,2026-06-19,false,27b6f53ce7f3b4642e75793b3f84728153dc49230a477f22bd4285d90a1ff524
 Rapira.net,exchange,100,241,75,5,BSC|ETH|TRON,scorechain-counterparties,rapira-net,rapira.net,"rapira.net,rapira",,manual,2026-04-29,true,27b6f53ce7f3b4642e75793b3f84728153dc49230a477f22bd4285d90a1ff524
-Rari Capital,defi,100,480,70,5,ETH,ethereum-lists-contracts,rari-capital,,"rari capital,rari-capital,rari-governance-token",,arkham,2026-07-09,false,28f843f1694642680cdb0940289ed074af7a6d1a06ae1975491afe24c8d02839
+Rari Capital,defi,100,480,70,5,ETH,ethereum-lists-contracts,rari-capital,,"rari capital,rari-capital,rari-governance-token",,arkham,2026-07-09,false,cdd7fb9ecdd3e8f29dd57602446c7912364efc19a89c9b713e724c6317153033
 Rarible,nft_marketplace,100,312,70,10,ETH,ethereum-lists-contracts,rarible,,rarible,,arkham,2026-06-02,false,caaef02080e13d675e430697a85a4d84223aaf77861132fddcd09dc0d3067bbc
 Rarible V1,defi,100,4464,70,5,ETH,ethereum-lists-contracts,rarible-v1,,"rarible v1,rarible-v1",,arkham,2026-06-19,false,caaef02080e13d675e430697a85a4d84223aaf77861132fddcd09dc0d3067bbc
 Redotpay.com,psp,100,382,75,5,BSC|ETH|TRON,scorechain-counterparties,redotpay-com,redotpay.com,redotpay,,arkham,2026-05-11,false,bb0a5c46c9bd7c3bf498f0c1287f2e33184e9b24f93eb0fac7df82813c8bad81
@@ -207,7 +207,7 @@ Synthetix,defi,100,1296,70,5,ARBITRUM|BASE|ETH|OPTIMISM,defillama-adapters|ether
 Tapioca DAO,defi,100,32,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,tapioca-dao,,"tapioca dao,tapioca-dao",,manual,2026-05-13,true,c06432be3efad138283810b691dd27259ebbeef69b4fefd47153ff2a8a9d9e5a
 TMXTribe,defi,100,32,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,tmxtribe,,tmxtribe,,manual,2026-05-13,true,ee0c493386992709a64693c01a5a9c0a61295bd199e286202100d38295c6085f
 Triple-A.io,psp,100,454,75,5,ETH|POLYGON|TRON,scorechain-counterparties|vasp-entity-defaults,triple-a-io,triple-a.io,"triple-a.io,triple-a",,manual,2026-04-29,true,8e77ce93f8d9ba97658e0d0ffaca138efbb48bbb524874c7591bc08d828a96a5
-ueex.com,exchange,100,1,88,5,TRON,misttrack-verdicts,ueex-com,ueex.com,"ueex,ueex.com",,arkham,2026-07-09,false,417ac1cc7885c6dce7fe0a020d29ab06d54c5394254f77df558abc116f59606a
+ueex.com,exchange,100,1,88,5,TRON,misttrack-verdicts,ueex-com,ueex.com,"ueex,ueex.com",,arkham,2026-07-09,false,908fb4dc746ea8a469cc440694987d25d046a6e9cc3ee5bc0ae952e5c2494d30
 ULME2,defi,100,856,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,ulme2,,,,synthetic,2026-08-17,false,af2aaf27cbd4dd6e1558a2d6ca2568f911f83595affaaee71c3d7782f6b3e5ad
 Umaproject,defi,100,291,70,5,ETH,ethereum-lists-contracts,umaproject,,,,synthetic,2026-08-17,false,956d126bf77a991ec3634afdbe197d51d3d8f0fe9568fd331017a3c732725340
 UniBot,defi,100,168,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,unibot,,unibot,,arkham,2026-05-11,false,f3734b0f90a39e1f0075c8c93e4991f7112c8af02de59e92651f7c0f4a97bcf2
@@ -230,7 +230,7 @@ YearnFinance,defi,100,2880,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|
 Yibifu,exchange,100,243,75,5,TRON,scorechain-counterparties,yibifu,,yibifu,,arkham,2026-05-26,false,31fd94c978d9f82644cf81264fcac9744157a53b5d0c4d6d1ef405c91217948a
 BarnBridge,defi,100,77,75,5,ARBITRUM|ETH|OPTIMISM,defillama-adapters|ethereum-lists-contracts,barnbridge,barnbridge.com,"barnbridge,barnbridge.com,bond token barnbridge",,manual,2026-07-09,true,069e16ef5cfe697c30831607d160af2dbd1fe21b2b9403135e19bf3e5d434fa7
 Capitalist.net,psp,100,,75,5,ETH|TRON,manual-admin,capitalist-net,capitalist.net,"capitalist,capitalist.net",,manual,2026-06-21,true,12c95b7cade4ea7b32db7dba0620c7df3f9058e2d451f5be49968c4ad502c43c
-GetBit,exchange,100,0,72,72,TRON|ETH,manual-admin,getbit-exchange,getbit.io,"getbit,getbit exchange",,manual,2026-06-29,true,447992b66f29a38ede92fa9ceb1e94436e95a1b62a688b520869636018a2950f
+GetBit,exchange,100,0,72,72,TRON|ETH,manual-admin,getbit-exchange,getbit.io,"getbit,getbit exchange",,manual,2026-06-29,true,b552f5c4dd76dd4855cf9d398ead77519396947140f99a1812120dc0f4faff62
 EMCD,mining,100,3,75,10,TRON|BTC,manual-admin,emcd,emcd.io,"emcd,emcd.io,emcdpool,emcd pool",,manual,2026-07-09,true,16a7d9f2fbe746d63767ebb946820a65fc17d2480e63f6217c4e5565296f9b9b
 Volet.com,psp,100,1,75,50,TRON,manual-admin,volet,volet.com,"volet,volet.com,advcash,advanced cash,advcash.com",,manual,2026-07-09,true,638d05ed5cefe70501f8a8cc6444d0cc2e86ad8cdad7a37375e5d97b9c8ebb6e
 Zarub.io,psp,100,1,75,50,TRON,manual-admin,zarub-io,zarub.io,"zarub,zarub.io,zarub_robot,ZARUB",,manual,2026-07-09,true,bfb50acf22252994fccd42896f8ff5ed8bac113730b5810ecce19e7df3186345
@@ -332,7 +332,7 @@ Iconomi,defi,100,0,75,5,ETH,manual-admin,iconomi-com,iconomi.com,"iconomi,icn",,
 Musiconomi (defunct),defi,100,0,75,5,ETH,manual-admin,musiconomi-com,musiconomi.com,"musiconomi,mci",,arkham,2026-08-24,false,ec388381858a1b230de6ef65dc17ee19f50a4d805ee3438da2cf62789ba0e168
 CoinDash (defunct),defi,100,0,75,5,ETH,manual-admin,coindash-io,coindash.io,coindash,,arkham,2026-08-24,false,a470b48950e27c4cfdc174d07df9e88f8ba4fba042e592fa3e93aa56c1da6c3e
 Sparkster (defunct),defi,100,0,75,5,ETH,manual-admin,sparkster-me,sparkster.me,"sparkster,sprk",,arkham,2026-08-24,false,f80d1b7538f4265f19af18997229b609eb4cca33bb4a03b0a3ee8ab63c05fba6
-Digix (defunct),stablecoin_issuer,100,0,75,5,ETH,manual-admin,digix-global,digix.global,"digix,dgd,dgx",,arkham,2026-08-24,false,d5c667dee37dac356d307ce424489265e18c1fe5c24ca1af91b6fea0f9b8de09
+Digix (defunct),stablecoin_issuer,100,0,75,5,ETH,manual-admin,digix-global,digix.global,"digix,dgd,dgx",,arkham,2026-08-24,false,2f635bf985beae18699b4c179926190d988ae60f529e629d2b08ef2d9c77bed1
 Savedroid (defunct),wallet,100,0,75,5,ETH,manual-admin,savedroid-com,savedroid.com,savedroid,,arkham,2026-08-24,false,b0aa654c78f52c1e89f8eab3496c78887cdfc0c07c10fca19e5376a8ff7f5606
 imbrex (defunct),defi,100,0,75,5,ETH,manual-admin,imbrex-io,imbrex.io,"imbrex,rex",,arkham,2026-08-24,false,d3cadd3fe08e9454763e7ade3773372c14314bdcf3b98b80f80573464a71529b
 Duel.com,gambling,100,0,75,5,ETH,manual-admin,duel-com,duel.com,"duel.com,duel originals",,favicon,2026-08-24,false,fcad2c69219e157945e74e795dea40857a2e96533bca49c370c23c52066e5bbc
@@ -463,7 +463,7 @@ Astherus,stablecoin_issuer,100,1,10,1,BSC,manual-admin,astherus,astherus.finance
 pmUSD,stablecoin_issuer,100,1,20,2,ETH,manual-admin,pmusd,pmusd.raac.io,"pmusd,precious metals usd,raac",,manual,2026-09-10,true,2c7ffb85e9d0b78d21f9e7e5709847dec6bedb0cf41a2752df675bd41f9421c2
 Startale USD,stablecoin_issuer,100,1,10,1,ETH,manual-admin,startale-usd,usd.startale.com,"startale usd,usdsc,startale",,manual,2026-09-10,true,465da4f66ba41c7ecdef23d9447ac68ecdea2bf4fb0acd2793c6c0590cd6e4be
 Rai Reflex Index,stablecoin_issuer,100,1,15,2,ETH,manual-admin,rai-reflex-index,reflexer.finance,"rai,rai reflex index,reflexer",,manual,2026-09-10,true,137b37cb08dc4a9343daf72cfe6ec784d3ea87e4189383fb0d0a70c5ed0ef628
-Satoshiat.com,exchange,100,1,20,2,ETH,manual-admin,satoshiat-com,satoshiat.com,"satoshiat,ساتوشيات",,manual,2026-09-10,true,f49ff0d0d4bbb105266e60481da38b239220021e58b7f4b6ce82f4981c61eedc
+Satoshiat.com,exchange,100,1,20,2,ETH,manual-admin,satoshiat-com,satoshiat.com,"satoshiat,ساتوشيات",,manual,2026-09-10,true,074f78fb9b4706b475cb4c8ed2f32e1155fa556874777120d164ba168c4cbe48
 Obmennik.ws (historical),exchange,100,1,25,3,TRON,manual-admin,obmennik-ws,obmennik.ws,"obmennik.ws,обменник ws",,manual,2026-09-10,true,b9d5190a280a5ff8acd34714ab8ce4987c592f2781984b173a666c5231af5c12
 D-Obmen,exchange,100,1,25,3,LTC,manual-admin,d-obmen,d-obmen.cc,"d-obmen,d obmen",,manual,2026-09-10,true,2e39796dcc3b037b16118e16154e398bff831f3b08ed5de84db4f4bf8ff7214f
 Rand4Dollar.com,exchange,100,1,55,6,ETH,manual-admin,rand4dollar-com,rand4dollar.com,"rand4dollar,rand4dollar.com",,manual,2026-09-10,true,2c3c97a366c158f61571a92532fe53c01ff0729d06b3af9a04c4845d57a25336
@@ -618,7 +618,7 @@ Ethena USDtb,defi,85,0,0,10,ETH,,ethena-usdtb,usdtb.money,"ethena usdtb,ethena-u
 EtherFi Borrowing Market,defi,85,0,0,10,OPTIMISM,,etherfi-borrowing-market,ether.fi,"etherfi borrowing market,etherfi-borrowing-market",,defillama,2026-05-11,false,1ca761d44121d2bf9d73d8eacd0b1d473e9fc24f3e9f0a30cd1a6ee6f72924d7
 exSat Staking BTC,bridge,85,0,0,10,BTC,,exsat-staking-btc,esbtc.exsat.network,"exsat staking btc,exsat-staking-btc",,defillama,2026-05-11,false,7f4e83af9412b940930d461596392c9e0dcaef66011a1c3635b397cc65b808f8
 Extended,defi,85,0,0,10,ETH,,extended,app.extended.exchange,extended,,arkham,2026-05-11,false,06ba866d94738116a493eedb94f4cb94963c7a0011730d4fda0bde69a451753b
-Exved,sanctioned,85,0,100,95,BTC|ETH|TRON,uk-ofsi-sanctions,exved,exved.com,"exved,exved.com",,placeholder,2026-07-09,true,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+Exved,sanctioned,85,0,100,95,BTC|ETH|TRON,uk-ofsi-sanctions,exved,exved.com,"exved,exved.com",,placeholder,2026-07-09,true,867b033c2a31375eded02966564a40bc8c6de0961c30dee81b878d5835fde077
 FAssets,bridge,85,0,0,10,,,fassets,fassets.au.cc,fassets,,defillama,2026-05-11,false,3f53ff74eb40153fa35222373044323d287ed6b0eec78f1bf01d8b6a4a9de8ea
 Fluid DEX,defi,85,0,0,10,ETH|ARBITRUM|BASE|POLYGON,,fluid,fluid.io,"fluid dex,fluid",,defillama,2026-06-02,false,ae2a0a6b4ca5a58cc9c77a9e4b4f4c009f2cfee5a594dfac415976651c05fa3d
 Frax Ether,defi,85,0,0,10,ETH,,frax-ether,frax.com,"frax ether,frax-ether",,defillama,2026-05-11,false,4910b51bcafb8d40f3af66b90b63f3bfbbfd96f9a61a60154ea73e546a5a1087
@@ -633,7 +633,7 @@ Hyperlane,bridge,85,0,0,10,BSC|ETH|BASE|ARBITRUM|OPTIMISM|POLYGON|AVALANCHE,,hyp
 HyperLend Pooled,defi,85,0,0,10,,,hyperlend-pooled,app.hyperlend.finance,"hyperlend pooled,hyperlend-pooled",,arkham,2026-05-11,false,36f2600a191da070446438fa848f435d909c788da7eeb15645086c428cb96e3b
 Hyperliquid HLP,defi,85,0,0,10,,,hyperliquid-hlp,app.hyperliquid.xyz,"hyperliquid hlp,hyperliquid-hlp",,arkham,2026-05-11,false,dbf9c0fedcb9bab86497aa05a8991a66e2376edc3cbb7213da14cd9e01a6b8d6
 Hyperliquid Spot Orderbook,dex,85,0,0,10,,,hyperliquid-spot-orderbook,app.hyperliquid.xyz,"hyperliquid spot orderbook,hyperliquid-spot-orderbook",,arkham,2026-05-11,false,dbf9c0fedcb9bab86497aa05a8991a66e2376edc3cbb7213da14cd9e01a6b8d6
-InDeFi SmartBank,sanctioned,85,0,100,95,BTC|ETH|TRON,uk-ofsi-sanctions,indefi-smartbank,indefibank.com,"indefi,indefi smartbank,independent decentralized finance smartbank,independent decentralised finance smartbank,indefibank,indefibank.com",,placeholder,2026-07-09,true,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
+InDeFi SmartBank,sanctioned,85,0,100,95,BTC|ETH|TRON,uk-ofsi-sanctions,indefi-smartbank,indefibank.com,"indefi,indefi smartbank,independent decentralized finance smartbank,independent decentralised finance smartbank,indefibank,indefibank.com",,placeholder,2026-07-09,true,26fb0d28de2c940ef0f9a22ebc3f62930cb48cc6cc33e6c84aac9b44934a5ab5
 Jito Liquid Staking,defi,85,0,0,10,SOL,,jito-liquid-staking,jito.network,"jito liquid staking,jito-liquid-staking",,arkham,2026-05-11,false,6bc8a712be3ae12c14dac64269c792322729b1b20e4ac1829c27134d07a4e90d
 JPool,defi,85,0,0,10,SOL,,jpool,app.jpool.one,jpool,,arkham,2026-05-11,false,01461e8e0af07ad1865bc73e14e6750880b310e5f5ed23e87b4c406d9abf88dc
 Kinetiq kHYPE,defi,85,0,0,10,,,kinetiq-khype,kinetiq.xyz,"kinetiq khype,kinetiq-khype",,arkham,2026-05-11,false,e2bb8e22cf91bf01f03de9262f0a19113d8a7b9bcd29e82143982de8b831d946
@@ -641,7 +641,7 @@ Lighter Bridge,bridge,85,0,0,10,ETH|ARBITRUM,,lighter-bridge,app.lighter.xyz,"li
 Linea Bridge,bridge,85,0,0,10,ETH,,linea-bridge,bridge.linea.build,"linea bridge,linea-bridge",,arkham,2026-05-11,false,a9fcd62c7141875f08da4d5ccf6c34cc3df5b6fc3e53ae9b22f154ac7063a139
 Liquid Collective,defi,85,0,0,10,ETH,,liquid-collective,liquidcollective.io,"liquid collective,liquid-collective",,arkham,2026-05-11,false,fa6098dd7a002a9bae59c058568ba6a62aff8ba88486bd21e696ed92f6b39435
 Liquity V1,defi,85,0,0,10,ETH,,liquity,liquity.org,liquity,,arkham,2026-05-11,false,9479ef2a1a1a6d91320875117b349ac02fc47a6c503b8777b954bf87d927df03
-Lista CDP,defi,85,0,0,10,BSC,,lista-cdp,lista.org,"lista cdp,lista-cdp",,favicon,2026-07-09,true,55a4e924bc09f37ff00605cbce7a9208a4080f2e585346870b86b21cfdfd9989
+Lista CDP,defi,85,0,0,10,BSC,,lista-cdp,lista.org,"lista cdp,lista-cdp",,favicon,2026-07-09,true,4ad50c063f00708541d5a40888becb0435a75ede75ac2874d43920178fd772ce
 Lista Lending,defi,85,0,0,10,BSC|ETH,,lista-lending,lista.org,"lista lending,lista-lending",,defillama,2026-05-11,false,c32645ffd67b23b00e832d9ec2620881069ac742e35ae6376d764a4499ea2b2c
 Lista Liquid Staking,defi,85,0,0,10,BSC,,lista-liquid-staking,lista.org,"lista liquid staking,lista-liquid-staking",,defillama,2026-05-11,false,4ad50c063f00708541d5a40888becb0435a75ede75ac2874d43920178fd772ce
 Lombard BTC.b,bridge,85,0,0,10,BTC,,lombard-btc-b,lombard.finance,"lombard btc.b,lombard-btc-b",,favicon,2026-06-19,false,69fb0347b6fc6a3f1fa5dcf7c8b7715345488c154873f8d9e62676d7af79ae7e
@@ -655,8 +655,8 @@ mETH Protocol,defi,85,0,0,10,ETH,,meth,methprotocol.xyz,"meth,meth-protocol",,de
 Midas RWA,defi,85,0,0,10,ETH|ARBITRUM|BSC|SOL|BASE|OPTIMISM|AVALANCHE|POLYGON|BTC,,midas-rwa,midas.app,"midas rwa,midas-rwa",,arkham,2026-05-11,false,f00680fc3cb91b376ae34e9e859d01d526ef885dbf8cd353618c5d0751681f49
 Multipli.fi,defi,85,0,0,10,ETH|BASE|ARBITRUM|BSC|AVALANCHE,,multipli-fi,app.multipli.fi,"multipli.fi,multipli",,arkham,2026-05-11,false,ad146d0ae34ae90aade0c38a4dda290a540848067ff384ebdd97e5f98012d846
 NAVI Lending,defi,85,0,0,10,,,navi-lending,naviprotocol.io,"navi lending,navi-lending",,defillama,2026-05-11,false,a033f2402b6584b7bfd5265455a3ca89523dd3e7b55b0c640b92ae2f4879d3f0
-Nexus BTC,bridge,85,0,0,10,BTC,,nexus-btc,,"nexus btc,nexus-btc",,placeholder,2026-07-09,true,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
-OnRe,defi,85,0,0,10,SOL,,onre,app.onre.finance,onre,,defillama,2026-07-09,true,0f0e98a3f88e6b13be08866cf8c7d0ba3a1e85e7cabc2a4e5824ac6459115569
+Nexus BTC,bridge,85,0,0,10,BTC,,nexus-btc,,"nexus btc,nexus-btc",,placeholder,2026-07-09,true,d923a8e13306be0faa537c62c3094e33a3670ee1d9b8b1b67dde7a21c2b7524d
+OnRe,defi,85,0,0,10,SOL,,onre,app.onre.finance,onre,,defillama,2026-07-09,true,e0cbc12f0c3491fa7ae5105bc8cb40019f76a50eaea08f62b1987c72bfa73a35
 OpenEden TBILL,defi,85,0,0,10,ETH|SOL|ARBITRUM,,openeden-tbill,portal.openeden.com,"openeden tbill,openeden-tbill",,arkham,2026-05-11,false,8edbd61dd8a42806fb8c20afb7b9e662d2a72e00a1ecc4865517b89d2ce5e493
 OpenTrade,defi,85,0,0,10,AVALANCHE|ETH,,opentrade,opentrade.io,opentrade,,defillama,2026-06-02,false,dc4f94ee5f93e970f26f68146ad96cd736eec547b5c551adbd447c7e1dfc0372
 Optimism Bridge,bridge,85,0,0,10,ETH|BASE,,optimism-bridge,app.optimism.io,"optimism bridge,optimism-bridge",,arkham,2026-05-11,false,09459f10cbbcea1639163669365ed4934f5f33421d6c0f4d7fa2970b91219619
@@ -664,8 +664,8 @@ Orca DEX,dex,85,0,0,10,SOL,,orca,orca.so,"orca dex,orca",,arkham,2026-05-11,fals
 Phantom SOL,wallet,85,0,0,10,SOL,,phantom-sol,phantom.com,"phantom sol,phantom-sol",,arkham,2026-05-11,false,c1bc75219daaa0fd367ce8545edc946b0bb634337d90971b4b7520502b326caf
 Polygon zkEVM Bridge,bridge,85,0,0,10,ETH,,polygon-zkevm-bridge,portal.polygon.technology,"polygon zkevm bridge,polygon-zkevm-bridge",,arkham,2026-05-11,false,a7c7250867e097c15113c46c80f9bf13964d5360fc0e37d4db9a29e254343e3b
 Polymarket International,defi,85,0,0,10,POLYGON,,polymarket-international,polymarket.com,"polymarket international,polymarket-international",,arkham,2026-05-11,false,531269250754899e638265b8a528e464b8d100c3e5116394c8a2a5c15cc4e82a
-PumpSwap,dex,85,0,0,10,SOL,,pumpswap,swap.pump.fun,pumpswap,,defillama,2026-07-09,true,ca7060ee8aebd1051c9f0de3e7cce0c6b7582deb103f7199699d62bab99eec0d
-Quickswap Dex,dex,85,0,0,10,POLYGON|BASE,,quickswap,quickswap.exchange,"quickswap dex,quickswap",,defillama,2026-07-09,true,f176e500721097ca064d7e4cb26075330f136098f32caaa0c8b958f74f0c2d32
+PumpSwap,dex,85,0,0,10,SOL,,pumpswap,swap.pump.fun,pumpswap,,defillama,2026-07-09,true,124bad2062d18c20816d613104cb153e6de22945b0eb3798dac834cb488ae409
+Quickswap Dex,dex,85,0,0,10,POLYGON|BASE,,quickswap,quickswap.exchange,"quickswap dex,quickswap",,defillama,2026-07-09,true,bd7c72e2500fae6b8c5a8f824fb1fc29f16eda0443d2de3a78ae629c0df952f2
 RAAC,defi,85,0,0,10,ETH,,raac,raac.io,raac,,defillama,2026-05-11,false,365ecf415ad6fc1061c6ed884636556fc33878e8cc6cca37bb2a5fdccae02b0d
 Raydium AMM,dex,85,0,0,10,SOL,,raydium-amm,raydium.io,"raydium amm,raydium-amm",,arkham,2026-05-11,false,e27ae3fd7038e1da322aed918b88ef7304ccdd4d5e9e4f6c7872ea0ec11cb0be
 Re,defi,85,0,0,10,ETH|BASE|AVALANCHE|ARBITRUM,,re,app.re.xyz,app.re.xyz,,defillama,2026-05-11,false,914a7561ca843280cc778a3f895d1160111c36afb73d0617e3fe892450204564
@@ -1024,7 +1024,7 @@ Bidarz,exchange,75,,80,65,,manual-admin,bidarz,bidarz.ir,"bidarz,bidarz.ir,bidar
 Pooleno,otc_desk,75,,80,65,,manual-admin,pooleno,pooleno.ir,"pooleno,pooleno.ir,pooleno otc",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Tabdeal,exchange,75,,80,65,,manual-admin,tabdeal,tabdeal.org,"tabdeal,tabdeal.org,tabdeal exchange",,arkham,2026-09-27,false,3b99f919e2be999deb1a6e2c4d4c09942885360b55fabeeb4f2232ea3b07f076
 Exbito,exchange,75,,80,65,,manual-admin,exbito,exbito.com,"exbito,exbito.com,exbito exchange",,placeholder,2026-09-27,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
-Pingi,exchange,75,,80,65,TRON,manual-admin,pingi-ir,pingi.ir,"pingi.ir,pingi iran exchange,pingi,pingi.co",,manual,2026-06-02,false,0c5891adba4a8c9cd9678394a60509ad2595acc87247336bc67b1d55572251f3
+Pingi,exchange,75,,80,65,TRON,manual-admin,pingi-ir,pingi.ir,"pingi.ir,pingi iran exchange,pingi,pingi.co",,manual,2026-06-02,false,ae5d740d5dc1cc6dfa7cc8e03dab520b0cb18e0a45460be3a29f7820984d186f
 QvaPay,psp,75,,80,65,,manual-admin,qvapay,qvapay.com,"qvapay,qvapay.com",,favicon,2026-09-27,false,ec8a93f0adf538503ac542d73359e513d2d341d921210366acf2a6882bbce8f3
 BitRemesas,psp,75,,80,65,,manual-admin,bitremesas,bitremesas.com,"bitremesas,bitremesas.com",,favicon,2026-09-27,false,c66a3d3b608aa0d5766e57ba6307f3b7e3e2e03e33543c7375f0febdb84c585a
 Cryptonator,custodian,75,,80,65,,manual-admin,cryptonator,,"cryptonator,cryptonator.com",,arkham,2026-09-27,false,0f75dd197f3cf3468c397def0ac1e88df87a33b01f72acd8062a747aedfb12ba
@@ -1131,7 +1131,7 @@ XBT.kg / My O! (Baisanar),exchange,70,0,60,10,,manual-admin,xbt-kg,xbt.kg,"xbt.k
 888Tron.com,gambling,70,0,60,10,TRON,manual-admin,888tron-com,888tron.com,"888tron,888 tron",,manual,2026-09-13,true,e3bbf66e7deacfa1e86c4cca72cb4865d612b51c12c787746a6377491a0dc2f7
 Avalpardakht.com,psp,70,0,60,10,TRON,manual-admin,avalpardakht-com,avalpardakht.com,avalpardakht,,manual,2026-09-13,true,bcec7b8acbafa69f8e32c25ce38ac2db1cff1606a8d8c8b5b1e43ca7c62f49d7
 Candyland.Casino,gambling,70,0,60,10,BTC|LTC,manual-admin,candyland-casino,candyland.casino,"candyland,candyland casino",,manual,2026-09-13,true,b3256fef48ea530187376f4a8c60db89828dcd6947580ed1d294f54e2d473095
-Capybara.kg,p2p,70,0,60,10,TRON,manual-admin,capybara-kg,capybara.kg,"capybara,capybara.kg",,manual,2026-09-13,true,5bf588d58a8e2b0cd6d683fe4a137b3856f4c531a8f015681e2178ebb317cd8d
+Capybara.kg,p2p,70,0,60,10,TRON,manual-admin,capybara-kg,capybara.kg,"capybara,capybara.kg",,manual,2026-09-13,true,9674e6aa4682c4f8e299be4b470eb5cc4ca20e6554d081ecf8e5db3919e5d9f9
 EarnBet.io,gambling,70,0,60,10,BTC|ETH|LTC,manual-admin,earnbet-io,earnbet.io,"earnbet,earnbet.io",,manual,2026-09-13,true,156f8d15154d4a1a440a10df859b2447c87029f391e897f94f79f9da9e545b8e
 GTCFX.com,otc_desk,70,0,60,10,TRON,manual-admin,gtcfx-com,gtcfx.com,gtcfx,,manual,2026-09-13,true,87beb619f05f8ef037cef95477489ca5f97573668d196b771d54927004cf36ab
 Luckygames.io,gambling,70,0,60,10,BTC|ETH|LTC,manual-admin,luckygames-io,luckygames.io,"luckygames,lucky games",,manual,2026-09-13,true,17439e9d1a70bd45b42071e5bb1410c92f42018ceaa71215ee7f76035264e052
@@ -1182,9 +1182,9 @@ Accumulated Finance Liquid Staking,defi,65,0,0,10,BSC|ETH|ARBITRUM,,accumulated-
 Acre,defi,65,0,0,10,ETH,,acre,acre.fi,acre,,defillama,2026-06-02,false,7c90336a9ad49d30cb7403dda6c0e0ce6bf42164e7e37ecea47fd094be3ec851
 Adrastea Restaking Operator,mining,65,0,0,10,SOL,,adrastea-restaking-operator,adrastea.fi,"adrastea restaking operator,adrastea-restaking-operator",,synthetic,2026-08-17,false,9782ff40ae5e46a32f6aa0adafd28aed994acfb7cca40e96ffa68ff62fae9607
 Affluent,defi,65,0,0,10,,,affluent,affluent.org,affluent,,arkham,2026-06-02,false,68651b2c799e25296079b9380a7efe386efb07a94b0b4e3a1636f283a830528d
-Aftermath afLP,defi,65,0,0,10,,,aftermath-aflp,aftermath.finance,"aftermath aflp,aftermath-aflp",,defillama,2026-06-02,false,8c30227c938a78bd963893172e1dcd4720e219a9727d98b13251afb3a3b5d95e
-Aftermath afSUI,defi,65,0,0,10,,,aftermath-afsui,aftermath.finance,"aftermath afsui,aftermath-afsui",,defillama,2026-06-02,false,421dbad8f8f676cd1716cea9b03d06e74fdeb949402c8f62a69c80f0d6dce970
-Aftermath AMM,dex,65,0,0,10,,,aftermath-amm,aftermath.finance,"aftermath amm,aftermath-amm",,defillama,2026-06-02,false,421dbad8f8f676cd1716cea9b03d06e74fdeb949402c8f62a69c80f0d6dce970
+Aftermath afLP,defi,65,0,0,10,,,aftermath-aflp,aftermath.finance,"aftermath aflp,aftermath-aflp",,defillama,2026-06-02,false,79115bbbd09b7c26edfd43ffa714e458d94a9c1c1d4846422c451984151b0db8
+Aftermath afSUI,defi,65,0,0,10,,,aftermath-afsui,aftermath.finance,"aftermath afsui,aftermath-afsui",,defillama,2026-06-02,false,72760dfa21c0ea091be5e55b849e75fcde2856459d1d02404a5750550a9d7779
+Aftermath AMM,dex,65,0,0,10,,,aftermath-amm,aftermath.finance,"aftermath amm,aftermath-amm",,defillama,2026-06-02,false,72760dfa21c0ea091be5e55b849e75fcde2856459d1d02404a5750550a9d7779
 Alien Base V3,dex,65,0,0,10,BASE,,alien-base,alienbase.xyz,"alien base,alien-base",,arkham,2026-06-02,false,148917e5b74ccb83ab7ad68f20089e27abb3c92ee13e99b384510b744984b866
 Allbridge Classic,bridge,65,0,0,10,ETH|SOL|BSC|POLYGON|AVALANCHE|FANTOM,,allbridge-classic,app.allbridge.io,"allbridge classic,allbridge-classic",,arkham,2026-06-02,false,b23e613f6f6d0dbc0d030abab5cd7706057590949e0193514c582a7c3e61df7b
 AlphaFi stSUI,defi,65,0,0,10,,,alphafi-stsui,stsui.com,"alphafi stsui,alphafi-stsui",,arkham,2026-06-02,false,5d49f80422824a3ed41e896230b84a86d1f4dc5a304f36125f4193868c304e07
@@ -1198,7 +1198,7 @@ Aptin Finance V2,defi,65,0,0,10,,,aptin,,aptin,,arkham,2026-06-02,false,e8ef3ab4
 Arena DEX,dex,65,0,0,10,AVALANCHE,,arena,arena.social,"arena dex,arena",,defillama,2026-06-02,false,63a56a0702568269ed71512494d836cb3edd17cb6c71a20a8c25e3b48f2656c5
 Arkis,defi,65,0,0,10,ETH,,arkis,arkis.xyz,arkis,,defillama,2026-06-02,false,f729fc1298d6f42b2d9482df17f34b593357857fd0c988df4c5f721173d141d8
 Asseto CASH+,defi,65,0,0,10,BSC|ETH,,asseto-cash,asseto.finance,"asseto cash+,asseto-cash",,favicon,2026-06-02,false,670a8cf6f97058528c9c3277417dadba3e4891926d15e49ab405bd4c067505c6
-Augur,defi,65,0,0,10,ETH,,augur,augur.net,augur,,arkham,2026-06-02,false,fef712b146c7484596015ab3d48c33b2b5d78969db473522bf5a028fc1a07fae
+Augur,defi,65,0,0,10,ETH,,augur,augur.net,augur,,arkham,2026-06-02,false,8a6d33cd7fd9ef3e7e95290792d19c4bb5d2602eeb7edfa820fee912fa8bf189
 Aurora Plus,defi,65,0,0,10,,,aurora-plus,aurora.plus,"aurora plus,aurora-plus,aurora-near",,arkham,2026-06-02,false,6f7f21a9e1afb1399dae913a91c681f72120a8e9a1ab29f1cd9985f62c943d9e
 Autofarm,defi,65,0,0,10,BSC|POLYGON|AVALANCHE|FANTOM,,autofarm,,"autofarm,auto",,arkham,2026-06-02,false,466e2f34813e071655b4662664cff6ed386f29152e327f7c3bc71fd8a094032c
 Avalon Finance,defi,65,0,0,10,BSC|ARBITRUM|BASE|ETH,,avalon,avalonfinance.xyz,avalon,,defillama,2026-06-02,false,4a83ff1adb99041d79fcb0b90247393887d1b56509b49c4792216be7fd18eaec
@@ -1282,7 +1282,7 @@ Drift Trade,defi,65,0,0,10,SOL,,drift-trade,app.drift.trade,"drift trade,drift-t
 DyorSwap AMM,dex,65,0,0,10,,,dyorswap-amm,dyorswap.finance,"dyorswap amm,dyorswap-amm",,arkham,2026-06-02,false,4519dfac96d7a871680dbf93970d83cf56e8b4abccdbeb9210ea26156773b77c
 Eclipse Bridge,bridge,65,0,0,10,ETH,,eclipse-bridge,eclipse.xyz,"eclipse bridge,eclipse-bridge,eclipse-3",,arkham,2026-06-02,false,6ada8b251dba4a59ee7013b18e1457555c885d96650a9f2383ced82f72544cf1
 ELFi Protocol,defi,65,0,0,10,ARBITRUM|BASE,,elfi,elfi.xyz,elfi,,arkham,2026-06-02,false,49202089780faa4cc972388f16542fd9f81cf28c0e07439d6537da68c6f3e071
-EmpireDEX,dex,65,0,0,10,BSC|ETH|AVALANCHE|FANTOM|POLYGON,,empiredex,,empiredex,,defillama,2026-06-02,false,5b222591f70d8f7658bda87851c62673a77c062fd1dea3c6fba15d71cb1aec7b
+EmpireDEX,dex,65,0,0,10,BSC|ETH|AVALANCHE|FANTOM|POLYGON,,empiredex,,empiredex,,defillama,2026-06-02,false,2b1193e8b5826015ffcd770859990edb5602187c09e48763a887c06459eca884
 Endurance Bridge,bridge,65,0,0,10,,,endurance-bridge,endurance-bridge.fusionist.io,"endurance bridge,endurance-bridge",,defillama,2026-06-02,false,d672d01ba9e550c256cc26653e3f11626e0779df2dbd54470b4ec968192eb8a6
 Enosys AMM V3,dex,65,0,0,10,,,enosys-amm,enosys.global,"enosys amm,enosys-amm",,arkham,2026-06-02,false,fa508fdc96f6037b627ca862e5d751d6b3cae914aa4c120b4f3f6ff95db8767a
 Equilibrium Lending,defi,65,0,0,10,,,equilibrium-lending,app.equilibrium.io,"equilibrium lending,equilibrium-lending,equilibrium-token",,arkham,2026-06-02,false,15ead5f42bade091c7ac5831f6f5d71b3759eff0ac9d4909b5ff391c1c3bfeb8
@@ -1311,7 +1311,7 @@ Fluxion Network,dex,65,0,0,10,,,fluxion,app.fluxion.network,fluxion,,favicon,202
 Flying Tulip ftUSD,defi,65,0,0,10,ETH,,flying-tulip-ftusd,flyingtulip.com,"flying tulip ftusd,flying-tulip-ftusd",,defillama,2026-06-02,false,b432423a39089e9a2ef97a290962cd343c4090fb78f8880ab57af0cbda925a2b
 Flying Tulip Lend,defi,65,0,0,10,ETH,,flying-tulip-lend,flyingtulip.com,"flying tulip lend,flying-tulip-lend,flying-tulip",,defillama,2026-06-02,false,846fe7caf2ae6403be23174d10031a566d7b795a78ab1879f4c63cc42c6f5d53
 Folks Finance xChain,defi,65,0,0,10,AVALANCHE|POLYGON|ETH|ARBITRUM|BASE|BSC,,folks-finance-xchain,xapp.folks.finance,"folks finance xchain,folks-finance-xchain",,defillama,2026-06-02,false,ac13a467c5d844b8befcf5acbd5222237845e419a325e12f8ec695d043f37903
-Fomo3D,defi,65,0,0,10,ETH,,fomo3d,,fomo3d,,arkham,2026-06-02,false,d8cae708e0eaf07edef87f035d91390203a321812b6cbc9a88ceb4773f2d9438
+Fomo3D,defi,65,0,0,10,ETH,,fomo3d,,fomo3d,,arkham,2026-06-02,false,76074402f84ac5b0b023d4bc034c52a4f22ef9c1d8720fb217961352f351e38f
 Francium,defi,65,0,0,10,SOL,,francium,francium.io,francium,,arkham,2026-06-02,false,68da56e331a272df47f5d766fe8098230e84d05dc2b50c265ab7d428bf04feb9
 Gate Swap,dex,65,0,0,10,,,gate-swap,eb3.gate.com,"gate swap,gate-swap",,defillama,2026-06-02,false,6245928ea944408a02563116bff3da22769b1b88b7a1df3c64155e86febc8886
 Generic.Money,defi,65,0,0,10,ETH,,generic-money,generic.money,"generic.money,generic-money",,synthetic,2026-08-17,false,3103e90a626d0d1899b5781ebe08be91ff1ff020586617d11b44de9c64a2c217
@@ -1367,8 +1367,8 @@ Ionic Protocol,defi,65,0,0,10,BASE|OPTIMISM,,ionic,app.ionic.money,"ionic,ionic-
 ioTube,bridge,65,0,0,10,POLYGON|BSC|ETH,,iotube,iotube.org,iotube,,arkham,2026-06-02,false,079831bdcf9d2add591c5fd9027ee29bc5e76ba7ecbe0ee2913670d546c54c63
 IPOR Derivatives,defi,65,0,0,10,ETH|ARBITRUM|BASE,,ipor-derivatives,app.ipor.io,"ipor derivatives,ipor-derivatives",,defillama,2026-06-02,false,0c13998652a508c2d2d5799a8ec082a6012871bb7d3502bfb667896f61b5f566
 iZiSwap,dex,65,0,0,10,BSC|BASE|ARBITRUM|POLYGON|ETH,,iziswap,izumi.finance,iziswap,,defillama,2026-06-02,false,ae7e45cc2c9d0b8235af5ba89425651ccb77aa4771e751dcfea97b4f57a01fe8
-Kai Finance,defi,65,0,0,10,,,kai,kai.finance,kai,,arkham,2026-06-02,false,98772c123c5a9459a77539cec8bca07c9f44504064a5af2dd25048edbed314e1
-KaoyaSwap,dex,65,0,0,10,BSC,,kaoyaswap,,kaoyaswap,,arkham,2026-06-02,false,643bc26618878f5d6b3280221901558cf23e5ca7b230820bb2457643615f8900
+Kai Finance,defi,65,0,0,10,,,kai,kai.finance,kai,,arkham,2026-06-02,false,604ac5e6d5e2e12432fe50b244c089c25d9ff53eae0a1ae7920750abd8e4522a
+KaoyaSwap,dex,65,0,0,10,BSC,,kaoyaswap,,kaoyaswap,,placeholder,2026-10-14,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Kaskad,defi,65,0,0,10,,,kaskad,kaskad.app,kaskad,,defillama,2026-06-02,false,8de25f3ce4743f5d5a1fbfdb78bdc15676a2611c92c3a8854456754463deca47
 Kava Earn,defi,65,0,0,10,,,kava-earn,app.kava.io,"kava earn,kava-earn",,arkham,2026-06-02,false,306c7bcdb558f09609816107319aa4344b9778a0641fbb98a032712a2abbaeb7
 Kava Liquid,defi,65,0,0,10,,,kava-liquid,app.kava.io,"kava liquid,kava-liquid",,arkham,2026-06-02,false,306c7bcdb558f09609816107319aa4344b9778a0641fbb98a032712a2abbaeb7
@@ -1423,7 +1423,7 @@ MM Finance Cronos,dex,65,0,0,10,,,mm-finance-cronos,,"mm finance cronos,mm-finan
 Mode Bridge,bridge,65,0,0,10,ETH,,mode-bridge,app.mode.network,"mode bridge,mode-bridge,mode",,arkham,2026-06-02,false,d60c1a1692a3efdd06b4fbc4df22470f0b0e37c2835d77d53da60434728e14c2
 Mole,defi,65,0,0,10,,,mole,mole.fi,mole,,arkham,2026-06-02,false,c721f53fcc3d0daa49178c8c0b7d8d167a2e6b339195657c30d2f312a2d5e90b
 Momentum,dex,65,0,0,10,,,momentum,app.mmt.finance,"momentum,momentum-3",,defillama,2026-06-02,false,9437e60c965332d46824b83d157ceebfa83b868525622f8e3b2457efe83257c8
-Moola Market,defi,65,0,0,10,,,moola-market,moola.market,"moola market,moola-market",,arkham,2026-06-02,false,643bc26618878f5d6b3280221901558cf23e5ca7b230820bb2457643615f8900
+Moola Market,defi,65,0,0,10,,,moola-market,moola.market,"moola market,moola-market",,placeholder,2026-10-14,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 MORE Markets,defi,65,0,0,10,,,more-markets,more.markets,"more markets,more-markets",,defillama,2026-06-02,false,8213e8c2601308bde9810251faf34a9a73f71d6fce332d1b1f86f972f68f73bc
 Mountain Protocol,defi,65,0,0,10,ETH|ARBITRUM|BASE|OPTIMISM|POLYGON,,mountain,mountainprotocol.com,mountain,,arkham,2026-06-02,false,81d1cc89dead88d2f88c1bdd8e747a3244ead456471bf65381ef58630b57ce3e
 MovePosition,defi,65,0,0,10,,,moveposition,app.moveposition.xyz,moveposition,,arkham,2026-06-02,false,0fc23370192c5c2643efe9bcfb341a2afb4bf00e6c8ed5152a10e5064c9dc7bb
@@ -1509,7 +1509,7 @@ ShardingDAO,mining,65,0,0,10,ETH,,shardingdao,shardingdao.com,shardingdao,,arkha
 ShibaSwap V1,dex,65,0,0,10,ETH,,shibaswap,shibaswap.com,shibaswap,,arkham,2026-06-02,false,f7823e6401c555d86291605596d5ed76fab7cb6cf5e0605d41ca5753631f5dcc
 SHUI,defi,65,0,0,10,,,shui,app.shui.finance,shui,,defillama,2026-06-02,false,963b20ef86c5b634056547f2845e45d2594dd7712263eff8b0d1b498480b1090
 sICX,defi,65,0,0,10,,,sicx,icon.community,sicx,,defillama,2026-06-02,false,54fff1a05f3d9b73070efb2d75e3fbc87278d94134b595dc64848618babc0e71
-Sigma Money,defi,65,0,0,10,BSC,,sigma-money,sigma.money,"sigma money,sigma-money,sigmadotmoney",,arkham,2026-06-02,false,643bc26618878f5d6b3280221901558cf23e5ca7b230820bb2457643615f8900
+Sigma Money,defi,65,0,0,10,BSC,,sigma-money,sigma.money,"sigma money,sigma-money,sigmadotmoney",,placeholder,2026-10-14,false,260d7c321314ca6dd95c5da27521f3d068a641c644f09792266d954c75bdb66a
 Sirius,dex,65,0,0,10,,,sirius,siriustoken.io,sirius,,arkham,2026-06-02,false,bbb8c6751479a0fb53abb9c0b15ad640dc784e27c4ebce084077fe6f224096c8
 Smilee Finance gBERA,defi,65,0,0,10,,,smilee-finance-gbera,smilee.finance,"smilee finance gbera,smilee-finance-gbera",,defillama,2026-06-02,false,4af0c1bf247d2b14b9161588c05c039bf5ab5ac5ec6a2c5b2d870742b86408b0
 Solera,defi,65,0,0,10,,,solera,app.solera.market,solera,,arkham,2026-06-02,false,6107f42ef862bc2edb077f1b62c962bfdde0a97d9ddf1529d8ae97fe5cbe370e
@@ -1918,7 +1918,7 @@ HKD.com,exchange,58,,,,TRON|ETH|BTC,,hkd-com,hkd.com,"hkd,hkd.com",,favicon,2026
 Tudou Danbao,exchange,55,,,,TRON,,tudou-danbao,,"tudou danbao,tudou,danbao",土豆担保,synthetic,2026-08-17,false,aa894562e13fba96e469a6f174107f3670baa4e330e1d1babebb29027df53b0e
 CAD Digital,stablecoin_issuer,55,2,70,8,ETH,coingecko-tokens|manual-admin,cad-digital,tetradg.com,"cad digital,cadd,tetra digital group,tetra trust company",,none,2026-07-22,true,
 Coinsbuy.com,exchange,50,,,,ETH|TRON|BTC,,coinsbuy-com,coinsbuy.com,"coinsbuy,coinsbuy.com",,arkham,2026-06-02,false,7c9400fd21c075a424a648946611d75bc07ce5c81119a4d143c2b768cfc70c34
-TG.Casino,gambling,50,,,,ETH,,tg-casino,tg.casino,"tg.casino,tg casino,tgcasino",,arkham,2026-06-02,false,5ddfe901b26ecf86350b57b948af90a3737077d1370896fffb2ea5a3acb66bb3
+TG.Casino,gambling,50,,,,ETH,,tg-casino,tg.casino,"tg.casino,tg casino,tgcasino",,arkham,2026-06-02,false,372da5ac95035fac1bbc7b38420159b9583c998aad822415040bcc4a45a54353
 HiFiSwap,dex,50,1,90,10,TRON,arkham-intelligence|scorechain-counterparties|tronscan-api,hifiswap,hifiswap.io,"hifiswap,hifi swap",,manual,2026-06-23,false,420be7e7e0deba5aa3c3fc7ae6d8ff850814ed23a19902d0a995ffc032f9a48e
 GGBTC,exchange,50,3,75,5,ETH|BASE|OPTIMISM,manual-admin,ggbtc,ggbtc.com,"ggbtc,ggbtc exchange",,manual,2026-07-09,true,706002d368bbf847aeacff61b61783a8cc460a5f023b7e3ee1ca10aa7273df87
 Globe Derivative Exchange,exchange,50,3,75,5,ETH|OPTIMISM|ARBITRUM|AVALANCHE,manual-admin,globe-derivative-exchange,globe.exchange,"globe,globe exchange,globe derivative exchange,globe derivatives",,manual,2026-07-09,true,c2dacff637ef70a2b40ca7d2429c3add02acd545af65f4624478fdfd902ea298
@@ -2220,7 +2220,7 @@ Pintu.co.id,exchange,95.2,127,75,5,BSC|ETH|TRON,scorechain-counterparties,pintu-
 Themis,defi,95.2,136,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,themis,,themis,,defillama,2026-05-11,false,b284422c8857d162e2b9a967903b0b885f2e83a7de5b8561e17a215646ef6807
 MetaMask,wallet,95.0,,85,15,BSC|ETH|TRON,scorechain-counterparties,metamask,metamask.io,"metamask,metamask.io",,manual,2026-04-29,true,d1b2e37db4e8302bfbb04e2d0bbefa941fbd176a56272eb0fdc91255b01cd52d
 Baksmany,exchange,94.9,30,85,10,BSC|ETH|BTC,scorechain-counterparties|manual-admin,baksmany,baksmany.com,baksmany,,manual,2026-05-13,true,edd4c7d5df1855ac9e6823dc66b7fbd7d8ccaffb02abc871218e3556818aefe5
-Wallex.ir,sanctioned,94.9,30,85,100,BSC|ETH|TRON,scorechain-counterparties,wallex-ir,wallex.ir,"wallex,wallex.ir,wallex ir",,manual,2026-06-10,true,
+Wallex.ir,sanctioned,94.9,30,85,100,BSC|ETH|TRON,scorechain-counterparties,wallex-ir,wallex.ir,"wallex,wallex.ir,wallex ir",,manual,2026-06-10,true,2efa8beb6536f3303495817f5a3b95678b2399e1fd3deab103ba76d92a0b32e4
 Coins.ph,exchange,94.8,,85,5,BSC|ETH|TRON,scorechain-counterparties,coins-ph,coins.ph,"coins.ph,coins philippines",,manual,2026-04-29,true,9e58bd3c9c81d7e5c3032a899f72ee27b54511ce0e4ff2f68bd258ca98d5b75e
 CCPayment.com,psp,94.5,,85,15,BSC|ETH|TRON,scorechain-counterparties,ccpayment-com,ccpayment.com,ccpayment,,manual,2026-04-29,true,a645d3a28997f9e51e5bf1a855d0a59c970fb81280c645e6353e1a398d42653b
 Coinw.com,exchange,94.5,126,75,5,BSC|ETH|TRON,scorechain-counterparties,coinw-com,coinw.com,coinw,,arkham,2026-05-26,false,2fc40b49493712a18fd00111b7dcb5cd7d44f9551ad24d8060f0849d76d5e05f
@@ -2256,8 +2256,8 @@ Remitano - REKT,exchange,92.5,9,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTI
 Tidex.com,exchange,92.5,,85,5,BSC|ETH|TRON,scorechain-counterparties,tidex-com,tidex.com,tidex,,manual,2026-04-29,true,93d1770ea765bb22749cecd2e31d054061d3cea5a843a711f40ca402b0bdc21c
 Transak.com,psp,92.5,,85,15,BSC|ETH|TRON,scorechain-counterparties,transak-com,transak.com,transak,,manual,2026-04-29,true,a80355d9717cb0598d273c1629492e3d9d1d0d1ca5f5b4079bfd3020cb258a93
 Zaif.jp,exchange,92.5,,85,5,BSC|ETH|TRON,scorechain-counterparties,zaif-jp,zaif.jp,zaif,,manual,2026-04-29,true,d2103a6e4b0129cbeb848a8b46c38064d47b6e4b6348e8409bd093ac416e76b3
-Ramzinex.com,sanctioned,92.3,20,85,100,BSC|TRON,scorechain-counterparties,ramzinex-com,ramzinex.com,"ramzinex,ramzinex.com",,manual,2026-06-10,true,
-Bitpin.ir,sanctioned,92.0,19,85,100,BSC|ETH|TRON,scorechain-counterparties,bitpin-ir,bitpin.ir,"bitpin,bitpin.ir,bitpin ir",,manual,2026-06-10,true,
+Ramzinex.com,sanctioned,92.3,20,85,100,BSC|TRON,scorechain-counterparties,ramzinex-com,ramzinex.com,"ramzinex,ramzinex.com",,manual,2026-06-10,true,fd0467dccb360292ff225df7050e2010af9a62ba5bf419acdebc90e3771400cd
+Bitpin.ir,sanctioned,92.0,19,85,100,BSC|ETH|TRON,scorechain-counterparties,bitpin-ir,bitpin.ir,"bitpin,bitpin.ir,bitpin ir",,manual,2026-06-10,true,23a05b80eedfecbb4056212525f88cad34d3ef6647ae13904cb0c08984d80cc0
 Bitspark.io,exchange,92.0,,85,5,BSC|ETH|TRON,scorechain-counterparties,bitspark-io,bitspark.io,bitspark,,manual,2026-04-29,true,805d038ce6fb9476376042647b2436baaf56cc4d629703f63b1e8998a4e91341
 Liquid.com,exchange,92.0,,85,5,BSC|ETH|TRON,scorechain-counterparties,liquid-com,liquid.com,liquid,,manual,2026-04-29,true,b8e1fe839e1310317234afd9c12a75a64a8627a886af4862db715676d58e69df
 Akropolis - REKT,defi,91.8,8,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,akropolis-rekt,,"akropolis - rekt,akropolis rekt,akropolis-rekt",,arkham,2026-05-26,false,1d0a4ce384f1accea3e8345af82de4cc8497101a7fe9886a35f7c452b4164714
@@ -2315,7 +2315,7 @@ Team Finance - REKT,defi,91.8,8,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTI
 TempleDAO - REKT,defi,91.8,8,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,templedao-rekt,,"templedao - rekt,templedao rekt,templedao-rekt",,arkham,2026-05-26,false,14332c481d975773c38f086881b93938c9d647f239975df255885cfd6cf7ee38
 Vee Finance - REKT,defi,91.8,8,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,vee-finance-rekt,,"vee finance - rekt,vee finance rekt,vee-finance-rekt",,arkham,2026-05-26,false,290e52f6c96f38634a8efd8998de5d4e9e1776981ed236e29371e729e0d79534
 Wormhole - REKT,defi,91.8,8,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,wormhole-rekt,,"wormhole - rekt,wormhole rekt,wormhole-rekt",,arkham,2026-05-26,false,0d085c89a0bcd123f1df388054e56fbec3b8e205ba82d06ddbdcef6135ddce01
-Abantether.com,sanctioned,91.7,59,100,100,BSC|TRON,scorechain-counterparties|manual-admin,abantether-com,abantether.com,"abantether,aban tether,abantether.com (iran — operator 2026-05-09),abantether com iran operator 2026 05 09,abantether-com-iran-operator-2026-05-09",,manual,2026-06-10,true,
+Abantether.com,sanctioned,91.7,59,100,100,BSC|TRON,scorechain-counterparties|manual-admin,abantether-com,abantether.com,"abantether,aban tether,abantether.com (iran — operator 2026-05-09),abantether com iran operator 2026 05 09,abantether-com-iran-operator-2026-05-09",,manual,2026-06-10,true,27c52cfdf347d4aa0975877ea132996cc39713d750a732411da281cbcd3b0217
 Coinbase.com,exchange,100,894,90,5,BSC|ETH|BTC|SOL,scorechain-counterparties|arkham-intelligence,coinbase-com,coinbase.com,"coinbase,coinbase (arkham prediction),coinbase arkham prediction,coinbase-arkham-prediction","coinbase wallet,coinbase custody",arkham,2026-05-26,false,c9f43b3fe9f8df7a059a36cc69744bc70f2e33394ae9f6db8a35b4f2ee79347d
 Bitopro.com,exchange,91.5,122,75,5,BSC|ETH|TRON,scorechain-counterparties,bitopro-com,bitopro.com,bitopro,,arkham,2026-05-26,false,2d9a29fd5014d2e030f71e60c43866251c010f8e1dce989c406647fe21d5f23d
 AscendEx.com,exchange,91.3,17,85,5,BSC|ETH|TRON,scorechain-counterparties,ascendex-com,ascendex.com,"ascendex,bitmax",,arkham,2026-05-26,false,2589b05449b910f529b72733d59298d547b8f6e7c1442fc72194a8125be73345
@@ -2396,7 +2396,7 @@ Cryptal.com,exchange,86.8,8,85,5,BSC|ETH,scorechain-counterparties,cryptal-com,c
 Dex-trade.com,exchange,86.8,8,85,5,BSC|ETH|TRON,scorechain-counterparties,dex-trade-com,dex-trade.com,"dex trade,dex-trade,dex-trade.com",,arkham,2026-05-26,false,f0d3a15693ceaa9e34d7a709982e31c4effc6a51d34f3d5e797e5085527a5acb
 Gamdom.com,gambling,86.8,8,85,50,ETH,scorechain-counterparties,gamdom-com,gamdom.com,gamdom,,arkham,2026-05-26,false,037610957702ded38d506677b7fa7e8962a7d3594a8eb5215d1743d24ddf8ee1
 Gemini.com,exchange,86.8,8,85,5,ETH,scorechain-counterparties,gemini-com,gemini.com,gemini,,arkham,2026-05-26,false,e8b951ed3d77226e69fbae18f73955bbea1e446041792a93e89d8346a18ef03c
-Golden Whale,dex,86.8,8,85,10,TRON,scorechain-counterparties,golden-whale,,"golden whale,golden-whale",,manual,2026-05-13,true,f751025233860ccfce174c5e88e9e0c3069a1dd501993bdb1449293a5939e2e0
+Golden Whale,dex,86.8,8,85,10,TRON,scorechain-counterparties,golden-whale,,"golden whale,golden-whale",,manual,2026-05-13,true,cbb53448939cb78fb7e80e1401d2b42e298d6ba97effada070cf5d7e76da06c0
 LATOKEN.com,exchange,86.8,8,85,5,BSC|ETH|TRON,scorechain-counterparties,latoken-com,latoken.com,latoken,,arkham,2026-05-26,false,215e4778a53faadeb800c17e699a21406dc7d720c401bea71a0b510cc6f524a9
 LI.FI,bridge,86.8,8,85,15,BSC|ETH,scorechain-counterparties,li-fi,li.fi,"li.fi,lifi",,arkham,2026-05-26,false,d54ffc6c0953e412f1b36755098e9e6011f887c39e8f1678408b3f8f9d8fa7d2
 Mayan.finance,bridge,86.8,8,85,15,BSC|ETH,scorechain-counterparties,mayan-finance,mayan.finance,"mayan.finance,mayan",,arkham,2026-05-26,false,8860aa101702e2ea256f14e2dc7e523b5af2d8b0f7a1016fb1fd9717972c3f2e
@@ -2453,9 +2453,9 @@ Squad Swap,dex,85.2,6,85,10,BSC,scorechain-counterparties,squad-swap,,"squad swa
 Upay,psp,85.2,6,85,15,TRON,scorechain-counterparties,upay,,upay,,manual,2026-04-23,true,420b66cd669433808b68d2e8f3e7a7fb4f4f4e096f08a294b24a608f572720c1
 Xrex,exchange,85.2,6,85,5,TRON,scorechain-counterparties,xrex,,xrex,,manual,2026-05-13,true,216357599fa35e67a4d094667df0e1e530589782401db691d3d77f41ec317c63
 B2C2,otc_desk,85.0,6,85,10,ETH|BSC|ARBITRUM|AVALANCHE|BASE|OPTIMISM|POLYGON,scorechain-counterparties|etherscan-html|manual-admin,b2c2-com,b2c2.com,"b2c2,b2c2.com,b2c2 group,b2c2 otc",,manual,2026-07-15,true,07da9e442bee727636f909715581e618ef640fbb0666bbbb608fc5d188fc1418
-Bitrefill.com,psp,85.0,16,85,15,ETH,scorechain-counterparties|etherscan-html,bitrefill-com,bitrefill.com,bitrefill,,arkham,2026-06-02,true,15e2ea85af66a0dceb9904df4603de8a9e1ed03dbfa28d0d3997cdbf6d447f34
+Bitrefill.com,psp,85.0,16,85,15,ETH,scorechain-counterparties|etherscan-html,bitrefill-com,bitrefill.com,bitrefill,,arkham,2026-06-02,true,9d371816b2f34d21f1b085da20cf8c4d0d000e7fa32aebc3aeb76b8d6c3a3bcd
 UnitrustGlobal.com,custodian,85.0,52,85,50,BSC|ETH|TRON,scorechain-counterparties|manual-admin,unitrustglobal-com,unitrustglobal.com,"unitrust global,unitrustglobal",,manual,2026-05-12,true,14a1ba933f174cc84103894d38b42224bc9db04aad11afba49877fe76b388bd0
-Zerohash.com,psp,85.0,6,85,15,ETH,scorechain-counterparties|etherscan-html,zerohash-com,zerohash.com,"zero hash,zerohash,zerohash.com",,manual,2026-06-29,true,c8659aaf32c59cc1d49d9e48be3cc574f3d1a18aa263d5304df698d415798339
+Zerohash.com,psp,85.0,6,85,15,ETH,scorechain-counterparties|etherscan-html,zerohash-com,zerohash.com,"zero hash,zerohash,zerohash.com",,manual,2026-06-29,true,b4056b21bd2916c0c7289344b3bfaf0349b18dc6c52da90cda7c6d6dcfb59369
 Upbit.com,exchange,84.8,113,75,5,ETH|TRON,scorechain-counterparties,upbit-com,upbit.com,upbit,,arkham,2026-05-26,false,8695bd7ff26dc94575e0c74a44f73481c3baf0e9e583dedcd8650200ae36c3a1
 Aifory Pro,exchange,84.2,5,85,5,ETH|TRON,scorechain-counterparties,aifory-pro,,"aifory,aifory pro,sooty,sooty limited,sooty ltd",,manual,2026-04-23,true,e4348bd585065902b3a6fe3a2f874fccf3ecb3e934618b2b9f1e50514f491d38
 Binance Wallet,wallet,84.2,5,85,5,BSC|ETH|TRON,scorechain-counterparties,binance-wallet,,binance wallet,,arkham,2026-05-26,false,a0e24a935c02ce7c68cbb2dd8fce26c662b224dcbbcba0d6d70583994608d1d0
@@ -2469,7 +2469,7 @@ DePay.com,psp,84.2,5,85,15,BSC|ETH|TRON,scorechain-counterparties,depay-com,depa
 Dtcpay.com,psp,84.2,5,85,5,BSC|ETH|TRON,scorechain-counterparties,dtcpay-com,dtcpay.com,"dtcpay.com,dtcpay com,dtcpay-com,dtcpay",,manual,2026-07-15,true,8623a9dbeaeaa9710ff757fb084a30f2eb0a26eb7adae50cfffb5b842032ecd4
 Ether.fi,defi,84.2,5,85,10,ETH,scorechain-counterparties,ether-fi,ether.fi,"ether.fi,ether",,arkham,2026-05-26,false,b98ebb24c0a6bf880bcfda761dde819086e1dbd4c5f52d303200073910e9435d
 FameMarkets,exchange,84.2,5,85,5,TRON,scorechain-counterparties,famemarkets,,,,synthetic,2026-08-17,false,a21eedce34dbdb414469b88ee01058fc058d186de4897d13d8f7bbcfaaaf418f
-Feee.io,defi,84.2,5,85,10,TRON,scorechain-counterparties,feee-io,feee.io,"feee.io,feee,feee-io,feeeio",,manual,2026-05-25,true,b3ba4aa3100d86a76f09f28da04baba4e85d9c3ad4e3346de63bbf1dc5bb09dc
+Feee.io,defi,84.2,5,85,10,TRON,scorechain-counterparties,feee-io,feee.io,"feee.io,feee,feee-io,feeeio",,manual,2026-05-25,true,d66d549d86818b3ff09a03e1198343f36e1ac24eed2ae356ab0b94acf42f8fee
 Flow Traders,otc_desk,84.2,5,85,10,ETH,scorechain-counterparties,flow-traders,,"flow traders,flow-traders",,arkham,2026-07-15,true,e6471f7aacffeaeab6edcde7c6a355a59f69adec4498d27796a09b44a43cb9c5
 Krystal.app,dex,84.2,5,85,10,BSC,scorechain-counterparties,krystal-app,krystal.app,"krystal.app,krystal",,favicon,2026-05-26,false,da52983e7189f82942bc29178495db5607fb65d559f1c3ec1bf1bc952890c98c
 Layerzero.network,bridge,84.2,5,85,15,BSC|ETH,scorechain-counterparties,layerzero-network,layerzero.network,"layerzero.network,layerzero",,arkham,2026-05-26,false,69fdce4f5071f3d63f5812a95aecbefe0384d1e1c7f37f030ca3697b2a619cce
@@ -2478,7 +2478,7 @@ Obmen One,exchange,84.2,5,85,5,ETH,scorechain-counterparties,obmen-one,,obmen on
 Rhino.fi,bridge,84.2,5,85,15,BSC|ETH|TRON,scorechain-counterparties|manual-admin,rhino-fi,rhino.fi,"rhino.fi,rhino,rhino fi",,manual,2026-07-06,true,66f6bf071877b1d6dc8e768fd3017eeefb9627556e36cec1f0b9dfdc284f2b5c
 Robinhood.com,exchange,84.2,5,85,5,BSC|ETH,scorechain-counterparties,robinhood-com,robinhood.com,"robinhood,robinhood.com",,arkham,2026-05-26,false,c2c46f49c39c2551540bc093fe2084b608819e5ad4d75e3518ed73cf75a9f16b
 scroll.io,bridge,84.2,5,85,15,ETH,scorechain-counterparties,scroll-io,scroll.io,"scroll.io,scroll",,arkham,2026-05-26,false,30f810a7657086b998b8a680f0da527c453e1c91c0cba46721a8d1795f686f0a
-Suncrypto.in,exchange,84.2,5,85,5,BSC|TRON,scorechain-counterparties,suncrypto-in,suncrypto.in,"suncrypto,suncrypto in,suncrypto.in",,arkham,2026-05-26,false,137c710aa301ed9e813c6468f00bb4b2e5cdbcc0059e5ae2003455fcc56afaf8
+Suncrypto.in,exchange,84.2,5,85,5,BSC|TRON,scorechain-counterparties,suncrypto-in,suncrypto.in,"suncrypto,suncrypto in,suncrypto.in",,arkham,2026-05-26,false,a84cda2e8eec6068c23a117f9be05d6cd8ed4c7ffbd4251ba1fd4d32db58587e
 Websea.com,exchange,84.2,5,85,5,BSC|ETH|TRON,scorechain-counterparties,websea-com,websea.com,"websea,websea.com",,arkham,2026-05-26,false,7526327cd7629d30f9483efaa285d3eb8d2f73b0d7f3b047e737e31f30f53037
 xy.finance,bridge,84.2,5,85,15,BSC|ETH,scorechain-counterparties,xy-finance,xy.finance,"xy.finance,xy,xy-finance",,arkham,2026-05-26,false,734fcc9bc01ed909174260dadf5d05b7d1e573b1468eb29202f8d51dd4e3ac28
 zkSync.io,bridge,84.2,5,85,15,ETH,scorechain-counterparties,zksync-io,zksync.io,"zksync.io,zksync",,arkham,2026-05-26,false,4f75276f2f8fd903147b4dea3a84ed29461140ca0b6396ff4198f874a1f56821
@@ -2581,7 +2581,7 @@ Meson.fi,dex,81.5,3,85,10,BSC|ETH|TRON,scorechain-counterparties,meson-fi,meson.
 MGBX,exchange,81.5,3,85,5,TRON,scorechain-counterparties,mgbx,,"mgbx,mgbx.com,megabit",,manual,2026-07-15,false,b2270032c669d5feae9e87de5db6d8d9cf86498f821d8d5819a1293a23b3ae05
 mimic.fi,dex,81.5,3,85,10,BSC|ETH,scorechain-counterparties,mimic-fi,mimic.fi,"mimic.fi,mimic",,arkham,2026-05-26,false,9517fa2cf9ba8a44365622523a3e6c5c2b4e1079a3f2883e13bf01d14838317c
 Mobee.io,exchange,81.5,3,85,5,BSC|TRON,scorechain-counterparties,mobee-io,mobee.io,"mobee.io,mobee io,mobee-io,mobee",,manual,2026-07-15,true,3fb59b53789236d2200c54876dad2d658c1457aaa4cc9f755c930640e4b9216d
-multiple DEXs,exchange,81.5,3,85,5,BSC|ETH,scorechain-counterparties,multiple-dexs,,multiple dexs,,arkham,2026-05-26,false,f3fc63329ac289a853e4a77b7221a2b627154195a0c0160f5fbce05fce4c4781
+multiple DEXs,exchange,81.5,3,85,5,BSC|ETH,scorechain-counterparties,multiple-dexs,,multiple dexs,,arkham,2026-05-26,false,52413dff6ff8cac5b4232fdd5fa356c33e546aeda702903f5837fab77fc39b03
 NEAR Intents,dex,81.5,3,85,10,BSC|ETH|TRON,scorechain-counterparties,near-intents,app.near-intents.org,"near intents,near-intents",,arkham,2026-05-26,false,44448b0e75597b2c7f123858f07dfeef37d3a62b03ae9d158af01d8c172786d7
 NovaDAX.com.br,exchange,81.5,3,85,5,BSC|ETH|TRON,scorechain-counterparties,novadax-com-br,novadax.com.br,"novadax,novadax com br,novadax.com.br",,arkham,2026-05-26,false,2b522e701eb106c032889601a32a50cdc14e2301a60dcd18328135ef777e143b
 OKCoin.jp,exchange,81.5,3,85,5,BSC|ETH|TRON,scorechain-counterparties,okcoin-jp,okcoin.jp,"okcoin,okcoin jp,okcoin.jp",,arkham,2026-05-26,false,484df9a73bda87714ee838bbba3d1564aa06c29b4cc1b3fccdff5bb91730c540
@@ -2625,7 +2625,7 @@ argent.xyz,wallet,100,35559,85,5,ETH,scorechain-counterparties|ethereum-lists-co
 ArzPaya.com,exchange,79.7,2,85,5,TRON,scorechain-counterparties,arzpaya-com,arzpaya.com,"arzpaya,arzpaya.com",,arkham,2026-05-26,false,d863614496f5e64f49640bd78cb33f00fdba3715b5faecf5e5b3a3910fd35f31
 Aster,dex,79.7,2,85,10,BSC|ETH,scorechain-counterparties,aster,,aster,,arkham,2026-05-26,false,cdb636a86c99f3ec5038566232cb0a67dc8e3a02cc08a65ccd7c9cb2cf3cca9a
 Axelar.network,bridge,79.7,2,85,15,ETH,scorechain-counterparties,axelar-network,axelar.network,"axelar.network,axelar",,arkham,2026-05-26,false,99c37f08de86ad043243406619d4e3c58b6fcd334425f763af37b757156ce2e4
-Axie Infinity,nft_marketplace,79.7,2,85,5,ETH,scorechain-counterparties,axie-infinity,,axie infinity,,arkham,2026-05-26,false,0a878c7f30a7fc97425a8d513ff36848cd2ee817625226ffe3c910519ed71b52
+Axie Infinity,nft_marketplace,79.7,2,85,5,ETH,scorechain-counterparties,axie-infinity,,axie infinity,,arkham,2026-05-26,false,cda9fbb78d535acd6a76f2dbc8de27879124116b99bf5e8faba71491ba0e09b1
 Banana Gun,dex,79.7,2,85,10,BSC,scorechain-counterparties,banana-gun,t.me,"banana gun,banana-gun",,arkham,2026-05-26,false,ffeb7e6a44aedec46b33baf372506fcb162db8a46bc39b5de0439ccb972a0bda
 Bella Protocol,defi,79.7,2,85,10,ETH,defillama-protocols|scorechain-counterparties,bella-protocol,,"bella,bella-protocol",,arkham,2026-05-26,false,ee3a3cbbe6980ad515bb06067417a93d49a5d38e0875b71fea49ea6d6e090237
 belt.fi,dex,79.7,2,85,10,BSC,scorechain-counterparties,belt-fi,belt.fi,"belt.fi,belt",,arkham,2026-05-26,false,5ab6850db35d64df27dae1b3a56dc5f1438551403f2c441e8af7298424123b97
@@ -2776,7 +2776,7 @@ rumpel,defi,75.6,108,70,5,BSC|ETH,defillama-adapters,rumpel,,rumpel,,defillama,2
 B2BinPay.com - B2BX.exchange,exchange,75.0,100,75,5,BSC|ETH|TRON,scorechain-counterparties,b2binpay-com-b2bx-exchange,,"b2binpay,b2bx,b2binpay.com",,arkham,2026-05-26,false,60c9c613ece03edb3631006897fb01f23d841c26fce953b0746e36428eeeb328
 ChaingeFinance,defi,74.9,107,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,chaingefinance,,chaingefinance,,defillama,2026-05-11,false,84fc8da530692cbce912abb5c41a8033457e82490c25bd067341ad972194e563
 Crystal,exchange,74.7,2,75,5,TRON,crystal-verdicts,crystal,,crystal,,defillama,2026-05-27,false,7ed0e6ae6f0e3ce6b9820705b5358ad8103bc683345cae38824145e13ccd8e17
-Hopelend,defi,72.8,104,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,hopelend,,hopelend,,defillama,2026-05-11,false,105364671381dd0ec027e9995c181793dd56002c4cff3dac775c2ab5a8465b70
+Hopelend,defi,72.8,104,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,hopelend,,hopelend,,defillama,2026-05-11,false,3238d6bf8df265e8445e48c0b1e84973bd714c067fec2ab02bae29d8efd23131
 MetaPoint,defi,72.8,104,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,metapoint,,,,synthetic,2026-08-17,false,bc5807e996273a67217e8f9cb33748d8f1e64ead192b413aea260dead416ddc5
 Tochka24.org,exchange,72.8,97,75,5,TRON,scorechain-counterparties,tochka24-org,tochka24.org,"tochka24,tochka 24,tochka24.org",,manual,2026-06-21,true,2561e0f7240559a24e689e77381c0239e3e5b9a228d20891fafafc6162e30c2a
 FourMeme,defi,72.1,103,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,fourmeme,,"fourmeme,four.meme,four-meme",,manual,2026-05-12,true,07d4d2c277cc3b036881ab17831f71313178a6ede566bd5c89990ef7f9dcd9e5
@@ -2864,7 +2864,7 @@ BalancerV2,defi,100,313,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POL
 BEVO,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bevo,,,,synthetic,2026-08-17,false,c1d3011749b1f5b754e4860b1b110315262a8798ad3d604bb00d1b9a2f74fac7
 BGLD,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bgld,,,,synthetic,2026-08-17,false,cdf140b396d228031974a2f7bdcce0b83bd575368193ce5d899adfd205b83777
 BH,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,bh,,bh,,arkham,2026-05-11,false,db2cb302eb68bedc0c44ed22c0109add8b21f9b1ae99033ed854be0150e37f71
-BTC20,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,btc20,,btc20,,arkham,2026-05-11,false,94c81018ebfe63d5b566b0a7961b78ed4e866f6f1d8cb4c09b7d9f7e5d5174b8
+BTC20,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,btc20,,btc20,,arkham,2026-05-11,false,62a66d4c742a09fb03320c023d09c4acf7384c07ef8f62f726a6817c067b48b7
 BTC24H,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,btc24h,,,,synthetic,2026-08-17,false,7e48cd424671544611155321d2cbd9dec45fd24e61a33b4c36695e1537dd2cec
 Burntbubba,defi,53.2,56,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,burntbubba,,burntbubba,,arkham,2026-05-11,false,9f9c5c2af19fed9adef3a2452fff2f36d52664e4314eab34439342a65164c426
 Centrifuge,defi,53.2,76,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|OPTIMISM,defillama-adapters|ethereum-lists-contracts,centrifuge,,centrifuge,,arkham,2026-06-19,false,0c0176187e50929a7092ec720dcf35d0e296fcc6cc838d251ffc66d2e41c44cb
@@ -2971,7 +2971,7 @@ KRCToken pair,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|
 LPMine,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,lpmine,,,,synthetic,2026-08-17,false,2b27e44fa1e02313eab03d6da22c2d92f50452396323a5c7901eff9e9a22bb2a
 MainnetSettler,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,mainnetsettler,,,,synthetic,2026-08-17,false,503599f5d1e4a211eeb8199d5b4f94b0b00fcb89aee77264b3e5147ee632e7db
 MAMO,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,mamo,,,,synthetic,2026-08-17,false,71eb9ad8669cd02abdec36a1f1539e0cfa8ee7fb0c96f145ce1a0a9a6ca81866
-Market,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,market,,market,,arkham,2026-05-11,false,1ee64f7019ce47e9f81d23cf96a71b341ed380651fa607eb91da8e639d8e4782
+Market,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,market,,market,,arkham,2026-05-11,false,2c8a0b45f598a0f2762be3ca85c1b88e4072b0073e8fc232aab017e92b91fc67
 MFT,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,mft,,,,synthetic,2026-08-17,false,e3b6ec82215caba25fcf0f6e1f4c012a1d6e3d5f0225675f43019cd84d2fbc90
 MIC,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,mic,,mic,,defillama,2026-05-27,false,1d5dc7dfccfe75dfc2915120d2f43f0d6ef934f94283c0aceedcd17462342394
 Mono,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,mono,,mono,,defillama,2026-05-27,false,6244c3b9f9367e084725ea343f2675423e21c4dfa7125311b6a63fc4c487ce2e
@@ -3009,7 +3009,7 @@ WSM,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,ha
 Yieldblox,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,yieldblox,,yieldblox,,manual,2026-05-13,true,712c4ee1889dd80bd4b9c07bcfa29721f561bd2e3dfefe7f30b56b2656436356
 YodlRouter,defi,45.6,48,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,yodlrouter,,,,synthetic,2026-08-17,false,3672648fac8370e74d5588ec34e6cc79bcd5386a97024cb42c06b144b1b83b71
 Gnosis Sight,defi,45.5,65,70,5,ETH,ethereum-lists-contracts,gnosis-sight,,"gnosis sight,gnosis-sight",,arkham,2026-06-19,false,8b61aa790e1859323e7131a51c40da845d87af526c07ac715b3c813b5dea956a
-mobius,defi,45.5,65,70,5,ETH,defillama-adapters|vasp-entity-defaults,mobius,,mobius,,arkham,2026-05-11,false,7999e93417b167c575aea1a8f6c7b6f458c5f08826f824e5e4fd30ea313b2cdd
+mobius,defi,45.5,65,70,5,ETH,defillama-adapters|vasp-entity-defaults,mobius,,mobius,,arkham,2026-05-11,false,3062d92f88f8cd862760516dd94564028ba8f5a9d38c52ec2740f12c403659c2
 OFAC SDN: Blender.io,sanctioned,45.0,45,100,95,BTC,ofac-sdn,ofac-sdn-blender-io,,,,synthetic,2026-08-17,false,7f5d3e4a1e0d230fc3c17ed151036ec81f25972226340afdb20cf210d2eb4693
 ParaSwap.io,dex,45.0,60,75,10,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,scorechain-counterparties|vasp-entity-defaults,paraswap-io,paraswap.io,"paraswap.io,paraswap",,arkham,2026-05-26,false,170813a2b087d4ab9f11b420174d2366c4fc8827fb6de0455f36de982ea3bd89
 AAVE Repay Adapter,defi,44.8,64,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,aave-repay-adapter,,"aave repay adapter,aave-repay-adapter",,arkham,2026-05-11,false,db1d882a92c9fad8dcd3c7720bfb967684b858c3a7c11f3b54cd0a90bd5e1d87
@@ -3024,7 +3024,7 @@ XaveFinance,defi,44.8,64,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|PO
 Julswap,dex,44.2,59,75,10,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,scorechain-counterparties|vasp-entity-defaults,julswap,,julswap,,arkham,2026-05-26,false,9bf6f84bedc4e07d26f131d9e73189946be196668dc9a4948386ccc930b918d0
 OFAC SDN: Parsarad Behrouz پارسا راد بهروز,sanctioned,44.0,44,100,95,BTC,ofac-sdn,ofac-sdn-parsarad-behrouz,,,,synthetic,2026-08-17,false,ca65d7dd31fa4869b378eb342d18b6a9936395902d4f15a615b9395f97f5f694
 INUKO,defi,43.4,62,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,inuko,,,,synthetic,2026-08-17,false,3883fe646c0ad6efcb42ce3b12d4a6a72830af802cc64372a15acac38f200779
-Olympus,defi,43.4,62,70,5,ARBITRUM|BASE|ETH|FANTOM,defillama-adapters|ethereum-lists-contracts,olympus,,olympus,,arkham,2026-06-19,false,e7f04259bd0550ad97e0f20539443f44e86c7944e738121f21a01b852202cd90
+Olympus,defi,43.4,62,70,5,ARBITRUM|BASE|ETH|FANTOM,defillama-adapters|ethereum-lists-contracts,olympus,,olympus,,arkham,2026-06-19,false,9dcb3f78ac7c8f2bd16aedd9135e18c89c378a947b9c5fd355c0d5aed19370f3
 Uniswap v3,dex,42.8,57,75,10,BSC|ETH,scorechain-counterparties,uniswap-v3,,"uniswap v3,uniswap-v3",,arkham,2026-05-11,false,b924f21ac93e25331075d473882ace524510cf57667322584e04a276b6b383cf
 tothemoon,defi,42.7,61,70,5,ARBITRUM|AVALANCHE|BSC|ETH|OPTIMISM|POLYGON|TRON,defillama-adapters,tothemoon,,tothemoon,,defillama,2026-05-11,false,5fbb2ac3ce48a729760135cbf1346b7f8e98a76330cda8ed0e861c431673456b
 Card.onekey.so,wallet,42.0,56,75,5,BSC|ETH|TRON,scorechain-counterparties,card-onekey-so,card.onekey.so,,,favicon,2026-05-26,false,53b4626bb77035ec043db5e80172008bd3051a0b5fd4baf63174c18970bef22b
