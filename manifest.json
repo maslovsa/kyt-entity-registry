@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-14T14:25:39+00:00",
+  "generated_at": "2026-10-14T14:34:47+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -6475,7 +6475,9 @@
       "category": "bridge",
       "logo_path": "logos/bridge/hyperlane.png",
       "keywords": [
-        "hyperlane"
+        "hyperlane",
+        "hyperlane.xy",
+        "hyperlane-xy"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -25023,17 +25025,6 @@
       "keywords": [
         "galaxy digital",
         "galaxy-digital"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "hyperlane-xy",
-      "category": "dex",
-      "logo_path": "logos/dex/hyperlane-xy.png",
-      "keywords": [
-        "hyperlane.xy",
-        "hyperlane-xy"
       ],
       "product_aliases": [],
       "sanctioned": false

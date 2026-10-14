@@ -623,7 +623,7 @@ GMX V2 Perps,defi,85,0,0,10,ARBITRUM|AVALANCHE,,gmx-perps,gmx.io,"gmx v2 perps,g
 Hastra,defi,85,0,0,10,SOL,,hastra,hastra.io,hastra,,defillama,2026-05-11,false,bdb1e96f78ebaf62ad118cd6d87dd8d6b296e6e19f54f66b666bde89c6042281
 Homora V2,defi,85,0,0,10,ETH|BSC|AVALANCHE|FANTOM|OPTIMISM,,homora,homora-v2.alphaventuredao.io,homora,,favicon,2026-05-11,false,dd0b458a69bf9a1668f8f2da002aecc7a20befab04843d28b8edc34480f9f57a
 Huma Finance V2,defi,85,0,0,10,SOL,,huma,huma.finance,huma,,arkham,2026-06-02,false,ae48548ef768a602a0756cb58a05163348ae6a13958c52cad199d42574e891ff
-Hyperlane,bridge,85,0,0,10,BSC|ETH|BASE|ARBITRUM|OPTIMISM|POLYGON|AVALANCHE,,hyperlane,hyperlane.xyz,hyperlane,,arkham,2026-05-11,false,c4a45b909708f19460a128131fbce1ef7c2c69a866a59970f109e8535f7876c9
+Hyperlane,bridge,85.2,6,85,10,BSC|ETH|BASE|ARBITRUM|OPTIMISM|POLYGON|AVALANCHE,scorechain-counterparties,hyperlane,hyperlane.xyz,"hyperlane,hyperlane.xy,hyperlane-xy",,arkham,2026-05-11,false,c4a45b909708f19460a128131fbce1ef7c2c69a866a59970f109e8535f7876c9
 HyperLend Pooled,defi,85,0,0,10,,,hyperlend-pooled,app.hyperlend.finance,"hyperlend pooled,hyperlend-pooled",,arkham,2026-05-11,false,36f2600a191da070446438fa848f435d909c788da7eeb15645086c428cb96e3b
 Hyperliquid HLP,defi,85,0,0,10,,,hyperliquid-hlp,app.hyperliquid.xyz,"hyperliquid hlp,hyperliquid-hlp",,arkham,2026-05-11,false,dbf9c0fedcb9bab86497aa05a8991a66e2376edc3cbb7213da14cd9e01a6b8d6
 Hyperliquid Spot Orderbook,dex,85,0,0,10,,,hyperliquid-spot-orderbook,app.hyperliquid.xyz,"hyperliquid spot orderbook,hyperliquid-spot-orderbook",,arkham,2026-05-11,false,dbf9c0fedcb9bab86497aa05a8991a66e2376edc3cbb7213da14cd9e01a6b8d6
@@ -1501,7 +1501,7 @@ Sirius,dex,65,0,0,10,,,sirius,siriustoken.io,sirius,,arkham,2026-06-02,false,bbb
 Smilee Finance gBERA,defi,65,0,0,10,,,smilee-finance-gbera,smilee.finance,"smilee finance gbera,smilee-finance-gbera",,defillama,2026-06-02,false,4af0c1bf247d2b14b9161588c05c039bf5ab5ac5ec6a2c5b2d870742b86408b0
 Solera,defi,65,0,0,10,,,solera,app.solera.market,solera,,arkham,2026-06-02,false,6107f42ef862bc2edb077f1b62c962bfdde0a97d9ddf1529d8ae97fe5cbe370e
 Solv RWA,defi,65,0,0,10,BSC,,solv-rwa,solv.finance,"solv rwa,solv-rwa",,arkham,2026-06-02,false,f22d2adecaad7242f04e26b693901fcbfdc630ce9f6045bd24c6822788baec74
-Sonic ICP,dex,65,0,0,10,,,sonic-icp,sonic.ooo,"sonic icp,sonic-icp,sonic-2",,arkham,2026-06-02,false,cc4f8177145d0e9565ccc877b1585beae5534928e026d1358da65e6aa4823c08
+Sonic ICP,dex,65,0,0,10,,,sonic-icp,sonic.ooo,"sonic icp,sonic-icp,sonic-2",,manual,2026-10-14,true,ecd5fd0b2298a405346603829c5ae405f7bf2fc2260ea62d6b5a0299d7ed698f
 Sophon Farm,defi,65,0,0,10,ETH,,sophon-farm,farm.sophon.xyz,"sophon farm,sophon-farm",,arkham,2026-06-02,false,8e6433e70b7f2b5482aa0c6898f59b9ba36a18d27a131aa5ffa398b075b464e1
 Sorare Bridge,bridge,65,0,0,10,ETH,,sorare-bridge,sorare.com,"sorare bridge,sorare-bridge",,arkham,2026-06-02,false,336a060615765e9f1ed06d8b5aa530503abae3cf9d3eb0a04b74fab00f22bf40
 Soroswap,dex,65,0,0,10,,,soroswap,soroswap.finance,soroswap,,arkham,2026-06-02,false,15d99a978c8f52ebd225d6a5b612a4d9e19df31a396f176f34614a149a1f366f
@@ -1515,7 +1515,7 @@ Splash Protocol,dex,65,0,0,10,,,splash,splash.trade,"splash,splash-trade",,arkha
 Splashing Stake,defi,65,0,0,10,,,splashing-stake,splashing.xyz,"splashing stake,splashing-stake",,defillama,2026-06-02,false,549c3d91db259ee2059aa7d336373a3fc6e55fc7f690bacfb60919cc0377fe65
 Sport.fun,defi,65,0,0,10,BASE,,sport-fun,pro.sport.fun,"sport.fun,sport-fun",,favicon,2026-06-02,false,16394159e03ada17377d34cdfb8dda7ef80b6e9beae9158386f0fa0ca1f9bd72
 SquadSwap WOW,dex,65,0,0,10,BSC,,squadswap-wow,squadswap.com,"squadswap wow,squadswap-wow",,arkham,2026-06-02,false,be1e49dbd087c418ded65cb741211f8ebc1fa09b2502e21e8025b7e15bcb6100
-Stable Jack V1,defi,65,0,0,10,AVALANCHE,,stable-jack,stablejack.xyz,"stable jack,stable-jack",,arkham,2026-06-02,false,f9fdb32a5289e48a6da22726f4dd18e1a6d2684b9303554be4f55722709c1375
+Stable Jack V1,defi,65,0,0,10,AVALANCHE,,stable-jack,stablejack.xyz,"stable jack,stable-jack",,manual,2026-10-14,true,130a1084fc5bfaa864b1dcf06a3b8ad5b58d0332bfcc3508403430576bd0daae
 Stable Swap V3,dex,65,0,0,10,,,stable-swap,swap.stable.xyz,"stable swap,stable-swap",,arkham,2026-06-02,false,f9fdb32a5289e48a6da22726f4dd18e1a6d2684b9303554be4f55722709c1375
 StableHodl,defi,65,0,0,10,POLYGON|ETH|BSC,,stablehodl,stablehodl.com,stablehodl,,defillama,2026-06-02,false,c308242db17a8a4d79a2d59829f1546784e4681893891c033229851a82322c9a
 Stafi,defi,65,0,0,10,ETH|SOL|BSC,,stafi,stafi.io,stafi,,arkham,2026-06-02,false,eb4325b34e614973d11124ab3c1a1afa075b22da94c7afb8790956b9f2dbd0c1
@@ -2421,7 +2421,6 @@ Cumberland.io,otc_desk,85.2,6,85,5,ETH,scorechain-counterparties,cumberland-io,c
 Deriv.com - Binary.com,exchange,85.2,6,85,5,BSC|ETH,scorechain-counterparties,deriv-com-binary-com,deriv.com,"deriv.com - binary.com,deriv com binary com,deriv-com-binary-com",,manual,2026-07-15,true,e227159277ec7f099693663ce624e5a2ff294a685ad8894cf058b2f4a2c7fb43
 Euler Finance,dex,85.2,6,85,10,BSC|ETH,scorechain-counterparties,euler-finance,euler.finance,euler,,arkham,2026-05-26,false,043b47f0354e5b74241801a045beb6ba65d96c091a1ba3f85059e2f0408783a5
 Galaxy Digital,defi,85.2,6,85,10,ETH,scorechain-counterparties,galaxy-digital,,"galaxy digital,galaxy-digital",,arkham,2026-05-26,false,9725d330bf0f4e5994d689e7e24e11a56e0b42907993616e96288831867531b4
-Hyperlane.xy,dex,85.2,6,85,10,BSC|ETH,scorechain-counterparties,hyperlane-xy,hyperlane.xy,"hyperlane.xy,hyperlane-xy",,arkham,2026-05-26,false,c4a45b909708f19460a128131fbce1ef7c2c69a866a59970f109e8535f7876c9
 KiloEx,dex,85.2,6,85,10,BSC,scorechain-counterparties,kiloex,app.kiloex.io,kiloex,,arkham,2026-05-26,false,11d2ff17fda1e27cc329cbe96de39fe2e35579492d085aeca3378dcbbd8b63a6
 Maverick Protocol,dex,85.2,6,85,10,BSC|ETH,scorechain-counterparties,maverick-protocol,mav.xyz,maverick,,arkham,2026-05-26,false,aaa5a58ccf4f80c7a8f33c570324f7486d0717be0e7cd64c7db47f220108e932
 Mdex.com,dex,85.2,6,85,10,BSC,scorechain-counterparties,mdex-com,mdex.com,"mdex.com,mdex",,arkham,2026-05-26,false,27c57de4785b2a12aa8fee5bf75737726067ee1ecacdebf58aa65201f64ee441
