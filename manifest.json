@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-14T14:52:45+00:00",
+  "generated_at": "2026-10-14T14:53:55+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -6000,7 +6000,7 @@
     },
     {
       "slug": "pepperstone",
-      "category": "exchanges",
+      "category": "exchange",
       "logo_path": "logos/exchanges/pepperstone.png",
       "keywords": [
         "pepperstone",
@@ -6011,7 +6011,7 @@
     },
     {
       "slug": "herofx",
-      "category": "exchanges",
+      "category": "exchange",
       "logo_path": "logos/exchanges/herofx.png",
       "keywords": [
         "herofx",
