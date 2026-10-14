@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-13T14:51:43+00:00",
+  "generated_at": "2026-10-14T11:31:46+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -549,21 +549,12 @@
       "sanctioned": false
     },
     {
-      "slug": "argent",
-      "category": "defi",
-      "logo_path": "logos/defi/argent.png",
-      "keywords": [
-        "argent"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "balancer",
       "category": "dex",
       "logo_path": "logos/dex/balancer.png",
       "keywords": [
-        "balancer"
+        "balancer",
+        "balancer.fi"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -576,28 +567,6 @@
         "balancer - rekt",
         "balancer rekt",
         "balancer-rekt"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "balancer-v2",
-      "category": "defi",
-      "logo_path": "logos/defi/balancer-v2.png",
-      "keywords": [
-        "balancer v2",
-        "balancer-v2"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "balancer-fi",
-      "category": "dex",
-      "logo_path": "logos/dex/balancer-fi.png",
-      "keywords": [
-        "balancer.fi",
-        "balancer"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -647,33 +616,14 @@
       "sanctioned": false
     },
     {
-      "slug": "binance",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/binance.png",
-      "keywords": [
-        "binance"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "binance-arkham-prediction",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/binance-arkham-prediction.png",
-      "keywords": [
-        "binance (arkham prediction)",
-        "binance arkham prediction",
-        "binance-arkham-prediction"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "binance-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/binance-com.png",
       "keywords": [
-        "binance"
+        "binance",
+        "binance (arkham prediction)",
+        "binance arkham prediction",
+        "binance-arkham-prediction"
       ],
       "product_aliases": [
         "binance smart chain",
@@ -889,18 +839,6 @@
       "sanctioned": false
     },
     {
-      "slug": "coinbase-arkham-prediction",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/coinbase-arkham-prediction.png",
-      "keywords": [
-        "coinbase (arkham prediction)",
-        "coinbase arkham prediction",
-        "coinbase-arkham-prediction"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "coinex-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/coinex-com.png",
@@ -928,16 +866,6 @@
         "coinspaid",
         "cryptoprocessing",
         "coinspaid.com"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "copper",
-      "category": "custodian",
-      "logo_path": "logos/custodian/copper.png",
-      "keywords": [
-        "copper"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -1147,16 +1075,7 @@
       "category": "sanctioned",
       "logo_path": "logos/sanctioned/garantex.png",
       "keywords": [
-        "garantex"
-      ],
-      "product_aliases": [],
-      "sanctioned": true
-    },
-    {
-      "slug": "garantex-io",
-      "category": "sanctioned",
-      "logo_path": "logos/sanctioned/garantex-io.png",
-      "keywords": [
+        "garantex",
         "garantex.io",
         "garantex io",
         "garantex-io"
@@ -1389,7 +1308,10 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/kraken-com.png",
       "keywords": [
-        "kraken"
+        "kraken",
+        "kraken (arkham prediction)",
+        "kraken arkham prediction",
+        "kraken-arkham-prediction"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -1669,16 +1591,6 @@
       "sanctioned": true
     },
     {
-      "slug": "okx",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/okx.png",
-      "keywords": [
-        "okx"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "okx-dex",
       "category": "dex",
       "logo_path": "logos/dex/okx-dex.png",
@@ -1697,7 +1609,10 @@
       "logo_path": "logos/exchanges/okx-com.png",
       "keywords": [
         "okx",
-        "okex"
+        "okex",
+        "okx (arkham prediction)",
+        "okx arkham prediction",
+        "okx-arkham-prediction"
       ],
       "product_aliases": [
         "okx wallet"
@@ -3697,7 +3612,8 @@
       "keywords": [
         "cvault",
         "core token",
-        "cvault finance"
+        "cvault finance",
+        "cvault-finance"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -10610,6 +10526,19 @@
       "sanctioned": false
     },
     {
+      "slug": "pingi-ir",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/pingi-ir.png",
+      "keywords": [
+        "pingi.ir",
+        "pingi iran exchange",
+        "pingi",
+        "pingi.co"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "cryptonator",
       "category": "custodian",
       "logo_path": "logos/custodian/cryptonator.png",
@@ -12002,16 +11931,6 @@
       "sanctioned": false
     },
     {
-      "slug": "baksmany-com",
-      "category": "p2p",
-      "logo_path": "logos/p2p/baksmany-com.png",
-      "keywords": [
-        "baksmany"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "spectrumchange-com",
       "category": "p2p",
       "logo_path": "logos/p2p/spectrumchange-com.png",
@@ -12611,17 +12530,6 @@
       "sanctioned": false
     },
     {
-      "slug": "bakeryswap",
-      "category": "dex",
-      "logo_path": "logos/dex/bakeryswap.png",
-      "keywords": [
-        "bakeryswap",
-        "bakerytoken"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "balanced-dollar",
       "category": "defi",
       "logo_path": "logos/defi/balanced-dollar.png",
@@ -12888,16 +12796,6 @@
       "sanctioned": false
     },
     {
-      "slug": "bridgers",
-      "category": "dex",
-      "logo_path": "logos/dex/bridgers.png",
-      "keywords": [
-        "bridgers"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "bscswap",
       "category": "dex",
       "logo_path": "logos/dex/bscswap.png",
@@ -13083,17 +12981,6 @@
       "keywords": [
         "creth2",
         "cream-eth2"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "cvault",
-      "category": "defi",
-      "logo_path": "logos/defi/cvault.png",
-      "keywords": [
-        "cvault",
-        "cvault-finance"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -14742,26 +14629,6 @@
       "sanctioned": false
     },
     {
-      "slug": "mcdex",
-      "category": "dex",
-      "logo_path": "logos/dex/mcdex.png",
-      "keywords": [
-        "mcdex"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "mdex",
-      "category": "dex",
-      "logo_path": "logos/dex/mdex.png",
-      "keywords": [
-        "mdex"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "mendi",
       "category": "defi",
       "logo_path": "logos/defi/mendi.png",
@@ -15060,17 +14927,6 @@
       "sanctioned": false
     },
     {
-      "slug": "nomiswap",
-      "category": "dex",
-      "logo_path": "logos/dex/nomiswap.png",
-      "keywords": [
-        "nomiswap",
-        "nominex"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "nostra-money-market",
       "category": "defi",
       "logo_path": "logos/defi/nostra-money-market.png",
@@ -15249,17 +15105,6 @@
       "logo_path": "logos/defi/parcl.png",
       "keywords": [
         "parcl"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "peapods",
-      "category": "defi",
-      "logo_path": "logos/defi/peapods.png",
-      "keywords": [
-        "peapods",
-        "peapods-finance"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -15573,17 +15418,6 @@
       "sanctioned": false
     },
     {
-      "slug": "reaper-farm",
-      "category": "defi",
-      "logo_path": "logos/defi/reaper-farm.png",
-      "keywords": [
-        "reaper farm",
-        "reaper-farm"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "reflexer",
       "category": "defi",
       "logo_path": "logos/defi/reflexer.png",
@@ -15789,17 +15623,6 @@
       "sanctioned": false
     },
     {
-      "slug": "scrub-invest",
-      "category": "defi",
-      "logo_path": "logos/defi/scrub-invest.png",
-      "keywords": [
-        "scrub invest",
-        "scrub-invest"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "shadow-exchange-clmm",
       "category": "dex",
       "logo_path": "logos/dex/shadow-exchange-clmm.png",
@@ -15869,16 +15692,6 @@
         "sigma money",
         "sigma-money",
         "sigmadotmoney"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "singularx",
-      "category": "dex",
-      "logo_path": "logos/dex/singularx.png",
-      "keywords": [
-        "singularx"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -16373,17 +16186,6 @@
       "keywords": [
         "sx rollup bridge",
         "sx-rollup-bridge"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "symbiosis",
-      "category": "bridge",
-      "logo_path": "logos/bridge/symbiosis.png",
-      "keywords": [
-        "symbiosis",
-        "symbiosis-finance"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -19393,6 +19195,17 @@
       "sanctioned": false
     },
     {
+      "slug": "tradeogre-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/tradeogre-com.png",
+      "keywords": [
+        "tradeogre",
+        "tradeogre.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "bitcoin-de",
       "category": "exchange",
       "logo_path": "logos/exchanges/bitcoin-de.png",
@@ -19878,17 +19691,6 @@
       "product_aliases": [
         "土豆担保"
       ],
-      "sanctioned": false
-    },
-    {
-      "slug": "tradeogre-com",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/tradeogre-com.png",
-      "keywords": [
-        "tradeogre",
-        "tradeogre.com"
-      ],
-      "product_aliases": [],
       "sanctioned": false
     },
     {
@@ -21939,17 +21741,6 @@
       "sanctioned": false
     },
     {
-      "slug": "pingi",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/pingi.png",
-      "keywords": [
-        "pingi",
-        "pingi.co"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "beribit-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/beribit-com.png",
@@ -22595,7 +22386,8 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/bitstamp-net.png",
       "keywords": [
-        "bitstamp"
+        "bitstamp",
+        "bitstamp.net"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -23430,16 +23222,6 @@
       "sanctioned": false
     },
     {
-      "slug": "mexc",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/mexc.png",
-      "keywords": [
-        "mexc"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "cointree-com",
       "category": "exchange",
       "logo_path": "logos/exchanges/cointree-com.png",
@@ -24196,7 +23978,10 @@
       "logo_path": "logos/sanctioned/abantether-com.png",
       "keywords": [
         "abantether",
-        "aban tether"
+        "aban tether",
+        "abantether.com (iran — operator 2026-05-09)",
+        "abantether com iran operator 2026 05 09",
+        "abantether-com-iran-operator-2026-05-09"
       ],
       "product_aliases": [],
       "sanctioned": true
@@ -24206,7 +23991,10 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/coinbase-com.png",
       "keywords": [
-        "coinbase"
+        "coinbase",
+        "coinbase (arkham prediction)",
+        "coinbase arkham prediction",
+        "coinbase-arkham-prediction"
       ],
       "product_aliases": [
         "coinbase wallet",
@@ -24323,17 +24111,6 @@
       "logo_path": "logos/defi/goldfinch.png",
       "keywords": [
         "goldfinch"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "bitstamp-net-by-robinhood",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/bitstamp-net-by-robinhood.png",
-      "keywords": [
-        "bitstamp",
-        "bitstamp.net"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -25320,16 +25097,6 @@
       "sanctioned": false
     },
     {
-      "slug": "kraken",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/kraken.png",
-      "keywords": [
-        "kraken"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "veda",
       "category": "defi",
       "logo_path": "logos/defi/veda.png",
@@ -25837,7 +25604,8 @@
       "logo_path": "logos/dex/nomiswap-io.png",
       "keywords": [
         "nomiswap.io",
-        "nomiswap"
+        "nomiswap",
+        "nominex"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -26535,7 +26303,8 @@
       "logo_path": "logos/dex/bakeryswap-org.png",
       "keywords": [
         "bakeryswap.org",
-        "bakeryswap"
+        "bakeryswap",
+        "bakerytoken"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -29200,18 +28969,6 @@
       "sanctioned": false
     },
     {
-      "slug": "okx-arkham-prediction",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/okx-arkham-prediction.png",
-      "keywords": [
-        "okx (arkham prediction)",
-        "okx arkham prediction",
-        "okx-arkham-prediction"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "grinex",
       "category": "sanctioned",
       "logo_path": "logos/sanctioned/grinex.png",
@@ -29493,6 +29250,18 @@
       "sanctioned": false
     },
     {
+      "slug": "reaperfarm",
+      "category": "defi",
+      "logo_path": "logos/defi/reaperfarm.png",
+      "keywords": [
+        "reaper farm",
+        "reaper-farm",
+        "reaperfarm"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "aave",
       "category": "defi",
       "logo_path": "logos/defi/aave.png",
@@ -29578,6 +29347,18 @@
       "logo_path": "logos/defi/babydogecoin02.png",
       "keywords": [
         "babydogecoin02"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "balancerv2",
+      "category": "defi",
+      "logo_path": "logos/defi/balancerv2.png",
+      "keywords": [
+        "balancer v2",
+        "balancer-v2",
+        "balancerv2"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -29735,7 +29516,9 @@
       "category": "defi",
       "logo_path": "logos/defi/peapodsfinance.png",
       "keywords": [
-        "peapodsfinance"
+        "peapodsfinance",
+        "peapods",
+        "peapods-finance"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -29878,16 +29661,6 @@
       "sanctioned": false
     },
     {
-      "slug": "bitstamp",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/bitstamp.png",
-      "keywords": [
-        "bitstamp"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "carolprotocol",
       "category": "defi",
       "logo_path": "logos/defi/carolprotocol.png",
@@ -29972,6 +29745,18 @@
       "sanctioned": false
     },
     {
+      "slug": "scrubinvest",
+      "category": "defi",
+      "logo_path": "logos/defi/scrubinvest.png",
+      "keywords": [
+        "scrub invest",
+        "scrub-invest",
+        "scrubinvest"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "babyswap",
       "category": "dex",
       "logo_path": "logos/dex/babyswap.png",
@@ -30007,16 +29792,6 @@
       "logo_path": "logos/defi/xcarnival.png",
       "keywords": [
         "xcarnival"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "1xbet",
-      "category": "gambling",
-      "logo_path": "logos/gambling/1xbet.png",
-      "keywords": [
-        "1xbet"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -30330,18 +30105,6 @@
       "sanctioned": false
     },
     {
-      "slug": "kraken-arkham-prediction",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/kraken-arkham-prediction.png",
-      "keywords": [
-        "kraken (arkham prediction)",
-        "kraken arkham prediction",
-        "kraken-arkham-prediction"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "paraswap-io",
       "category": "dex",
       "logo_path": "logos/dex/paraswap-io.png",
@@ -30419,26 +30182,6 @@
       "logo_path": "logos/dex/julswap.png",
       "keywords": [
         "julswap"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "bitkub",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/bitkub.png",
-      "keywords": [
-        "bitkub"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "lbank",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/lbank.png",
-      "keywords": [
-        "lbank"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -30524,18 +30267,6 @@
       ],
       "product_aliases": [],
       "sanctioned": false
-    },
-    {
-      "slug": "abantether-com-iran-operator-2026-05-09",
-      "category": "sanctioned",
-      "logo_path": "logos/sanctioned/abantether-com-iran-operator-2026-05-09.png",
-      "keywords": [
-        "abantether.com (iran — operator 2026-05-09)",
-        "abantether com iran operator 2026 05 09",
-        "abantether-com-iran-operator-2026-05-09"
-      ],
-      "product_aliases": [],
-      "sanctioned": true
     },
     {
       "slug": "astrid",
