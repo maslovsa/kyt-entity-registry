@@ -86,6 +86,26 @@ sitemap.xml + robots.txt + llms.txt + og-preview.png
   111 rows pruned). Key the prune on `arkham_slug`, never on a
   normalised slug — that mistake removed 3 live rows before it was
   caught. Full rules: `docs/PROVIDERS.md` → "Pruning archived rows".
+- **Second exception — same-entity dedup merges (precedent: d2d02f0, 2026-08-18;
+  waves of 2026-10-14).** Two rows that are the SAME real entity under two slugs
+  (`X` / `X.com` / `X (Arkham prediction)` / `XFinance`, or a shared keyword) may be
+  merged into one. Rules, all learned the hard way:
+  1. **The winner is the slug that is live in aegis-platform `vasp_entities.registry_slug`**
+     (else `manual_lock`, else higher importance). If BOTH slugs are live there, merge the
+     platform twins first (migration: keywords + archive loser, re-point
+     `label_entity_matches`, move FK rows, no-op `UPDATE OF entity_id`, resync) — deleting
+     a live slug first 404s that entity's logo. Never drop a row the platform still links.
+  2. Merge fields: `claim_count` summed; `importance`/`max_trust`/`severity` max;
+     `networks`/`sources`/`keywords`/`product_aliases` unioned; domain backfilled; the
+     loser's name survives as a keyword so badge matching is unchanged. A real logo
+     (`manual` lock first) beats a placeholder/synthetic one.
+  3. Same-entity means same company, not same product line: Hatom Lending / Hatom LST
+     under one domain stay separate (each needs its own URL for KYT labelling).
+  4. Never delete a row for a different *category* without an operator decision
+     (Circle was `psp` vs `stablecoin_issuer`), and do not merge sanctioned rows into a
+     non-sanctioned category (the manifest `sanctioned` flag derives from the category).
+  5. Regenerate `manifest.json`, `logos/_lookup.json`, `logos/_index.json`; the
+     `validate` workflow must pass; open a PR.
 - Never rename an entity's `slug` — that breaks every pinned URL
   in consumer code. If a brand rebrands, add a NEW row with
   `aliases` pointing at the old slug.
