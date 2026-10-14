@@ -22,6 +22,7 @@ CLI:
 
 from __future__ import annotations
 
+import io
 import argparse
 import datetime as dt
 import json
@@ -200,9 +201,34 @@ _NOT_A_LOGO_HASHES = frozenset({
 })
 
 
+# Perceptual guard (aHash 8x8 on white, hamming <= 4) for the same default avatar: the exact
+# bytes vary per request/variant (dark grey and light blue were both served 2026-10-14) but the
+# 8x8 average hash is identical (0xffffe7c3c3e7c381). Checked against all 3077 logos on disk at
+# the time: the nearest real logo is at distance 7 (aurora-plus), the only hits at <= 4 were the
+# avatar itself, so 4 leaves a margin.
+_AVATAR_AHASH = 0xFFFFE7C3C3E7C381
+_AVATAR_MAX_DIST = 4
+
+
+def _ahash(png: bytes) -> int:
+    from PIL import Image  # local import: enrich.py already depends on Pillow via normalize_png
+    im = Image.open(io.BytesIO(png)).convert("RGBA")
+    bg = Image.new("RGBA", im.size, (255, 255, 255, 255))
+    bg.alpha_composite(im)
+    px = list(bg.convert("L").resize((8, 8), Image.Resampling.LANCZOS).getdata())
+    mean = sum(px) / 64
+    v = 0
+    for p in px:
+        v = (v << 1) | (1 if p >= mean else 0)
+    return v
+
+
 def _is_not_a_logo(raw: bytes) -> bool:
     try:
-        return sha256_hex(normalize(raw)) in _NOT_A_LOGO_HASHES
+        norm = normalize(raw)
+        if sha256_hex(norm) in _NOT_A_LOGO_HASHES:
+            return True
+        return bin(_ahash(norm) ^ _AVATAR_AHASH).count("1") <= _AVATAR_MAX_DIST
     except NormalizeError:
         return False
 
