@@ -171,6 +171,26 @@ def build(rows: list[Row]) -> dict:
             "imp":  r.importance,
             "real": True,
         })
+    # Optional additive field "grp": entries that belong to ONE brand and
+    # carry the very same image (same canonical-domain root + same logo_hash,
+    # e.g. "Hatom Lending" / "Hatom Liquid Staking") share a key. The landing
+    # quilt shows one tile per key with a "+N" badge instead of N identical
+    # tiles. Consumers that don't know the field ignore it.
+    def _domain_root(d: str) -> str:
+        d = (d or "").lower().strip().replace("www.", "").split("/")[0]
+        parts = [x for x in d.split(".") if x]
+        return ".".join(parts[-2:]) if len(parts) > 1 else d
+
+    by_grp: dict[str, list[dict]] = {}
+    for r, e in zip([r for r in eligible if r.logo_status in real_statuses], entries):
+        root, h = _domain_root(r.canonical_domain), (r.logo_hash or "")[:12]
+        if root and h:
+            by_grp.setdefault(f"{root}|{h}", []).append(e)
+    for key, members in by_grp.items():
+        if len(members) > 1:
+            for e in members:
+                e["grp"] = key
+
     # Sort by importance desc, then name — same order the enrichment
     # cron uses; keeps the resolver's "pick highest importance on tie"
     # cheap (first hit wins).
