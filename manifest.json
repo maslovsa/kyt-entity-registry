@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-14T19:19:02+00:00",
+  "generated_at": "2026-10-14T19:39:23+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -31730,6 +31730,18 @@
         "webmoney.ru",
         "wmtransfer.com",
         "wm transfer"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "easyswap-me",
+      "category": "p2p",
+      "logo_path": "logos/p2p/easyswap-me.png",
+      "keywords": [
+        "easyswap",
+        "easyswap.me",
+        "easyswap.biz"
       ],
       "product_aliases": [],
       "sanctioned": false
