@@ -189,25 +189,55 @@ def build(rows: list[Row]) -> dict:
             gen = [k for k in entries[-1]["kw"] if k in _GENERIC_TOKENS]
             if gen:
                 entries[-1]["gen"] = gen
-    # Optional additive field "grp": entries that belong to ONE brand and
-    # carry the very same image (same canonical-domain root + same logo_hash,
-    # e.g. "Hatom Lending" / "Hatom Liquid Staking") share a key. The landing
-    # quilt shows one tile per key with a "+N" badge instead of N identical
-    # tiles. Consumers that don't know the field ignore it.
+    # Optional additive field "grp": entries that belong to ONE brand and carry the very same
+    # image (same logo_hash AND either the same canonical-domain root or the same first word of
+    # the name, e.g. "Hatom Lending" / "Hatom Liquid Staking", "Balancer" / "Balancer - REKT")
+    # share a key. The landing quilt shows one tile per key with a "+N" badge instead of N
+    # identical tiles. Consumers that don't know the field ignore it.
     def _domain_root(d: str) -> str:
         d = (d or "").lower().strip().replace("www.", "").split("/")[0]
         parts = [x for x in d.split(".") if x]
         return ".".join(parts[-2:]) if len(parts) > 1 else d
 
-    by_grp: dict[str, list[dict]] = {}
-    for r, e in zip([r for r in eligible if r.logo_status in real_statuses], entries):
-        root, h = _domain_root(r.canonical_domain), (r.logo_hash or "")[:12]
-        if root and h:
-            by_grp.setdefault(f"{root}|{h}", []).append(e)
-    for key, members in by_grp.items():
-        if len(members) > 1:
-            for e in members:
-                e["grp"] = key
+    def _first_word(name: str) -> str:
+        spaced = re.sub(r"([a-z\d])([A-Z])", r"\1 \2", name or "")
+        toks = [t for t in re.split(r"[^a-z0-9]+", spaced.lower())
+                if t and t not in ("the", "ofac", "sdn")]
+        return toks[0] if toks and len(toks[0]) >= 4 else ""
+
+    real_rows = [r for r in eligible if r.logo_status in real_statuses]
+    by_img: dict[str, list[tuple[Row, dict]]] = {}
+    for r, e in zip(real_rows, entries):
+        h = (r.logo_hash or "")[:12]
+        if h:
+            by_img.setdefault(h, []).append((r, e))
+    for h, members in by_img.items():
+        if len(members) < 2:
+            continue
+        parent = list(range(len(members)))
+
+        def find(i: int) -> int:
+            while parent[i] != i:
+                parent[i] = parent[parent[i]]
+                i = parent[i]
+            return i
+
+        seen: dict[str, int] = {}
+        for i, (r, e) in enumerate(members):
+            for key in (("d", _domain_root(r.canonical_domain)), ("w", _first_word(r.entity_name))):
+                if key[1]:
+                    if key in seen:
+                        parent[find(i)] = find(seen[key])
+                    else:
+                        seen[key] = i
+        comps: dict[int, list[dict]] = {}
+        for i, (_, e) in enumerate(members):
+            comps.setdefault(find(i), []).append(e)
+        for comp in comps.values():
+            if len(comp) > 1:
+                gid = f"{h}|{min(e['slug'] for e in comp)}"
+                for e in comp:
+                    e["grp"] = gid
 
     # Sort by importance desc, then name — same order the enrichment
     # cron uses; keeps the resolver's "pick highest importance on tie"
