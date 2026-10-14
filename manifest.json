@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-14T12:40:31+00:00",
+  "generated_at": "2026-10-14T12:50:13+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -854,18 +854,6 @@
       "logo_path": "logos/psp/coinpayments-net.png",
       "keywords": [
         "coinpayments"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "coinspaid-com-cryptoprocessing-com",
-      "category": "psp",
-      "logo_path": "logos/psp/coinspaid-com-cryptoprocessing-com.png",
-      "keywords": [
-        "coinspaid",
-        "cryptoprocessing",
-        "coinspaid.com"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -2740,17 +2728,6 @@
         "votium",
         "votium.app",
         "multimerklestash"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "bitget-wallet",
-      "category": "custodian",
-      "logo_path": "logos/custodian/bitget-wallet.png",
-      "keywords": [
-        "bitget wallet",
-        "bitkeep"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -6136,7 +6113,8 @@
       "category": "bridge",
       "logo_path": "logos/bridge/axelar.png",
       "keywords": [
-        "axelar"
+        "axelar",
+        "axelar.network"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -6459,7 +6437,8 @@
       "logo_path": "logos/defi/fluid.png",
       "keywords": [
         "fluid dex",
-        "fluid"
+        "fluid",
+        "fluid.io"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -12067,9 +12046,11 @@
       "keywords": [
         "membrane",
         "membrane finance",
-        "euroe"
+        "membrane.fi"
       ],
-      "product_aliases": [],
+      "product_aliases": [
+        "EUROe"
+      ],
       "sanctioned": false
     },
     {
@@ -15634,16 +15615,6 @@
       "sanctioned": false
     },
     {
-      "slug": "shibaswap",
-      "category": "dex",
-      "logo_path": "logos/dex/shibaswap.png",
-      "keywords": [
-        "shibaswap"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "shui",
       "category": "defi",
       "logo_path": "logos/defi/shui.png",
@@ -16784,18 +16755,6 @@
       "sanctioned": false
     },
     {
-      "slug": "wombat",
-      "category": "dex",
-      "logo_path": "logos/dex/wombat.png",
-      "keywords": [
-        "wombat exchange",
-        "wombat",
-        "wombat-exchange"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "woofi-earn",
       "category": "defi",
       "logo_path": "logos/defi/woofi-earn.png",
@@ -16907,18 +16866,6 @@
       "keywords": [
         "zenrock bridge",
         "zenrock-bridge"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "zerolend-lending",
-      "category": "defi",
-      "logo_path": "logos/defi/zerolend-lending.png",
-      "keywords": [
-        "zerolend lending",
-        "zerolend-lending",
-        "zerolend"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -22395,7 +22342,8 @@
       "logo_path": "logos/psp/coinspaid-com.png",
       "keywords": [
         "coinspaid",
-        "cryptoprocessing"
+        "cryptoprocessing",
+        "coinspaid.com"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -22978,17 +22926,6 @@
       "logo_path": "logos/exchanges/simpleswap-io.png",
       "keywords": [
         "simpleswap"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "fixedfloat-com",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/fixedfloat-com.png",
-      "keywords": [
-        "fixed float",
-        "fixedfloat"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -26150,7 +26087,8 @@
       "keywords": [
         "wombat.exchange",
         "wombat-exchange",
-        "wombat"
+        "wombat",
+        "wombat exchange"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -26932,7 +26870,9 @@
       "logo_path": "logos/dex/zerolend-xyz.png",
       "keywords": [
         "zerolend.xyz",
-        "zerolend"
+        "zerolend",
+        "zerolend lending",
+        "zerolend-lending"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -26953,7 +26893,8 @@
       "logo_path": "logos/exchanges/fixedfloat-com-ff-io.png",
       "keywords": [
         "fixedfloat",
-        "fixedfloat.com"
+        "fixedfloat.com",
+        "fixed float"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -27105,17 +27046,6 @@
       "logo_path": "logos/dex/aster.png",
       "keywords": [
         "aster"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "axelar-network",
-      "category": "bridge",
-      "logo_path": "logos/bridge/axelar-network.png",
-      "keywords": [
-        "axelar.network",
-        "axelar"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -30845,9 +30775,7 @@
         "huangguan",
         "皇冠担保"
       ],
-      "product_aliases": [
-        "皇冠担保"
-      ],
+      "product_aliases": [],
       "sanctioned": false
     },
     {
