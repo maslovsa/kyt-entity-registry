@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-14T13:31:53+00:00",
+  "generated_at": "2026-10-14T13:44:33+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -118,8 +118,7 @@
         "tronenergyio",
         "tronenergymarket",
         "tronenergyioborrow",
-        "tronenergy market",
-        "tronenergy.market"
+        "tronenergy market"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -227,7 +226,6 @@
       "keywords": [
         "theo network",
         "theo.xyz",
-        "theo network thbill",
         "thbill"
       ],
       "product_aliases": [],
@@ -362,7 +360,6 @@
       "keywords": [
         "metronome",
         "metronome.io",
-        "msusd",
         "metronome synth"
       ],
       "product_aliases": [],
@@ -3574,8 +3571,7 @@
       "logo_path": "logos/stablecoin_issuer/main-street.png",
       "keywords": [
         "mainstreet.finance",
-        "mainstreet finance",
-        "msusd"
+        "mainstreet finance"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -4821,8 +4817,7 @@
       "keywords": [
         "astherus",
         "asusdf",
-        "usdf",
-        "aster"
+        "usdf"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -4833,8 +4828,7 @@
       "logo_path": "logos/stablecoin_issuer/pmusd.png",
       "keywords": [
         "pmusd",
-        "precious metals usd",
-        "raac"
+        "precious metals usd"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -5444,8 +5438,6 @@
         "arvix pro",
         "arvix llc",
         "arvix limited",
-        "exnode",
-        "exnode pay",
         "exnode.ru",
         "arvix.pro"
       ],
@@ -5652,8 +5644,7 @@
       "category": "bridge",
       "logo_path": "logos/bridge/portal.png",
       "keywords": [
-        "portal",
-        "wormhole"
+        "portal"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -5932,7 +5923,6 @@
       "logo_path": "logos/psp/exnode.png",
       "keywords": [
         "exnode",
-        "exnode pay",
         "payment processor"
       ],
       "product_aliases": [],
@@ -6928,7 +6918,7 @@
       "category": "defi",
       "logo_path": "logos/defi/stake.png",
       "keywords": [
-        "stake",
+        "stake dao",
         "stake-dao"
       ],
       "product_aliases": [],
@@ -10810,7 +10800,6 @@
       "keywords": [
         "celo",
         "celo.org",
-        "mento",
         "mento protocol",
         "celo foundation",
         "cusd",
@@ -10869,8 +10858,7 @@
         "deuro",
         "deuro.com",
         "decentralized euro",
-        "d-euro",
-        "frankencoin"
+        "d-euro"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -10882,7 +10870,6 @@
       "keywords": [
         "dtrinity",
         "dtrinity.org",
-        "dusd",
         "sdusd",
         "trinity foundation"
       ],
@@ -10974,7 +10961,6 @@
       "keywords": [
         "juno",
         "mxnb.mx",
-        "bitso",
         "juno finance mxn"
       ],
       "product_aliases": [
@@ -18427,8 +18413,7 @@
       "logo_path": "logos/stablecoin_issuer/standx.png",
       "keywords": [
         "standx",
-        "standx.com",
-        "dusd"
+        "standx.com"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -18654,8 +18639,7 @@
       "keywords": [
         "alto",
         "altofoundation.org",
-        "alto.money",
-        "dusd"
+        "alto.money"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -18680,7 +18664,6 @@
       "logo_path": "logos/psp/argentine-peso.png",
       "keywords": [
         "argentine peso",
-        "ripio.com",
         "wars",
         "ripio"
       ],
@@ -18814,7 +18797,6 @@
       "logo_path": "logos/stablecoin_issuer/royal-dollar.png",
       "keywords": [
         "royal dollar",
-        "rusd",
         "rcoins"
       ],
       "product_aliases": [],
@@ -18876,8 +18858,7 @@
       "keywords": [
         "stablr",
         "stablr.com",
-        "eurr",
-        "usdr"
+        "eurr"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -19648,7 +19629,6 @@
       "keywords": [
         "just",
         "just network",
-        "justlend",
         "jst",
         "justusd"
       ],
@@ -26298,7 +26278,6 @@
       "keywords": [
         "hotscoin",
         "hotscoin.com",
-        "hibt",
         "hibt.com"
       ],
       "product_aliases": [],
@@ -28199,9 +28178,7 @@
       "category": "exchange",
       "logo_path": "logos/exchanges/ztb.png",
       "keywords": [
-        "ztb",
-        "zt.com",
-        "zt exchange"
+        "ztb"
       ],
       "product_aliases": [],
       "sanctioned": false
