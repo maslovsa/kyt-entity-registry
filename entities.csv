@@ -1622,7 +1622,6 @@ stCYBER,defi,65,0,0,10,,,stcyber,cyber.co,stcyber,,defillama,2026-06-02,false,93
 STEAMM,dex,65,0,0,10,,,steamm,steamm.fi,steamm,,arkham,2026-06-02,false,c73d893c0a420870746273edf731366c9e92288cd8b8b96b2f4ac5f3f3c98f48
 Stellar AMM,dex,65,0,0,10,,,stellar-amm,developers.stellar.org,"stellar amm,stellar-amm",,arkham,2026-06-02,false,fc10fee3ad057d4015b4b5ac34d7368ffe116448a808b7b31c20e2c90d85795b
 STFIL,defi,65,0,0,10,,,stfil,,stfil,,arkham,2026-06-02,false,7824f21a632a2e1a4fe715a6d33870e010ee5b66e9568ec2ff24fe71bebe67f2
-Storm Trade,defi,65,0,0,10,,,storm-trade,storm.tg,"storm trade,storm-trade",,arkham,2026-06-02,false,89e5424d560d54cee65c8cb131d82dd9e12caac9902208b999364716e3519d28
 Stratis mSTRAX,defi,65,0,0,10,,,stratis-mstrax,staking.masternode.stratisevm.com,"stratis mstrax,stratis-mstrax",,arkham,2026-06-02,false,3420a2752ebf4c2ac70391e3397b4a0bbe302beb7c0c1670eae7acc01c68c94b
 Stride,defi,65,0,0,10,,,stride,stride.zone,stride,,defillama,2026-06-02,false,8054c964a2048885d3920c2d356426a81edfe6347e759afec3c215497260af51
 Strike Finance Perpetuals,defi,65,0,0,10,,,strike-finance-perpetuals,strikefinance.org,"strike finance perpetuals,strike-finance-perpetuals",,arkham,2026-06-02,false,d585c725b5d3e5b74787b929459d0e9fceb55207c75c514309c131e51a5fdfc8
@@ -3151,7 +3150,7 @@ EarnBIT,exchange,100,1,72,5,TON,ton-labels,earnbit-com,earnbit.com,earnbit,,manu
 LetsExchange,exchange,100,1,72,5,TON,ton-labels,letsexchange-io,letsexchange.io,"letsexchange,lets exchange",,manual,2026-10-15,true,03f8fd08af38c0356192cf6a9813dbcc8d8b5b9d585065d0b5100d5270361efb
 Aliniex,psp,100,1,72,5,TON,ton-labels,aliniex-com,aliniex.com,"aliniex,alixpay",,manual,2026-10-15,true,8c2e2ca5355c0b92583522862e7c92b63a248f6c3da434354c6c0591ceffc7c0
 Altery,psp,100,1,72,5,TON,ton-labels,altery-com,altery.com,altery,,manual,2026-10-15,true,d3c32c034692e033e1123736d2fc88d6271c7346be7abc190f2906a8509c729a
-Storm Trade,defi,100,3,72,5,TON,ton-labels,storm-tg,storm.tg,"storm trade,storm.tg",,manual,2026-10-15,true,a1ddf70e47831182332b7c37fec17fe4de5ece66e316b22ef924e803071442a1
+Storm Trade,defi,100,3,72,5,TON,ton-labels,storm-tg,storm.tg,"storm trade,storm-trade,storm.tg",,manual,2026-10-15,true,a1ddf70e47831182332b7c37fec17fe4de5ece66e316b22ef924e803071442a1
 YChangers,exchange,100,1,72,5,TON,ton-labels,ychangers-com,ychangers.com,ychangers,,manual,2026-10-15,true,c048ddd69b973eb111d5b52aa0a16e8bdfc5c3bc2beb9356399ff80728ee714e
 PointPay,exchange,100,1,72,5,TON,ton-labels,pointpay-io,pointpay.io,pointpay,,manual,2026-10-15,true,e1a724dd00dab3658278cd6d2470c5faf2f5d1f1c0409b39a242fad5a358ce6e
 Fiwind,wallet,100,1,72,5,TON,ton-labels,fiwind-io,fiwind.io,fiwind,,manual,2026-10-15,true,494778eeedec6db2d43616f4ef46bc555bf86e2c8c1b2677aa2fb3a2d18468fd
@@ -3164,3 +3163,5 @@ Megaton Finance,dex,100,1,72,5,TON,ton-labels,megaton-fi,megaton.fi,"megaton,meg
 DAOLama,defi,100,1,72,5,TON,ton-labels,daolama,daolama.co,"daolama,daolama.co",,manual,2026-10-15,true,61e8f75f4e0f8165daac3f2907d61be395258131899c158f51e71a09be105905
 Tradoor,dex,100,1,72,5,TON,ton-labels,tradoor,tradoor.io,"tradoor,tradoor.io",,manual,2026-10-15,true,5a78741b3d2987269f66f0df5203f97cf27f65c7091c5d02173686337d67e113
 Torch Finance,defi,100,1,72,5,TON,ton-labels,torch-finance,torch.finance,"torch finance,torch.finance",,manual,2026-10-15,true,919ff8ed92a54513caa39acd9726875623836ee014ed3bf1c443141bfc7cdd44
+swap.coffee,dex,100,6,72,5,TON,ton-labels,swap-coffee,swap.coffee,"swap.coffee,swap coffee",,manual,2026-10-15,true,58f1969dbd73bb0e923ff20239714ea0e84cd2b7dd03372ab901efd0e88cc88f
+TON.fun,dex,100,3,72,10,TON,ton-labels,ton-fun,ton.fun,"ton.fun,ton fun",,synthetic,2026-10-15,false,a528447fc72ee44225f92480775842833eaf678c31dae26148bf853c2843e99b

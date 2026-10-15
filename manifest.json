@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-15T08:21:24+00:00",
+  "generated_at": "2026-10-15T09:14:26+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -17208,17 +17208,6 @@
       "sanctioned": false
     },
     {
-      "slug": "storm-trade",
-      "category": "defi",
-      "logo_path": "logos/defi/storm-trade.png",
-      "keywords": [
-        "storm trade",
-        "storm-trade"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "stratis-mstrax",
       "category": "defi",
       "logo_path": "logos/defi/stratis-mstrax.png",
@@ -31943,6 +31932,7 @@
       "logo_path": "logos/defi/storm-tg.png",
       "keywords": [
         "storm trade",
+        "storm-trade",
         "storm.tg"
       ],
       "product_aliases": [],
@@ -32077,6 +32067,28 @@
       "keywords": [
         "torch finance",
         "torch.finance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "swap-coffee",
+      "category": "dex",
+      "logo_path": "logos/dex/swap-coffee.png",
+      "keywords": [
+        "swap.coffee",
+        "swap coffee"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ton-fun",
+      "category": "dex",
+      "logo_path": "logos/dex/ton-fun.png",
+      "keywords": [
+        "ton.fun",
+        "ton fun"
       ],
       "product_aliases": [],
       "sanctioned": false
