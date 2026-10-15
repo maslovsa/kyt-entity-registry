@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-15T10:51:56+00:00",
+  "generated_at": "2026-10-15T13:08:14+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -32123,6 +32123,28 @@
       "keywords": [
         "intersoon",
         "intersoon.soo.network"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pawpayments",
+      "category": "psp",
+      "logo_path": "logos/psp/pawpayments.png",
+      "keywords": [
+        "pawpayments",
+        "pawpayments.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "calypso",
+      "category": "psp",
+      "logo_path": "logos/psp/calypso.png",
+      "keywords": [
+        "calypso pay",
+        "calypso.finance"
       ],
       "product_aliases": [],
       "sanctioned": false
