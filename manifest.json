@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-15T13:08:14+00:00",
+  "generated_at": "2026-10-15T13:11:44+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -32145,6 +32145,17 @@
       "keywords": [
         "calypso pay",
         "calypso.finance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "floq",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/floq.png",
+      "keywords": [
+        "floq",
+        "floq.co.id"
       ],
       "product_aliases": [],
       "sanctioned": false
