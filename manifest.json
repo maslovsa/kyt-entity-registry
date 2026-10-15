@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-15T08:04:22+00:00",
+  "generated_at": "2026-10-15T08:21:24+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -32009,6 +32009,74 @@
       "keywords": [
         "chorus one",
         "chorus.one"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bidask-finance",
+      "category": "dex",
+      "logo_path": "logos/dex/bidask-finance.png",
+      "keywords": [
+        "bidask",
+        "bidask finance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hot-labs",
+      "category": "bridge",
+      "logo_path": "logos/bridge/hot-labs.png",
+      "keywords": [
+        "hot labs",
+        "hot-labs.org",
+        "hot bridge"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "megaton-fi",
+      "category": "dex",
+      "logo_path": "logos/dex/megaton-fi.png",
+      "keywords": [
+        "megaton",
+        "megaton finance",
+        "megaton.fi"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "daolama",
+      "category": "defi",
+      "logo_path": "logos/defi/daolama.png",
+      "keywords": [
+        "daolama",
+        "daolama.co"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tradoor",
+      "category": "dex",
+      "logo_path": "logos/dex/tradoor.png",
+      "keywords": [
+        "tradoor",
+        "tradoor.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "torch-finance",
+      "category": "defi",
+      "logo_path": "logos/defi/torch-finance.png",
+      "keywords": [
+        "torch finance",
+        "torch.finance"
       ],
       "product_aliases": [],
       "sanctioned": false

@@ -3158,3 +3158,9 @@ Fiwind,wallet,100,1,72,5,TON,ton-labels,fiwind-io,fiwind.io,fiwind,,manual,2026-
 Blum,bot,100,1,72,5,TON,ton-labels,blum-io,blum.io,"blum,blum.io,blum trading bot",,manual,2026-10-15,true,cd9db4838795f3d8b78d4f7179a250f444abadc5637bc6e9f5d44bb0fd6b279e
 TAC (TON Application Chain),bridge,100,1,72,5,TON,ton-labels,tac-build,tac.build,"tac.build,ton application chain,tac ton application chain",,manual,2026-10-15,true,5cab541fe0c61b20cce3c1e1a51b7d732a5978766889d648a883ada37214075c
 Chorus One,staking_provider,100,1,72,5,TON,ton-labels,chorus-one,chorus.one,"chorus one,chorus.one",,manual,2026-10-15,true,a1f1709231c56b834c8cfa846cc0a021dac18d3b62fb9eb729681df7b95f829e
+BidAsk,dex,100,1,72,5,TON,ton-labels,bidask-finance,bidask.finance,"bidask,bidask finance",,manual,2026-10-15,true,20733f15796474fa1a18acf7cb399ccd8947a1fb92571c32ffb31d2c21e9162a
+HOT Labs,bridge,100,1,72,5,TON,ton-labels,hot-labs,hot-labs.org,"hot labs,hot-labs.org,hot bridge",,manual,2026-10-15,true,ada6b474c999097c4749c77bcf0018daabb4bb7d1734612f38289f4b3931e125
+Megaton Finance,dex,100,1,72,5,TON,ton-labels,megaton-fi,megaton.fi,"megaton,megaton finance,megaton.fi",,manual,2026-10-15,true,e47b503da77318a305ee2ebb8c934cbbd38ee4b66247214992f2c12183b8bcae
+DAOLama,defi,100,1,72,5,TON,ton-labels,daolama,daolama.co,"daolama,daolama.co",,manual,2026-10-15,true,61e8f75f4e0f8165daac3f2907d61be395258131899c158f51e71a09be105905
+Tradoor,dex,100,1,72,5,TON,ton-labels,tradoor,tradoor.io,"tradoor,tradoor.io",,manual,2026-10-15,true,5a78741b3d2987269f66f0df5203f97cf27f65c7091c5d02173686337d67e113
+Torch Finance,defi,100,1,72,5,TON,ton-labels,torch-finance,torch.finance,"torch finance,torch.finance",,manual,2026-10-15,true,919ff8ed92a54513caa39acd9726875623836ee014ed3bf1c443141bfc7cdd44
