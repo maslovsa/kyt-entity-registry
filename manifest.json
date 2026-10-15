@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-15T09:14:26+00:00",
+  "generated_at": "2026-10-15T10:43:40+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -32089,6 +32089,17 @@
       "keywords": [
         "ton.fun",
         "ton fun"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "melbet-com",
+      "category": "gambling",
+      "logo_path": "logos/gambling/melbet-com.png",
+      "keywords": [
+        "melbet",
+        "melbet.com"
       ],
       "product_aliases": [],
       "sanctioned": false

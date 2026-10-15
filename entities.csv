@@ -3165,3 +3165,4 @@ Tradoor,dex,100,1,72,5,TON,ton-labels,tradoor,tradoor.io,"tradoor,tradoor.io",,m
 Torch Finance,defi,100,1,72,5,TON,ton-labels,torch-finance,torch.finance,"torch finance,torch.finance",,manual,2026-10-15,true,919ff8ed92a54513caa39acd9726875623836ee014ed3bf1c443141bfc7cdd44
 swap.coffee,dex,100,6,72,5,TON,ton-labels,swap-coffee,swap.coffee,"swap.coffee,swap coffee",,manual,2026-10-15,true,58f1969dbd73bb0e923ff20239714ea0e84cd2b7dd03372ab901efd0e88cc88f
 TON.fun,dex,100,3,72,10,TON,ton-labels,ton-fun,ton.fun,"ton.fun,ton fun",,synthetic,2026-10-15,false,a528447fc72ee44225f92480775842833eaf678c31dae26148bf853c2843e99b
+Melbet,gambling,100,1,75,50,TON,ton-labels|manual-admin,melbet-com,melbet.com,"melbet,melbet.com",,manual,2026-10-15,true,28ce76cd16600feb569e21f134be6745446b2579f1d812fcaead31c165a7352f
