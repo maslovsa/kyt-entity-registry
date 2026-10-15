@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-15T10:43:40+00:00",
+  "generated_at": "2026-10-15T10:51:56+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -32100,6 +32100,29 @@
       "keywords": [
         "melbet",
         "melbet.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pocketfi",
+      "category": "bot",
+      "logo_path": "logos/bot/pocketfi.png",
+      "keywords": [
+        "pocketfi",
+        "pocketfi.org",
+        "bigpump"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "intersoon",
+      "category": "bridge",
+      "logo_path": "logos/bridge/intersoon.png",
+      "keywords": [
+        "intersoon",
+        "intersoon.soo.network"
       ],
       "product_aliases": [],
       "sanctioned": false
