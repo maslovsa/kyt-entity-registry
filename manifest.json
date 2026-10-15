@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-14T20:33:15+00:00",
+  "generated_at": "2026-10-15T06:56:11+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -31830,6 +31830,109 @@
       "keywords": [
         "mountain wolf",
         "mountainwolf.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "asterium-uz",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/asterium-uz.png",
+      "keywords": [
+        "asterium"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "okj-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/okj-com.png",
+      "keywords": [
+        "okj",
+        "okcoin japan"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mine-exchange",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/mine-exchange.png",
+      "keywords": [
+        "mine.exchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "swapwallet-app",
+      "category": "wallet",
+      "logo_path": "logos/wallet/swapwallet-app.png",
+      "keywords": [
+        "swapwallet"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "fonbnk-com",
+      "category": "psp",
+      "logo_path": "logos/psp/fonbnk-com.png",
+      "keywords": [
+        "fonbnk"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "richamster-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/richamster-com.png",
+      "keywords": [
+        "richamster"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "earnbit-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/earnbit-com.png",
+      "keywords": [
+        "earnbit"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "letsexchange-io",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/letsexchange-io.png",
+      "keywords": [
+        "letsexchange",
+        "lets exchange"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "aliniex-com",
+      "category": "psp",
+      "logo_path": "logos/psp/aliniex-com.png",
+      "keywords": [
+        "aliniex",
+        "alixpay"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "altery-com",
+      "category": "psp",
+      "logo_path": "logos/psp/altery-com.png",
+      "keywords": [
+        "altery"
       ],
       "product_aliases": [],
       "sanctioned": false

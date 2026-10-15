@@ -3141,3 +3141,13 @@ Coinfy,p2p,100,1,75,5,TRON,manual-admin,coinfy-cc,coinfy.cc,"coinfy.cc",,manual,
 millpay,psp,100,1,75,5,TRON,manual-admin,millpay-io,millpay.io,"millpay,millpay.io",,synthetic,2026-10-15,false,2f47205ac9b09058f0794908d3380f3323dde4eb5849a564483e806fd385b9a4
 Electrocoin,exchange,100,1,75,5,TRON,manual-admin,electrocoin,,"electrocoin,electrocoin ltd",,synthetic,2026-10-15,false,cff0c0dc0564021ce8d0762bc58c1c3cb81f198828303fe609350f0ef25f7fd1
 Mountain Wolf,psp,100,1,75,5,TRON,manual-admin,mountain-wolf,mountainwolf.com,"mountain wolf,mountainwolf.com",,manual,2026-10-15,true,f563b9e9b70bffbc9777be578e5f24c062014ee6fe8211660db1adb497fb5112
+Asterium,exchange,100,1,72,5,TON,ton-labels,asterium-uz,asterium.uz,asterium,,manual,2026-10-15,true,324dcb4e081b7606b8a5911302ee64fd0a5d6d28cdc3ab15ef8886da92c469c2
+OKJ,exchange,100,1,72,5,TON,ton-labels,okj-com,okj.com,"okj,okcoin japan",,manual,2026-10-15,true,0d39953f1abf4dbf41e4e5013459b80bf9590c7789ad14e2cb0b53e08c2c2268
+MINE.exchange,exchange,100,1,72,5,TON,ton-labels,mine-exchange,mine.exchange,mine.exchange,,manual,2026-10-15,true,4b5d74c027ce0dcad22d82a1910e86f71f8a28b2df7f68c4e919312e7440a281
+SwapWallet,wallet,100,1,72,5,TON,ton-labels,swapwallet-app,swapwallet.app,swapwallet,,manual,2026-10-15,true,8b9d32d9f2c93ce10fc39115a64ff8ebce8beaf2469d12338e0868b124cb3314
+Fonbnk,psp,100,1,72,5,TON,ton-labels,fonbnk-com,fonbnk.com,fonbnk,,manual,2026-10-15,true,f49a51bf83ec03fd11b421db78ed32d6d0e510d6d6dfba6c3ff1f711012dc379
+Richamster,exchange,100,1,72,5,TON,ton-labels,richamster-com,richamster.com,richamster,,manual,2026-10-15,true,869cb154837d6e6890089235dca557e088c97269823240e65e8a993c61edc276
+EarnBIT,exchange,100,1,72,5,TON,ton-labels,earnbit-com,earnbit.com,earnbit,,manual,2026-10-15,true,d9183b53961e371d87b84a80447ce16b6007a500081997bfc11a0ba93a537c8a
+LetsExchange,exchange,100,1,72,5,TON,ton-labels,letsexchange-io,letsexchange.io,"letsexchange,lets exchange",,manual,2026-10-15,true,03f8fd08af38c0356192cf6a9813dbcc8d8b5b9d585065d0b5100d5270361efb
+Aliniex,psp,100,1,72,5,TON,ton-labels,aliniex-com,aliniex.com,"aliniex,alixpay",,manual,2026-10-15,true,8c2e2ca5355c0b92583522862e7c92b63a248f6c3da434354c6c0591ceffc7c0
+Altery,psp,100,1,72,5,TON,ton-labels,altery-com,altery.com,altery,,manual,2026-10-15,true,d3c32c034692e033e1123736d2fc88d6271c7346be7abc190f2906a8509c729a
