@@ -3152,3 +3152,6 @@ LetsExchange,exchange,100,1,72,5,TON,ton-labels,letsexchange-io,letsexchange.io,
 Aliniex,psp,100,1,72,5,TON,ton-labels,aliniex-com,aliniex.com,"aliniex,alixpay",,manual,2026-10-15,true,8c2e2ca5355c0b92583522862e7c92b63a248f6c3da434354c6c0591ceffc7c0
 Altery,psp,100,1,72,5,TON,ton-labels,altery-com,altery.com,altery,,manual,2026-10-15,true,d3c32c034692e033e1123736d2fc88d6271c7346be7abc190f2906a8509c729a
 Storm Trade,defi,100,3,72,5,TON,ton-labels,storm-tg,storm.tg,"storm trade,storm.tg",,manual,2026-10-15,true,a1ddf70e47831182332b7c37fec17fe4de5ece66e316b22ef924e803071442a1
+YChangers,exchange,100,1,72,5,TON,ton-labels,ychangers-com,ychangers.com,ychangers,,manual,2026-10-15,true,c048ddd69b973eb111d5b52aa0a16e8bdfc5c3bc2beb9356399ff80728ee714e
+PointPay,exchange,100,1,72,5,TON,ton-labels,pointpay-io,pointpay.io,pointpay,,manual,2026-10-15,true,e1a724dd00dab3658278cd6d2470c5faf2f5d1f1c0409b39a242fad5a358ce6e
+Fiwind,wallet,100,1,72,5,TON,ton-labels,fiwind-io,fiwind.io,fiwind,,manual,2026-10-15,true,494778eeedec6db2d43616f4ef46bc555bf86e2c8c1b2677aa2fb3a2d18468fd

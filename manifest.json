@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-15T07:03:50+00:00",
+  "generated_at": "2026-10-15T07:06:10+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -31944,6 +31944,36 @@
       "keywords": [
         "storm trade",
         "storm.tg"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ychangers-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/ychangers-com.png",
+      "keywords": [
+        "ychangers"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pointpay-io",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/pointpay-io.png",
+      "keywords": [
+        "pointpay"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "fiwind-io",
+      "category": "wallet",
+      "logo_path": "logos/wallet/fiwind-io.png",
+      "keywords": [
+        "fiwind"
       ],
       "product_aliases": [],
       "sanctioned": false
