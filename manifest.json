@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-15T13:11:44+00:00",
+  "generated_at": "2026-10-15T13:47:21+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -32156,6 +32156,17 @@
       "keywords": [
         "floq",
         "floq.co.id"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "fintopio-com",
+      "category": "wallet",
+      "logo_path": "logos/wallet/fintopio-com.png",
+      "keywords": [
+        "fintopio",
+        "fintopio wallet"
       ],
       "product_aliases": [],
       "sanctioned": false

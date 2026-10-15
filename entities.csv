@@ -3171,3 +3171,4 @@ InterSOON,bridge,100,4,72,5,TON,ton-labels,intersoon,intersoon.soo.network,"inte
 PawPayments,psp,100,1,75,5,TON,scorechain-counterparties,pawpayments,pawpayments.com,"pawpayments,pawpayments.com",,manual,2026-10-15,true,82936fd8a8a46d98921e08b37db6134d8ac5e99c0d9089c847676da1315480ac
 Calypso Pay,psp,100,1,72,5,TON,ton-labels,calypso,calypso.finance,"calypso pay,calypso.finance",,manual,2026-10-15,true,314c9299ffbbc4697656f5e166ca81c92bedb335dbd615e4f8b17b382f1f13bb
 Floq,exchange,100,1,72,5,TON,ton-labels,floq,floq.co.id,"floq,floq.co.id",,manual,2026-10-15,true,3f96644acf98faac0dcfcec048d287d92289e7436010575591c249413463cbf0
+Fintopio,wallet,100,1,75,5,TON|ETH|TRON,manual-admin,fintopio-com,fintopio.com,"fintopio,fintopio wallet",,manual,2026-10-15,true,f3e15f46cecd887f0e0d16183ac8c2a919f91cc52509adaac9b9f3beddb34182
