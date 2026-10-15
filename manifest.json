@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-15T07:06:10+00:00",
+  "generated_at": "2026-10-15T08:04:22+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -31974,6 +31974,41 @@
       "logo_path": "logos/wallet/fiwind-io.png",
       "keywords": [
         "fiwind"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "blum-io",
+      "category": "bot",
+      "logo_path": "logos/bot/blum-io.png",
+      "keywords": [
+        "blum",
+        "blum.io",
+        "blum trading bot"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tac-build",
+      "category": "bridge",
+      "logo_path": "logos/bridge/tac-build.png",
+      "keywords": [
+        "tac.build",
+        "ton application chain",
+        "tac ton application chain"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "chorus-one",
+      "category": "staking_provider",
+      "logo_path": "logos/staking_provider/chorus-one.png",
+      "keywords": [
+        "chorus one",
+        "chorus.one"
       ],
       "product_aliases": [],
       "sanctioned": false

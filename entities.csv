@@ -3155,3 +3155,6 @@ Storm Trade,defi,100,3,72,5,TON,ton-labels,storm-tg,storm.tg,"storm trade,storm.
 YChangers,exchange,100,1,72,5,TON,ton-labels,ychangers-com,ychangers.com,ychangers,,manual,2026-10-15,true,c048ddd69b973eb111d5b52aa0a16e8bdfc5c3bc2beb9356399ff80728ee714e
 PointPay,exchange,100,1,72,5,TON,ton-labels,pointpay-io,pointpay.io,pointpay,,manual,2026-10-15,true,e1a724dd00dab3658278cd6d2470c5faf2f5d1f1c0409b39a242fad5a358ce6e
 Fiwind,wallet,100,1,72,5,TON,ton-labels,fiwind-io,fiwind.io,fiwind,,manual,2026-10-15,true,494778eeedec6db2d43616f4ef46bc555bf86e2c8c1b2677aa2fb3a2d18468fd
+Blum,bot,100,1,72,5,TON,ton-labels,blum-io,blum.io,"blum,blum.io,blum trading bot",,manual,2026-10-15,true,cd9db4838795f3d8b78d4f7179a250f444abadc5637bc6e9f5d44bb0fd6b279e
+TAC (TON Application Chain),bridge,100,1,72,5,TON,ton-labels,tac-build,tac.build,"tac.build,ton application chain,tac ton application chain",,manual,2026-10-15,true,5cab541fe0c61b20cce3c1e1a51b7d732a5978766889d648a883ada37214075c
+Chorus One,staking_provider,100,1,72,5,TON,ton-labels,chorus-one,chorus.one,"chorus one,chorus.one",,manual,2026-10-15,true,a1f1709231c56b834c8cfa846cc0a021dac18d3b62fb9eb729681df7b95f829e
