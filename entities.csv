@@ -3192,3 +3192,4 @@ Zerocryptopay,psp,100,1,70,5,TON,manual-admin,zerocryptopay,zerocryptopay.com,"z
 MRKT,nft_marketplace,100,16,70,5,TON,manual-admin,mrkt,t.me/mrkt,"mrkt,mrkt.ton",,manual,2026-10-16,true,dbb3a5a9622ca4b2666e6c4460158dab75461b4b88c44b1db284aecf5c34d2e7
 TonPlay,gambling,100,1,75,50,TON,ton-labels|manual-admin,tonplay-com,tonplay.com,"tonplay,tonplay.com",,manual,2026-10-16,true,e633d37a9f04a34d49d5effca711314df9d7dc49415b3c208c4bfaf2f86ba902
 Jetstars (JetTon),gambling,100,1,75,50,TON,ton-labels|manual-admin,jetstars-jetton,jetstars.xyz,"jetstars,jetton",,manual,2026-10-16,true,af6024816a4aceeedc7a4c5bb330a679372b47253e40689179684aaba93e229d
+ОсОО «ДатаГрупп»,exchange,100,1,60,5,TRON,manual-admin,datagrupp-kg,,"датагрупп,datagrupp",,synthetic,2026-10-16,false,b202185d784af2e290582f23ad0b1aa73eee50c27b9a5932901f2aaa168af95c
