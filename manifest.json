@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-16T08:40:53+00:00",
+  "generated_at": "2026-10-16T08:57:57+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -32351,6 +32351,17 @@
       "keywords": [
         "zerocryptopay",
         "zerocryptopay.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mrkt",
+      "category": "nft_marketplace",
+      "logo_path": "logos/nft_marketplace/mrkt.png",
+      "keywords": [
+        "mrkt",
+        "mrkt.ton"
       ],
       "product_aliases": [],
       "sanctioned": false
