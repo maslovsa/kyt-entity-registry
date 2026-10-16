@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-16T07:54:55+00:00",
+  "generated_at": "2026-10-16T08:40:53+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -32241,6 +32241,116 @@
       "logo_path": "logos/exchanges/tontrader-com.png",
       "keywords": [
         "tontrader"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "major-roxman",
+      "category": "psp",
+      "logo_path": "logos/psp/major-roxman.png",
+      "keywords": [
+        "major roxman",
+        "major.bot"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "not-pixel",
+      "category": "nft_marketplace",
+      "logo_path": "logos/nft_marketplace/not-pixel.png",
+      "keywords": [
+        "not pixel",
+        "notpixel.org"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "webtransfer",
+      "category": "p2p",
+      "logo_path": "logos/p2p/webtransfer.png",
+      "keywords": [
+        "webtransfer",
+        "webtransfer.app"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "busto-games",
+      "category": "gambling",
+      "logo_path": "logos/gambling/busto-games.png",
+      "keywords": [
+        "busto games",
+        "busto.games"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "freetoncoin",
+      "category": "gambling",
+      "logo_path": "logos/gambling/freetoncoin.png",
+      "keywords": [
+        "freetoncoin",
+        "freetoncoin.in"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tonpick",
+      "category": "gambling",
+      "logo_path": "logos/gambling/tonpick.png",
+      "keywords": [
+        "tonpick",
+        "tonpick.game"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "xingyi-yida-yule",
+      "category": "gambling",
+      "logo_path": "logos/gambling/xingyi-yida-yule.png",
+      "keywords": [
+        "xingyi yida yule",
+        "s.xybet00.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "giftor",
+      "category": "gambling",
+      "logo_path": "logos/gambling/giftor.png",
+      "keywords": [
+        "giftor",
+        "giftor.gifts"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "expay",
+      "category": "psp",
+      "logo_path": "logos/psp/expay.png",
+      "keywords": [
+        "expay",
+        "expay.cash"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "zerocryptopay",
+      "category": "psp",
+      "logo_path": "logos/psp/zerocryptopay.png",
+      "keywords": [
+        "zerocryptopay",
+        "zerocryptopay.com"
       ],
       "product_aliases": [],
       "sanctioned": false
