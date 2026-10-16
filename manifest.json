@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-15T17:15:52+00:00",
+  "generated_at": "2026-10-16T07:54:55+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -32178,6 +32178,69 @@
       "keywords": [
         "altyn wallet",
         "altyn.one"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitz-io",
+      "category": "gambling",
+      "logo_path": "logos/gambling/bitz-io.png",
+      "keywords": [
+        "bitz",
+        "bitz.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gcash-com",
+      "category": "wallet",
+      "logo_path": "logos/wallet/gcash-com.png",
+      "keywords": [
+        "gcash",
+        "gcrypto"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gems-trade",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/gems-trade.png",
+      "keywords": [
+        "gems.trade"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "normi-es",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/normi-es.png",
+      "keywords": [
+        "normi.es"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "spenda-africa",
+      "category": "psp",
+      "logo_path": "logos/psp/spenda-africa.png",
+      "keywords": [
+        "spenda",
+        "spenda.africa"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tontrader-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/tontrader-com.png",
+      "keywords": [
+        "tontrader"
       ],
       "product_aliases": [],
       "sanctioned": false

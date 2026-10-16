@@ -3173,3 +3173,9 @@ Calypso Pay,psp,100,1,72,5,TON,ton-labels,calypso,calypso.finance,"calypso pay,c
 Floq,exchange,100,1,72,5,TON,ton-labels,floq,floq.co.id,"floq,floq.co.id",,manual,2026-10-15,true,3f96644acf98faac0dcfcec048d287d92289e7436010575591c249413463cbf0
 Fintopio,wallet,100,1,75,5,TON|ETH|TRON,manual-admin,fintopio-com,fintopio.com,"fintopio,fintopio wallet",,manual,2026-10-15,true,f3e15f46cecd887f0e0d16183ac8c2a919f91cc52509adaac9b9f3beddb34182
 Altyn Wallet,wallet,100,0,75,5,TRON,manual-admin,altyn-one,altyn.one,"altyn wallet,altyn.one",,manual,2026-10-15,true,5c4ea158f66047338005f62ef254026e3c8da4ff17d4b9541877fc0c3c14972d
+Bitz,gambling,100,1,70,5,TON,manual-admin,bitz-io,bitz.io,"bitz,bitz.io",,manual,2026-10-16,true,956755073a5bcf62983a6e827cf8693a3bc9b02ab3e57c7715346805d0058afd
+GCash (GCrypto),wallet,100,1,70,5,TON,manual-admin,gcash-com,gcash.com,"gcash,gcrypto",,manual,2026-10-16,true,8547877112bdfc131610bb096af75a315b392053071727e1a3faf13673288a93
+GEMS (Gems.trade),exchange,100,1,70,5,TON,manual-admin,gems-trade,gems.trade,gems.trade,,manual,2026-10-16,true,e9c8d90aa5b7f36c93a0a5aa98819b08926bcaf9a93bbbd70ecdb89248113c76
+Normies,exchange,100,1,70,5,TON,manual-admin,normi-es,normi.es,normi.es,,manual,2026-10-16,true,823f379aa3fd5f7e83c756c4538bd19a85a70994b2baf17bf8563ca049b99f4c
+Spenda,psp,100,1,70,5,TON,manual-admin,spenda-africa,spenda.africa,"spenda,spenda.africa",,manual,2026-10-16,true,814f951c5bf54337b4a7b8522be5a7dc87dc4e3cd6fa937fb9ecbb65cf79aa80
+TonTrader,exchange,100,1,70,5,TON,manual-admin,tontrader-com,tontrader.com,tontrader,,manual,2026-10-16,true,3716d11b74c9b7022587d4b037f018be2071bc65fcbf29ddbb886feaca52e3f4
