@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-16T12:50:54+00:00",
+  "generated_at": "2026-10-16T14:55:57+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -32395,6 +32395,18 @@
       "keywords": [
         "датагрупп",
         "datagrupp"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ton-whales",
+      "category": "staking_provider",
+      "logo_path": "logos/staking_provider/ton-whales.png",
+      "keywords": [
+        "ton whales",
+        "tonwhales",
+        "whales pool"
       ],
       "product_aliases": [],
       "sanctioned": false
