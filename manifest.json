@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-16T08:57:57+00:00",
+  "generated_at": "2026-10-16T10:07:12+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -32362,6 +32362,28 @@
       "keywords": [
         "mrkt",
         "mrkt.ton"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tonplay-com",
+      "category": "gambling",
+      "logo_path": "logos/gambling/tonplay-com.png",
+      "keywords": [
+        "tonplay",
+        "tonplay.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "jetstars-jetton",
+      "category": "gambling",
+      "logo_path": "logos/gambling/jetstars-jetton.png",
+      "keywords": [
+        "jetstars",
+        "jetton"
       ],
       "product_aliases": [],
       "sanctioned": false
