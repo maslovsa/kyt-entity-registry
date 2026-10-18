@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-16T14:55:57+00:00",
+  "generated_at": "2026-10-18T11:36:23+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -32407,6 +32407,17 @@
         "ton whales",
         "tonwhales",
         "whales pool"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "wallet-stars-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/wallet-stars-com.png",
+      "keywords": [
+        "walletstars",
+        "wallet-stars.com"
       ],
       "product_aliases": [],
       "sanctioned": false
