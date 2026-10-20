@@ -3198,3 +3198,4 @@ WalletStars,exchange,100,1,72,5,TON,ton-labels,wallet-stars-com,wallet-stars.com
 PDAX,exchange,100,1,72,5,TON,ton-labels,pdax-ph,pdax.ph,"pdax,pdax.ph",,manual,2026-10-18,true,37188231337e3373824359e4171d29f0c5a93638efa647cd85ee8c6cf1d18ed2
 LeveX,exchange,100,1,72,5,TON,ton-labels,levex-com,levex.com,"levex,levex.com",,manual,2026-10-18,true,cfdad1a432c883316069648a1a79215b994a41820c45ad163138c88a5a641c82
 Turtle.tl,exchange,100,1,75,45,TRON,scorechain-counterparties,turtle-tl,,"turtle.tl",,none,2026-10-20,true,
+Kvitum.com,psp,100,,75,50,,manual-admin,kvitum-com,kvitum.com,"kvitum,kvitum.com",,none,2026-10-20,true,
