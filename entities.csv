@@ -3199,3 +3199,4 @@ PDAX,exchange,100,1,72,5,TON,ton-labels,pdax-ph,pdax.ph,"pdax,pdax.ph",,manual,2
 LeveX,exchange,100,1,72,5,TON,ton-labels,levex-com,levex.com,"levex,levex.com",,manual,2026-10-18,true,cfdad1a432c883316069648a1a79215b994a41820c45ad163138c88a5a641c82
 Turtle.tl,exchange,100,1,75,45,TRON,scorechain-counterparties,turtle-tl,,"turtle.tl",,none,2026-10-20,true,
 Kvitum.com,psp,100,,75,50,,manual-admin,kvitum-com,kvitum.com,"kvitum,kvitum.com",,none,2026-10-20,true,
+BitstreetX,exchange,100,128,75,5,TRON,manual-admin,bitstreetx,bitstreetx.com,"bitstreetx,bitstreet,比特街",,manual,2026-10-20,true,68bacbe9b091aef74a33be4f1a1311eed4a4e0c3ee005aacdff66f096351a07a

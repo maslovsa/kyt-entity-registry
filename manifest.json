@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-20T13:00:08+00:00",
+  "generated_at": "2026-10-20T13:04:02+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -32440,6 +32440,18 @@
       "keywords": [
         "levex",
         "levex.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitstreetx",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bitstreetx.png",
+      "keywords": [
+        "bitstreetx",
+        "bitstreet",
+        "比特街"
       ],
       "product_aliases": [],
       "sanctioned": false
