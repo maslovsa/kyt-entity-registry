@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-20T13:04:02+00:00",
+  "generated_at": "2026-10-24T10:47:07+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -30196,8 +30196,8 @@
     },
     {
       "slug": "audius",
-      "category": "hack",
-      "logo_path": "logos/hack/audius.png",
+      "category": "defi",
+      "logo_path": "logos/defi/audius.png",
       "keywords": [
         "audius"
       ],

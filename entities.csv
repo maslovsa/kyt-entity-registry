@@ -151,7 +151,7 @@ MIMSpell2,defi,100,192,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLY
 Mirror,defi,100,232,70,5,ETH,ethereum-lists-contracts,mirror,,mirror,,arkham,2026-06-19,false,8a69d44a38f03edf570c42835f4693fe31a29d2bc21ec5797d2e40cf3ab505d4
 Moloch V21,defi,100,190,70,5,ETH,ethereum-lists-contracts,moloch-v21,,,,synthetic,2026-08-17,false,bf1d466ee13d319b70c12b474e7d1824b1d704888223263f67ba202beffd7271
 MonoX - REKT,defi,100,32,95,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions,monox-rekt,,"monox - rekt,monox rekt,monox-rekt",,manual,2026-05-13,true,26acbfc6bc2ee1cfacff9a49a28a5fee3b89a66462457f6d98b378876d40c73c
-Moonhacker,hack,100,112,95,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions|vasp-entity-defaults,moonhacker,,,,synthetic,2026-10-14,false,cd810c28eec597c501856af4a91260e66bd2859a5ee6dd8c0a75d1d6a7c3f678
+Moonhacker,defi,100,112,95,10,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,hack-attributions|vasp-entity-defaults,moonhacker,,,,synthetic,2026-10-14,false,cd810c28eec597c501856af4a91260e66bd2859a5ee6dd8c0a75d1d6a7c3f678
 Moonwell,defi,100,149,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,moonwell,,moonwell,,arkham,2026-05-11,false,9e5e0027e07c98e3bac522f0c1959a0677fa0249b8e130862b0ea9a0b61b83cd
 nemo,defi,100,222,70,5,ETH,defillama-adapters,nemo,,nemo,,arkham,2026-10-14,false,589c94bf319d4f4835d41409aa17234900f9352378870f9d2213222d2d32c057
 Nexo.com,exchange,100,270,75,5,BSC|ETH|TRON,scorechain-counterparties,nexo-com,nexo.com,nexo,,arkham,2026-05-11,false,e8048ca44d13fb7314bb30c9bba578ecdee39fb9516365f9b5f502ccf053619f
@@ -2897,7 +2897,7 @@ zyfai,defi,57.4,82,70,5,ARBITRUM|BASE|ETH,defillama-adapters,zyfai,,zyfai,,arkha
 Agave,defi,56.7,81,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,agave,,agave,,arkham,2026-05-11,false,dd85b2b4513d7e1f65e7983ba4a9f98eae3ffdd695781e409eea6a73273dfd5c
 Circle2,defi,56.7,81,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,circle2,,,,synthetic,2026-08-17,false,6639e246f66a7451fc47866b9b715094b219cebc6f9b88d544cd682ca062bc60
 nostra,defi,56.7,81,70,5,ETH,defillama-adapters|vasp-entity-defaults,nostra,,nostra,,arkham,2026-05-11,false,0aa017d54c692f3a3dcf39744d97f38d50b25cdcdde5c5aa8bb977176db5ed77
-Audius,hack,56.0,80,70,95,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,audius,,audius,,arkham,2026-06-19,false,9b078a646a413b53b66dd156d5b29b6ab0bab065d9b615ec62beb299bde5d276
+Audius,defi,56.0,80,70,10,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,audius,,audius,,arkham,2026-06-19,false,9b078a646a413b53b66dd156d5b29b6ab0bab065d9b615ec62beb299bde5d276
 bishares,defi,56.0,80,70,5,BSC|ETH|FANTOM,defillama-adapters,bishares,,bishares,,arkham,2026-05-11,false,6be8ce408d2c93cdc0388f1b4e63a263b083f99d4fcd37c34c3e5f5b698d028d
 BonqDAO,defi,56.0,80,70,5,ARBITRUM|AVALANCHE|BASE|BSC|ETH|FANTOM|OPTIMISM|POLYGON,vasp-entity-defaults,bonqdao,,bonqdao,,defillama,2026-05-11,false,4dee4e2ddf94a1a84d5f7a6ebb716e333f1548c7433847de9c3172cb6b4a1adb
 Convex Finance,defi,56.0,80,70,5,ETH,vasp-entity-defaults,convex,,"convex,convex-finance",,arkham,2026-05-11,false,fe7b47a17d06fadf3e54c661e92f773e24d5faf329cce64a4d68349751ed38f1
