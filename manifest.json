@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-30T10:28:04+00:00",
+  "generated_at": "2026-10-30T12:19:24+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -32453,6 +32453,16 @@
         "bitstreetx",
         "bitstreet",
         "比特街"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "wagyu-xyz",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/wagyu-xyz.png",
+      "keywords": [
+        "wagyu.xyz"
       ],
       "product_aliases": [],
       "sanctioned": false
