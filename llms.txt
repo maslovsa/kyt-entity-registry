@@ -1,0 +1,98 @@
+# kyt-entity-registry
+
+> Open-source registry of 800+ cryptocurrency entity logos (exchanges,
+> DEX, bridges, DeFi protocols, mixers, hacks, sanctioning bodies) —
+> 160×160 RGBA PNG, served free via the jsDelivr CDN, with a fuzzy
+> resolver for freeform labels and an MCP server for Claude agents.
+
+This file follows the https://llmstxt.org/ convention. If you are an
+LLM-powered agent fetching this, you can consume the registry via any
+of the URLs below without browsing the full site.
+
+## Quick facts
+
+- **Repo**: https://github.com/maslovsa/kyt-entity-registry (MIT licensed)
+- **Live site**: https://maslovsa.github.io/kyt-entity-registry/
+- **CDN root**: `https://cdn.jsdelivr.net/gh/maslovsa/kyt-entity-registry@main`
+- **Logo shape**: 160×160 RGBA PNG, optimised, ≤ 50 KB each
+- **Logo URL pattern**: `<CDN>/logos/<dir>/<slug>.png`
+  where `<dir>` is the category (plural for `exchange → exchanges`,
+  everything else 1:1) and `<slug>` is the entity's slug.
+
+## Data artefacts (machine-readable)
+
+- **entities.csv** — the canonical row list.
+  `<CDN>/entities.csv`
+  columns: slug, entity_name, category_slug, importance,
+  canonical_domain, keywords, product_aliases, logo_status,
+  logo_updated_at, manual_lock, logo_hash
+- **manifest.json** — every entity with a logo: slug, category,
+  logo_path, keywords, product_aliases, sanctioned, designation.
+  `<CDN>/manifest.json`
+- **logos/_index.json** — flat `{ "<dir>/<slug>": true, … }` listing
+  only entities with a REAL logo (excludes placeholders). Good
+  for "does a real logo exist?" checks.
+  `<CDN>/logos/_index.json`
+- **logos/_lookup.json** — fuzzy-match index with pre-extracted
+  keywords per entity. Consumed by lookup.js, the MCP server, and
+  any custom resolver.
+  `<CDN>/logos/_lookup.json`
+
+## Resolution strategies
+
+### A — when you already have a canonical entity name
+
+`(category_slug, entity_name)` → deterministic URL. See
+`docs/CONSUMERS.md` for the TS + Python helpers (category→dir map,
+name-to-slug normalization with suffix stripping).
+
+### B — when you have a freeform label
+
+Load `_lookup.json` once per session, then score keyword-overlap
+between the tokenized label and each entry's `kw` array. Top score
+wins, tie-broken by importance and real-vs-placeholder. See
+`lookup.js` (vanilla ES module) for a reference implementation; ~50
+lines total.
+
+### C — via MCP (for Claude Code / Claude Desktop)
+
+A stdio MCP server runs locally. Configure in `~/.claude/settings.json`:
+
+```json
+"mcpServers": {
+  "kyt-entity-registry": {
+    "command": "uvx",
+    "args": ["--from",
+             "git+https://github.com/maslovsa/kyt-entity-registry.git#subdirectory=mcp/python",
+             "kyt-entity-registry-mcp"]
+  }
+}
+```
+
+Tools exposed:
+- `resolve_logo(label, category?, prefer_real=true)` →
+  `{url, slug, name, category, real, importance}` | null
+- `list_categories()` → `[{slug, dir, count}]`
+- `list_entities(category?, limit=50, offset=0)` → page of entries
+- `get_entity(category, slug)` → full row
+- `search_entities(query, category?, limit=10)` → top-N matches
+
+TypeScript twin available at `mcp/ts/`.
+
+## Categories
+
+See `category_to_dir` in `logos/_lookup.json` (`exchange` → `exchanges/`,
+everything else 1:1).
+
+## How to correct a logo
+
+- Drop files on the landing page "Have better logos?" section — it
+  generates a rework CSV with embedded PNG data URLs.
+- Or open a PR adding `logos/_manual/<dir>/<slug>.png`.
+
+## Related docs
+
+- `docs/CONSUMERS.md` — TS + Python helpers, fuzzy resolver recipe,
+  SHA-pinning for compliance PDFs, cache TTL notes.
+- `docs/MCP.md` — MCP server tool reference, config snippets for
+  popular clients, examples.

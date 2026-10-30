@@ -1,0 +1,342 @@
+{
+  "a7-llc-ru": {
+    "date": null,
+    "id": "OFAC-54630",
+    "list": "ofac_sdn"
+  },
+  "a71-llc": {
+    "date": "2026-06-16",
+    "id": "RUS3648",
+    "list": "uk_hmt"
+  },
+  "abantether-com": {
+    "date": null,
+    "id": "OFAC-58239",
+    "list": "ofac_sdn"
+  },
+  "abcex-io": {
+    "date": "2026-10-11",
+    "id": "UA-1037-2026-E24",
+    "list": "ua_nsdc"
+  },
+  "aeza-group": {
+    "date": null,
+    "id": "OFAC-54566",
+    "list": "ofac_sdn"
+  },
+  "aifory-pro": {
+    "date": "2026-05-26",
+    "id": "RUS3610",
+    "list": "uk_hmt"
+  },
+  "alistera-ru": {
+    "date": "2026-05-26",
+    "id": "RUS3606",
+    "list": "uk_hmt"
+  },
+  "altair-holding-sa-lu": {
+    "date": "2025-08-20",
+    "id": "RUS2992",
+    "list": "uk_hmt"
+  },
+  "ansarallah-houthis": {
+    "date": null,
+    "id": "OFAC-47664",
+    "list": "ofac_sdn"
+  },
+  "arvix-pro": {
+    "date": "2026-05-26",
+    "id": "RUS3604",
+    "list": "uk_hmt"
+  },
+  "b-crypto": {
+    "date": null,
+    "id": "OFAC-48102",
+    "list": "ofac_sdn"
+  },
+  "bitcoin-exchange-agent-idlibs-no1-coin-exchange": {
+    "date": null,
+    "id": "OFAC-57963",
+    "list": "ofac_sdn"
+  },
+  "bitpapa-com": {
+    "date": null,
+    "id": "OFAC-48096",
+    "list": "ofac_sdn"
+  },
+  "bitpin-ir": {
+    "date": null,
+    "id": "OFAC-57090",
+    "list": "ofac_sdn"
+  },
+  "bolai-entertainment-city": {
+    "date": null,
+    "id": "OFAC-57244",
+    "list": "ofac_sdn"
+  },
+  "buy-cash": {
+    "date": null,
+    "id": "OFAC-45678",
+    "list": "ofac_sdn"
+  },
+  "byex-com": {
+    "date": "2025-10-14",
+    "id": "GHR0174",
+    "list": "uk_hmt"
+  },
+  "capital-bank-of-central-asia-kg": {
+    "date": "2025-08-20",
+    "id": "RUS2987",
+    "list": "uk_hmt"
+  },
+  "central-bank-of-iran-bank-markazi": {
+    "date": null,
+    "id": "OFAC-4632",
+    "list": "ofac_sdn"
+  },
+  "cryptex-net": {
+    "date": null,
+    "id": "OFAC-50641",
+    "list": "ofac_sdn"
+  },
+  "crypto-explorer-dmcc": {
+    "date": null,
+    "id": "OFAC-48097",
+    "list": "ofac_sdn"
+  },
+  "crypto-home": {
+    "date": null,
+    "id": "OFAC-58258",
+    "list": "ofac_sdn"
+  },
+  "crypto-pro-llc": {
+    "date": null,
+    "id": "OFAC-47550",
+    "list": "ofac_sdn"
+  },
+  "cryptomus-com": {
+    "date": "2026-10-08",
+    "id": "RUS3755",
+    "list": "uk_hmt"
+  },
+  "diamond-estate-ru": {
+    "date": "2026-05-26",
+    "id": "RUS3616",
+    "list": "uk_hmt"
+  },
+  "el-kahira-for-general-trading": {
+    "date": null,
+    "id": "OFAC-58197",
+    "list": "ofac_sdn"
+  },
+  "esb-kg": {
+    "date": null,
+    "id": "CH-100155",
+    "list": "ch_seco"
+  },
+  "exmo-com": {
+    "date": "2026-05-26",
+    "id": "RUS3602",
+    "list": "uk_hmt"
+  },
+  "exnode": {
+    "date": "2026-05-26",
+    "id": "RUS3604",
+    "list": "uk_hmt"
+  },
+  "exved": {
+    "date": null,
+    "id": "OFAC-53080",
+    "list": "ofac_sdn"
+  },
+  "first-vpn-service": {
+    "date": null,
+    "id": "OFAC-57975",
+    "list": "ofac_sdn"
+  },
+  "funnull-technology": {
+    "date": null,
+    "id": "OFAC-53953",
+    "list": "ofac_sdn"
+  },
+  "garantex": {
+    "date": null,
+    "id": "OFAC-36025",
+    "list": "ofac_sdn"
+  },
+  "gaza-now": {
+    "date": null,
+    "id": "OFAC-47635",
+    "list": "ofac_sdn"
+  },
+  "grinex": {
+    "date": null,
+    "id": "OFAC-55045",
+    "list": "ofac_sdn"
+  },
+  "hamas": {
+    "date": null,
+    "id": "OFAC-4695",
+    "list": "ofac_sdn"
+  },
+  "heleket-com": {
+    "date": "2026-10-08",
+    "id": "RUS3755",
+    "list": "uk_hmt"
+  },
+  "htx-com-huobi-com": {
+    "date": "2026-05-26",
+    "id": "RUS3619",
+    "list": "uk_hmt"
+  },
+  "hydra-market": {
+    "date": null,
+    "id": "OFAC-36216",
+    "list": "ofac_sdn"
+  },
+  "indefi-smartbank": {
+    "date": null,
+    "id": "OFAC-53079",
+    "list": "ofac_sdn"
+  },
+  "isil-khorasan": {
+    "date": null,
+    "id": "OFAC-18647",
+    "list": "ofac_sdn"
+  },
+  "korea-kwangson-banking-corp": {
+    "date": "2016-03-02",
+    "id": "DPR0155",
+    "list": "uk_hmt"
+  },
+  "nft-home-dmcc": {
+    "date": null,
+    "id": "OFAC-58259",
+    "list": "ofac_sdn"
+  },
+  "nobitex-ir": {
+    "date": null,
+    "id": "OFAC-56981",
+    "list": "ofac_sdn"
+  },
+  "novo-blockchain-consultoria": {
+    "date": null,
+    "id": "OFAC-43273",
+    "list": "ofac_sdn"
+  },
+  "payeer-com": {
+    "date": null,
+    "id": "CH-100149",
+    "list": "ch_seco"
+  },
+  "promsvyazbank-ru": {
+    "date": null,
+    "id": "OFAC-34656",
+    "list": "ofac_sdn"
+  },
+  "ramzinex-com": {
+    "date": null,
+    "id": "OFAC-57092",
+    "list": "ofac_sdn"
+  },
+  "rapira-net": {
+    "date": "2026-05-26",
+    "id": "RUS3605",
+    "list": "uk_hmt"
+  },
+  "reconnaissance-general-bureau": {
+    "date": "2016-03-02",
+    "id": "DPR0188",
+    "list": "uk_hmt"
+  },
+  "secondeye-solution": {
+    "date": null,
+    "id": "OFAC-30518",
+    "list": "ofac_sdn"
+  },
+  "shelbit": {
+    "date": null,
+    "id": "OFAC-58285",
+    "list": "ofac_sdn"
+  },
+  "siavash-kayvanpour": {
+    "date": null,
+    "id": "OFAC-58284",
+    "list": "ofac_sdn"
+  },
+  "sinbad-io": {
+    "date": null,
+    "id": "OFAC-44437",
+    "list": "ofac_sdn"
+  },
+  "southfront": {
+    "date": null,
+    "id": "OFAC-31212",
+    "list": "ofac_sdn"
+  },
+  "state-brokerage-company-kg": {
+    "date": "2026-05-26",
+    "id": "RUS3615",
+    "list": "uk_hmt"
+  },
+  "suex": {
+    "date": null,
+    "id": "OFAC-33151",
+    "list": "ofac_sdn"
+  },
+  "task-force-rusich": {
+    "date": null,
+    "id": "OFAC-38665",
+    "list": "ofac_sdn"
+  },
+  "tengricoin-kg": {
+    "date": "2025-08-20",
+    "id": "RUS2984",
+    "list": "uk_hmt"
+  },
+  "titan-exchange-dubai": {
+    "date": null,
+    "id": "OFAC-58272",
+    "list": "ofac_sdn"
+  },
+  "tokenspot-com": {
+    "date": "2026-10-08",
+    "id": "RUS3758",
+    "list": "uk_hmt"
+  },
+  "trace-road-llc": {
+    "date": "2026-05-26",
+    "id": "RUS3617",
+    "list": "uk_hmt"
+  },
+  "valerian": {
+    "date": null,
+    "id": "OFAC-45314",
+    "list": "ofac_sdn"
+  },
+  "virtual-assets-issuer-kg": {
+    "date": "2026-05-26",
+    "id": "RUS3618",
+    "list": "uk_hmt"
+  },
+  "wallex-ir": {
+    "date": null,
+    "id": "OFAC-57091",
+    "list": "ofac_sdn"
+  },
+  "xinbi-guarantee": {
+    "date": null,
+    "id": "OFAC-58361",
+    "list": "ofac_sdn"
+  },
+  "zedcex": {
+    "date": null,
+    "id": "OFAC-56865",
+    "list": "ofac_sdn"
+  },
+  "zservers": {
+    "date": null,
+    "id": "OFAC-52830",
+    "list": "ofac_sdn"
+  }
+}

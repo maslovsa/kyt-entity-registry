@@ -1,0 +1,12 @@
+# kyt-entity-registry — crawler policy.
+#
+# Everything public.
+
+User-agent: *
+Allow: /
+Allow: /logos/
+Allow: /docs/
+Disallow: /.venv/
+Disallow: /.github/
+
+Sitemap: https://maslovsa.github.io/kyt-entity-registry/sitemap.xml

@@ -1,0 +1,44 @@
+{
+  "name": "kyt-entity-registry-mcp",
+  "version": "0.1.0",
+  "description": "MCP server for kyt-entity-registry — resolves crypto entity logos by freeform label",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "kyt-entity-registry-mcp": "dist/index.js"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "prepare": "npm run build"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.6.0"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maslovsa/kyt-entity-registry.git",
+    "directory": "mcp/ts"
+  },
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "claude",
+    "crypto",
+    "kyt",
+    "aml",
+    "logos"
+  ]
+}

@@ -1,0 +1,45 @@
+name: validate
+
+# Runs on every push to main and every PR — 10s per run, negligible cost.
+# Earlier we tried a paths filter but it silently skipped commits that
+# touched adjacent files (2026-07-10 gap: 2a0cfca, c61c284 didn't fire).
+# Broad triggering is simpler and never miss-fires.
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683  # v5
+
+      - uses: actions/setup-python@0b93645e9fea7318ecaed2b359559ac225c90a2b  # v5
+        with:
+          python-version: "3.12"
+
+      - name: Regenerate manifest.json from entities.csv
+        # Regenerate rather than trust the committed one — makes it impossible
+        # to land an entities.csv edit whose manifest wasn't refreshed. Diff
+        # excludes `generated_at` (a per-run timestamp) so byte-comparison
+        # only trips on real content divergence.
+        run: |
+          python3 scripts/generate_manifest.py --input entities.csv --output /tmp/manifest_regen.json
+          strip_ts() { python3 -c "import json,sys; d=json.load(open(sys.argv[1])); d.pop('generated_at', None); print(json.dumps(d, sort_keys=True))" "$1"; }
+          if ! diff <(strip_ts manifest.json) <(strip_ts /tmp/manifest_regen.json) > /dev/null; then
+            echo "::error::manifest.json content diverges from what entities.csv would generate. Regenerate locally:"
+            echo "  python3 scripts/generate_manifest.py --input entities.csv --output manifest.json"
+            diff <(strip_ts manifest.json) <(strip_ts /tmp/manifest_regen.json) | head -40 || true
+            exit 1
+          fi
+
+      - name: Validate manifest against static rules
+        run: python3 scripts/validate_manifest.py
+
+      - name: Repo size stays under jsDelivr's 50 MB package limit
+        # jsDelivr answers 403 "Package size exceeded the configured limit of 50 MB"
+        # for every file once the tracked tree passes 50 MB (it did on 2026-10-27, and
+        # we only found out from broken logos). Fail here instead, with room to react.
+        run: python3 scripts/check_repo_size.py
