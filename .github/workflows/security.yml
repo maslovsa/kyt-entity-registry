@@ -37,7 +37,9 @@ jobs:
         # --strict: fail on any vulnerability that has a fix available
         # in a compatible release (relax this to a plain `pip-audit` if
         # you want the job to report but not fail). The repo's pins are
-        # loose (Pillow>=10,<13; httpx>=0.27,<1) so pip-audit picks the
+        # loose (Pillow>=10,<14; httpx>=0.27,<1) so pip-audit picks the
         # latest patched release automatically — a fix is almost always
-        # reachable without a code change.
+        # reachable without a code change. When it isn't (Pillow 12.3.0 had
+        # fixes only in 13.0.0, past the old <13 cap), raise the cap here
+        # in requirements.txt rather than ignoring the advisories.
         run: pip-audit --strict --requirement requirements.txt
