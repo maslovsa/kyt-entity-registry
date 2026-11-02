@@ -131,6 +131,19 @@ def check_alias_equals_keyword(entry: dict) -> list[str]:
     return errs
 
 
+# Mirrors _SLUG_RE in scripts/_base.py. The slug is free text in entities.csv
+# but lands in file paths and (landing.js) HTML, so reject anything else here.
+_SLUG_RE = re.compile(r"^[a-z0-9][a-z0-9-]*$")
+
+
+def check_slug_charset(entry: dict) -> list[str]:
+    """Fail on a slug outside [a-z0-9-] (path/HTML-unsafe characters)."""
+    slug = entry.get("slug", "")
+    if not _SLUG_RE.match(slug):
+        return [f"slug {slug!r} must match {_SLUG_RE.pattern}"]
+    return []
+
+
 def check_broken_quotes(entry: dict) -> list[str]:
     """Detect dangling quote leftovers from CSV parse errors, e.g.
     keywords=['"zerohash', 'zero hash"'].
@@ -173,6 +186,7 @@ def main() -> int:
         slug_counts[slug] = slug_counts.get(slug, 0) + 1
 
         errs: list[str] = []
+        errs += check_slug_charset(e)
         errs += check_no_multi_word_solo_keyword(e)
         errs += check_alias_equals_keyword(e)
         errs += check_broken_quotes(e)
