@@ -118,7 +118,7 @@ function showHover(tile) {
     : '';
   hover.el.innerHTML = `
     <div class="hc-title">${escapeHtml(d.name || d.slug)}</div>
-    <div class="hc-cat">${catLabels[d.category] || d.category}</div>
+    <div class="hc-cat">${escapeHtml(catLabels[d.category] || d.category)}</div>
     <dl>
       <dt>${labels.source}</dt><dd>${sourceLabel}</dd>
       <dt>${labels.updated}</dt><dd>${updated}</dd>
@@ -552,7 +552,7 @@ async function handleBulk(files) {
     preview.src = norm.dataUrl;
     info.innerHTML = `
       <div class="bm-filename">${escapeHtml(f.name)}</div>
-      <div class="bm-target">→ ${entry.cat}/${entry.slug} (${escapeHtml(entry.name)})</div>
+      <div class="bm-target">→ ${escapeHtml(entry.cat)}/${escapeHtml(entry.slug)} (${escapeHtml(entry.name)})</div>
     `;
     div.appendChild(preview);
     div.appendChild(info);
