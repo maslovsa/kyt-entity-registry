@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-10-30T12:19:24+00:00",
+  "generated_at": "2026-11-04T18:00:24+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -32463,6 +32463,17 @@
       "logo_path": "logos/exchanges/wagyu-xyz.png",
       "keywords": [
         "wagyu.xyz"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "zymfi-com",
+      "category": "defi",
+      "logo_path": "logos/defi/zymfi-com.png",
+      "keywords": [
+        "zymfi",
+        "zymfi.com"
       ],
       "product_aliases": [],
       "sanctioned": false
