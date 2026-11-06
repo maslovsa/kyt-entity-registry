@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-11-04T18:00:24+00:00",
+  "generated_at": "2026-11-06T20:00:57+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -32474,6 +32474,27 @@
       "keywords": [
         "zymfi",
         "zymfi.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "betonline-ag",
+      "category": "gambling",
+      "logo_path": "logos/gambling/betonline-ag.png",
+      "keywords": [
+        "betonline"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kibo-lotto",
+      "category": "gambling",
+      "logo_path": "logos/gambling/kibo-lotto.png",
+      "keywords": [
+        "kibo lotto",
+        "kiboplatform"
       ],
       "product_aliases": [],
       "sanctioned": false
