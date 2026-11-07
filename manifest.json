@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-11-06T20:00:57+00:00",
+  "generated_at": "2026-11-07T06:46:36+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -7159,6 +7159,20 @@
         "id": "OFAC-47664",
         "date": null
       }
+    },
+    {
+      "slug": "irgc",
+      "category": "sanctioned",
+      "logo_path": "logos/sanctioned/irgc.png",
+      "keywords": [
+        "irgc",
+        "islamic revolutionary guard corps",
+        "revolutionary guards",
+        "sepah",
+        "pasdaran"
+      ],
+      "product_aliases": [],
+      "sanctioned": true
     },
     {
       "slug": "isil-khorasan",
