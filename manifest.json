@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-11-07T06:46:36+00:00",
+  "generated_at": "2026-11-08T09:46:31+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -32509,6 +32509,16 @@
       "keywords": [
         "kibo lotto",
         "kiboplatform"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "steer",
+      "category": "defi",
+      "logo_path": "logos/defi/steer.png",
+      "keywords": [
+        "steer"
       ],
       "product_aliases": [],
       "sanctioned": false
