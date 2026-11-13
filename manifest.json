@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-11-08T09:46:31+00:00",
+  "generated_at": "2026-11-13T05:53:36+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -32519,6 +32519,97 @@
       "logo_path": "logos/defi/steer.png",
       "keywords": [
         "steer"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "aofex-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/aofex-com.png",
+      "keywords": [
+        "aofex",
+        "aofex.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bhex-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bhex-com.png",
+      "keywords": [
+        "bhex",
+        "bhex.com",
+        "bhex.sg",
+        "hbtc"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "citex-io",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/citex-io.png",
+      "keywords": [
+        "citex",
+        "citex.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "dcoin-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/dcoin-com.png",
+      "keywords": [
+        "dcoin",
+        "dcoin.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hopex-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/hopex-com.png",
+      "keywords": [
+        "hopex",
+        "hopex.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "walbi-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/walbi-com.png",
+      "keywords": [
+        "walbi",
+        "walbi.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "zbg-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/zbg-com.png",
+      "keywords": [
+        "zbg",
+        "zbg global",
+        "zbg.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "50x-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/50x-com.png",
+      "keywords": [
+        "50x",
+        "50x.com"
       ],
       "product_aliases": [],
       "sanctioned": false
