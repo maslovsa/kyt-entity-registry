@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-11-13T05:54:30+00:00",
+  "generated_at": "2026-11-13T11:47:32+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -32621,6 +32621,17 @@
       "keywords": [
         "unocoin",
         "unocoin.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pallapay",
+      "category": "psp",
+      "logo_path": "logos/psp/pallapay.png",
+      "keywords": [
+        "pallapay",
+        "pallapay.com"
       ],
       "product_aliases": [],
       "sanctioned": false
