@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-11-13T11:47:32+00:00",
+  "generated_at": "2026-11-14T20:06:44+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -32632,6 +32632,321 @@
       "keywords": [
         "pallapay",
         "pallapay.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "voyager-digital",
+      "category": "custodian",
+      "logo_path": "logos/custodian/voyager-digital.png",
+      "keywords": [
+        "voyager digital",
+        "investvoyager",
+        "investvoyager.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "defiance-capital",
+      "category": "defi",
+      "logo_path": "logos/defi/defiance-capital.png",
+      "keywords": [
+        "defiance capital",
+        "defiance.capital"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "longling-capital",
+      "category": "defi",
+      "logo_path": "logos/defi/longling-capital.png",
+      "keywords": [
+        "longling capital",
+        "longling.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "three-arrows-capital",
+      "category": "defi",
+      "logo_path": "logos/defi/three-arrows-capital.png",
+      "keywords": [
+        "three arrows capital",
+        "threearrowscap",
+        "threearrowscap.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "alterdice-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/alterdice-com.png",
+      "keywords": [
+        "alterdice",
+        "alterdice.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "anycoin-direct",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/anycoin-direct.png",
+      "keywords": [
+        "anycoin direct",
+        "anycoindirect",
+        "anycoindirect.eu"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitbuy-ca",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bitbuy-ca.png",
+      "keywords": [
+        "bitbuy",
+        "bitbuy.ca"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "fatbtc-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/fatbtc-com.png",
+      "keywords": [
+        "fatbtc",
+        "fatbtc.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "firi-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/firi-com.png",
+      "keywords": [
+        "firi",
+        "firi.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gdac",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/gdac.png",
+      "keywords": [
+        "gdac",
+        "gdac.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "graviex-net",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/graviex-net.png",
+      "keywords": [
+        "graviex",
+        "graviex.net"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kuantist",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/kuantist.png",
+      "keywords": [
+        "kuantist",
+        "kuantist.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "litebit-eu",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/litebit-eu.png",
+      "keywords": [
+        "litebit",
+        "litebit.eu"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "oceanex-pro",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/oceanex-pro.png",
+      "keywords": [
+        "oceanex",
+        "oceanex.pro"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "txbit-io",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/txbit-io.png",
+      "keywords": [
+        "txbit",
+        "txbit.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "vinex-network",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/vinex-network.png",
+      "keywords": [
+        "vinex",
+        "vinex.network"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "baikalmine",
+      "category": "mining",
+      "logo_path": "logos/mining/baikalmine.png",
+      "keywords": [
+        "baikalmine",
+        "baikalmine.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "coinmine-pl",
+      "category": "mining",
+      "logo_path": "logos/mining/coinmine-pl.png",
+      "keywords": [
+        "coinmine.pl",
+        "coinmine pl"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "crazypool",
+      "category": "mining",
+      "logo_path": "logos/mining/crazypool.png",
+      "keywords": [
+        "crazypool",
+        "crazy pool",
+        "crazypool.org"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ethashpool",
+      "category": "mining",
+      "logo_path": "logos/mining/ethashpool.png",
+      "keywords": [
+        "ethashpool",
+        "ethashpool.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ethermine",
+      "category": "mining",
+      "logo_path": "logos/mining/ethermine.png",
+      "keywords": [
+        "ethermine",
+        "ethermine.org"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "gpumine",
+      "category": "mining",
+      "logo_path": "logos/mining/gpumine.png",
+      "keywords": [
+        "gpumine",
+        "gpumine.org"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "matpool",
+      "category": "mining",
+      "logo_path": "logos/mining/matpool.png",
+      "keywords": [
+        "matpool",
+        "matpool.net"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "nanopool",
+      "category": "mining",
+      "logo_path": "logos/mining/nanopool.png",
+      "keywords": [
+        "nanopool",
+        "nanopool.org"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pool2mine",
+      "category": "mining",
+      "logo_path": "logos/mining/pool2mine.png",
+      "keywords": [
+        "pool2mine",
+        "pool2mine.net"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "zet-technologies",
+      "category": "mining",
+      "logo_path": "logos/mining/zet-technologies.png",
+      "keywords": [
+        "zet technologies",
+        "zet-tech.eu",
+        "zetpool"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "genesis-trading",
+      "category": "otc_desk",
+      "logo_path": "logos/otc_desk/genesis-trading.png",
+      "keywords": [
+        "genesis trading",
+        "genesistrading",
+        "genesistrading.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "ramp-network",
+      "category": "psp",
+      "logo_path": "logos/psp/ramp-network.png",
+      "keywords": [
+        "ramp network",
+        "ramp.network",
+        "rampnetwork.com"
       ],
       "product_aliases": [],
       "sanctioned": false

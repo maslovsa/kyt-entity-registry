@@ -3560,3 +3560,50 @@ zbg-com,ZBG,exchange,100,zbg.com,"zbg,zbg global,zbg.com",,manual,2026-11-13,tru
 50x-com,50x,exchange,100,50x.com,"50x,50x.com",,manual,2026-11-13,true,309cf1fd6e5edf2d2d45325b3000f1018585b9bcaa65c64909e822ecbef19644
 unocoin,Unocoin,exchange,50,unocoin.com,"unocoin,unocoin.com",,manual,2026-11-13,true,620180c8c649809aa344d5d581ba04b134a3ff532c38ea77c83e2592358a390c
 pallapay,PallaPay,psp,50,pallapay.com,"pallapay,pallapay.com",,manual,2026-11-13,true,7a3b1c437f671f4183ebc400de590e783e23832fa2397cf0dffd8f3f463ecc60
+voyager-digital,Voyager Digital,custodian,100,investvoyager.com,"voyager digital,investvoyager,investvoyager.com",,manual,2026-11-14,true,0bef4906049968f2e455c156c437b14e621026e8de0d0bce6321c6bca20109de
+abraxas-capital-management,Abraxas Capital Management,defi,50,,"abraxas capital,abraxas capital management",,none,,false,
+defiance-capital,DeFiance Capital,defi,50,defiance.capital,"defiance capital,defiance.capital",,manual,2026-11-14,true,a38d54edc70c47017350da9dafd817ebba4f031e7a9940e22a287893ce6b6dfd
+longling-capital,Longling Capital,defi,50,longling.com,"longling capital,longling.com",,manual,2026-11-14,true,469059c246e9b0c1d30a618e5ee5ed8c9e87aa2edb66df83cc27df092f774ca8
+three-arrows-capital,Three Arrows Capital,defi,100,threearrowscap.com,"three arrows capital,threearrowscap,threearrowscap.com",,manual,2026-11-14,true,4f50d3be81fedc464561bf793de2caf7227de827137a57e34706ac9718fd10d7
+alterdice-com,AlterDice,exchange,50,alterdice.com,"alterdice,alterdice.com",,manual,2026-11-14,true,ac0a8047c017b2ec69c4ca71b20faefe0e263914d15502e47778d40e1e143b15
+anycoin-direct,Anycoin Direct,exchange,50,anycoindirect.eu,"anycoin direct,anycoindirect,anycoindirect.eu",,manual,2026-11-14,true,d126002260f1aeb70bbae6b5879c5ad8280d0967bc98366fc277c9a8a89b11f6
+bitbuy-ca,Bitbuy,exchange,50,bitbuy.ca,"bitbuy,bitbuy.ca",,manual,2026-11-14,true,ed3b1246b96056719b112521879c7ba69441bc67c2682f586263af66d3a11c26
+fatbtc-com,FatBTC,exchange,50,fatbtc.com,"fatbtc,fatbtc.com",,manual,2026-11-14,true,df7a26b27e880cd46d4ade7cbc3cfae5a27eff9d5ce75e735383661b62bc12b2
+firi-com,Firi,exchange,50,firi.com,"firi,firi.com",,manual,2026-11-14,true,417b4462ebd64b8e24a00b125fddddccb79d7414add64eb876ba322b0ed58abe
+gdac,GDAC,exchange,50,gdac.com,"gdac,gdac.com",,manual,2026-11-14,true,91f9c2007c49328200a8f1f1c2f13e8aeff1e4662b4bfe58d76d46c2d307cbc1
+graviex-net,Graviex,exchange,50,graviex.net,"graviex,graviex.net",,manual,2026-11-14,true,fb865d1d26ee3f5829a3a306758424344ef8431d3ce065c695066eb88551bdeb
+kuantist,Kuantist,exchange,50,kuantist.com,"kuantist,kuantist.com",,manual,2026-11-14,true,bc389399383d32eec6e4b0504a390cfe69a556adcdbe6f6c851d3e23e6cd50bb
+litebit-eu,LiteBit,exchange,50,litebit.eu,"litebit,litebit.eu",,manual,2026-11-14,true,f942eed2f9d0e72cd8eb86c1a28bb59c3cb7c7a633d227bf40369f18e2bbf854
+oceanex-pro,OceanEx,exchange,50,oceanex.pro,"oceanex,oceanex.pro",,manual,2026-11-14,true,fcd3b277299828a8fac4f88330f4e0b8eca14b4d30d659a2178fc9909334ad35
+txbit-io,Txbit,exchange,50,txbit.io,"txbit,txbit.io",,manual,2026-11-14,true,5286f3d0b9670c2b3a6f2a60991fb4c799bb59ba778c6fe7a6033a88a3309fad
+vinex-network,Vinex,exchange,50,vinex.network,"vinex,vinex.network",,manual,2026-11-14,true,cdb67b7a8aa1a05b476aef500638bb25a90ba140ec13e8c25acf5c4ae7327355
+clash-gg,Clash.gg,gambling,50,clash.gg,clash.gg,,none,,false,
+alphapool,AlphaPool,mining,50,,alphapool,,none,,false,
+baikalmine,BaikalMine,mining,50,baikalmine.com,"baikalmine,baikalmine.com",,manual,2026-11-14,true,d1e004900651391ed82f46e48b32239ed5984fa317af6f1876f6ea77f702a474
+baypool,Baypool,mining,50,,baypool,,none,,false,
+coinmine-pl,CoinMine.pl,mining,50,coinmine.pl,"coinmine.pl,coinmine pl",,manual,2026-11-14,true,81235b4c80ab29954e04730469cc8c677442fa14e4b66b0dff12fd2f5f1c118e
+comining,Comining,mining,50,comining.io,"comining,comining.io",,none,,false,
+crazypool,Crazy Pool,mining,50,crazypool.org,"crazypool,crazy pool,crazypool.org",,manual,2026-11-14,true,9b0e6572ba66b1eccd5d2f2db953882d5c9896a2faf289132b56dbab3d36377d
+eth-pp-ua,Eth.pp.ua,mining,50,eth.pp.ua,eth.pp.ua,,none,,false,
+ethashpool,EthashPool,mining,50,ethashpool.com,"ethashpool,ethashpool.com",,manual,2026-11-14,true,08500a8d3f9e8a356c3f5d988bf74cc3e8e7e7ba7fd8bcd14e59da54b72b0b0a
+etherdig,EtherDig,mining,50,,etherdig,,none,,false,
+ethermine,Ethermine,mining,100,ethermine.org,"ethermine,ethermine.org",,manual,2026-11-14,true,b896cade567004bbdfa01011f60290beaaeaf1358dd159ebe0f9381f111590d8
+extremehash,ExtremeHash,mining,50,,extremehash,,none,,false,
+firebird-mining-pool,Firebird Mining Pool,mining,50,,"firebird mining pool,firebird pool",,none,,false,
+fkpool,FKPool,mining,50,,fkpool,,none,,false,
+gpumine,GPUMINE Pool,mining,50,gpumine.org,"gpumine,gpumine.org",,manual,2026-11-14,true,886c73b8d2841726d881703c03811c93262f88f8c3db9decd813616055498cec
+hashon-pool,HashON Pool,mining,50,ethash.ninja,"hashon,hashon pool,ethash.ninja",,none,,false,
+kuverapool,KuveraPool,mining,50,,kuverapool,,none,,false,
+matpool,MATPool,mining,50,matpool.net,"matpool,matpool.net",,manual,2026-11-14,true,83ff8a5a4d859b553b9d9db603b2fe940c8a4053a9883381bf079d29a327c7f4
+mining-express,Mining Express,mining,50,,"mining express,miningexpress",,none,,false,
+nanopool,Nanopool,mining,100,nanopool.org,"nanopool,nanopool.org",,manual,2026-11-14,true,4add2396d1196bff0b0cbd15d9c1c62f84c83465a3828c4b824f15ed7617cbf3
+noobpool,NoobPool,mining,50,noobpool.com,"noobpool,noobpool.com",,none,,false,
+pandapool,PandaPool,mining,50,,pandapool,,none,,false,
+pool2mine,Pool2Mine,mining,50,pool2mine.net,"pool2mine,pool2mine.net",,manual,2026-11-14,true,b703d75f4ba07d6ea9ecf919b9a826bbc338caf5d47c8b253b63ccae61903813
+poolhub,PoolHub,mining,50,,poolhub,,none,,false,
+saturnpool,SaturnPool,mining,50,saturnpool.com,"saturnpool,saturnpool.com",,none,,false,
+uleypool,Uleypool,mining,50,uleypool.com,"uleypool,uleypool.com",,none,,false,
+weipool,Weipool,mining,50,weipool.org,"weipool,weipool.org",,none,,false,
+zet-technologies,ZET Technologies,mining,50,zet-tech.eu,"zet technologies,zet-tech.eu,zetpool",,manual,2026-11-14,true,c3939df30d6b37d9608437e5b56f401bfd56670063845e61bb6cd5cc589716c0
+genesis-trading,Genesis Trading,otc_desk,100,genesistrading.com,"genesis trading,genesistrading,genesistrading.com",,manual,2026-11-14,true,7fde74b3f0007d2bc035b4601d79f347838abfaa6fa1d518d2d450c067b1569d
+ramp-network,Ramp Network,psp,100,ramp.network,"ramp network,ramp.network,rampnetwork.com",,manual,2026-11-14,true,4097bc578291035567870f7160dd4d809f754ecdc0d3ed804fe3b0beae97503c
