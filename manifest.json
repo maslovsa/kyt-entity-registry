@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-11-15T08:39:29+00:00",
+  "generated_at": "2026-11-15T08:40:25+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -32654,6 +32654,17 @@
       "sanctioned": false
     },
     {
+      "slug": "abraxas-capital-management",
+      "category": "defi",
+      "logo_path": "logos/defi/abraxas-capital-management.png",
+      "keywords": [
+        "abraxas capital",
+        "abraxas capital management"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "defiance-capital",
       "category": "defi",
       "logo_path": "logos/defi/defiance-capital.png",
@@ -32821,6 +32832,26 @@
       "sanctioned": false
     },
     {
+      "slug": "clash-gg",
+      "category": "gambling",
+      "logo_path": "logos/gambling/clash-gg.png",
+      "keywords": [
+        "clash.gg"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "alphapool",
+      "category": "mining",
+      "logo_path": "logos/mining/alphapool.png",
+      "keywords": [
+        "alphapool"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "baikalmine",
       "category": "mining",
       "logo_path": "logos/mining/baikalmine.png",
@@ -32832,12 +32863,33 @@
       "sanctioned": false
     },
     {
+      "slug": "baypool",
+      "category": "mining",
+      "logo_path": "logos/mining/baypool.png",
+      "keywords": [
+        "baypool"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "coinmine-pl",
       "category": "mining",
       "logo_path": "logos/mining/coinmine-pl.png",
       "keywords": [
         "coinmine.pl",
         "coinmine pl"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "comining",
+      "category": "mining",
+      "logo_path": "logos/mining/comining.png",
+      "keywords": [
+        "comining",
+        "comining.io"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -32855,12 +32907,32 @@
       "sanctioned": false
     },
     {
+      "slug": "eth-pp-ua",
+      "category": "mining",
+      "logo_path": "logos/mining/eth-pp-ua.png",
+      "keywords": [
+        "eth.pp.ua"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "ethashpool",
       "category": "mining",
       "logo_path": "logos/mining/ethashpool.png",
       "keywords": [
         "ethashpool",
         "ethashpool.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "etherdig",
+      "category": "mining",
+      "logo_path": "logos/mining/etherdig.png",
+      "keywords": [
+        "etherdig"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -32877,12 +32949,65 @@
       "sanctioned": false
     },
     {
+      "slug": "extremehash",
+      "category": "mining",
+      "logo_path": "logos/mining/extremehash.png",
+      "keywords": [
+        "extremehash"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "firebird-mining-pool",
+      "category": "mining",
+      "logo_path": "logos/mining/firebird-mining-pool.png",
+      "keywords": [
+        "firebird mining pool",
+        "firebird pool"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "fkpool",
+      "category": "mining",
+      "logo_path": "logos/mining/fkpool.png",
+      "keywords": [
+        "fkpool"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "gpumine",
       "category": "mining",
       "logo_path": "logos/mining/gpumine.png",
       "keywords": [
         "gpumine",
         "gpumine.org"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "hashon-pool",
+      "category": "mining",
+      "logo_path": "logos/mining/hashon-pool.png",
+      "keywords": [
+        "hashon",
+        "hashon pool",
+        "ethash.ninja"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "kuverapool",
+      "category": "mining",
+      "logo_path": "logos/mining/kuverapool.png",
+      "keywords": [
+        "kuverapool"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -32899,6 +33024,17 @@
       "sanctioned": false
     },
     {
+      "slug": "mining-express",
+      "category": "mining",
+      "logo_path": "logos/mining/mining-express.png",
+      "keywords": [
+        "mining express",
+        "miningexpress"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "nanopool",
       "category": "mining",
       "logo_path": "logos/mining/nanopool.png",
@@ -32910,12 +33046,76 @@
       "sanctioned": false
     },
     {
+      "slug": "noobpool",
+      "category": "mining",
+      "logo_path": "logos/mining/noobpool.png",
+      "keywords": [
+        "noobpool",
+        "noobpool.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pandapool",
+      "category": "mining",
+      "logo_path": "logos/mining/pandapool.png",
+      "keywords": [
+        "pandapool"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
       "slug": "pool2mine",
       "category": "mining",
       "logo_path": "logos/mining/pool2mine.png",
       "keywords": [
         "pool2mine",
         "pool2mine.net"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "poolhub",
+      "category": "mining",
+      "logo_path": "logos/mining/poolhub.png",
+      "keywords": [
+        "poolhub"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "saturnpool",
+      "category": "mining",
+      "logo_path": "logos/mining/saturnpool.png",
+      "keywords": [
+        "saturnpool",
+        "saturnpool.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "uleypool",
+      "category": "mining",
+      "logo_path": "logos/mining/uleypool.png",
+      "keywords": [
+        "uleypool",
+        "uleypool.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "weipool",
+      "category": "mining",
+      "logo_path": "logos/mining/weipool.png",
+      "keywords": [
+        "weipool",
+        "weipool.org"
       ],
       "product_aliases": [],
       "sanctioned": false
