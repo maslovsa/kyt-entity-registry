@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-11-15T08:40:25+00:00",
+  "generated_at": "2026-11-15T09:44:10+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -1512,13 +1512,30 @@
       "sanctioned": false
     },
     {
-      "slug": "mirror",
+      "slug": "mirror-protocol",
       "category": "defi",
-      "logo_path": "logos/defi/mirror.png",
+      "logo_path": "logos/defi/mirror-protocol.png",
       "keywords": [
-        "mirror"
+        "mirror protocol",
+        "wrapped mirror",
+        "mirrorprotocol.app",
+        "mirror.finance"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mirror-xyz",
+      "category": "nft_marketplace",
+      "logo_path": "logos/nft_marketplace/mirror-xyz.png",
+      "keywords": [
+        "mirror",
+        "mirror.xyz"
       ],
       "product_aliases": [
+        "mirror (mirror)",
+        "mirror protocol",
+        "wrapped mirror",
         "mirror trading",
         "fine labs mirror",
         "btc mirror",
