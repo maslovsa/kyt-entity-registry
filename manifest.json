@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-11-15T09:44:10+00:00",
+  "generated_at": "2026-11-16T14:17:09+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -33169,6 +33169,85 @@
         "ramp network",
         "ramp.network",
         "rampnetwork.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitcointry-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bitcointry-com.png",
+      "keywords": [
+        "bitcointry",
+        "bitcointry.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bitomato-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bitomato-com.png",
+      "keywords": [
+        "bitomato",
+        "bitomato.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bexc-io",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bexc-io.png",
+      "keywords": [
+        "byte exchange",
+        "bexc.io",
+        "bytedex"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "grovex-io",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/grovex-io.png",
+      "keywords": [
+        "grovex",
+        "grovex.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "niza-io",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/niza-io.png",
+      "keywords": [
+        "niza",
+        "niza.io",
+        "niza global"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "sclite",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/sclite.png",
+      "keywords": [
+        "sclite",
+        "sclite.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "webot",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/webot.png",
+      "keywords": [
+        "webot",
+        "webot.com"
       ],
       "product_aliases": [],
       "sanctioned": false

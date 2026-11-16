@@ -3609,3 +3609,10 @@ weipool,Weipool,mining,50,weipool.org,"weipool,weipool.org",,synthetic,2026-11-1
 zet-technologies,ZET Technologies,mining,50,zet-tech.eu,"zet technologies,zet-tech.eu,zetpool",,manual,2026-11-14,true,c3939df30d6b37d9608437e5b56f401bfd56670063845e61bb6cd5cc589716c0
 genesis-trading,Genesis Trading,otc_desk,100,genesistrading.com,"genesis trading,genesistrading,genesistrading.com",,manual,2026-11-14,true,7fde74b3f0007d2bc035b4601d79f347838abfaa6fa1d518d2d450c067b1569d
 ramp-network,Ramp Network,psp,100,ramp.network,"ramp network,ramp.network,rampnetwork.com",,manual,2026-11-14,true,4097bc578291035567870f7160dd4d809f754ecdc0d3ed804fe3b0beae97503c
+bitcointry-com,Bitcointry,exchange,50.0,bitcointry.com,"bitcointry,bitcointry.com",,manual,2026-11-16,true,40d7bb45c8b216ceb847b7a3d9741362904bc19b546ad6d06586fb3dd9747192
+bitomato-com,BiTomato,exchange,50.0,bitomato.com,"bitomato,bitomato.com",,manual,2026-11-16,true,321376488ca1a3de1c7dc15aa38b5148f28a4a681f08757bae4565f58621c05c
+bexc-io,Byte Exchange,exchange,50.0,bexc.io,"byte exchange,bexc.io,bytedex",,manual,2026-11-16,true,69a05dad7bd70556fdcb6c56efd795e76de31f9ca53eca1d8ec4621bc8ca90cf
+grovex-io,GroveX,exchange,50.0,grovex.io,"grovex,grovex.io",,manual,2026-11-16,true,176cc42a9649a0da14dc05add97e98fda80c9fe32635487328e59399353e24e4
+niza-io,Niza,exchange,50.0,niza.io,"niza,niza.io,niza global",,manual,2026-11-16,true,0ec3914d9e79b46de6f348774b675f49cd66077f888dcd393c42f5f1eb7970d8
+sclite,SCLiTE,exchange,50.0,sclite.io,"sclite,sclite.io",,manual,2026-11-16,true,5c9126e393fdd003f3ae863a79c26e5337889cfae35efa4b9aa924ea45534b8e
+webot,Webot,exchange,50.0,webot.com,"webot,webot.com",,manual,2026-11-16,true,a2f4b49db7bbb362dabfc2cf61e7efec484e17d08feac4d2e062ad8d56a5a895
