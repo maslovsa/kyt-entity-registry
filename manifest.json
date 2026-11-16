@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-11-16T14:52:23+00:00",
+  "generated_at": "2026-11-16T16:49:05+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -33221,6 +33221,39 @@
       "keywords": [
         "webot",
         "webot.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "paymium-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/paymium-com.png",
+      "keywords": [
+        "paymium",
+        "paymium.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bittrade-co-jp",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/bittrade-co-jp.png",
+      "keywords": [
+        "bittrade",
+        "bittrade.co.jp"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "tokpie-io",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/tokpie-io.png",
+      "keywords": [
+        "tokpie",
+        "tokpie.io"
       ],
       "product_aliases": [],
       "sanctioned": false
