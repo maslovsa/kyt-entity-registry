@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-11-16T14:17:09+00:00",
+  "generated_at": "2026-11-16T14:52:23+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -25385,7 +25385,8 @@
       "logo_path": "logos/exchanges/cryptology-com.png",
       "keywords": [
         "cryptology",
-        "cryptology.com"
+        "cryptology.com",
+        "tothemoon"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -26105,22 +26106,15 @@
       "sanctioned": false
     },
     {
-      "slug": "woo-network",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/woo-network.png",
-      "keywords": [
-        "woo network"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "woox",
       "category": "exchange",
       "logo_path": "logos/exchanges/woox.png",
       "keywords": [
         "woox",
-        "woo x"
+        "woo x",
+        "woo network",
+        "woo org",
+        "woo.org"
       ],
       "product_aliases": [],
       "sanctioned": false
@@ -31174,16 +31168,6 @@
       "sanctioned": false
     },
     {
-      "slug": "tothemoon",
-      "category": "defi",
-      "logo_path": "logos/defi/tothemoon.png",
-      "keywords": [
-        "tothemoon"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
       "slug": "paraspace",
       "category": "defi",
       "logo_path": "logos/defi/paraspace.png",
@@ -31688,17 +31672,6 @@
       "keywords": [
         "trakx io",
         "trakx.io"
-      ],
-      "product_aliases": [],
-      "sanctioned": false
-    },
-    {
-      "slug": "woo-org",
-      "category": "exchange",
-      "logo_path": "logos/exchanges/woo-org.png",
-      "keywords": [
-        "woo org",
-        "woo.org"
       ],
       "product_aliases": [],
       "sanctioned": false

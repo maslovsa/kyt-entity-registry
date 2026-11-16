@@ -2380,7 +2380,7 @@ curve-fi,Curve.fi,dex,100,curve.fi,"curve.fi,curve",,fetched,2026-05-26,false,1c
 overnight,Overnight,defi,89.1,,overnight,,fetched,2026-06-19,false,68f47b7b2221ed2dd972fff368dce8d7e01850a0b7df9c472c3ec0851b9b6285
 bitkan-com,BitKan.com,exchange,52.5,bitkan.com,bitkan,,fetched,2026-05-26,false,b7455c28577fb2c0ee22063c30f0e613b3d49bbf8b9db9f98fa5d447d3f04d18
 goldfinch,Goldfinch,defi,90.3,,goldfinch,,fetched,2026-06-19,false,5a604f7c32c4a5cc22e38bb59ebc5140e90353ed8bbaf670c7d083451da7d0f6
-cryptology-com,Cryptology.com,exchange,90.1,cryptology.com,"cryptology,cryptology.com",,fetched,2026-05-26,false,453869d04c976eec59b56c7d30c9b3058cf29c804bfb91ff4c0d47e76a337fcd
+cryptology-com,Tothemoon (ex-Cryptology),exchange,90.1,tothemoon.com,"cryptology,cryptology.com,tothemoon",,manual,2026-11-16,true,5fbb2ac3ce48a729760135cbf1346b7f8e98a76330cda8ed0e861c431673456b
 sun-io,Sun.io,dex,78.8,sun.io,"sun.io,sun,sun io,sun-token",,fetched,2026-05-26,false,759da959f9a51d018e4374e9e7d1871d695dad951132bc27355090ab404078ec
 alameda-research,Alameda Research,defi,47.7,,"alameda,alameda research",,placeholder,2026-05-09,true,
 citybit,CityBit,exchange,89.7,,citybit,,manual,2026-05-13,true,25143a67c3b203c181ecdd067f16061e2091c0e0860ef733441f1144b1fe3f4b
@@ -2453,8 +2453,7 @@ odos-xyz,Odos.xyz,bridge,86.8,odos.xyz,"odos.xyz,odos",,fetched,2026-05-26,false
 relay-link,Relay.link,bridge,78.3,relay.link,"relay.link,relay-link",,fetched,2026-05-26,false,d743a0506361a1eb5b117ca9d2d16f9c29667df6d61ad5623dcfe0a0fc85dd7f
 sideshift-ai,SideShift.ai,dex,66.0,sideshift.ai,"sideshift.ai,sideshift-ai",,fetched,2026-05-26,false,23b11a2be0e6f05c6b9d800b309064638ca883e0e865b3e6c9e9d8a9d19ddc40
 stargate-finance,Stargate.finance,bridge,86.8,stargate.finance,"stargate.finance,stargate",,fetched,2026-05-26,false,4d435d73f333938f574a7eda8572c5406823f5755b204c412956ab5badf6a1c8
-woo-network,WOO Network,exchange,86.8,,woo network,,fetched,2026-05-26,false,eaa7606543229b26ee7073ad252c67e16d7a738cf45b8d75fe3bf52f7bdc427c
-woox,Woox,exchange,41.2,,"woox,woo x",,manual,2026-05-13,true,4275380f935ec393a3637ab428e497f24fefc9922972ec6b5a4bdb2856a016d3
+woox,WOO X,exchange,41.2,woo.org,"woox,woo x,woo network,woo org,woo.org",,manual,2026-05-13,true,4275380f935ec393a3637ab428e497f24fefc9922972ec6b5a4bdb2856a016d3
 zoomex-com,Zoomex.com,exchange,42.0,zoomex.com,"zoomex,zoomex.com",,fetched,2026-05-26,false,9d65f6d42a2bf543cb79dc0c11a733a7e327c79684899ba0a0709efb52bb61bb
 across-protocol,Across Protocol,bridge,86.0,across.to,"across,across-protocol",,fetched,2026-05-26,false,8e373326a63c5357a6f73e5fcdd4068def9cc85f7277c77397988173d9449ead
 big-one,Big.one,exchange,100,big.one,"big,big one,big.one,bigone",,fetched,2026-05-26,false,062d62b3aee6c158cb0f7a46cb34677297ee2cde9f241713577d14511ffc81d4
@@ -3048,7 +3047,6 @@ julswap,Julswap,dex,44.2,,julswap,,fetched,2026-05-26,false,e1c59059b242cf0bb546
 ofac-sdn-parsarad-behrouz,OFAC SDN: Parsarad Behrouz پارسا راد بهروز,sanctioned,44.0,,,,synthetic,2026-08-17,false,ca65d7dd31fa4869b378eb342d18b6a9936395902d4f15a615b9395f97f5f694
 inuko,INUKO,defi,43.4,,,,synthetic,2026-08-17,false,3883fe646c0ad6efcb42ce3b12d4a6a72830af802cc64372a15acac38f200779
 olympus,Olympus,defi,43.4,,olympus,,fetched,2026-06-19,false,9dcb3f78ac7c8f2bd16aedd9135e18c89c378a947b9c5fd355c0d5aed19370f3
-tothemoon,tothemoon,defi,42.7,,tothemoon,,fetched,2026-05-11,false,5fbb2ac3ce48a729760135cbf1346b7f8e98a76330cda8ed0e861c431673456b
 card-onekey-so,Card.onekey.so,wallet,100,card.onekey.so,,,favicon,2026-05-26,false,53b4626bb77035ec043db5e80172008bd3051a0b5fd4baf63174c18970bef22b
 paraspace,paraspace,defi,42.0,,paraspace,,fetched,2026-05-11,false,8641206a233d687d2130acd8e78e7ab95c97ae4907a64ceffd96f2aa110c31d9
 indx,indx,defi,41.3,,indx,,fetched,2026-05-11,false,8a2b3da47a198fe51756fb3e0235ead206c766623a4521d827be17ed30abc65d
@@ -3096,7 +3094,6 @@ sfox-com,SFOX.com,otc_desk,50.0,sfox.com,"sfox com,sfox.com",,manual,2026-08-30,
 simplecoin-eu,Simplecoin.eu,exchange,50.0,simplecoin.eu,"simplecoin eu,simplecoin.eu",,manual,2026-08-30,true,b7d410f619f0266467bf676e4e5eb8374045538dc352a866c3c4108a926d17c0
 solidi-co,Solidi.co,exchange,50.0,solidi.co,"solidi co,solidi.co",,manual,2026-08-30,true,97048c1c7689af6df8ef2aa9816386ec6120107d3407253f40a96ed779ae721b
 trakx-io,Trakx.io,custodian,50.0,trakx.io,"trakx io,trakx.io",,manual,2026-08-30,true,49e6306fffae8395d635f1d3b4242dfe3d2ec4bff3ef93dbc3a4a0045421aa4d
-woo-org,WOO.org,exchange,50.0,woo.org,"woo org,woo.org",,manual,2026-08-30,true,690cf1694b3137916d7a8ecbe86dcf34163dc826afc638ddc7400fba2b053a58
 9jacash-com,9jaCash.com,exchange,50.0,9jacash.com,"9jacash com,9jacash.com",,manual,2026-09-01,true,aaad9ee35a95c6c13dd5afb8063dfdba73f8452009e3ff600a09df012324e979
 cryptofiat-finance,CryptoFiat.finance,exchange,50.0,cryptofiat.finance,"cryptofiat finance,cryptofiat.finance",,manual,2026-09-01,true,2fbeb67973d7fb6483c5a5a1c9ed945cd63e4d96a828d5690cd00ae3a239cda7
 naira4dollar-com,Naira4Dollar.com,exchange,50.0,naira4dollar.com,"naira4dollar com,naira4dollar.com",,manual,2026-09-01,true,229a884fccfb078254b8d336ef959dd920f892caffc01f814e5fed5c5a2b3bbb
@@ -3544,7 +3541,7 @@ shakepay,Shakepay,exchange,41.0,,,,none,,false,
 sunswap,SunSwap,dex,40.6,,,,none,,false,
 sparrow,Sparrow Exchange,exchange,40.5,,,,none,,false,
 winning-poker,Winning Poker Network,gambling,40.0,,,,none,,false,
-wagyu-xyz,Wagyu.xyz,exchange,80,wagyu.xyz,"wagyu.xyz",,manual,2026-10-30,true,6c09c90773d8a9701b6e4d894fec002bc73bf673d751169065d3946a8b73cfe8
+wagyu-xyz,Wagyu.xyz,exchange,80,wagyu.xyz,wagyu.xyz,,manual,2026-10-30,true,6c09c90773d8a9701b6e4d894fec002bc73bf673d751169065d3946a8b73cfe8
 zymfi-com,zymFi,defi,60,zymfi.com,"zymfi,zymfi.com",,manual,2026-11-04,true,e26cf1ccc073b3f611aa89f103b0d4938cc558dd9d28ee0a86004a2ae3b56423
 betonline-ag,BetOnline.ag,gambling,60,betonline.ag,betonline,,manual,2026-11-07,true,f735e6370f5981f17023dcf04915f2b50c97086764760729626166dd42a29165
 kibo-lotto,Kibo Lotto,gambling,60,kiboplatform.net,"kibo lotto,kiboplatform",,manual,2026-11-07,true,d6f3250e0c754a944eafcc78b05912744dfe5305fd12fb1740fdd385ee247cc9
