@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-11-18T17:36:19+00:00",
+  "generated_at": "2026-11-18T17:41:39+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -33287,6 +33287,29 @@
       "keywords": [
         "polkamarkets",
         "polkamarkets.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "moonroll-io",
+      "category": "gambling",
+      "logo_path": "logos/gambling/moonroll-io.png",
+      "keywords": [
+        "moon roll",
+        "moonroll",
+        "moonroll.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "overtimemarkets-xyz",
+      "category": "gambling",
+      "logo_path": "logos/gambling/overtimemarkets-xyz.png",
+      "keywords": [
+        "overtime markets",
+        "overtimemarkets.xyz"
       ],
       "product_aliases": [],
       "sanctioned": false
