@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-11-16T17:50:04+00:00",
+  "generated_at": "2026-11-18T17:36:19+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -33276,6 +33276,17 @@
       "keywords": [
         "bitazza",
         "bitazza.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "polkamarkets-com",
+      "category": "gambling",
+      "logo_path": "logos/gambling/polkamarkets-com.png",
+      "keywords": [
+        "polkamarkets",
+        "polkamarkets.com"
       ],
       "product_aliases": [],
       "sanctioned": false
