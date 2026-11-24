@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-11-21T05:58:31+00:00",
+  "generated_at": "2026-11-24T15:20:05+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -33322,6 +33322,61 @@
         "eezy.cash",
         "eezy-cash",
         "eezycash"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "mybookie-ag",
+      "category": "gambling",
+      "logo_path": "logos/gambling/mybookie-ag.png",
+      "keywords": [
+        "mybookie",
+        "mybookie.ag"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "freebitco-in",
+      "category": "gambling",
+      "logo_path": "logos/gambling/freebitco-in.png",
+      "keywords": [
+        "freebitco.in",
+        "freebitcoin"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "luckyfish-io",
+      "category": "gambling",
+      "logo_path": "logos/gambling/luckyfish-io.png",
+      "keywords": [
+        "luckyfish",
+        "luckyfish.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "pocketrocketscasino-eu",
+      "category": "gambling",
+      "logo_path": "logos/gambling/pocketrocketscasino-eu.png",
+      "keywords": [
+        "pocket rockets casino",
+        "pocketrocketscasino"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "boxbet-app",
+      "category": "gambling",
+      "logo_path": "logos/gambling/boxbet-app.png",
+      "keywords": [
+        "boxbet",
+        "boxbet.io"
       ],
       "product_aliases": [],
       "sanctioned": false
