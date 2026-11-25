@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-11-24T15:20:05+00:00",
+  "generated_at": "2026-11-25T17:35:33+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -33377,6 +33377,17 @@
       "keywords": [
         "boxbet",
         "boxbet.io"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "geekchange-com",
+      "category": "exchange",
+      "logo_path": "logos/exchanges/geekchange-com.png",
+      "keywords": [
+        "geekchange",
+        "geekchange.com"
       ],
       "product_aliases": [],
       "sanctioned": false
