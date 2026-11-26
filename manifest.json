@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-11-25T17:35:33+00:00",
+  "generated_at": "2026-11-26T12:53:44+00:00",
   "entries": [
     {
       "slug": "catfee",
@@ -33388,6 +33388,20 @@
       "keywords": [
         "geekchange",
         "geekchange.com"
+      ],
+      "product_aliases": [],
+      "sanctioned": false
+    },
+    {
+      "slug": "bank-of-east-asia",
+      "category": "bank",
+      "logo_path": "logos/bank/bank-of-east-asia.png",
+      "keywords": [
+        "bank of east asia",
+        "the bank of east asia",
+        "bank-of-east-asia",
+        "hkbea",
+        "hkbea.com"
       ],
       "product_aliases": [],
       "sanctioned": false
